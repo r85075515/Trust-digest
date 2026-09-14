@@ -10,12 +10,16 @@ export interface FeedSource {
   id: string;
   name: string;
   url: string;
-  category: Exclude<Category, "adult">;
+  category: Category;
   language: "zh-TW" | "en" | "mixed";
   domain: string;
 }
 
-/** Curated allow-list (verified HTTP 200 at last ingest design). Adult feeds excluded in v1. */
+/**
+ * Curated allow-list (verified HTTP 200).
+ * Entertainment = celebrity / pop culture (K-pop, J-pop, Hollywood, TW/HK/CN idols) — NOT Broadway reviews or film-festival academia.
+ * Society = crime, accidents, public safety, civic incidents — not geopolitics or pure finance.
+ */
 export const ALLOWED_FEEDS: FeedSource[] = [
   // International
   {
@@ -165,7 +169,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     language: "en",
     domain: "blog.google",
   },
-  // Entertainment
+  // Entertainment — celebrity / pop culture (TW·CN·JP·KR·US/EU)
   {
     id: "billboard",
     name: "Billboard",
@@ -175,20 +179,117 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     domain: "billboard.com",
   },
   {
-    id: "variety",
-    name: "Variety",
-    url: "https://variety.com/feed/",
+    id: "rollingstone-music",
+    name: "Rolling Stone Music",
+    url: "https://www.rollingstone.com/music/music-news/feed/",
     category: "entertainment",
     language: "en",
-    domain: "variety.com",
+    domain: "rollingstone.com",
   },
   {
-    id: "deadline",
-    name: "Deadline",
-    url: "https://deadline.com/feed/",
+    id: "soompi",
+    name: "Soompi",
+    url: "https://www.soompi.com/feed",
     category: "entertainment",
     language: "en",
-    domain: "deadline.com",
+    domain: "soompi.com",
+  },
+  {
+    id: "koreaboo",
+    name: "Koreaboo",
+    url: "https://www.koreaboo.com/feed/",
+    category: "entertainment",
+    language: "en",
+    domain: "koreaboo.com",
+  },
+  {
+    id: "tmz",
+    name: "TMZ",
+    url: "https://www.tmz.com/rss.xml",
+    category: "entertainment",
+    language: "en",
+    domain: "tmz.com",
+  },
+  {
+    id: "hollywood-life",
+    name: "Hollywood Life",
+    url: "https://hollywoodlife.com/feed/",
+    category: "entertainment",
+    language: "en",
+    domain: "hollywoodlife.com",
+  },
+  {
+    id: "just-jared",
+    name: "Just Jared",
+    url: "https://www.justjared.com/feed/",
+    category: "entertainment",
+    language: "en",
+    domain: "justjared.com",
+  },
+  {
+    id: "et-online",
+    name: "ET Online",
+    url: "https://www.etonline.com/news/rss",
+    category: "entertainment",
+    language: "en",
+    domain: "etonline.com",
+  },
+  {
+    id: "bbc-entertainment",
+    name: "BBC Entertainment",
+    url: "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+    category: "entertainment",
+    language: "en",
+    domain: "bbc.com",
+  },
+  // Society — crime, accidents, public safety, civic incidents
+  {
+    id: "cbs-crime",
+    name: "CBS News Crime",
+    url: "https://www.cbsnews.com/latest/rss/crime",
+    category: "society",
+    language: "en",
+    domain: "cbsnews.com",
+  },
+  {
+    id: "sky-uk",
+    name: "Sky News UK",
+    url: "https://feeds.skynews.com/feeds/rss/uk.xml",
+    category: "society",
+    language: "en",
+    domain: "news.sky.com",
+  },
+  {
+    id: "bbc-uk",
+    name: "BBC UK",
+    url: "https://feeds.bbci.co.uk/news/uk/rss.xml",
+    category: "society",
+    language: "en",
+    domain: "bbc.com",
+  },
+  {
+    id: "latimes-california",
+    name: "LA Times California",
+    url: "https://www.latimes.com/california/rss2.0.xml",
+    category: "society",
+    language: "en",
+    domain: "latimes.com",
+  },
+  {
+    id: "guardian-uk-news",
+    name: "The Guardian UK News",
+    url: "https://www.theguardian.com/uk-news/rss",
+    category: "society",
+    language: "en",
+    domain: "theguardian.com",
+  },
+  {
+    id: "npr-news",
+    name: "NPR News",
+    url: "https://feeds.npr.org/1001/rss.xml",
+    category: "society",
+    language: "en",
+    domain: "npr.org",
   },
   // Beauty
   {
@@ -237,9 +338,17 @@ export const OUTLET_REPUTATION: Record<string, number> = {
   "blog.google": 18,
   "openai.com": 16,
   "billboard.com": 16,
-  "variety.com": 17,
-  "deadline.com": 15,
-  "hollywood.com": 16,
+  "rollingstone.com": 17,
+  "soompi.com": 14,
+  "koreaboo.com": 13,
+  "tmz.com": 12,
+  "hollywoodlife.com": 12,
+  "justjared.com": 12,
+  "etonline.com": 14,
+  "cbsnews.com": 20,
+  "news.sky.com": 18,
+  "sky.com": 18,
+  "latimes.com": 19,
   "allure.com": 15,
   "fashionista.com": 14,
   "nasa.gov": 22,
@@ -252,7 +361,7 @@ export interface RawFeedItem {
   feedId: string;
   outletName: string;
   domain: string;
-  category: Exclude<Category, "adult">;
+  category: Category;
   title: string;
   link: string;
   pubDate: string;
@@ -261,7 +370,7 @@ export interface RawFeedItem {
 }
 
 export interface StoryCluster {
-  category: Exclude<Category, "adult">;
+  category: Category;
   members: RawFeedItem[];
   primaryTitle: string;
   bestImage?: string;
@@ -280,6 +389,136 @@ const STOP = new Set([
   "how", "what", "when", "where", "who", "which", "why", "new", "says", "say",
   "said", "report", "reports", "amid", "via", "per", "vs", "vs.",
 ]);
+
+/** Celebrity / pop-culture signals (K-pop, J-pop, Hollywood, TW/HK/CN idols). */
+const ENTERTAINMENT_POSITIVE = [
+  "k-pop", "kpop", "j-pop", "jpop", "blackpink", "bts", "twice", "stray kids",
+  "aespa", "newjeans", "seventeen", "exo", "nct", "ive", "itzy", "black pink",
+  "jennie", "rosé", "jisoo", "jungkook", "taylor swift", "beyoncé",
+  "beyonce", "lady gaga", "drake", "rihanna", "ariana grande", "billie eilish",
+  "hollywood", "celebrity", "celebrities", "celeb", "k-pop idol", "idol group",
+  "new album", "debut album", "grammy", "oscars", "emmys", "emmy awards",
+  "red carpet", "paparazzi", "box office", "comeback stage",
+  "music video", "billboard hot", "concert tour", "world tour",
+  "welcomes baby", "baby with", "showbiz", "gossip", "tmz",
+  "pop star", "pop singer", "rapper", "actress", "movie star",
+  "le sserafim", "riize", "enhypen", "ateez", "g-dragon",
+  "jay chou", "jj lin", "tfboys", "xiao zhan", "wang yibo",
+  "akb48", "hikaru utada", "yoasobi", "soompi", "koreaboo",
+  "sydney sweeney", "hayden panettiere", "walking dead", "netflix series",
+  "charli xcx", "my chemical romance", "gerard way", "carrie underwood",
+  "jeongyeon", "yunjin", "jungkook", "diljit dosanjh",
+];
+
+/** Wrong-direction entertainment: festivals academia, Broadway reviews, ferry misc. */
+const ENTERTAINMENT_NEGATIVE = [
+  "broadway review", "off-broadway", "film festival lineup", "film festival unveils",
+  "student academy", "documentary film festival", "visions forum", "tiff debut",
+  "ciudad de la luz", "ferry", "academic", "lifetime achievement award ceremony lineup",
+  "grand prix at deauville", "production at", "developing debut feature",
+  "posts fresh deals for", "industry remember legendary",
+];
+
+/** Society / civic incident signals. */
+const SOCIETY_POSITIVE = [
+  "murder", "killed", "killing", "stabbed", "shooting", "shot dead", "homicide",
+  "arrested", "arrest", "suspect", "crime", "robbery", "assault", "rape",
+  "car crash", "crash", "collision", "accident", "fatal", "died in",
+  "earthquake", "flood", "wildfire", "typhoon", "hurricane", "disaster",
+  "explosion", "fire engulfs", "building collapse", "mass shooting",
+  "police", "jailed", "sentenced", "court hears", "missing person",
+  "public safety", "evacuation", "landslide", "train derail", "bus crash",
+  "hit-and-run", "domestic violence", "scam targeting", "extradited",
+  "speedboat killer", "holdout juror", "found hanging", "deported",
+  "minibike", "mclaren crash",
+];
+
+/** Geopolitics / finance that should NOT stay in society. */
+const SOCIETY_NEGATIVE = [
+  "nato", "ukraine war", "ceasefire talks", "stock market", "interest rate",
+  "federal reserve", "inflation data", "gdp ", "election poll", "parliament vote",
+  "crypto donations", "party donations", "human rights ai", "geopolitics",
+];
+
+function includesAny(hay: string, needles: string[]): boolean {
+  return needles.some((n) => {
+    const escaped = n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    // Phrase / token boundary match (avoid "actor" in "factor", "rose" in "arose")
+    const re = new RegExp(
+      `(^|[^a-z0-9])${escaped}([^a-z0-9]|$)`,
+      "i"
+    );
+    return re.test(hay);
+  });
+}
+
+/**
+ * Retune category from feed default using title/snippet heuristics.
+ * Returns null if the item should be dropped (wrong-direction entertainment).
+ */
+export function resolveCategory(
+  feedCategory: Category,
+  title: string,
+  description: string
+): Category | null {
+  const text = `${title} ${description}`.toLowerCase();
+
+  // Drop clear non-celeb industry/festival noise from entertainment feeds
+  if (
+    feedCategory === "entertainment" &&
+    includesAny(text, ENTERTAINMENT_NEGATIVE) &&
+    !includesAny(text, ENTERTAINMENT_POSITIVE)
+  ) {
+    return null;
+  }
+
+  // Keep entertainment-feed items as entertainment (already filtered negatives)
+  if (feedCategory === "entertainment") {
+    return "entertainment";
+  }
+
+  // Strong celebrity signals from other feeds → entertainment
+  if (includesAny(text, ENTERTAINMENT_POSITIVE)) {
+    if (feedCategory === "finance" || feedCategory === "tech" || feedCategory === "ai") {
+      return feedCategory; // don't steal product/market news
+    }
+    return "entertainment";
+  }
+
+  // Society feeds are mixed (UK politics + crime). Keep only incident-like items.
+  if (feedCategory === "society") {
+    if (includesAny(text, SOCIETY_POSITIVE)) {
+      return "society";
+    }
+    // AI policy, parliament, macro politics → international (or finance if money)
+    if (
+      /\b(ai|artificial intelligence|mps?|lords|parliament|election|minister|gdp|inflation|interest rate)\b/i.test(
+        text
+      )
+    ) {
+      return "international";
+    }
+    // soft keep if crime-adjacent verbs, else international
+    if (
+      /\b(kill|killed|jailed|arrest|crash|murder|assault|stab|shoot|disaster|flood|fire|missing)\b/i.test(
+        text
+      )
+    ) {
+      return "society";
+    }
+    return "international";
+  }
+
+  if (
+    feedCategory === "international" &&
+    includesAny(text, SOCIETY_POSITIVE) &&
+    !includesAny(text, SOCIETY_NEGATIVE)
+  ) {
+    return "society";
+  }
+
+  return feedCategory;
+}
 
 export function tokenize(text: string): Set<string> {
   return new Set(
@@ -361,7 +600,7 @@ export function clusterItems(
         : new Date().toISOString();
 
       clusters.push({
-        category: category as Exclude<Category, "adult">,
+        category: category as Category,
         members,
         primaryTitle: primary.title,
         bestImage,
@@ -498,8 +737,17 @@ const TRENDING_KEYWORDS = [
   "inflation",
   "oscar",
   "grammy",
+  "emmy",
   "super bowl",
   "viral",
+  "k-pop",
+  "blackpink",
+  "bts",
+  "lady gaga",
+  "taylor swift",
+  "murder",
+  "arrested",
+  "shooting",
 ];
 
 export function isPopularCluster(cluster: StoryCluster): boolean {
@@ -513,7 +761,7 @@ export function isHeadlineCandidate(
   breakdown: TrustBreakdown,
   trustScore: number
 ): boolean {
-  const highRepCats: Category[] = ["international", "finance", "tech", "ai"];
+  const highRepCats: Category[] = ["international", "finance", "tech", "ai", "society"];
   if (
     highRepCats.includes(cluster.category) &&
     cluster.members.length >= 2 &&
@@ -646,23 +894,67 @@ export function buildExtractiveDigest(cluster: StoryCluster): {
 export function pickBalancedClusters(
   clusters: StoryCluster[],
   targetMin = 12,
-  targetMax = 24
+  targetMax = 26
 ): StoryCluster[] {
   const perCatTarget: Record<string, number> = {
-    international: 4,
-    finance: 4,
-    tech: 4,
-    ai: 3,
-    entertainment: 4,
-    beauty: 3,
+    international: 3,
+    finance: 3,
+    tech: 3,
+    ai: 2,
+    entertainment: 5,
+    society: 4,
+    beauty: 2,
   };
+
+  const CELEB_DOMAINS = new Set([
+    "billboard.com",
+    "rollingstone.com",
+    "soompi.com",
+    "koreaboo.com",
+    "tmz.com",
+    "hollywoodlife.com",
+    "justjared.com",
+    "etonline.com",
+  ]);
 
   const scored = clusters.map((c) => {
     const tb = buildTrustBreakdown(c);
-    const score =
+    let score =
       computeTrustScore(tb) +
       (c.members.length - 1) * 8 +
       (Date.parse(c.publishedAt) || 0) / 1e12;
+    // Prefer true celebrity/pop outlets inside entertainment
+    if (c.category === "entertainment") {
+      const domains = c.members.map((m) =>
+        m.domain.replace(/^www\./, "").toLowerCase()
+      );
+      const celebHit = domains.some((d) => CELEB_DOMAINS.has(d));
+      if (celebHit) score += 18;
+      // Extra boost for Asia pop / celebrity gossip outlets
+      if (domains.some((d) => d === "soompi.com" || d === "koreaboo.com")) {
+        score += 22;
+      }
+      if (domains.some((d) => d === "billboard.com" || d === "rollingstone.com" || d === "tmz.com")) {
+        score += 8;
+      }
+      // Soft-penalize BBC arts sports / kids toy / non-celeb misc
+      const t = c.primaryTitle.toLowerCase();
+      if (/sport|betting advert|ferry|deport|dollhouse|blind box/.test(t)) score -= 14;
+    }
+    // Prefer clear crime/accident society clusters
+    if (c.category === "society") {
+      const t = `${c.primaryTitle}`.toLowerCase();
+      if (
+        /murder|kill|arrest|crash|shoot|stab|crime|disaster|flood|earthquake|fire|jailed|suspect/.test(
+          t
+        )
+      ) {
+        score += 12;
+      }
+      if (/school dinner|crypto donations|party donations|human rights ai/.test(t)) {
+        score -= 10;
+      }
+    }
     return { c, score, tb };
   });
 
@@ -671,9 +963,16 @@ export function pickBalancedClusters(
   const picked: StoryCluster[] = [];
   const counts: Record<string, number> = {};
 
+  const entDomains = new Set<string>();
   for (const { c } of scored) {
     const n = counts[c.category] ?? 0;
     if (n >= (perCatTarget[c.category] ?? 3)) continue;
+    if (c.category === "entertainment") {
+      const dom = c.members[0]?.domain.replace(/^www\./, "").toLowerCase() ?? "";
+      // Prefer outlet diversity so K-pop (Soompi/Koreaboo) isn't crowded out
+      if (entDomains.has(dom) && entDomains.size < 4 && n >= 1) continue;
+      if (dom) entDomains.add(dom);
+    }
     picked.push(c);
     counts[c.category] = n + 1;
     if (picked.length >= targetMax) break;

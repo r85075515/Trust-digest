@@ -37,11 +37,6 @@ export function StoryCard({
               alt={alt}
               className="absolute inset-0 h-full w-full object-cover"
             />
-            {story.adult && (
-              <span className="absolute left-2 top-2 rounded-md bg-rose-700/90 px-2 py-0.5 text-[11px] font-bold tracking-wide text-white">
-                {lang === "zh-TW" ? "限制級" : "18+ ADULT"}
-              </span>
-            )}
           </div>
         </Link>
       )}
@@ -50,11 +45,6 @@ export function StoryCard({
           <span className="rounded-md bg-slate-100 px-2 py-0.5 text-xs font-medium text-slate-700">
             {cat}
           </span>
-          {story.adult && (
-            <span className="rounded-md bg-rose-100 px-2 py-0.5 text-xs font-semibold text-rose-800">
-              {lang === "zh-TW" ? "限制級" : "Adult"}
-            </span>
-          )}
           {story.isHeadline && (
             <span className="rounded-md bg-amber-100 px-2 py-0.5 text-xs font-bold text-amber-900">
               {lang === "zh-TW" ? "頭條" : "HEADLINE"}
@@ -81,22 +71,14 @@ export function StoryCard({
           </p>
         </Link>
         <div className="mb-3 flex flex-wrap gap-1.5">
-          {story.tags
-            .filter(
-              (t) =>
-                t.toLowerCase() !== "nsfw" &&
-                t !== "限制級" &&
-                t.toLowerCase() !== "adult"
-            )
-            .slice(0, 4)
-            .map((tag) => (
-              <span
-                key={tag}
-                className="rounded-full bg-slate-50 px-2 py-0.5 text-[11px] text-slate-500"
-              >
-                #{tag}
-              </span>
-            ))}
+          {story.tags.slice(0, 4).map((tag) => (
+            <span
+              key={tag}
+              className="rounded-full bg-slate-50 px-2 py-0.5 text-[11px] text-slate-500"
+            >
+              #{tag}
+            </span>
+          ))}
           <span className="text-[11px] text-slate-400">
             {story.sources.length}{" "}
             {lang === "zh-TW" ? "來源" : "sources"}

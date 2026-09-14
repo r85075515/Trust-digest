@@ -5,12 +5,10 @@ import { Header } from "@/components/Header";
 import { CategoryFilter } from "@/components/CategoryFilter";
 import { StoryCard } from "@/components/StoryCard";
 import { HeadlineBlock } from "@/components/HeadlineBlock";
-import { AdultOptInBanner } from "@/components/AdultGate";
 import { getMainStories } from "@/lib/stories";
 import { useLanguage } from "@/hooks/useLanguage";
 import { usePersonalization } from "@/hooks/usePersonalization";
 import type { Category } from "@/lib/types";
-import Link from "next/link";
 import ingestMeta from "../../data/ingest-meta.json";
 
 function formatIngestTime(iso: string | null, lang: "zh-TW" | "en"): string {
@@ -29,8 +27,7 @@ function formatIngestTime(iso: string | null, lang: "zh-TW" | "en"): string {
 
 export default function HomePage() {
   const { lang, setLang, ready: langReady } = useLanguage();
-  const { state, ready, interact, setAdultOptIn, reset, rank } =
-    usePersonalization();
+  const { state, ready, interact, reset, rank } = usePersonalization();
   const [category, setCategory] = useState<Category | "all">("all");
 
   const { headlines, feed } = useMemo(() => {
@@ -67,11 +64,7 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen">
-      <Header
-        lang={lang}
-        onLangChange={setLang}
-        adultOptIn={state.adultOptIn}
-      />
+      <Header lang={lang} onLangChange={setLang} />
       <main className="mx-auto max-w-5xl px-4 py-6">
         <section className="mb-6">
           <h1 className="mb-1 text-2xl font-bold text-slate-900">
@@ -79,8 +72,8 @@ export default function HomePage() {
           </h1>
           <p className="mb-4 text-sm text-slate-600">
             {lang === "zh-TW"
-              ? `國際 · 財經 · 科技 · AI · 演藝 · 美妝 — 訊息流以熱門（高討論）與頭條（重要）為主。首頁短摘要，點進內頁可讀完整消化文。標題用具名專有名詞；角色說明放正文。多來源連結與可解釋信任分數（啟發式，非事實查核保證）。即時 RSS 彙整 · 上次更新：${ingestLabel}。`
-              : `International · Finance · Tech · AI · Entertainment · Beauty — feed prioritizes Popular (high buzz) and Headline (important) stories. Short briefings on home; full digests on detail pages. Titles lead with proper nouns; role/category explainers live in the body. Multi-source links and explainable trust scores (heuristics, not fact-check guarantees). Live RSS ingest · last updated: ${ingestLabel}.`}
+              ? `國際 · 財經 · 科技 · AI · 演藝 · 社會 · 美妝 — 訊息流以熱門（高討論）與頭條（重要）為主。首頁短摘要，點進內頁可讀完整消化文。標題用具名專有名詞；角色說明放正文。多來源連結與可解釋信任分數（啟發式，非事實查核保證）。即時 RSS 彙整 · 上次更新：${ingestLabel}。`
+              : `International · Finance · Tech · AI · Entertainment · Society · Beauty — feed prioritizes Popular (high buzz) and Headline (important) stories. Short briefings on home; full digests on detail pages. Titles lead with proper nouns; role/category explainers live in the body. Multi-source links and explainable trust scores (heuristics, not fact-check guarantees). Live RSS ingest · last updated: ${ingestLabel}.`}
           </p>
           <CategoryFilter value={category} onChange={setCategory} lang={lang} />
         </section>
@@ -131,27 +124,10 @@ export default function HomePage() {
           )}
         </div>
 
-        <section className="mb-8 space-y-3">
-          <AdultOptInBanner
-            lang={lang}
-            optedIn={state.adultOptIn}
-            onOptIn={() => setAdultOptIn(true)}
-            onOptOut={() => setAdultOptIn(false)}
-          />
-          {state.adultOptIn && (
-            <Link
-              href="/adult"
-              className="inline-flex rounded-lg border border-rose-300 bg-white px-3 py-2 text-sm font-medium text-rose-800 hover:bg-rose-50"
-            >
-              {lang === "zh-TW" ? "前往限制級成人區 →" : "Go to adult zone →"}
-            </Link>
-          )}
-        </section>
-
         <footer className="border-t border-slate-200 pt-4 text-xs text-slate-500">
           {lang === "zh-TW"
-            ? "Axiom 提供短摘要與消化文，並連結原始來源，非全文轉載。信任分數為啟發式指標，不宣稱零誤訊。主訊息流來自允許清單 RSS；成人區為 18+ 示範種子（demo-seed），預設關閉。"
-            : "Axiom provides short briefings and digest articles with links to original sources — not full republication. Trust scores are heuristics; we do not claim zero misinformation. Main feed is live allow-listed RSS; adult zone holds 18+ demo-seed samples and is off by default."}
+            ? "Axiom 提供短摘要與消化文，並連結原始來源，非全文轉載。信任分數為啟發式指標，不宣稱零誤訊。主訊息流來自允許清單 RSS。"
+            : "Axiom provides short briefings and digest articles with links to original sources — not full republication. Trust scores are heuristics; we do not claim zero misinformation. Main feed is live allow-listed RSS."}
         </footer>
       </main>
     </div>

@@ -1,17 +1,17 @@
 {
-  "ingestedAt": "2026-09-14T12:05:37.405Z",
-  "feedOk": 23,
-  "feedTotal": 23,
-  "rawItems": 230,
+  "ingestedAt": "2026-09-14T12:58:40.971Z",
+  "feedOk": 35,
+  "feedTotal": 35,
+  "rawItems": 343,
   "mainStories": 22,
-  "adultDemoSeeds": 2,
   "byCategory": {
-    "tech": 4,
-    "international": 4,
-    "ai": 3,
-    "finance": 4,
-    "beauty": 3,
-    "entertainment": 4
+    "tech": 3,
+    "international": 3,
+    "society": 4,
+    "ai": 2,
+    "finance": 3,
+    "entertainment": 5,
+    "beauty": 2
   },
   "llmUsed": true,
   "mode": "llm+rss"

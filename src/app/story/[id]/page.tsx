@@ -19,7 +19,7 @@ export default function StoryDetailPage({
   const { id } = use(params);
   const story = getStoryById(id);
   const { lang, setLang, ready: langReady } = useLanguage();
-  const { state, ready, interact, setAdultOptIn } = usePersonalization();
+  const { state, ready, interact } = usePersonalization();
 
   useEffect(() => {
     if (story && ready) {
@@ -31,31 +31,6 @@ export default function StoryDetailPage({
 
   if (!story) {
     notFound();
-  }
-
-  if (story.adult && ready && !state.adultOptIn) {
-    return (
-      <div className="min-h-screen">
-        <Header lang={lang} onLangChange={setLang} adultOptIn={false} />
-        <main className="mx-auto max-w-2xl px-4 py-16 text-center">
-          <p className="mb-4 text-slate-700">
-            {lang === "zh-TW"
-              ? "此為限制級／成人區內容，需先選擇加入。"
-              : "This is adult-zone (18+) content; opt-in required."}
-          </p>
-          <button
-            type="button"
-            onClick={() => setAdultOptIn(true)}
-            className="mr-2 rounded-lg bg-rose-700 px-4 py-2 text-sm font-semibold text-white"
-          >
-            {lang === "zh-TW" ? "選擇加入" : "Opt in"}
-          </button>
-          <Link href="/" className="text-sm text-blue-700 underline">
-            {lang === "zh-TW" ? "回首頁" : "Home"}
-          </Link>
-        </main>
-      </div>
-    );
   }
 
   if (!ready || !langReady) {
@@ -70,14 +45,10 @@ export default function StoryDetailPage({
 
   return (
     <div className="min-h-screen">
-      <Header
-        lang={lang}
-        onLangChange={setLang}
-        adultOptIn={state.adultOptIn}
-      />
+      <Header lang={lang} onLangChange={setLang} />
       <main className="mx-auto max-w-3xl px-4 py-6">
         <Link
-          href={story.adult ? "/adult" : "/"}
+          href="/"
           className="mb-4 inline-block text-sm text-blue-700 hover:underline"
         >
           ← {lang === "zh-TW" ? "返回" : "Back"}
@@ -90,12 +61,7 @@ export default function StoryDetailPage({
               alt={alt}
               className="absolute inset-0 h-full w-full object-cover"
             />
-            {story.adult && (
-              <span className="absolute left-3 top-3 rounded-md bg-rose-700/90 px-2.5 py-1 text-xs font-bold text-white">
-                {lang === "zh-TW" ? "限制級 18+" : "ADULT 18+"}
-              </span>
-            )}
-            {(story.isHeadline || story.isPopular) && !story.adult && (
+            {(story.isHeadline || story.isPopular) && (
               <div className="absolute left-3 top-3 flex flex-wrap gap-1.5">
                 {story.isHeadline && (
                   <span className="rounded-md bg-amber-500 px-2.5 py-1 text-xs font-bold text-white">
@@ -116,11 +82,6 @@ export default function StoryDetailPage({
           <span className="rounded-md bg-slate-100 px-2 py-0.5 text-xs font-medium">
             {CATEGORY_LABELS[story.category][lang]}
           </span>
-          {story.adult && (
-            <span className="rounded-md bg-rose-100 px-2 py-0.5 text-xs font-semibold text-rose-800">
-              {lang === "zh-TW" ? "限制級" : "Adult"}
-            </span>
-          )}
           {story.isHeadline && (
             <span className="rounded-md bg-amber-100 px-2 py-0.5 text-xs font-bold text-amber-900">
               {lang === "zh-TW" ? "頭條" : "HEADLINE"}

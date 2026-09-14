@@ -21,6 +21,7 @@ import {
   isPopularCluster,
   isHeadlineCandidate,
   pickBalancedClusters,
+  resolveCategory,
   stripHtml,
   extractFirstImg,
   domainFromUrl,
@@ -36,7 +37,6 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const OUT_STORIES = path.join(ROOT, "data", "stories.json");
 const OUT_META = path.join(ROOT, "data", "ingest-meta.json");
-const ADULT_SEEDS = path.join(ROOT, "data", "adult-demo-seeds.json");
 const COVER_DIR = path.join(ROOT, "public", "covers", "live");
 
 const FETCH_TIMEOUT_MS = 12_000;
@@ -149,11 +149,18 @@ async function fetchFeed(source: FeedSource): Promise<RawFeedItem[]> {
         imageUrl = extractFirstImg(item.contentEncoded as string);
       }
 
+      const category = resolveCategory(
+        source.category,
+        title,
+        description.slice(0, 2000)
+      );
+      if (!category) continue; // drop wrong-direction entertainment noise
+
       items.push({
         feedId: source.id,
         outletName: source.name,
         domain: source.domain || domainFromUrl(link),
-        category: source.category,
+        category,
         title,
         link,
         pubDate: item.isoDate || item.pubDate || new Date().toISOString(),
@@ -324,6 +331,7 @@ async function llmDigest(
 
 Category: ${cluster.category}
 Primary title hint: ${cluster.primaryTitle}
+Category guidance: entertainment = celebrity/pop (singers, actors, K-pop/J-pop, Hollywood gossip) — not Broadway reviews or film-festival academia. society = social news (accidents, crime, disasters, public safety) — not geopolitics or pure finance.
 
 SOURCES:
 ${sourcesBlock}
@@ -470,22 +478,6 @@ async function localizeCluster(
   };
 }
 
-function loadAdultSeeds(): Story[] {
-  try {
-    const raw = fs.readFileSync(ADULT_SEEDS, "utf8");
-    const seeds = JSON.parse(raw) as Story[];
-    return seeds.slice(0, 2).map((s) => ({
-      ...s,
-      adult: true,
-      category: "adult",
-      tags: Array.from(new Set([...(s.tags || []), "demo-seed", "限制級"])),
-    }));
-  } catch {
-    console.warn("[ingest] no adult-demo-seeds.json — adult zone empty");
-    return [];
-  }
-}
-
 async function main() {
   console.info("[ingest] starting live RSS pipeline…");
   console.info(`[ingest] feeds in allow-list: ${ALLOWED_FEEDS.length}`);
@@ -517,7 +509,7 @@ async function main() {
 
   const clusters = clusterItems(allItems);
   console.info(`[ingest] ${clusters.length} clusters before pick`);
-  const picked = pickBalancedClusters(clusters, 12, 22);
+  const picked = pickBalancedClusters(clusters, 14, 24);
   console.info(`[ingest] picked ${picked.length} clusters for main feed`);
 
   // Enrich top items missing images with og:image (rate-limited)
@@ -623,11 +615,8 @@ async function main() {
     await sleep(150);
   }
 
-  const adult = loadAdultSeeds();
-  const all = [...stories, ...adult];
-
   fs.mkdirSync(path.dirname(OUT_STORIES), { recursive: true });
-  fs.writeFileSync(OUT_STORIES, JSON.stringify(all, null, 2) + "\n", "utf8");
+  fs.writeFileSync(OUT_STORIES, JSON.stringify(stories, null, 2) + "\n", "utf8");
 
   const byCat: Record<string, number> = {};
   for (const s of stories) {
@@ -640,7 +629,6 @@ async function main() {
     feedTotal: ALLOWED_FEEDS.length,
     rawItems: allItems.length,
     mainStories: stories.length,
-    adultDemoSeeds: adult.length,
     byCategory: byCat,
     llmUsed: Boolean(llm),
     mode: llm ? "llm+rss" : "extractive+translate+rss",

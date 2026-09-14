@@ -4,8 +4,8 @@ export type Category =
   | "tech"
   | "ai"
   | "entertainment"
-  | "beauty"
-  | "adult";
+  | "society"
+  | "beauty";
 export type Language = "zh-TW" | "en";
 
 export interface SourceOutlet {
@@ -29,6 +29,7 @@ export interface TrustBreakdown {
 export interface Story {
   id: string;
   category: Category;
+  /** @deprecated Adult zone removed — always false */
   adult: boolean;
   /** Featured as HEADLINE / 頭條 on the home feed */
   isHeadline?: boolean;
@@ -65,6 +66,7 @@ export interface PreferenceWeights {
   tech: number;
   ai: number;
   entertainment: number;
+  society: number;
   beauty: number;
 }
 
@@ -74,5 +76,4 @@ export interface PersonalizationState {
   savedIds: string[];
   notInterestedIds: string[];
   openedIds: string[];
-  adultOptIn: boolean;
 }

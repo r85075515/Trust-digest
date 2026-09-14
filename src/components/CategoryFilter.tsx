@@ -10,6 +10,7 @@ const MAIN: Array<Category | "all"> = [
   "tech",
   "ai",
   "entertainment",
+  "society",
   "beauty",
 ];
 

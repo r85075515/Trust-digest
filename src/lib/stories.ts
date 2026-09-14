@@ -1,18 +1,16 @@
 import storiesData from "../../data/stories.json";
 import type { Category, Story } from "./types";
 
-const stories = storiesData as Story[];
+const stories = (storiesData as Story[]).filter(
+  (s) => !s.adult && s.category !== ("adult" as unknown as Category)
+);
 
 export function getAllStories(): Story[] {
   return stories;
 }
 
 export function getMainStories(): Story[] {
-  return stories.filter((s) => !s.adult);
-}
-
-export function getAdultStories(): Story[] {
-  return stories.filter((s) => s.adult);
+  return stories;
 }
 
 export function getStoryById(id: string): Story | undefined {
@@ -29,7 +27,6 @@ export function getPopularStories(): Story[] {
 
 export function getStoriesByCategory(category: Category | "all"): Story[] {
   if (category === "all") return getMainStories();
-  if (category === "adult") return getAdultStories();
   return getMainStories().filter((s) => s.category === category);
 }
 
@@ -43,6 +40,6 @@ export const CATEGORY_LABELS: Record<
   tech: { en: "Tech", "zh-TW": "科技" },
   ai: { en: "AI", "zh-TW": "人工智慧" },
   entertainment: { en: "Entertainment", "zh-TW": "演藝" },
+  society: { en: "Society", "zh-TW": "社會" },
   beauty: { en: "Beauty", "zh-TW": "美妝" },
-  adult: { en: "Adult / 限制級", "zh-TW": "成人／限制級" },
 };

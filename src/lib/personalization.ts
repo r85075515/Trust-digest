@@ -14,6 +14,7 @@ export const DEFAULT_WEIGHTS: PreferenceWeights = {
   tech: 1,
   ai: 1,
   entertainment: 1,
+  society: 1,
   beauty: 1,
 };
 
@@ -23,7 +24,6 @@ export const DEFAULT_STATE: PersonalizationState = {
   savedIds: [],
   notInterestedIds: [],
   openedIds: [],
-  adultOptIn: false,
 };
 
 export function loadPersonalization(): PersonalizationState {
@@ -31,11 +31,16 @@ export function loadPersonalization(): PersonalizationState {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return { ...DEFAULT_STATE, weights: { ...DEFAULT_WEIGHTS } };
-    const parsed = JSON.parse(raw) as PersonalizationState;
+    const parsed = JSON.parse(raw) as Partial<PersonalizationState> & {
+      adultOptIn?: boolean;
+      weights?: Partial<PreferenceWeights>;
+    };
+    // Strip legacy adultOptIn; merge weights with defaults (incl. new society)
+    const { adultOptIn: _drop, ...rest } = parsed;
     return {
       ...DEFAULT_STATE,
-      ...parsed,
-      weights: { ...DEFAULT_WEIGHTS, ...parsed.weights },
+      ...rest,
+      weights: { ...DEFAULT_WEIGHTS, ...(parsed.weights || {}) },
     };
   } catch {
     return { ...DEFAULT_STATE, weights: { ...DEFAULT_WEIGHTS } };
@@ -48,7 +53,6 @@ export function savePersonalization(state: PersonalizationState): void {
 }
 
 function bumpWeight(weights: PreferenceWeights, category: Category, delta: number) {
-  if (category === "adult") return weights;
   const next = { ...weights };
   next[category] = Math.max(0.2, Math.min(3, next[category] + delta));
   return next;
@@ -98,14 +102,8 @@ export function rankStories(stories: Story[], state: PersonalizationState): Stor
   return [...stories]
     .filter((s) => !state.notInterestedIds.includes(s.id))
     .sort((a, b) => {
-      const wa =
-        a.category === "adult"
-          ? 0
-          : state.weights[a.category as keyof PreferenceWeights] ?? 1;
-      const wb =
-        b.category === "adult"
-          ? 0
-          : state.weights[b.category as keyof PreferenceWeights] ?? 1;
+      const wa = state.weights[a.category] ?? 1;
+      const wb = state.weights[b.category] ?? 1;
       const scoreA =
         wa * 10 +
         a.trustScore / 20 +

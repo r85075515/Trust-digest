@@ -35,13 +35,6 @@ export function usePersonalization() {
     [persist, state]
   );
 
-  const setAdultOptIn = useCallback(
-    (value: boolean) => {
-      persist({ ...state, adultOptIn: value });
-    },
-    [persist, state]
-  );
-
   const reset = useCallback(() => {
     const fresh = {
       ...DEFAULT_STATE,
@@ -55,5 +48,5 @@ export function usePersonalization() {
     [state]
   );
 
-  return { state, ready, interact, setAdultOptIn, reset, rank };
+  return { state, ready, interact, reset, rank };
 }

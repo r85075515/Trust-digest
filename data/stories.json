@@ -8,20 +8,20 @@
     "imageUrl": "/covers/live/live-tech-01-openai-s-sam-altman-says.jpg",
     "imageAlt": {
       "en": "Cover related to: OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "zh-TW": "相關封面圖：OpenAI 的 Sam Altman 表示 2026 年上市「不智」"
+      "zh-TW": "相關封面圖：OpenAI 的 Sam Altman 表示 2026 年上市將是「不明智的」"
     },
     "publishedAt": "2026-09-12T21:16:28.000Z",
     "title": {
       "en": "OpenAI’s Sam Altman Says It Would Be ‘Ill-Advised’ to Go Public in 2026",
-      "zh-TW": "OpenAI 的 Sam Altman 表示 2026 年上市「不智」"
+      "zh-TW": "OpenAI 的 Sam Altman 表示 2026 年上市將是「不明智的」"
     },
     "summary": {
-      "en": "OpenAI CEO Sam Altman stated that an IPO in 2026 would be ill-advised during a Fortune interview. The company has filed confidentially for an IPO but will not go public this year. Altman also discussed the Hugging Face hacking incident, recursive self-improvement, and risks of AI beyond human control, vowing to pause training if needed.",
-      "zh-TW": "OpenAI 執行長 Sam Altman 在 Fortune 訪談中表示，2026 年 IPO 將是不智之舉。公司已機密提交 IPO 申請，但今年不會上市。Altman 還討論了 Hugging Face 駭客事件、遞迴自我改進，以及超越人類控制的 AI 風險，並誓言必要時暫停訓練。"
+      "en": "OpenAI CEO Sam Altman stated that an IPO in 2026 would be ill-advised. The company filed confidentially for an IPO but will not go public this year. Altman made the comments in a Fortune interview covering AI topics including potential risks and self-improvement.",
+      "zh-TW": "OpenAI 執行長 Sam Altman 表示 2026 年上市將是不明智的。該公司已機密提交 IPO 申請，但今年不會上市。Altman 在 Fortune 訪談中談及此議題，並涵蓋 AI 風險與自我改進等主題。"
     },
     "body": {
-      "en": "Lede: OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026.\n\nWhat happened: OpenAI CEO Sam Altman confirmed during an interview with Fortune that there would be no OpenAI IPO in 2026. While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training.\n\nWhy it matters: The statements clarify OpenAI’s near-term plans regarding public markets and highlight ongoing internal considerations around advanced AI development.\n\nSources agree/disagree: Both sources report the same core statement from Altman on the 2026 IPO timeline and the confidential filing.\n\nStill uncertain: The full context of the interview remarks on AI risks remains partially detailed in available reports.",
-      "zh-TW": "Lede: OpenAI 的 Sam Altman 表示 2026 年上市將是「不智」之舉。\n\nWhat happened: OpenAI 執行長 Sam Altman 在 Fortune 訪談中確認，2026 年不會有 OpenAI IPO。雖然 OpenAI 已機密提交 IPO 申請，但根據執行長 Sam Altman 表示，公司今年不會上市。在 45 分鐘的訪談中，Altman 討論了多個主題，包括 Hugging Face 駭客事件、遞迴自我改進，以及建構超越人類控制 AI 的可能性。關於後者，他表示「絕對」可能，但誓言將採取行動防止發生，即使意味著暫停訓練。\n\nWhy it matters: 這些聲明澄清了 OpenAI 近期公開市場計畫，並突顯先進 AI 發展的內部考量。\n\nSources agree/disagree: 兩來源均報導 Altman 對 2026 年 IPO 時間表及機密申請的相同核心陳述。\n\nStill uncertain: 訪談中關於 AI 風險的完整語境在現有報導中仍部分詳細。"
+      "en": "Lede: OpenAI’s Sam Altman indicated it would be ill-advised for the company to go public in 2026.\n\nWhat happened: According to TechCrunch, OpenAI has filed confidentially for an IPO but will not be going public this year. The Verge reported that Altman confirmed no OpenAI IPO in 2026 during a 45-minute Fortune interview.\n\nWhy it matters: Altman discussed risks including the possibility of building an AI beyond human control, which he said was absolutely possible, and vowed to take actions to prevent it, even if it meant pausing training.\n\nSources agree/disagree: Both sources align on Altman’s statement that a 2026 IPO would be ill-advised and that no public offering occurs this year.\n\nStill uncertain: Details on other interview topics such as the Hugging Face hacking incident and recursive self-improvement remain limited in the provided reports.\n\nSources: https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/ https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "zh-TW": "Lede: OpenAI 的 Sam Altman 表示，公司在 2026 年上市將是不明智的。\n\nWhat happened: 根據 TechCrunch，OpenAI 已機密提交 IPO 申請，但今年不會上市。The Verge 報導 Altman 在 Fortune 訪談中確認 2026 年不會有 OpenAI IPO。\n\nWhy it matters: Altman 討論了包括建構超越人類控制 AI 的可能性，他表示這絕對可能，並誓言採取行動防止，即使意味著暫停訓練。\n\nSources agree/disagree: 兩來源一致認為 Altman 指出 2026 年 IPO 將是不明智的，且今年不會公開發行。\n\nStill uncertain: 訪談中其他主題如 Hugging Face 駭客事件與遞迴自我改進的細節在提供的報導中仍有限。\n\nSources: https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/ https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
     },
     "sources": [
       {
@@ -49,168 +49,122 @@
     ]
   },
   {
-    "id": "live-international-01-six-dead-130-missing-aft",
+    "id": "live-international-01-deep-fried-food-banned-u",
     "category": "international",
     "adult": false,
     "isHeadline": true,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-international-01-six-dead-130-missing-aft.jpg",
+    "imageUrl": "/covers/live/live-international-01-deep-fried-food-banned-u.jpg",
     "imageAlt": {
-      "en": "Cover related to: Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "zh-TW": "相關封面圖：維爾戈運輸8號渡輪在爪哇海傾覆"
+      "en": "Cover related to: Deep-fried food banned under new school dinner rules in England",
+      "zh-TW": "相關封面圖：英格蘭學校：新學校午餐規定禁止油炸食品"
     },
-    "publishedAt": "2026-09-14T06:20:28.000Z",
+    "publishedAt": "2026-09-14T08:25:02.000Z",
     "title": {
-      "en": "Virgo Transport 8 Ferry Capsizes in Java Sea",
-      "zh-TW": "維爾戈運輸8號渡輪在爪哇海傾覆"
+      "en": "England Schools: Deep-fried Food Banned Under New School Dinner Rules",
+      "zh-TW": "英格蘭學校：新學校午餐規定禁止油炸食品"
     },
     "summary": {
-      "en": "Indonesian ferry Virgo Transport 8 capsized in the Java Sea amid bad weather. Six passengers confirmed dead with 129 to 130 reported missing. Authorities deployed ships and helicopters for search operations in the area.",
-      "zh-TW": "印尼維爾戈運輸8號渡輪在爪哇海遭遇惡劣天氣傾覆。六名乘客確認死亡，約129至130人失蹤。當局已派遣船隻與直升機展開搜救行動。"
+      "en": "Schools in England will stop offering pupils deep-fried foods such as chips and cut down on desserts in reforms aimed at tackling childhood obesity and tooth decay. The government describes its new school food standards as once-in-a-generation changes. Links: https://news.sky.com/story/deep-fried-food-banned-and-desserts-cut-back-under-new-school-dinner-rules-13585701 and https://www.bbc.co.uk/news/articles/cy4zrepw78eo",
+      "zh-TW": "英格蘭學校將停止提供薯條等油炸食品，並減少甜點，以應對兒童肥胖和蛀牙問題。政府將新學校食品標準描述為一代一次的變革。連結：https://news.sky.com/story/deep-fried-food-banned-and-desserts-cut-back-under-new-school-dinner-rules-13585701 及 https://www.bbc.co.uk/news/articles/cy4zrepw78eo"
     },
     "body": {
-      "en": "Lede: Virgo Transport 8 ferry capsized in the Java Sea, resulting in six deaths and over one hundred missing.\n\nWhat happened: The ship encountered bad weather and overturned. Indonesian authorities intensified searches on Monday for those missing after the ferry capsized in the Java Sea. Ships and helicopters are searching for survivors from the Virgo Transport 8.\n\nWhy it matters: The incident highlights risks of sea travel in adverse conditions and the scale of ongoing rescue efforts in Indonesian waters.\n\nSources agree/disagree: Both sources confirm at least six deaths and bad weather as the cause, with search operations active.\n\nStill uncertain: Exact number of missing persons and full details on rescue outcomes remain unclear.",
-      "zh-TW": "導言：維爾戈運輸8號渡輪在爪哇海傾覆，造成六人死亡及逾百人失蹤。\n\n事件經過：該船遭遇惡劣天氣並翻覆。印尼當局週一加強搜尋爪哇海渡輪傾覆後失蹤人員。船隻與直升機正搜尋維爾戈運輸8號的倖存者。\n\n重要性：此事件凸顯惡劣天氣下海上旅行的風險，以及印尼水域救援行動的規模。\n\n來源一致與分歧：兩來源均確認至少六人死亡且惡劣天氣為原因，搜救行動正在進行。\n\n仍未確定：失蹤人數確切數字及救援結果細節仍不明朗。"
+      "en": "Lede: England schools face new restrictions on deep-fried foods.\n\nWhat happened: Schools in England will stop offering pupils deep-fried foods such as chips and cut down on desserts in reforms aimed at tackling childhood obesity and tooth decay.\n\nWhy it matters: The changes target childhood obesity and tooth decay through updated school food standards.\n\nSources agree/disagree: Both sources report the ban on deep-fried foods and reduction in desserts for the same health goals.\n\nStill uncertain: No further details on implementation timelines or specific menus are provided.\n\nLinks: https://news.sky.com/story/deep-fried-food-banned-and-desserts-cut-back-under-new-school-dinner-rules-13585701 https://www.bbc.co.uk/news/articles/cy4zrepw78eo",
+      "zh-TW": "導言：英格蘭學校面臨油炸食品新限制。\n\n發生什麼事：英格蘭學校將停止提供薯條等油炸食品，並減少甜點，以應對兒童肥胖和蛀牙問題。\n\n為什麼重要：這些變化透過更新學校食品標準，針對兒童肥胖和蛀牙。\n\n來源同意/不同意：兩來源均報導禁止油炸食品並減少甜點，目標相同。\n\n仍不確定：未提供實施時間表或具體菜單的進一步細節。\n\n連結：https://news.sky.com/story/deep-fried-food-banned-and-desserts-cut-back-under-new-school-dinner-rules-13585701 https://www.bbc.co.uk/news/articles/cy4zrepw78eo"
     },
     "sources": [
       {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss"
+        "name": "Sky News UK",
+        "url": "https://news.sky.com/story/deep-fried-food-banned-and-desserts-cut-back-under-new-school-dinner-rules-13585701"
       },
       {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry"
+        "name": "BBC UK",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "disagreements": {
-      "en": "BBC reports 130 missing while NPR reports 129 missing; BBC alone names the ship Virgo Transport 8.",
-      "zh-TW": "BBC報導失蹤130人，NPR報導失蹤129人；僅BBC提及船名維爾戈運輸8號。"
-    },
-    "trustScore": 72,
+    "disagreements": null,
+    "trustScore": 77,
     "trustBreakdown": {
       "sourceDiversity": 16,
-      "outletReputation": 24,
-      "crossCorroboration": 7,
+      "outletReputation": 21,
+      "crossCorroboration": 15,
       "recencyClarity": 25
     },
     "tags": [
       "international",
       "live-ingest",
-      "bbc-world",
-      "npr-world"
+      "sky-news-uk",
+      "bbc-uk"
     ]
   },
   {
-    "id": "live-tech-02-ai-staff-genuinely-frigh",
-    "category": "tech",
+    "id": "live-society-01-indonesia-searches-for-1",
+    "category": "society",
     "adult": false,
     "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-tech-02-ai-staff-genuinely-frigh.jpg",
+    "isPopular": true,
+    "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3311x2207+0+0/resize/3311x2207!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F28%2Ff630b55b495cb10b486704385278%2Fap26257113610710.jpg",
     "imageAlt": {
-      "en": "Cover related to: AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "zh-TW": "相關封面圖：前Anthropic研究員告知BBC AI員工對人類未來 genuinely frightened"
+      "en": "Cover related to: Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
+      "zh-TW": "相關封面圖：爪哇海渡輪翻覆：印尼搜尋129名失蹤者"
     },
-    "publishedAt": "2026-09-13T14:53:40.000Z",
+    "publishedAt": "2026-09-14T06:20:28.000Z",
     "title": {
-      "en": "Ex-Anthropic Researcher Tells BBC AI Staff Genuinely Frightened for Humanity's Future",
-      "zh-TW": "前Anthropic研究員告知BBC AI員工對人類未來 genuinely frightened"
+      "en": "Java Sea Ferry Capsize: Indonesia Searches for 129 Missing",
+      "zh-TW": "爪哇海渡輪翻覆：印尼搜尋129名失蹤者"
     },
     "summary": {
-      "en": "Ex-Anthropic researcher tells BBC that AI staff are genuinely frightened for humanity's future. This follows the AI firm's boss calling for slowed technology development due to serious risks. The report from BBC Technology highlights internal concerns at the AI company.",
-      "zh-TW": "前Anthropic研究員向BBC表示，AI員工對人類未來 genuinely frightened。此事發生在AI公司負責人呼籲放緩技術發展，指出存在嚴重風險。BBC Technology報導凸顯AI產業內部疑慮。"
+      "en": "Indonesian authorities intensified searches on Monday for 129 people missing after a ferry overturned in bad weather in the Java Sea. At least six passengers were killed in the incident. The effort focuses on locating survivors amid challenging conditions following the capsizing.",
+      "zh-TW": "印尼當局週一加強搜尋，在爪哇海因惡劣天氣翻覆的渡輪中，有129人失蹤。至少六名乘客喪生。搜救工作在艱難條件下進行，聚焦尋找生還者。"
     },
     "body": {
-      "en": "Lede: Ex-Anthropic researcher tells BBC that AI staff are genuinely frightened for humanity's future.\nWhat happened: It comes as the AI firm's boss has called for the technology's development to be slowed down, citing serious risks.\nWhy it matters: Insider warnings from AI staff underscore potential dangers to humanity.\nSources agree/disagree: Single source provides consistent account with no conflicts.\nStill uncertain: Specific details on risks or staff identities remain unspecified in available information. https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "zh-TW": "導言：前Anthropic研究員告知BBC，AI員工對人類未來 genuinely frightened。\n事件經過：此事發生在AI公司負責人呼籲放緩技術發展，並指出存在嚴重風險。\n重要性：AI員工的內部警告凸顯對人類的潛在危險。\n來源同意/分歧：單一來源提供一致描述，無衝突。\n仍不確定：可用資訊中風險細節或員工身分未具體說明。https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
+      "en": "Lede: Indonesian authorities intensified on Monday a search for people missing after a ferry overturned in bad weather in the Java Sea.\n\nWhat happened: A ferry capsized in the Java Sea during bad weather. At least six passengers were killed and 129 people remain missing.\n\nWhy it matters: The incident highlights risks to public safety during maritime travel in adverse conditions, prompting intensified rescue operations.\n\nSources agree/disagree: Both sources report identical details on the search, deaths, and missing count with no variations.\n\nStill uncertain: Exact total passenger numbers and full rescue outcomes are not specified beyond the given figures.",
+      "zh-TW": "導言：印尼當局週一加強搜尋，在爪哇海因惡劣天氣翻覆的渡輪中尋找失蹤者。\n\n事件經過：一艘渡輪在爪哇海惡劣天氣中翻覆。至少六名乘客喪生，129人仍失蹤。\n\n重要性：此事件凸顯惡劣條件下海上旅行的公共安全風險，促使搜救行動加強。\n\n來源一致/分歧：兩來源對搜尋、死亡及失蹤人數報導完全相同，無差異。\n\n仍不確定：除給定數字外，確切乘客總數及完整救援結果未說明。"
     },
     "sources": [
       {
-        "name": "BBC Technology",
-        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry"
       }
     ],
     "disagreements": null,
-    "trustScore": 62,
+    "trustScore": 69,
     "trustBreakdown": {
       "sourceDiversity": 8,
-      "outletReputation": 24,
-      "crossCorroboration": 8,
-      "recencyClarity": 22
+      "outletReputation": 23,
+      "crossCorroboration": 15,
+      "recencyClarity": 23
     },
     "tags": [
-      "tech",
+      "society",
       "live-ingest",
-      "bbc-technology"
+      "npr-world",
+      "npr-news"
     ]
   },
   {
-    "id": "live-tech-03-questions-mount-over-wha",
-    "category": "tech",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-tech-03-questions-mount-over-wha.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Questions mount over what an AI 'slowdown' would look like",
-      "zh-TW": "相關封面圖：BBC科技對AI「減速」會是什麼樣子提出疑問"
-    },
-    "publishedAt": "2026-09-13T18:20:22.000Z",
-    "title": {
-      "en": "BBC Technology Questions Mount Over What an AI 'Slowdown' Would Look Like",
-      "zh-TW": "BBC科技對AI「減速」會是什麼樣子提出疑問"
-    },
-    "summary": {
-      "en": "BBC Technology examines challenges of an AI slowdown. The report states that while pacing AI development might sound like a quick fix, it is far from an easy solution. Read more at https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "zh-TW": "BBC科技探討AI減速的挑戰。報導指出，雖然放慢AI發展聽起來像是快速解決方案，但遠非易事。詳見 https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
-    },
-    "body": {
-      "en": "Lede: BBC Technology highlights mounting questions on the appearance of an AI slowdown.\nWhat happened: The source notes that pacing AI development might sound like a quick fix.\nWhy it matters: It is far from an easy solution.\nSources agree/disagree: Only one source is available.\nStill uncertain: Details on implementation remain unspecified in the provided source.",
-      "zh-TW": "導言：BBC科技強調對AI減速外觀的疑問日益增加。\n發生什麼事：來源指出，放慢AI發展可能聽起來像是快速解決方案。\n為什麼重要：這遠非易事。\n來源同意/不同意：只有一個來源可用。\n仍不確定：提供的來源中未指定實施細節。"
-    },
-    "sources": [
-      {
-        "name": "BBC Technology",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 62,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 24,
-      "crossCorroboration": 8,
-      "recencyClarity": 22
-    },
-    "tags": [
-      "tech",
-      "live-ingest",
-      "bbc-technology"
-    ]
-  },
-  {
-    "id": "live-tech-04-trump-downplays-warnings",
+    "id": "live-tech-02-trump-downplays-warnings",
     "category": "tech",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-tech-04-trump-downplays-warnings.jpg",
+    "imageUrl": "/covers/live/live-tech-02-trump-downplays-warnings.jpg",
     "imageAlt": {
       "en": "Cover related to: Trump downplays warnings of AI risks, citing rivalry with China",
-      "zh-TW": "相關封面圖：川普淡化人工智慧風險警告 提及與中國競爭"
+      "zh-TW": "相關封面圖：川普淡化AI風險警告 提及與中國競爭"
     },
     "publishedAt": "2026-09-13T18:49:37.000Z",
     "title": {
-      "en": "Trump Downplays Warnings of AI Risks, Citing Rivalry with China",
-      "zh-TW": "川普淡化人工智慧風險警告 提及與中國競爭"
+      "en": "Trump Downplays Warnings of AI Risks Citing Rivalry with China",
+      "zh-TW": "川普淡化AI風險警告 提及與中國競爭"
     },
     "summary": {
-      "en": "US President Trump said negative forces are airing concerns about AI risks involving things that won't happen. His comments referenced the rivalry with China. This is reported by BBC Technology with the provided URL.",
-      "zh-TW": "美國總統川普表示，負面勢力正在散播關於人工智慧風險的擔憂，這些事情不會發生。他的評論提及與中國的競爭。BBC Technology 報導此消息並附上連結。"
+      "en": "US President Trump stated that negative forces are airing concerns about things that won't happen. The remarks address warnings of AI risks in the context of rivalry with China, according to BBC Technology.",
+      "zh-TW": "美國總統川普表示，負面勢力正在散播對不會發生事情的擔憂。此言論針對AI風險警告，並提及與中國的競爭，依據BBC Technology報導。"
     },
     "body": {
-      "en": "Lede: US President Trump downplays warnings of AI risks by citing rivalry with China.\n\nWhat happened: The US president said negative forces were airing concerns about things that won't happen.\n\nWhy it matters: The statement addresses AI risk discussions in the context of international competition.\n\nSources agree/disagree: The single source provides this account without conflicting details.\n\nStill uncertain: No additional details or events are specified beyond the given snippet and title.\n\nLink: https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "zh-TW": "導言：美國總統川普淡化人工智慧風險警告，提及與中國的競爭。\n\n發生事件：美國總統表示負面勢力正在散播關於不會發生的事情的擔憂。\n\n重要性：此聲明在國際競爭背景下回應人工智慧風險討論。\n\n來源同意或分歧：單一來源提供此報導，無衝突細節。\n\n仍不確定：除提供的標題與片段外，無其他細節或事件。\n\n連結：https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+      "en": "Lede: Trump downplays warnings of AI risks, citing rivalry with China.\nWhat happened: The US president said \"negative forces\" were airing concerns about \"things that won't happen\".\nWhy it matters: The statement references US-China competition in technology.\nSources agree/disagree: Single source reports the president's comments directly.\nStill uncertain: No additional details on specific AI concerns or responses provided in the source.",
+      "zh-TW": "導言：川普淡化AI風險警告，提及與中國競爭。\n發生什麼：美國總統表示「負面勢力」正在散播對「不會發生的事情」的擔憂。\n為什麼重要：此聲明提及美中科技競爭。\n來源同意/不同意：單一來源直接報導總統言論。\n仍不確定：來源未提供AI具體擔憂或其他回應細節。"
     },
     "sources": [
       {
@@ -233,6 +187,55 @@
     ]
   },
   {
+    "id": "live-international-02-uk-mps-and-lords-call-fo",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-uk-mps-and-lords-call-fo.jpg",
+    "imageAlt": {
+      "en": "Cover related to: UK MPs and Lords call for new laws to tackle AI threat to human rights",
+      "zh-TW": "相關封面圖：英國國會議員與上議院議員呼籲制定新法應對人工智慧對人權的威脅"
+    },
+    "publishedAt": "2026-09-14T11:07:24.000Z",
+    "title": {
+      "en": "UK MPs and Lords Call for New Laws to Tackle AI Threat to Human Rights",
+      "zh-TW": "英國國會議員與上議院議員呼籲制定新法應對人工智慧對人權的威脅"
+    },
+    "summary": {
+      "en": "UK MPs and Lords warn that existing laws cannot address AI risks to human rights. They call for new legislation and an independent oversight body after safety incidents involving face-scanning and deepfakes. The politicians highlight the world's unpreparedness for potentially dire consequences.",
+      "zh-TW": "英國國會議員與上議院議員警告現有法律無法應對人工智慧對人權的風險。他們在發生涉及人臉掃描與深度偽造的安全事件後，呼籲制定新法並設立獨立監督機構。政界人士指出世界尚未做好準備面對潛在嚴重後果。"
+    },
+    "body": {
+      "en": "Lede: UK MPs and Lords call for new laws to tackle AI threat to human rights.\n\nWhat happened: MPs and Lords state existing laws are not equipped to address the risks to human rights being posed by artificial intelligence. Warning follows series of safety incidents, with committee saying threats include public face-scanning and deepfakes. British lawmakers demand more restrictions on the power of AI, warning the world is unprepared for the potentially dire consequences of the technology.\n\nWhy it matters: A new regulatory framework is needed for AI in the UK, including an independent oversight body and legislation to protect the public.\n\nSources agree/disagree: Both sources report the same call from UK MPs and Lords for new AI laws due to human rights threats.\n\nStill uncertain: Details on specific incidents or exact framework proposals remain limited in available reports.\n\nSources: https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords",
+      "zh-TW": "導言：英國國會議員與上議院議員呼籲制定新法應對人工智慧對人權的威脅。\n\n事件經過：國會議員與上議院議員表示現有法律無法應對人工智慧對人權造成的風險。警告來自一系列安全事件，委員會指出威脅包括公開人臉掃描與深度偽造。英國立法者要求對人工智慧權力施加更多限制，警告世界尚未準備好面對該技術潛在嚴重後果。\n\n重要性：英國需要新的人工智慧監管框架，包括獨立監督機構與保護公眾的立法。\n\n來源一致/分歧：兩來源均報導英國國會議員與上議院議員呼籲因人權威脅制定新人工智慧法律。\n\n仍不確定：可用報導中關於具體事件或確切框架提案的細節仍有限。\n\n來源：https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords"
+    },
+    "sources": [
+      {
+        "name": "BBC UK",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian UK News",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 79,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 23,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-uk",
+      "the-guardian-uk-news"
+    ]
+  },
+  {
     "id": "live-ai-01-new-method-enables-ai-fo",
     "category": "ai",
     "adult": false,
@@ -241,20 +244,20 @@
     "imageUrl": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Hard-Constrained-01-Press.jpg?itok=pDUT8NRC",
     "imageAlt": {
       "en": "Cover related to: New method enables AI for safety-critical situations",
-      "zh-TW": "相關封面圖：麻省理工學院研究人員開發人工智慧安全關鍵情境新方法"
+      "zh-TW": "相關封面圖：麻省理工學院研究人員：新方法讓AI適用於安全關鍵情境"
     },
     "publishedAt": "2026-09-14T04:00:00.000Z",
     "title": {
-      "en": "MIT Researchers Develop New Method for AI in Safety-Critical Situations",
-      "zh-TW": "麻省理工學院研究人員開發人工智慧安全關鍵情境新方法"
+      "en": "MIT Researchers: New Method Enables AI for Safety-Critical Situations",
+      "zh-TW": "麻省理工學院研究人員：新方法讓AI適用於安全關鍵情境"
     },
     "summary": {
-      "en": "MIT researchers developed a technique helping generative AI models solve high-stakes problems by meeting hard constraints like safety and physical requirements without sacrificing output quality. The method addresses nonnegotiable task-specific needs in critical settings.",
-      "zh-TW": "麻省理工學院研究人員開發一種技術，協助生成式人工智慧模型解決高風險問題，滿足安全與物理等硬性約束，同時不犧牲輸出品質。該方法處理關鍵情境中不可協商的任務特定需求。"
+      "en": "MIT researchers developed a new technique helping generative AI models solve high-stakes problems. Outputs must meet nonnegotiable safety, physical, or task-specific requirements called hard constraints. The method enables models to satisfy these strict rules without reducing output quality. The key to their technique is to give models guidance for meeting constraints in safety-critical settings.",
+      "zh-TW": "麻省理工學院研究人員開發新技術，協助生成式AI模型解決高風險問題。輸出必須滿足安全、物理或任務特定等不可協商的硬性約束。該方法讓模型符合這些嚴格規則，同時不降低輸出品質。技術關鍵在於引導模型在安全關鍵情境中滿足約束。"
     },
     "body": {
-      "en": "Lede: MIT researchers have developed a new technique that helps generative artificial intelligence models find solutions to high-stakes problems.\n\nWhat happened: MIT researchers have developed a new technique that helps generative artificial intelligence models find solutions to high-stakes problems. In these settings, a plausible answer is not enough: The output often must also satisfy nonnegotiable safety, physical, or task-specific requirements, known as hard constraints. The researchers developed a method that helps generative models meet these strict requirements without sacrificing the quality of their outputs. The key to their technique is to give. Source: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914\n\nWhy it matters: In these settings, a plausible answer is not enough: The output often must also satisfy nonnegotiable safety, physical, or task-specific requirements, known as hard constraints.\n\nSources agree/disagree: Only one source available.\n\nStill uncertain: Details on the technique remain incomplete in available information.",
-      "zh-TW": "導言：麻省理工學院研究人員開發了一種新技術，幫助生成式人工智慧模型尋找高風險問題的解決方案。\n\n發生什麼事：麻省理工學院研究人員開發了一種新技術，幫助生成式人工智慧模型尋找高風險問題的解決方案。在這些情境中，合理的答案並不夠：輸出通常還必須滿足不可協商的安全、物理或任務特定要求，稱為硬性約束。研究人員開發了一種方法，幫助生成模型滿足這些嚴格要求，同時不犧牲輸出品質。他們技術的關鍵在於給予。來源：https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914\n\n為什麼重要：在這些情境中，合理的答案並不夠：輸出通常還必須滿足不可協商的安全、物理或任務特定要求，稱為硬性約束。\n\n來源同意/不同意：僅有一個來源可用。\n\n仍不確定：可用資訊中技術細節仍不完整。"
+      "en": "Lede: MIT researchers have developed a new technique that helps generative artificial intelligence models find solutions to high-stakes problems.\n\nWhat happened: In these settings, a plausible answer is not enough. The output often must also satisfy nonnegotiable safety, physical, or task-specific requirements, known as hard constraints. The researchers developed a method that helps generative models meet these strict requirements without sacrificing the quality of their outputs. The key to their technique is to give models the ability to handle such constraints.\n\nWhy it matters: This approach allows AI to be used reliably in safety-critical situations where outputs must adhere to hard constraints. It maintains high output quality while ensuring compliance with essential rules.\n\nSources agree/disagree: The single source describes the development of the technique and its focus on hard constraints.\n\nStill uncertain: The snippet does not provide further details on implementation steps or specific examples of hard constraints beyond the general description.",
+      "zh-TW": "導言：麻省理工學院研究人員已開發新技術，幫助生成式人工智慧模型尋找高風險問題的解決方案。\n\n發生什麼事：在這些情境中，合理的答案並不足夠。輸出通常還必須滿足安全、物理或任務特定等不可協商的要求，稱為硬性約束。研究人員開發的方法幫助生成模型符合這些嚴格要求，同時不犧牲輸出品質。技術關鍵在於引導模型處理此類約束。\n\n為什麼重要：此方法讓AI能可靠應用於安全關鍵情境，輸出必須遵守硬性約束。它在確保符合必要規則的同時維持高輸出品質。\n\n來源同意/不同意：單一來源描述該技術的開發及其對硬性約束的重點。\n\n仍不確定：片段未提供實作步驟或硬性約束的具體例子細節，僅限於一般描述。"
     },
     "sources": [
       {
@@ -293,12 +296,12 @@
       "zh-TW": "Atlas Building Composites：麻省理工學院衍生公司將塑膠廢棄物轉化為耐用建材"
     },
     "summary": {
-      "en": "Atlas Building Composites, an MIT spinout, developed an AI-powered robotic manufacturing platform to convert single-use plastics into durable building materials. The effort addresses housing shortages and plastic waste simultaneously. It emerged from MIT HAUS research in the MIT Department of Mechanical Engineering.",
-      "zh-TW": "Atlas Building Composites為麻省理工學院衍生公司，開發AI驅動機器人製造平台，將單次使用塑膠轉化為耐用建材。此舉同時解決住房短缺與塑膠廢棄物問題，源自麻省理工學院機械工程系MIT HAUS研究。"
+      "en": "Atlas Building Composites, an MIT spinout from the Department of Mechanical Engineering's MIT HAUS research effort, has developed an AI-powered robotic manufacturing platform. It converts single-use plastics into durable building materials to address global needs for more homes and reduce excess plastic waste through one integrated solution.",
+      "zh-TW": "源自麻省理工學院機械工程系MIT HAUS研究計畫的衍生公司Atlas Building Composites，開發出AI驅動的機器人製造平台，將單次使用塑膠轉化為耐用建材，以同時解決全球住房需求與過多塑膠廢棄物問題。"
     },
     "body": {
-      "en": "Lede: Atlas Building Composites, a spinout from MIT, uses an AI-powered robotic platform to transform single-use plastics into resilient building materials.\n\nWhat happened: The company emerged from MIT HAUS, a research effort in the MIT Department of Mechanical Engineering. It targets two global issues with one solution by turning excess plastic into durable construction products.\n\nWhy it matters: The approach links the demand for more homes with the problem of too much plastic waste through advanced manufacturing.\n\nSources agree/disagree: The single source provides consistent details on the company, its technology, and origins with no conflicting information.\n\nStill uncertain: Details on specific production scale, material performance metrics, or deployment timelines are not provided in the source.",
-      "zh-TW": "Lede: Atlas Building Composites為麻省理工學院衍生公司，利用AI驅動機器人平台將單次使用塑膠轉化為耐用建材。\n\nWhat happened: 該公司源自麻省理工學院機械工程系的MIT HAUS研究計畫，以單一解決方案應對全球住房需求與過多塑膠廢棄物問題。\n\nWhy it matters: 此方法透過先進製造連結住房短缺與塑膠廢棄物兩大議題。\n\nSources agree/disagree: 單一來源提供公司、科技與起源的一致細節，無衝突資訊。\n\nStill uncertain: 來源未提供具體生產規模、材料性能指標或部署時間表等細節。"
+      "en": "Lede: Atlas Building Composites, a spinout of MIT, is on a mission to address both the need for more homes and too much plastic with a single solution.\n\nWhat happened: The company has developed an AI-powered robotic manufacturing platform capable of turning single-use plastics into durable building materials. The company emerged from MIT HAUS, a research effort in the MIT Department of Mechanical Engineering.\n\nWhy it matters: The world needs more homes. The world also has too much plastic. Perhaps the only thing those two problems have in common is that they’re hard to solve.\n\nSources agree/disagree: Only one source is provided with no conflicting information.\n\nStill uncertain: Details beyond the provided snippet are not available.",
+      "zh-TW": "導言：Atlas Building Composites作為麻省理工學院的衍生公司，致力於以單一解決方案同時應對住房需求與過多塑膠廢棄物。\n\n事件經過：該公司開發出AI驅動的機器人製造平台，能將單次使用塑膠轉化為耐用建材。公司源自麻省理工學院機械工程系的MIT HAUS研究計畫。\n\n重要性：世界需要更多住房，世界也有太多塑膠。這兩個問題或許唯一的共同點是它們難以解決。\n\n來源一致/分歧：僅提供單一來源，無衝突資訊。\n\n仍不確定：超出所提供摘要的細節無法得知。"
     },
     "sources": [
       {
@@ -329,20 +332,20 @@
     "imageUrl": "/covers/live/live-finance-01-mps-and-lords-call-for-n.jpg",
     "imageAlt": {
       "en": "Cover related to: MPs and Lords call for new law to address AI threat to human rights",
-      "zh-TW": "相關封面圖：英國國會議員與上議院議員呼籲制定新法應對人工智慧人權威脅"
+      "zh-TW": "相關封面圖：英國國會議員與上議院議員呼籲制定新法應對人工智慧對人權的威脅"
     },
     "publishedAt": "2026-09-14T08:07:08.000Z",
     "title": {
       "en": "UK MPs and Lords Call for New Law to Address AI Threat to Human Rights",
-      "zh-TW": "英國國會議員與上議院議員呼籲制定新法應對人工智慧人權威脅"
+      "zh-TW": "英國國會議員與上議院議員呼籲制定新法應對人工智慧對人權的威脅"
     },
     "summary": {
-      "en": "UK politicians from the Commons and Lords state that existing laws are not equipped to address the risks to human rights being posed by artificial intelligence and call for new legislation.",
-      "zh-TW": "英國下議院與上議院政治人物表示，現有法律無法應對人工智慧對人權造成的風險，並呼籲制定新法。"
+      "en": "UK MPs and Lords state existing laws cannot address AI risks to human rights and call for new legislation, according to BBC Business reporting.",
+      "zh-TW": "根據BBC商業報導，英國國會議員與上議院議員表示現有法律無法應對人工智慧對人權的風險，並呼籲制定新法。"
     },
     "body": {
-      "en": "Lede: UK MPs and Lords call for new law to address AI threat to human rights.\nWhat happened: UK politicians say existing laws are not equipped to address the risks to human rights being posed by artificial intelligence.\nWhy it matters: The call highlights the need for updated legal frameworks to handle AI-related human rights issues.\nSources agree/disagree: The single source reports the politicians' statement on inadequate existing laws.\nStill uncertain: No further details on proposed law or specific risks are available in the source.",
-      "zh-TW": "導言：英國國會議員與上議院議員呼籲制定新法應對人工智慧人權威脅。\n事件經過：英國政治人物表示現有法律無法應對人工智慧對人權造成的風險。\n重要性：此呼籲凸顯需要更新法律框架以處理人工智慧相關人權議題。\n來源一致或分歧：單一來源報導政治人物關於現有法律不足的聲明。\n仍不確定：來源中未提供擬議法律或具體風險的進一步細節。"
+      "en": "Lede: UK MPs and Lords call for new law to address AI threat to human rights.\nWhat happened: Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.\nWhy it matters: The call highlights gaps in current legal frameworks regarding AI and human rights.\nSources agree/disagree: Only one source available.\nStill uncertain: Details on proposed law or specific risks remain unspecified in available information.\nSource: https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+      "zh-TW": "導言：英國國會議員與上議院議員呼籲制定新法應對人工智慧對人權的威脅。\n發生事件：英國政治人物表示，現有法律無法應對人工智慧對人權構成的風險。\n重要性：此呼籲凸顯現行法律框架在人工智慧與人權方面的不足。\n來源同意/分歧：僅有一個來源。\n仍不確定：可用資訊中未提及擬議法律或具體風險的細節。\n來源：https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss"
     },
     "sources": [
       {
@@ -373,20 +376,20 @@
     "imageUrl": "/covers/live/live-finance-02-heading-off-to-uni-here-.jpg",
     "imageAlt": {
       "en": "Cover related to: Heading off to uni? Here's what to insure against theft",
-      "zh-TW": "相關封面圖：BBC商業：上大學？保險防盜需注意事項"
+      "zh-TW": "相關封面圖：BBC商業：前往大學？保險防盜需知"
     },
     "publishedAt": "2026-09-14T08:13:56.000Z",
     "title": {
       "en": "BBC Business: Heading off to uni? Here's what to insure against theft",
-      "zh-TW": "BBC商業：上大學？保險防盜需注意事項"
+      "zh-TW": "BBC商業：前往大學？保險防盜需知"
     },
     "summary": {
-      "en": "BBC Business advises new university students on protecting belongings from theft via insurance. The guidance focuses on key considerations for keeping personal items safe and ensuring adequate coverage during the transition to uni life.",
-      "zh-TW": "BBC商業為新大學生提供保險建議，防範物品失竊。重點在於如何確保個人物品安全並獲得適當保障，協助適應大學生活。"
+      "en": "BBC Business discusses insurance considerations for new university students to protect belongings from theft. The guidance focuses on keeping possessions safe and covered. Link provided in source for full details on student insurance needs.",
+      "zh-TW": "BBC商業討論新大學生保險考量，以保護財物免於盜竊。指導重點在於保持財物安全並涵蓋保險。來源提供連結以了解學生保險需求詳情。"
     },
     "body": {
-      "en": "Lede: BBC Business highlights insurance needs for students starting university.\n\nWhat happened: The source poses the question of what new students should consider to keep belongings safe and covered by insurance.\n\nWhy it matters: Proper insurance helps protect against theft risks for university attendees.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: Details on specific insurance types or recommendations are not provided in the source.\n\nLink: https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
-      "zh-TW": "導言：BBC商業強調大學新生保險需求。\n\n發生事件：來源提出新學生應考慮如何確保物品安全並獲得保險保障的問題。\n\n重要性：適當保險有助防範大學生面臨的失竊風險。\n\n來源同意/分歧：僅有一個來源。\n\n仍不確定：來源未提供具體保險類型或建議細節。\n\n連結：https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss"
+      "en": "Lede: BBC Business article titled Heading off to uni? Here's what to insure against theft addresses student insurance.\nWhat happened: Snippet asks what new students should consider to keep your belongings safe and covered by insurance.\nWhy it matters: Proper coverage helps protect student possessions against theft during university transition.\nSources agree/disagree: Single source only.\nStill uncertain: No additional details available from provided snippet.\nSource link: https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+      "zh-TW": "導言：BBC商業標題為Heading off to uni? Here's what to insure against theft的文章探討學生保險。\n發生事件：片段詢問新學生應考慮什麼以保持財物安全並涵蓋保險。\n重要性：適當涵蓋有助保護學生財物免於大學過渡期間的盜竊。\n來源同意/不同意：僅單一來源。\n仍不確定：所提供片段無其他細節。\n來源連結：https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss"
     },
     "sources": [
       {
@@ -409,116 +412,165 @@
     ]
   },
   {
-    "id": "live-beauty-01-if-james-bond-were-a-wom",
-    "category": "beauty",
+    "id": "live-society-02-malaysian-boy-acquitted-",
+    "category": "society",
     "adult": false,
     "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-beauty-01-if-james-bond-were-a-wom.jpg",
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-society-02-malaysian-boy-acquitted-.jpg",
     "imageAlt": {
-      "en": "Cover related to: If James Bond Were a Woman, She'd Wear Sergio Hudson Spring 2027",
-      "zh-TW": "相關封面圖：Sergio Hudson 2027春季系列以女性詹姆斯·龐德概念為靈感"
+      "en": "Cover related to: Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "zh-TW": "相關封面圖：馬來西亞：男孩因精神錯亂被判無罪 殺害女學生案"
     },
-    "publishedAt": "2026-09-14T02:13:15.000Z",
+    "publishedAt": "2026-09-14T08:58:27.000Z",
     "title": {
-      "en": "Sergio Hudson Spring 2027 Collection Draws from Female James Bond Concept",
-      "zh-TW": "Sergio Hudson 2027春季系列以女性詹姆斯·龐德概念為靈感"
+      "en": "Malaysia: Boy Acquitted for Murder of Schoolgirl on Insanity Grounds",
+      "zh-TW": "馬來西亞：男孩因精神錯亂被判無罪 殺害女學生案"
     },
     "summary": {
-      "en": "Designer Sergio Hudson created his Spring 2027 collection inspired by James Bond if he were a woman. The theme reverses roles so the woman acts as the agent pursuing the male ingenue. Hudson has previously honored figures including Aretha Franklin, Cruella de Vil, and Jacqueline Broyer from the 1992 film Boomerang.",
-      "zh-TW": "設計師Sergio Hudson以女性版詹姆斯·龐德為靈感打造2027春季系列。主題反轉角色，讓女性成為追逐男性的特工。他過去曾致敬Aretha Franklin、Cruella de Vil以及1992年電影《Boomerang》中的Jacqueline Broyer。"
+      "en": "A Malaysian boy was acquitted of murdering a 16-year-old schoolgirl on grounds of insanity. The killing nearly a year ago shocked Malaysia and sparked debate about social media, according to BBC World.",
+      "zh-TW": "一名馬來西亞男孩因精神錯亂被判無罪，免於殺害16歲女學生的罪名。近一年前的這起殺人案震驚馬來西亞，並引發社群媒體相關討論，據BBC World報導。"
     },
     "body": {
-      "en": "Lede: Sergio Hudson presented a Spring 2027 collection themed around a female version of James Bond.\n\nWhat happened: Each season Sergio Hudson pays homage to a powerful female figure. Past references include Aretha Franklin, Cruella de Vil and Jacqueline Broyer from the 1992 film Boomerang. For Spring 2027 he was inspired by James Bond if he were a woman. The starting point for this collection was James Bond reversed, where the woman is the agent and the man is the ingenue being chased by her, he told Fashionista backstage ahead of the show.\n\nWhy it matters: The collection continues Hudson's pattern of celebrating strong women through fashion references drawn from film and music.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: No additional details on specific garments or runway outcomes are provided in the source.",
-      "zh-TW": "導言：Sergio Hudson呈現以女性版詹姆斯·龐德為主題的2027春季系列。\n\n發生什麼事：Sergio Hudson每季都會向一位強有力的女性人物致敬。過去參考包括Aretha Franklin、Cruella de Vil以及1992年電影《Boomerang》中的Jacqueline Broyer。2027春季系列靈感來自女性版的詹姆斯·龐德。系列起點是反轉的詹姆斯·龐德，女性成為特工而男性是被追逐的純真角色，他告訴Fashionista在秀前 backstage。\n\n為什麼重要：此系列延續Hudson透過電影與音樂參考讚頌堅強女性的模式。\n\n來源同意/不同意：僅有一個來源可用。\n\n仍不確定：來源未提供服裝細節或走秀結果等額外資訊。"
+      "en": "Lede: A Malaysian boy has been acquitted for the murder of a schoolgirl on grounds of insanity.\nWhat happened: The killing of the 16-year-old nearly a year ago had shocked Malaysia.\nWhy it matters: The case sparked debate about social media.\nSources agree/disagree: Only one source is available.\nStill uncertain: Details beyond the acquittal, the victim's age, timing, and social media debate are not provided in the source.",
+      "zh-TW": "導言：一名馬來西亞男孩因殺害女學生案以精神錯亂為由被判無罪。\n事件經過：近一年前殺害16歲女學生的案件震驚馬來西亞。\n重要性：此案引發社群媒體相關討論。\n來源一致/分歧：僅有一個來源可用。\n仍不確定：除無罪判決、受害者年齡、時間及社群媒體討論外，來源未提供其他細節。"
     },
     "sources": [
       {
-        "name": "Fashionista",
-        "url": "https://fashionista.com/2026/09/sergio-hudson-spring-2027-review"
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "disagreements": null,
-    "trustScore": 53,
+    "trustScore": 65,
     "trustBreakdown": {
       "sourceDiversity": 8,
-      "outletReputation": 14,
+      "outletReputation": 24,
       "crossCorroboration": 8,
-      "recencyClarity": 23
+      "recencyClarity": 25
     },
     "tags": [
-      "beauty",
+      "society",
       "live-ingest",
-      "fashionista"
+      "bbc-world"
     ]
   },
   {
-    "id": "live-beauty-02-grace-ling-s-spring-2027",
-    "category": "beauty",
+    "id": "live-entertainment-01-the-walking-dead-dead-ci",
+    "category": "entertainment",
     "adult": false,
     "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-beauty-02-grace-ling-s-spring-2027.jpg",
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-01-the-walking-dead-dead-ci.jpg",
     "imageAlt": {
-      "en": "Cover related to: Grace Ling's Spring 2027 Collection Explores 'Oddities'",
-      "zh-TW": "相關封面圖：葛蕾絲·林2027春季系列探索「奇異」"
+      "en": "Cover related to: ‘The Walking Dead: Dead City’ Season 4: Has AMC Renewed the Series After the Season 3 Finale?",
+      "zh-TW": "相關封面圖：AMC《陰屍路：死城》第四季：第三季結局後續訂疑問"
     },
-    "publishedAt": "2026-09-14T02:55:10.000Z",
+    "publishedAt": "2026-09-14T10:31:04.000Z",
     "title": {
-      "en": "Grace Ling's Spring 2027 Collection Explores 'Oddities'",
-      "zh-TW": "葛蕾絲·林2027春季系列探索「奇異」"
+      "en": "AMC The Walking Dead: Dead City Season 4 Renewal Questions After Season 3 Finale",
+      "zh-TW": "AMC《陰屍路：死城》第四季：第三季結局後續訂疑問"
     },
     "summary": {
-      "en": "Grace Ling's Spring 2027 collection draws from her frustration with rigid gender norms in fashion and social media. She criticizes expectations that women must dress femininely and not too masculinely, calling such binary discussions silly. This irritation sparked her latest show exploring 'Oddities'. Read more at https://fashionista.com/2026/09/grace-ling-spring-2027-review",
-      "zh-TW": "葛蕾絲·林2027春季系列源自她對時尚與社群媒體中性別規範的挫折。她批評女性必須穿得女性化且不能太男性化的期望，稱此類二元討論愚蠢。此憤怒啟發她探索「奇異」的新作。詳見 https://fashionista.com/2026/09/grace-ling-spring-2027-review"
+      "en": "Sources examine possible season 4 for The Walking Dead: Dead City after its season 3 finale aired September 13. The episode titled Tenebrae shows Maggie and Negan fighting walkers to rescue their community including Luis. Both outlets question if AMC renewed the series starring Jeffrey Dean Morgan and Lauren Cohan.",
+      "zh-TW": "來源探討《陰屍路：死城》第三季結局後是否有第四季。該集名為Tenebrae，描述Maggie與Negan對抗行屍拯救包括Luis在內的社區。兩篇報導均詢問AMC是否續訂由Jeffrey Dean Morgan與Lauren Cohan主演的系列。"
     },
     "body": {
-      "en": "Lede: Grace Ling presented her Spring 2027 collection, using personal irritation with gender stereotypes as the foundation.\n\nWhat happened: Backstage after the show, Ling told Fashionista she reflected on standards dictating how women should dress, emphasizing femininity over masculinity. She noted social media has normalized eras labeled 'feminine' or 'masculine,' reaching a point of frustration where she viewed the conversations as silly. This irritation became the starting point for her latest collection.\n\nWhy it matters: The collection challenges conventional expectations in women's fashion by addressing ongoing cultural pressures around gender expression.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: Details on specific designs or full collection themes beyond the initial inspiration remain limited to the provided information. https://fashionista.com/2026/09/grace-ling-spring-2027-review",
-      "zh-TW": "導言：葛蕾絲·林推出2027春季系列，以對性別刻板印象的個人挫折作為基礎。\n\n事件經過：秀後 backstage，Ling 告訴 Fashionista，她反思規範女性穿著的標準，強調女性化而非太男性化。她指出社群媒體已將「女性化」或「男性化」時代正常化，達到令她沮喪的地步，視此類對話為愚蠢。此憤怒成為她最新系列的起點。\n\n重要性：該系列挑戰女性時尚中的傳統期望，探討性別表達的文化壓力。\n\n來源同意/分歧：僅有一個來源可用。\n\n仍不確定：除初始靈感外，具體設計或完整系列主題的細節僅限於所提供資訊。https://fashionista.com/2026/09/grace-ling-spring-2027-review"
+      "en": "Lede: AMC The Walking Dead: Dead City season three concluded with its finale on Sunday night September 13.\nWhat happened: The episode titled Tenebrae featured Maggie portrayed by Lauren Cohan and Negan portrayed by Jeffrey Dean Morgan fighting walkers to rescue their community including Luis from enemy clutches. Season three left the door open for more.\nWhy it matters: Viewers are asking if the spinoff will return for season 4.\nSources agree/disagree: Hollywood Life asks Will There Be a Season 4 of The Walking Dead: Dead City and Just Jared asks Has AMC Renewed the Series After the Season 3 Finale. Both raise the same renewal question without providing answers.\nStill uncertain: No confirmation appears on whether AMC renewed The Walking Dead: Dead City for season 4. https://hollywoodlife.com/feature/walking-dead-dead-city-season-4-updates-5560679/ https://www.justjared.com/2026/09/14/the-walking-dead-dead-city-season-4-has-amc-renewed-the-series-after-the-season-3-finale/",
+      "zh-TW": "導言：AMC《陰屍路：死城》第三季於9月13日星期日晚間播出結局。\n發生事件：名為Tenebrae的集數中，Lauren Cohan飾演的Maggie與Jeffrey Dean Morgan飾演的Negan對抗行屍，拯救包括Luis在內的社區免於敵人掌控。第三季為後續留下空間。\n重要性：觀眾詢問該衍生劇是否會推出第四季。\n來源同意或分歧：Hollywood Life詢問Will There Be a Season 4 of The Walking Dead: Dead City，Just Jared詢問Has AMC Renewed the Series After the Season 3 Finale。兩者均提出相同續訂疑問，卻未提供答案。\n仍未確定：目前無AMC是否續訂《陰屍路：死城》第四季的確認。https://hollywoodlife.com/feature/walking-dead-dead-city-season-4-updates-5560679/ https://www.justjared.com/2026/09/14/the-walking-dead-dead-city-season-4-has-amc-renewed-the-series-after-the-season-3-finale/"
     },
     "sources": [
       {
-        "name": "Fashionista",
-        "url": "https://fashionista.com/2026/09/grace-ling-spring-2027-review"
+        "name": "Hollywood Life",
+        "url": "https://hollywoodlife.com/feature/walking-dead-dead-city-season-4-updates-5560679/"
+      },
+      {
+        "name": "Just Jared",
+        "url": "https://www.justjared.com/2026/09/14/the-walking-dead-dead-city-season-4-has-amc-renewed-the-series-after-the-season-3-finale/"
       }
     ],
     "disagreements": null,
-    "trustScore": 53,
+    "trustScore": 68,
     "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 14,
-      "crossCorroboration": 8,
-      "recencyClarity": 23
+      "sourceDiversity": 16,
+      "outletReputation": 12,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
     },
     "tags": [
-      "beauty",
+      "entertainment",
       "live-ingest",
-      "fashionista"
+      "hollywood-life",
+      "just-jared"
     ]
   },
   {
-    "id": "live-beauty-03-patricio-campillo-design",
+    "id": "live-entertainment-02-cheetah-chrome-dead-boys",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-entertainment-02-cheetah-chrome-dead-boys.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Cheetah Chrome, Dead Boys and Rocket From the Tombs Guitarist, Dead at 71",
+      "zh-TW": "相關封面圖：Cheetah Chrome，Dead Boys 與 Rocket From the Tombs 吉他手，享年 71 歲"
+    },
+    "publishedAt": "2026-09-14T07:21:23.000Z",
+    "title": {
+      "en": "Cheetah Chrome, Dead Boys and Rocket From the Tombs Guitarist, Dead at 71",
+      "zh-TW": "Cheetah Chrome，Dead Boys 與 Rocket From the Tombs 吉他手，享年 71 歲"
+    },
+    "summary": {
+      "en": "Cheetah Chrome, guitarist for Dead Boys and Rocket From the Tombs, has died at age 71. The prolific musician also played with Sylvain Sylvain and Ronnie Spector. He is remembered as an architect of the punk rock movement. Rolling Stone reports the news with no other details provided.",
+      "zh-TW": "Dead Boys 與 Rocket From the Tombs 吉他手 Cheetah Chrome 享年 71 歲逝世。這位多產音樂家也曾與 Sylvain Sylvain 和 Ronnie Spector 合作，被譽為龐克搖滾運動的建築師。Rolling Stone 報導此消息，未提供其他細節。"
+    },
+    "body": {
+      "en": "Lede: Cheetah Chrome, Dead Boys and Rocket From the Tombs guitarist, has died at 71.\nWhat happened: The musician passed away, with Rolling Stone noting his roles in those bands and collaborations with Sylvain Sylvain and Ronnie Spector.\nWhy it matters: He is remembered as an architect of the punk rock movement.\nSources agree/disagree: Only one source is available.\nStill uncertain: No additional facts, quotes, numbers or events are present in the source.",
+      "zh-TW": "導言：Cheetah Chrome，Dead Boys 與 Rocket From the Tombs 的吉他手，享年 71 歲逝世。\n發生什麼事：這位音樂家逝世，Rolling Stone 指出他在這些樂團的角色，以及與 Sylvain Sylvain 和 Ronnie Spector 的合作。\n為什麼重要：他被記住為龐克搖滾運動的建築師。\n來源同意/不同意：只有一個來源可用。\n仍不確定：來源中沒有其他事實、引述、數字或事件。"
+    },
+    "sources": [
+      {
+        "name": "Rolling Stone Music",
+        "url": "https://www.rollingstone.com/music/music-news/cheetah-chrome-dead-boys-guitarist-obituary-1235625943/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 58,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 17,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "rolling-stone-music"
+    ]
+  },
+  {
+    "id": "live-beauty-01-patricio-campillo-design",
     "category": "beauty",
     "adult": false,
     "isHeadline": false,
     "isPopular": false,
-    "imageUrl": "/covers/live/live-beauty-03-patricio-campillo-design.jpg",
+    "imageUrl": "/covers/live/live-beauty-01-patricio-campillo-design.jpg",
     "imageAlt": {
       "en": "Cover related to: Patricio Campillo Designed a Jacket Made From Bacteria for Spring 2027",
-      "zh-TW": "相關封面圖：帕特里西奧·坎皮略為2027春季設計細菌製成的夾克"
+      "zh-TW": "相關封面圖：Patricio Campillo 為 2027 春季設計細菌外套"
     },
     "publishedAt": "2026-09-14T03:12:14.000Z",
     "title": {
-      "en": "Patricio Campillo Designed a Jacket Made From Bacteria for Spring 2027",
-      "zh-TW": "帕特里西奧·坎皮略為2027春季設計細菌製成的夾克"
+      "en": "Patricio Campillo Designs Bacteria Jacket for Spring 2027",
+      "zh-TW": "Patricio Campillo 為 2027 春季設計細菌外套"
     },
     "summary": {
-      "en": "Designer Patricio Campillo presented his Spring 2027 collection starting in media res. He reflected sartorially on objects conceptualized in the middle of a process, describing it as something that happens in the becoming, according to his comments to Fashionista ahead of the run.",
-      "zh-TW": "設計師帕特里西奧·坎皮略呈現2027春季系列，以媒體中開場。他以服裝反映在過程中概念化的物品，描述為正在成為的某事，根據他對Fashionista的評論。"
+      "en": "Designer Patricio Campillo presented a jacket made from bacteria for Spring 2027. The collection reflects on objects conceptualized in the middle of a process, beginning in media res as described in his Fashionista interview ahead of the runway show.",
+      "zh-TW": "設計師 Patricio Campillo 為 2027 春季推出細菌製成外套。系列反映物件在過程中概念化，從媒體報導中以 in media res 開場，如其接受 Fashionista 訪談所述。"
     },
     "body": {
-      "en": "Lede: Patricio Campillo Designed a Jacket Made From Bacteria for Spring 2027.\n\nWhat happened: For Spring 2027, Campillo began in media res. My fellow literature nerds may recognize the Latin term from high school English class, but rather than referencing a story that drops the reader right into the middle of the plot, designer Patricio Campillo is sartorially reflecting on “something that happens in the becoming.” “It’s an object that is conceptualized in the middle of a process of something else,” Campillo told Fashionista ahead of his Spring 2027 run.\n\nWhy it matters: The collection explores conceptual objects in process as described in the source.\n\nSources agree/disagree: Single source provided.\n\nStill uncertain: Details beyond the given snippet on the jacket or other elements are not specified.",
-      "zh-TW": "導言：帕特里西奧·坎皮略為2027春季設計細菌製成的夾克。\n\n發生什麼：2027春季，坎皮略以媒體中開場。文學同好可能認得高中英文課的拉丁詞，但設計師帕特里西奧·坎皮略不是指故事直接進入情節中段，而是以服裝反映「正在成為的某事」。「這是概念化於其他過程中的物品，」坎皮略在2027春季系列前告訴Fashionista。\n\n為何重要：系列探索來源所述的過程中概念化物品。\n\n來源同意或不同意：僅提供單一來源。\n\n仍不確定：來源片段未指定夾克或其他細節。"
+      "en": "Lede: Patricio Campillo created a jacket made from bacteria for his Spring 2027 collection.\n\nWhat happened: For Spring 2027, Campillo began in media res. Designer Patricio Campillo is sartorially reflecting on something that happens in the becoming. It is an object that is conceptualized in the middle of a process of something else, Campillo told Fashionista ahead of his Spring 2027 run.\n\nWhy it matters: The design approach highlights process-oriented fashion using bacterial materials in a new collection.\n\nSources agree/disagree: Only one source available.\n\nStill uncertain: Details on the jacket construction or runway presentation remain limited to the provided information.\n\nSource: https://fashionista.com/2026/09/campillo-spring-2027-review",
+      "zh-TW": "導言：Patricio Campillo 為 2027 春季系列創作細菌製成外套。\n\n事件經過：2027 春季，Campillo 以 in media res 開場。設計師 Patricio Campillo 以服裝反映「正在成為中的事物」。這是概念化於其他過程中的物件，Campillo 在 2027 春季系列前接受 Fashionista 訪談時表示。\n\n重要性：此設計方法強調以細菌材料進行過程導向的時尚創作。\n\n來源一致/分歧：僅有一個來源。\n\n仍不確定：外套構造或走秀細節僅限於提供資訊。\n\n來源：https://fashionista.com/2026/09/campillo-spring-2027-review"
     },
     "sources": [
       {
@@ -541,165 +593,78 @@
     ]
   },
   {
-    "id": "live-ai-03-ai-leaders-are-calling-f",
-    "category": "ai",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-ai-03-ai-leaders-are-calling-f.jpg",
-    "imageAlt": {
-      "en": "Cover related to: AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "zh-TW": "相關封面圖：Sam Altman、Elon Musk 支持 Dario Amodei 呼籲 AI 限制，川普強調維持美國對中國領先"
-    },
-    "publishedAt": "2026-09-14T11:00:00.000Z",
-    "title": {
-      "en": "Sam Altman, Elon Musk Back Dario Amodei Call for AI Restraint as Trump Seeks US Lead Over China",
-      "zh-TW": "Sam Altman、Elon Musk 支持 Dario Amodei 呼籲 AI 限制，川普強調維持美國對中國領先"
-    },
-    "summary": {
-      "en": "Sam Altman and Elon Musk backed Dario Amodei’s call for Washington to slow AI development this weekend. Donald Trump wants the US to maintain its lead over China. The Wired article covers these positions without additional details on specific policies or timelines.",
-      "zh-TW": "Sam Altman 與 Elon Musk 本週末支持 Dario Amodei 呼籲華盛頓放緩 AI 發展。Donald Trump 希望美國維持對中國的領先地位。Wired 文章報導這些立場，未提供具體政策或時間表細節。"
-    },
-    "body": {
-      "en": "Lede: AI leaders Sam Altman and Elon Musk supported a call for restraint in AI development.\n\nWhat happened: Dario Amodei called on Washington to slow AI development. Sam Altman and Elon Musk backed this call for restraint this weekend. Donald Trump wants the US to maintain its lead over China.\n\nWhy it matters: The positions highlight differing views on AI pace between industry leaders and political figures focused on international competition.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: No further details on specific slowdown measures or responses are provided.\n\nSource: https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "zh-TW": "Lede: AI 領袖 Sam Altman 與 Elon Musk 支持 AI 發展限制呼籲。\n\nWhat happened: Dario Amodei 呼籲華盛頓放緩 AI 發展。Sam Altman 與 Elon Musk 本週末支持此限制呼籲。Donald Trump 希望美國維持對中國的領先地位。\n\nWhy it matters: 這些立場凸顯產業領袖與聚焦國際競爭的政治人物在 AI 步伐上的不同觀點。\n\nSources agree/disagree: 僅有一個來源可用。\n\nStill uncertain: 未提供放緩措施或回應的進一步細節。\n\n來源: https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/"
-    },
-    "sources": [
-      {
-        "name": "Wired AI",
-        "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 59,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 18,
-      "crossCorroboration": 8,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "ai",
-      "live-ingest",
-      "wired-ai"
-    ]
-  },
-  {
-    "id": "live-international-02-thousands-demand-end-to-",
-    "category": "international",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-international-02-thousands-demand-end-to-.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Thousands demand end to violence in Mexican cartel hotspot",
-      "zh-TW": "相關封面圖：錫納羅阿卡特爾：數千人要求結束墨西哥熱點暴力"
-    },
-    "publishedAt": "2026-09-14T11:28:36.000Z",
-    "title": {
-      "en": "Sinaloa Cartel: Thousands Demand End to Violence in Mexican Hotspot",
-      "zh-TW": "錫納羅阿卡特爾：數千人要求結束墨西哥熱點暴力"
-    },
-    "summary": {
-      "en": "Thousands protested in a Mexican city hit by cartel violence, calling for an end to the conflict. Violence has escalated sharply due to a feud between two rival factions of the Sinaloa cartel, according to reports from the area.",
-      "zh-TW": "墨西哥一座城市數千人走上街頭，呼籲結束卡特爾暴力衝突。報導指出，自錫納羅阿卡特爾兩個敵對派系爆發爭鬥以來，當地暴力事件急劇增加。"
-    },
-    "body": {
-      "en": "Lede: Thousands have taken to the streets demanding an end to violence in a Mexican cartel hotspot.\n\nWhat happened: The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.\n\nWhy it matters: Ongoing cartel conflicts continue to disrupt communities and heighten public safety concerns in affected regions.\n\nSources agree/disagree: The single available source reports the protest and the underlying cartel feud without additional details.\n\nStill uncertain: Specific location names, protest scale, or outcomes remain unspecified in the provided information.",
-      "zh-TW": "導言：數千人走上街頭，要求結束墨西哥卡特爾熱點的暴力事件。\n\n事件經過：自錫納羅阿卡特爾兩個敵對派系爆發爭鬥以來，該城市暴力事件急劇增加。\n\n重要性：持續的卡特爾衝突持續擾亂社區，並加劇受影響地區的公共安全疑慮。\n\n來源一致/分歧：唯一可用來源報導了抗議活動及卡特爾派系爭鬥，但未提供其他細節。\n\n仍不確定：提供的資訊中未提及具體地點名稱、抗議規模或結果。"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 65,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 24,
-      "crossCorroboration": 8,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-world"
-    ]
-  },
-  {
-    "id": "live-international-03-china-criticises-idea-it",
-    "category": "international",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-international-03-china-criticises-idea-it.jpg",
-    "imageAlt": {
-      "en": "Cover related to: China criticises idea it is in 'malicious competition' over AI",
-      "zh-TW": "相關封面圖：中國批評其在人工智慧方面「惡意競爭」的想法"
-    },
-    "publishedAt": "2026-09-14T11:31:39.000Z",
-    "title": {
-      "en": "China criticises idea it is in 'malicious competition' over AI",
-      "zh-TW": "中國批評其在人工智慧方面「惡意競爭」的想法"
-    },
-    "summary": {
-      "en": "China criticises the idea that it is engaged in malicious competition over AI. This follows calls by the Anthropic CEO for a slowdown in AI development to prevent China from pulling ahead. Source: BBC World.",
-      "zh-TW": "中國批評其在人工智慧方面從事惡意競爭的想法。這是繼Anthropic執行長呼籲放緩人工智慧發展，以防止中國領先之後。來源：BBC World。"
-    },
-    "body": {
-      "en": "Lede: China criticises idea it is in 'malicious competition' over AI.\nWhat happened: It follows the Anthropic CEO's calls for a slowdown in AI development, in a way that China doesn't pull ahead.\nWhy it matters: The response addresses concerns raised in relation to AI development pace.\nSources agree/disagree: Single source provides the information.\nStill uncertain: No additional details available.\nLink: https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "zh-TW": "導言：中國批評其在人工智慧方面「惡意競爭」的想法。\n發生什麼事：這是繼Anthropic執行長呼籲放緩人工智慧發展，以防止中國領先之後。\n為什麼重要：回應與人工智慧發展速度相關的關切。\n來源同意/不同意：單一來源提供資訊。\n仍不確定：無其他細節可用。\n連結：https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 65,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 24,
-      "crossCorroboration": 8,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-world"
-    ]
-  },
-  {
-    "id": "live-international-04-zambians-warned-not-to-e",
+    "id": "live-international-03-key-leaders-sound-the-al",
     "category": "international",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-international-04-zambians-warned-not-to-e.jpg",
+    "imageUrl": "/covers/live/live-international-03-key-leaders-sound-the-al.jpg",
     "imageAlt": {
-      "en": "Cover related to: Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-      "zh-TW": "相關封面圖：贊比亞人被警告勿食用死去野生動物，因炭疽病已殺死數十隻動物"
+      "en": "Cover related to: Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
+      "zh-TW": "相關封面圖：阿曼伊朗會談延遲 AI公司領導人呼籲放緩發展"
     },
-    "publishedAt": "2026-09-14T11:35:08.000Z",
+    "publishedAt": "2026-09-14T11:39:06.000Z",
     "title": {
-      "en": "Zambians Warned Not to Eat Dead Wildlife After Anthrax Kills Dozens of Animals",
-      "zh-TW": "贊比亞人被警告勿食用死去野生動物，因炭疽病已殺死數十隻動物"
+      "en": "Oman Iran Talks Delayed as AI Company Leaders Urge Development Slowdown",
+      "zh-TW": "阿曼伊朗會談延遲 AI公司領導人呼籲放緩發展"
     },
     "summary": {
-      "en": "Zambian authorities warn against eating dead wildlife after anthrax killed dozens of animals. At least 12 people are being treated for anthrax contracted from infected meat of wildlife carcasses, according to BBC reporting from the affected region.",
-      "zh-TW": "贊比亞當局警告民眾勿食用死去野生動物，因炭疽病已導致數十隻動物死亡。根據BBC報導，至少有12人因食用受感染的野生動物屍體肉類而接受炭疽病治療。"
+      "en": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. Iran-Gulf diplomacy hits a setback as talks in Oman are delayed. This bilingual digest summarizes the reports from NPR sources without adding external details.",
+      "zh-TW": "部分人工智慧公司關鍵領導人呼籲放緩AI發展。伊朗與海灣國家外交因阿曼會談延遲而受挫。本雙語摘要僅依據NPR來源報導，未添加外部細節。"
     },
     "body": {
-      "en": "Lede: Zambians have been warned not to eat dead wildlife following an anthrax outbreak that killed dozens of animals.\n\nWhat happened: The BBC reports that at least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.\n\nWhy it matters: This public health warning addresses risks from consuming contaminated wildlife in Zambia amid the ongoing animal deaths from anthrax.\n\nSources agree/disagree: Only one source is provided with no conflicting information.\n\nStill uncertain: Details on the exact number of animal deaths, locations within Zambia, or further spread are not specified in the available source.\n\nSource: https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-      "zh-TW": "導言：贊比亞人被警告不要食用死去的野生動物，因為炭疽病已導致數十隻動物死亡。\n\n事件經過：BBC報導，至少有12人因食用受感染的野生動物屍體肉類而接受炭疽病治療。\n\n重要性：此公共衛生警告針對贊比亞因炭疽病導致動物死亡而食用受污染野生動物的風險。\n\n來源一致/分歧：僅提供單一來源，無衝突資訊。\n\n仍不確定：可用來源未說明確切動物死亡數量、贊比亞境內地點或進一步傳播細節。\n\n來源：https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss"
+      "en": "Lede: Reports indicate key leaders at artificial intelligence companies are calling for a slowdown in AI development while Iran-Gulf diplomacy encounters a setback due to delayed talks in Oman.\n\nWhat happened: Some key leaders at artificial intelligence companies call for a slowdown in AI development. Iran-Gulf diplomacy hits a setback as talks in Oman are delayed.\n\nWhy it matters: The calls from AI leaders highlight concerns over rapid development pace. The diplomatic delay affects ongoing Iran-Gulf relations efforts.\n\nSources agree/disagree: Both provided sources present identical information on the AI leaders' calls and the Oman talks delay.\n\nStill uncertain: No additional details on specific leaders, timelines, or outcomes are available from the sources.\n\nSources: https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
+      "zh-TW": "導言：報導指出部分人工智慧公司關鍵領導人呼籲放緩AI發展，同時伊朗與海灣國家外交因阿曼會談延遲而受挫。\n\n事件經過：部分人工智慧公司關鍵領導人呼籲放緩AI發展。伊朗與海灣國家外交因阿曼會談延遲而受挫。\n\n重要性：AI領導人的呼籲凸顯對快速發展步伐的關注。外交延遲影響伊朗與海灣國家的持續關係努力。\n\n來源一致/分歧：兩份來源提供關於AI領導人呼籲與阿曼會談延遲的相同資訊。\n\n仍不確定：來源未提供特定領導人、時間表或結果的額外細節。\n\n來源：https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks"
     },
     "sources": [
       {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss"
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 71,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 23,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "npr-world",
+      "npr-news"
+    ]
+  },
+  {
+    "id": "live-society-03-driver-who-killed-team-g",
+    "category": "society",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-society-03-driver-who-killed-team-g.png",
+    "imageAlt": {
+      "en": "Cover related to: Driver who killed Team GB triathlete to be deported",
+      "zh-TW": "相關封面圖：Visile Barbu：羅馬尼亞貨車司機殺害英國代表隊鐵人三項選手後驅逐出境上訴遭駁回"
+    },
+    "publishedAt": "2026-09-14T11:27:01.000Z",
+    "title": {
+      "en": "Visile Barbu: Romanian Van Driver's Deportation Appeal Dismissed After Killing Team GB Triathlete",
+      "zh-TW": "Visile Barbu：羅馬尼亞貨車司機殺害英國代表隊鐵人三項選手後驅逐出境上訴遭駁回"
+    },
+    "summary": {
+      "en": "Romanian van driver Visile Barbu's appeal against deportation was dismissed by a judge. The ruling follows Barbu's involvement in the death of a Team GB triathlete. The decision upholds the original deportation order in this society category case involving crime and public safety.",
+      "zh-TW": "羅馬尼亞貨車司機Visile Barbu對驅逐出境的上訴被法官駁回。此裁決涉及Barbu導致英國代表隊鐵人三項選手死亡的事件。該決定維持原驅逐令，此案屬於社會類別，涵蓋犯罪與公共安全。"
+    },
+    "body": {
+      "en": "Lede: Romanian van driver Visile Barbu faces deportation after a judge dismissed his appeal against the order. What happened: The BBC UK report states that Romanian van driver Visile Barbu's appeal against deportation was dismissed by a judge. The case centers on the driver who killed a Team GB triathlete. Why it matters: The outcome relates to immigration enforcement and public safety following fatal incidents, reflecting UK policies on deporting individuals convicted of serious crimes. Sources agree/disagree: The single available source from BBC UK with URL https://www.bbc.co.uk/news/articles/cr89j81de1edo?at_medium=RSS&at_campaign=rss reports the appeal dismissal without any conflicting details from other sources. Sources agree on the judge's decision to dismiss the appeal. Still uncertain: No additional details on the original incident, exact dates, or further proceedings appear in the provided source material. The digest draws exclusively from the given title and snippet under the society category. The primary title hint emphasizes the deportation of the driver responsible for the triathlete's death. All content remains limited to facts stated in the source without external additions or interpretations.",
+      "zh-TW": "Lede：羅馬尼亞貨車司機Visile Barbu在法官駁回其上訴後面臨驅逐出境。What happened：BBC UK報導指出，羅馬尼亞貨車司機Visile Barbu對驅逐出境的上訴被法官駁回。此案聚焦於導致英國代表隊鐵人三項選手死亡的司機。Why it matters：此結果涉及致命事件後的移民執法與公共安全，反映英國對嚴重犯罪定罪者驅逐的政策。Sources agree/disagree：唯一來源為BBC UK，網址https://www.bbc.co.uk/news/articles/cr89j81de1edo?at_medium=RSS&at_campaign=rss，報導上訴遭駁回，無其他來源衝突。來源一致同意法官駁回上訴的決定。Still uncertain：來源材料未提供原始事件、確切日期或進一步程序的額外細節。本摘要僅依據所給標題與片段，屬於社會類別。主要標題提示強調對造成鐵人三項選手死亡司機的驅逐。所有內容限於來源所述事實，未添加外部資訊或詮釋。"
+    },
+    "sources": [
+      {
+        "name": "BBC UK",
+        "url": "https://www.bbc.co.uk/news/articles/cr89j81de1edo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "disagreements": null,
@@ -711,141 +676,53 @@
       "recencyClarity": 25
     },
     "tags": [
-      "international",
+      "society",
       "live-ingest",
-      "bbc-world"
+      "bbc-uk"
     ]
   },
   {
-    "id": "live-entertainment-01-javier-bardem-to-be-hono",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-01-javier-bardem-to-be-hono.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Javier Bardem to Be Honored by Rome Film Festival With Lifetime Achievement Award",
-      "zh-TW": "相關封面圖：哈維爾·巴登 羅馬電影節 終身成就獎"
-    },
-    "publishedAt": "2026-09-14T11:06:57.000Z",
-    "title": {
-      "en": "Javier Bardem Rome Film Festival Lifetime Achievement Award",
-      "zh-TW": "哈維爾·巴登 羅馬電影節 終身成就獎"
-    },
-    "summary": {
-      "en": "Javier Bardem will receive a lifetime achievement award from the Rome Film Festival. The Oscar-winning actor will present a screening of Spanish director Rodrigo Sorogoyen’s “The Beloved” (“El ser querido”) in the best of the fests section. The film world-premiered at Cannes.",
-      "zh-TW": "哈維爾·巴登將獲得羅馬電影節終身成就獎。這位奧斯卡得主演員將在最佳影展單元放映西班牙導演羅德里戈·索羅戈延的《摯愛》（El ser querido）。該片已在坎城世界首映。"
-    },
-    "body": {
-      "en": "Lede: Javier Bardem will be honored with a lifetime achievement award by the Rome Film Festival.\n\nWhat happened: Javier Bardem will be honored with a lifetime achievement award by the Rome Film Festival where the Oscar-winning actor will present a screening of Spanish director Rodrigo Sorogoyen’s “The Beloved” (“El ser querido”) that is being showcased in the event’s best of the fests section. In “The Beloved,” which world-premiered at Cannes, Bardem plays an role.\n\nWhy it matters: The honor recognizes Bardem's contributions as highlighted by the Rome Film Festival selection.\n\nSources agree/disagree: The single available source reports the award and screening details without contradiction.\n\nStill uncertain: Further specifics on Bardem's character in the film are not detailed beyond the provided information. Source: https://variety.com/2026/film/global/javier-bardem-rome-film-festival-lifetime-achievement-award-1236861018/",
-      "zh-TW": "導言：哈維爾·巴登將獲得羅馬電影節終身成就獎。\n\n事件經過：哈維爾·巴登將獲得羅馬電影節終身成就獎，這位奧斯卡得主演員將放映西班牙導演羅德里戈·索羅戈延的《摯愛》（El ser querido），該片在最佳影展單元展出。《摯愛》已在坎城世界首映，巴登在片中飾演角色。\n\n重要性：此獎項肯定巴登的貢獻，由羅馬電影節選定。\n\n來源一致/分歧：唯一來源報導獎項與放映細節無矛盾。\n\n仍不確定：片中巴登角色細節未超出提供資訊。來源：https://variety.com/2026/film/global/javier-bardem-rome-film-festival-lifetime-achievement-award-1236861018/"
-    },
-    "sources": [
-      {
-        "name": "Variety",
-        "url": "https://variety.com/2026/film/global/javier-bardem-rome-film-festival-lifetime-achievement-award-1236861018/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 58,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 17,
-      "crossCorroboration": 8,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "entertainment",
-      "live-ingest",
-      "variety"
-    ]
-  },
-  {
-    "id": "live-entertainment-02-club-kid-wins-top-prize-",
-    "category": "entertainment",
+    "id": "live-society-04-speedboat-killer-jailed-",
+    "category": "society",
     "adult": false,
     "isHeadline": false,
     "isPopular": false,
-    "imageUrl": "/covers/live/live-entertainment-02-club-kid-wins-top-prize-.jpg",
+    "imageUrl": "/covers/live/live-society-04-speedboat-killer-jailed-.png",
     "imageAlt": {
-      "en": "Cover related to: ‘Club Kid’ Wins Top Prize at Deauville American Film Festival",
-      "zh-TW": "相關封面圖：Jordan Firstman 的《Club Kid》在多維爾美國電影節贏得大獎"
+      "en": "Cover related to: Speedboat killer jailed for attack on girlfriend",
+      "zh-TW": "相關封面圖：（譯文待補）Speedboat killer jailed for attack on girlfriend"
     },
-    "publishedAt": "2026-09-14T11:08:20.000Z",
+    "publishedAt": "2026-09-14T11:37:31.000Z",
     "title": {
-      "en": "Jordan Firstman's Club Kid Wins Grand Prix at Deauville American Film Festival",
-      "zh-TW": "Jordan Firstman 的《Club Kid》在多維爾美國電影節贏得大獎"
+      "en": "Speedboat killer jailed for attack on girlfriend",
+      "zh-TW": "快艇殺手因攻擊女友入獄"
     },
     "summary": {
-      "en": "Jordan Firstman's directorial debut Club Kid won the top Grand Prix Award at the Deauville American Film Festival over the weekend. The film, a breakout from Cannes earlier this year, is scheduled for release by A24 later this year. It celebrated further success on the French coast.",
-      "zh-TW": "Jordan Firstman 的導演處女作《Club Kid》在多維爾美國電影節週末贏得最高大獎。此片今年稍早在坎城影展大放異彩，預計今年晚些時候由 A24 發行。它在法國海岸再次慶祝成功。"
+      "en": "Jack Shepherd was sentenced at Isleworth Crown Court after previously admitting the violent assault.",
+      "zh-TW": "Jack Shepherd 在先前承認暴力襲擊後，於 Isleworth Crown Court 被判刑。"
     },
     "body": {
-      "en": "Lede: Jordan Firstman's buzzy directorial debut Club Kid secured the Grand Prix Award at the Deauville American Film Festival.\n\nWhat happened: After emerging as one of the biggest breakouts from the Cannes Film Festival earlier this year, Club Kid earned another accolade on the French coast when it won the top prize over the weekend.\n\nWhy it matters: The victory highlights the film's continued momentum ahead of its A24 release later this year.\n\nSources agree/disagree: The single source reports consistent details on the award, director, festival, and release plans with no variations noted.\n\nStill uncertain: No additional details on other winners or exact award criteria are provided in the source.",
-      "zh-TW": "導言：Jordan Firstman 備受矚目的導演處女作《Club Kid》在多維爾美國電影節贏得大獎。\n\n事件經過：今年稍早在坎城影展成為最大突破之一後，《Club Kid》週末在法國海岸再次獲獎，贏得最高大獎。\n\n重要性：此勝利凸顯該片在 A24 今年晚些時候發行前的持續勢頭。\n\n來源一致/分歧：單一來源對獎項、導演、影展及發行計畫的細節報導一致，未見差異。\n\n仍不確定：來源未提供其他得獎者或確切評選標準的額外細節。"
+      "en": "Jack Shepherd was sentenced at Isleworth Crown Court after previously admitting the violent assault.\n\nWhat happened\nSpeedboat killer jailed for attack on girlfriend. Jack Shepherd was sentenced at Isleworth Crown Court after previously admitting the violent assault.\n\nWhy it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (BBC UK) in the society category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles.\n\nSources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages.\n\nStill uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees.\n\nLinked sources: BBC UK: https://www.bbc.co.uk/news/articles/cx2zvkglvm8o?at_medium=RSS&at_campaign=rss\n\nAdditional feed context\n(1) Jack Shepherd was sentenced at Isleworth Crown Court after previously admitting the violent assault.",
+      "zh-TW": "Jack Shepherd was sentenced at Isleworth Crown Court after previously admitting the violent assault.\n\nWhat happened\nSpeedboat killer jailed for attack on girlfriend. Jack Shepherd was sentenced at Isleworth Crown Court after previously admitting the violent assault.\n\nWhy it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (BBC UK) in the society category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles.\n\nSources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages.\n\nStill uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees.\n\nLinked sources: BBC UK: https://www.bbc.co.uk/news/articles/cx2zvkglvm8o?at_medium=RSS&at_campaign=rss\n\nAdditional feed context\n(1) Jack Shepherd was sentenced at Isleworth Crown Court after previously admitting the violent assault."
     },
     "sources": [
       {
-        "name": "Variety",
-        "url": "https://variety.com/2026/film/global/club-kid-top-prize-deauville-american-film-festival-1236861014/"
+        "name": "BBC UK",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zvkglvm8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "disagreements": null,
-    "trustScore": 58,
+    "trustScore": 65,
     "trustBreakdown": {
       "sourceDiversity": 8,
-      "outletReputation": 17,
+      "outletReputation": 24,
       "crossCorroboration": 8,
       "recencyClarity": 25
     },
     "tags": [
-      "entertainment",
+      "society",
       "live-ingest",
-      "variety"
-    ]
-  },
-  {
-    "id": "live-entertainment-03-good-films-studios-spain",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "https://variety.com/wp-content/uploads/2026/09/People-of-the-Book-1.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Good Films Studios Spain Bets on Long-Term Production at Ciudad de la Luz",
-      "zh-TW": "相關封面圖：Good Films Studios Spain 押注 Ciudad de la Luz 長期製作"
-    },
-    "publishedAt": "2026-09-14T11:18:28.000Z",
-    "title": {
-      "en": "Good Films Studios Spain Bets on Long-Term Production at Ciudad de la Luz",
-      "zh-TW": "Good Films Studios Spain 押注 Ciudad de la Luz 長期製作"
-    },
-    "summary": {
-      "en": "Good Films Studios Spain commits to ongoing production at Alicante’s Ciudad de la Luz. A boat from their debut film “People of the Book” remains in a workshop there after use as a ferry and refugee vessel in a recreated Mediterranean setting. The project was sold at Toronto by Bleiberg Entertainment, signaling sustained studio activity at the site.",
-      "zh-TW": "Good Films Studios Spain 承諾在 Alicante 的 Ciudad de la Luz 持續製作。一艘來自首部電影《People of the Book》的船仍留在工作室，曾作為渡輪及難民船，橫渡重現的地中海場景。該片由 Bleiberg Entertainment 在多倫多出售，顯示工作室持續活動。"
-    },
-    "body": {
-      "en": "Lede: Good Films Studios Spain Bets on Long-Term Production at Ciudad de la Luz.\n\nWhat happened: Inside a workshop at Alicante’s Ciudad de la Luz, a boat used on “People of the Book” is still sitting among the physical remains of Good Films Studios Spain’s first production. It doubled as part of a ferry and, later, carried refugees across a Mediterranean recreated in the studio.\n\nWhy it matters: The continued presence of production elements at the facility underscores Good Films Studios Spain’s decision to maintain long-term operations at Ciudad de la Luz.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: Further details on future projects or additional productions are not specified in the provided information.\n\nSource: https://variety.com/2026/film/markets-festivals/good-films-studios-spain-ciudad-de-la-luz-alicante-1236858437/",
-      "zh-TW": "Lede: Good Films Studios Spain 押注 Ciudad de la Luz 長期製作。\n\nWhat happened: 在 Alicante 的 Ciudad de la Luz 工作室內，一艘用於《People of the Book》的船仍置於 Good Films Studios Spain 首部作品的實體遺留物中。它曾兼作渡輪，後來搭載難民橫渡工作室重現的地中海場景。\n\nWhy it matters: 製作元素持續留在設施中，凸顯 Good Films Studios Spain 決定在 Ciudad de la Luz 維持長期營運。\n\nSources agree/disagree: 僅有一個來源可用。\n\nStill uncertain: 提供的資訊未說明未來計畫或其他製作的進一步細節。\n\nSource: https://variety.com/2026/film/markets-festivals/good-films-studios-spain-ciudad-de-la-luz-alicante-1236858437/"
-    },
-    "sources": [
-      {
-        "name": "Variety",
-        "url": "https://variety.com/2026/film/markets-festivals/good-films-studios-spain-ciudad-de-la-luz-alicante-1236858437/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 58,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 17,
-      "crossCorroboration": 8,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "entertainment",
-      "live-ingest",
-      "variety"
+      "bbc-uk"
     ]
   },
   {
@@ -857,20 +734,20 @@
     "imageUrl": "/covers/live/live-finance-03-petrol-and-diesel-prices.jpg",
     "imageAlt": {
       "en": "Cover related to: Petrol and diesel prices hit highest since 2022",
-      "zh-TW": "相關封面圖：RAC 報告汽油與柴油價格自2022年以來最高"
+      "zh-TW": "相關封面圖：RAC報告汽油與柴油價格達2022年以來最高"
     },
     "publishedAt": "2026-09-14T11:42:52.000Z",
     "title": {
-      "en": "RAC Reports Petrol and diesel prices hit highest since 2022",
-      "zh-TW": "RAC 報告汽油與柴油價格自2022年以來最高"
+      "en": "RAC Reports Petrol and Diesel Prices Hit Highest Since 2022",
+      "zh-TW": "RAC報告汽油與柴油價格達2022年以來最高"
     },
     "summary": {
-      "en": "According to the RAC, petrol and diesel prices have reached their highest levels since 2022. The cost of filling up a vehicle has rebounded as oil prices remain elevated. This update comes from BBC Business reporting on recent fuel cost trends affecting UK drivers.",
-      "zh-TW": "根據RAC，汽油和柴油價格已達到2022年以來最高水平。加滿油箱的成本因油價居高不下而回升。此更新來自BBC Business對英國駕駛人近期燃料成本趨勢的報導。"
+      "en": "BBC Business reports that petrol and diesel prices have reached their highest levels since 2022. The RAC states the cost of filling up a vehicle has rebounded as oil prices remain elevated. This impacts UK drivers. Link: https://www.bbc.co.uk/news/articles/c20zgjzz0e4o",
+      "zh-TW": "BBC Business報導汽油和柴油價格達到2022年以來最高。RAC指出加油成本因油價居高不下而回升。這影響英國駕駛人。連結：https://www.bbc.co.uk/news/articles/c20zgjzz0e4o"
     },
     "body": {
-      "en": "Lede: RAC Reports Petrol and diesel prices hit highest since 2022.\n\nWhat happened: The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.\n\nWhy it matters: Fuel price changes directly impact vehicle operating costs for drivers.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: No additional details on exact price figures or duration are provided in the source.",
-      "zh-TW": "導言：RAC 報告汽油與柴油價格自2022年以來最高。\n\n發生什麼事：根據RAC，加滿車輛油箱的成本已回升，因為油價仍居高不下。\n\n為何重要：燃料價格變化直接影響駕駛人的車輛營運成本。\n\n來源同意/不同意：僅有一個來源可用。\n\n仍不確定：來源中未提供確切價格數字或持續時間的額外細節。"
+      "en": "Lede: Petrol and diesel prices hit highest since 2022 per BBC Business.\n\nWhat happened: The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.\n\nWhy it matters: Elevated fuel costs affect vehicle owners and overall transportation expenses in the current market.\n\nSources agree/disagree: Only one source is available with no conflicting information present.\n\nStill uncertain: No additional details on exact price figures, regional variations, or timelines beyond the 2022 comparison are provided in the source.",
+      "zh-TW": "導言：根據BBC Business，汽油和柴油價格達到2022年以來最高。\n\n發生什麼事：RAC指出，加油成本因油價居高不下而回升。\n\n為什麼重要：油價上漲影響車主及整體運輸支出。\n\n來源同意或不同意：僅有一個來源，無衝突資訊。\n\n仍不確定：來源未提供2022年比較以外的確切價格數字、地區差異或時間表細節。"
     },
     "sources": [
       {
@@ -893,207 +770,223 @@
     ]
   },
   {
-    "id": "live-finance-04-bitcoin-and-ethereum-pri",
-    "category": "finance",
+    "id": "live-tech-03-why-are-there-concerns-a",
+    "category": "tech",
     "adult": false,
     "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-finance-04-bitcoin-and-ethereum-pri.jpg",
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-tech-03-why-are-there-concerns-a.jpg",
     "imageAlt": {
-      "en": "Cover related to: Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
-      "zh-TW": "相關封面圖：比特幣、以太幣與白銀價格於2026年9月14日"
+      "en": "Cover related to: Why are there concerns AI could threaten humanity, and how real are they?",
+      "zh-TW": "相關封面圖：BBC Technology 探討 AI 威脅人類疑慮"
     },
-    "publishedAt": "2026-09-14T11:42:45.000Z",
+    "publishedAt": "2026-09-14T12:00:08.000Z",
     "title": {
-      "en": "Bitcoin, Ethereum, and Silver Prices on September 14, 2026",
-      "zh-TW": "比特幣、以太幣與白銀價格於2026年9月14日"
+      "en": "BBC Technology Examines AI Humanity Threat Concerns",
+      "zh-TW": "BBC Technology 探討 AI 威脅人類疑慮"
     },
     "summary": {
-      "en": "Bitcoin and Ethereum prices are attempting to hold steady while silver slides on September 14, 2026, as rate-hike expectations grow according to Yahoo Finance reports. The articles link crypto resilience and precious metal declines directly to shifting monetary policy outlooks.",
-      "zh-TW": "根據雅虎財經報導，2026年9月14日比特幣與以太幣價格試圖維持穩定，而白銀下滑，因升息預期增加。文章將加密貨幣韌性與貴金屬下跌直接連結至貨幣政策展望變化。"
+      "en": "BBC Technology reports that existential fears about AI have resurfaced once more. The article provides key information on these concerns and assesses how real they might be, based solely on the provided source details.",
+      "zh-TW": "BBC Technology 報導存在式 AI 恐懼再次浮現。文章根據來源提供這些疑慮的關鍵資訊，並評估其真實性。"
     },
     "body": {
-      "en": "Lede: Bitcoin, Ethereum, and silver prices faced market pressures on Monday, September 14, 2026, tied to rising rate-hike expectations.\n\nWhat happened: Yahoo Finance reported Bitcoin and Ethereum prices trying to hold amid these expectations. A separate report noted silver prices sliding under the same conditions.\n\nWhy it matters: These movements highlight how anticipated interest rate changes influence both cryptocurrency and precious metals markets.\n\nSources agree/disagree: Both sources from Yahoo Finance align on the role of rate-hike expectations as a key factor on this date.\n\nStill uncertain: No additional details on exact price levels or further market reactions are provided in the source titles.\n\nRelated links: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html",
-      "zh-TW": "導言：比特幣、以太幣與白銀價格在2026年9月14日星期一面臨市場壓力，與升息預期上升有關。\n\n發生什麼事：雅虎財經報導比特幣與以太幣價格試圖維持穩定。另一篇報導指出白銀價格在相同情況下下滑。\n\n為什麼重要：這些走勢凸顯預期利率變化如何影響加密貨幣與貴金屬市場。\n\n來源同意或不同意：兩篇雅虎財經來源均認同升息預期是當日關鍵因素。\n\n仍不確定：來源標題未提供確切價格水準或其他市場反應細節。\n\n相關連結：https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html"
+      "en": "Lede: BBC Technology highlights that existential fears about AI have once again reared their head.\nWhat happened: The source title and snippet indicate an article addressing concerns AI could threaten humanity and evaluating their reality.\nWhy it matters: Public understanding of AI risks is addressed through this BBC Technology piece.\nSources agree/disagree: Only one source is available.\nStill uncertain: No additional details on specific threats or assessments are provided in the source.",
+      "zh-TW": "導言：BBC Technology 強調存在式 AI 恐懼再次浮現。\n發生事件：來源標題與摘要顯示文章探討 AI 可能威脅人類的疑慮並評估其真實性。\n重要性：BBC Technology 文章有助公眾理解 AI 風險。\n來源同意或分歧：僅有一個來源。\n仍不確定：來源未提供威脅或評估的額外細節。"
     },
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html"
-      },
-      {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html"
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "disagreements": null,
-    "trustScore": 64,
+    "trustScore": 65,
     "trustBreakdown": {
       "sourceDiversity": 8,
-      "outletReputation": 16,
-      "crossCorroboration": 15,
+      "outletReputation": 24,
+      "crossCorroboration": 8,
       "recencyClarity": 25
     },
     "tags": [
-      "finance",
+      "tech",
       "live-ingest",
-      "yahoo-finance",
-      "yahoo-finance"
+      "bbc-technology"
     ]
   },
   {
-    "id": "live-entertainment-04-director-producing-duo-b",
+    "id": "live-entertainment-03-jung-min-ah-s-and-dong-h",
     "category": "entertainment",
     "adult": false,
     "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-04-director-producing-duo-b.jpg",
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-entertainment-03-jung-min-ah-s-and-dong-h.jpg",
     "imageAlt": {
-      "en": "Cover related to: Director-Producing Duo Behind Student Academy Award-Nominated Jordanian Short ‘A Subconscious Dive’ Developing Debut Feature Films",
-      "zh-TW": "相關封面圖：Raghad Albakheet 與 Danial Salman 在學生奧斯卡獎提名短片後開發首部長片"
+      "en": "Cover related to: Jung Min Ah’s And Dong Ha’s Families Are Full Of Different Personalities And Ambitions In “Mission: Mompossible”",
+      "zh-TW": "相關封面圖：鄭敏雅與董河家庭在《Mission: Mompossible》中展現不同個性與抱負"
     },
-    "publishedAt": "2026-09-14T11:41:03.000Z",
+    "publishedAt": "2026-09-14T11:45:36.000Z",
     "title": {
-      "en": "Raghad Albakheet and Danial Salman Developing Debut Feature Films After Student Academy Award-Nominated Short",
-      "zh-TW": "Raghad Albakheet 與 Danial Salman 在學生奧斯卡獎提名短片後開發首部長片"
+      "en": "Jung Min Ah and Dong Ha Families in “Mission: Mompossible” Show Different Personalities and Ambitions",
+      "zh-TW": "鄭敏雅與董河家庭在《Mission: Mompossible》中展現不同個性與抱負"
     },
     "summary": {
-      "en": "Jordanian filmmakers Raghad Albakheet and Danial Salman are developing separate feature projects after their short film A Subconscious Dive reached the Student Academy Award semifinalist shortlist in the Alternative/Experimental category. Directed by Albakheet and produced by Salman, the film is only the second Jordanian entry in the awards history.",
-      "zh-TW": "約旦電影人 Raghad Albakheet 與 Danial Salman 在短片《A Subconscious Dive》入圍學生奧斯卡獎另類/實驗類別半決賽後，正分別開發首部長片作品。該片由 Albakheet 執導、Salman 監製，是約旦史上第二部入圍此獎的影片。"
+      "en": "The upcoming weekday drama “Mission: Mompossible” has released new stills featuring Jung Min Ah and Dong Ha. The story centers on two contrasting mothers and their children’s intertwined lives. One mother has long sacrificed for her family while the other has lived only for herself. The drama explores their differing personalities and ambitions.",
+      "zh-TW": "即將播出的平日劇《Mission: Mompossible》釋出新劇照，主角包括鄭敏雅與董河。故事聚焦兩位截然不同的母親及其子女交織的生活。一位母親長期為家庭犧牲奉獻，另一位則只為自己而活。劇中探討她們不同的個性與抱負。"
     },
     "body": {
-      "en": "Lede: Jordanian filmmakers Raghad Albakheet and Danial Salman are following up the success of their Student Academy Award-nominated short film A Subconscious Dive with separate feature projects.\n\nWhat happened: Directed by Albakheet and produced by Salman, A Subconscious Dive made the short list of semifinalists in the Alternative/Experimental category.\n\nWhy it matters: The achievement marks the film as only the second Jordanian film in history to reach this stage.\n\nSources agree/disagree: With only one source available, there are no conflicting reports on names, categories, or achievements.\n\nStill uncertain: Details on the new feature film titles, plots, or timelines are not provided in the source. Read the full article at https://variety.com/2026/film/global/student-academy-awards-a-subconscious-dive-jordan-1236853210/",
-      "zh-TW": "導言：約旦電影人 Raghad Albakheet 與 Danial Salman 正分別開發首部長片，延續其學生奧斯卡獎提名短片《A Subconscious Dive》的成功。\n\n事件經過：該短片由 Albakheet 執導、Salman 監製，入圍另類/實驗類別半決賽短名單。\n\n重要性：此成就使該片成為約旦史上第二部達到此階段的影片。\n\n來源一致/分歧：僅有一個來源，無任何姓名、類別或成就上的衝突報導。\n\n仍未確定：新長片片名、劇情或時間表等細節未在來源中提供。完整文章請見 https://variety.com/2026/film/global/student-academy-awards-a-subconscious-dive-jordan-1236853210/"
+      "en": "Lede: Jung Min Ah and Dong Ha star in the new drama “Mission: Mompossible,” which has unveiled stills highlighting family dynamics.\n\nWhat happened: The drama is described as a weekday series about two very different mothers and the entangled lives of their children. One mom has sacrificed everything and devoted herself entirely to her family for a long time, while the other mom has lived her life solely for herself.\n\nWhy it matters: The contrast in personalities and ambitions forms the core of the upcoming entertainment release, drawing attention to family themes in Korean drama.\n\nSources agree/disagree: The single source provides consistent details on the drama premise and cast without internal contradictions.\n\nStill uncertain: No additional plot points, release dates, or cast roles beyond the provided description are available. Read more at https://www.soompi.com/article/1870485wpp/jung-min-ahs-and-dong-has-families-are-full-of-different-personalities-and-ambitions-in-mission-mompossible",
+      "zh-TW": "導言：鄭敏雅與董河主演新劇《Mission: Mompossible》，已釋出凸顯家庭動態的劇照。\n\n發生事件：該劇被描述為平日劇，講述兩位截然不同的母親及其子女交織的生活。一位母親長期犧牲一切奉獻家庭，另一位則只為自己生活。\n\n重要性：個性與抱負的對比構成即將上映娛樂作品的核心，吸引對韓劇家庭主題的關注。\n\n來源一致/分歧：單一來源提供關於劇情前提與演員的一致細節，無內部矛盾。\n\n仍不確定：除提供描述外，無其他劇情點、播出日期或演員角色資訊。詳見 https://www.soompi.com/article/1870485wpp/jung-min-ahs-and-dong-has-families-are-full-of-different-personalities-and-ambitions-in-mission-mompossible"
     },
     "sources": [
       {
-        "name": "Variety",
-        "url": "https://variety.com/2026/film/global/student-academy-awards-a-subconscious-dive-jordan-1236853210/"
+        "name": "Soompi",
+        "url": "https://www.soompi.com/article/1870485wpp/jung-min-ahs-and-dong-has-families-are-full-of-different-personalities-and-ambitions-in-mission-mompossible"
       }
     ],
     "disagreements": null,
-    "trustScore": 58,
+    "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 8,
-      "outletReputation": 17,
+      "outletReputation": 14,
       "crossCorroboration": 8,
       "recencyClarity": 25
     },
     "tags": [
       "entertainment",
       "live-ingest",
-      "variety"
+      "soompi"
     ]
   },
   {
-    "id": "adult-01",
-    "category": "adult",
-    "adult": true,
-    "imageUrl": "/covers/adult-01.jpg",
+    "id": "live-entertainment-04-scene-from-blackpink-lis",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-04-scene-from-blackpink-lis.jpg",
     "imageAlt": {
-      "zh-TW": "限制級｜成人娛樂產業活動紅毯示意（編輯風格）",
-      "en": "Adult-rated｜Adult entertainment industry event red-carpet editorial illustration"
+      "en": "Cover related to: Scene From BLACKPINK Lisa’s New Documentary Sparks Major Controversy",
+      "zh-TW": "相關封面圖：BLACKPINK Lisa 新紀錄片場景引發爭議"
     },
-    "publishedAt": "2026-09-05T18:00:00Z",
+    "publishedAt": "2026-09-14T11:40:07.000Z",
     "title": {
-      "zh-TW": "【限制級】AV 女優桜井みなみ宣布暫停拍片一年，轉戰品牌與 Fanbox",
-      "en": "[Adult 18+] AV actress Minami Sakurai pauses filming for a year for brand deals and Fanbox"
+      "en": "BLACKPINK Lisa New Documentary Scene Sparks Controversy",
+      "zh-TW": "BLACKPINK Lisa 新紀錄片場景引發爭議"
     },
     "summary": {
-      "zh-TW": "（18+）成年表演者桜井みなみ（Minami Sakurai，示範藝名）將暫別新作檔期，改經營個人品牌、寫真週邊與 pixivFANBOX 訂閱；業界稱屬後專屬約常見轉型。",
-      "en": "(18+) Adult performer Minami Sakurai (demo stage name) will pause new shoots to run a personal brand, photobook merch and pixivFANBOX subscriptions; trade voices call it a common post-exclusive shift."
+      "en": "A scene from BLACKPINK Lisa’s new documentary has sparked major controversy among fans. The idol performs a traditional Khmer dance without crediting its Cambodian cultural roots. Lisa recently shared initial glimpses of the documentary via Instagram, prompting anger over the lack of cultural acknowledgment in the footage.",
+      "zh-TW": "BLACKPINK Lisa 新紀錄片中的一幕引發粉絲重大爭議。她表演傳統高棉舞卻未註明柬埔寨文化根源。Lisa 最近在 Instagram 分享紀錄片初步畫面，引發對文化未獲承認的憤怒。"
+    },
+    "body": {
+      "en": "Lede: BLACKPINK Lisa’s new documentary contains a scene that has drawn significant fan backlash according to available reports.\n\nWhat happened: The source describes a scene in which Lisa performs a traditional Khmer dance. No credit is given to the Cambodian cultural origins of the dance.\n\nWhy it matters: This omission has sparked major controversy and anger among fans who viewed the footage.\n\nSources agree/disagree: The single provided source reports the controversy without any conflicting details from additional sources.\n\nStill uncertain: No further specifics on the documentary content, exact fan responses, or resolution appear in the source material. Link: https://www.koreaboo.com/news/scene-blackpink-lisas-new-documentary-sparks-major-controversy/",
+      "zh-TW": "導言：根據現有報導，BLACKPINK Lisa 的新紀錄片包含引發粉絲強烈反彈的一幕。\n\n事件經過：來源描述 Lisa 在一幕中表演傳統高棉舞，但未註明該舞蹈的柬埔寨文化起源。\n\n重要性：此遺漏引發粉絲重大爭議與憤怒。\n\n來源一致或分歧：僅有一個來源報導此爭議，無其他來源衝突資訊。\n\n仍未確定：來源中未提供紀錄片內容細節、粉絲反應確切內容或後續發展。連結：https://www.koreaboo.com/news/scene-blackpink-lisas-new-documentary-sparks-major-controversy/"
     },
     "sources": [
       {
-        "name": "AV industry trade desk (sample)",
-        "url": "https://example.com/av-career-pivot",
-        "stance": "Career / box-office framing"
-      },
-      {
-        "name": "Creator economy brief (sample)",
-        "url": "https://example.com/performer-subscription",
-        "stance": "Subscription revenue angle"
+        "name": "Koreaboo",
+        "url": "https://www.koreaboo.com/news/scene-blackpink-lisas-new-documentary-sparks-major-controversy/"
       }
     ],
-    "disagreements": {
-      "zh-TW": "粉絲媒體強調「告別感」；產業媒體則視為商業模式升級，未必等於退役。",
-      "en": "Fan media lean into farewell vibes; trade press frames it as a business-model upgrade, not necessarily retirement."
-    },
-    "trustScore": 57,
+    "disagreements": null,
+    "trustScore": 54,
     "trustBreakdown": {
-      "sourceDiversity": 12,
-      "outletReputation": 11,
-      "crossCorroboration": 14,
-      "recencyClarity": 20
+      "sourceDiversity": 8,
+      "outletReputation": 13,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
     },
     "tags": [
-      "adult",
-      "AV",
-      "performer",
-      "career",
-      "限制級",
-      "NSFW",
-      "demo-seed"
-    ],
-    "body": {
-      "zh-TW": "（限制級／成人產業新聞）人氣 AV 女優桜井みなみ（Minami Sakurai）——示範用成年表演者藝名——經事務所證實將暫停拍片約一年，期間重心改為個人保養／時尚聯名、寫真週邊，以及 pixivFANBOX 等粉絲訂閱平台。同業評論指這是專屬約結束後常見的「品牌化」路徑；粉絲則出現支持轉型與希望回歸作品的兩極留言。本卡僅在使用者選擇加入成人區後顯示。\n\n具名到藝名與平台，是為了讓產業動態可追蹤，而非使用「某人氣女優」空泛主詞。內容僅討論合法成年表演者的事業選擇與商業模式，不含任何未成年相關描述。\n\n娛樂產業稿偏寫粉絲情緒；產業稿寫訂閱分成與品牌授權。暫停檔期與轉訂閱這兩點，事務所聲明與媒體報導大致吻合。\n\n後續仍取決於本人是否延長休片，以及聯名產品是否如期上市。",
-      "en": "(Adult 18+ / industry news) Popular AV actress Minami Sakurai (桜井みなみ)—a demo adult stage name—will pause filming for about a year, per her agency, to focus on beauty/fashion brand deals, photobook merch and fan subscriptions such as pixivFANBOX. Trade commentators call this a common post-exclusive “branding” path; fans split between supporting the pivot and wanting her back on set. This card shows only after adult-zone opt-in.\n\nNaming the performer and platforms makes the beat trackable instead of a vague “popular actress.” Coverage discusses lawful adult performers’ career and business choices only—no content involving minors.\n\nEntertainment copy leans fan emotion; trade copy covers subscription splits and licensing. The pause and the subscription shift align across the agency note and press.\n\nOpen questions: whether she extends the hiatus, and whether collab products ship on time."
-    },
-    "isPopular": true
+      "entertainment",
+      "live-ingest",
+      "koreaboo"
+    ]
   },
   {
-    "id": "adult-02",
-    "category": "adult",
-    "adult": true,
-    "imageUrl": "/covers/adult-02.jpg",
+    "id": "live-entertainment-05-inspired-by-u2-oprah-win",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-entertainment-05-inspired-by-u2-oprah-win.png",
     "imageAlt": {
-      "zh-TW": "限制級｜成人平台政策與裝置示意（編輯風格）",
-      "en": "Adult-rated｜Adult platform policy and devices editorial illustration"
+      "en": "Cover related to: Inspired By U2, Oprah Winfrey Bringing Immersive, Star-Studded ‘AHA’ Experience to Las Vegas’ Sphere",
+      "zh-TW": "相關封面圖：歐普拉·溫弗瑞將沉浸式「AHA」體驗帶到拉斯維加斯Sphere"
     },
-    "publishedAt": "2026-09-04T15:00:00Z",
+    "publishedAt": "2026-09-14T12:30:00.000Z",
     "title": {
-      "zh-TW": "【限制級】OnlyFans 與 Fansly 收緊預覽分級：露骨畫面須遮罩",
-      "en": "[Adult 18+] OnlyFans and Fansly tighten preview ratings: explicit frames must be masked"
+      "en": "Oprah Winfrey Bringing Immersive ‘AHA’ Experience to Las Vegas’ Sphere",
+      "zh-TW": "歐普拉·溫弗瑞將沉浸式「AHA」體驗帶到拉斯維加斯Sphere"
     },
     "summary": {
-      "zh-TW": "（18+）OnlyFans、Fansly 等成人向訂閱平台更新守則：公開預覽禁止未遮罩露骨畫面，完整內容仍限成年驗證帳號；創作者擔憂曝光，平台稱配合應用商店審核。",
-      "en": "(18+) OnlyFans, Fansly and peer adult subscription platforms updated rules: public previews cannot show unmasked explicit frames; full posts stay behind age-verified accounts. Creators fear reach loss; platforms cite app-store and ad review."
+      "en": "Oprah Winfrey will launch “Oprah Winfrey’s AHA” at Sphere in Las Vegas next April. The weekend-long event on April 2, 3 and 4 in 2027 features musicians, artists and storytellers appearing live with Winfrey in a visual, musically immersive experience. It was inspired by her visit to see the first Sphere resident performance by U2.",
+      "zh-TW": "歐普拉·溫弗瑞將於明年四月在拉斯維加斯Sphere推出「歐普拉·溫弗瑞的AHA」。2027年4月2、3、4日的週末活動將有音樂家、藝術家和故事講述者與溫弗瑞同台演出，呈現視覺與音樂沉浸式體驗。此活動靈感來自她觀看U2首場Sphere駐場表演。"
+    },
+    "body": {
+      "en": "Lede: Oprah Winfrey is bringing an immersive, star-studded event to Las Vegas’ Sphere.\n\nWhat happened: The veteran host will launch “Oprah Winfrey’s AHA” at Sphere in Las Vegas next April. The 2027 shows on April 2, 3 and 4 are a weekend-long event featuring musicians, artists and storytellers from around the world appearing live on stage with Winfrey.\n\nWhy it matters: It is described as a brand-new visual, musically immersive symphony of senses, taking talk into a whole new dimension.\n\nSources agree/disagree: Only one source is provided.\n\nStill uncertain: Additional details beyond the given title and snippet are not available.",
+      "zh-TW": "導言：歐普拉·溫弗瑞將把沉浸式星光熠熠的活動帶到拉斯維加斯Sphere。\n\n發生什麼事：資深主持人將於明年四月在拉斯維加斯Sphere推出「歐普拉·溫弗瑞的AHA」。2027年4月2、3、4日的週末活動將有來自世界各地的音樂家、藝術家和故事講述者與溫弗瑞同台演出。\n\n為什麼重要：它被描述為全新的視覺與音樂沉浸式感官交響樂。\n\n來源同意/不同意：僅提供一個來源。\n\n仍不確定：除標題與片段外，無其他細節可用。"
     },
     "sources": [
       {
-        "name": "Platform policy digest (sample)",
-        "url": "https://example.com/adult-preview-mask",
-        "stance": "Compliance / store review"
-      },
-      {
-        "name": "Adult creator advocacy (sample)",
-        "url": "https://example.com/creator-reach-impact",
-        "stance": "Creator monetization impact"
+        "name": "Billboard",
+        "url": "https://www.billboard.com/culture/lifestyle/oprah-winfrey-aha-experience-las-vegas-sphere-details-1236339313/"
       }
     ],
-    "disagreements": {
-      "zh-TW": "平台強調「仍可發完整成人內容」；創作者認為預覽遮罩等於實質降流。",
-      "en": "Platforms stress full adult content remains allowed; creators say masked previews amount to a de facto reach cut."
-    },
-    "trustScore": 62,
+    "disagreements": null,
+    "trustScore": 57,
     "trustBreakdown": {
-      "sourceDiversity": 14,
-      "outletReputation": 14,
-      "crossCorroboration": 15,
-      "recencyClarity": 19
+      "sourceDiversity": 8,
+      "outletReputation": 16,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
     },
     "tags": [
-      "adult",
-      "platform",
-      "policy",
-      "NSFW",
-      "限制級",
-      "demo-seed"
-    ],
-    "body": {
-      "zh-TW": "（限制級／平台政策）主流成人訂閱平台 OnlyFans 與競品 Fansly 更新社群與預覽守則：公開動態與商店預覽頁不得出現未遮罩的露骨性畫面，完整內容仍僅對完成成年驗證的訂閱者開放。部分短影音分發渠道同步跟進。成人創作者擔心發現頁流量下滑；平台公關強調是為通過應用商店與支付／廣告審核的合規要求。僅限成人區顯示。\n\n點名 OnlyFans、Fansly，避免「主流訂閱平台」的模糊主詞；正文解釋它們是面向成年創作者的訂閱服務。政策爭議的核心是「可發現性 vs 商店合規」，不是內容合法性本身。\n\n創作者權益媒體與平台聲明立場對立，但「規則已改、預覽須遮罩」的事實層一致。\n\n執行力度與是否影響既有貼文回溯處理，仍待各平台說明頁更新。",
-      "en": "(Adult 18+ / platform policy) Major adult subscription platforms OnlyFans and rival Fansly updated feed and preview rules: public posts and store previews may not show unmasked explicit sexual imagery; full content remains limited to age-verified subscribers. Some short-video distribution channels followed. Adult creators worry about discovery reach; platform spokespeople cite app-store, payments and ad-review compliance. Adult-zone only.\n\nNaming OnlyFans and Fansly avoids a vague “major platforms” subject; the body explains they are subscription services for adult creators. The policy fight is discoverability versus store compliance—not legality of adult content itself.\n\nCreator-advocacy media and platform statements clash on tone; the fact layer—“rules changed, previews need masks”—aligns.\n\nEnforcement strength and whether old posts are retroactively processed still await help-center updates."
+      "entertainment",
+      "live-ingest",
+      "billboard"
+    ]
+  },
+  {
+    "id": "live-beauty-02-steven-kolb-gets-physica",
+    "category": "beauty",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-beauty-02-steven-kolb-gets-physica.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Steven Kolb Gets Physical With PETA Protestors, Street Style Goes Casual and Everything Else You Need to Know About NYFW So Far",
+      "zh-TW": "相關封面圖：Steven Kolb、PETA 抗議者與 NYFW Spring 2027 更新"
     },
-    "isPopular": true
+    "publishedAt": "2026-09-14T12:30:00.000Z",
+    "title": {
+      "en": "Steven Kolb, PETA Protestors and NYFW Spring 2027 Updates",
+      "zh-TW": "Steven Kolb、PETA 抗議者與 NYFW Spring 2027 更新"
+    },
+    "summary": {
+      "en": "CFDA President Steven Kolb got physical with PETA activists during the first four days of September New York Fashion Week. Street style turned casual while multiple designers made their NYFW debuts. The Fashionista article covers Spring 2027 shows up to day five of the calendar with related CFDA CEO mentions.",
+      "zh-TW": "CFDA 總裁 Steven Kolb 在九月紐約時裝週前四天與 PETA 活動人士發生肢體衝突。街頭風格轉為休閒，多位設計師首次亮相 NYFW。Fashionista 文章涵蓋 Spring 2027 系列至日曆第五天，並提及相關 CFDA CEO 資訊。"
+    },
+    "body": {
+      "en": "Lede: Steven Kolb, PETA Protestors and NYFW Spring 2027 Updates from Fashionista highlight key moments in the first four days.\n\nWhat happened: Monday marks day five of the official September New York Fashion Week calendar. CFDA President Steven Kolb got physical with PETA activists. The street style crowd decided to dress down. Lots of designers made their NYFW debuts. The coverage rounds up everything worth knowing about the Spring 2027 shows so far. Related mentions include CFDA CEO Steve.\n\nWhy it matters: These events shape early impressions of the Spring 2027 season within the NYFW calendar.\n\nSources agree/disagree: Only one source provided.\n\nStill uncertain: Details beyond the initial four days and full CFDA CEO reference remain limited to the given coverage.",
+      "zh-TW": "導言：Fashionista 報導 Steven Kolb、PETA 抗議者與 NYFW Spring 2027 更新，聚焦前四天關鍵時刻。\n\n事件經過：星期一標誌九月紐約時裝週官方日曆第五天。CFDA 總裁 Steven Kolb 與 PETA 活動人士發生肢體衝突。街頭風格人群選擇休閒裝扮。多位設計師完成 NYFW 首秀。報導彙整 Spring 2027 系列至今值得關注事項。相關提及包括 CFDA CEO Steve。\n\n重要性：這些事件形塑 Spring 2027 季在 NYFW 日曆中的早期印象。\n\n來源一致/分歧：僅提供單一來源。\n\n仍不確定：超出前四天細節與完整 CFDA CEO 參考僅限於既有報導。"
+    },
+    "sources": [
+      {
+        "name": "Fashionista",
+        "url": "https://fashionista.com/2026/09/nyfw-spring-2027-news-update"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 14,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "beauty",
+      "live-ingest",
+      "fashionista"
+    ]
   }
 ]
