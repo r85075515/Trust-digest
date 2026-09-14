@@ -4,7 +4,7 @@
     "category": "international",
     "adult": false,
     "isHeadline": true,
-    "imageUrl": "https://picsum.photos/seed/int-01/960/540",
+    "imageUrl": "/covers/int-01.jpg",
     "imageAlt": {
       "zh-TW": "東亞峰會會場示意",
       "en": "East Asia summit venue illustration"
@@ -19,9 +19,21 @@
       "en": "Leaders discussed supply-chain resilience and maritime security. They agreed to form working groups, though timelines and binding commitments remain to be negotiated."
     },
     "sources": [
-      { "name": "Reuters", "url": "https://www.reuters.com/", "stance": "Neutral framing on outcomes" },
-      { "name": "BBC News", "url": "https://www.bbc.com/news", "stance": "Emphasized security tensions" },
-      { "name": "NHK World", "url": "https://www3.nhk.or.jp/nhkworld/", "stance": "Highlighted economic agenda" }
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/",
+        "stance": "Neutral framing on outcomes"
+      },
+      {
+        "name": "BBC News",
+        "url": "https://www.bbc.com/news",
+        "stance": "Emphasized security tensions"
+      },
+      {
+        "name": "NHK World",
+        "url": "https://www3.nhk.or.jp/nhkworld/",
+        "stance": "Highlighted economic agenda"
+      }
     ],
     "disagreements": {
       "zh-TW": "部分媒體強調安全對抗意味，另一些則凸顯經貿進展；對「實質成果」評估分歧。",
@@ -34,13 +46,17 @@
       "crossCorroboration": 20,
       "recencyClarity": 17
     },
-    "tags": ["diplomacy", "trade", "Asia"]
+    "tags": [
+      "diplomacy",
+      "trade",
+      "Asia"
+    ]
   },
   {
     "id": "int-02",
     "category": "international",
     "adult": false,
-    "imageUrl": "https://picsum.photos/seed/int-02/960/540",
+    "imageUrl": "/covers/int-02.jpg",
     "imageAlt": {
       "zh-TW": "聯合國氣候談判會場示意",
       "en": "UN climate talks venue illustration"
@@ -55,8 +71,16 @@
       "en": "Developing nations seek a larger loss-and-damage fund; developed countries want stronger oversight first. Talks extended without a final text."
     },
     "sources": [
-      { "name": "Associated Press", "url": "https://apnews.com/", "stance": "Process-focused" },
-      { "name": "The Guardian", "url": "https://www.theguardian.com/", "stance": "More critical of wealthy nations" }
+      {
+        "name": "Associated Press",
+        "url": "https://apnews.com/",
+        "stance": "Process-focused"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/",
+        "stance": "More critical of wealthy nations"
+      }
     ],
     "disagreements": {
       "zh-TW": "對「誰應多出資」的歸因不同；報導對談判僵局責任歸屬不一致。",
@@ -69,14 +93,18 @@
       "crossCorroboration": 18,
       "recencyClarity": 18
     },
-    "tags": ["climate", "UN", "finance"]
+    "tags": [
+      "climate",
+      "UN",
+      "finance"
+    ]
   },
   {
     "id": "fin-01",
     "category": "finance",
     "adult": false,
     "isHeadline": true,
-    "imageUrl": "https://picsum.photos/seed/fin-01/960/540",
+    "imageUrl": "/covers/fin-01.jpg",
     "imageAlt": {
       "zh-TW": "金融市場交易廳示意",
       "en": "Trading floor illustration"
@@ -91,9 +119,21 @@
       "en": "US and European officials differ on how sticky inflation remains, splitting rate expectations. Bond yields and tech shares swung sharply the same day."
     },
     "sources": [
-      { "name": "Financial Times", "url": "https://www.ft.com/", "stance": "Markets-first analysis" },
-      { "name": "Bloomberg", "url": "https://www.bloomberg.com/", "stance": "Data-heavy rate path scenarios" },
-      { "name": "CNBC", "url": "https://www.cnbc.com/", "stance": "Retail-investor angle" }
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/",
+        "stance": "Markets-first analysis"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/",
+        "stance": "Data-heavy rate path scenarios"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/",
+        "stance": "Retail-investor angle"
+      }
     ],
     "disagreements": {
       "zh-TW": "部分分析認為波動屬正常重新定價；另有評論警告流動性緊縮風險被低估。",
@@ -106,13 +146,17 @@
       "crossCorroboration": 19,
       "recencyClarity": 17
     },
-    "tags": ["rates", "markets", "central-banks"]
+    "tags": [
+      "rates",
+      "markets",
+      "central-banks"
+    ]
   },
   {
     "id": "fin-02",
     "category": "finance",
     "adult": false,
-    "imageUrl": "https://picsum.photos/seed/fin-02/960/540",
+    "imageUrl": "/covers/fin-02.jpg",
     "imageAlt": {
       "zh-TW": "新創辦公空間示意",
       "en": "Startup office illustration"
@@ -127,8 +171,16 @@
       "en": "Seed and Series A deal volume rose quarter-over-quarter; later rounds stay cautious. Investors emphasize unit economics and paths to profitability."
     },
     "sources": [
-      { "name": "Tech in Asia", "url": "https://www.techinasia.com/", "stance": "Regional deal flow focus" },
-      { "name": "PitchBook", "url": "https://pitchbook.com/", "stance": "Data-centric valuation note" }
+      {
+        "name": "Tech in Asia",
+        "url": "https://www.techinasia.com/",
+        "stance": "Regional deal flow focus"
+      },
+      {
+        "name": "PitchBook",
+        "url": "https://pitchbook.com/",
+        "stance": "Data-centric valuation note"
+      }
     ],
     "disagreements": null,
     "trustScore": 68,
@@ -138,13 +190,17 @@
       "crossCorroboration": 16,
       "recencyClarity": 20
     },
-    "tags": ["startups", "VC", "Asia"]
+    "tags": [
+      "startups",
+      "VC",
+      "Asia"
+    ]
   },
   {
     "id": "tech-01",
     "category": "tech",
     "adult": false,
-    "imageUrl": "https://picsum.photos/seed/tech-01/960/540",
+    "imageUrl": "/covers/tech-01.jpg",
     "imageAlt": {
       "zh-TW": "折疊手機產品示意",
       "en": "Foldable phone product illustration"
@@ -159,9 +215,21 @@
       "en": "Assemblers and panel makers report better yields; analysts raised some shipment estimates. Consumer uptake and long-term durability remain open questions."
     },
     "sources": [
-      { "name": "The Verge", "url": "https://www.theverge.com/", "stance": "Product UX angle" },
-      { "name": "Digitimes", "url": "https://www.digitimes.com/", "stance": "Supply-chain depth" },
-      { "name": "Nikkel Asia", "url": "https://asia.nikkei.com/", "stance": "Regional manufacturing" }
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "stance": "Product UX angle"
+      },
+      {
+        "name": "Digitimes",
+        "url": "https://www.digitimes.com/",
+        "stance": "Supply-chain depth"
+      },
+      {
+        "name": "Nikkel Asia",
+        "url": "https://asia.nikkei.com/",
+        "stance": "Regional manufacturing"
+      }
     ],
     "disagreements": {
       "zh-TW": "消費媒體偏樂觀於設計；產業媒體對良率數字來源與可比性較謹慎。",
@@ -174,13 +242,17 @@
       "crossCorroboration": 17,
       "recencyClarity": 16
     },
-    "tags": ["hardware", "foldables", "supply-chain"]
+    "tags": [
+      "hardware",
+      "foldables",
+      "supply-chain"
+    ]
   },
   {
     "id": "tech-02",
     "category": "tech",
     "adult": false,
-    "imageUrl": "https://picsum.photos/seed/tech-02/960/540",
+    "imageUrl": "/covers/tech-02.jpg",
     "imageAlt": {
       "zh-TW": "資料中心機房示意",
       "en": "Data center hall illustration"
@@ -195,8 +267,16 @@
       "en": "Capex guidance rose, yet grid and water limits delayed some sites. Firms push denser cooling and renewable PPAs."
     },
     "sources": [
-      { "name": "WSJ", "url": "https://www.wsj.com/", "stance": "Capex and utilities angle" },
-      { "name": "Ars Technica", "url": "https://arstechnica.com/", "stance": "Technical cooling detail" }
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/",
+        "stance": "Capex and utilities angle"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/",
+        "stance": "Technical cooling detail"
+      }
     ],
     "disagreements": null,
     "trustScore": 76,
@@ -206,13 +286,17 @@
       "crossCorroboration": 19,
       "recencyClarity": 20
     },
-    "tags": ["cloud", "infrastructure", "energy"]
+    "tags": [
+      "cloud",
+      "infrastructure",
+      "energy"
+    ]
   },
   {
     "id": "ai-01",
     "category": "ai",
     "adult": false,
-    "imageUrl": "https://picsum.photos/seed/ai-01/960/540",
+    "imageUrl": "/covers/ai-01.jpg",
     "imageAlt": {
       "zh-TW": "人工智慧運算示意",
       "en": "AI computing illustration"
@@ -227,9 +311,21 @@
       "en": "A community release narrowed gaps on translation and reasoning benches, while still trailing top proprietary systems on tool use and long context. License permits research and most commercial use."
     },
     "sources": [
-      { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog", "stance": "Benchmarks from release notes" },
-      { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/", "stance": "Caveats on eval gaming" },
-      { "name": "Wired", "url": "https://www.wired.com/", "stance": "Industry competition frame" }
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog",
+        "stance": "Benchmarks from release notes"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/",
+        "stance": "Caveats on eval gaming"
+      },
+      {
+        "name": "Wired",
+        "url": "https://www.wired.com/",
+        "stance": "Industry competition frame"
+      }
     ],
     "disagreements": {
       "zh-TW": "支持者強調開源追趕速度；懷疑者指出基準可能過擬合、真實工作負載差距仍大。",
@@ -242,13 +338,17 @@
       "crossCorroboration": 17,
       "recencyClarity": 17
     },
-    "tags": ["open-source", "benchmarks", "LLMs"]
+    "tags": [
+      "open-source",
+      "benchmarks",
+      "LLMs"
+    ]
   },
   {
     "id": "ai-02",
     "category": "ai",
     "adult": false,
-    "imageUrl": "https://picsum.photos/seed/ai-02/960/540",
+    "imageUrl": "/covers/ai-02.jpg",
     "imageAlt": {
       "zh-TW": "法規文件與科技示意",
       "en": "Policy documents and tech illustration"
@@ -263,8 +363,16 @@
       "en": "Drafts would require disclosure for synthetic media and automated decisions. Trade groups warn of fragmented compliance costs; civic groups want stronger penalties."
     },
     "sources": [
-      { "name": "Politico", "url": "https://www.politico.com/", "stance": "Policy process" },
-      { "name": "Rest of World", "url": "https://restofworld.org/", "stance": "Global South impact" }
+      {
+        "name": "Politico",
+        "url": "https://www.politico.com/",
+        "stance": "Policy process"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "stance": "Global South impact"
+      }
     ],
     "disagreements": {
       "zh-TW": "對「標籤是否足夠」看法分裂：一方認為透明即可，另一方要求事前審核。",
@@ -277,13 +385,17 @@
       "crossCorroboration": 17,
       "recencyClarity": 18
     },
-    "tags": ["policy", "regulation", "disclosure"]
+    "tags": [
+      "policy",
+      "regulation",
+      "disclosure"
+    ]
   },
   {
     "id": "int-03",
     "category": "international",
     "adult": false,
-    "imageUrl": "https://picsum.photos/seed/int-03/960/540",
+    "imageUrl": "/covers/int-03.jpg",
     "imageAlt": {
       "zh-TW": "人道援助車隊示意",
       "en": "Humanitarian aid convoy illustration"
@@ -298,9 +410,21 @@
       "en": "Agencies confirmed limited convoys through checkpoints, but fuel and security remain fragile. Parties disagree on how sustainable access will be."
     },
     "sources": [
-      { "name": "Al Jazeera", "url": "https://www.aljazeera.com/", "stance": "On-the-ground access focus" },
-      { "name": "Reuters", "url": "https://www.reuters.com/", "stance": "Verified convoy counts" },
-      { "name": "UN News", "url": "https://news.un.org/", "stance": "Agency statements" }
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/",
+        "stance": "On-the-ground access focus"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/",
+        "stance": "Verified convoy counts"
+      },
+      {
+        "name": "UN News",
+        "url": "https://news.un.org/",
+        "stance": "Agency statements"
+      }
     ],
     "disagreements": {
       "zh-TW": "對通行「是否構成實質改善」解讀不同；數字口徑（計畫量 vs 實際到達）不一致。",
@@ -313,13 +437,17 @@
       "crossCorroboration": 19,
       "recencyClarity": 17
     },
-    "tags": ["humanitarian", "conflict", "aid"]
+    "tags": [
+      "humanitarian",
+      "conflict",
+      "aid"
+    ]
   },
   {
     "id": "fin-03",
     "category": "finance",
     "adult": false,
-    "imageUrl": "https://picsum.photos/seed/fin-03/960/540",
+    "imageUrl": "/covers/fin-03.jpg",
     "imageAlt": {
       "zh-TW": "通膨與消費數據示意",
       "en": "Inflation and retail data illustration"
@@ -334,8 +462,16 @@
       "en": "Core services eased slightly and energy prices fell. Futures raised cut odds, while officials reiterated a data-dependent stance."
     },
     "sources": [
-      { "name": "Bloomberg", "url": "https://www.bloomberg.com/", "stance": "Market-implied odds" },
-      { "name": "Reuters", "url": "https://www.reuters.com/", "stance": "Official commentary" }
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/",
+        "stance": "Market-implied odds"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/",
+        "stance": "Official commentary"
+      }
     ],
     "disagreements": null,
     "trustScore": 80,
@@ -345,13 +481,17 @@
       "crossCorroboration": 22,
       "recencyClarity": 18
     },
-    "tags": ["inflation", "rates", "macro"]
+    "tags": [
+      "inflation",
+      "rates",
+      "macro"
+    ]
   },
   {
     "id": "adult-01",
     "category": "adult",
     "adult": true,
-    "imageUrl": "https://picsum.photos/seed/adult-01-neon/960/540",
+    "imageUrl": "/covers/adult-01.jpg",
     "imageAlt": {
       "zh-TW": "限制級｜成人娛樂產業活動紅毯示意（編輯風格）",
       "en": "Adult-rated｜Adult entertainment industry event red-carpet editorial illustration"
@@ -366,8 +506,16 @@
       "en": "(18+ / Adult-industry news) Multiple adult performers and agencies confirm she will skip new shoot schedules and lean into personal branding, photobook merch, and fan subscription platforms. Trade commentary calls it a common post-exclusive pivot; fan reaction is mixed. Shown only after adult-zone opt-in."
     },
     "sources": [
-      { "name": "AV industry trade desk (sample)", "url": "https://example.com/av-career-pivot", "stance": "Career / box-office framing" },
-      { "name": "Creator economy brief (sample)", "url": "https://example.com/performer-subscription", "stance": "Subscription revenue angle" }
+      {
+        "name": "AV industry trade desk (sample)",
+        "url": "https://example.com/av-career-pivot",
+        "stance": "Career / box-office framing"
+      },
+      {
+        "name": "Creator economy brief (sample)",
+        "url": "https://example.com/performer-subscription",
+        "stance": "Subscription revenue angle"
+      }
     ],
     "disagreements": {
       "zh-TW": "粉絲媒體強調「告別感」；產業媒體則視為商業模式升級，未必等於退役。",
@@ -380,13 +528,20 @@
       "crossCorroboration": 14,
       "recencyClarity": 20
     },
-    "tags": ["adult", "AV", "performer", "career", "限制級", "NSFW"]
+    "tags": [
+      "adult",
+      "AV",
+      "performer",
+      "career",
+      "限制級",
+      "NSFW"
+    ]
   },
   {
     "id": "adult-02",
     "category": "adult",
     "adult": true,
-    "imageUrl": "https://picsum.photos/seed/adult-02-velvet/960/540",
+    "imageUrl": "/covers/adult-02.jpg",
     "imageAlt": {
       "zh-TW": "限制級｜成人平台政策與裝置示意（編輯風格）",
       "en": "Adult-rated｜Adult platform policy and devices editorial illustration"
@@ -401,8 +556,16 @@
       "en": "(18+ / Adult platform policy) Several creator subscription and short-video platforms updated community rules: public previews cannot show unmasked explicit imagery; full content stays behind age-verified accounts. Adult creators worry about reach; platforms cite app-store and ad-review pressure."
     },
     "sources": [
-      { "name": "Platform policy digest (sample)", "url": "https://example.com/adult-preview-mask", "stance": "Compliance / store review" },
-      { "name": "Adult creator advocacy (sample)", "url": "https://example.com/creator-reach-impact", "stance": "Creator monetization impact" }
+      {
+        "name": "Platform policy digest (sample)",
+        "url": "https://example.com/adult-preview-mask",
+        "stance": "Compliance / store review"
+      },
+      {
+        "name": "Adult creator advocacy (sample)",
+        "url": "https://example.com/creator-reach-impact",
+        "stance": "Creator monetization impact"
+      }
     ],
     "disagreements": {
       "zh-TW": "平台強調「仍可發完整成人內容」；創作者認為預覽遮罩等於實質降流。",
@@ -415,13 +578,19 @@
       "crossCorroboration": 15,
       "recencyClarity": 19
     },
-    "tags": ["adult", "platform", "policy", "NSFW", "限制級"]
+    "tags": [
+      "adult",
+      "platform",
+      "policy",
+      "NSFW",
+      "限制級"
+    ]
   },
   {
     "id": "adult-03",
     "category": "adult",
     "adult": true,
-    "imageUrl": "https://picsum.photos/seed/adult-03-studio/960/540",
+    "imageUrl": "/covers/adult-03.jpg",
     "imageAlt": {
       "zh-TW": "限制級｜成人影音展會攤位示意（編輯風格）",
       "en": "Adult-rated｜Adult video expo booth editorial illustration"
@@ -436,8 +605,16 @@
       "en": "(18+ / Adult-industry news) Adult attendance at this year's expo rose year-over-year; booths centered on performer meet-and-greets, limited discs, and VR demos. Indie studios report a rising share of overseas fan subscriptions while facing payment-rail and labeling compliance costs. Adult zone only."
     },
     "sources": [
-      { "name": "Adult entertainment trade (sample)", "url": "https://example.com/av-expo-attendance", "stance": "Expo floor / attendance" },
-      { "name": "Streaming analytics note (sample)", "url": "https://example.com/adult-overseas-subs", "stance": "Overseas subscription mix" }
+      {
+        "name": "Adult entertainment trade (sample)",
+        "url": "https://example.com/av-expo-attendance",
+        "stance": "Expo floor / attendance"
+      },
+      {
+        "name": "Streaming analytics note (sample)",
+        "url": "https://example.com/adult-overseas-subs",
+        "stance": "Overseas subscription mix"
+      }
     ],
     "disagreements": null,
     "trustScore": 54,
@@ -447,6 +624,13 @@
       "crossCorroboration": 13,
       "recencyClarity": 18
     },
-    "tags": ["adult", "AV", "expo", "industry", "限制級", "NSFW"]
+    "tags": [
+      "adult",
+      "AV",
+      "expo",
+      "industry",
+      "限制級",
+      "NSFW"
+    ]
   }
 ]

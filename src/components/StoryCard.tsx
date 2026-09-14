@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import type { Language, PersonalizationState, Story } from "@/lib/types";
 import { CATEGORY_LABELS } from "@/lib/stories";
@@ -33,13 +32,10 @@ export function StoryCard({
       {story.imageUrl && (
         <Link href={`/story/${story.id}`} onClick={onOpen} className="block">
           <div className="relative aspect-[16/9] w-full bg-slate-100">
-            <Image
+            <img
               src={story.imageUrl}
               alt={alt}
-              fill
-              className="object-cover"
-              sizes="(max-width: 768px) 100vw, 50vw"
-              unoptimized
+              className="absolute inset-0 h-full w-full object-cover"
             />
             {story.adult && (
               <span className="absolute left-2 top-2 rounded-md bg-rose-700/90 px-2 py-0.5 text-[11px] font-bold tracking-wide text-white">

@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import type { Language, PersonalizationState, Story } from "@/lib/types";
 import { CATEGORY_LABELS } from "@/lib/stories";
@@ -55,14 +54,10 @@ export function HeadlineBlock({
                   className="block"
                 >
                   <div className="relative aspect-[21/9] w-full bg-slate-200 sm:aspect-[2/1]">
-                    <Image
+                    <img
                       src={story.imageUrl}
                       alt={alt}
-                      fill
-                      className="object-cover"
-                      sizes="100vw"
-                      priority
-                      unoptimized
+                      className="absolute inset-0 h-full w-full object-cover"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
                     <span className="absolute left-3 top-3 rounded-md bg-amber-500 px-2.5 py-1 text-xs font-bold text-white shadow">

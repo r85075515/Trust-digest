@@ -1,7 +1,6 @@
 "use client";
 
 import { use, useEffect } from "react";
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Header } from "@/components/Header";
@@ -86,14 +85,10 @@ export default function StoryDetailPage({
 
         {story.imageUrl && (
           <div className="relative mb-5 aspect-[16/9] w-full overflow-hidden rounded-2xl bg-slate-100 shadow-sm">
-            <Image
+            <img
               src={story.imageUrl}
               alt={alt}
-              fill
-              className="object-cover"
-              sizes="(max-width: 768px) 100vw, 768px"
-              priority
-              unoptimized
+              className="absolute inset-0 h-full w-full object-cover"
             />
             {story.adult && (
               <span className="absolute left-3 top-3 rounded-md bg-rose-700/90 px-2.5 py-1 text-xs font-bold text-white">
