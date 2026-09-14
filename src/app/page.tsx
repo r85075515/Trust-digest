@@ -11,6 +11,21 @@ import { useLanguage } from "@/hooks/useLanguage";
 import { usePersonalization } from "@/hooks/usePersonalization";
 import type { Category } from "@/lib/types";
 import Link from "next/link";
+import ingestMeta from "../../data/ingest-meta.json";
+
+function formatIngestTime(iso: string | null, lang: "zh-TW" | "en"): string {
+  if (!iso) return lang === "zh-TW" ? "尚未執行" : "not yet run";
+  try {
+    const d = new Date(iso);
+    return d.toLocaleString(lang === "zh-TW" ? "zh-TW" : "en-US", {
+      timeZone: "UTC",
+      dateStyle: "medium",
+      timeStyle: "short",
+    }) + " UTC";
+  } catch {
+    return iso;
+  }
+}
 
 export default function HomePage() {
   const { lang, setLang, ready: langReady } = useLanguage();
@@ -45,6 +60,11 @@ export default function HomePage() {
     );
   }
 
+  const ingestLabel = formatIngestTime(
+    (ingestMeta as { ingestedAt?: string | null }).ingestedAt ?? null,
+    lang
+  );
+
   return (
     <div className="min-h-screen">
       <Header
@@ -59,8 +79,8 @@ export default function HomePage() {
           </h1>
           <p className="mb-4 text-sm text-slate-600">
             {lang === "zh-TW"
-              ? "國際 · 財經 · 科技 · AI · 演藝 · 美妝 — 訊息流以熱門（高討論）與頭條（重要）為主。首頁短摘要，點進內頁可讀完整消化文。標題用具名專有名詞；角色說明放正文。多來源連結與可解釋信任分數。離線示範資料。"
-              : "International · Finance · Tech · AI · Entertainment · Beauty — feed prioritizes Popular (high buzz) and Headline (important) stories. Short briefings on home; full digests on detail pages. Titles lead with proper nouns; role/category explainers live in the body. Multi-source links and explainable trust scores. Offline demo seed data."}
+              ? `國際 · 財經 · 科技 · AI · 演藝 · 美妝 — 訊息流以熱門（高討論）與頭條（重要）為主。首頁短摘要，點進內頁可讀完整消化文。標題用具名專有名詞；角色說明放正文。多來源連結與可解釋信任分數（啟發式，非事實查核保證）。即時 RSS 彙整 · 上次更新：${ingestLabel}。`
+              : `International · Finance · Tech · AI · Entertainment · Beauty — feed prioritizes Popular (high buzz) and Headline (important) stories. Short briefings on home; full digests on detail pages. Titles lead with proper nouns; role/category explainers live in the body. Multi-source links and explainable trust scores (heuristics, not fact-check guarantees). Live RSS ingest · last updated: ${ingestLabel}.`}
           </p>
           <CategoryFilter value={category} onChange={setCategory} lang={lang} />
         </section>
@@ -130,8 +150,8 @@ export default function HomePage() {
 
         <footer className="border-t border-slate-200 pt-4 text-xs text-slate-500">
           {lang === "zh-TW"
-            ? "Axiom 提供短摘要與 AI 消化文，並連結原始來源，非全文轉載。信任分數為示範啟發式，不宣稱零誤訊。成人區為 18+ 合法產業新聞樣本，預設關閉。"
-            : "Axiom provides short briefings and AI digest articles with links to original sources — not full republication. Trust scores are demo heuristics; we do not claim zero misinformation. Adult zone holds 18+ legal industry samples and is off by default."}
+            ? "Axiom 提供短摘要與消化文，並連結原始來源，非全文轉載。信任分數為啟發式指標，不宣稱零誤訊。主訊息流來自允許清單 RSS；成人區為 18+ 示範種子（demo-seed），預設關閉。"
+            : "Axiom provides short briefings and digest articles with links to original sources — not full republication. Trust scores are heuristics; we do not claim zero misinformation. Main feed is live allow-listed RSS; adult zone holds 18+ demo-seed samples and is off by default."}
         </footer>
       </main>
     </div>

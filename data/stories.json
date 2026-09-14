@@ -1,865 +1,989 @@
 [
   {
-    "id": "int-01",
-    "category": "international",
-    "adult": false,
-    "isHeadline": true,
-    "imageUrl": "/covers/int-01.jpg",
-    "imageAlt": {
-      "zh-TW": "東亞峰會會場示意",
-      "en": "East Asia summit venue illustration"
-    },
-    "publishedAt": "2026-09-12T08:00:00Z",
-    "title": {
-      "zh-TW": "馬尼拉「太平洋繁榮峰會」：日韓菲等領袖談供應鏈與南海安全",
-      "en": "Manila Pacific Prosperity Summit: leaders from Japan, Korea, Philippines eye supply chains and South China Sea security"
-    },
-    "summary": {
-      "zh-TW": "太平洋繁榮峰會於馬尼拉閉幕，日本、韓國、菲律賓等與會方同意成立供應鏈與海上安全工作小組；約束力與時程仍待後續談判。",
-      "en": "The Pacific Prosperity Summit wrapped in Manila with Japan, South Korea, the Philippines and others agreeing to working groups on supply-chain resilience and maritime security; binding timelines remain open."
-    },
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/",
-        "stance": "Neutral framing on outcomes"
-      },
-      {
-        "name": "BBC News",
-        "url": "https://www.bbc.com/news",
-        "stance": "Emphasized security tensions"
-      },
-      {
-        "name": "NHK World",
-        "url": "https://www3.nhk.or.jp/nhkworld/",
-        "stance": "Highlighted economic agenda"
-      }
-    ],
-    "disagreements": {
-      "zh-TW": "部分媒體強調安全對抗意味，另一些則凸顯經貿進展；對「實質成果」評估分歧。",
-      "en": "Some outlets stress security rivalry; others highlight economic progress. Assessments of 'substance' diverge."
-    },
-    "trustScore": 82,
-    "trustBreakdown": {
-      "sourceDiversity": 22,
-      "outletReputation": 23,
-      "crossCorroboration": 20,
-      "recencyClarity": 17
-    },
-    "tags": [
-      "diplomacy",
-      "trade",
-      "Asia"
-    ],
-    "body": {
-      "zh-TW": "「太平洋繁榮峰會」（Pacific Prosperity Summit）本週在馬尼拉舉行，日本首相、韓國總統、菲律賓總統等東亞與東南亞領袖與會，議程聚焦貿易便利化、關鍵礦產供應鏈，以及南海與周邊海上安全合作。會後公報寫明將成立跨國工作小組，但未訂具約束力的完成期限。\n\n峰會是示範用區域對話名稱，定位類似現有東亞多邊場合的延伸：把經貿與安全放在同一張桌子上，回應近年供應鏈重組與海上摩擦升溫。對企業而言，工作小組若上路，可能影響半導體、綠能與航運保險的區域規則討論節奏。\n\n值得關注的是：各方對「安全合作」用語寬嚴不一——有的稿件強調航運自由，有的強調對話降溫。基本事實（峰會召開、工作小組入公報、細節未鎖死）各家大致一致，標題語氣差異較大。\n\n仍不確定：工作小組主席國、首次會議時間，以及是否納入第三方觀察員。讀者可把公報原文與各國外長例行記者會對照，避免只看單一國媒標題。",
-      "en": "The Pacific Prosperity Summit convened this week in Manila, with leaders including Japan’s prime minister, South Korea’s president and the Philippines’ president among East and Southeast Asian attendees. The agenda centered on trade facilitation, critical-minerals supply chains, and maritime security around the South China Sea. The communiqué creates cross-border working groups but sets no binding deadlines.\n\nThe summit is a demo-named regional dialogue in the spirit of existing East Asian multilateral forums: putting commerce and security on one table as supply chains reshuffle and maritime friction rises. If the working groups stick, they could pace regional rule talks that touch semiconductors, clean energy and shipping insurance.\n\nWhy watch: outlets differ on how hard they push “security cooperation”—some stress freedom of navigation, others de-escalation. Core facts (summit held, working groups in the text, details unlocked) largely align; headline tone does not.\n\nStill uncertain: which country chairs the groups, when they first meet, and whether third-party observers are invited. Readers should cross-check the communiqué against foreign-ministry briefings rather than a single national headline."
-    },
-    "isPopular": true
-  },
-  {
-    "id": "int-02",
-    "category": "international",
-    "adult": false,
-    "imageUrl": "/covers/int-02.jpg",
-    "imageAlt": {
-      "zh-TW": "聯合國氣候談判會場示意",
-      "en": "UN climate talks venue illustration"
-    },
-    "publishedAt": "2026-09-11T14:30:00Z",
-    "title": {
-      "zh-TW": "聯合國 COP31「損失與損害基金」談判延長至深夜仍無共識",
-      "en": "UN COP31 Loss and Damage Fund talks run late without consensus"
-    },
-    "summary": {
-      "zh-TW": "COP31 談判延長會期：開發中國家要求提高損失與損害基金規模，已開發國家主張先完善監督；最終文本未定。",
-      "en": "COP31 negotiators extended sessions overnight: developing countries want a larger Loss and Damage Fund; developed states want oversight first. No final text yet."
-    },
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/",
-        "stance": "Process-focused"
-      },
-      {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/",
-        "stance": "More critical of wealthy nations"
-      }
-    ],
-    "disagreements": {
-      "zh-TW": "對「誰應多出資」的歸因不同；報導對談判僵局責任歸屬不一致。",
-      "en": "Attribution of who should pay more differs; blame for the deadlock is framed inconsistently."
-    },
-    "trustScore": 74,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 22,
-      "crossCorroboration": 18,
-      "recencyClarity": 18
-    },
-    "tags": [
-      "climate",
-      "UN",
-      "finance"
-    ],
-    "body": {
-      "zh-TW": "聯合國氣候大會 COP31 場邊，「損失與損害基金」（Loss and Damage Fund）談判延長至深夜。七十七國集團加中國等開發中國家代表要求提高注資規模與撥款速度；歐盟與部分已開發經濟體則主張先建立可稽核的監督與項目篩選機制。會議延長但未達成最終文本。\n\n損失與損害基金是聯合國氣候架構下、用來協助氣候衝擊嚴重國家的融資工具；與減排承諾、調適基金分開討論。對島國與低洼國家而言，這是survivability議題；對出資國而言，則是財政與國內政治可接受度問題。\n\n來源大致同意「延長、未決、雙方立場未變」；分歧在於誰該為僵局負責。公民團體稿件常點名慢撥款，官方稿則強調治理先行。\n\n不確定項：下一輪非正式磋商時間表，以及是否將民間保險機制寫進附件。追蹤可看 UNFCCC 官方日報與主要談判團簡報。",
-      "en": "At UN climate conference COP31, talks on the Loss and Damage Fund ran into the night. The G77+China bloc and other developing-country delegates pressed for larger capitalization and faster disbursement; the EU and several developed economies insisted on auditable oversight and project screens first. Sessions were extended without a final text.\n\nThe Loss and Damage Fund is the UN climate-architecture facility meant to help countries hit hardest by climate impacts—distinct from mitigation pledges and adaptation funds. For island and low-lying states it is existential; for contributors it is a fiscal and domestic-politics test.\n\nSources agree on the basics—extended, unresolved, positions largely unchanged—while disagreeing on who owns the deadlock. NGO copy often blames slow money; official briefs stress governance first.\n\nUnknowns: the next informal huddle schedule, and whether private insurance tools land in an annex. Track UNFCCC daily programmes and major negotiating-bloc briefings."
-    },
-    "isPopular": false
-  },
-  {
-    "id": "fin-01",
-    "category": "finance",
-    "adult": false,
-    "isHeadline": true,
-    "imageUrl": "/covers/fin-01.jpg",
-    "imageAlt": {
-      "zh-TW": "金融市場交易廳示意",
-      "en": "Trading floor illustration"
-    },
-    "publishedAt": "2026-09-13T06:15:00Z",
-    "title": {
-      "zh-TW": "聯準會與歐洲央行利率路徑訊號分歧，標普與那斯達克波動升高",
-      "en": "Fed and ECB signal divergent rate paths; S&P 500 and Nasdaq wobble"
-    },
-    "summary": {
-      "zh-TW": "聯準會（Fed）官員偏鷹、歐洲央行（ECB）對通膨黏著度說法不一，美歐利率預期分化；美債殖利率與科技股同日大幅擺盪。",
-      "en": "Fed officials sounded firmer while ECB commentary on sticky inflation diverged, splitting US–Europe rate expectations; Treasury yields and tech shares swung the same day."
-    },
-    "sources": [
-      {
-        "name": "Financial Times",
-        "url": "https://www.ft.com/",
-        "stance": "Markets-first analysis"
-      },
-      {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/",
-        "stance": "Data-heavy rate path scenarios"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/",
-        "stance": "Retail-investor angle"
-      }
-    ],
-    "disagreements": {
-      "zh-TW": "部分分析認為波動屬正常重新定價；另有評論警告流動性緊縮風險被低估。",
-      "en": "Some call the moves a normal re-pricing; others warn liquidity-tightening risks are understated."
-    },
-    "trustScore": 79,
-    "trustBreakdown": {
-      "sourceDiversity": 21,
-      "outletReputation": 22,
-      "crossCorroboration": 19,
-      "recencyClarity": 17
-    },
-    "tags": [
-      "rates",
-      "markets",
-      "central-banks"
-    ],
-    "body": {
-      "zh-TW": "美國聯邦準備理事會（Fed）與歐洲中央銀行（ECB）本週公開發言，對通膨黏著度與降息時點釋出不同訊號。Fed 部分理事強調服務通膨仍高、不宜過早寬鬆；ECB 管委會成員則有人暗示歐元區可較早討論調整。紐約時段標普 500、那斯達克與十年期美債殖利率同步出現較大波動。\n\n兩大央行是全球資金定價的錨。當利率路徑預期分裂，跨大西洋的股債與匯率會重新定價，連帶影響新興市場融資成本與科技股估值假設。\n\n路透、彭博等稿件在「官員原話」上高度一致，差異主要在解讀：有的標題寫「鷹派回歸」，有的寫「歐美脫鉤交易升溫」。\n\n仍待釐清：下一次 FOMC 與 ECB 會議的點陣圖／聲明措辭是否正式反映這週口頭訊號。投資人宜對照會議紀要，而非單一訪問。",
-      "en": "This week’s public remarks from the U.S. Federal Reserve and the European Central Bank sent mixed signals on sticky inflation and the timing of cuts. Some Fed governors stressed still-hot services inflation and warned against easing too soon; certain ECB Governing Council members hinted the euro area could discuss adjustments earlier. In New York hours the S&P 500, Nasdaq and the 10-year Treasury yield all moved sharply.\n\nThe two central banks anchor global funding costs. When rate-path expectations split, transatlantic equities, bonds and FX reprice—and that feeds through to emerging-market borrowing costs and tech valuation assumptions.\n\nWire copy aligns closely on quoted language; interpretation diverges—some headlines shout “hawks are back,” others “US–Europe decoupling trade.”\n\nStill unclear: whether the next FOMC and ECB statements formally echo this week’s oral cues. Cross-check minutes and statements, not a single interview."
-    },
-    "isPopular": true
-  },
-  {
-    "id": "fin-02",
-    "category": "finance",
-    "adult": false,
-    "imageUrl": "/covers/fin-02.jpg",
-    "imageAlt": {
-      "zh-TW": "新創辦公空間示意",
-      "en": "Startup office illustration"
-    },
-    "publishedAt": "2026-09-10T11:00:00Z",
-    "title": {
-      "zh-TW": "軟銀願景基金與峰瑞資本加碼亞洲新創，估值仍低於 2021 高峰",
-      "en": "SoftBank Vision Fund and Chinese VC firms step up Asia deals; valuations still below 2021 peak"
-    },
-    "summary": {
-      "zh-TW": "軟銀願景基金、峰瑞資本等機構披露種子與 A 輪交易季增；後期輪次仍謹慎，投資人更盯單位經濟與獲利路徑。",
-      "en": "SoftBank Vision Fund, Chinese early-stage firms and peers reported a quarter-on-quarter rise in seed and Series A deals; later rounds stay cautious as investors stress unit economics and paths to profit."
-    },
-    "sources": [
-      {
-        "name": "Tech in Asia",
-        "url": "https://www.techinasia.com/",
-        "stance": "Regional deal flow focus"
-      },
-      {
-        "name": "PitchBook",
-        "url": "https://pitchbook.com/",
-        "stance": "Data-centric valuation note"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 68,
-    "trustBreakdown": {
-      "sourceDiversity": 14,
-      "outletReputation": 18,
-      "crossCorroboration": 16,
-      "recencyClarity": 20
-    },
-    "tags": [
-      "startups",
-      "VC",
-      "Asia"
-    ],
-    "body": {
-      "zh-TW": "據多家創投披露與產業彙整，軟銀願景基金（SoftBank Vision Fund）、峰瑞資本等活躍於亞洲的機構，本季種子輪與 A 輪交易量較上季回溫；新加坡、雅加達與班加羅爾的 B2B 與氣候科技標的較受青睞。後期輪次與上市前估值仍明顯低於 2021 年高峰。\n\n創投回溫代表風險資金重新定價後的「精選下注」，而非全面泡沫重來。對創業者，這表示敘事要更短、單位經濟要更清楚；對LP，則是檢查基金是否真的提高出手紀律。\n\n科技媒體偏寫「春天回來了」；財經媒體更強調估值折扣與盡職調查變嚴。交易筆數上升與估值仍低這兩點，多數來源並無衝突。\n\n不確定：願景基金後續對純消費互聯網的曝險上限，以及中國美元基金跨境交割是否再受外匯與監管影響。",
-      "en": "According to VC disclosures and industry tallies, SoftBank Vision Fund and active Asia investors such as Chinese early-stage firm Congrui Capital (峰瑞資本) saw seed and Series A volumes rebound quarter on quarter. B2B and climate-tech names in Singapore, Jakarta and Bengaluru drew interest. Later-stage and pre-IPO valuations remain well below 2021 peaks.\n\nThe thaw is selective re-risking after a reset—not a full bubble return. Founders need tighter narratives and clearer unit economics; LPs will check whether funds truly tightened discipline.\n\nTech press leans “spring is back”; finance desks stress valuation discounts and harder diligence. Rising deal counts alongside still-low valuations are not in dispute across most sources.\n\nUnknowns: Vision Fund’s next ceiling on pure consumer-internet exposure, and whether China USD-fund cross-border closes face fresh FX or regulatory friction."
-    },
-    "isPopular": false
-  },
-  {
-    "id": "tech-01",
+    "id": "live-tech-01-openai-s-sam-altman-says",
     "category": "tech",
     "adult": false,
-    "imageUrl": "/covers/tech-01.jpg",
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-01-openai-s-sam-altman-says.jpg",
     "imageAlt": {
-      "zh-TW": "折疊手機產品示意",
-      "en": "Foldable phone product illustration"
+      "en": "Cover related to: OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "zh-TW": "相關封面圖：OpenAI 的 Sam Altman 表示 2026 年上市「不智」"
     },
-    "publishedAt": "2026-09-13T09:45:00Z",
+    "publishedAt": "2026-09-12T21:16:28.000Z",
     "title": {
-      "zh-TW": "三星 Galaxy Z Fold7 量產良率提升，鉸鏈與面板供應鏈股受關注",
-      "en": "Samsung Galaxy Z Fold7 yields improve; hinge and panel suppliers in focus"
+      "en": "OpenAI’s Sam Altman Says It Would Be ‘Ill-Advised’ to Go Public in 2026",
+      "zh-TW": "OpenAI 的 Sam Altman 表示 2026 年上市「不智」"
     },
     "summary": {
-      "zh-TW": "三星電子供應鏈傳 Galaxy Z Fold7 折疊機良率改善，組裝與超薄玻璃供應商獲分析師上調出貨預估；耐用性與售價仍是觀察點。",
-      "en": "Samsung Electronics’ supply chain reports better Galaxy Z Fold7 foldable yields; assemblers and UTG suppliers saw shipment estimates raised. Durability and price remain the watch items."
+      "en": "OpenAI CEO Sam Altman stated that an IPO in 2026 would be ill-advised during a Fortune interview. The company has filed confidentially for an IPO but will not go public this year. Altman also discussed the Hugging Face hacking incident, recursive self-improvement, and risks of AI beyond human control, vowing to pause training if needed.",
+      "zh-TW": "OpenAI 執行長 Sam Altman 在 Fortune 訪談中表示，2026 年 IPO 將是不智之舉。公司已機密提交 IPO 申請，但今年不會上市。Altman 還討論了 Hugging Face 駭客事件、遞迴自我改進，以及超越人類控制的 AI 風險，並誓言必要時暫停訓練。"
+    },
+    "body": {
+      "en": "Lede: OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026.\n\nWhat happened: OpenAI CEO Sam Altman confirmed during an interview with Fortune that there would be no OpenAI IPO in 2026. While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training.\n\nWhy it matters: The statements clarify OpenAI’s near-term plans regarding public markets and highlight ongoing internal considerations around advanced AI development.\n\nSources agree/disagree: Both sources report the same core statement from Altman on the 2026 IPO timeline and the confidential filing.\n\nStill uncertain: The full context of the interview remarks on AI risks remains partially detailed in available reports.",
+      "zh-TW": "Lede: OpenAI 的 Sam Altman 表示 2026 年上市將是「不智」之舉。\n\nWhat happened: OpenAI 執行長 Sam Altman 在 Fortune 訪談中確認，2026 年不會有 OpenAI IPO。雖然 OpenAI 已機密提交 IPO 申請，但根據執行長 Sam Altman 表示，公司今年不會上市。在 45 分鐘的訪談中，Altman 討論了多個主題，包括 Hugging Face 駭客事件、遞迴自我改進，以及建構超越人類控制 AI 的可能性。關於後者，他表示「絕對」可能，但誓言將採取行動防止發生，即使意味著暫停訓練。\n\nWhy it matters: 這些聲明澄清了 OpenAI 近期公開市場計畫，並突顯先進 AI 發展的內部考量。\n\nSources agree/disagree: 兩來源均報導 Altman 對 2026 年 IPO 時間表及機密申請的相同核心陳述。\n\nStill uncertain: 訪談中關於 AI 風險的完整語境在現有報導中仍部分詳細。"
     },
     "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+      },
       {
         "name": "The Verge",
-        "url": "https://www.theverge.com/",
-        "stance": "Product UX angle"
-      },
-      {
-        "name": "Digitimes",
-        "url": "https://www.digitimes.com/",
-        "stance": "Supply-chain depth"
-      },
-      {
-        "name": "Nikkel Asia",
-        "url": "https://asia.nikkei.com/",
-        "stance": "Regional manufacturing"
-      }
-    ],
-    "disagreements": {
-      "zh-TW": "消費媒體偏樂觀於設計；產業媒體對良率數字來源與可比性較謹慎。",
-      "en": "Consumer press is more upbeat on design; trade press is cautious about yield figures and comparability."
-    },
-    "trustScore": 71,
-    "trustBreakdown": {
-      "sourceDiversity": 20,
-      "outletReputation": 18,
-      "crossCorroboration": 17,
-      "recencyClarity": 16
-    },
-    "tags": [
-      "hardware",
-      "foldables",
-      "supply-chain"
-    ],
-    "body": {
-      "zh-TW": "三星電子（Samsung Electronics）新一代折疊旗艦 Galaxy Z Fold7 進入量產爬坡，多家韓系與台系組裝、鉸鏈與超薄玻璃（UTG）供應商對客戶說明良率優於上一代。部分券商因此上調相關供應鏈出貨與營收預估。消費者端仍關注長期折痕、維修費與售價帶。\n\n折疊手機是三星在高階手機市場差異化的主力產品線之一；良率直接影響毛利與能否擴大出貨。對競爭對手如華為 Mate 系列折疊機與 Google Pixel Fold 陣營，這也是供應鏈產能排程的參考訊號。\n\n電子業媒體詳述良率與零件；消費媒體較寫開箱期待。核心「良率改善、供應鏈受鼓舞」敘事大致同向。\n\n仍待實機耐用測試與全球上市定價公布後，才能判斷這波供應鏈樂觀是否過度。",
-      "en": "Samsung Electronics’ next foldable flagship, the Galaxy Z Fold7, is ramping production. Several Korean and Taiwanese assemblers, hinge makers and ultra-thin-glass (UTG) suppliers told customers yields beat the prior generation. Some brokerages raised related shipment and revenue estimates. Buyers still watch crease longevity, repair cost and price bands.\n\nFoldables are a core differentiation line for Samsung in premium phones; yields hit gross margin and volume upside. Rivals such as Huawei’s Mate foldables and Google’s Pixel Fold camp also read this as a capacity-scheduling signal.\n\nTrade press digs into yields and parts; consumer desks lean on unbox hype. The core “yields up, supply chain cheered” story largely aligns.\n\nReal durability tests and global launch pricing will show whether the optimism is overdone."
-    },
-    "isPopular": true
-  },
-  {
-    "id": "tech-02",
-    "category": "tech",
-    "adult": false,
-    "imageUrl": "/covers/tech-02.jpg",
-    "imageAlt": {
-      "zh-TW": "資料中心機房示意",
-      "en": "Data center hall illustration"
-    },
-    "publishedAt": "2026-09-09T16:20:00Z",
-    "title": {
-      "zh-TW": "Amazon AWS、Microsoft Azure 與 Google Cloud 加碼資料中心，電力成瓶頸",
-      "en": "Amazon AWS, Microsoft Azure and Google Cloud pour into data centers; power becomes the bottleneck"
-    },
-    "summary": {
-      "zh-TW": "三大雲端商上修資本支出，AWS、Azure、Google Cloud 新建與擴建案受電網與冷卻限制拖累；業者轉向高效散熱與再生能源合約。",
-      "en": "The three hyperscalers raised capex guidance; AWS, Azure and Google Cloud builds face grid and cooling limits. Operators push denser cooling and renewable PPAs."
-    },
-    "sources": [
-      {
-        "name": "WSJ",
-        "url": "https://www.wsj.com/",
-        "stance": "Capex and utilities angle"
-      },
-      {
-        "name": "Ars Technica",
-        "url": "https://arstechnica.com/",
-        "stance": "Technical cooling detail"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
       }
     ],
     "disagreements": null,
-    "trustScore": 76,
-    "trustBreakdown": {
-      "sourceDiversity": 15,
-      "outletReputation": 22,
-      "crossCorroboration": 19,
-      "recencyClarity": 20
-    },
-    "tags": [
-      "cloud",
-      "infrastructure",
-      "energy"
-    ],
-    "body": {
-      "zh-TW": "Amazon Web Services（AWS）、Microsoft Azure 與 Google Cloud 本季財報與法說會同步上修資料中心資本支出指引，以承接生成式 AI 與企業雲需求。不過美國弗吉尼亞、愛爾蘭都柏林與新加坡等地多個擴建案，因電網接電時程與用水／冷卻規範而延遲。業者加速導入液冷與長期再生能源購電協議（PPA）。\n\n三大雲是全球數位基礎設施的主力買家；他們的電力與土地需求，已開始影響地方政府的能源規劃與電價辯論。對半導體與伺服器代工鏈，這代表訂單能見度高，但交付節奏可能被「電」卡住。\n\n財經稿聚焦 capex 數字；能源與地方新聞較寫居民反對與變電站爭議。數字本身少有爭議，爭議在外部效應。\n\n觀察下一步：各州／國公用事業委員會的接電排隊規則，以及雲端商是否更積極自建微型電網。",
-      "en": "Amazon Web Services (AWS), Microsoft Azure and Google Cloud all raised data-center capital-expenditure guidance this earnings season to meet generative-AI and enterprise demand. Yet expansions in places such as Northern Virginia, Dublin and Singapore have slipped on grid interconnection timelines and water/cooling rules. Operators are accelerating liquid cooling and long-term renewable power-purchase agreements (PPAs).\n\nThe three hyperscalers are the biggest buyers of digital infrastructure; their power and land needs now shape local energy planning and rate debates. For chip and server supply chains, visibility is high—but delivery can stall on megawatts, not motherboards.\n\nFinance copy centers on capex figures; energy and local press stress resident pushback and substation fights. The numbers rarely conflict; the externalities do.\n\nNext to watch: utility-commission interconnection queues and whether clouds build more on-site microgrids."
-    },
-    "isPopular": true,
-    "isHeadline": true
-  },
-  {
-    "id": "ai-01",
-    "category": "ai",
-    "adult": false,
-    "imageUrl": "/covers/ai-01.jpg",
-    "imageAlt": {
-      "zh-TW": "人工智慧運算示意",
-      "en": "AI computing illustration"
-    },
-    "publishedAt": "2026-09-14T02:00:00Z",
-    "title": {
-      "zh-TW": "開源模型 OpenLingua-70B 多語基準逼近 GPT 級專有系統",
-      "en": "Open-weight OpenLingua-70B nears GPT-class systems on multilingual benchmarks"
-    },
-    "summary": {
-      "zh-TW": "社群權重模型 OpenLingua-70B 在翻譯與推理基準縮小與專有旗艦差距；工具使用與超長上下文仍落後。授權允許研究與多數商用。",
-      "en": "Community open-weight model OpenLingua-70B narrows the gap with proprietary flagships on translation and reasoning benches; tool use and ultra-long context still trail. License allows research and most commercial use."
-    },
-    "sources": [
-      {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co/blog",
-        "stance": "Benchmarks from release notes"
-      },
-      {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/",
-        "stance": "Caveats on eval gaming"
-      },
-      {
-        "name": "Wired",
-        "url": "https://www.wired.com/",
-        "stance": "Industry competition frame"
-      }
-    ],
-    "disagreements": {
-      "zh-TW": "支持者強調開源追趕速度；懷疑者指出基準可能過擬合、真實工作負載差距仍大。",
-      "en": "Boosters stress catch-up speed; skeptics note possible eval overfitting and larger real-workload gaps."
-    },
-    "trustScore": 73,
-    "trustBreakdown": {
-      "sourceDiversity": 19,
-      "outletReputation": 20,
-      "crossCorroboration": 17,
-      "recencyClarity": 17
-    },
-    "tags": [
-      "open-source",
-      "benchmarks",
-      "LLMs"
-    ],
-    "body": {
-      "zh-TW": "開源社群釋出的大型語言模型 OpenLingua-70B（示範用模型名）在 MMLU、多語翻譯與若干推理基準上，分數逼近以 GPT 系列為代表的專有系統，引發 Hugging Face 與學術圈熱議。評測同時顯示：函式呼叫、瀏覽工具與超過數十萬 token 的長上下文任務，仍明顯落後最頂尖閉源模型。授權採允許研究與多數商用的寬鬆條款。\n\nOpenLingua-70B 屬「開源權重／open-weight」路線：權重可下載微調，但訓練資料與完整管線未必全開。對新創與在地語系團隊，這降低了做垂直應用的門檻；對雲端巨頭，則是定價與封閉 API 策略的壓力測詨。\n\nAI 媒體偏寫「開源超車」；產業分析較強調基準≠產品體驗。基準分數來源可複現者較一致，行銷標題則常過度延伸。\n\n讀者應核對官方評測腳本與是否含資料污染；商用前還要看法務對授權與訓練資料出處的意見。",
-      "en": "Community-released large language model OpenLingua-70B (a demo model name) scored close to proprietary GPT-class systems on MMLU, multilingual translation and several reasoning benches, sparking debate on Hugging Face and in academia. Evals still show clear gaps on function calling, browsing tools and contexts beyond hundreds of thousands of tokens. The license permits research and most commercial use.\n\nOpenLingua-70B sits on the open-weight track: weights are downloadable for fine-tunes, while training data and full pipelines may stay partly closed. That lowers the bar for startups and local-language teams—and pressure-tests cloud giants’ closed API pricing.\n\nAI media leans “open source overtakes”; industry notes stress benches ≠ product UX. Reproducible scores align better than marketing headlines.\n\nVerify official eval scripts and contamination checks; legal review of license and data provenance still matters before production use."
-    },
-    "isPopular": true
-  },
-  {
-    "id": "ai-02",
-    "category": "ai",
-    "adult": false,
-    "imageUrl": "/covers/ai-02.jpg",
-    "imageAlt": {
-      "zh-TW": "法規文件與科技示意",
-      "en": "Policy documents and tech illustration"
-    },
-    "publishedAt": "2026-09-08T10:00:00Z",
-    "title": {
-      "zh-TW": "歐盟 AI Act 與美國 NIST 合成媒體標籤草案出爐，科技公會求統一",
-      "en": "EU AI Act and U.S. NIST synthetic-media labeling drafts land; tech trade groups seek one standard"
-    },
-    "summary": {
-      "zh-TW": "歐盟執行 AI Act 標籤規範、美國 NIST 同步徵詢合成媒體揭露草案；BSA 等公會警告碎片化合規，公民團體要更嚴罰則。",
-      "en": "The EU advances AI Act labeling rules while U.S. NIST consults on synthetic-media disclosure drafts; groups like BSA warn of fragmented compliance, civic groups want tougher penalties."
-    },
-    "sources": [
-      {
-        "name": "Politico",
-        "url": "https://www.politico.com/",
-        "stance": "Policy process"
-      },
-      {
-        "name": "Rest of World",
-        "url": "https://restofworld.org/",
-        "stance": "Global South impact"
-      }
-    ],
-    "disagreements": {
-      "zh-TW": "對「標籤是否足夠」看法分裂：一方認為透明即可，另一方要求事前審核。",
-      "en": "Split on whether labels suffice: some say transparency is enough; others demand pre-clearance."
-    },
-    "trustScore": 70,
+    "trustScore": 67,
     "trustBreakdown": {
       "sourceDiversity": 16,
-      "outletReputation": 19,
-      "crossCorroboration": 17,
+      "outletReputation": 18,
+      "crossCorroboration": 15,
       "recencyClarity": 18
     },
     "tags": [
-      "policy",
-      "regulation",
-      "disclosure"
-    ],
-    "body": {
-      "zh-TW": "歐盟《AI 法案》（AI Act）配套的生成式 AI 與合成媒體標籤指引持續細化，同時美國國家標準與技術研究院（NIST）就深度偽造與自動化決策的揭露草案公開徵詢。微軟、Google 等會員所屬的科技公會（如 BSA）呼吁跨大西洋互認標準，以免一份模型要貼多套標籤；歐洲數位權利團體則要求更高罰則與更短合規期限。\n\n標籤規範直接影響短影音平台、廣告科技與選舉期間的資訊治理。若歐美規則不一致，跨國平台可能採「最高共同標準」或分區產品策略，成本最終會反映在中小開發者。\n\n政策稿與遊說稿立場分明，但「有草案、產業要互操作、公民團體要加嚴」這條主線各家都有報。\n\n後續看歐洲標準化組織（CEN/CENELEC）技術文件，以及 NIST 徵詢截止後的修訂稿。",
-      "en": "Implementing guidance under the EU’s AI Act on generative-AI and synthetic-media labels continues to firm up, while the U.S. National Institute of Standards and Technology (NIST) is consulting on disclosure drafts for deepfakes and automated decisions. Trade groups such as BSA, whose members include Microsoft and Google, want transatlantic mutual recognition so one model does not need many label regimes; European digital-rights NGOs want higher penalties and shorter clocks.\n\nLabeling rules hit short-video platforms, ad tech and election-period information governance. If EU and U.S. rules diverge, platforms may adopt a highest-common-denominator or geo-split product—costs that land on smaller developers.\n\nPolicy and lobby copy disagree on tone, but the spine—“drafts exist, industry wants interoperability, civic groups want teeth”—is widely covered.\n\nWatch CEN/CENELEC technical files and NIST’s post-consultation revision."
-    },
-    "isPopular": false
+      "tech",
+      "live-ingest",
+      "techcrunch",
+      "the-verge"
+    ]
   },
   {
-    "id": "int-03",
+    "id": "live-international-01-six-dead-130-missing-aft",
     "category": "international",
     "adult": false,
-    "imageUrl": "/covers/int-03.jpg",
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-01-six-dead-130-missing-aft.jpg",
     "imageAlt": {
-      "zh-TW": "人道援助車隊示意",
-      "en": "Humanitarian aid convoy illustration"
+      "en": "Cover related to: Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "zh-TW": "相關封面圖：維爾戈運輸8號渡輪在爪哇海傾覆"
     },
-    "publishedAt": "2026-09-07T12:00:00Z",
+    "publishedAt": "2026-09-14T06:20:28.000Z",
     "title": {
-      "zh-TW": "蘇丹「港市—卡薩拉」人道走廊暫開，WFP 運量仍遠低於需求",
-      "en": "Sudan’s Port–Kassala aid corridor briefly opens; WFP volumes still far below need"
+      "en": "Virgo Transport 8 Ferry Capsizes in Java Sea",
+      "zh-TW": "維爾戈運輸8號渡輪在爪哇海傾覆"
     },
     "summary": {
-      "zh-TW": "聯合國世界糧食計畫署（WFP）證實有限車隊經蘇丹港至卡薩拉走廊通過檢查站，但燃料與安全不穩；可持續性說法各方不一。",
-      "en": "UN World Food Programme (WFP) confirmed limited convoys cleared checkpoints on Sudan’s Port–Kassala corridor, but fuel and security remain shaky; parties disagree on how durable the opening is."
+      "en": "Indonesian ferry Virgo Transport 8 capsized in the Java Sea amid bad weather. Six passengers confirmed dead with 129 to 130 reported missing. Authorities deployed ships and helicopters for search operations in the area.",
+      "zh-TW": "印尼維爾戈運輸8號渡輪在爪哇海遭遇惡劣天氣傾覆。六名乘客確認死亡，約129至130人失蹤。當局已派遣船隻與直升機展開搜救行動。"
+    },
+    "body": {
+      "en": "Lede: Virgo Transport 8 ferry capsized in the Java Sea, resulting in six deaths and over one hundred missing.\n\nWhat happened: The ship encountered bad weather and overturned. Indonesian authorities intensified searches on Monday for those missing after the ferry capsized in the Java Sea. Ships and helicopters are searching for survivors from the Virgo Transport 8.\n\nWhy it matters: The incident highlights risks of sea travel in adverse conditions and the scale of ongoing rescue efforts in Indonesian waters.\n\nSources agree/disagree: Both sources confirm at least six deaths and bad weather as the cause, with search operations active.\n\nStill uncertain: Exact number of missing persons and full details on rescue outcomes remain unclear.",
+      "zh-TW": "導言：維爾戈運輸8號渡輪在爪哇海傾覆，造成六人死亡及逾百人失蹤。\n\n事件經過：該船遭遇惡劣天氣並翻覆。印尼當局週一加強搜尋爪哇海渡輪傾覆後失蹤人員。船隻與直升機正搜尋維爾戈運輸8號的倖存者。\n\n重要性：此事件凸顯惡劣天氣下海上旅行的風險，以及印尼水域救援行動的規模。\n\n來源一致與分歧：兩來源均確認至少六人死亡且惡劣天氣為原因，搜救行動正在進行。\n\n仍未確定：失蹤人數確切數字及救援結果細節仍不明朗。"
     },
     "sources": [
       {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/",
-        "stance": "On-the-ground access focus"
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/",
-        "stance": "Verified convoy counts"
-      },
-      {
-        "name": "UN News",
-        "url": "https://news.un.org/",
-        "stance": "Agency statements"
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry"
       }
     ],
     "disagreements": {
-      "zh-TW": "對通行「是否構成實質改善」解讀不同；數字口徑（計畫量 vs 實際到達）不一致。",
-      "en": "Views differ on whether access is a material improvement; planned vs delivered volumes are reported inconsistently."
+      "en": "BBC reports 130 missing while NPR reports 129 missing; BBC alone names the ship Virgo Transport 8.",
+      "zh-TW": "BBC報導失蹤130人，NPR報導失蹤129人；僅BBC提及船名維爾戈運輸8號。"
     },
-    "trustScore": 77,
-    "trustBreakdown": {
-      "sourceDiversity": 21,
-      "outletReputation": 20,
-      "crossCorroboration": 19,
-      "recencyClarity": 17
-    },
-    "tags": [
-      "humanitarian",
-      "conflict",
-      "aid"
-    ],
-    "body": {
-      "zh-TW": "聯合國世界糧食計畫署（WFP）與數個國際 NGO 證實，蘇丹東部「港市—卡薩拉」人道援助走廊本週短暫重開，有限糧食與藥品車隊通過檢查站。現場回報指燃料配給與武裝份子活動仍使班次不穩，單日運量遠低於人道需求評估。交戰各方對「可持續開放」的公開說法互相矛盾。\n\n該走廊是示範敘事中連接紅海口岸與內陸配送節點的關鍵陸路；若長期中斷，東部與鄰近地區的營養危機會迅速惡化。對捐助國與鄰國，這也是邊境壓力與區域穩定議題。\n\n國際媒體在「有車隊通過」上一致，在「誰該為封鎖負責」上高度分歧。\n\n追蹤 WFP 形勢報告與紅十字會通行紀錄，比單一即時消息更可靠。",
-      "en": "The UN World Food Programme (WFP) and several international NGOs confirmed that Sudan’s eastern Port–Kassala humanitarian corridor briefly reopened this week, with limited food and medical convoys clearing checkpoints. Field reports cite fuel rationing and armed activity that keep schedules unstable; daily tonnage remains far below assessed need. Warring parties contradict each other on whether the opening can last.\n\nIn this demo narrative the corridor is the critical land link from a Red Sea port node to inland distribution. Prolonged closure would deepen nutrition crises inland and raise border pressure for neighbors.\n\nInternational desks agree convoys moved; they diverge sharply on who owns the blockades.\n\nWFP situation reports and Red Cross access logs beat any single flash alert."
-    },
-    "isPopular": false
-  },
-  {
-    "id": "fin-03",
-    "category": "finance",
-    "adult": false,
-    "imageUrl": "/covers/fin-03.jpg",
-    "imageAlt": {
-      "zh-TW": "通膨與消費數據示意",
-      "en": "Inflation and retail data illustration"
-    },
-    "publishedAt": "2026-09-06T07:30:00Z",
-    "title": {
-      "zh-TW": "美國 CPI 溫和，期貨市場上調 Fed 年內降息機率",
-      "en": "Softer U.S. CPI lifts Fed rate-cut odds in futures markets"
-    },
-    "summary": {
-      "zh-TW": "美國勞工統計局公布的 CPI 顯示核心服務通膨略降、能源回落；聯邦基金期貨上調年內降息機率，Fed 官員仍稱「數據依賴」。",
-      "en": "BLS CPI showed softer core services and cooler energy; fed-funds futures raised odds of cuts this year while Fed officials still say they are “data dependent.”"
-    },
-    "sources": [
-      {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/",
-        "stance": "Market-implied odds"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/",
-        "stance": "Official commentary"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 80,
+    "trustScore": 72,
     "trustBreakdown": {
       "sourceDiversity": 16,
       "outletReputation": 24,
-      "crossCorroboration": 22,
-      "recencyClarity": 18
+      "crossCorroboration": 7,
+      "recencyClarity": 25
     },
     "tags": [
-      "inflation",
-      "rates",
-      "macro"
-    ],
-    "body": {
-      "zh-TW": "美國勞工統計局（BLS）最新消費者物價指數（CPI）顯示整體與核心讀數低於部分市場預期，其中核心服務通膨略降、能源價格回落。芝加哥商品交易所聯邦基金期貨隱含的年內降息機率隨之上升；多位聯準會官員仍重申決策「數據依賴」，不願預先承諾路徑。\n\nCPI 是 Fed 與全球風險資產的短期定價錨之一。溫和讀數通常利多成長股與新興市場債，但也要防「一次數據交易」被下個月翻案。\n\n彭博、路透對數字本身高度一致；意見頁與策略師報告對「是否足夠讓 Fed 在下季動手」分歧更大。\n\n下次焦點會是 PCE 物價與就業成本指數是否同向確認。",
-      "en": "The U.S. Bureau of Labor Statistics’ latest Consumer Price Index (CPI) printed below some market forecasts, with core services easing slightly and energy cooler. CME fed-funds futures implied higher odds of cuts this year; several Federal Reserve officials still stressed “data dependence” and refused to pre-commit a path.\n\nCPI is a short-term pricing anchor for the Fed and global risk assets. A soft print often lifts growth stocks and EM credit—but one-print trades can reverse next month.\n\nBloomberg and Reuters align on the numbers; op-eds and strategist notes diverge more on whether this is enough for the Fed to move next quarter.\n\nNext checks: PCE inflation and the employment-cost index confirming the same direction."
-    },
-    "isPopular": true
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "npr-world"
+    ]
   },
   {
-    "id": "ent-01",
-    "category": "entertainment",
+    "id": "live-tech-02-ai-staff-genuinely-frigh",
+    "category": "tech",
     "adult": false,
-    "isHeadline": true,
-    "imageUrl": "/covers/ent-01.jpg",
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-tech-02-ai-staff-genuinely-frigh.jpg",
     "imageAlt": {
-      "zh-TW": "演唱會舞台燈光示意",
-      "en": "Concert stage lights illustration"
+      "en": "Cover related to: AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "zh-TW": "相關封面圖：前Anthropic研究員告知BBC AI員工對人類未來 genuinely frightened"
     },
-    "publishedAt": "2026-09-13T11:00:00Z",
+    "publishedAt": "2026-09-13T14:53:40.000Z",
     "title": {
-      "zh-TW": "星熠 Nova5 宣布世界巡演加場，KKTIX 與 Ticketmaster 一度塞車",
-      "en": "Mandopop group Nova5 adds world-tour dates; KKTIX and Ticketmaster seize up"
+      "en": "Ex-Anthropic Researcher Tells BBC AI Staff Genuinely Frightened for Humanity's Future",
+      "zh-TW": "前Anthropic研究員告知BBC AI員工對人類未來 genuinely frightened"
     },
     "summary": {
-      "zh-TW": "華語男團星熠 Nova5 公布倫敦、洛杉磯與曼谷加場後，KKTIX、Ticketmaster 排隊爆滿；主辦重申實名制，呼籲勿信黃牛連結。",
-      "en": "After Mandopop boy band Nova5 added London, Los Angeles and Bangkok dates, KKTIX and Ticketmaster queues surged. Promoters restated ID entry and warned fans off scalper links."
+      "en": "Ex-Anthropic researcher tells BBC that AI staff are genuinely frightened for humanity's future. This follows the AI firm's boss calling for slowed technology development due to serious risks. The report from BBC Technology highlights internal concerns at the AI company.",
+      "zh-TW": "前Anthropic研究員向BBC表示，AI員工對人類未來 genuinely frightened。此事發生在AI公司負責人呼籲放緩技術發展，指出存在嚴重風險。BBC Technology報導凸顯AI產業內部疑慮。"
     },
     "body": {
-      "zh-TW": "華語男團「星熠 Nova5」（Nova5）——五人組成的華語流行男子團體——宣布世界巡演加場，新增倫敦、洛杉磯、曼谷等城市。消息發布後，台灣票務平台 KKTIX 與國際端 Ticketmaster 出現排隊與短暫塞車，粉絲論壇同步湧現轉售詢價。主辦單位發聲明：只透過授權通路購票，部分場次採實名制入場。\n\nNova5 是示範用團體名，用來呈現當代華語男團巡演經濟：實體專輯走弱後，門票、周邊與品牌聯名成主要現金流。加場能放大營收，也重啟場館檔期、運籌與本地贊助談判。對歌迷，搶票體驗本身已成品牌觀感的一部分。\n\n娛樂媒體偏寫粉絲熱度；消費／科技角度報導 App 塞車與反黃牛。基本事實（有加場、票務壅塞、官方呼籲）一致。\n\n仍不確定各城開賣是否錯開、實名制執行力度，以及轉售價會被壓到什麼程度。實用建議：截圖官方公告、開 App 通知、拒絕來路不明「內場保證」連結。",
-      "en": "Mandopop boy band Nova5—a five-member Mandarin-language pop group used here as a demo act—announced added world-tour dates in London, Los Angeles, Bangkok and more. Taiwan’s KKTIX and international Ticketmaster queues promptly seized; fan forums flooded with resale asks. Promoters urged authorized channels only and restated ID-based entry for some shows.\n\nNova5 stands in for contemporary Mandopop boy-band tour economics: as physical albums soften, tickets, merch and brand tie-ins carry the P&L. Extra dates grow revenue and reopen venue holds, freight and local sponsors. For fans, the scramble itself shapes brand trust.\n\nEntertainment desks led with heat; consumer/tech angles stressed app outages and anti-scalper tips. Core facts—adds, congestion, official-channel warnings—align.\n\nStill uncertain: staggered on-sales, ID enforcement, and how far resale prices get pressed. Practical advice: screenshot official notices, enable app alerts, refuse mystery “guaranteed floor” links."
+      "en": "Lede: Ex-Anthropic researcher tells BBC that AI staff are genuinely frightened for humanity's future.\nWhat happened: It comes as the AI firm's boss has called for the technology's development to be slowed down, citing serious risks.\nWhy it matters: Insider warnings from AI staff underscore potential dangers to humanity.\nSources agree/disagree: Single source provides consistent account with no conflicts.\nStill uncertain: Specific details on risks or staff identities remain unspecified in available information. https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "zh-TW": "導言：前Anthropic研究員告知BBC，AI員工對人類未來 genuinely frightened。\n事件經過：此事發生在AI公司負責人呼籲放緩技術發展，並指出存在嚴重風險。\n重要性：AI員工的內部警告凸顯對人類的潛在危險。\n來源同意/分歧：單一來源提供一致描述，無衝突。\n仍不確定：可用資訊中風險細節或員工身分未具體說明。https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
     },
     "sources": [
       {
-        "name": "Variety Asia (sample)",
-        "url": "https://variety.com/",
-        "stance": "Touring business frame"
-      },
-      {
-        "name": "Billboard (sample)",
-        "url": "https://www.billboard.com/",
-        "stance": "Fan demand / chart adjacent"
-      },
-      {
-        "name": "Local ticketing desk (sample)",
-        "url": "https://example.com/ticketing",
-        "stance": "Queue and anti-scalper notes"
-      }
-    ],
-    "disagreements": {
-      "zh-TW": "娛樂版偏「喜加場」；消費新聞更凸顯搶票崩潰與黃牛風險。",
-      "en": "Entertainment desks celebrate added dates; consumer coverage stresses ticket-app meltdowns and scalper risk."
-    },
-    "trustScore": 77,
-    "trustBreakdown": {
-      "sourceDiversity": 20,
-      "outletReputation": 18,
-      "crossCorroboration": 20,
-      "recencyClarity": 19
-    },
-    "tags": [
-      "pop",
-      "touring",
-      "ticketing"
-    ],
-    "isPopular": true
-  },
-  {
-    "id": "ent-02",
-    "category": "entertainment",
-    "adult": false,
-    "imageUrl": "/covers/ent-02.jpg",
-    "imageAlt": {
-      "zh-TW": "電影首映紅毯示意",
-      "en": "Film premiere red carpet illustration"
-    },
-    "publishedAt": "2026-09-12T09:30:00Z",
-    "title": {
-      "zh-TW": "國片《巷口燈火》連兩週票房稱冠，Netflix 與 Disney+ 競標花絮權",
-      "en": "Taiwan film Alley Lights tops box office two weeks; Netflix and Disney+ bid for bonus features"
-    },
-    "summary": {
-      "zh-TW": "中成本國產電影《巷口燈火》靠口碑延長檔期，連續兩週票房第一；Netflix、Disney+ 等串流洽談獨家花絮與導演評論音軌。",
-      "en": "Mid-budget Taiwan film Alley Lights extended its run on word of mouth and led the box office two weeks straight; Netflix, Disney+ and peers are bidding for exclusive extras and director commentary."
-    },
-    "body": {
-      "zh-TW": "國產電影《巷口燈火》（英文示範名 Alley Lights）——一部以台北街區人情為背景的中成本劇情片——連續兩週奪下全台週末票房冠軍，映演商評估加拷。Netflix、Disney+ 等串流平台據悉競標獨家幕後花絮與導演評論音軌授權，希望在院線熱度未退時鎖下長尾內容。\n\n《巷口燈火》在此作為「口碑黑馬國片」的具名範例：說明本土故事仍能在檔期擁擠的檔期殺出重圍，並帶動串流為院線成功支付溢價。對金馬獎季與觀光局文化輸出敘事，這類黑馬也常被快速吸納。\n\n娛樂版強調奇蹟票房；產業版寫窗期與版權價格。票房排名來源（如網路票房統計）大致可交叉驗證。\n\n尚未公開的是串流得標方與上架時間是否綁「院線下檔後 45 日」等窗口條款。",
-      "en": "Homegrown film Alley Lights (《巷口燈火》)—a mid-budget Taipei neighborhood drama used here as a named sleeper—led Taiwan’s weekend box office for a second straight week, with exhibitors weighing extra prints. Netflix, Disney+ and other streamers are reportedly bidding for exclusive behind-the-scenes packages and director commentary while theatrical heat lasts.\n\nAlley Lights is the concrete stand-in for a word-of-mouth local hit: proof domestic stories can cut through a crowded calendar and that streamers will pay a premium for theatrical success. Awards season and cultural-export narratives often absorb such sleepers quickly.\n\nEntertainment pages stress the miracle run; trade desks write windows and rights pricing. Box-office rankings are largely cross-checkable.\n\nStill undisclosed: which streamer wins, and whether a “45 days after theatrical” window is locked in."
-    },
-    "sources": [
-      {
-        "name": "Hollywood Reporter Asia (sample)",
-        "url": "https://www.hollywood.com/",
-        "stance": "Box office chart focus"
-      },
-      {
-        "name": "Screen Daily (sample)",
-        "url": "https://www.screendaily.com/",
-        "stance": "Windowing / streamer bids"
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "disagreements": null,
-    "trustScore": 73,
+    "trustScore": 62,
     "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 19,
-      "crossCorroboration": 18,
-      "recencyClarity": 20
+      "sourceDiversity": 8,
+      "outletReputation": 24,
+      "crossCorroboration": 8,
+      "recencyClarity": 22
     },
     "tags": [
-      "film",
-      "box-office",
-      "streaming"
-    ],
-    "isPopular": true
+      "tech",
+      "live-ingest",
+      "bbc-technology"
+    ]
   },
   {
-    "id": "ent-03",
-    "category": "entertainment",
+    "id": "live-tech-03-questions-mount-over-wha",
+    "category": "tech",
     "adult": false,
-    "imageUrl": "/covers/ent-03.jpg",
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-tech-03-questions-mount-over-wha.jpg",
     "imageAlt": {
-      "zh-TW": "電視綜藝攝影棚示意",
-      "en": "TV variety studio illustration"
+      "en": "Cover related to: Questions mount over what an AI 'slowdown' would look like",
+      "zh-TW": "相關封面圖：BBC科技對AI「減速」會是什麼樣子提出疑問"
     },
-    "publishedAt": "2026-09-10T16:00:00Z",
+    "publishedAt": "2026-09-13T18:20:22.000Z",
     "title": {
-      "zh-TW": "Netflix《夜港》主演林予安臨時換角，製作公司改檔並更新保險進度",
-      "en": "Netflix drama Night Harbor recasts lead Lin Yu-an; studio shifts schedule and updates insurance claim"
+      "en": "BBC Technology Questions Mount Over What an AI 'Slowdown' Would Look Like",
+      "zh-TW": "BBC科技對AI「減速」會是什麼樣子提出疑問"
     },
     "summary": {
-      "zh-TW": "Netflix 華語影集《夜港》因主演林予安檔期與健康因素換角，已拍片段部分重來；製作公司公布新檔與保險理賠溝通進度，粉絲與廣告商反應不一。",
-      "en": "Netflix Mandarin series Night Harbor is recasting lead actor Lin Yu-an over scheduling and health issues, with partial reshoots. The studio posted a new timeline and insurance-claim update; fans and advertisers split in reaction."
+      "en": "BBC Technology examines challenges of an AI slowdown. The report states that while pacing AI development might sound like a quick fix, it is far from an easy solution. Read more at https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "zh-TW": "BBC科技探討AI減速的挑戰。報導指出，雖然放慢AI發展聽起來像是快速解決方案，但遠非易事。詳見 https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
     },
     "body": {
-      "zh-TW": "串流影集《夜港》（Night Harbor）——Netflix 委託製作的華語都會懸疑劇——宣布原主演林予安（示範用演員名）因檔期衝突與健康因素退出，改由另一位演員接替。製作公司說明部分已拍片段需重來，同時向廣告商更新檔期，並公開與劇組保險的理賠溝通進度。粉絲請願與品牌贊助商的觀望情緒同時出現。\n\n具名到劇名與演員，是為了避免「某影集某主演」的空泛寫法：讀者能立刻對應作品，再在正文理解這是大型串流劇組的常見風險事件。換角牵動的不只是創作，還有完稿保險（completion bond）與品牌植入合約。\n\n娛樂新聞偏情感向；產業新聞寫保險與檔期成本。事實層（有換角、有重拍、有保險溝通）各家接近。\n\n新主演檔期與最終上架季仍可能再調，宜等製作公司第二次正式聲明。",
-      "en": "Streaming series Night Harbor (《夜港》)—a Mandarin urban thriller commissioned by Netflix—said original lead Lin Yu-an (a demo performer name) is exiting over schedule and health issues, with another actor stepping in. The studio said some footage must be reshot, briefed advertisers on the new calendar, and updated progress on the production-insurance claim. Fan petitions and sponsor caution appeared together.\n\nNaming the show and actor avoids vague “a drama’s lead” copy: readers can map the title, then learn in the body that this is a familiar risk on large streamer sets. Recasts tug not only creative choices but completion bonds and product-placement contracts.\n\nEntertainment coverage leans emotional; trade desks write insurance and schedule cost. Fact layer—recast, reshoots, insurer talks—is close across outlets.\n\nThe new lead’s dates and final release quarter may still slip; wait for the studio’s second formal note."
+      "en": "Lede: BBC Technology highlights mounting questions on the appearance of an AI slowdown.\nWhat happened: The source notes that pacing AI development might sound like a quick fix.\nWhy it matters: It is far from an easy solution.\nSources agree/disagree: Only one source is available.\nStill uncertain: Details on implementation remain unspecified in the provided source.",
+      "zh-TW": "導言：BBC科技強調對AI減速外觀的疑問日益增加。\n發生什麼事：來源指出，放慢AI發展可能聽起來像是快速解決方案。\n為什麼重要：這遠非易事。\n來源同意/不同意：只有一個來源可用。\n仍不確定：提供的來源中未指定實施細節。"
     },
     "sources": [
       {
-        "name": "Deadline (sample)",
-        "url": "https://deadline.com/",
-        "stance": "Production schedule focus"
-      },
-      {
-        "name": "TV trade brief (sample)",
-        "url": "https://example.com/tv-trade",
-        "stance": "Insurance / sponsor angle"
-      }
-    ],
-    "disagreements": {
-      "zh-TW": "粉絲向內容偏情緒歸因；產業媒體更強調檔期與保險程序。",
-      "en": "Fan-facing coverage leans emotional attribution; trade press stresses schedule and insurance process."
-    },
-    "trustScore": 70,
-    "trustBreakdown": {
-      "sourceDiversity": 15,
-      "outletReputation": 17,
-      "crossCorroboration": 18,
-      "recencyClarity": 20
-    },
-    "tags": [
-      "tv",
-      "drama",
-      "production"
-    ],
-    "isPopular": true
-  },
-  {
-    "id": "beau-01",
-    "category": "beauty",
-    "adult": false,
-    "isHeadline": true,
-    "imageUrl": "/covers/beau-01.jpg",
-    "imageAlt": {
-      "zh-TW": "保養品瓶罐與實驗室示意",
-      "en": "Skincare bottles and lab illustration"
-    },
-    "publishedAt": "2026-09-13T04:00:00Z",
-    "title": {
-      "zh-TW": "澄光肌 LuminaDerm 推成分透明標籤，屈臣氏與康是美預購秒殺",
-      "en": "LuminaDerm launches ingredient-transparency labels; Watsons and Cosmed pre-orders sell out"
-    },
-    "summary": {
-      "zh-TW": "醫美級保養品牌澄光肌 LuminaDerm 新系列外包裝列出活性濃度與批次 QR Code，屈臣氏、康是美預購數小時售罄；皮膚科提醒透明≠療效保證。",
-      "en": "Derm-positioned brand LuminaDerm’s new line lists active percentages and batch QR codes; Watsons and Cosmed pre-orders sold out in hours. Dermatologists note transparency ≠ proven efficacy."
-    },
-    "body": {
-      "zh-TW": "保養品牌「澄光肌 LuminaDerm」（示範用醫美級品牌）推出主打「成分透明標籤」的新系列：外包裝標示關鍵活性物濃度，並以 QR Code 連到該批次檢測摘要。通路屈臣氏、康是美的預購在數小時內售罄，官方商城同步限購。皮膚科醫師與監管觀察者提醒：標示透明有助比較，但不等於臨床療效或無刺激保證。\n\nLuminaDerm 在此代表近年「臨床感」美妝品牌——用濃度數字與可追蹤批次打差異化，搶藥妝與電商的高客單族群。對通路，秒殺有助帶流量；對主管機關，則可能推高對誇大療效廣告的盯梢。\n\n美妝媒體寫搶購熱潮；健康版寫識讀標籤。售罄與標籤機制本身較少爭議。\n\n消費者宜對照完整成分表與自身膚質，勿只看單一活性百分比下單。",
-      "en": "Skincare brand LuminaDerm (澄光肌, a demo derm-positioned line) launched an “ingredient transparency” series: packs list key active percentages and QR codes to batch test summaries. Pre-orders at Watsons and Cosmed sold out within hours; the brand site added purchase caps. Dermatologists and regulatory watchers note that transparency aids comparison but does not equal clinical efficacy or non-irritation.\n\nLuminaDerm stands for the recent wave of clinic-coded beauty brands that differentiate with numbers and traceable batches to win high-ticket drugstore and e-commerce shoppers. Sell-outs drive traffic for retailers; they may also sharpen regulator scrutiny of efficacy claims.\n\nBeauty desks cover the scramble; health desks cover label literacy. The sell-out and the labeling mechanism themselves are little disputed.\n\nShoppers should still read the full INCI list against their own skin—not one percentage alone."
-    },
-    "sources": [
-      {
-        "name": "Allure (sample)",
-        "url": "https://www.allure.com/",
-        "stance": "Launch / consumer buzz"
-      },
-      {
-        "name": "Dermatology trade note (sample)",
-        "url": "https://example.com/derm-trade",
-        "stance": "Efficacy caveats"
-      },
-      {
-        "name": "Retail pharmacy brief (sample)",
-        "url": "https://example.com/drugstore",
-        "stance": "Sell-through focus"
-      }
-    ],
-    "disagreements": {
-      "zh-TW": "美妝媒體偏搶購與創新；健康取向報導強調透明標籤不能等同療效。",
-      "en": "Beauty media stress sellouts and novelty; health-leaning coverage warns transparency is not efficacy."
-    },
-    "trustScore": 76,
-    "trustBreakdown": {
-      "sourceDiversity": 20,
-      "outletReputation": 18,
-      "crossCorroboration": 19,
-      "recencyClarity": 19
-    },
-    "tags": [
-      "skincare",
-      "retail",
-      "ingredients"
-    ],
-    "isPopular": true
-  },
-  {
-    "id": "beau-02",
-    "category": "beauty",
-    "adult": false,
-    "imageUrl": "/covers/beau-02.jpg",
-    "imageAlt": {
-      "zh-TW": "彩妝櫃與試色示意",
-      "en": "Makeup counter and swatches illustration"
-    },
-    "publishedAt": "2026-09-11T08:20:00Z",
-    "title": {
-      "zh-TW": "蘭芝與 Canmake 潤色護唇竄升，藥妝「乾唇」風潮退燒",
-      "en": "Laneige and Canmake tinted balms surge as drugstore ‘dried-lip’ aesthetic cools"
-    },
-    "summary": {
-      "zh-TW": "社群審美從霧面乾唇轉向水潤潤色，蘭芝（Laneige）唇膜、Canmake 護唇膏在屈臣氏與蝦皮榜單爬升；皮膚科提醒慎選香精與刺激成分。",
-      "en": "Social aesthetics shift from matte dried lips to glossy tints; Laneige lip sleeping masks and Canmake balms climb Watsons and Shopee charts. Dermatologists urge caution on fragrance and irritants."
-    },
-    "body": {
-      "zh-TW": "美妝社群上，「乾唇／霧面唇」標籤熱度下滑，取而代之的是水潤潤色護唇。韓國品牌蘭芝（Laneige）唇膜與日本品牌 Canmake 的潤色護唇膏，在屈臣氏、康是美與蝦皮美妝榜出現明顯爬升；本地與歐美品牌也急推夏季新色號。皮膚科醫師提醒：護唇產品若含高香精、薄荷醇或某些防腐劑，仍可能刺激唇周膚質。\n\n具名 Laneige、Canmake，是把「美妝品牌」落到讀者認得出的貨架名；正文再說明它們屬於護唇／近妝保養交叉帶。這波轉換反映短影音審美週期變短，藥妝採購必須更快反應。\n\n美妝帳號寫色號試色；消費新聞寫榜單與補貨。榜單名次會因平台演算法而抖動，宜多看一週趨勢。\n\n選購時仍應做局部測試，尤其是換季敏感唇。",
-      "en": "On beauty socials, “dried / matte lip” tags are cooling while glossy tinted balms rise. Korean brand Laneige’s lip sleeping masks and Japanese brand Canmake’s tinted balms have climbed charts at Watsons, Cosmed and Shopee; local and Western brands are rushing summer shades. Dermatologists warn high fragrance, menthol or certain preservatives can still irritate the lip area.\n\nNaming Laneige and Canmake puts concrete shelf brands where vague “beauty brand” copy used to sit; the body explains they sit at the balm / near-makeup crossover. The swing shows how short short-video aesthetic cycles have become—and how fast drugstores must react.\n\nCreator posts do swatches; consumer news tracks charts and restocks. Rankings jitter with platform algorithms—read a week of trend, not one screenshot.\n\nPatch-test anyway, especially in seasonal lip-sensitivity months."
-    },
-    "sources": [
-      {
-        "name": "Into The Gloss (sample)",
-        "url": "https://intothegloss.com/",
-        "stance": "Trend / product chatter"
-      },
-      {
-        "name": "Beauty independent retail (sample)",
-        "url": "https://example.com/beauty-retail",
-        "stance": "Chart sell-through"
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "disagreements": null,
-    "trustScore": 72,
+    "trustScore": 62,
     "trustBreakdown": {
-      "sourceDiversity": 15,
-      "outletReputation": 17,
-      "crossCorroboration": 20,
-      "recencyClarity": 20
+      "sourceDiversity": 8,
+      "outletReputation": 24,
+      "crossCorroboration": 8,
+      "recencyClarity": 22
     },
     "tags": [
-      "makeup",
-      "lips",
-      "trends"
-    ],
-    "isPopular": true
+      "tech",
+      "live-ingest",
+      "bbc-technology"
+    ]
   },
   {
-    "id": "beau-03",
-    "category": "beauty",
+    "id": "live-tech-04-trump-downplays-warnings",
+    "category": "tech",
     "adult": false,
-    "imageUrl": "/covers/beau-03.jpg",
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-04-trump-downplays-warnings.jpg",
     "imageAlt": {
-      "zh-TW": "防曬乳與戶外陽光示意",
-      "en": "Sunscreen and outdoor sun illustration"
+      "en": "Cover related to: Trump downplays warnings of AI risks, citing rivalry with China",
+      "zh-TW": "相關封面圖：川普淡化人工智慧風險警告 提及與中國競爭"
     },
-    "publishedAt": "2026-09-09T07:45:00Z",
+    "publishedAt": "2026-09-13T18:49:37.000Z",
     "title": {
-      "zh-TW": "資生堂安耐曬與 Kanebo Allie 主打高防不泛白，實測評價分歧",
-      "en": "Shiseido Anessa and Kanebo Allie push high SPF without white cast; wear tests split"
+      "en": "Trump Downplays Warnings of AI Risks, Citing Rivalry with China",
+      "zh-TW": "川普淡化人工智慧風險警告 提及與中國競爭"
     },
     "summary": {
-      "zh-TW": "安耐曬（Anessa）、Allie 等亞洲防曬新品強調高 SPF／PA 與深膚友好質地；實驗室數據亮眼，但出油、泛白與重塗的消費者實測不一。",
-      "en": "Asia sunscreens including Shiseido’s Anessa and Kanebo’s Allie stress high SPF/PA and deep-skin-friendly textures. Lab numbers look strong; consumer wear tests disagree on oil, cast and reapply feel."
+      "en": "US President Trump said negative forces are airing concerns about AI risks involving things that won't happen. His comments referenced the rivalry with China. This is reported by BBC Technology with the provided URL.",
+      "zh-TW": "美國總統川普表示，負面勢力正在散播關於人工智慧風險的擔憂，這些事情不會發生。他的評論提及與中國的競爭。BBC Technology 報導此消息並附上連結。"
     },
     "body": {
-      "zh-TW": "資生堂旗下安耐曬（Anessa）與佳麗寶 Kanebo 的 Allie 等亞洲防曬線，本季新品主打「高防護係數、上臉不泛白」，並釋出實驗室 SPF／PA 數據。美妝編輯與消費者實測則在出油控管、是否仍有白痕、流汗後重塗手感上出現分歧，部分深膚評測帳號給予好評，也有人反映成膜感偏重。\n\nAnessa、Allie 是東亞藥妝架上長期暢銷的防曬品牌名；把它們寫進標題，比「亞洲防曬新品」更可追蹤。防曬同時是美容與公衛議題：數字好看不代表每人膚質與氣候下的體驗一致。\n\n品牌稿強調實驗數據；獨立評測更寫長時間配戴。兩者方法不同，不宜直接互斥解讀。\n\n選購建議：看完整成分、做小範圍試用，並依戶外時數重塗，而非只信單一 SPF 數字。",
-      "en": "Shiseido’s Anessa and Kanebo’s Allie—long-running Asia drugstore sunscreen lines—pushed new SKUs claiming high SPF/PA without white cast, releasing lab figures. Editor and consumer wear tests split on oil control, residual cast and reapply feel after sweat; some deep-skin reviewers praised them, others called the film heavy.\n\nNaming Anessa and Allie is more trackable than “Asia sunscreen launches.” Sunscreen sits between beauty and public health: strong lab numbers do not guarantee every skin tone or climate experience.\n\nBrand copy centers on lab data; indie reviews stress long wear. Different methods should not be read as simple contradiction.\n\nBuy with full INCI, a patch test, and reapply discipline—not a single SPF headline."
+      "en": "Lede: US President Trump downplays warnings of AI risks by citing rivalry with China.\n\nWhat happened: The US president said negative forces were airing concerns about things that won't happen.\n\nWhy it matters: The statement addresses AI risk discussions in the context of international competition.\n\nSources agree/disagree: The single source provides this account without conflicting details.\n\nStill uncertain: No additional details or events are specified beyond the given snippet and title.\n\nLink: https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "zh-TW": "導言：美國總統川普淡化人工智慧風險警告，提及與中國的競爭。\n\n發生事件：美國總統表示負面勢力正在散播關於不會發生的事情的擔憂。\n\n重要性：此聲明在國際競爭背景下回應人工智慧風險討論。\n\n來源同意或分歧：單一來源提供此報導，無衝突細節。\n\n仍不確定：除提供的標題與片段外，無其他細節或事件。\n\n連結：https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
     },
     "sources": [
       {
-        "name": "CosmeticsDesign Asia (sample)",
-        "url": "https://www.cosmeticsdesign-asia.com/",
-        "stance": "Formulation / claims"
-      },
-      {
-        "name": "Consumer wear-test roundup (sample)",
-        "url": "https://example.com/wear-tests",
-        "stance": "Real-world texture reports"
-      },
-      {
-        "name": "Dermatology advice column (sample)",
-        "url": "https://example.com/derm-sunscreen",
-        "stance": "Use-amount caveats"
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "disagreements": {
-      "zh-TW": "品牌與新品稿強調實驗室防護數據；實測與部分消費者對泛白、出油與重塗體驗評價較保留。",
-      "en": "Brand/launch coverage stresses lab protection figures; wear tests and some shoppers are more reserved on cast, oiliness, and reapply."
-    },
-    "trustScore": 74,
+    "disagreements": null,
+    "trustScore": 62,
     "trustBreakdown": {
-      "sourceDiversity": 20,
-      "outletReputation": 17,
-      "crossCorroboration": 17,
-      "recencyClarity": 20
+      "sourceDiversity": 8,
+      "outletReputation": 24,
+      "crossCorroboration": 8,
+      "recencyClarity": 22
     },
     "tags": [
-      "sunscreen",
-      "skincare",
-      "SPF"
+      "tech",
+      "live-ingest",
+      "bbc-technology"
+    ]
+  },
+  {
+    "id": "live-ai-01-new-method-enables-ai-fo",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Hard-Constrained-01-Press.jpg?itok=pDUT8NRC",
+    "imageAlt": {
+      "en": "Cover related to: New method enables AI for safety-critical situations",
+      "zh-TW": "相關封面圖：麻省理工學院研究人員開發人工智慧安全關鍵情境新方法"
+    },
+    "publishedAt": "2026-09-14T04:00:00.000Z",
+    "title": {
+      "en": "MIT Researchers Develop New Method for AI in Safety-Critical Situations",
+      "zh-TW": "麻省理工學院研究人員開發人工智慧安全關鍵情境新方法"
+    },
+    "summary": {
+      "en": "MIT researchers developed a technique helping generative AI models solve high-stakes problems by meeting hard constraints like safety and physical requirements without sacrificing output quality. The method addresses nonnegotiable task-specific needs in critical settings.",
+      "zh-TW": "麻省理工學院研究人員開發一種技術，協助生成式人工智慧模型解決高風險問題，滿足安全與物理等硬性約束，同時不犧牲輸出品質。該方法處理關鍵情境中不可協商的任務特定需求。"
+    },
+    "body": {
+      "en": "Lede: MIT researchers have developed a new technique that helps generative artificial intelligence models find solutions to high-stakes problems.\n\nWhat happened: MIT researchers have developed a new technique that helps generative artificial intelligence models find solutions to high-stakes problems. In these settings, a plausible answer is not enough: The output often must also satisfy nonnegotiable safety, physical, or task-specific requirements, known as hard constraints. The researchers developed a method that helps generative models meet these strict requirements without sacrificing the quality of their outputs. The key to their technique is to give. Source: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914\n\nWhy it matters: In these settings, a plausible answer is not enough: The output often must also satisfy nonnegotiable safety, physical, or task-specific requirements, known as hard constraints.\n\nSources agree/disagree: Only one source available.\n\nStill uncertain: Details on the technique remain incomplete in available information.",
+      "zh-TW": "導言：麻省理工學院研究人員開發了一種新技術，幫助生成式人工智慧模型尋找高風險問題的解決方案。\n\n發生什麼事：麻省理工學院研究人員開發了一種新技術，幫助生成式人工智慧模型尋找高風險問題的解決方案。在這些情境中，合理的答案並不夠：輸出通常還必須滿足不可協商的安全、物理或任務特定要求，稱為硬性約束。研究人員開發了一種方法，幫助生成模型滿足這些嚴格要求，同時不犧牲輸出品質。他們技術的關鍵在於給予。來源：https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914\n\n為什麼重要：在這些情境中，合理的答案並不夠：輸出通常還必須滿足不可協商的安全、物理或任務特定要求，稱為硬性約束。\n\n來源同意/不同意：僅有一個來源可用。\n\n仍不確定：可用資訊中技術細節仍不完整。"
+    },
+    "sources": [
+      {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914"
+      }
     ],
-    "isPopular": true
+    "disagreements": null,
+    "trustScore": 62,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 23,
+      "crossCorroboration": 8,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "mit-news-ai"
+    ]
+  },
+  {
+    "id": "live-ai-02-mit-spinout-turns-plasti",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Atlas-Composites-01-press.jpg?itok=4Yiz2-7h",
+    "imageAlt": {
+      "en": "Cover related to: MIT spinout turns plastic waste into resilient building materials",
+      "zh-TW": "相關封面圖：Atlas Building Composites：麻省理工學院衍生公司將塑膠廢棄物轉化為耐用建材"
+    },
+    "publishedAt": "2026-09-14T04:00:00.000Z",
+    "title": {
+      "en": "Atlas Building Composites: MIT spinout turns plastic waste into resilient building materials",
+      "zh-TW": "Atlas Building Composites：麻省理工學院衍生公司將塑膠廢棄物轉化為耐用建材"
+    },
+    "summary": {
+      "en": "Atlas Building Composites, an MIT spinout, developed an AI-powered robotic manufacturing platform to convert single-use plastics into durable building materials. The effort addresses housing shortages and plastic waste simultaneously. It emerged from MIT HAUS research in the MIT Department of Mechanical Engineering.",
+      "zh-TW": "Atlas Building Composites為麻省理工學院衍生公司，開發AI驅動機器人製造平台，將單次使用塑膠轉化為耐用建材。此舉同時解決住房短缺與塑膠廢棄物問題，源自麻省理工學院機械工程系MIT HAUS研究。"
+    },
+    "body": {
+      "en": "Lede: Atlas Building Composites, a spinout from MIT, uses an AI-powered robotic platform to transform single-use plastics into resilient building materials.\n\nWhat happened: The company emerged from MIT HAUS, a research effort in the MIT Department of Mechanical Engineering. It targets two global issues with one solution by turning excess plastic into durable construction products.\n\nWhy it matters: The approach links the demand for more homes with the problem of too much plastic waste through advanced manufacturing.\n\nSources agree/disagree: The single source provides consistent details on the company, its technology, and origins with no conflicting information.\n\nStill uncertain: Details on specific production scale, material performance metrics, or deployment timelines are not provided in the source.",
+      "zh-TW": "Lede: Atlas Building Composites為麻省理工學院衍生公司，利用AI驅動機器人平台將單次使用塑膠轉化為耐用建材。\n\nWhat happened: 該公司源自麻省理工學院機械工程系的MIT HAUS研究計畫，以單一解決方案應對全球住房需求與過多塑膠廢棄物問題。\n\nWhy it matters: 此方法透過先進製造連結住房短缺與塑膠廢棄物兩大議題。\n\nSources agree/disagree: 單一來源提供公司、科技與起源的一致細節，無衝突資訊。\n\nStill uncertain: 來源未提供具體生產規模、材料性能指標或部署時間表等細節。"
+    },
+    "sources": [
+      {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 62,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 23,
+      "crossCorroboration": 8,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "mit-news-ai"
+    ]
+  },
+  {
+    "id": "live-finance-01-mps-and-lords-call-for-n",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-finance-01-mps-and-lords-call-for-n.jpg",
+    "imageAlt": {
+      "en": "Cover related to: MPs and Lords call for new law to address AI threat to human rights",
+      "zh-TW": "相關封面圖：英國國會議員與上議院議員呼籲制定新法應對人工智慧人權威脅"
+    },
+    "publishedAt": "2026-09-14T08:07:08.000Z",
+    "title": {
+      "en": "UK MPs and Lords Call for New Law to Address AI Threat to Human Rights",
+      "zh-TW": "英國國會議員與上議院議員呼籲制定新法應對人工智慧人權威脅"
+    },
+    "summary": {
+      "en": "UK politicians from the Commons and Lords state that existing laws are not equipped to address the risks to human rights being posed by artificial intelligence and call for new legislation.",
+      "zh-TW": "英國下議院與上議院政治人物表示，現有法律無法應對人工智慧對人權造成的風險，並呼籲制定新法。"
+    },
+    "body": {
+      "en": "Lede: UK MPs and Lords call for new law to address AI threat to human rights.\nWhat happened: UK politicians say existing laws are not equipped to address the risks to human rights being posed by artificial intelligence.\nWhy it matters: The call highlights the need for updated legal frameworks to handle AI-related human rights issues.\nSources agree/disagree: The single source reports the politicians' statement on inadequate existing laws.\nStill uncertain: No further details on proposed law or specific risks are available in the source.",
+      "zh-TW": "導言：英國國會議員與上議院議員呼籲制定新法應對人工智慧人權威脅。\n事件經過：英國政治人物表示現有法律無法應對人工智慧對人權造成的風險。\n重要性：此呼籲凸顯需要更新法律框架以處理人工智慧相關人權議題。\n來源一致或分歧：單一來源報導政治人物關於現有法律不足的聲明。\n仍不確定：來源中未提供擬議法律或具體風險的進一步細節。"
+    },
+    "sources": [
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 65,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 24,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "bbc-business"
+    ]
+  },
+  {
+    "id": "live-finance-02-heading-off-to-uni-here-",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-finance-02-heading-off-to-uni-here-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Heading off to uni? Here's what to insure against theft",
+      "zh-TW": "相關封面圖：BBC商業：上大學？保險防盜需注意事項"
+    },
+    "publishedAt": "2026-09-14T08:13:56.000Z",
+    "title": {
+      "en": "BBC Business: Heading off to uni? Here's what to insure against theft",
+      "zh-TW": "BBC商業：上大學？保險防盜需注意事項"
+    },
+    "summary": {
+      "en": "BBC Business advises new university students on protecting belongings from theft via insurance. The guidance focuses on key considerations for keeping personal items safe and ensuring adequate coverage during the transition to uni life.",
+      "zh-TW": "BBC商業為新大學生提供保險建議，防範物品失竊。重點在於如何確保個人物品安全並獲得適當保障，協助適應大學生活。"
+    },
+    "body": {
+      "en": "Lede: BBC Business highlights insurance needs for students starting university.\n\nWhat happened: The source poses the question of what new students should consider to keep belongings safe and covered by insurance.\n\nWhy it matters: Proper insurance helps protect against theft risks for university attendees.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: Details on specific insurance types or recommendations are not provided in the source.\n\nLink: https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+      "zh-TW": "導言：BBC商業強調大學新生保險需求。\n\n發生事件：來源提出新學生應考慮如何確保物品安全並獲得保險保障的問題。\n\n重要性：適當保險有助防範大學生面臨的失竊風險。\n\n來源同意/分歧：僅有一個來源。\n\n仍不確定：來源未提供具體保險類型或建議細節。\n\n連結：https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss"
+    },
+    "sources": [
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 65,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 24,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "bbc-business"
+    ]
+  },
+  {
+    "id": "live-beauty-01-if-james-bond-were-a-wom",
+    "category": "beauty",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-beauty-01-if-james-bond-were-a-wom.jpg",
+    "imageAlt": {
+      "en": "Cover related to: If James Bond Were a Woman, She'd Wear Sergio Hudson Spring 2027",
+      "zh-TW": "相關封面圖：Sergio Hudson 2027春季系列以女性詹姆斯·龐德概念為靈感"
+    },
+    "publishedAt": "2026-09-14T02:13:15.000Z",
+    "title": {
+      "en": "Sergio Hudson Spring 2027 Collection Draws from Female James Bond Concept",
+      "zh-TW": "Sergio Hudson 2027春季系列以女性詹姆斯·龐德概念為靈感"
+    },
+    "summary": {
+      "en": "Designer Sergio Hudson created his Spring 2027 collection inspired by James Bond if he were a woman. The theme reverses roles so the woman acts as the agent pursuing the male ingenue. Hudson has previously honored figures including Aretha Franklin, Cruella de Vil, and Jacqueline Broyer from the 1992 film Boomerang.",
+      "zh-TW": "設計師Sergio Hudson以女性版詹姆斯·龐德為靈感打造2027春季系列。主題反轉角色，讓女性成為追逐男性的特工。他過去曾致敬Aretha Franklin、Cruella de Vil以及1992年電影《Boomerang》中的Jacqueline Broyer。"
+    },
+    "body": {
+      "en": "Lede: Sergio Hudson presented a Spring 2027 collection themed around a female version of James Bond.\n\nWhat happened: Each season Sergio Hudson pays homage to a powerful female figure. Past references include Aretha Franklin, Cruella de Vil and Jacqueline Broyer from the 1992 film Boomerang. For Spring 2027 he was inspired by James Bond if he were a woman. The starting point for this collection was James Bond reversed, where the woman is the agent and the man is the ingenue being chased by her, he told Fashionista backstage ahead of the show.\n\nWhy it matters: The collection continues Hudson's pattern of celebrating strong women through fashion references drawn from film and music.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: No additional details on specific garments or runway outcomes are provided in the source.",
+      "zh-TW": "導言：Sergio Hudson呈現以女性版詹姆斯·龐德為主題的2027春季系列。\n\n發生什麼事：Sergio Hudson每季都會向一位強有力的女性人物致敬。過去參考包括Aretha Franklin、Cruella de Vil以及1992年電影《Boomerang》中的Jacqueline Broyer。2027春季系列靈感來自女性版的詹姆斯·龐德。系列起點是反轉的詹姆斯·龐德，女性成為特工而男性是被追逐的純真角色，他告訴Fashionista在秀前 backstage。\n\n為什麼重要：此系列延續Hudson透過電影與音樂參考讚頌堅強女性的模式。\n\n來源同意/不同意：僅有一個來源可用。\n\n仍不確定：來源未提供服裝細節或走秀結果等額外資訊。"
+    },
+    "sources": [
+      {
+        "name": "Fashionista",
+        "url": "https://fashionista.com/2026/09/sergio-hudson-spring-2027-review"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 53,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 14,
+      "crossCorroboration": 8,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "beauty",
+      "live-ingest",
+      "fashionista"
+    ]
+  },
+  {
+    "id": "live-beauty-02-grace-ling-s-spring-2027",
+    "category": "beauty",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-beauty-02-grace-ling-s-spring-2027.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Grace Ling's Spring 2027 Collection Explores 'Oddities'",
+      "zh-TW": "相關封面圖：葛蕾絲·林2027春季系列探索「奇異」"
+    },
+    "publishedAt": "2026-09-14T02:55:10.000Z",
+    "title": {
+      "en": "Grace Ling's Spring 2027 Collection Explores 'Oddities'",
+      "zh-TW": "葛蕾絲·林2027春季系列探索「奇異」"
+    },
+    "summary": {
+      "en": "Grace Ling's Spring 2027 collection draws from her frustration with rigid gender norms in fashion and social media. She criticizes expectations that women must dress femininely and not too masculinely, calling such binary discussions silly. This irritation sparked her latest show exploring 'Oddities'. Read more at https://fashionista.com/2026/09/grace-ling-spring-2027-review",
+      "zh-TW": "葛蕾絲·林2027春季系列源自她對時尚與社群媒體中性別規範的挫折。她批評女性必須穿得女性化且不能太男性化的期望，稱此類二元討論愚蠢。此憤怒啟發她探索「奇異」的新作。詳見 https://fashionista.com/2026/09/grace-ling-spring-2027-review"
+    },
+    "body": {
+      "en": "Lede: Grace Ling presented her Spring 2027 collection, using personal irritation with gender stereotypes as the foundation.\n\nWhat happened: Backstage after the show, Ling told Fashionista she reflected on standards dictating how women should dress, emphasizing femininity over masculinity. She noted social media has normalized eras labeled 'feminine' or 'masculine,' reaching a point of frustration where she viewed the conversations as silly. This irritation became the starting point for her latest collection.\n\nWhy it matters: The collection challenges conventional expectations in women's fashion by addressing ongoing cultural pressures around gender expression.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: Details on specific designs or full collection themes beyond the initial inspiration remain limited to the provided information. https://fashionista.com/2026/09/grace-ling-spring-2027-review",
+      "zh-TW": "導言：葛蕾絲·林推出2027春季系列，以對性別刻板印象的個人挫折作為基礎。\n\n事件經過：秀後 backstage，Ling 告訴 Fashionista，她反思規範女性穿著的標準，強調女性化而非太男性化。她指出社群媒體已將「女性化」或「男性化」時代正常化，達到令她沮喪的地步，視此類對話為愚蠢。此憤怒成為她最新系列的起點。\n\n重要性：該系列挑戰女性時尚中的傳統期望，探討性別表達的文化壓力。\n\n來源同意/分歧：僅有一個來源可用。\n\n仍不確定：除初始靈感外，具體設計或完整系列主題的細節僅限於所提供資訊。https://fashionista.com/2026/09/grace-ling-spring-2027-review"
+    },
+    "sources": [
+      {
+        "name": "Fashionista",
+        "url": "https://fashionista.com/2026/09/grace-ling-spring-2027-review"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 53,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 14,
+      "crossCorroboration": 8,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "beauty",
+      "live-ingest",
+      "fashionista"
+    ]
+  },
+  {
+    "id": "live-beauty-03-patricio-campillo-design",
+    "category": "beauty",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-beauty-03-patricio-campillo-design.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Patricio Campillo Designed a Jacket Made From Bacteria for Spring 2027",
+      "zh-TW": "相關封面圖：帕特里西奧·坎皮略為2027春季設計細菌製成的夾克"
+    },
+    "publishedAt": "2026-09-14T03:12:14.000Z",
+    "title": {
+      "en": "Patricio Campillo Designed a Jacket Made From Bacteria for Spring 2027",
+      "zh-TW": "帕特里西奧·坎皮略為2027春季設計細菌製成的夾克"
+    },
+    "summary": {
+      "en": "Designer Patricio Campillo presented his Spring 2027 collection starting in media res. He reflected sartorially on objects conceptualized in the middle of a process, describing it as something that happens in the becoming, according to his comments to Fashionista ahead of the run.",
+      "zh-TW": "設計師帕特里西奧·坎皮略呈現2027春季系列，以媒體中開場。他以服裝反映在過程中概念化的物品，描述為正在成為的某事，根據他對Fashionista的評論。"
+    },
+    "body": {
+      "en": "Lede: Patricio Campillo Designed a Jacket Made From Bacteria for Spring 2027.\n\nWhat happened: For Spring 2027, Campillo began in media res. My fellow literature nerds may recognize the Latin term from high school English class, but rather than referencing a story that drops the reader right into the middle of the plot, designer Patricio Campillo is sartorially reflecting on “something that happens in the becoming.” “It’s an object that is conceptualized in the middle of a process of something else,” Campillo told Fashionista ahead of his Spring 2027 run.\n\nWhy it matters: The collection explores conceptual objects in process as described in the source.\n\nSources agree/disagree: Single source provided.\n\nStill uncertain: Details beyond the given snippet on the jacket or other elements are not specified.",
+      "zh-TW": "導言：帕特里西奧·坎皮略為2027春季設計細菌製成的夾克。\n\n發生什麼：2027春季，坎皮略以媒體中開場。文學同好可能認得高中英文課的拉丁詞，但設計師帕特里西奧·坎皮略不是指故事直接進入情節中段，而是以服裝反映「正在成為的某事」。「這是概念化於其他過程中的物品，」坎皮略在2027春季系列前告訴Fashionista。\n\n為何重要：系列探索來源所述的過程中概念化物品。\n\n來源同意或不同意：僅提供單一來源。\n\n仍不確定：來源片段未指定夾克或其他細節。"
+    },
+    "sources": [
+      {
+        "name": "Fashionista",
+        "url": "https://fashionista.com/2026/09/campillo-spring-2027-review"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 53,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 14,
+      "crossCorroboration": 8,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "beauty",
+      "live-ingest",
+      "fashionista"
+    ]
+  },
+  {
+    "id": "live-ai-03-ai-leaders-are-calling-f",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-ai-03-ai-leaders-are-calling-f.jpg",
+    "imageAlt": {
+      "en": "Cover related to: AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "zh-TW": "相關封面圖：Sam Altman、Elon Musk 支持 Dario Amodei 呼籲 AI 限制，川普強調維持美國對中國領先"
+    },
+    "publishedAt": "2026-09-14T11:00:00.000Z",
+    "title": {
+      "en": "Sam Altman, Elon Musk Back Dario Amodei Call for AI Restraint as Trump Seeks US Lead Over China",
+      "zh-TW": "Sam Altman、Elon Musk 支持 Dario Amodei 呼籲 AI 限制，川普強調維持美國對中國領先"
+    },
+    "summary": {
+      "en": "Sam Altman and Elon Musk backed Dario Amodei’s call for Washington to slow AI development this weekend. Donald Trump wants the US to maintain its lead over China. The Wired article covers these positions without additional details on specific policies or timelines.",
+      "zh-TW": "Sam Altman 與 Elon Musk 本週末支持 Dario Amodei 呼籲華盛頓放緩 AI 發展。Donald Trump 希望美國維持對中國的領先地位。Wired 文章報導這些立場，未提供具體政策或時間表細節。"
+    },
+    "body": {
+      "en": "Lede: AI leaders Sam Altman and Elon Musk supported a call for restraint in AI development.\n\nWhat happened: Dario Amodei called on Washington to slow AI development. Sam Altman and Elon Musk backed this call for restraint this weekend. Donald Trump wants the US to maintain its lead over China.\n\nWhy it matters: The positions highlight differing views on AI pace between industry leaders and political figures focused on international competition.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: No further details on specific slowdown measures or responses are provided.\n\nSource: https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "zh-TW": "Lede: AI 領袖 Sam Altman 與 Elon Musk 支持 AI 發展限制呼籲。\n\nWhat happened: Dario Amodei 呼籲華盛頓放緩 AI 發展。Sam Altman 與 Elon Musk 本週末支持此限制呼籲。Donald Trump 希望美國維持對中國的領先地位。\n\nWhy it matters: 這些立場凸顯產業領袖與聚焦國際競爭的政治人物在 AI 步伐上的不同觀點。\n\nSources agree/disagree: 僅有一個來源可用。\n\nStill uncertain: 未提供放緩措施或回應的進一步細節。\n\n來源: https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/"
+    },
+    "sources": [
+      {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 59,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 18,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "wired-ai"
+    ]
+  },
+  {
+    "id": "live-international-02-thousands-demand-end-to-",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-international-02-thousands-demand-end-to-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Thousands demand end to violence in Mexican cartel hotspot",
+      "zh-TW": "相關封面圖：錫納羅阿卡特爾：數千人要求結束墨西哥熱點暴力"
+    },
+    "publishedAt": "2026-09-14T11:28:36.000Z",
+    "title": {
+      "en": "Sinaloa Cartel: Thousands Demand End to Violence in Mexican Hotspot",
+      "zh-TW": "錫納羅阿卡特爾：數千人要求結束墨西哥熱點暴力"
+    },
+    "summary": {
+      "en": "Thousands protested in a Mexican city hit by cartel violence, calling for an end to the conflict. Violence has escalated sharply due to a feud between two rival factions of the Sinaloa cartel, according to reports from the area.",
+      "zh-TW": "墨西哥一座城市數千人走上街頭，呼籲結束卡特爾暴力衝突。報導指出，自錫納羅阿卡特爾兩個敵對派系爆發爭鬥以來，當地暴力事件急劇增加。"
+    },
+    "body": {
+      "en": "Lede: Thousands have taken to the streets demanding an end to violence in a Mexican cartel hotspot.\n\nWhat happened: The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.\n\nWhy it matters: Ongoing cartel conflicts continue to disrupt communities and heighten public safety concerns in affected regions.\n\nSources agree/disagree: The single available source reports the protest and the underlying cartel feud without additional details.\n\nStill uncertain: Specific location names, protest scale, or outcomes remain unspecified in the provided information.",
+      "zh-TW": "導言：數千人走上街頭，要求結束墨西哥卡特爾熱點的暴力事件。\n\n事件經過：自錫納羅阿卡特爾兩個敵對派系爆發爭鬥以來，該城市暴力事件急劇增加。\n\n重要性：持續的卡特爾衝突持續擾亂社區，並加劇受影響地區的公共安全疑慮。\n\n來源一致/分歧：唯一可用來源報導了抗議活動及卡特爾派系爭鬥，但未提供其他細節。\n\n仍不確定：提供的資訊中未提及具體地點名稱、抗議規模或結果。"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 65,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 24,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world"
+    ]
+  },
+  {
+    "id": "live-international-03-china-criticises-idea-it",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-international-03-china-criticises-idea-it.jpg",
+    "imageAlt": {
+      "en": "Cover related to: China criticises idea it is in 'malicious competition' over AI",
+      "zh-TW": "相關封面圖：中國批評其在人工智慧方面「惡意競爭」的想法"
+    },
+    "publishedAt": "2026-09-14T11:31:39.000Z",
+    "title": {
+      "en": "China criticises idea it is in 'malicious competition' over AI",
+      "zh-TW": "中國批評其在人工智慧方面「惡意競爭」的想法"
+    },
+    "summary": {
+      "en": "China criticises the idea that it is engaged in malicious competition over AI. This follows calls by the Anthropic CEO for a slowdown in AI development to prevent China from pulling ahead. Source: BBC World.",
+      "zh-TW": "中國批評其在人工智慧方面從事惡意競爭的想法。這是繼Anthropic執行長呼籲放緩人工智慧發展，以防止中國領先之後。來源：BBC World。"
+    },
+    "body": {
+      "en": "Lede: China criticises idea it is in 'malicious competition' over AI.\nWhat happened: It follows the Anthropic CEO's calls for a slowdown in AI development, in a way that China doesn't pull ahead.\nWhy it matters: The response addresses concerns raised in relation to AI development pace.\nSources agree/disagree: Single source provides the information.\nStill uncertain: No additional details available.\nLink: https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "zh-TW": "導言：中國批評其在人工智慧方面「惡意競爭」的想法。\n發生什麼事：這是繼Anthropic執行長呼籲放緩人工智慧發展，以防止中國領先之後。\n為什麼重要：回應與人工智慧發展速度相關的關切。\n來源同意/不同意：單一來源提供資訊。\n仍不確定：無其他細節可用。\n連結：https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 65,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 24,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world"
+    ]
+  },
+  {
+    "id": "live-international-04-zambians-warned-not-to-e",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-04-zambians-warned-not-to-e.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "zh-TW": "相關封面圖：贊比亞人被警告勿食用死去野生動物，因炭疽病已殺死數十隻動物"
+    },
+    "publishedAt": "2026-09-14T11:35:08.000Z",
+    "title": {
+      "en": "Zambians Warned Not to Eat Dead Wildlife After Anthrax Kills Dozens of Animals",
+      "zh-TW": "贊比亞人被警告勿食用死去野生動物，因炭疽病已殺死數十隻動物"
+    },
+    "summary": {
+      "en": "Zambian authorities warn against eating dead wildlife after anthrax killed dozens of animals. At least 12 people are being treated for anthrax contracted from infected meat of wildlife carcasses, according to BBC reporting from the affected region.",
+      "zh-TW": "贊比亞當局警告民眾勿食用死去野生動物，因炭疽病已導致數十隻動物死亡。根據BBC報導，至少有12人因食用受感染的野生動物屍體肉類而接受炭疽病治療。"
+    },
+    "body": {
+      "en": "Lede: Zambians have been warned not to eat dead wildlife following an anthrax outbreak that killed dozens of animals.\n\nWhat happened: The BBC reports that at least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.\n\nWhy it matters: This public health warning addresses risks from consuming contaminated wildlife in Zambia amid the ongoing animal deaths from anthrax.\n\nSources agree/disagree: Only one source is provided with no conflicting information.\n\nStill uncertain: Details on the exact number of animal deaths, locations within Zambia, or further spread are not specified in the available source.\n\nSource: https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "zh-TW": "導言：贊比亞人被警告不要食用死去的野生動物，因為炭疽病已導致數十隻動物死亡。\n\n事件經過：BBC報導，至少有12人因食用受感染的野生動物屍體肉類而接受炭疽病治療。\n\n重要性：此公共衛生警告針對贊比亞因炭疽病導致動物死亡而食用受污染野生動物的風險。\n\n來源一致/分歧：僅提供單一來源，無衝突資訊。\n\n仍不確定：可用來源未說明確切動物死亡數量、贊比亞境內地點或進一步傳播細節。\n\n來源：https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 65,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 24,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world"
+    ]
+  },
+  {
+    "id": "live-entertainment-01-javier-bardem-to-be-hono",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-01-javier-bardem-to-be-hono.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Javier Bardem to Be Honored by Rome Film Festival With Lifetime Achievement Award",
+      "zh-TW": "相關封面圖：哈維爾·巴登 羅馬電影節 終身成就獎"
+    },
+    "publishedAt": "2026-09-14T11:06:57.000Z",
+    "title": {
+      "en": "Javier Bardem Rome Film Festival Lifetime Achievement Award",
+      "zh-TW": "哈維爾·巴登 羅馬電影節 終身成就獎"
+    },
+    "summary": {
+      "en": "Javier Bardem will receive a lifetime achievement award from the Rome Film Festival. The Oscar-winning actor will present a screening of Spanish director Rodrigo Sorogoyen’s “The Beloved” (“El ser querido”) in the best of the fests section. The film world-premiered at Cannes.",
+      "zh-TW": "哈維爾·巴登將獲得羅馬電影節終身成就獎。這位奧斯卡得主演員將在最佳影展單元放映西班牙導演羅德里戈·索羅戈延的《摯愛》（El ser querido）。該片已在坎城世界首映。"
+    },
+    "body": {
+      "en": "Lede: Javier Bardem will be honored with a lifetime achievement award by the Rome Film Festival.\n\nWhat happened: Javier Bardem will be honored with a lifetime achievement award by the Rome Film Festival where the Oscar-winning actor will present a screening of Spanish director Rodrigo Sorogoyen’s “The Beloved” (“El ser querido”) that is being showcased in the event’s best of the fests section. In “The Beloved,” which world-premiered at Cannes, Bardem plays an role.\n\nWhy it matters: The honor recognizes Bardem's contributions as highlighted by the Rome Film Festival selection.\n\nSources agree/disagree: The single available source reports the award and screening details without contradiction.\n\nStill uncertain: Further specifics on Bardem's character in the film are not detailed beyond the provided information. Source: https://variety.com/2026/film/global/javier-bardem-rome-film-festival-lifetime-achievement-award-1236861018/",
+      "zh-TW": "導言：哈維爾·巴登將獲得羅馬電影節終身成就獎。\n\n事件經過：哈維爾·巴登將獲得羅馬電影節終身成就獎，這位奧斯卡得主演員將放映西班牙導演羅德里戈·索羅戈延的《摯愛》（El ser querido），該片在最佳影展單元展出。《摯愛》已在坎城世界首映，巴登在片中飾演角色。\n\n重要性：此獎項肯定巴登的貢獻，由羅馬電影節選定。\n\n來源一致/分歧：唯一來源報導獎項與放映細節無矛盾。\n\n仍不確定：片中巴登角色細節未超出提供資訊。來源：https://variety.com/2026/film/global/javier-bardem-rome-film-festival-lifetime-achievement-award-1236861018/"
+    },
+    "sources": [
+      {
+        "name": "Variety",
+        "url": "https://variety.com/2026/film/global/javier-bardem-rome-film-festival-lifetime-achievement-award-1236861018/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 58,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 17,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "variety"
+    ]
+  },
+  {
+    "id": "live-entertainment-02-club-kid-wins-top-prize-",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-entertainment-02-club-kid-wins-top-prize-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: ‘Club Kid’ Wins Top Prize at Deauville American Film Festival",
+      "zh-TW": "相關封面圖：Jordan Firstman 的《Club Kid》在多維爾美國電影節贏得大獎"
+    },
+    "publishedAt": "2026-09-14T11:08:20.000Z",
+    "title": {
+      "en": "Jordan Firstman's Club Kid Wins Grand Prix at Deauville American Film Festival",
+      "zh-TW": "Jordan Firstman 的《Club Kid》在多維爾美國電影節贏得大獎"
+    },
+    "summary": {
+      "en": "Jordan Firstman's directorial debut Club Kid won the top Grand Prix Award at the Deauville American Film Festival over the weekend. The film, a breakout from Cannes earlier this year, is scheduled for release by A24 later this year. It celebrated further success on the French coast.",
+      "zh-TW": "Jordan Firstman 的導演處女作《Club Kid》在多維爾美國電影節週末贏得最高大獎。此片今年稍早在坎城影展大放異彩，預計今年晚些時候由 A24 發行。它在法國海岸再次慶祝成功。"
+    },
+    "body": {
+      "en": "Lede: Jordan Firstman's buzzy directorial debut Club Kid secured the Grand Prix Award at the Deauville American Film Festival.\n\nWhat happened: After emerging as one of the biggest breakouts from the Cannes Film Festival earlier this year, Club Kid earned another accolade on the French coast when it won the top prize over the weekend.\n\nWhy it matters: The victory highlights the film's continued momentum ahead of its A24 release later this year.\n\nSources agree/disagree: The single source reports consistent details on the award, director, festival, and release plans with no variations noted.\n\nStill uncertain: No additional details on other winners or exact award criteria are provided in the source.",
+      "zh-TW": "導言：Jordan Firstman 備受矚目的導演處女作《Club Kid》在多維爾美國電影節贏得大獎。\n\n事件經過：今年稍早在坎城影展成為最大突破之一後，《Club Kid》週末在法國海岸再次獲獎，贏得最高大獎。\n\n重要性：此勝利凸顯該片在 A24 今年晚些時候發行前的持續勢頭。\n\n來源一致/分歧：單一來源對獎項、導演、影展及發行計畫的細節報導一致，未見差異。\n\n仍不確定：來源未提供其他得獎者或確切評選標準的額外細節。"
+    },
+    "sources": [
+      {
+        "name": "Variety",
+        "url": "https://variety.com/2026/film/global/club-kid-top-prize-deauville-american-film-festival-1236861014/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 58,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 17,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "variety"
+    ]
+  },
+  {
+    "id": "live-entertainment-03-good-films-studios-spain",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "https://variety.com/wp-content/uploads/2026/09/People-of-the-Book-1.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Good Films Studios Spain Bets on Long-Term Production at Ciudad de la Luz",
+      "zh-TW": "相關封面圖：Good Films Studios Spain 押注 Ciudad de la Luz 長期製作"
+    },
+    "publishedAt": "2026-09-14T11:18:28.000Z",
+    "title": {
+      "en": "Good Films Studios Spain Bets on Long-Term Production at Ciudad de la Luz",
+      "zh-TW": "Good Films Studios Spain 押注 Ciudad de la Luz 長期製作"
+    },
+    "summary": {
+      "en": "Good Films Studios Spain commits to ongoing production at Alicante’s Ciudad de la Luz. A boat from their debut film “People of the Book” remains in a workshop there after use as a ferry and refugee vessel in a recreated Mediterranean setting. The project was sold at Toronto by Bleiberg Entertainment, signaling sustained studio activity at the site.",
+      "zh-TW": "Good Films Studios Spain 承諾在 Alicante 的 Ciudad de la Luz 持續製作。一艘來自首部電影《People of the Book》的船仍留在工作室，曾作為渡輪及難民船，橫渡重現的地中海場景。該片由 Bleiberg Entertainment 在多倫多出售，顯示工作室持續活動。"
+    },
+    "body": {
+      "en": "Lede: Good Films Studios Spain Bets on Long-Term Production at Ciudad de la Luz.\n\nWhat happened: Inside a workshop at Alicante’s Ciudad de la Luz, a boat used on “People of the Book” is still sitting among the physical remains of Good Films Studios Spain’s first production. It doubled as part of a ferry and, later, carried refugees across a Mediterranean recreated in the studio.\n\nWhy it matters: The continued presence of production elements at the facility underscores Good Films Studios Spain’s decision to maintain long-term operations at Ciudad de la Luz.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: Further details on future projects or additional productions are not specified in the provided information.\n\nSource: https://variety.com/2026/film/markets-festivals/good-films-studios-spain-ciudad-de-la-luz-alicante-1236858437/",
+      "zh-TW": "Lede: Good Films Studios Spain 押注 Ciudad de la Luz 長期製作。\n\nWhat happened: 在 Alicante 的 Ciudad de la Luz 工作室內，一艘用於《People of the Book》的船仍置於 Good Films Studios Spain 首部作品的實體遺留物中。它曾兼作渡輪，後來搭載難民橫渡工作室重現的地中海場景。\n\nWhy it matters: 製作元素持續留在設施中，凸顯 Good Films Studios Spain 決定在 Ciudad de la Luz 維持長期營運。\n\nSources agree/disagree: 僅有一個來源可用。\n\nStill uncertain: 提供的資訊未說明未來計畫或其他製作的進一步細節。\n\nSource: https://variety.com/2026/film/markets-festivals/good-films-studios-spain-ciudad-de-la-luz-alicante-1236858437/"
+    },
+    "sources": [
+      {
+        "name": "Variety",
+        "url": "https://variety.com/2026/film/markets-festivals/good-films-studios-spain-ciudad-de-la-luz-alicante-1236858437/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 58,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 17,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "variety"
+    ]
+  },
+  {
+    "id": "live-finance-03-petrol-and-diesel-prices",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-finance-03-petrol-and-diesel-prices.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Petrol and diesel prices hit highest since 2022",
+      "zh-TW": "相關封面圖：RAC 報告汽油與柴油價格自2022年以來最高"
+    },
+    "publishedAt": "2026-09-14T11:42:52.000Z",
+    "title": {
+      "en": "RAC Reports Petrol and diesel prices hit highest since 2022",
+      "zh-TW": "RAC 報告汽油與柴油價格自2022年以來最高"
+    },
+    "summary": {
+      "en": "According to the RAC, petrol and diesel prices have reached their highest levels since 2022. The cost of filling up a vehicle has rebounded as oil prices remain elevated. This update comes from BBC Business reporting on recent fuel cost trends affecting UK drivers.",
+      "zh-TW": "根據RAC，汽油和柴油價格已達到2022年以來最高水平。加滿油箱的成本因油價居高不下而回升。此更新來自BBC Business對英國駕駛人近期燃料成本趨勢的報導。"
+    },
+    "body": {
+      "en": "Lede: RAC Reports Petrol and diesel prices hit highest since 2022.\n\nWhat happened: The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.\n\nWhy it matters: Fuel price changes directly impact vehicle operating costs for drivers.\n\nSources agree/disagree: Only one source is available.\n\nStill uncertain: No additional details on exact price figures or duration are provided in the source.",
+      "zh-TW": "導言：RAC 報告汽油與柴油價格自2022年以來最高。\n\n發生什麼事：根據RAC，加滿車輛油箱的成本已回升，因為油價仍居高不下。\n\n為何重要：燃料價格變化直接影響駕駛人的車輛營運成本。\n\n來源同意/不同意：僅有一個來源可用。\n\n仍不確定：來源中未提供確切價格數字或持續時間的額外細節。"
+    },
+    "sources": [
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 65,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 24,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "bbc-business"
+    ]
+  },
+  {
+    "id": "live-finance-04-bitcoin-and-ethereum-pri",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-04-bitcoin-and-ethereum-pri.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
+      "zh-TW": "相關封面圖：比特幣、以太幣與白銀價格於2026年9月14日"
+    },
+    "publishedAt": "2026-09-14T11:42:45.000Z",
+    "title": {
+      "en": "Bitcoin, Ethereum, and Silver Prices on September 14, 2026",
+      "zh-TW": "比特幣、以太幣與白銀價格於2026年9月14日"
+    },
+    "summary": {
+      "en": "Bitcoin and Ethereum prices are attempting to hold steady while silver slides on September 14, 2026, as rate-hike expectations grow according to Yahoo Finance reports. The articles link crypto resilience and precious metal declines directly to shifting monetary policy outlooks.",
+      "zh-TW": "根據雅虎財經報導，2026年9月14日比特幣與以太幣價格試圖維持穩定，而白銀下滑，因升息預期增加。文章將加密貨幣韌性與貴金屬下跌直接連結至貨幣政策展望變化。"
+    },
+    "body": {
+      "en": "Lede: Bitcoin, Ethereum, and silver prices faced market pressures on Monday, September 14, 2026, tied to rising rate-hike expectations.\n\nWhat happened: Yahoo Finance reported Bitcoin and Ethereum prices trying to hold amid these expectations. A separate report noted silver prices sliding under the same conditions.\n\nWhy it matters: These movements highlight how anticipated interest rate changes influence both cryptocurrency and precious metals markets.\n\nSources agree/disagree: Both sources from Yahoo Finance align on the role of rate-hike expectations as a key factor on this date.\n\nStill uncertain: No additional details on exact price levels or further market reactions are provided in the source titles.\n\nRelated links: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html",
+      "zh-TW": "導言：比特幣、以太幣與白銀價格在2026年9月14日星期一面臨市場壓力，與升息預期上升有關。\n\n發生什麼事：雅虎財經報導比特幣與以太幣價格試圖維持穩定。另一篇報導指出白銀價格在相同情況下下滑。\n\n為什麼重要：這些走勢凸顯預期利率變化如何影響加密貨幣與貴金屬市場。\n\n來源同意或不同意：兩篇雅虎財經來源均認同升息預期是當日關鍵因素。\n\n仍不確定：來源標題未提供確切價格水準或其他市場反應細節。\n\n相關連結：https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html"
+    },
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 64,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 16,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "yahoo-finance",
+      "yahoo-finance"
+    ]
+  },
+  {
+    "id": "live-entertainment-04-director-producing-duo-b",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-04-director-producing-duo-b.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Director-Producing Duo Behind Student Academy Award-Nominated Jordanian Short ‘A Subconscious Dive’ Developing Debut Feature Films",
+      "zh-TW": "相關封面圖：Raghad Albakheet 與 Danial Salman 在學生奧斯卡獎提名短片後開發首部長片"
+    },
+    "publishedAt": "2026-09-14T11:41:03.000Z",
+    "title": {
+      "en": "Raghad Albakheet and Danial Salman Developing Debut Feature Films After Student Academy Award-Nominated Short",
+      "zh-TW": "Raghad Albakheet 與 Danial Salman 在學生奧斯卡獎提名短片後開發首部長片"
+    },
+    "summary": {
+      "en": "Jordanian filmmakers Raghad Albakheet and Danial Salman are developing separate feature projects after their short film A Subconscious Dive reached the Student Academy Award semifinalist shortlist in the Alternative/Experimental category. Directed by Albakheet and produced by Salman, the film is only the second Jordanian entry in the awards history.",
+      "zh-TW": "約旦電影人 Raghad Albakheet 與 Danial Salman 在短片《A Subconscious Dive》入圍學生奧斯卡獎另類/實驗類別半決賽後，正分別開發首部長片作品。該片由 Albakheet 執導、Salman 監製，是約旦史上第二部入圍此獎的影片。"
+    },
+    "body": {
+      "en": "Lede: Jordanian filmmakers Raghad Albakheet and Danial Salman are following up the success of their Student Academy Award-nominated short film A Subconscious Dive with separate feature projects.\n\nWhat happened: Directed by Albakheet and produced by Salman, A Subconscious Dive made the short list of semifinalists in the Alternative/Experimental category.\n\nWhy it matters: The achievement marks the film as only the second Jordanian film in history to reach this stage.\n\nSources agree/disagree: With only one source available, there are no conflicting reports on names, categories, or achievements.\n\nStill uncertain: Details on the new feature film titles, plots, or timelines are not provided in the source. Read the full article at https://variety.com/2026/film/global/student-academy-awards-a-subconscious-dive-jordan-1236853210/",
+      "zh-TW": "導言：約旦電影人 Raghad Albakheet 與 Danial Salman 正分別開發首部長片，延續其學生奧斯卡獎提名短片《A Subconscious Dive》的成功。\n\n事件經過：該短片由 Albakheet 執導、Salman 監製，入圍另類/實驗類別半決賽短名單。\n\n重要性：此成就使該片成為約旦史上第二部達到此階段的影片。\n\n來源一致/分歧：僅有一個來源，無任何姓名、類別或成就上的衝突報導。\n\n仍未確定：新長片片名、劇情或時間表等細節未在來源中提供。完整文章請見 https://variety.com/2026/film/global/student-academy-awards-a-subconscious-dive-jordan-1236853210/"
+    },
+    "sources": [
+      {
+        "name": "Variety",
+        "url": "https://variety.com/2026/film/global/student-academy-awards-a-subconscious-dive-jordan-1236853210/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 58,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 17,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "variety"
+    ]
   },
   {
     "id": "adult-01",
@@ -908,7 +1032,8 @@
       "performer",
       "career",
       "限制級",
-      "NSFW"
+      "NSFW",
+      "demo-seed"
     ],
     "body": {
       "zh-TW": "（限制級／成人產業新聞）人氣 AV 女優桜井みなみ（Minami Sakurai）——示範用成年表演者藝名——經事務所證實將暫停拍片約一年，期間重心改為個人保養／時尚聯名、寫真週邊，以及 pixivFANBOX 等粉絲訂閱平台。同業評論指這是專屬約結束後常見的「品牌化」路徑；粉絲則出現支持轉型與希望回歸作品的兩極留言。本卡僅在使用者選擇加入成人區後顯示。\n\n具名到藝名與平台，是為了讓產業動態可追蹤，而非使用「某人氣女優」空泛主詞。內容僅討論合法成年表演者的事業選擇與商業模式，不含任何未成年相關描述。\n\n娛樂產業稿偏寫粉絲情緒；產業稿寫訂閱分成與品牌授權。暫停檔期與轉訂閱這兩點，事務所聲明與媒體報導大致吻合。\n\n後續仍取決於本人是否延長休片，以及聯名產品是否如期上市。",
@@ -962,63 +1087,12 @@
       "platform",
       "policy",
       "NSFW",
-      "限制級"
+      "限制級",
+      "demo-seed"
     ],
     "body": {
       "zh-TW": "（限制級／平台政策）主流成人訂閱平台 OnlyFans 與競品 Fansly 更新社群與預覽守則：公開動態與商店預覽頁不得出現未遮罩的露骨性畫面，完整內容仍僅對完成成年驗證的訂閱者開放。部分短影音分發渠道同步跟進。成人創作者擔心發現頁流量下滑；平台公關強調是為通過應用商店與支付／廣告審核的合規要求。僅限成人區顯示。\n\n點名 OnlyFans、Fansly，避免「主流訂閱平台」的模糊主詞；正文解釋它們是面向成年創作者的訂閱服務。政策爭議的核心是「可發現性 vs 商店合規」，不是內容合法性本身。\n\n創作者權益媒體與平台聲明立場對立，但「規則已改、預覽須遮罩」的事實層一致。\n\n執行力度與是否影響既有貼文回溯處理，仍待各平台說明頁更新。",
       "en": "(Adult 18+ / platform policy) Major adult subscription platforms OnlyFans and rival Fansly updated feed and preview rules: public posts and store previews may not show unmasked explicit sexual imagery; full content remains limited to age-verified subscribers. Some short-video distribution channels followed. Adult creators worry about discovery reach; platform spokespeople cite app-store, payments and ad-review compliance. Adult-zone only.\n\nNaming OnlyFans and Fansly avoids a vague “major platforms” subject; the body explains they are subscription services for adult creators. The policy fight is discoverability versus store compliance—not legality of adult content itself.\n\nCreator-advocacy media and platform statements clash on tone; the fact layer—“rules changed, previews need masks”—aligns.\n\nEnforcement strength and whether old posts are retroactively processed still await help-center updates."
-    },
-    "isPopular": true
-  },
-  {
-    "id": "adult-03",
-    "category": "adult",
-    "adult": true,
-    "imageUrl": "/covers/adult-03.jpg",
-    "imageAlt": {
-      "zh-TW": "限制級｜成人影音展會攤位示意（編輯風格）",
-      "en": "Adult-rated｜Adult video expo booth editorial illustration"
-    },
-    "publishedAt": "2026-09-03T12:00:00Z",
-    "title": {
-      "zh-TW": "【限制級】東京 Adult Expo 票房回溫，SOD 與獨立片商搶海外訂閱",
-      "en": "[Adult 18+] Tokyo Adult Expo attendance rebounds; SOD and indie studios chase overseas subs"
-    },
-    "summary": {
-      "zh-TW": "（18+）東京 Adult Expo（成人影音展）成年觀眾年增，攤位以女優見面會、限定碟與 VR 為主；SOD 等片商與獨立廠牌透露海外粉絲訂閱占比上升，亦面對支付與分級合規成本。",
-      "en": "(18+) Tokyo Adult Expo saw year-on-year growth in adult attendees; booths featured performer greetings, limited discs and VR trials. SOD and indie labels report rising overseas fan-sub share while facing payments and labeling compliance costs."
-    },
-    "sources": [
-      {
-        "name": "Adult entertainment trade (sample)",
-        "url": "https://example.com/av-expo-attendance",
-        "stance": "Expo floor / attendance"
-      },
-      {
-        "name": "Streaming analytics note (sample)",
-        "url": "https://example.com/adult-overseas-subs",
-        "stance": "Overseas subscription mix"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 54,
-    "trustBreakdown": {
-      "sourceDiversity": 11,
-      "outletReputation": 12,
-      "crossCorroboration": 13,
-      "recencyClarity": 18
-    },
-    "tags": [
-      "adult",
-      "AV",
-      "expo",
-      "industry",
-      "限制級",
-      "NSFW"
-    ],
-    "body": {
-      "zh-TW": "（限制級／產業新聞）本屆東京 Adult Expo（東京成人影音展）公布的成年觀眾入場人數較去年成長，會場以成年表演者見面會、限定版光碟與 VR 試作為主軸。大型片商 SOD（Soft On Demand）與多家獨立成人片商在會邊訪談中提到，海外粉絲訂閱營收占比上升，同時必須應付跨境支付通道拒絕率與各國分級標示成本。內容僅供成人區、僅討論合法產業與展會經濟。\n\n具名展會與片商，是把「成人影音展／片商」落到可查的產業實體。展會回溫反映實體粉絲經濟仍在；海外訂閱則顯示發行已不只依賴國內實體通路。\n\n日媒產業版與英文成人產業通訊在「入場回溫、海外占比升」上大致同向，對「哪個市場成長最快」則估計不一。\n\n支付通道政策可能隨信用卡組織規則再變，屬持續風險而非單次新聞。",
-      "en": "(Adult 18+ / industry news) This year’s Tokyo Adult Expo reported higher adult attendance year on year, with booths built around performer greetings, limited discs and VR demos. Major studio Soft On Demand (SOD) and several indie adult labels said in sideline interviews that overseas fan subscriptions are a larger revenue share—while cross-border payment declines and labeling rules add cost. Adult-zone only; lawful industry and trade-show economics only.\n\nNaming the expo and studios turns vague “adult AV fair / studios” into checkable entities. The rebound shows physical fan economies still matter; overseas subs show distribution is no longer domestic-disc-only.\n\nJapanese trade press and English adult-industry newsletters align on attendance and overseas mix; they disagree on which export market is hottest.\n\nPayment-rail policy can shift again with card-network rules—an ongoing risk, not a one-off headline."
     },
     "isPopular": true
   }

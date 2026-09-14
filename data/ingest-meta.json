@@ -1,0 +1,18 @@
+{
+  "ingestedAt": "2026-09-14T12:05:37.405Z",
+  "feedOk": 23,
+  "feedTotal": 23,
+  "rawItems": 230,
+  "mainStories": 22,
+  "adultDemoSeeds": 2,
+  "byCategory": {
+    "tech": 4,
+    "international": 4,
+    "ai": 3,
+    "finance": 4,
+    "beauty": 3,
+    "entertainment": 4
+  },
+  "llmUsed": true,
+  "mode": "llm+rss"
+}

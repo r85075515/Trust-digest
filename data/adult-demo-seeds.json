@@ -1,0 +1,113 @@
+[
+  {
+    "id": "adult-01",
+    "category": "adult",
+    "adult": true,
+    "imageUrl": "/covers/adult-01.jpg",
+    "imageAlt": {
+      "zh-TW": "限制級｜成人娛樂產業活動紅毯示意（編輯風格）",
+      "en": "Adult-rated｜Adult entertainment industry event red-carpet editorial illustration"
+    },
+    "publishedAt": "2026-09-05T18:00:00Z",
+    "title": {
+      "zh-TW": "【限制級】AV 女優桜井みなみ宣布暫停拍片一年，轉戰品牌與 Fanbox",
+      "en": "[Adult 18+] AV actress Minami Sakurai pauses filming for a year for brand deals and Fanbox"
+    },
+    "summary": {
+      "zh-TW": "（18+）成年表演者桜井みなみ（Minami Sakurai，示範藝名）將暫別新作檔期，改經營個人品牌、寫真週邊與 pixivFANBOX 訂閱；業界稱屬後專屬約常見轉型。",
+      "en": "(18+) Adult performer Minami Sakurai (demo stage name) will pause new shoots to run a personal brand, photobook merch and pixivFANBOX subscriptions; trade voices call it a common post-exclusive shift."
+    },
+    "sources": [
+      {
+        "name": "AV industry trade desk (sample)",
+        "url": "https://example.com/av-career-pivot",
+        "stance": "Career / box-office framing"
+      },
+      {
+        "name": "Creator economy brief (sample)",
+        "url": "https://example.com/performer-subscription",
+        "stance": "Subscription revenue angle"
+      }
+    ],
+    "disagreements": {
+      "zh-TW": "粉絲媒體強調「告別感」；產業媒體則視為商業模式升級，未必等於退役。",
+      "en": "Fan media lean into farewell vibes; trade press frames it as a business-model upgrade, not necessarily retirement."
+    },
+    "trustScore": 57,
+    "trustBreakdown": {
+      "sourceDiversity": 12,
+      "outletReputation": 11,
+      "crossCorroboration": 14,
+      "recencyClarity": 20
+    },
+    "tags": [
+      "adult",
+      "AV",
+      "performer",
+      "career",
+      "限制級",
+      "NSFW",
+      "demo-seed"
+    ],
+    "body": {
+      "zh-TW": "（限制級／成人產業新聞）人氣 AV 女優桜井みなみ（Minami Sakurai）——示範用成年表演者藝名——經事務所證實將暫停拍片約一年，期間重心改為個人保養／時尚聯名、寫真週邊，以及 pixivFANBOX 等粉絲訂閱平台。同業評論指這是專屬約結束後常見的「品牌化」路徑；粉絲則出現支持轉型與希望回歸作品的兩極留言。本卡僅在使用者選擇加入成人區後顯示。\n\n具名到藝名與平台，是為了讓產業動態可追蹤，而非使用「某人氣女優」空泛主詞。內容僅討論合法成年表演者的事業選擇與商業模式，不含任何未成年相關描述。\n\n娛樂產業稿偏寫粉絲情緒；產業稿寫訂閱分成與品牌授權。暫停檔期與轉訂閱這兩點，事務所聲明與媒體報導大致吻合。\n\n後續仍取決於本人是否延長休片，以及聯名產品是否如期上市。",
+      "en": "(Adult 18+ / industry news) Popular AV actress Minami Sakurai (桜井みなみ)—a demo adult stage name—will pause filming for about a year, per her agency, to focus on beauty/fashion brand deals, photobook merch and fan subscriptions such as pixivFANBOX. Trade commentators call this a common post-exclusive “branding” path; fans split between supporting the pivot and wanting her back on set. This card shows only after adult-zone opt-in.\n\nNaming the performer and platforms makes the beat trackable instead of a vague “popular actress.” Coverage discusses lawful adult performers’ career and business choices only—no content involving minors.\n\nEntertainment copy leans fan emotion; trade copy covers subscription splits and licensing. The pause and the subscription shift align across the agency note and press.\n\nOpen questions: whether she extends the hiatus, and whether collab products ship on time."
+    },
+    "isPopular": true
+  },
+  {
+    "id": "adult-02",
+    "category": "adult",
+    "adult": true,
+    "imageUrl": "/covers/adult-02.jpg",
+    "imageAlt": {
+      "zh-TW": "限制級｜成人平台政策與裝置示意（編輯風格）",
+      "en": "Adult-rated｜Adult platform policy and devices editorial illustration"
+    },
+    "publishedAt": "2026-09-04T15:00:00Z",
+    "title": {
+      "zh-TW": "【限制級】OnlyFans 與 Fansly 收緊預覽分級：露骨畫面須遮罩",
+      "en": "[Adult 18+] OnlyFans and Fansly tighten preview ratings: explicit frames must be masked"
+    },
+    "summary": {
+      "zh-TW": "（18+）OnlyFans、Fansly 等成人向訂閱平台更新守則：公開預覽禁止未遮罩露骨畫面，完整內容仍限成年驗證帳號；創作者擔憂曝光，平台稱配合應用商店審核。",
+      "en": "(18+) OnlyFans, Fansly and peer adult subscription platforms updated rules: public previews cannot show unmasked explicit frames; full posts stay behind age-verified accounts. Creators fear reach loss; platforms cite app-store and ad review."
+    },
+    "sources": [
+      {
+        "name": "Platform policy digest (sample)",
+        "url": "https://example.com/adult-preview-mask",
+        "stance": "Compliance / store review"
+      },
+      {
+        "name": "Adult creator advocacy (sample)",
+        "url": "https://example.com/creator-reach-impact",
+        "stance": "Creator monetization impact"
+      }
+    ],
+    "disagreements": {
+      "zh-TW": "平台強調「仍可發完整成人內容」；創作者認為預覽遮罩等於實質降流。",
+      "en": "Platforms stress full adult content remains allowed; creators say masked previews amount to a de facto reach cut."
+    },
+    "trustScore": 62,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 14,
+      "crossCorroboration": 15,
+      "recencyClarity": 19
+    },
+    "tags": [
+      "adult",
+      "platform",
+      "policy",
+      "NSFW",
+      "限制級",
+      "demo-seed"
+    ],
+    "body": {
+      "zh-TW": "（限制級／平台政策）主流成人訂閱平台 OnlyFans 與競品 Fansly 更新社群與預覽守則：公開動態與商店預覽頁不得出現未遮罩的露骨性畫面，完整內容仍僅對完成成年驗證的訂閱者開放。部分短影音分發渠道同步跟進。成人創作者擔心發現頁流量下滑；平台公關強調是為通過應用商店與支付／廣告審核的合規要求。僅限成人區顯示。\n\n點名 OnlyFans、Fansly，避免「主流訂閱平台」的模糊主詞；正文解釋它們是面向成年創作者的訂閱服務。政策爭議的核心是「可發現性 vs 商店合規」，不是內容合法性本身。\n\n創作者權益媒體與平台聲明立場對立，但「規則已改、預覽須遮罩」的事實層一致。\n\n執行力度與是否影響既有貼文回溯處理，仍待各平台說明頁更新。",
+      "en": "(Adult 18+ / platform policy) Major adult subscription platforms OnlyFans and rival Fansly updated feed and preview rules: public posts and store previews may not show unmasked explicit sexual imagery; full content remains limited to age-verified subscribers. Some short-video distribution channels followed. Adult creators worry about discovery reach; platform spokespeople cite app-store, payments and ad-review compliance. Adult-zone only.\n\nNaming OnlyFans and Fansly avoids a vague “major platforms” subject; the body explains they are subscription services for adult creators. The policy fight is discoverability versus store compliance—not legality of adult content itself.\n\nCreator-advocacy media and platform statements clash on tone; the fact layer—“rules changed, previews need masks”—aligns.\n\nEnforcement strength and whether old posts are retroactively processed still await help-center updates."
+    },
+    "isPopular": true
+  }
+]

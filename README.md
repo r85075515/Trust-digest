@@ -2,95 +2,123 @@
 
 Multi-source **verified news digest** MVP — bilingual (**Traditional Chinese / English**), explainable trust scores, personalization, cover images, **Popular（熱門）** + **Headline（頭條）** treatment, and a **separate adult/限制級 zone** (off by default). The home feed prioritizes high-buzz Popular stories and important Headline news.
 
-> Demo uses **static JSON seed data** so it runs offline without live scraping. Cover images use seeded [picsum.photos](https://picsum.photos) placeholders.
+> **Live ingest:** main-feed stories come from allow-listed RSS (summarize + link only). Run `npm run ingest` to refresh `data/stories.json`. Adult zone keeps a few clearly tagged `demo-seed` samples (not from live adult RSS). Trust scores are **heuristics**, not fact-check guarantees.
 
 ## Quick start
 
 ```bash
 cd Trust-digest   # or: /workspace/Trust-digest
 npm install
+npm run ingest    # fetch allow-listed RSS → data/stories.json
 npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
 
-| Script        | Purpose              |
-|---------------|----------------------|
-| `npm run dev` | Local development    |
-| `npm run build` | Production build   |
-| `npm start`   | Serve production build |
+| Script          | Purpose                                      |
+|-----------------|----------------------------------------------|
+| `npm run ingest`| Live RSS pipeline → `data/stories.json`      |
+| `npm run dev`   | Local development                            |
+| `npm run build` | Production build                             |
+| `npm start`     | Serve production build                       |
+
+## Live ingest (`npm run ingest`)
+
+Pipeline (`scripts/ingest.ts` + `src/lib/rss-ingest.ts`):
+
+1. Fetch curated allow-list feeds (polite User-Agent, timeout, per-feed delay).
+2. Parse RSS/Atom (`rss-parser`); normalize title, link, pubDate, description, image (`media:content` / enclosure / first `<img>`; optional `og:image` for a few top items).
+3. Cluster near-duplicates by title token Jaccard within each category.
+4. Compute trust breakdown: source diversity, outlet reputation map, cross-corroboration, recency & clarity → `computeTrustScore()`.
+5. Digests:
+   - **If** `AXIOM_LLM_API_KEY` / `OPENAI_API_KEY` / `XAI_API_KEY` is set → OpenAI-compatible chat (xAI if key starts with `xai-` or `AXIOM_LLM_BASE_URL` points at xAI). Never invent facts not in titles/snippets.
+   - **Else** extractive digest from title+description + best-effort zh-TW via `@vitalets/google-translate-api` (if translate fails, keep EN and note 「譯文待補」).
+6. Download related covers into `public/covers/live/` when possible; otherwise keep HTTPS publisher CDN URLs only (no unrelated placeholders).
+7. Overwrite `data/stories.json` (main feed 100% live) + write `data/ingest-meta.json`. Append 0–2 adult `demo-seed` stories so `/adult` still works.
+
+Fail loudly if every feed fails.
+
+### Optional LLM env
+
+```bash
+export OPENAI_API_KEY=sk-...          # or AXIOM_LLM_API_KEY / XAI_API_KEY
+# export AXIOM_LLM_BASE_URL=https://api.x.ai/v1
+# export AXIOM_LLM_MODEL=grok-2-latest
+npm run ingest
+```
+
+### Feed allow-list (v1)
+
+Verified free RSS used by the pipeline (adult feeds excluded):
+
+| Category        | Outlets |
+|-----------------|---------|
+| International   | BBC World, NPR World, The Guardian World, NYT World |
+| Finance         | CNBC, MarketWatch, Yahoo Finance, BBC Business, Guardian Business |
+| Tech            | TechCrunch, The Verge, BBC Technology, Ars Technica, Engadget |
+| AI              | MIT News AI, Wired AI, ScienceDaily AI, Google AI Blog |
+| Entertainment   | Billboard, Variety, Deadline |
+| Beauty          | Allure, Fashionista |
+
+Dead feeds are skipped at fetch time; drop/replace in `ALLOWED_FEEDS` if a URL stops returning 200.
 
 ## What you get
 
 - **Categories:** International, Finance, Tech, AI, Entertainment (演藝), Beauty (美妝) (main feed)
 - **Languages:** Every story has `zh-TW` + `en` title, short `summary` (home cards), and full `body` digest article (detail page)
-- **Images:** Optional `imageUrl` + localized `imageAlt` on each story — thumbnails on cards, larger cover on detail
-- **Headlines & Popular:** Stories with `isHeadline: true` appear in a distinct 頭條 / HEADLINE block at the top of the home feed (1–2 items). Stories with `isPopular: true` show a violet 熱門 / Popular badge (cards, headline block, detail). A story can be both. Seed mix is mainly Popular and/or Headline.
-- **Proper nouns in titles:** Titles and short summaries lead with concrete names (groups, brands, companies, products, summits); generic role/category explainers belong in the article body
-- **Story cards / detail:** home cards keep short briefings; detail pages show a fuller AI digest article (lede → what happened → why it matters → source agreement/disagreement → uncertainties), cover image, outlet links, trust score 0–100 with breakdown, tags
-- **Personalization:** opens / saves / not-interested via `localStorage`; feed ranking uses category preference weights
-- **Adult / 限制級:** `/adult` only, **default off**, explicit 18+ opt-in; never mixed into the main feed. Seed cards cover legal adult-entertainment industry / performer career / platform-policy topics only
+- **Images:** Optional `imageUrl` + localized `imageAlt` — from feed/og when available (local copy under `/covers/live/` or HTTPS CDN)
+- **Headlines & Popular:** `isHeadline` / `isPopular` from cluster size, reputation, trust×recency, and simple trending keywords
+- **Trust score:** four capped factors (max 25 each → 0–100); see methodology below
+- **Personalization:** opens / saves / not-interested via `localStorage`
+- **Adult / 限制級:** `/adult` only, **default off**, explicit 18+ opt-in; **not** mixed into main ingest. Demo seeds tagged `demo-seed`
 
 ## Story data shape (`data/stories.json`)
 
 | Field | Notes |
 |-------|--------|
 | `id`, `category`, `adult`, `publishedAt` | Core identity |
-| `isHeadline?` | When `true`, eligible for the home HEADLINE block |
-| `isPopular?` | When `true`, show 熱門 / Popular badge (high buzz / trending) |
-| `imageUrl?`, `imageAlt?` | Cover/thumbnail (`imageAlt` is `{ "zh-TW", "en" }`) |
-| `title`, `summary`, `body` | LocalizedText — `summary` for cards; `body` is the full digest article on detail |
-| `sources[]`, `disagreements`, `trustScore`, `trustBreakdown`, `tags` | As before |
+| `isHeadline?` | Home HEADLINE block |
+| `isPopular?` | 熱門 / Popular badge |
+| `imageUrl?`, `imageAlt?` | Cover/thumbnail |
+| `title`, `summary`, `body` | LocalizedText |
+| `sources[]`, `disagreements`, `trustScore`, `trustBreakdown`, `tags` | Live: `live-ingest`; adult demos: `demo-seed` |
+
+`data/ingest-meta.json` records last ingest time and category counts (shown on the home page).
 
 ## Trust-score methodology (honest)
 
-Scores are a **demo heuristic**, not a fact-checker and **not a claim of zero misinformation**.
+Scores are a **heuristic**, not a fact-checker and **not a claim of zero misinformation**.
 
-Each story’s score is the sum of four capped factors (max **25** each → **0–100**):
+| Factor | Live signal |
+|--------|-------------|
+| Source diversity | Unique outlets in the cluster (capped 25) |
+| Outlet reputation | Curated domain→score map (BBC/NPR/NYT high; blogs lower) |
+| Cross-corroboration | Cluster size / agreement; reduced if numeric disagreements detected |
+| Recency & clarity | pubDate age + description length |
 
-| Factor | What it approximates |
-|--------|----------------------|
-| Source diversity | How many distinct outlets are listed |
-| Outlet reputation | Curated prior for known wire/quality outlets (hand-set in seed) |
-| Cross-corroboration | Whether multiple sources align on core facts |
-| Recency & clarity | Freshness + how concrete the summary is |
+## Copyright & image policy
 
-Breakdown UI shows each factor. Seed values are **author-assigned for the demo**; a future ingest pipeline would compute them from live clusters (see `src/lib/rss-ingest.ts`).
-
-## Copyright note
-
-**Axiom** shows **original short summaries** and **links to source outlets**. It does **not** republish full articles. Respect publisher terms; do not scrape paywalled full text. Sample adult cards use clearly labeled placeholder/example URLs for legal adult *topics* only (18+ performers/industry/news). Cover images are placeholder stock via picsum.
+- **Summarize + link only.** Axiom writes original short digests from feed titles/descriptions and links to publishers. It does **not** republish full articles or scrape paywalled text.
+- **Covers:** thumbnails from feed media / `og:image` are stored locally for UI link-out cards (thumbnail fair use). If download fails, only HTTPS publisher CDN URLs are kept — never unrelated stock placeholders for live stories.
+- **Adult:** demo seeds only in v1; example.com-style sample URLs may remain on those cards.
 
 ## Project layout
 
 ```
-data/stories.json              # Offline seed stories (incl. adult samples + images)
+data/stories.json              # Live main feed + adult demo seeds
+data/ingest-meta.json          # Last ingest timestamp / counts
+data/adult-demo-seeds.json     # 1–2 adult samples preserved across ingest
+scripts/ingest.ts              # npm run ingest
+src/lib/rss-ingest.ts          # Allow-list, cluster, trust helpers
 src/app/page.tsx               # Main feed + HEADLINE block
-src/app/story/[id]/page.tsx
 src/app/adult/page.tsx         # Opt-in adult / 限制級 zone
-src/components/HeadlineBlock.tsx
-src/components/StoryCard.tsx
-src/lib/personalization.ts     # localStorage weights & ranking
-src/lib/trust.ts               # Score helpers / labels
-src/lib/rss-ingest.ts          # Stub + TODOs for future RSS
+public/covers/live/            # Downloaded live thumbnails
 ```
-
-## 14-day roadmap
-
-| Day | Focus |
-|-----|--------|
-| 1–2 | Polish UI, a11y, empty states; add more seed clusters |
-| 3–4 | Wire RSS stub fetch behind a feature flag (allow-listed feeds only) |
-| 5–6 | Event clustering + simple disagreement detection |
-| 7–8 | Trust factors from real signals (outlet list, time, #sources) |
-| 9–10 | Optional account sync (keep localStorage as fallback) |
-| 11–12 | Adult zone moderation labels + stricter age gate copy |
-| 13–14 | Deploy preview, feedback pass, README/ops checklist |
 
 ## Non-goals (MVP)
 
-Native apps, live paywall scraping, payments, claiming zero misinformation.
+Native apps, live paywall scraping, payments, claiming zero misinformation, adult RSS ingest.
 
 ## License / contribution
 
-Private MVP repo. Summaries are original demo text; linked brands remain their owners’.
+Private MVP repo. Digests are original summaries; linked brands and cover thumbnails remain their owners’. Product name **Axiom**; GitHub repo **Trust-digest**.
