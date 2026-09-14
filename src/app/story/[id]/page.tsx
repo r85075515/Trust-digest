@@ -95,10 +95,19 @@ export default function StoryDetailPage({
                 {lang === "zh-TW" ? "限制級 18+" : "ADULT 18+"}
               </span>
             )}
-            {story.isHeadline && !story.adult && (
-              <span className="absolute left-3 top-3 rounded-md bg-amber-500 px-2.5 py-1 text-xs font-bold text-white">
-                {lang === "zh-TW" ? "頭條" : "HEADLINE"}
-              </span>
+            {(story.isHeadline || story.isPopular) && !story.adult && (
+              <div className="absolute left-3 top-3 flex flex-wrap gap-1.5">
+                {story.isHeadline && (
+                  <span className="rounded-md bg-amber-500 px-2.5 py-1 text-xs font-bold text-white">
+                    {lang === "zh-TW" ? "頭條" : "HEADLINE"}
+                  </span>
+                )}
+                {story.isPopular && (
+                  <span className="rounded-md bg-violet-600 px-2.5 py-1 text-xs font-bold text-white">
+                    {lang === "zh-TW" ? "熱門" : "Popular"}
+                  </span>
+                )}
+              </div>
             )}
           </div>
         )}
@@ -115,6 +124,11 @@ export default function StoryDetailPage({
           {story.isHeadline && (
             <span className="rounded-md bg-amber-100 px-2 py-0.5 text-xs font-bold text-amber-900">
               {lang === "zh-TW" ? "頭條" : "HEADLINE"}
+            </span>
+          )}
+          {story.isPopular && (
+            <span className="rounded-md bg-violet-100 px-2 py-0.5 text-xs font-bold text-violet-900">
+              {lang === "zh-TW" ? "熱門" : "Popular"}
             </span>
           )}
           <TrustScoreBadge score={story.trustScore} lang={lang} />

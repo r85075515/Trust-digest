@@ -1,6 +1,6 @@
 # Axiom
 
-Multi-source **verified news digest** MVP — bilingual (**Traditional Chinese / English**), explainable trust scores, personalization, cover images, headline treatment, and a **separate adult/限制級 zone** (off by default).
+Multi-source **verified news digest** MVP — bilingual (**Traditional Chinese / English**), explainable trust scores, personalization, cover images, **Popular（熱門）** + **Headline（頭條）** treatment, and a **separate adult/限制級 zone** (off by default). The home feed prioritizes high-buzz Popular stories and important Headline news.
 
 > Demo uses **static JSON seed data** so it runs offline without live scraping. Cover images use seeded [picsum.photos](https://picsum.photos) placeholders.
 
@@ -25,7 +25,8 @@ Open [http://localhost:3000](http://localhost:3000).
 - **Categories:** International, Finance, Tech, AI, Entertainment (演藝), Beauty (美妝) (main feed)
 - **Languages:** Every story has `zh-TW` + `en` title, short `summary` (home cards), and full `body` digest article (detail page)
 - **Images:** Optional `imageUrl` + localized `imageAlt` on each story — thumbnails on cards, larger cover on detail
-- **Headlines:** Stories with `isHeadline: true` appear in a distinct 頭條 / HEADLINE block at the top of the home feed (1–2 items)
+- **Headlines & Popular:** Stories with `isHeadline: true` appear in a distinct 頭條 / HEADLINE block at the top of the home feed (1–2 items). Stories with `isPopular: true` show a violet 熱門 / Popular badge (cards, headline block, detail). A story can be both. Seed mix is mainly Popular and/or Headline.
+- **Proper nouns in titles:** Titles and short summaries lead with concrete names (groups, brands, companies, products, summits); generic role/category explainers belong in the article body
 - **Story cards / detail:** home cards keep short briefings; detail pages show a fuller AI digest article (lede → what happened → why it matters → source agreement/disagreement → uncertainties), cover image, outlet links, trust score 0–100 with breakdown, tags
 - **Personalization:** opens / saves / not-interested via `localStorage`; feed ranking uses category preference weights
 - **Adult / 限制級:** `/adult` only, **default off**, explicit 18+ opt-in; never mixed into the main feed. Seed cards cover legal adult-entertainment industry / performer career / platform-policy topics only
@@ -36,6 +37,7 @@ Open [http://localhost:3000](http://localhost:3000).
 |-------|--------|
 | `id`, `category`, `adult`, `publishedAt` | Core identity |
 | `isHeadline?` | When `true`, eligible for the home HEADLINE block |
+| `isPopular?` | When `true`, show 熱門 / Popular badge (high buzz / trending) |
 | `imageUrl?`, `imageAlt?` | Cover/thumbnail (`imageAlt` is `{ "zh-TW", "en" }`) |
 | `title`, `summary`, `body` | LocalizedText — `summary` for cards; `body` is the full digest article on detail |
 | `sources[]`, `disagreements`, `trustScore`, `trustBreakdown`, `tags` | As before |

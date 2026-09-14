@@ -60,6 +60,11 @@ export function StoryCard({
               {lang === "zh-TW" ? "頭條" : "HEADLINE"}
             </span>
           )}
+          {story.isPopular && (
+            <span className="rounded-md bg-violet-100 px-2 py-0.5 text-xs font-bold text-violet-900">
+              {lang === "zh-TW" ? "熱門" : "Popular"}
+            </span>
+          )}
           <TrustScoreBadge score={story.trustScore} lang={lang} size="sm" />
           {opened && (
             <span className="text-xs text-slate-400">

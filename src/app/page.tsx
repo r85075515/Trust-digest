@@ -59,8 +59,8 @@ export default function HomePage() {
           </h1>
           <p className="mb-4 text-sm text-slate-600">
             {lang === "zh-TW"
-              ? "國際 · 財經 · 科技 · AI · 演藝 · 美妝 — 首頁短摘要，點進內頁可讀完整消化文。多來源連結與可解釋信任分數。離線示範資料。"
-              : "International · Finance · Tech · AI · Entertainment · Beauty — short briefings on the home feed; full digest articles on detail pages. Multi-source links and explainable trust scores. Offline demo seed data."}
+              ? "國際 · 財經 · 科技 · AI · 演藝 · 美妝 — 訊息流以熱門（高討論）與頭條（重要）為主。首頁短摘要，點進內頁可讀完整消化文。標題用具名專有名詞；角色說明放正文。多來源連結與可解釋信任分數。離線示範資料。"
+              : "International · Finance · Tech · AI · Entertainment · Beauty — feed prioritizes Popular (high buzz) and Headline (important) stories. Short briefings on home; full digests on detail pages. Titles lead with proper nouns; role/category explainers live in the body. Multi-source links and explainable trust scores. Offline demo seed data."}
           </p>
           <CategoryFilter value={category} onChange={setCategory} lang={lang} />
         </section>

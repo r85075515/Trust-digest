@@ -32,6 +32,8 @@ export interface Story {
   adult: boolean;
   /** Featured as HEADLINE / 頭條 on the home feed */
   isHeadline?: boolean;
+  /** High online buzz / trending — shown as 熱門 / Popular */
+  isPopular?: boolean;
   /** Cover / thumbnail image URL */
   imageUrl?: string;
   /** Optional alt text for the cover image */

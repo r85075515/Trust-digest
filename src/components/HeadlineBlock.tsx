@@ -60,9 +60,16 @@ export function HeadlineBlock({
                       className="absolute inset-0 h-full w-full object-cover"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
-                    <span className="absolute left-3 top-3 rounded-md bg-amber-500 px-2.5 py-1 text-xs font-bold text-white shadow">
-                      {lang === "zh-TW" ? "頭條" : "HEADLINE"}
-                    </span>
+                    <div className="absolute left-3 top-3 flex flex-wrap gap-1.5">
+                      <span className="rounded-md bg-amber-500 px-2.5 py-1 text-xs font-bold text-white shadow">
+                        {lang === "zh-TW" ? "頭條" : "HEADLINE"}
+                      </span>
+                      {story.isPopular && (
+                        <span className="rounded-md bg-violet-600 px-2.5 py-1 text-xs font-bold text-white shadow">
+                          {lang === "zh-TW" ? "熱門" : "Popular"}
+                        </span>
+                      )}
+                    </div>
                   </div>
                 </Link>
               )}
@@ -71,6 +78,11 @@ export function HeadlineBlock({
                   <span className="rounded-md bg-slate-100 px-2 py-0.5 text-xs font-medium text-slate-700">
                     {CATEGORY_LABELS[story.category][lang]}
                   </span>
+                  {story.isPopular && (
+                    <span className="rounded-md bg-violet-100 px-2 py-0.5 text-xs font-bold text-violet-900">
+                      {lang === "zh-TW" ? "熱門" : "Popular"}
+                    </span>
+                  )}
                   <TrustScoreBadge
                     score={story.trustScore}
                     lang={lang}

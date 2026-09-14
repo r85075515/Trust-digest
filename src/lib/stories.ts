@@ -23,6 +23,10 @@ export function getHeadlineStories(): Story[] {
   return getMainStories().filter((s) => s.isHeadline);
 }
 
+export function getPopularStories(): Story[] {
+  return getMainStories().filter((s) => s.isPopular);
+}
+
 export function getStoriesByCategory(category: Category | "all"): Story[] {
   if (category === "all") return getMainStories();
   if (category === "adult") return getAdultStories();
