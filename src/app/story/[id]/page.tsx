@@ -129,9 +129,22 @@ export default function StoryDetailPage({
           {story.title[lang]}
         </h1>
 
-        <p className="mb-6 text-base leading-relaxed text-slate-700">
+        <p className="mb-4 text-sm font-medium leading-relaxed text-slate-500">
           {story.summary[lang]}
         </p>
+
+        <article className="mb-8 rounded-2xl border border-slate-200 bg-white p-5 shadow-sm sm:p-6">
+          <h2 className="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-400">
+            {lang === "zh-TW" ? "Axiom 消化文" : "Axiom digest"}
+          </h2>
+          <div className="space-y-4 text-base leading-7 text-slate-800 sm:text-[17px] sm:leading-8">
+            {story.body[lang]
+              .split(/\n\n+/)
+              .map((para, i) => (
+              <p key={i}>{para}</p>
+            ))}
+          </div>
+        </article>
 
         <div className="mb-6">
           <InteractionButtons

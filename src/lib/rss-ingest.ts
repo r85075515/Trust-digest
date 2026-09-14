@@ -2,7 +2,7 @@
  * Stub: future RSS / Atom ingest pipeline.
  *
  * TODO:
- * - Fetch feeds from a curated allow-list (international, finance, tech, AI).
+ * - Fetch feeds from a curated allow-list (international, finance, tech, AI, entertainment, beauty).
  * - Deduplicate by URL + title similarity.
  * - Extract plain-language summaries (LLM or extractive) — never full republication.
  * - Detect disagreements across outlets covering the same event cluster.
@@ -15,7 +15,7 @@ export interface FeedSource {
   id: string;
   name: string;
   url: string;
-  category: "international" | "finance" | "tech" | "ai" | "adult";
+  category: "international" | "finance" | "tech" | "ai" | "entertainment" | "beauty" | "adult";
   language: "zh-TW" | "en" | "mixed";
 }
 

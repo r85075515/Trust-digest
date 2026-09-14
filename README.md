@@ -22,11 +22,11 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## What you get
 
-- **Categories:** International, Finance, Tech, AI (main feed)
-- **Languages:** Every story has `zh-TW` + `en` title & summary (toggle in header)
+- **Categories:** International, Finance, Tech, AI, Entertainment (演藝), Beauty (美妝) (main feed)
+- **Languages:** Every story has `zh-TW` + `en` title, short `summary` (home cards), and full `body` digest article (detail page)
 - **Images:** Optional `imageUrl` + localized `imageAlt` on each story — thumbnails on cards, larger cover on detail
 - **Headlines:** Stories with `isHeadline: true` appear in a distinct 頭條 / HEADLINE block at the top of the home feed (1–2 items)
-- **Story cards / detail:** plain-language summary, cover image, multiple outlet links, disagreements when present, trust score 0–100 with breakdown, tags
+- **Story cards / detail:** home cards keep short briefings; detail pages show a fuller AI digest article (lede → what happened → why it matters → source agreement/disagreement → uncertainties), cover image, outlet links, trust score 0–100 with breakdown, tags
 - **Personalization:** opens / saves / not-interested via `localStorage`; feed ranking uses category preference weights
 - **Adult / 限制級:** `/adult` only, **default off**, explicit 18+ opt-in; never mixed into the main feed. Seed cards cover legal adult-entertainment industry / performer career / platform-policy topics only
 
@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000).
 | `id`, `category`, `adult`, `publishedAt` | Core identity |
 | `isHeadline?` | When `true`, eligible for the home HEADLINE block |
 | `imageUrl?`, `imageAlt?` | Cover/thumbnail (`imageAlt` is `{ "zh-TW", "en" }`) |
-| `title`, `summary` | LocalizedText |
+| `title`, `summary`, `body` | LocalizedText — `summary` for cards; `body` is the full digest article on detail |
 | `sources[]`, `disagreements`, `trustScore`, `trustBreakdown`, `tags` | As before |
 
 ## Trust-score methodology (honest)

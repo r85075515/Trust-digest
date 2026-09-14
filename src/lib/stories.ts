@@ -38,5 +38,7 @@ export const CATEGORY_LABELS: Record<
   finance: { en: "Finance", "zh-TW": "財經" },
   tech: { en: "Tech", "zh-TW": "科技" },
   ai: { en: "AI", "zh-TW": "人工智慧" },
+  entertainment: { en: "Entertainment", "zh-TW": "演藝" },
+  beauty: { en: "Beauty", "zh-TW": "美妝" },
   adult: { en: "Adult / 限制級", "zh-TW": "成人／限制級" },
 };

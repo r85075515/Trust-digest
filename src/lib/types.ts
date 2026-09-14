@@ -1,4 +1,11 @@
-export type Category = "international" | "finance" | "tech" | "ai" | "adult";
+export type Category =
+  | "international"
+  | "finance"
+  | "tech"
+  | "ai"
+  | "entertainment"
+  | "beauty"
+  | "adult";
 export type Language = "zh-TW" | "en";
 
 export interface SourceOutlet {
@@ -31,7 +38,10 @@ export interface Story {
   imageAlt?: LocalizedText;
   publishedAt: string;
   title: LocalizedText;
+  /** Short card briefing for home / lists */
   summary: LocalizedText;
+  /** Full AI-digested article for the detail page */
+  body: LocalizedText;
   sources: SourceOutlet[];
   disagreements: LocalizedText | null;
   trustScore: number;
@@ -52,6 +62,8 @@ export interface PreferenceWeights {
   finance: number;
   tech: number;
   ai: number;
+  entertainment: number;
+  beauty: number;
 }
 
 export interface PersonalizationState {

@@ -47,8 +47,8 @@ export default function AdultPage() {
               </div>
               <p className="text-sm text-rose-900/80">
                 {lang === "zh-TW"
-                  ? "與主訊息流完全分離。僅含清楚標示的合法成人娛樂產業／表演者／平台政策新聞樣本（摘要＋連結，非全文）。不含未成年相關內容。"
-                  : "Fully separate from the main feed. Clearly labeled legal adult-entertainment industry / performer / platform-policy sample cards only (summaries + links, not full text). No content involving minors."}
+                  ? "與主訊息流完全分離。僅含清楚標示的合法成人娛樂產業／表演者／平台政策新聞樣本（短摘要＋消化文＋來源連結，非原文轉載）。不含未成年相關內容。"
+                  : "Fully separate from the main feed. Clearly labeled legal adult-entertainment industry / performer / platform-policy sample cards only (short briefings + digest articles + source links, not original full-text republication). No content involving minors."}
               </p>
               <button
                 type="button"

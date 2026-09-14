@@ -9,6 +9,8 @@ const MAIN: Array<Category | "all"> = [
   "finance",
   "tech",
   "ai",
+  "entertainment",
+  "beauty",
 ];
 
 export function CategoryFilter({

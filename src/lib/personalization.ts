@@ -13,6 +13,8 @@ export const DEFAULT_WEIGHTS: PreferenceWeights = {
   finance: 1,
   tech: 1,
   ai: 1,
+  entertainment: 1,
+  beauty: 1,
 };
 
 export const DEFAULT_STATE: PersonalizationState = {
