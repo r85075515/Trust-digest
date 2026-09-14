@@ -6,7 +6,7 @@ import type {
   InteractionType,
 } from "./types";
 
-const STORAGE_KEY = "trust-digest-personalization-v1";
+const STORAGE_KEY = "axiom-personalization-v1";
 
 export const DEFAULT_WEIGHTS: PreferenceWeights = {
   international: 1,

@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useState } from "react";
 import type { Language } from "@/lib/types";
 
-const KEY = "trust-digest-lang";
+const KEY = "axiom-lang";
 
 export function useLanguage() {
   const [lang, setLangState] = useState<Language>("zh-TW");

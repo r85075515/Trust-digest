@@ -15,7 +15,7 @@ export function Header({ lang, onLangChange, adultOptIn }: HeaderProps) {
       <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-3">
         <Link href="/" className="group">
           <span className="text-lg font-bold tracking-tight text-slate-900 group-hover:text-blue-700">
-            Trust-digest
+            Axiom
           </span>
           <span className="ml-2 hidden text-xs text-slate-500 sm:inline">
             {lang === "zh-TW" ? "多源驗證新聞摘要" : "Multi-source verified digest"}

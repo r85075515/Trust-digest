@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Trust-digest — Multi-source verified news",
+  title: "Axiom — Multi-source verified news",
   description:
     "Bilingual (zh-TW / EN) news digest with sources, disagreements, and explainable trust scores.",
 };

@@ -130,8 +130,8 @@ export default function HomePage() {
 
         <footer className="border-t border-slate-200 pt-4 text-xs text-slate-500">
           {lang === "zh-TW"
-            ? "Trust-digest 僅提供摘要與來源連結，非全文轉載。信任分數為示範啟發式，不宣稱零誤訊。成人區為 18+ 合法產業新聞樣本，預設關閉。"
-            : "Trust-digest provides summaries and source links only — not full republication. Trust scores are demo heuristics; we do not claim zero misinformation. Adult zone holds 18+ legal industry samples and is off by default."}
+            ? "Axiom 僅提供摘要與來源連結，非全文轉載。信任分數為示範啟發式，不宣稱零誤訊。成人區為 18+ 合法產業新聞樣本，預設關閉。"
+            : "Axiom provides summaries and source links only — not full republication. Trust scores are demo heuristics; we do not claim zero misinformation. Adult zone holds 18+ legal industry samples and is off by default."}
         </footer>
       </main>
     </div>

@@ -1,4 +1,4 @@
-# Trust-digest
+# Axiom
 
 Multi-source **verified news digest** MVP — bilingual (**Traditional Chinese / English**), explainable trust scores, personalization, cover images, headline treatment, and a **separate adult/限制級 zone** (off by default).
 
@@ -57,7 +57,7 @@ Breakdown UI shows each factor. Seed values are **author-assigned for the demo**
 
 ## Copyright note
 
-Trust-digest shows **original short summaries** and **links to source outlets**. It does **not** republish full articles. Respect publisher terms; do not scrape paywalled full text. Sample adult cards use clearly labeled placeholder/example URLs for legal adult *topics* only (18+ performers/industry/news). Cover images are placeholder stock via picsum.
+**Axiom** shows **original short summaries** and **links to source outlets**. It does **not** republish full articles. Respect publisher terms; do not scrape paywalled full text. Sample adult cards use clearly labeled placeholder/example URLs for legal adult *topics* only (18+ performers/industry/news). Cover images are placeholder stock via picsum.
 
 ## Project layout
 
