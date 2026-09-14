@@ -1,0 +1,385 @@
+[
+  {
+    "id": "int-01",
+    "category": "international",
+    "adult": false,
+    "publishedAt": "2026-09-12T08:00:00Z",
+    "title": {
+      "zh-TW": "東亞區域領袖峰會聚焦貿易與安全合作",
+      "en": "East Asia summit focuses on trade and security cooperation"
+    },
+    "summary": {
+      "zh-TW": "多國領袖於峰會討論供應鏈韌性與海上安全。各方同意成立工作小組，但具體時程與約束力仍待後續談判。",
+      "en": "Leaders discussed supply-chain resilience and maritime security. They agreed to form working groups, though timelines and binding commitments remain to be negotiated."
+    },
+    "sources": [
+      { "name": "Reuters", "url": "https://www.reuters.com/", "stance": "Neutral framing on outcomes" },
+      { "name": "BBC News", "url": "https://www.bbc.com/news", "stance": "Emphasized security tensions" },
+      { "name": "NHK World", "url": "https://www3.nhk.or.jp/nhkworld/", "stance": "Highlighted economic agenda" }
+    ],
+    "disagreements": {
+      "zh-TW": "部分媒體強調安全對抗意味，另一些則凸顯經貿進展；對「實質成果」評估分歧。",
+      "en": "Some outlets stress security rivalry; others highlight economic progress. Assessments of 'substance' diverge."
+    },
+    "trustScore": 82,
+    "trustBreakdown": {
+      "sourceDiversity": 22,
+      "outletReputation": 23,
+      "crossCorroboration": 20,
+      "recencyClarity": 17
+    },
+    "tags": ["diplomacy", "trade", "Asia"]
+  },
+  {
+    "id": "int-02",
+    "category": "international",
+    "adult": false,
+    "publishedAt": "2026-09-11T14:30:00Z",
+    "title": {
+      "zh-TW": "聯合國氣候融資談判延長至深夜仍無共識",
+      "en": "UN climate finance talks run late without consensus"
+    },
+    "summary": {
+      "zh-TW": "開發中國家要求提高損失與損害基金規模，已開發國家主張先完善監督機制。會期延長但未達成最終文本。",
+      "en": "Developing nations seek a larger loss-and-damage fund; developed countries want stronger oversight first. Talks extended without a final text."
+    },
+    "sources": [
+      { "name": "Associated Press", "url": "https://apnews.com/", "stance": "Process-focused" },
+      { "name": "The Guardian", "url": "https://www.theguardian.com/", "stance": "More critical of wealthy nations" }
+    ],
+    "disagreements": {
+      "zh-TW": "對「誰應多出資」的歸因不同；報導對談判僵局責任歸屬不一致。",
+      "en": "Attribution of who should pay more differs; blame for the deadlock is framed inconsistently."
+    },
+    "trustScore": 74,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 22,
+      "crossCorroboration": 18,
+      "recencyClarity": 18
+    },
+    "tags": ["climate", "UN", "finance"]
+  },
+  {
+    "id": "fin-01",
+    "category": "finance",
+    "adult": false,
+    "publishedAt": "2026-09-13T06:15:00Z",
+    "title": {
+      "zh-TW": "主要央行暗示利率路徑分歧，股市波動升高",
+      "en": "Major central banks signal divergent rate paths; markets wobble"
+    },
+    "summary": {
+      "zh-TW": "美國與歐洲官員對通膨黏著度看法不一，導致利率預期分化。債券殖利率與科技股同日出現較大幅度擺盪。",
+      "en": "US and European officials differ on how sticky inflation remains, splitting rate expectations. Bond yields and tech shares swung sharply the same day."
+    },
+    "sources": [
+      { "name": "Financial Times", "url": "https://www.ft.com/", "stance": "Markets-first analysis" },
+      { "name": "Bloomberg", "url": "https://www.bloomberg.com/", "stance": "Data-heavy rate path scenarios" },
+      { "name": "CNBC", "url": "https://www.cnbc.com/", "stance": "Retail-investor angle" }
+    ],
+    "disagreements": {
+      "zh-TW": "部分分析認為波動屬正常重新定價；另有評論警告流動性緊縮風險被低估。",
+      "en": "Some call the moves a normal re-pricing; others warn liquidity-tightening risks are understated."
+    },
+    "trustScore": 79,
+    "trustBreakdown": {
+      "sourceDiversity": 21,
+      "outletReputation": 22,
+      "crossCorroboration": 19,
+      "recencyClarity": 17
+    },
+    "tags": ["rates", "markets", "central-banks"]
+  },
+  {
+    "id": "fin-02",
+    "category": "finance",
+    "adult": false,
+    "publishedAt": "2026-09-10T11:00:00Z",
+    "title": {
+      "zh-TW": "亞洲新創募資回溫，但估值仍低於 2021 高峰",
+      "en": "Asia startup fundraising rebounds, valuations still below 2021 peak"
+    },
+    "summary": {
+      "zh-TW": "種子與 A 輪交易量季增，後期輪次仍偏謹慎。投資人更重視單位經濟與路徑至獲利。",
+      "en": "Seed and Series A deal volume rose quarter-over-quarter; later rounds stay cautious. Investors emphasize unit economics and paths to profitability."
+    },
+    "sources": [
+      { "name": "Tech in Asia", "url": "https://www.techinasia.com/", "stance": "Regional deal flow focus" },
+      { "name": "PitchBook", "url": "https://pitchbook.com/", "stance": "Data-centric valuation note" }
+    ],
+    "disagreements": null,
+    "trustScore": 68,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 18,
+      "crossCorroboration": 16,
+      "recencyClarity": 20
+    },
+    "tags": ["startups", "VC", "Asia"]
+  },
+  {
+    "id": "tech-01",
+    "category": "tech",
+    "adult": false,
+    "publishedAt": "2026-09-13T09:45:00Z",
+    "title": {
+      "zh-TW": "新一代折疊手機量產良率提升，供應鏈股受關注",
+      "en": "Foldable phone yields improve; supply-chain stocks in focus"
+    },
+    "summary": {
+      "zh-TW": "多家組裝與面板供應商報告良率改善，分析師上調部分出貨預估。消費者接受度與長期耐用性仍是觀察重點。",
+      "en": "Assemblers and panel makers report better yields; analysts raised some shipment estimates. Consumer uptake and long-term durability remain open questions."
+    },
+    "sources": [
+      { "name": "The Verge", "url": "https://www.theverge.com/", "stance": "Product UX angle" },
+      { "name": "Digitimes", "url": "https://www.digitimes.com/", "stance": "Supply-chain depth" },
+      { "name": "Nikkel Asia", "url": "https://asia.nikkei.com/", "stance": "Regional manufacturing" }
+    ],
+    "disagreements": {
+      "zh-TW": "消費媒體偏樂觀於設計；產業媒體對良率數字來源與可比性較謹慎。",
+      "en": "Consumer press is more upbeat on design; trade press is cautious about yield figures and comparability."
+    },
+    "trustScore": 71,
+    "trustBreakdown": {
+      "sourceDiversity": 20,
+      "outletReputation": 18,
+      "crossCorroboration": 17,
+      "recencyClarity": 16
+    },
+    "tags": ["hardware", "foldables", "supply-chain"]
+  },
+  {
+    "id": "tech-02",
+    "category": "tech",
+    "adult": false,
+    "publishedAt": "2026-09-09T16:20:00Z",
+    "title": {
+      "zh-TW": "大型雲端商擴大資料中心投資，電力與冷卻成瓶頸",
+      "en": "Hyperscalers expand data centers; power and cooling become bottlenecks"
+    },
+    "summary": {
+      "zh-TW": "資本支出指引上修，但多地電網與用水限制延遲部分專案。企業改採更高效散熱與再生能源合約。",
+      "en": "Capex guidance rose, yet grid and water limits delayed some sites. Firms push denser cooling and renewable PPAs."
+    },
+    "sources": [
+      { "name": "WSJ", "url": "https://www.wsj.com/", "stance": "Capex and utilities angle" },
+      { "name": "Ars Technica", "url": "https://arstechnica.com/", "stance": "Technical cooling detail" }
+    ],
+    "disagreements": null,
+    "trustScore": 76,
+    "trustBreakdown": {
+      "sourceDiversity": 15,
+      "outletReputation": 22,
+      "crossCorroboration": 19,
+      "recencyClarity": 20
+    },
+    "tags": ["cloud", "infrastructure", "energy"]
+  },
+  {
+    "id": "ai-01",
+    "category": "ai",
+    "adult": false,
+    "publishedAt": "2026-09-14T02:00:00Z",
+    "title": {
+      "zh-TW": "開源模型新版本在多語基準接近專有系統",
+      "en": "New open-weight model nears proprietary systems on multilingual benchmarks"
+    },
+    "summary": {
+      "zh-TW": "社群釋出的模型在翻譯與推理基準上縮小落差，但仍落後於最頂尖專有模型的工具使用與長上下文表現。授權條款允許研究與多數商用。",
+      "en": "A community release narrowed gaps on translation and reasoning benches, while still trailing top proprietary systems on tool use and long context. License permits research and most commercial use."
+    },
+    "sources": [
+      { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog", "stance": "Benchmarks from release notes" },
+      { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/", "stance": "Caveats on eval gaming" },
+      { "name": "Wired", "url": "https://www.wired.com/", "stance": "Industry competition frame" }
+    ],
+    "disagreements": {
+      "zh-TW": "支持者強調開源追趕速度；懷疑者指出基準可能過擬合、真實工作負載差距仍大。",
+      "en": "Boosters stress catch-up speed; skeptics note possible eval overfitting and larger real-workload gaps."
+    },
+    "trustScore": 73,
+    "trustBreakdown": {
+      "sourceDiversity": 19,
+      "outletReputation": 20,
+      "crossCorroboration": 17,
+      "recencyClarity": 17
+    },
+    "tags": ["open-source", "benchmarks", "LLMs"]
+  },
+  {
+    "id": "ai-02",
+    "category": "ai",
+    "adult": false,
+    "publishedAt": "2026-09-08T10:00:00Z",
+    "title": {
+      "zh-TW": "多國提出 AI 標籤規範草案，產業呼吁統一標準",
+      "en": "Countries float AI labeling drafts; industry seeks interoperable standards"
+    },
+    "summary": {
+      "zh-TW": "草案要求對合成媒體與自動化決策揭露。科技公會警告碎片化合規成本，公民團體則要求更嚴格罰則。",
+      "en": "Drafts would require disclosure for synthetic media and automated decisions. Trade groups warn of fragmented compliance costs; civic groups want stronger penalties."
+    },
+    "sources": [
+      { "name": "Politico", "url": "https://www.politico.com/", "stance": "Policy process" },
+      { "name": "Rest of World", "url": "https://restofworld.org/", "stance": "Global South impact" }
+    ],
+    "disagreements": {
+      "zh-TW": "對「標籤是否足夠」看法分裂：一方認為透明即可，另一方要求事前審核。",
+      "en": "Split on whether labels suffice: some say transparency is enough; others demand pre-clearance."
+    },
+    "trustScore": 70,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 19,
+      "crossCorroboration": 17,
+      "recencyClarity": 18
+    },
+    "tags": ["policy", "regulation", "disclosure"]
+  },
+  {
+    "id": "int-03",
+    "category": "international",
+    "adult": false,
+    "publishedAt": "2026-09-07T12:00:00Z",
+    "title": {
+      "zh-TW": "人道援助走廊暫時重開，運量仍遠低於需求",
+      "en": "Aid corridor briefly reopens; volumes far below need"
+    },
+    "summary": {
+      "zh-TW": "國際組織證實有限車隊通過檢查站，但燃料與安全條件不穩。各方對可持續性說法不一。",
+      "en": "Agencies confirmed limited convoys through checkpoints, but fuel and security remain fragile. Parties disagree on how sustainable access will be."
+    },
+    "sources": [
+      { "name": "Al Jazeera", "url": "https://www.aljazeera.com/", "stance": "On-the-ground access focus" },
+      { "name": "Reuters", "url": "https://www.reuters.com/", "stance": "Verified convoy counts" },
+      { "name": "UN News", "url": "https://news.un.org/", "stance": "Agency statements" }
+    ],
+    "disagreements": {
+      "zh-TW": "對通行「是否構成實質改善」解讀不同；數字口徑（計畫量 vs 實際到達）不一致。",
+      "en": "Views differ on whether access is a material improvement; planned vs delivered volumes are reported inconsistently."
+    },
+    "trustScore": 77,
+    "trustBreakdown": {
+      "sourceDiversity": 21,
+      "outletReputation": 20,
+      "crossCorroboration": 19,
+      "recencyClarity": 17
+    },
+    "tags": ["humanitarian", "conflict", "aid"]
+  },
+  {
+    "id": "fin-03",
+    "category": "finance",
+    "adult": false,
+    "publishedAt": "2026-09-06T07:30:00Z",
+    "title": {
+      "zh-TW": "零售通膨數據溫和，市場提高年內降息機率",
+      "en": "Milder retail inflation print lifts odds of cuts this year"
+    },
+    "summary": {
+      "zh-TW": "核心服務通膨略降，能源價格回落。期貨市場上調降息機率，但官員重申「數據依賴」。",
+      "en": "Core services eased slightly and energy prices fell. Futures raised cut odds, while officials reiterated a data-dependent stance."
+    },
+    "sources": [
+      { "name": "Bloomberg", "url": "https://www.bloomberg.com/", "stance": "Market-implied odds" },
+      { "name": "Reuters", "url": "https://www.reuters.com/", "stance": "Official commentary" }
+    ],
+    "disagreements": null,
+    "trustScore": 80,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 24,
+      "crossCorroboration": 22,
+      "recencyClarity": 18
+    },
+    "tags": ["inflation", "rates", "macro"]
+  },
+  {
+    "id": "adult-01",
+    "category": "adult",
+    "adult": true,
+    "publishedAt": "2026-09-05T18:00:00Z",
+    "title": {
+      "zh-TW": "【成人／NSFW】成人產業工會推動表演者健康保險試點",
+      "en": "[Adult/NSFW] Adult-industry union pushes performer health-insurance pilot"
+    },
+    "summary": {
+      "zh-TW": "（明確成人主題樣本）工會與平台討論為登記表演者提供基本健保試點，涵蓋定期檢查與心理健康資源。內容僅供選擇開啟成人區後瀏覽。",
+      "en": "(Clearly labeled adult-topic sample) A union and platforms discuss a basic health-insurance pilot for registered performers, covering checkups and mental-health resources. Shown only after adult-zone opt-in."
+    },
+    "sources": [
+      { "name": "Industry trade press (sample)", "url": "https://example.com/adult-health-pilot", "stance": "Labor framing" },
+      { "name": "Public health NGO brief (sample)", "url": "https://example.com/performer-health", "stance": "Health access angle" }
+    ],
+    "disagreements": {
+      "zh-TW": "支持者視其為職業安全進步；批評者質疑資金永續與監管範圍。",
+      "en": "Supporters call it an occupational-safety step; critics question funding durability and regulatory scope."
+    },
+    "trustScore": 58,
+    "trustBreakdown": {
+      "sourceDiversity": 12,
+      "outletReputation": 12,
+      "crossCorroboration": 14,
+      "recencyClarity": 20
+    },
+    "tags": ["adult", "labor", "health", "NSFW"]
+  },
+  {
+    "id": "adult-02",
+    "category": "adult",
+    "adult": true,
+    "publishedAt": "2026-09-04T15:00:00Z",
+    "title": {
+      "zh-TW": "【成人／NSFW】法院就成人內容年齡驗證法提出部分合憲見解",
+      "en": "[Adult/NSFW] Court issues partial ruling on adult-content age-verification law"
+    },
+    "summary": {
+      "zh-TW": "（明確成人主題樣本）法院認可保護未成年人之目標，但要求政府證明較少侵害隱私的替代方案不足。本案仍可能上訴。",
+      "en": "(Clearly labeled adult-topic sample) The court accepted the goal of protecting minors but required the state to show less privacy-invasive alternatives are insufficient. Appeal remains possible."
+    },
+    "sources": [
+      { "name": "Legal news wire (sample)", "url": "https://example.com/age-verify-ruling", "stance": "Procedural summary" },
+      { "name": "Civil liberties analysis (sample)", "url": "https://example.com/privacy-vs-av", "stance": "Privacy critique" }
+    ],
+    "disagreements": {
+      "zh-TW": "隱私倡議者與兒少保護團體對「合理驗證強度」標準嚴重分歧。",
+      "en": "Privacy advocates and child-protection groups sharply disagree on what verification intensity is reasonable."
+    },
+    "trustScore": 64,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 15,
+      "crossCorroboration": 16,
+      "recencyClarity": 19
+    },
+    "tags": ["adult", "law", "privacy", "NSFW"]
+  },
+  {
+    "id": "adult-03",
+    "category": "adult",
+    "adult": true,
+    "publishedAt": "2026-09-03T12:00:00Z",
+    "title": {
+      "zh-TW": "【成人／NSFW】主流支付商調整成人內容商戶風險分級政策",
+      "en": "[Adult/NSFW] Major payment firms tweak adult-merchant risk tiers"
+    },
+    "summary": {
+      "zh-TW": "（明確成人主題樣本）部分支付通路提高合規文件要求並調整手續費；獨立創作者擔憂現金流中斷。政策文件為公開摘要等級。",
+      "en": "(Clearly labeled adult-topic sample) Some payment rails raised compliance paperwork and fees; independent creators worry about cash-flow gaps. Based on public policy summaries only."
+    },
+    "sources": [
+      { "name": "Payments trade outlet (sample)", "url": "https://example.com/adult-merchant-tiers", "stance": "Risk/compliance" },
+      { "name": "Creator advocacy note (sample)", "url": "https://example.com/creator-payments", "stance": "Creator impact" }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 11,
+      "outletReputation": 13,
+      "crossCorroboration": 13,
+      "recencyClarity": 18
+    },
+    "tags": ["adult", "payments", "creators", "NSFW"]
+  }
+]

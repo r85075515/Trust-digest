@@ -1,0 +1,38 @@
+import storiesData from "../../data/stories.json";
+import type { Category, Story } from "./types";
+
+const stories = storiesData as Story[];
+
+export function getAllStories(): Story[] {
+  return stories;
+}
+
+export function getMainStories(): Story[] {
+  return stories.filter((s) => !s.adult);
+}
+
+export function getAdultStories(): Story[] {
+  return stories.filter((s) => s.adult);
+}
+
+export function getStoryById(id: string): Story | undefined {
+  return stories.find((s) => s.id === id);
+}
+
+export function getStoriesByCategory(category: Category | "all"): Story[] {
+  if (category === "all") return getMainStories();
+  if (category === "adult") return getAdultStories();
+  return getMainStories().filter((s) => s.category === category);
+}
+
+export const CATEGORY_LABELS: Record<
+  Category | "all",
+  { en: string; "zh-TW": string }
+> = {
+  all: { en: "All", "zh-TW": "全部" },
+  international: { en: "International", "zh-TW": "國際" },
+  finance: { en: "Finance", "zh-TW": "財經" },
+  tech: { en: "Tech", "zh-TW": "科技" },
+  ai: { en: "AI", "zh-TW": "人工智慧" },
+  adult: { en: "Adult / NSFW", "zh-TW": "成人／NSFW" },
+};

@@ -1,0 +1,58 @@
+export type Category = "international" | "finance" | "tech" | "ai" | "adult";
+export type Language = "zh-TW" | "en";
+
+export interface SourceOutlet {
+  name: string;
+  url: string;
+  stance?: string;
+}
+
+export interface LocalizedText {
+  "zh-TW": string;
+  en: string;
+}
+
+export interface TrustBreakdown {
+  sourceDiversity: number; // 0-25
+  outletReputation: number; // 0-25
+  crossCorroboration: number; // 0-25
+  recencyClarity: number; // 0-25
+}
+
+export interface Story {
+  id: string;
+  category: Category;
+  adult: boolean;
+  publishedAt: string;
+  title: LocalizedText;
+  summary: LocalizedText;
+  sources: SourceOutlet[];
+  disagreements: LocalizedText | null;
+  trustScore: number;
+  trustBreakdown: TrustBreakdown;
+  tags: string[];
+}
+
+export type InteractionType = "open" | "save" | "not_interested";
+
+export interface UserInteraction {
+  storyId: string;
+  type: InteractionType;
+  at: string;
+}
+
+export interface PreferenceWeights {
+  international: number;
+  finance: number;
+  tech: number;
+  ai: number;
+}
+
+export interface PersonalizationState {
+  interactions: UserInteraction[];
+  weights: PreferenceWeights;
+  savedIds: string[];
+  notInterestedIds: string[];
+  openedIds: string[];
+  adultOptIn: boolean;
+}

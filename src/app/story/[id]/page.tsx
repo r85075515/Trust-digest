@@ -1,0 +1,175 @@
+"use client";
+
+import { use, useEffect } from "react";
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { Header } from "@/components/Header";
+import { TrustScoreBadge } from "@/components/TrustScoreBadge";
+import { TrustBreakdownPanel } from "@/components/TrustBreakdown";
+import { InteractionButtons } from "@/components/InteractionButtons";
+import { getStoryById, CATEGORY_LABELS } from "@/lib/stories";
+import { useLanguage } from "@/hooks/useLanguage";
+import { usePersonalization } from "@/hooks/usePersonalization";
+
+export default function StoryDetailPage({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}) {
+  const { id } = use(params);
+  const story = getStoryById(id);
+  const { lang, setLang, ready: langReady } = useLanguage();
+  const { state, ready, interact, setAdultOptIn } = usePersonalization();
+
+  useEffect(() => {
+    if (story && ready) {
+      interact(story, "open");
+    }
+    // record open once when ready
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [ready, story?.id]);
+
+  if (!story) {
+    notFound();
+  }
+
+  if (story.adult && ready && !state.adultOptIn) {
+    return (
+      <div className="min-h-screen">
+        <Header lang={lang} onLangChange={setLang} adultOptIn={false} />
+        <main className="mx-auto max-w-2xl px-4 py-16 text-center">
+          <p className="mb-4 text-slate-700">
+            {lang === "zh-TW"
+              ? "此為成人區內容，需先選擇加入。"
+              : "This is adult-zone content; opt-in required."}
+          </p>
+          <button
+            type="button"
+            onClick={() => setAdultOptIn(true)}
+            className="mr-2 rounded-lg bg-rose-700 px-4 py-2 text-sm font-semibold text-white"
+          >
+            {lang === "zh-TW" ? "選擇加入" : "Opt in"}
+          </button>
+          <Link href="/" className="text-sm text-blue-700 underline">
+            {lang === "zh-TW" ? "回首頁" : "Home"}
+          </Link>
+        </main>
+      </div>
+    );
+  }
+
+  if (!ready || !langReady) {
+    return (
+      <div className="flex min-h-screen items-center justify-center text-slate-500">
+        Loading…
+      </div>
+    );
+  }
+
+  return (
+    <div className="min-h-screen">
+      <Header
+        lang={lang}
+        onLangChange={setLang}
+        adultOptIn={state.adultOptIn}
+      />
+      <main className="mx-auto max-w-3xl px-4 py-6">
+        <Link
+          href={story.adult ? "/adult" : "/"}
+          className="mb-4 inline-block text-sm text-blue-700 hover:underline"
+        >
+          ← {lang === "zh-TW" ? "返回" : "Back"}
+        </Link>
+
+        <div className="mb-3 flex flex-wrap items-center gap-2">
+          <span className="rounded-md bg-slate-100 px-2 py-0.5 text-xs font-medium">
+            {CATEGORY_LABELS[story.category][lang]}
+          </span>
+          {story.adult && (
+            <span className="rounded-md bg-rose-100 px-2 py-0.5 text-xs font-semibold text-rose-800">
+              NSFW
+            </span>
+          )}
+          <TrustScoreBadge score={story.trustScore} lang={lang} />
+          <time className="text-xs text-slate-400">
+            {new Date(story.publishedAt).toLocaleString(
+              lang === "zh-TW" ? "zh-TW" : "en-US"
+            )}
+          </time>
+        </div>
+
+        <h1 className="mb-4 text-2xl font-bold leading-snug text-slate-900 sm:text-3xl">
+          {story.title[lang]}
+        </h1>
+
+        <p className="mb-6 text-base leading-relaxed text-slate-700">
+          {story.summary[lang]}
+        </p>
+
+        <div className="mb-6">
+          <InteractionButtons
+            story={story}
+            state={state}
+            lang={lang}
+            onSave={() => interact(story, "save")}
+            onNotInterested={() => interact(story, "not_interested")}
+          />
+        </div>
+
+        <section className="mb-6">
+          <h2 className="mb-2 text-sm font-semibold text-slate-900">
+            {lang === "zh-TW" ? "來源媒體" : "Source outlets"}
+          </h2>
+          <ul className="space-y-2">
+            {story.sources.map((s) => (
+              <li
+                key={s.url + s.name}
+                className="rounded-lg border border-slate-200 bg-white px-3 py-2"
+              >
+                <a
+                  href={s.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-medium text-blue-700 hover:underline"
+                >
+                  {s.name}
+                </a>
+                {s.stance && (
+                  <p className="mt-0.5 text-xs text-slate-500">{s.stance}</p>
+                )}
+              </li>
+            ))}
+          </ul>
+        </section>
+
+        {story.disagreements && (
+          <section className="mb-6 rounded-xl border border-amber-200 bg-amber-50 p-4">
+            <h2 className="mb-1 text-sm font-semibold text-amber-900">
+              {lang === "zh-TW" ? "來源分歧" : "Disagreements"}
+            </h2>
+            <p className="text-sm leading-relaxed text-amber-950">
+              {story.disagreements[lang]}
+            </p>
+          </section>
+        )}
+
+        <TrustBreakdownPanel
+          breakdown={story.trustBreakdown}
+          score={story.trustScore}
+          lang={lang}
+        />
+
+        <div className="mt-6 flex flex-wrap gap-1.5">
+          {story.tags.map((tag) => (
+            <span
+              key={tag}
+              className="rounded-full bg-slate-100 px-2 py-0.5 text-xs text-slate-600"
+            >
+              #{tag}
+            </span>
+          ))}
+        </div>
+      </main>
+    </div>
+  );
+}
