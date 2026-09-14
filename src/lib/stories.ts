@@ -19,6 +19,10 @@ export function getStoryById(id: string): Story | undefined {
   return stories.find((s) => s.id === id);
 }
 
+export function getHeadlineStories(): Story[] {
+  return getMainStories().filter((s) => s.isHeadline);
+}
+
 export function getStoriesByCategory(category: Category | "all"): Story[] {
   if (category === "all") return getMainStories();
   if (category === "adult") return getAdultStories();
@@ -34,5 +38,5 @@ export const CATEGORY_LABELS: Record<
   finance: { en: "Finance", "zh-TW": "財經" },
   tech: { en: "Tech", "zh-TW": "科技" },
   ai: { en: "AI", "zh-TW": "人工智慧" },
-  adult: { en: "Adult / NSFW", "zh-TW": "成人／NSFW" },
+  adult: { en: "Adult / 限制級", "zh-TW": "成人／限制級" },
 };

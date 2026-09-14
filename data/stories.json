@@ -3,6 +3,12 @@
     "id": "int-01",
     "category": "international",
     "adult": false,
+    "isHeadline": true,
+    "imageUrl": "https://picsum.photos/seed/int-01/960/540",
+    "imageAlt": {
+      "zh-TW": "東亞峰會會場示意",
+      "en": "East Asia summit venue illustration"
+    },
     "publishedAt": "2026-09-12T08:00:00Z",
     "title": {
       "zh-TW": "東亞區域領袖峰會聚焦貿易與安全合作",
@@ -34,6 +40,11 @@
     "id": "int-02",
     "category": "international",
     "adult": false,
+    "imageUrl": "https://picsum.photos/seed/int-02/960/540",
+    "imageAlt": {
+      "zh-TW": "聯合國氣候談判會場示意",
+      "en": "UN climate talks venue illustration"
+    },
     "publishedAt": "2026-09-11T14:30:00Z",
     "title": {
       "zh-TW": "聯合國氣候融資談判延長至深夜仍無共識",
@@ -64,6 +75,12 @@
     "id": "fin-01",
     "category": "finance",
     "adult": false,
+    "isHeadline": true,
+    "imageUrl": "https://picsum.photos/seed/fin-01/960/540",
+    "imageAlt": {
+      "zh-TW": "金融市場交易廳示意",
+      "en": "Trading floor illustration"
+    },
     "publishedAt": "2026-09-13T06:15:00Z",
     "title": {
       "zh-TW": "主要央行暗示利率路徑分歧，股市波動升高",
@@ -95,6 +112,11 @@
     "id": "fin-02",
     "category": "finance",
     "adult": false,
+    "imageUrl": "https://picsum.photos/seed/fin-02/960/540",
+    "imageAlt": {
+      "zh-TW": "新創辦公空間示意",
+      "en": "Startup office illustration"
+    },
     "publishedAt": "2026-09-10T11:00:00Z",
     "title": {
       "zh-TW": "亞洲新創募資回溫，但估值仍低於 2021 高峰",
@@ -122,6 +144,11 @@
     "id": "tech-01",
     "category": "tech",
     "adult": false,
+    "imageUrl": "https://picsum.photos/seed/tech-01/960/540",
+    "imageAlt": {
+      "zh-TW": "折疊手機產品示意",
+      "en": "Foldable phone product illustration"
+    },
     "publishedAt": "2026-09-13T09:45:00Z",
     "title": {
       "zh-TW": "新一代折疊手機量產良率提升，供應鏈股受關注",
@@ -153,6 +180,11 @@
     "id": "tech-02",
     "category": "tech",
     "adult": false,
+    "imageUrl": "https://picsum.photos/seed/tech-02/960/540",
+    "imageAlt": {
+      "zh-TW": "資料中心機房示意",
+      "en": "Data center hall illustration"
+    },
     "publishedAt": "2026-09-09T16:20:00Z",
     "title": {
       "zh-TW": "大型雲端商擴大資料中心投資，電力與冷卻成瓶頸",
@@ -180,6 +212,11 @@
     "id": "ai-01",
     "category": "ai",
     "adult": false,
+    "imageUrl": "https://picsum.photos/seed/ai-01/960/540",
+    "imageAlt": {
+      "zh-TW": "人工智慧運算示意",
+      "en": "AI computing illustration"
+    },
     "publishedAt": "2026-09-14T02:00:00Z",
     "title": {
       "zh-TW": "開源模型新版本在多語基準接近專有系統",
@@ -211,6 +248,11 @@
     "id": "ai-02",
     "category": "ai",
     "adult": false,
+    "imageUrl": "https://picsum.photos/seed/ai-02/960/540",
+    "imageAlt": {
+      "zh-TW": "法規文件與科技示意",
+      "en": "Policy documents and tech illustration"
+    },
     "publishedAt": "2026-09-08T10:00:00Z",
     "title": {
       "zh-TW": "多國提出 AI 標籤規範草案，產業呼吁統一標準",
@@ -241,6 +283,11 @@
     "id": "int-03",
     "category": "international",
     "adult": false,
+    "imageUrl": "https://picsum.photos/seed/int-03/960/540",
+    "imageAlt": {
+      "zh-TW": "人道援助車隊示意",
+      "en": "Humanitarian aid convoy illustration"
+    },
     "publishedAt": "2026-09-07T12:00:00Z",
     "title": {
       "zh-TW": "人道援助走廊暫時重開，運量仍遠低於需求",
@@ -272,6 +319,11 @@
     "id": "fin-03",
     "category": "finance",
     "adult": false,
+    "imageUrl": "https://picsum.photos/seed/fin-03/960/540",
+    "imageAlt": {
+      "zh-TW": "通膨與消費數據示意",
+      "en": "Inflation and retail data illustration"
+    },
     "publishedAt": "2026-09-06T07:30:00Z",
     "title": {
       "zh-TW": "零售通膨數據溫和，市場提高年內降息機率",
@@ -299,87 +351,102 @@
     "id": "adult-01",
     "category": "adult",
     "adult": true,
+    "imageUrl": "https://picsum.photos/seed/adult-01-neon/960/540",
+    "imageAlt": {
+      "zh-TW": "限制級｜成人娛樂產業活動紅毯示意（編輯風格）",
+      "en": "Adult-rated｜Adult entertainment industry event red-carpet editorial illustration"
+    },
     "publishedAt": "2026-09-05T18:00:00Z",
     "title": {
-      "zh-TW": "【成人／NSFW】成人產業工會推動表演者健康保險試點",
-      "en": "[Adult/NSFW] Adult-industry union pushes performer health-insurance pilot"
+      "zh-TW": "【限制級】人氣 AV 女優宣布暫停拍片一年，轉戰品牌與線上訂閱",
+      "en": "[Adult 18+] Popular AV actress pauses filming for a year to focus on brand deals and subscriptions"
     },
     "summary": {
-      "zh-TW": "（明確成人主題樣本）工會與平台討論為登記表演者提供基本健保試點，涵蓋定期檢查與心理健康資源。內容僅供選擇開啟成人區後瀏覽。",
-      "en": "(Clearly labeled adult-topic sample) A union and platforms discuss a basic health-insurance pilot for registered performers, covering checkups and mental-health resources. Shown only after adult-zone opt-in."
+      "zh-TW": "（18+／限制級產業新聞）多位成年表演者與事務所確認：該女優將暫別新作檔期，改以個人品牌、寫真週邊與粉絲訂閱平台為主。業界評論指為「後專屬約」常見轉型；粉絲反應兩極。內容僅供選擇開啟成人區後瀏覽。",
+      "en": "(18+ / Adult-industry news) Multiple adult performers and agencies confirm she will skip new shoot schedules and lean into personal branding, photobook merch, and fan subscription platforms. Trade commentary calls it a common post-exclusive pivot; fan reaction is mixed. Shown only after adult-zone opt-in."
     },
     "sources": [
-      { "name": "Industry trade press (sample)", "url": "https://example.com/adult-health-pilot", "stance": "Labor framing" },
-      { "name": "Public health NGO brief (sample)", "url": "https://example.com/performer-health", "stance": "Health access angle" }
+      { "name": "AV industry trade desk (sample)", "url": "https://example.com/av-career-pivot", "stance": "Career / box-office framing" },
+      { "name": "Creator economy brief (sample)", "url": "https://example.com/performer-subscription", "stance": "Subscription revenue angle" }
     ],
     "disagreements": {
-      "zh-TW": "支持者視其為職業安全進步；批評者質疑資金永續與監管範圍。",
-      "en": "Supporters call it an occupational-safety step; critics question funding durability and regulatory scope."
+      "zh-TW": "粉絲媒體強調「告別感」；產業媒體則視為商業模式升級，未必等於退役。",
+      "en": "Fan media lean into farewell vibes; trade press frames it as a business-model upgrade, not necessarily retirement."
     },
-    "trustScore": 58,
+    "trustScore": 57,
     "trustBreakdown": {
       "sourceDiversity": 12,
-      "outletReputation": 12,
+      "outletReputation": 11,
       "crossCorroboration": 14,
       "recencyClarity": 20
     },
-    "tags": ["adult", "labor", "health", "NSFW"]
+    "tags": ["adult", "AV", "performer", "career", "限制級", "NSFW"]
   },
   {
     "id": "adult-02",
     "category": "adult",
     "adult": true,
+    "imageUrl": "https://picsum.photos/seed/adult-02-velvet/960/540",
+    "imageAlt": {
+      "zh-TW": "限制級｜成人平台政策與裝置示意（編輯風格）",
+      "en": "Adult-rated｜Adult platform policy and devices editorial illustration"
+    },
     "publishedAt": "2026-09-04T15:00:00Z",
     "title": {
-      "zh-TW": "【成人／NSFW】法院就成人內容年齡驗證法提出部分合憲見解",
-      "en": "[Adult/NSFW] Court issues partial ruling on adult-content age-verification law"
+      "zh-TW": "【限制級】主流訂閱平台收緊成人內容分級：露骨預覽將強制遮罩",
+      "en": "[Adult 18+] Major subscription platforms tighten adult ratings: explicit previews must be masked"
     },
     "summary": {
-      "zh-TW": "（明確成人主題樣本）法院認可保護未成年人之目標，但要求政府證明較少侵害隱私的替代方案不足。本案仍可能上訴。",
-      "en": "(Clearly labeled adult-topic sample) The court accepted the goal of protecting minors but required the state to show less privacy-invasive alternatives are insufficient. Appeal remains possible."
+      "zh-TW": "（18+／限制級平台政策）多家面向成人創作者的訂閱與短影音平台更新社群守則：公開預覽頁禁止未遮罩的露骨畫面，完整內容仍限驗證成年帳號。成人創作者擔憂曝光下滑；平台稱係為通過應用商店與廣告審核。",
+      "en": "(18+ / Adult platform policy) Several creator subscription and short-video platforms updated community rules: public previews cannot show unmasked explicit imagery; full content stays behind age-verified accounts. Adult creators worry about reach; platforms cite app-store and ad-review pressure."
     },
     "sources": [
-      { "name": "Legal news wire (sample)", "url": "https://example.com/age-verify-ruling", "stance": "Procedural summary" },
-      { "name": "Civil liberties analysis (sample)", "url": "https://example.com/privacy-vs-av", "stance": "Privacy critique" }
+      { "name": "Platform policy digest (sample)", "url": "https://example.com/adult-preview-mask", "stance": "Compliance / store review" },
+      { "name": "Adult creator advocacy (sample)", "url": "https://example.com/creator-reach-impact", "stance": "Creator monetization impact" }
     ],
     "disagreements": {
-      "zh-TW": "隱私倡議者與兒少保護團體對「合理驗證強度」標準嚴重分歧。",
-      "en": "Privacy advocates and child-protection groups sharply disagree on what verification intensity is reasonable."
+      "zh-TW": "平台強調「仍可發完整成人內容」；創作者認為預覽遮罩等於實質降流。",
+      "en": "Platforms stress full adult content remains allowed; creators say masked previews amount to a de facto reach cut."
     },
-    "trustScore": 64,
+    "trustScore": 62,
     "trustBreakdown": {
       "sourceDiversity": 14,
-      "outletReputation": 15,
-      "crossCorroboration": 16,
+      "outletReputation": 14,
+      "crossCorroboration": 15,
       "recencyClarity": 19
     },
-    "tags": ["adult", "law", "privacy", "NSFW"]
+    "tags": ["adult", "platform", "policy", "NSFW", "限制級"]
   },
   {
     "id": "adult-03",
     "category": "adult",
     "adult": true,
+    "imageUrl": "https://picsum.photos/seed/adult-03-studio/960/540",
+    "imageAlt": {
+      "zh-TW": "限制級｜成人影音展會攤位示意（編輯風格）",
+      "en": "Adult-rated｜Adult video expo booth editorial illustration"
+    },
     "publishedAt": "2026-09-03T12:00:00Z",
     "title": {
-      "zh-TW": "【成人／NSFW】主流支付商調整成人內容商戶風險分級政策",
-      "en": "[Adult/NSFW] Major payment firms tweak adult-merchant risk tiers"
+      "zh-TW": "【限制級】東京成人影音展票房回溫，獨立片商搶攻海外訂閱",
+      "en": "[Adult 18+] Tokyo adult video expo attendance rebounds; indie studios chase overseas subs"
     },
     "summary": {
-      "zh-TW": "（明確成人主題樣本）部分支付通路提高合規文件要求並調整手續費；獨立創作者擔憂現金流中斷。政策文件為公開摘要等級。",
-      "en": "(Clearly labeled adult-topic sample) Some payment rails raised compliance paperwork and fees; independent creators worry about cash-flow gaps. Based on public policy summaries only."
+      "zh-TW": "（18+／限制級產業新聞）本屆展會成年觀眾入場人數年增，攤位以女優見面會、限定碟與 VR 試作為主。多家獨立片商透露海外粉絲訂閱占比上升，同時面臨支付通道與分級標示合規成本。僅限成人區顯示。",
+      "en": "(18+ / Adult-industry news) Adult attendance at this year's expo rose year-over-year; booths centered on performer meet-and-greets, limited discs, and VR demos. Indie studios report a rising share of overseas fan subscriptions while facing payment-rail and labeling compliance costs. Adult zone only."
     },
     "sources": [
-      { "name": "Payments trade outlet (sample)", "url": "https://example.com/adult-merchant-tiers", "stance": "Risk/compliance" },
-      { "name": "Creator advocacy note (sample)", "url": "https://example.com/creator-payments", "stance": "Creator impact" }
+      { "name": "Adult entertainment trade (sample)", "url": "https://example.com/av-expo-attendance", "stance": "Expo floor / attendance" },
+      { "name": "Streaming analytics note (sample)", "url": "https://example.com/adult-overseas-subs", "stance": "Overseas subscription mix" }
     ],
     "disagreements": null,
-    "trustScore": 55,
+    "trustScore": 54,
     "trustBreakdown": {
       "sourceDiversity": 11,
-      "outletReputation": 13,
+      "outletReputation": 12,
       "crossCorroboration": 13,
       "recencyClarity": 18
     },
-    "tags": ["adult", "payments", "creators", "NSFW"]
+    "tags": ["adult", "AV", "expo", "industry", "限制級", "NSFW"]
   }
 ]

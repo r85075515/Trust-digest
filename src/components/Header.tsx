@@ -33,7 +33,7 @@ export function Header({ lang, onLangChange, adultOptIn }: HeaderProps) {
               href="/adult"
               className="rounded-md px-2 py-1 text-rose-700 hover:bg-rose-50"
             >
-              {lang === "zh-TW" ? "成人區" : "Adult"}
+              {lang === "zh-TW" ? "限制級" : "Adult 18+"}
             </Link>
           )}
           <div className="ml-1 flex rounded-lg border border-slate-200 p-0.5">

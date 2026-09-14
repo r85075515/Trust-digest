@@ -1,0 +1,112 @@
+"use client";
+
+import Image from "next/image";
+import Link from "next/link";
+import type { Language, PersonalizationState, Story } from "@/lib/types";
+import { CATEGORY_LABELS } from "@/lib/stories";
+import { TrustScoreBadge } from "./TrustScoreBadge";
+import { InteractionButtons } from "./InteractionButtons";
+
+interface Props {
+  stories: Story[];
+  lang: Language;
+  state: PersonalizationState;
+  onOpen: (story: Story) => void;
+  onSave: (story: Story) => void;
+  onNotInterested: (story: Story) => void;
+}
+
+export function HeadlineBlock({
+  stories,
+  lang,
+  state,
+  onOpen,
+  onSave,
+  onNotInterested,
+}: Props) {
+  if (stories.length === 0) return null;
+
+  return (
+    <section className="mb-8">
+      <div className="mb-3 flex items-baseline gap-2">
+        <span className="rounded bg-amber-500 px-2 py-0.5 text-xs font-bold uppercase tracking-wider text-white">
+          {lang === "zh-TW" ? "頭條" : "HEADLINE"}
+        </span>
+        <h2 className="text-sm font-semibold text-slate-700">
+          {lang === "zh-TW" ? "今日重要新聞" : "Top stories"}
+        </h2>
+      </div>
+      <div
+        className={`grid gap-4 ${
+          stories.length > 1 ? "md:grid-cols-2" : "grid-cols-1"
+        }`}
+      >
+        {stories.map((story) => {
+          const alt = story.imageAlt?.[lang] ?? story.title[lang];
+          return (
+            <article
+              key={story.id}
+              className="overflow-hidden rounded-2xl border-2 border-amber-200 bg-gradient-to-b from-amber-50/80 to-white shadow-md"
+            >
+              {story.imageUrl && (
+                <Link
+                  href={`/story/${story.id}`}
+                  onClick={() => onOpen(story)}
+                  className="block"
+                >
+                  <div className="relative aspect-[21/9] w-full bg-slate-200 sm:aspect-[2/1]">
+                    <Image
+                      src={story.imageUrl}
+                      alt={alt}
+                      fill
+                      className="object-cover"
+                      sizes="100vw"
+                      priority
+                      unoptimized
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
+                    <span className="absolute left-3 top-3 rounded-md bg-amber-500 px-2.5 py-1 text-xs font-bold text-white shadow">
+                      {lang === "zh-TW" ? "頭條" : "HEADLINE"}
+                    </span>
+                  </div>
+                </Link>
+              )}
+              <div className="p-5 sm:p-6">
+                <div className="mb-2 flex flex-wrap items-center gap-2">
+                  <span className="rounded-md bg-slate-100 px-2 py-0.5 text-xs font-medium text-slate-700">
+                    {CATEGORY_LABELS[story.category][lang]}
+                  </span>
+                  <TrustScoreBadge
+                    score={story.trustScore}
+                    lang={lang}
+                    size="sm"
+                  />
+                </div>
+                <Link
+                  href={`/story/${story.id}`}
+                  onClick={() => onOpen(story)}
+                  className="block"
+                >
+                  <h3 className="mb-2 text-xl font-bold leading-snug text-slate-900 hover:text-blue-700 sm:text-2xl">
+                    {story.title[lang]}
+                  </h3>
+                  <p className="mb-4 line-clamp-3 text-sm leading-relaxed text-slate-600 sm:text-base">
+                    {story.summary[lang]}
+                  </p>
+                </Link>
+                <InteractionButtons
+                  story={story}
+                  state={state}
+                  lang={lang}
+                  onSave={() => onSave(story)}
+                  onNotInterested={() => onNotInterested(story)}
+                  compact
+                />
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    </section>
+  );
+}

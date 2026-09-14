@@ -1,8 +1,8 @@
 # Trust-digest
 
-Multi-source **verified news digest** MVP — bilingual (**Traditional Chinese / English**), explainable trust scores, personalization, and a **separate adult/NSFW zone** (off by default).
+Multi-source **verified news digest** MVP — bilingual (**Traditional Chinese / English**), explainable trust scores, personalization, cover images, headline treatment, and a **separate adult/限制級 zone** (off by default).
 
-> Demo uses **static JSON seed data** so it runs offline without live scraping.
+> Demo uses **static JSON seed data** so it runs offline without live scraping. Cover images use seeded [picsum.photos](https://picsum.photos) placeholders.
 
 ## Quick start
 
@@ -24,9 +24,21 @@ Open [http://localhost:3000](http://localhost:3000).
 
 - **Categories:** International, Finance, Tech, AI (main feed)
 - **Languages:** Every story has `zh-TW` + `en` title & summary (toggle in header)
-- **Story cards / detail:** plain-language summary, multiple outlet links, disagreements when present, trust score 0–100 with breakdown, tags
+- **Images:** Optional `imageUrl` + localized `imageAlt` on each story — thumbnails on cards, larger cover on detail
+- **Headlines:** Stories with `isHeadline: true` appear in a distinct 頭條 / HEADLINE block at the top of the home feed (1–2 items)
+- **Story cards / detail:** plain-language summary, cover image, multiple outlet links, disagreements when present, trust score 0–100 with breakdown, tags
 - **Personalization:** opens / saves / not-interested via `localStorage`; feed ranking uses category preference weights
-- **Adult / NSFW:** `/adult` only, **default off**, explicit opt-in; never mixed into the main feed
+- **Adult / 限制級:** `/adult` only, **default off**, explicit 18+ opt-in; never mixed into the main feed. Seed cards cover legal adult-entertainment industry / performer career / platform-policy topics only
+
+## Story data shape (`data/stories.json`)
+
+| Field | Notes |
+|-------|--------|
+| `id`, `category`, `adult`, `publishedAt` | Core identity |
+| `isHeadline?` | When `true`, eligible for the home HEADLINE block |
+| `imageUrl?`, `imageAlt?` | Cover/thumbnail (`imageAlt` is `{ "zh-TW", "en" }`) |
+| `title`, `summary` | LocalizedText |
+| `sources[]`, `disagreements`, `trustScore`, `trustBreakdown`, `tags` | As before |
 
 ## Trust-score methodology (honest)
 
@@ -45,18 +57,20 @@ Breakdown UI shows each factor. Seed values are **author-assigned for the demo**
 
 ## Copyright note
 
-Trust-digest shows **original short summaries** and **links to source outlets**. It does **not** republish full articles. Respect publisher terms; do not scrape paywalled full text. Sample adult cards use clearly labeled placeholder/example URLs for legal adult *topics* only.
+Trust-digest shows **original short summaries** and **links to source outlets**. It does **not** republish full articles. Respect publisher terms; do not scrape paywalled full text. Sample adult cards use clearly labeled placeholder/example URLs for legal adult *topics* only (18+ performers/industry/news). Cover images are placeholder stock via picsum.
 
 ## Project layout
 
 ```
-data/stories.json          # Offline seed stories (incl. adult samples)
-src/app/page.tsx           # Main feed
+data/stories.json              # Offline seed stories (incl. adult samples + images)
+src/app/page.tsx               # Main feed + HEADLINE block
 src/app/story/[id]/page.tsx
-src/app/adult/page.tsx     # Opt-in adult zone
-src/lib/personalization.ts # localStorage weights & ranking
-src/lib/trust.ts           # Score helpers / labels
-src/lib/rss-ingest.ts      # Stub + TODOs for future RSS
+src/app/adult/page.tsx         # Opt-in adult / 限制級 zone
+src/components/HeadlineBlock.tsx
+src/components/StoryCard.tsx
+src/lib/personalization.ts     # localStorage weights & ranking
+src/lib/trust.ts               # Score helpers / labels
+src/lib/rss-ingest.ts          # Stub + TODOs for future RSS
 ```
 
 ## 14-day roadmap

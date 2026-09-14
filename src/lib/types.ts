@@ -23,6 +23,12 @@ export interface Story {
   id: string;
   category: Category;
   adult: boolean;
+  /** Featured as HEADLINE / 頭條 on the home feed */
+  isHeadline?: boolean;
+  /** Cover / thumbnail image URL */
+  imageUrl?: string;
+  /** Optional alt text for the cover image */
+  imageAlt?: LocalizedText;
   publishedAt: string;
   title: LocalizedText;
   summary: LocalizedText;

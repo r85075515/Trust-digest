@@ -34,16 +34,21 @@ export default function AdultPage() {
           <AdultBlocked lang={lang} onOptIn={() => setAdultOptIn(true)} />
         ) : (
           <>
-            <div className="mb-6 rounded-xl border border-rose-200 bg-rose-50 p-4">
-              <h1 className="mb-1 text-xl font-bold text-rose-950">
-                {lang === "zh-TW"
-                  ? "成人／NSFW 專區"
-                  : "Adult / NSFW zone"}
-              </h1>
+            <div className="mb-6 rounded-xl border border-rose-300 bg-rose-50 p-4">
+              <div className="mb-1 flex flex-wrap items-center gap-2">
+                <span className="rounded bg-rose-700 px-2 py-0.5 text-[11px] font-bold tracking-wide text-white">
+                  {lang === "zh-TW" ? "限制級 18+" : "ADULT 18+"}
+                </span>
+                <h1 className="text-xl font-bold text-rose-950">
+                  {lang === "zh-TW"
+                    ? "成人／限制級專區"
+                    : "Adult / Restricted zone"}
+                </h1>
+              </div>
               <p className="text-sm text-rose-900/80">
                 {lang === "zh-TW"
-                  ? "與主訊息流完全分離。僅含清楚標示的合法成人主題示範卡片（摘要＋連結，非全文）。"
-                  : "Fully separate from the main feed. Clearly labeled legal adult-topic sample cards only (summaries + links, not full text)."}
+                  ? "與主訊息流完全分離。僅含清楚標示的合法成人娛樂產業／表演者／平台政策新聞樣本（摘要＋連結，非全文）。不含未成年相關內容。"
+                  : "Fully separate from the main feed. Clearly labeled legal adult-entertainment industry / performer / platform-policy sample cards only (summaries + links, not full text). No content involving minors."}
               </p>
               <button
                 type="button"
