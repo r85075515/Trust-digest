@@ -43,6 +43,7 @@ export const CATEGORY_LABELS: Record<
   tech: { en: "Tech", "zh-TW": "科技" },
   ai: { en: "AI", "zh-TW": "人工智慧" },
   entertainment: { en: "Hot gossip (verifiable)", "zh-TW": "熱門八卦（可驗證）" },
+  eastAsiaGossip: { en: "East Asia gossip", "zh-TW": "東亞八卦" },
   society: { en: "Society", "zh-TW": "社會" },
   beauty: { en: "Beauty", "zh-TW": "美妝" },
 };

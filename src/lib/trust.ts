@@ -29,12 +29,40 @@ export function isDevelopingCasualtyText(...parts: Array<string | undefined | nu
 /** Cap numeric score for developing casualty stories (never green "high"). */
 export const CASUALTY_SCORE_CAP = 55;
 
+/** Cap for developing / single-source rumor gossip (绯闻未证实 etc.). */
+export const RUMOR_GOSSIP_SCORE_CAP = 55;
+
+/** Developing / unverified gossip & rumor signals (EN + ZH). */
+const RUMOR_GOSSIP_KEYWORDS = [
+  "allegedly", "alleged", "rumour", "rumor", "rumored", "rumoured",
+  "unconfirmed", "unverified", "sources say", "insiders say", "reportedly",
+  "according to sources", "according to reports", "speculation",
+  "爆料未證實", "爆料未证实", "未證實", "未证实", "緋聞未證實", "绯闻未证实",
+  "緋聞", "绯闻", "傳出", "傳", "據傳", "据传", "網傳", "网传",
+  "疑似", "八卦爆料", "獨家爆料", "独家爆料", "有人爆料",
+];
+
+export function isDevelopingGossipText(
+  ...parts: Array<string | undefined | null>
+): boolean {
+  const text = parts.filter(Boolean).join(" ");
+  if (!text.trim()) return false;
+  const lower = text.toLowerCase();
+  // Avoid false positive on lone CJK 「傳」 inside unrelated compounds by also
+  // checking phrase forms; still allow common gossip markers.
+  return RUMOR_GOSSIP_KEYWORDS.some((k) => {
+    if (/[a-z]/i.test(k)) return lower.includes(k.toLowerCase());
+    return text.includes(k);
+  });
+}
+
 export function applyTrustCaps(
   score: number,
-  opts: { isCasualty?: boolean } = {}
+  opts: { isCasualty?: boolean; isRumorGossip?: boolean } = {}
 ): number {
   let s = score;
   if (opts.isCasualty) s = Math.min(s, CASUALTY_SCORE_CAP);
+  if (opts.isRumorGossip) s = Math.min(s, RUMOR_GOSSIP_SCORE_CAP);
   return Math.max(0, Math.min(100, Math.round(s)));
 }
 
@@ -49,9 +77,10 @@ export function honestyKind(opts: {
   sourceCount: number;
   hasDisagreement?: boolean;
   isCasualty?: boolean;
+  isRumorGossip?: boolean;
 }): HonestyKind {
-  if (opts.isCasualty) {
-    // Developing casualty: never claim multi-source "high trust"
+  if (opts.isCasualty || opts.isRumorGossip) {
+    // Developing casualty / rumor gossip: never claim multi-source "high trust"
     if (opts.hasDisagreement) return "unconfirmed";
     if ((opts.sourceCount ?? 0) <= 1) return "unconfirmed";
     return "cautious";

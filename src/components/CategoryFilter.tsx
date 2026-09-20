@@ -11,6 +11,7 @@ const MAIN: Array<Category | "all"> = [
   "tech",
   "ai",
   "entertainment",
+  "eastAsiaGossip",
 ];
 
 export function CategoryFilter({

@@ -3,7 +3,7 @@
  * Summarize + link only — never republish full articles.
  */
 
-import type { Category, Story, TrustBreakdown } from "./types";
+import type { Category, EastAsiaRegion, Story, TrustBreakdown } from "./types";
 import { computeTrustScore } from "./trust";
 
 export interface FeedSource {
@@ -13,12 +13,14 @@ export interface FeedSource {
   category: Category;
   language: "zh-TW" | "en" | "mixed";
   domain: string;
+  /** Regional tag for eastAsiaGossip feeds */
+  region?: EastAsiaRegion;
 }
 
 /**
  * Curated allow-list (verified HTTP 200).
  * Entertainment = hot verifiable celebrity gossip (標驗證／多源) — NOT Broadway reviews or film-festival academia.
- * Society feeds remapped to international; beauty skipped. Main chips: intl/finance/tech/AI/gossip.
+ * Society feeds remapped to international; beauty skipped. Main chips: intl/finance/tech/AI/Western gossip/East Asia gossip.
  */
 export const ALLOWED_FEEDS: FeedSource[] = [
   // International
@@ -169,7 +171,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     language: "en",
     domain: "blog.google",
   },
-  // Entertainment — celebrity / pop culture (TW·CN·JP·KR·US/EU)
+  // Entertainment — Western/global verifiable celebrity gossip (NOT East Asia lane)
   {
     id: "billboard",
     name: "Billboard",
@@ -185,22 +187,6 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     category: "entertainment",
     language: "en",
     domain: "rollingstone.com",
-  },
-  {
-    id: "soompi",
-    name: "Soompi",
-    url: "https://www.soompi.com/feed",
-    category: "entertainment",
-    language: "en",
-    domain: "soompi.com",
-  },
-  {
-    id: "koreaboo",
-    name: "Koreaboo",
-    url: "https://www.koreaboo.com/feed/",
-    category: "entertainment",
-    language: "en",
-    domain: "koreaboo.com",
   },
   {
     id: "tmz",
@@ -241,6 +227,97 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     category: "entertainment",
     language: "en",
     domain: "bbc.com",
+  },
+  // East Asia gossip — TW / JP / KR / CN (separate from Western entertainment)
+  {
+    id: "ettoday-star",
+    name: "ETtoday 影劇",
+    url: "https://feeds.feedburner.com/ettoday/star",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "ettoday.net",
+    region: "tw",
+  },
+  {
+    id: "gnews-tw-ent",
+    name: "Google News TW Entertainment",
+    url: "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "news.google.com",
+    region: "tw",
+  },
+  {
+    id: "ettoday-fashion",
+    name: "ETtoday 時尚",
+    url: "https://feeds.feedburner.com/ettoday/fashion",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "ettoday.net",
+    region: "tw",
+  },
+  {
+    id: "gnews-jp-ent",
+    name: "Google News JP 娛樂/明星",
+    url: "https://news.google.com/rss/search?q=%E5%A8%9B%E6%A8%82+OR+%E6%98%8E%E6%98%9F&hl=ja&gl=JP&ceid=JP:ja",
+    category: "eastAsiaGossip",
+    language: "mixed",
+    domain: "news.google.com",
+    region: "jp",
+  },
+  {
+    id: "soompi",
+    name: "Soompi",
+    url: "https://www.soompi.com/feed",
+    category: "eastAsiaGossip",
+    language: "en",
+    domain: "soompi.com",
+    region: "kr",
+  },
+  {
+    id: "gnews-kr-kpop",
+    name: "Google News KR K-pop/연예",
+    url: "https://news.google.com/rss/search?q=K-pop+OR+%EC%97%B0%EC%98%88&hl=ko&gl=KR&ceid=KR:ko",
+    category: "eastAsiaGossip",
+    language: "mixed",
+    domain: "news.google.com",
+    region: "kr",
+  },
+  {
+    id: "koreaboo",
+    name: "Koreaboo",
+    url: "https://www.koreaboo.com/feed",
+    category: "eastAsiaGossip",
+    language: "en",
+    domain: "koreaboo.com",
+    region: "kr",
+  },
+  {
+    id: "sina-ent-hot",
+    name: "新浪娛樂熱滾",
+    url: "https://rss.sina.com.cn/ent/hot_roll.xml",
+    category: "eastAsiaGossip",
+    language: "mixed",
+    domain: "sina.com.cn",
+    region: "cn",
+  },
+  {
+    id: "sina-ent-all",
+    name: "新浪娛樂全新聞",
+    url: "https://rss.sina.com.cn/news/allnews/ent.xml",
+    category: "eastAsiaGossip",
+    language: "mixed",
+    domain: "sina.com.cn",
+    region: "cn",
+  },
+  {
+    id: "gnews-cn-ent",
+    name: "Google News CN 娱乐明星",
+    url: "https://news.google.com/rss/search?q=%E5%A8%B1%E4%B9%90+%E6%98%8E%E6%98%9F&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+    category: "eastAsiaGossip",
+    language: "mixed",
+    domain: "news.google.com",
+    region: "cn",
   },
   // Society — crime, accidents, public safety, civic incidents
   {
@@ -340,7 +417,11 @@ export const OUTLET_REPUTATION: Record<string, number> = {
   "billboard.com": 16,
   "rollingstone.com": 17,
   "soompi.com": 14,
-  "koreaboo.com": 13,
+  "koreaboo.com": 10,
+  "ettoday.net": 13,
+  "sina.com.cn": 12,
+  "sina.com": 12,
+  "news.google.com": 12,
   "tmz.com": 12,
   "hollywoodlife.com": 12,
   "justjared.com": 12,
@@ -367,6 +448,7 @@ export interface RawFeedItem {
   pubDate: string;
   description: string;
   imageUrl?: string;
+  region?: EastAsiaRegion;
 }
 
 export interface StoryCluster {
@@ -376,6 +458,7 @@ export interface StoryCluster {
   bestImage?: string;
   publishedAt: string;
   disagreementHint: string | null;
+  region?: EastAsiaRegion;
 }
 
 const STOP = new Set([
@@ -392,8 +475,8 @@ const STOP = new Set([
 
 /** Celebrity / pop-culture signals (K-pop, J-pop, Hollywood, TW/HK/CN idols). */
 const ENTERTAINMENT_POSITIVE = [
-  "k-pop", "kpop", "j-pop", "jpop", "blackpink", "bts", "twice", "stray kids",
-  "aespa", "newjeans", "seventeen", "exo", "nct", "ive", "itzy", "black pink",
+  "k-pop", "kpop", "j-pop", "jpop", "blackpink", "twice comeback", "twice drops", "girl group twice", "k-pop group twice", "stray kids",
+  "aespa", "newjeans", "seventeen", "black pink",
   "jennie", "rosé", "jisoo", "jungkook", "taylor swift", "beyoncé",
   "beyonce", "lady gaga", "drake", "rihanna", "ariana grande", "billie eilish",
   "hollywood", "celebrity", "celebrities", "celeb", "k-pop idol", "idol group",
@@ -407,8 +490,43 @@ const ENTERTAINMENT_POSITIVE = [
   "akb48", "hikaru utada", "yoasobi", "soompi", "koreaboo",
   "sydney sweeney", "hayden panettiere", "walking dead", "netflix series",
   "charli xcx", "my chemical romance", "gerard way", "carrie underwood",
-  "jeongyeon", "yunjin", "jungkook", "diljit dosanjh",
-];
+  "jeongyeon", "yunjin", "jungkook", "diljit dosanjh"];
+
+/** East Asia celeb / gossip signals (TW·JP·KR·CN) — route to eastAsiaGossip. */
+const EAST_ASIA_GOSSIP_POSITIVE = [
+  "k-pop", "kpop", "j-pop", "jpop", "blackpink", "stray kids",
+  "aespa", "newjeans", "seventeen", "le sserafim", "riize", "enhypen", "ateez",
+  "g-dragon", "jeongyeon", "aespa",
+  "jay chou", "jj lin", "tfboys", "xiao zhan", "wang yibo",
+  "akb48", "hikaru utada", "yoasobi", "soompi", "koreaboo", "soompi",
+  "影劇", "娛樂圈", "娱乐圈", "八卦", "緋聞", "绯闻", "偶像", "藝人", "艺人",
+  "男星", "女星", "韓星", "韩星", "日星", "台星", "陸星", "陆星",
+  "演藝", "演艺", "綜藝", "综艺", "戲劇", "戏剧", "追劇", "追剧",
+  "연예", "아이돌", "엔터테인먼트", "엔터",
+  "芸能", "アイドル", "俳優", "女優", "ジャニーズ",
+  "周杰倫", "周杰伦", "林俊傑", "林俊杰", "蔡依林", "鄧紫棋", "邓紫棋",
+  "肖戰", "肖战", "王一博", "楊冪", "杨幂", "趙麗穎", "赵丽颖"];
+
+/** Short Latin tokens that must use word boundaries (avoid "ive" in "exclusive"). */
+const EAST_ASIA_GOSSIP_BOUNDED = ["blackpink", "newjeans", "stray kids", "enhypen", "ateez", "le sserafim", "aespa", "soompi", "koreaboo"];
+
+const EAST_ASIA_STRONG_RE =
+  /k-?pop|j-?pop|soompi|koreaboo|soompi|影劇|娛樂圈|娱乐圈|八卦|緋聞|绯闻|연예|芸能|アイドル|韓星|韩星|台星|陸星|陆星|周杰|肖戰|肖战|王一博|stray kids|blackpink|newjeans|enhypen|ateez|le sserafim|inkigayo|music bank|mcountdown|(?:\\bk-?pop\\b.*\\b(?:exo|nct|ive|twice|bts|itzy)\\b)|(?:\\b(?:exo|nct|ive|twice|bts|itzy)\\b.*\\bk-?pop\\b)/i;
+
+function eastAsiaGossipSignal(raw: string): boolean {
+  const lower = raw.toLowerCase();
+  if (EAST_ASIA_STRONG_RE.test(raw)) return true;
+  // CJK / Hangul / Kana gossip lexicon
+  if (EAST_ASIA_GOSSIP_POSITIVE.some((k) => /[\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7af]/.test(k) && raw.includes(k))) {
+    return true;
+  }
+  // Latin K-pop / outlet phrases (word-boundary via includesAny)
+  if (includesAny(lower, EAST_ASIA_GOSSIP_BOUNDED)) return true;
+  if (includesAny(lower, ["k-pop", "kpop", "j-pop", "jpop", "blackpink", "stray kids", "soompi", "koreaboo", "newjeans", "enhypen", "le sserafim"])) {
+    return true;
+  }
+  return false;
+}
 
 /** Wrong-direction entertainment: festivals academia, Broadway reviews, ferry misc. */
 const ENTERTAINMENT_NEGATIVE = [
@@ -462,10 +580,23 @@ export function resolveCategory(
   description: string
 ): Category | null {
   const text = `${title} ${description}`.toLowerCase();
+  const rawText = `${title} ${description}`;
 
   // Beauty unused for now — skip
   if (feedCategory === "beauty") {
     return null;
+  }
+
+  // East Asia gossip feeds stay in their lane (do not fold into Western entertainment)
+  if (feedCategory === "eastAsiaGossip") {
+    if (
+      includesAny(text, ENTERTAINMENT_NEGATIVE) &&
+      !includesAny(text, ENTERTAINMENT_POSITIVE) &&
+      !eastAsiaGossipSignal(rawText)
+    ) {
+      return null;
+    }
+    return "eastAsiaGossip";
   }
 
   // Drop clear non-celeb industry/festival noise from entertainment feeds
@@ -477,12 +608,20 @@ export function resolveCategory(
     return null;
   }
 
-  // Keep entertainment-feed items as entertainment (already filtered negatives)
+  // Keep entertainment-feed items as Western entertainment (already filtered negatives)
   if (feedCategory === "entertainment") {
     return "entertainment";
   }
 
-  // Strong celebrity signals from other feeds → entertainment
+  // Strong East Asia celeb signals from other feeds → eastAsiaGossip (not entertainment)
+  if (eastAsiaGossipSignal(rawText)) {
+    if (feedCategory === "finance" || feedCategory === "tech" || feedCategory === "ai") {
+      return feedCategory;
+    }
+    return "eastAsiaGossip";
+  }
+
+  // Strong Western celebrity signals from other feeds → entertainment
   if (includesAny(text, ENTERTAINMENT_POSITIVE)) {
     if (feedCategory === "finance" || feedCategory === "tech" || feedCategory === "ai") {
       return feedCategory; // don't steal product/market news
@@ -577,6 +716,7 @@ const CATEGORY_STRENGTH: Record<string, number> = {
   tech: 46,
   ai: 46,
   society: 30,
+  eastAsiaGossip: 18,
   entertainment: 20,
   beauty: 5,
 };
@@ -596,7 +736,10 @@ export function preferCategory(cats: Category[]): Category {
   const hard = cats.filter((c) =>
     ["international", "finance", "tech", "ai"].includes(c)
   );
-  if (hard.length && cats.some((c) => c === "entertainment" || c === "beauty")) {
+  if (
+    hard.length &&
+    cats.some((c) => c === "entertainment" || c === "eastAsiaGossip" || c === "beauty")
+  ) {
     return preferCategory(hard);
   }
   return best;
@@ -643,21 +786,69 @@ function buildClusterFromMembers(members: RawFeedItem[]): StoryCluster {
     : new Date().toISOString();
 
   // Category pick: hard news wins on mixed geopolitics/markets; but clear
-  // celebrity/gossip signals keep entertainment even if some members were
+  // celebrity/gossip signals keep gossip lanes even if some members were
   // remapped to international (e.g. BBC UK / society feeds).
+  // Never fold eastAsiaGossip into Western entertainment (or vice versa).
   const cats = members.map((m) => m.category);
-  const blob = members.map((m) => `${m.title} ${m.description}`).join(" ").toLowerCase();
+  const blobRaw = members.map((m) => `${m.title} ${m.description}`).join(" ");
+  const blob = blobRaw.toLowerCase();
+  const eaFromFeed = cats.includes("eastAsiaGossip");
+  const eaHit = eaFromFeed || eastAsiaGossipSignal(blobRaw);
   const celeb = includesAny(blob, ENTERTAINMENT_POSITIVE);
   const celebNoise =
-    includesAny(blob, ENTERTAINMENT_NEGATIVE) && !celeb;
+    includesAny(blob, ENTERTAINMENT_NEGATIVE) && !celeb && !eaHit;
   let category = preferCategory(cats);
-  if (celeb && !celebNoise) {
+  // Pure Western entertainment clusters must stay entertainment (never flip on weak EA substrings)
+  const pureWesternEnt =
+    cats.every((c) => c === "entertainment") ||
+    (cats.includes("entertainment") &&
+      !eaFromFeed &&
+      !eastAsiaGossipSignal(blobRaw));
+  if (eaHit && !celebNoise && !pureWesternEnt) {
+    category = "eastAsiaGossip";
+  } else if ((celeb || pureWesternEnt) && !celebNoise) {
     category = "entertainment";
-  } else if (category === "entertainment" && !celeb) {
-    const alt = cats.filter((c) => c !== "entertainment");
+  } else if (
+    (category === "entertainment" || category === "eastAsiaGossip") &&
+    !celeb &&
+    !eaHit
+  ) {
+    const alt = cats.filter(
+      (c) => c !== "entertainment" && c !== "eastAsiaGossip"
+    );
     category = preferCategory(alt.length ? alt : ["international"]);
-  } else if (celebNoise && category === "entertainment") {
-    const alt = cats.filter((c) => c !== "entertainment");
+  } else if (
+    celebNoise &&
+    (category === "entertainment" || category === "eastAsiaGossip")
+  ) {
+    const alt = cats.filter(
+      (c) => c !== "entertainment" && c !== "eastAsiaGossip"
+    );
+    category = preferCategory(alt.length ? alt : ["international"]);
+  }
+
+  // Prefer explicit feed region; fall back to majority among members
+  const regions = members
+    .map((m) => m.region)
+    .filter((r): r is NonNullable<typeof r> => !!r);
+  let region: (typeof regions)[number] | undefined;
+  if (regions.length) {
+    const counts: Record<string, number> = {};
+    for (const r of regions) counts[r] = (counts[r] ?? 0) + 1;
+    region = Object.entries(counts).sort((a, b) => b[1] - a[1])[0][0] as
+      | "tw"
+      | "jp"
+      | "kr"
+      | "cn";
+  }
+
+  // Final guard: eastAsiaGossip requires an EA-lane feed member or strong EA signal
+  if (
+    category === "eastAsiaGossip" &&
+    !eaFromFeed &&
+    !eastAsiaGossipSignal(blobRaw)
+  ) {
+    const alt = cats.filter((c) => c !== "eastAsiaGossip");
     category = preferCategory(alt.length ? alt : ["international"]);
   }
 
@@ -668,6 +859,7 @@ function buildClusterFromMembers(members: RawFeedItem[]): StoryCluster {
     bestImage,
     publishedAt: latest,
     disagreementHint: detectDisagreement(members),
+    region: category === "eastAsiaGossip" ? region : undefined,
   };
 }
 
@@ -705,6 +897,26 @@ export function clusterItems(
       ) {
         members.push(list[j]);
         used.add(j);
+        continue;
+      }
+
+      // Do not merge East Asia gossip into Western entertainment (or reverse)
+      // unless the same canonical URL already matched above.
+      const gossipLaneClash = (a: Category, b: Category) => {
+        const ea = (c: Category) => c === "eastAsiaGossip";
+        const westernGossip = (c: Category) => c === "entertainment";
+        const hardNews = (c: Category) =>
+          c === "international" || c === "finance" || c === "tech" || c === "ai";
+        // Keep East Asia gossip lane isolated from Western gossip AND hard news
+        // (same-URL merge already handled above).
+        if (ea(a) && (westernGossip(b) || hardNews(b))) return true;
+        if (ea(b) && (westernGossip(a) || hardNews(a))) return true;
+        return false;
+      };
+      if (gossipLaneClash(list[i].category, list[j].category)) {
+        continue;
+      }
+      if (members.some((m) => gossipLaneClash(m.category, list[j].category))) {
         continue;
       }
 
@@ -753,9 +965,20 @@ export function hardDedupeClusters(clusters: StoryCluster[]): StoryCluster[] {
     const urls = c.members.map((m) => normalizeUrl(m.link));
     // Drop if any URL already claimed by a stronger cluster
     if (urls.some((u) => usedUrls.has(u))) continue;
-    // Drop if near-dup title vs an already-kept cluster
+    // Drop if near-dup title vs an already-kept cluster (same gossip lane only —
+    // eastAsiaGossip vs entertainment may coexist with similar celebrity names)
     if (
-      kept.some((k) => titlesNearDuplicate(k.primaryTitle, c.primaryTitle, 0.7))
+      kept.some((k) => {
+        const ea = (x: Category) => x === "eastAsiaGossip";
+        const western = (x: Category) => x === "entertainment";
+        const hard = (x: Category) =>
+          x === "international" || x === "finance" || x === "tech" || x === "ai";
+        const laneClash =
+          (ea(k.category) && (western(c.category) || hard(c.category))) ||
+          (ea(c.category) && (western(k.category) || hard(k.category)));
+        if (laneClash) return false;
+        return titlesNearDuplicate(k.primaryTitle, c.primaryTitle, 0.7);
+      })
     ) {
       continue;
     }
@@ -1048,15 +1271,16 @@ export function buildExtractiveDigest(cluster: StoryCluster): {
 
 export function pickBalancedClusters(
   clusters: StoryCluster[],
-  targetMin = 12,
-  targetMax = 26
+  targetMin = 14,
+  targetMax = 28
 ): StoryCluster[] {
   const perCatTarget: Record<string, number> = {
     international: 5,
     finance: 4,
     tech: 4,
     ai: 3,
-    entertainment: 5,
+    entertainment: 4,
+    eastAsiaGossip: 5,
     society: 0,
     beauty: 0,
   };
@@ -1064,12 +1288,19 @@ export function pickBalancedClusters(
   const CELEB_DOMAINS = new Set([
     "billboard.com",
     "rollingstone.com",
-    "soompi.com",
-    "koreaboo.com",
     "tmz.com",
     "hollywoodlife.com",
     "justjared.com",
     "etonline.com",
+  ]);
+
+  const EA_DOMAINS = new Set([
+    "soompi.com",
+    "koreaboo.com",
+    "ettoday.net",
+    "sina.com.cn",
+    "sina.com",
+    "news.google.com",
   ]);
 
   const scored = clusters.map((c) => {
@@ -1078,23 +1309,30 @@ export function pickBalancedClusters(
       computeTrustScore(tb) +
       (c.members.length - 1) * 8 +
       (Date.parse(c.publishedAt) || 0) / 1e12;
-    // Prefer true celebrity/pop outlets inside entertainment
+    // Prefer true celebrity/pop outlets inside Western entertainment
     if (c.category === "entertainment") {
       const domains = c.members.map((m) =>
         m.domain.replace(/^www\./, "").toLowerCase()
       );
       const celebHit = domains.some((d) => CELEB_DOMAINS.has(d));
       if (celebHit) score += 18;
-      // Extra boost for Asia pop / celebrity gossip outlets
-      if (domains.some((d) => d === "soompi.com" || d === "koreaboo.com")) {
-        score += 22;
-      }
       if (domains.some((d) => d === "billboard.com" || d === "rollingstone.com" || d === "tmz.com")) {
         score += 8;
       }
       // Soft-penalize BBC arts sports / kids toy / non-celeb misc
       const t = c.primaryTitle.toLowerCase();
       if (/sport|betting advert|ferry|deport|dollhouse|blind box/.test(t)) score -= 14;
+    }
+    // Prefer regional East Asia gossip outlets
+    if (c.category === "eastAsiaGossip") {
+      const domains = c.members.map((m) =>
+        m.domain.replace(/^www\./, "").toLowerCase()
+      );
+      if (domains.some((d) => EA_DOMAINS.has(d))) score += 16;
+      if (domains.some((d) => d === "soompi.com" || d === "ettoday.net")) score += 10;
+      // Koreaboo lower reputation — mild score penalty vs Soompi
+      if (domains.every((d) => d === "koreaboo.com")) score -= 4;
+      if (c.region) score += 2;
     }
     // Prefer clear crime/accident society clusters
     if (c.category === "society") {
@@ -1119,15 +1357,31 @@ export function pickBalancedClusters(
   const counts: Record<string, number> = {};
 
   const entDomains = new Set<string>();
+  const eaDomains = new Set<string>();
+  const eaRegions = new Set<string>();
   for (const { c } of scored) {
     if (c.category === "society" || c.category === "beauty") continue;
     const n = counts[c.category] ?? 0;
     if (n >= (perCatTarget[c.category] ?? 3)) continue;
     if (c.category === "entertainment") {
       const dom = c.members[0]?.domain.replace(/^www\./, "").toLowerCase() ?? "";
-      // Prefer outlet diversity so K-pop (Soompi/Koreaboo) isn't crowded out
+      // Prefer outlet diversity within Western gossip
       if (entDomains.has(dom) && entDomains.size < 4 && n >= 1) continue;
       if (dom) entDomains.add(dom);
+    }
+    if (c.category === "eastAsiaGossip") {
+      // Reject impostors: must come from an EA gossip feed and/or carry a region tag
+      const fromEaFeed = c.members.some((m) => m.category === "eastAsiaGossip");
+      if (!fromEaFeed && !c.region) continue;
+      const dom = c.members[0]?.domain.replace(/^www\./, "").toLowerCase() ?? "";
+      // Prefer region + outlet diversity (tw/jp/kr/cn)
+      if (c.region && eaRegions.has(c.region) && eaRegions.size < 4 && n >= 2) {
+        // still allow if new outlet
+        if (dom && eaDomains.has(dom)) continue;
+      }
+      if (dom && eaDomains.has(dom) && eaDomains.size < 5 && n >= 1) continue;
+      if (dom) eaDomains.add(dom);
+      if (c.region) eaRegions.add(c.region);
     }
     picked.push(c);
     counts[c.category] = n + 1;

@@ -1,15 +1,16 @@
 {
-  "ingestedAt": "2026-09-20T20:30:42.161Z",
-  "feedOk": 33,
-  "feedTotal": 35,
-  "rawItems": 321,
-  "mainStories": 21,
+  "ingestedAt": "2026-09-20T21:20:21.869Z",
+  "feedOk": 39,
+  "feedTotal": 43,
+  "rawItems": 381,
+  "mainStories": 24,
   "byCategory": {
-    "international": 4,
+    "international": 5,
     "tech": 4,
     "finance": 4,
-    "entertainment": 6,
-    "ai": 3
+    "entertainment": 4,
+    "ai": 3,
+    "eastAsiaGossip": 4
   },
   "llmUsed": true,
   "mode": "llm+rss"

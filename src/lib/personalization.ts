@@ -14,6 +14,7 @@ export const DEFAULT_WEIGHTS: PreferenceWeights = {
   tech: 1,
   ai: 1,
   entertainment: 1,
+  eastAsiaGossip: 1,
   society: 1,
   beauty: 1,
 };

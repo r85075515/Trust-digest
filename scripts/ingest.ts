@@ -34,6 +34,7 @@ import {
   computeTrustScore,
   applyTrustCaps,
   isDevelopingCasualtyText,
+  isDevelopingGossipText,
 } from "../src/lib/trust";
 import type { Story, LocalizedText } from "../src/lib/types";
 
@@ -178,6 +179,7 @@ async function fetchFeed(source: FeedSource): Promise<RawFeedItem[]> {
         link,
         pubDate: item.isoDate || item.pubDate || new Date().toISOString(),
         description: description.slice(0, 2000),
+        region: source.region,
         imageUrl: imageUrl && /^https?:\/\//i.test(imageUrl) ? imageUrl : undefined,
       });
     }
@@ -194,7 +196,7 @@ async function fetchFeed(source: FeedSource): Promise<RawFeedItem[]> {
   }
 }
 
-function pickItemImage(item: Parser.Item & Record<string, unknown>): string | undefined {
+function pickItemImage(item: Parser.Item & Record<string, any>): string | undefined {
   const enclosure = item.enclosure;
   if (enclosure?.url && /image|jpeg|jpg|png|webp|gif/i.test(enclosure.type || enclosure.url)) {
     return enclosure.url;
@@ -206,8 +208,7 @@ function pickItemImage(item: Parser.Item & Record<string, unknown>): string | un
   if (Array.isArray(mediaContent)) {
     for (const m of mediaContent) {
       if (typeof m === "string" && /^https?:/.test(m)) return m;
-      const url = m?.$?.url;
-      if (url) return url;
+      if (m && typeof m === "object" && m.$?.url) return m.$.url;
     }
   }
 
@@ -350,7 +351,7 @@ async function llmDigest(
 
 Category: ${cluster.category}
 Primary title hint: ${cluster.primaryTitle}
-Category guidance: entertainment = hot verifiable celebrity gossip (標驗證／多源 — singers, actors, K-pop/J-pop, Hollywood) — NOT Broadway reviews, film-festival academia, or industry deal roundups. Hard news (crime/disaster) belongs in international/finance/tech/ai — not entertainment.
+Category guidance: entertainment = Western/global hot verifiable celebrity gossip (標驗證／多源 — Hollywood, Billboard, TMZ-style) — NOT Broadway reviews, film-festival academia, or industry deal roundups. eastAsiaGossip = TW/JP/KR/CN celebrity & entertainment gossip (影劇、芸能、연예、娱乐圈) — keep SEPARATE from entertainment; do not mix lanes. Hard news (crime/disaster) belongs in international/finance/tech/ai — not gossip lanes. Developing/unverified gossip (allegedly, rumor, 緋聞未證實、傳、爆料未證實) must stay cautious — never imply multi-source high trust from a single rumor outlet.
 
 SOURCES:
 ${sourcesBlock}
@@ -586,7 +587,14 @@ async function main() {
       c.primaryTitle,
       ...c.members.map((m) => `${m.title} ${m.description}`)
     );
-    const trustScore = applyTrustCaps(raw, { isCasualty: casualty });
+    const rumorGossip = isDevelopingGossipText(
+      c.primaryTitle,
+      ...c.members.map((m) => `${m.title} ${m.description}`)
+    );
+    const trustScore = applyTrustCaps(raw, {
+      isCasualty: casualty,
+      isRumorGossip: rumorGossip,
+    });
     return { c, tb, trustScore };
   });
   scored.sort(
@@ -615,9 +623,18 @@ async function main() {
 
   for (let i = 0; i < scored.length; i++) {
     const { c, tb, trustScore } = scored[i];
-    const catN = (catCounts[c.category] ?? 0) + 1;
-    catCounts[c.category] = catN;
-    const id = `live-${c.category}-${String(catN).padStart(2, "0")}-${slugify(c.primaryTitle).slice(0, 24) || "story"}`;
+    // Belt-and-suspenders: never ship eastAsiaGossip without EA feed members / region
+    let category = c.category;
+    if (
+      category === "eastAsiaGossip" &&
+      !c.region &&
+      !c.members.some((m) => m.category === "eastAsiaGossip")
+    ) {
+      category = "international";
+    }
+    const catN = (catCounts[category] ?? 0) + 1;
+    catCounts[category] = catN;
+    const id = `live-${category}-${String(catN).padStart(2, "0")}-${slugify(c.primaryTitle).slice(0, 24) || "story"}`;
 
     console.info(`[ingest] digest ${i + 1}/${scored.length}: ${c.primaryTitle.slice(0, 70)}`);
     const loc = await localizeCluster(c, llm);
@@ -644,7 +661,7 @@ async function main() {
     const key = c.primaryTitle + c.publishedAt;
     const story: Story = {
       id,
-      category: c.category,
+      category,
       adult: false,
       isHeadline: headlineIds.has(key),
       isPopular: isPopularCluster(c),
@@ -665,10 +682,12 @@ async function main() {
       trustScore,
       trustBreakdown: tb,
       tags: [
-        c.category,
+        category,
         "live-ingest",
+        ...(c.region ? [`region:${c.region}`] : []),
         ...c.members.map((m) => m.outletName.toLowerCase().replace(/\s+/g, "-")).slice(0, 3),
       ],
+      region: category === "eastAsiaGossip" ? c.region : undefined,
     };
     stories.push(story);
     await sleep(150);

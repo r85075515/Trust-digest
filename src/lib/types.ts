@@ -4,8 +4,13 @@ export type Category =
   | "tech"
   | "ai"
   | "entertainment"
+  | "eastAsiaGossip"
   | "society"
   | "beauty";
+
+/** East Asia gossip regional tag (TW / JP / KR / CN). */
+export type EastAsiaRegion = "tw" | "jp" | "kr" | "cn";
+
 export type Language = "zh-TW" | "en";
 
 export interface SourceOutlet {
@@ -52,6 +57,8 @@ export interface Story {
   trustScore: number;
   trustBreakdown: TrustBreakdown;
   tags: string[];
+  /** East Asia gossip region when category is eastAsiaGossip */
+  region?: EastAsiaRegion;
 }
 
 export type InteractionType = "open" | "save" | "not_interested";
@@ -68,6 +75,7 @@ export interface PreferenceWeights {
   tech: number;
   ai: number;
   entertainment: number;
+  eastAsiaGossip: number;
   society: number;
   beauty: number;
 }

@@ -4,6 +4,7 @@ import {
   honestyKind,
   honestyLabel,
   isDevelopingCasualtyText,
+  isDevelopingGossipText,
 } from "@/lib/trust";
 import type { Language } from "@/lib/types";
 
@@ -28,11 +29,13 @@ export function TrustScoreBadge({
   showScore?: boolean;
 }) {
   const isCasualty = isDevelopingCasualtyText(titleText, summaryText);
-  const capped = applyTrustCaps(score, { isCasualty });
+  const isRumorGossip = isDevelopingGossipText(titleText, summaryText);
+  const capped = applyTrustCaps(score, { isCasualty, isRumorGossip });
   const kind = honestyKind({
     sourceCount,
     hasDisagreement,
     isCasualty,
+    isRumorGossip,
   });
   const label = honestyLabel(kind, sourceCount, lang);
 
@@ -43,8 +46,8 @@ export function TrustScoreBadge({
       )} ${size === "sm" ? "px-2 py-0.5 text-xs" : "px-2.5 py-1 text-sm"}`}
       title={
         lang === "zh-TW"
-          ? `來源一致度標籤（啟發式，非事實查核保證）${showScore || isCasualty ? ` · 分數 ${capped}/100` : ""}`
-          : `Source-agreement label (heuristic, not a fact-check guarantee)${showScore || isCasualty ? ` · score ${capped}/100` : ""}`
+          ? `來源一致度標籤（啟發式，非事實查核保證）${showScore || isCasualty || isRumorGossip ? ` · 分數 ${capped}/100` : ""}`
+          : `Source-agreement label (heuristic, not a fact-check guarantee)${showScore || isCasualty || isRumorGossip ? ` · score ${capped}/100` : ""}`
       }
     >
       <span className="font-medium">{label}</span>

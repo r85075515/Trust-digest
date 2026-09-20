@@ -72,8 +72,8 @@ export default function HomePage() {
           </h1>
           <p className="mb-4 text-sm text-slate-600">
             {lang === "zh-TW"
-              ? `國際 · 財經 · 科技 · AI · 熱門八卦（可驗證）— 訊息流以熱門與頭條為主。首頁短摘要，點進內頁可讀完整消化文。標題用具名專有名詞；來源一致度標籤優先於「高信任」宣稱（啟發式，非事實查核保證）。即時 RSS 彙整 · 上次更新：${ingestLabel}。`
-              : `International · Finance · Tech · AI · Hot gossip (verifiable) — feed prioritizes Popular and Headline stories. Short briefings on home; full digests on detail pages. Titles lead with proper nouns. Source-agreement labels preferred over “High trust” claims (heuristics, not fact-check guarantees). Live RSS ingest · last updated: ${ingestLabel}.`}
+              ? `國際 · 財經 · 科技 · AI · 熱門八卦（可驗證）· 東亞八卦— 訊息流以熱門與頭條為主。首頁短摘要，點進內頁可讀完整消化文。標題用具名專有名詞；來源一致度標籤優先於「高信任」宣稱（啟發式，非事實查核保證）。即時 RSS 彙整 · 上次更新：${ingestLabel}。`
+              : `International · Finance · Tech · AI · Hot gossip (verifiable) · East Asia gossip — feed prioritizes Popular and Headline stories. Short briefings on home; full digests on detail pages. Titles lead with proper nouns. Source-agreement labels preferred over “High trust” claims (heuristics, not fact-check guarantees). Live RSS ingest · last updated: ${ingestLabel}.`}
           </p>
           <CategoryFilter value={category} onChange={setCategory} lang={lang} />
         </section>
