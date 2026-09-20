@@ -17,8 +17,8 @@ export interface FeedSource {
 
 /**
  * Curated allow-list (verified HTTP 200).
- * Entertainment = celebrity / pop culture (K-pop, J-pop, Hollywood, TW/HK/CN idols) — NOT Broadway reviews or film-festival academia.
- * Society = crime, accidents, public safety, civic incidents — not geopolitics or pure finance.
+ * Entertainment = hot verifiable celebrity gossip (標驗證／多源) — NOT Broadway reviews or film-festival academia.
+ * Society feeds remapped to international; beauty skipped. Main chips: intl/finance/tech/AI/gossip.
  */
 export const ALLOWED_FEEDS: FeedSource[] = [
   // International
@@ -463,6 +463,11 @@ export function resolveCategory(
 ): Category | null {
   const text = `${title} ${description}`.toLowerCase();
 
+  // Beauty unused for now — skip
+  if (feedCategory === "beauty") {
+    return null;
+  }
+
   // Drop clear non-celeb industry/festival noise from entertainment feeds
   if (
     feedCategory === "entertainment" &&
@@ -485,36 +490,9 @@ export function resolveCategory(
     return "entertainment";
   }
 
-  // Society feeds are mixed (UK politics + crime). Keep only incident-like items.
+  // Society feeds: map hard news into international (society hidden from main feed)
   if (feedCategory === "society") {
-    if (includesAny(text, SOCIETY_POSITIVE)) {
-      return "society";
-    }
-    // AI policy, parliament, macro politics → international (or finance if money)
-    if (
-      /\b(ai|artificial intelligence|mps?|lords|parliament|election|minister|gdp|inflation|interest rate)\b/i.test(
-        text
-      )
-    ) {
-      return "international";
-    }
-    // soft keep if crime-adjacent verbs, else international
-    if (
-      /\b(kill|killed|jailed|arrest|crash|murder|assault|stab|shoot|disaster|flood|fire|missing)\b/i.test(
-        text
-      )
-    ) {
-      return "society";
-    }
     return "international";
-  }
-
-  if (
-    feedCategory === "international" &&
-    includesAny(text, SOCIETY_POSITIVE) &&
-    !includesAny(text, SOCIETY_NEGATIVE)
-  ) {
-    return "society";
   }
 
   return feedCategory;
@@ -538,6 +516,92 @@ export function jaccard(a: Set<string>, b: Set<string>): number {
   return union === 0 ? 0 : inter / union;
 }
 
+/** Normalize title for near-dup compare: lowercase, strip punctuation, collapse whitespace. */
+export function normalizeTitle(title: string): string {
+  return title
+    .toLowerCase()
+    .replace(/[^a-z0-9\u4e00-\u9fff\s]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/** Distinctive proper-noun-ish tokens (capitalized / long / CJK names). */
+export function distinctiveTokens(title: string): Set<string> {
+  const out = new Set<string>();
+  for (const w of title.split(/\s+/)) {
+    const clean = w.replace(/[^A-Za-z0-9\u4e00-\u9fff-]/g, "");
+    if (!clean || clean.length < 3) continue;
+    const lower = clean.toLowerCase();
+    if (STOP.has(lower)) continue;
+    if (
+      /^[A-Z][a-z]/.test(clean) ||
+      /^[A-Z]{2,}/.test(clean) ||
+      /[\u4e00-\u9fff]/.test(clean) ||
+      clean.length >= 7
+    ) {
+      out.add(lower);
+    }
+  }
+  return out;
+}
+
+export function titlesNearDuplicate(
+  a: string,
+  b: string,
+  jaccardThreshold = 0.7
+): boolean {
+  const ta = tokenize(normalizeTitle(a));
+  const tb = tokenize(normalizeTitle(b));
+  if (jaccard(ta, tb) >= jaccardThreshold) return true;
+  // Shared distinctive proper-noun tokens (at least 2, or 1 very long)
+  const da = distinctiveTokens(a);
+  const db = distinctiveTokens(b);
+  let shared = 0;
+  let longShared = false;
+  for (const t of da) {
+    if (db.has(t)) {
+      shared++;
+      if (t.length >= 8) longShared = true;
+    }
+  }
+  if (shared >= 2 || (shared >= 1 && longShared && jaccard(ta, tb) >= 0.45)) {
+    return true;
+  }
+  return false;
+}
+
+/** Prefer hard-news categories over entertainment when mixed. */
+const CATEGORY_STRENGTH: Record<string, number> = {
+  international: 50,
+  finance: 48,
+  tech: 46,
+  ai: 46,
+  society: 30,
+  entertainment: 20,
+  beauty: 5,
+};
+
+export function preferCategory(cats: Category[]): Category {
+  let best: Category = cats[0];
+  let bestScore = -1;
+  for (const c of cats) {
+    // Entertainment only wins if ALL members are entertainment (caller filters)
+    const s = CATEGORY_STRENGTH[c] ?? 0;
+    if (s > bestScore) {
+      bestScore = s;
+      best = c;
+    }
+  }
+  // If mix includes entertainment + hard news → hard news
+  const hard = cats.filter((c) =>
+    ["international", "finance", "tech", "ai"].includes(c)
+  );
+  if (hard.length && cats.some((c) => c === "entertainment" || c === "beauty")) {
+    return preferCategory(hard);
+  }
+  return best;
+}
+
 /** Prefer titles with more Capitalized tokens / digits (concrete proper nouns). */
 export function properNounScore(title: string): number {
   const words = title.split(/\s+/);
@@ -549,79 +613,170 @@ export function properNounScore(title: string): number {
   return score;
 }
 
-export function clusterItems(
-  items: RawFeedItem[],
-  threshold = 0.38
-): StoryCluster[] {
-  const byCat = new Map<string, RawFeedItem[]>();
-  for (const it of items) {
-    const list = byCat.get(it.category) ?? [];
-    list.push(it);
-    byCat.set(it.category, list);
-  }
-
-  const clusters: StoryCluster[] = [];
-
-  for (const [category, list] of byCat) {
-    const used = new Set<number>();
-    const tokens = list.map((i) => tokenize(i.title));
-
-    for (let i = 0; i < list.length; i++) {
-      if (used.has(i)) continue;
-      const members = [list[i]];
-      used.add(i);
-      for (let j = i + 1; j < list.length; j++) {
-        if (used.has(j)) continue;
-        // Same URL = same story
-        if (normalizeUrl(list[i].link) === normalizeUrl(list[j].link)) {
-          members.push(list[j]);
-          used.add(j);
-          continue;
-        }
-        const sim = jaccard(tokens[i], tokens[j]);
-        if (sim >= threshold) {
-          members.push(list[j]);
-          used.add(j);
-        }
-      }
-
-      const primary = [...members].sort(
-        (a, b) => properNounScore(b.title) - properNounScore(a.title)
-      )[0];
-
-      const bestImage =
-        members.map((m) => m.imageUrl).find((u) => !!u) ?? undefined;
-
-      const dates = members
-        .map((m) => Date.parse(m.pubDate))
-        .filter((n) => !Number.isNaN(n));
-      const latest = dates.length
-        ? new Date(Math.max(...dates)).toISOString()
-        : new Date().toISOString();
-
-      clusters.push({
-        category: category as Category,
-        members,
-        primaryTitle: primary.title,
-        bestImage,
-        publishedAt: latest,
-        disagreementHint: detectDisagreement(members),
-      });
-    }
-  }
-
-  return clusters;
-}
-
 function normalizeUrl(u: string): string {
   try {
     const x = new URL(u);
     x.hash = "";
     x.search = "";
+    // Drop common tracking noise already stripped via search; also unify www
+    let host = x.hostname.replace(/^www\./, "");
+    x.hostname = host;
     return x.toString().replace(/\/$/, "");
   } catch {
     return u;
   }
+}
+
+function buildClusterFromMembers(members: RawFeedItem[]): StoryCluster {
+  const primary = [...members].sort(
+    (a, b) => properNounScore(b.title) - properNounScore(a.title)
+  )[0];
+
+  const bestImage =
+    members.map((m) => m.imageUrl).find((u) => !!u) ?? undefined;
+
+  const dates = members
+    .map((m) => Date.parse(m.pubDate))
+    .filter((n) => !Number.isNaN(n));
+  const latest = dates.length
+    ? new Date(Math.max(...dates)).toISOString()
+    : new Date().toISOString();
+
+  // Category pick: hard news wins on mixed geopolitics/markets; but clear
+  // celebrity/gossip signals keep entertainment even if some members were
+  // remapped to international (e.g. BBC UK / society feeds).
+  const cats = members.map((m) => m.category);
+  const blob = members.map((m) => `${m.title} ${m.description}`).join(" ").toLowerCase();
+  const celeb = includesAny(blob, ENTERTAINMENT_POSITIVE);
+  const celebNoise =
+    includesAny(blob, ENTERTAINMENT_NEGATIVE) && !celeb;
+  let category = preferCategory(cats);
+  if (celeb && !celebNoise) {
+    category = "entertainment";
+  } else if (category === "entertainment" && !celeb) {
+    const alt = cats.filter((c) => c !== "entertainment");
+    category = preferCategory(alt.length ? alt : ["international"]);
+  } else if (celebNoise && category === "entertainment") {
+    const alt = cats.filter((c) => c !== "entertainment");
+    category = preferCategory(alt.length ? alt : ["international"]);
+  }
+
+  return {
+    category,
+    members,
+    primaryTitle: primary.title,
+    bestImage,
+    publishedAt: latest,
+    disagreementHint: detectDisagreement(members),
+  };
+}
+
+/**
+ * Cluster across categories: same canonical URL or near-dup titles → one story.
+ * Soft threshold (~0.38) still merges within-pass; near-dup (≥0.7 / proper nouns)
+ * merges even across categories.
+ */
+export function clusterItems(
+  items: RawFeedItem[],
+  softThreshold = 0.38
+): StoryCluster[] {
+  const list = items;
+  const used = new Set<number>();
+  const tokens = list.map((i) => tokenize(normalizeTitle(i.title)));
+  const clusters: StoryCluster[] = [];
+
+  for (let i = 0; i < list.length; i++) {
+    if (used.has(i)) continue;
+    const members = [list[i]];
+    used.add(i);
+    for (let j = i + 1; j < list.length; j++) {
+      if (used.has(j)) continue;
+      // Same canonical URL = same story (never two stories)
+      if (normalizeUrl(list[i].link) === normalizeUrl(list[j].link)) {
+        members.push(list[j]);
+        used.add(j);
+        continue;
+      }
+      // Also match URL against any already-in-cluster member
+      if (
+        members.some(
+          (m) => normalizeUrl(m.link) === normalizeUrl(list[j].link)
+        )
+      ) {
+        members.push(list[j]);
+        used.add(j);
+        continue;
+      }
+
+      const sameCatSoft =
+        list[i].category === list[j].category &&
+        jaccard(tokens[i], tokens[j]) >= softThreshold;
+      const nearDup = titlesNearDuplicate(list[i].title, list[j].title, 0.7);
+      // Cross-category near-dup or soft same-cat match
+      if (nearDup || sameCatSoft) {
+        members.push(list[j]);
+        used.add(j);
+        continue;
+      }
+      // Near-dup vs any member already in cluster (chain merge)
+      if (members.some((m) => titlesNearDuplicate(m.title, list[j].title, 0.7))) {
+        members.push(list[j]);
+        used.add(j);
+      }
+    }
+    clusters.push(buildClusterFromMembers(members));
+  }
+
+  return hardDedupeClusters(clusters);
+}
+
+/**
+ * Post-pass: no duplicate source URLs across final stories;
+ * drop weaker near-dup title clusters that escaped.
+ */
+export function hardDedupeClusters(clusters: StoryCluster[]): StoryCluster[] {
+  // Rank stronger first (more members, stronger category, better proper-noun title)
+  const ranked = [...clusters].sort((a, b) => {
+    const cat =
+      (CATEGORY_STRENGTH[b.category] ?? 0) - (CATEGORY_STRENGTH[a.category] ?? 0);
+    if (cat) return cat;
+    if (b.members.length !== a.members.length) {
+      return b.members.length - a.members.length;
+    }
+    return properNounScore(b.primaryTitle) - properNounScore(a.primaryTitle);
+  });
+
+  const kept: StoryCluster[] = [];
+  const usedUrls = new Set<string>();
+
+  for (const c of ranked) {
+    const urls = c.members.map((m) => normalizeUrl(m.link));
+    // Drop if any URL already claimed by a stronger cluster
+    if (urls.some((u) => usedUrls.has(u))) continue;
+    // Drop if near-dup title vs an already-kept cluster
+    if (
+      kept.some((k) => titlesNearDuplicate(k.primaryTitle, c.primaryTitle, 0.7))
+    ) {
+      continue;
+    }
+    for (const u of urls) usedUrls.add(u);
+    // Strip any member URLs that somehow duplicated inside
+    const seen = new Set<string>();
+    const dedupMembers: RawFeedItem[] = [];
+    for (const m of c.members) {
+      const u = normalizeUrl(m.link);
+      if (seen.has(u)) continue;
+      seen.add(u);
+      dedupMembers.push(m);
+    }
+    kept.push(
+      dedupMembers.length === c.members.length
+        ? c
+        : buildClusterFromMembers(dedupMembers)
+    );
+  }
+
+  return kept;
 }
 
 /** Very simple numeric / named-entity conflict heuristic. */
@@ -761,7 +916,7 @@ export function isHeadlineCandidate(
   breakdown: TrustBreakdown,
   trustScore: number
 ): boolean {
-  const highRepCats: Category[] = ["international", "finance", "tech", "ai", "society"];
+  const highRepCats: Category[] = ["international", "finance", "tech", "ai"];
   if (
     highRepCats.includes(cluster.category) &&
     cluster.members.length >= 2 &&
@@ -873,8 +1028,8 @@ export function buildExtractiveDigest(cluster: StoryCluster): {
     "Still uncertain",
     uncertain,
     "",
-    "Linked sources: " +
-      cluster.members.map((m) => `${m.outletName}: ${m.link}`).join(" | "),
+    "Linked sources (outlet names only): " +
+      [...new Set(cluster.members.map((m) => m.outletName))].join(", "),
   ].join("\n");
 
   // Pad toward ~200+ words when source text allows
@@ -897,13 +1052,13 @@ export function pickBalancedClusters(
   targetMax = 26
 ): StoryCluster[] {
   const perCatTarget: Record<string, number> = {
-    international: 3,
-    finance: 3,
-    tech: 3,
-    ai: 2,
+    international: 5,
+    finance: 4,
+    tech: 4,
+    ai: 3,
     entertainment: 5,
-    society: 4,
-    beauty: 2,
+    society: 0,
+    beauty: 0,
   };
 
   const CELEB_DOMAINS = new Set([
@@ -965,6 +1120,7 @@ export function pickBalancedClusters(
 
   const entDomains = new Set<string>();
   for (const { c } of scored) {
+    if (c.category === "society" || c.category === "beauty") continue;
     const n = counts[c.category] ?? 0;
     if (n >= (perCatTarget[c.category] ?? 3)) continue;
     if (c.category === "entertainment") {
@@ -982,6 +1138,7 @@ export function pickBalancedClusters(
   if (picked.length < targetMin) {
     for (const { c } of scored) {
       if (picked.includes(c)) continue;
+      if (c.category === "society" || c.category === "beauty") continue;
       picked.push(c);
       if (picked.length >= targetMin) break;
     }

@@ -87,6 +87,10 @@ export function HeadlineBlock({
                     score={story.trustScore}
                     lang={lang}
                     size="sm"
+                    sourceCount={story.sources.length}
+                    hasDisagreement={Boolean(story.disagreements)}
+                    titleText={story.title.en + " " + story.title["zh-TW"]}
+                    summaryText={story.summary.en + " " + story.summary["zh-TW"]}
                   />
                 </div>
                 <Link

@@ -15,12 +15,12 @@ export function TrustBreakdownPanel({
   return (
     <section className="rounded-xl border border-slate-200 bg-slate-50 p-4">
       <h3 className="mb-1 text-sm font-semibold text-slate-900">
-        {lang === "zh-TW" ? "信任分數拆解" : "Trust score breakdown"}
+        {lang === "zh-TW" ? "來源可信度拆解" : "Source reliability breakdown"}
       </h3>
       <p className="mb-3 text-xs text-slate-500">
         {lang === "zh-TW"
-          ? `總分 ${score}/100。示意啟發式：來源多樣性、媒體聲譽、交叉驗證、時效與清晰度各最高 25 分。非保證零誤訊。`
-          : `Total ${score}/100. Heuristic demo: source diversity, outlet reputation, cross-corroboration, recency & clarity (max 25 each). Not a zero-misinfo guarantee.`}
+          ? `啟發式參考分 ${score}/100（非「高信任」保證）。來源多樣性、媒體聲譽、交叉驗證、時效與清晰度各最高 25 分。請以來源列表與一致度標籤為主。`
+          : `Heuristic reference ${score}/100 (not a “high trust” claim). Source diversity, outlet reputation, cross-corroboration, recency & clarity (max 25 each). Prefer the source list and agreement label.`}
       </p>
       <ul className="space-y-2">
         {entries.map(([key, value]) => {

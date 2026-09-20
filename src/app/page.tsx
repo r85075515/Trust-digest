@@ -72,23 +72,17 @@ export default function HomePage() {
           </h1>
           <p className="mb-4 text-sm text-slate-600">
             {lang === "zh-TW"
-              ? `國際 · 財經 · 科技 · AI · 演藝 · 社會 · 美妝 — 訊息流以熱門（高討論）與頭條（重要）為主。首頁短摘要，點進內頁可讀完整消化文。標題用具名專有名詞；角色說明放正文。多來源連結與可解釋信任分數（啟發式，非事實查核保證）。即時 RSS 彙整 · 上次更新：${ingestLabel}。`
-              : `International · Finance · Tech · AI · Entertainment · Society · Beauty — feed prioritizes Popular (high buzz) and Headline (important) stories. Short briefings on home; full digests on detail pages. Titles lead with proper nouns; role/category explainers live in the body. Multi-source links and explainable trust scores (heuristics, not fact-check guarantees). Live RSS ingest · last updated: ${ingestLabel}.`}
+              ? `國際 · 財經 · 科技 · AI · 熱門八卦（可驗證）— 訊息流以熱門與頭條為主。首頁短摘要，點進內頁可讀完整消化文。標題用具名專有名詞；來源一致度標籤優先於「高信任」宣稱（啟發式，非事實查核保證）。即時 RSS 彙整 · 上次更新：${ingestLabel}。`
+              : `International · Finance · Tech · AI · Hot gossip (verifiable) — feed prioritizes Popular and Headline stories. Short briefings on home; full digests on detail pages. Titles lead with proper nouns. Source-agreement labels preferred over “High trust” claims (heuristics, not fact-check guarantees). Live RSS ingest · last updated: ${ingestLabel}.`}
           </p>
           <CategoryFilter value={category} onChange={setCategory} lang={lang} />
         </section>
 
-        <section className="mb-4 flex flex-wrap items-center gap-3 text-xs text-slate-500">
-          <span>
-            {lang === "zh-TW" ? "偏好權重" : "Preference weights"}:{" "}
-            {Object.entries(state.weights)
-              .map(([k, v]) => `${k} ${v.toFixed(1)}`)
-              .join(" · ")}
-          </span>
+        <section className="mb-4 flex flex-wrap items-center justify-end gap-3 text-xs text-slate-400">
           <button
             type="button"
             onClick={reset}
-            className="underline hover:text-slate-800"
+            className="underline hover:text-slate-700"
           >
             {lang === "zh-TW" ? "重設個人化" : "Reset personalization"}
           </button>

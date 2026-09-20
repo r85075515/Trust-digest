@@ -1,17 +1,15 @@
 {
-  "ingestedAt": "2026-09-20T18:32:56.589Z",
-  "feedOk": 35,
+  "ingestedAt": "2026-09-20T20:30:42.161Z",
+  "feedOk": 33,
   "feedTotal": 35,
-  "rawItems": 341,
-  "mainStories": 22,
+  "rawItems": 321,
+  "mainStories": 21,
   "byCategory": {
-    "tech": 3,
-    "society": 4,
-    "international": 3,
-    "ai": 2,
-    "finance": 3,
-    "entertainment": 5,
-    "beauty": 2
+    "international": 4,
+    "tech": 4,
+    "finance": 4,
+    "entertainment": 6,
+    "ai": 3
   },
   "llmUsed": true,
   "mode": "llm+rss"

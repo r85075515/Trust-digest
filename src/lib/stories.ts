@@ -9,8 +9,11 @@ export function getAllStories(): Story[] {
   return stories;
 }
 
+/** Main home feed — exclude society & beauty (still in JSON via getAllStories / getStoryById). */
 export function getMainStories(): Story[] {
-  return stories;
+  return stories.filter(
+    (s) => s.category !== "society" && s.category !== "beauty"
+  );
 }
 
 export function getStoryById(id: string): Story | undefined {
@@ -39,7 +42,7 @@ export const CATEGORY_LABELS: Record<
   finance: { en: "Finance", "zh-TW": "財經" },
   tech: { en: "Tech", "zh-TW": "科技" },
   ai: { en: "AI", "zh-TW": "人工智慧" },
-  entertainment: { en: "Entertainment", "zh-TW": "演藝" },
+  entertainment: { en: "Hot gossip (verifiable)", "zh-TW": "熱門八卦（可驗證）" },
   society: { en: "Society", "zh-TW": "社會" },
   beauty: { en: "Beauty", "zh-TW": "美妝" },
 };

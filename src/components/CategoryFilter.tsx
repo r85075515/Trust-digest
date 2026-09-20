@@ -3,6 +3,7 @@
 import type { Category, Language } from "@/lib/types";
 import { CATEGORY_LABELS } from "@/lib/stories";
 
+/** Main chips only — beauty + society hidden from default filter. */
 const MAIN: Array<Category | "all"> = [
   "all",
   "international",
@@ -10,8 +11,6 @@ const MAIN: Array<Category | "all"> = [
   "tech",
   "ai",
   "entertainment",
-  "society",
-  "beauty",
 ];
 
 export function CategoryFilter({

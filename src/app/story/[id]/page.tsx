@@ -92,7 +92,20 @@ export default function StoryDetailPage({
               {lang === "zh-TW" ? "熱門" : "Popular"}
             </span>
           )}
-          <TrustScoreBadge score={story.trustScore} lang={lang} />
+          <TrustScoreBadge
+            score={story.trustScore}
+            lang={lang}
+            sourceCount={story.sources.length}
+            hasDisagreement={Boolean(story.disagreements)}
+            titleText={story.title.en + " " + story.title["zh-TW"]}
+            summaryText={
+              story.summary.en +
+              " " +
+              story.summary["zh-TW"] +
+              " " +
+              story.body.en
+            }
+          />
           <time className="text-xs text-slate-400">
             {new Date(story.publishedAt).toLocaleString(
               lang === "zh-TW" ? "zh-TW" : "en-US"

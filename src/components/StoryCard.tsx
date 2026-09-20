@@ -55,7 +55,15 @@ export function StoryCard({
               {lang === "zh-TW" ? "熱門" : "Popular"}
             </span>
           )}
-          <TrustScoreBadge score={story.trustScore} lang={lang} size="sm" />
+          <TrustScoreBadge
+            score={story.trustScore}
+            lang={lang}
+            size="sm"
+            sourceCount={story.sources.length}
+            hasDisagreement={Boolean(story.disagreements)}
+            titleText={story.title.en + " " + story.title["zh-TW"]}
+            summaryText={story.summary.en + " " + story.summary["zh-TW"]}
+          />
           {opened && (
             <span className="text-xs text-slate-400">
               {lang === "zh-TW" ? "已讀" : "Opened"}

@@ -30,7 +30,11 @@ import {
   type StoryCluster,
   type FeedSource,
 } from "../src/lib/rss-ingest";
-import { computeTrustScore } from "../src/lib/trust";
+import {
+  computeTrustScore,
+  applyTrustCaps,
+  isDevelopingCasualtyText,
+} from "../src/lib/trust";
 import type { Story, LocalizedText } from "../src/lib/types";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -58,6 +62,15 @@ const parser = new Parser({
 
 function sleep(ms: number) {
   return new Promise((r) => setTimeout(r, ms));
+}
+
+/** Strip raw http(s) URLs from LLM/extractive text (links live in sources[]). */
+function stripRawUrls(text: string): string {
+  return text
+    .replace(/https?:\/\/[^\s)\]>\"']+/gi, "")
+    .replace(/\s{2,}/g, " ")
+    .replace(/ \n/g, "\n")
+    .trim();
 }
 
 function loadKeyFromBoxSecrets(): string {
@@ -337,7 +350,7 @@ async function llmDigest(
 
 Category: ${cluster.category}
 Primary title hint: ${cluster.primaryTitle}
-Category guidance: entertainment = celebrity/pop (singers, actors, K-pop/J-pop, Hollywood gossip) — not Broadway reviews or film-festival academia. society = social news (accidents, crime, disasters, public safety) — not geopolitics or pure finance.
+Category guidance: entertainment = hot verifiable celebrity gossip (標驗證／多源 — singers, actors, K-pop/J-pop, Hollywood) — NOT Broadway reviews, film-festival academia, or industry deal roundups. Hard news (crime/disaster) belongs in international/finance/tech/ai — not entertainment.
 
 SOURCES:
 ${sourcesBlock}
@@ -349,8 +362,9 @@ Rules:
 - Titles MUST lead with concrete proper nouns (people, orgs, places, products).
 - summary_* = short card briefing (~40-60 words en / similar zh).
 - body_* = full digest with sections: lede, What happened, Why it matters, Sources agree/disagree, Still uncertain. ~200+ words en; Traditional Chinese for zh.
+- NEVER include raw http(s) URLs in title_*, summary_*, or body_* — cite outlet names only (links are attached separately).
 - If sources conflict on numbers/names, put that in disagreements_*; else null.
-- Use Traditional Chinese (Taiwan) for zh fields.
+- Use Traditional Chinese (Taiwan) for zh fields. Minimize EN/ZH mixing in zh-TW prose — keep sentences in Chinese; use 譯名（Original） ONLY for people/org/product/place names, not for ordinary words.
 - CRITICAL for ALL zh-TW fields (title_zh_TW, summary_zh_TW, body_zh_TW): when mentioning people, orgs, products, or places that have a known Latin/English original name from the sources, format as 譯名（Original Latin Name） e.g. 山姆·奧特曼（Sam Altman）. NEVER use bare Chinese transliteration alone. English fields stay natural English (no reverse format needed).
 - glossary: array of 3–8 objects { term_en, term_zh_TW, blurb_en, blurb_zh_TW } for key people/orgs/proper nouns in the story. Each blurb = one short factual sentence (identity/role only — CEO of X, agency, product — NO invented biography beyond what sources imply or widely known identity). term_zh_TW must also use 譯名（Original） when applicable. If nothing needs explaining, use [].`;
 
@@ -416,19 +430,19 @@ Rules:
       .filter((x): x is NonNullable<typeof x> => x !== null)
       .slice(0, 8);
     return {
-      titleEn: String(parsed.title_en || cluster.primaryTitle),
-      titleZh: String(parsed.title_zh_TW || parsed.title_zh || ""),
-      summaryEn: String(parsed.summary_en || ""),
-      summaryZh: String(parsed.summary_zh_TW || parsed.summary_zh || ""),
-      bodyEn: String(parsed.body_en || ""),
-      bodyZh: String(parsed.body_zh_TW || parsed.body_zh || ""),
+      titleEn: stripRawUrls(String(parsed.title_en || cluster.primaryTitle)),
+      titleZh: stripRawUrls(String(parsed.title_zh_TW || parsed.title_zh || "")),
+      summaryEn: stripRawUrls(String(parsed.summary_en || "")),
+      summaryZh: stripRawUrls(String(parsed.summary_zh_TW || parsed.summary_zh || "")),
+      bodyEn: stripRawUrls(String(parsed.body_en || "")),
+      bodyZh: stripRawUrls(String(parsed.body_zh_TW || parsed.body_zh || "")),
       disagreementsEn: parsed.disagreements_en
-        ? String(parsed.disagreements_en)
+        ? stripRawUrls(String(parsed.disagreements_en))
         : null,
       disagreementsZh: parsed.disagreements_zh_TW
-        ? String(parsed.disagreements_zh_TW)
+        ? stripRawUrls(String(parsed.disagreements_zh_TW))
         : parsed.disagreements_zh
-          ? String(parsed.disagreements_zh)
+          ? stripRawUrls(String(parsed.disagreements_zh))
           : null,
       glossary,
     };
@@ -477,9 +491,12 @@ async function localizeCluster(
         blurb: { en: g.blurbEn, "zh-TW": g.blurbZh },
       }));
       return {
-        title: { en: d.titleEn, "zh-TW": titleZh },
-        summary: { en: d.summaryEn, "zh-TW": summaryZh },
-        body: { en: d.bodyEn, "zh-TW": bodyZh },
+        title: { en: stripRawUrls(d.titleEn), "zh-TW": stripRawUrls(titleZh) },
+        summary: {
+          en: stripRawUrls(d.summaryEn),
+          "zh-TW": stripRawUrls(summaryZh),
+        },
+        body: { en: stripRawUrls(d.bodyEn), "zh-TW": stripRawUrls(bodyZh) },
         disagreements,
         glossary,
       };
@@ -506,9 +523,9 @@ async function localizeCluster(
   }
 
   return {
-    title: { en: titleEn, "zh-TW": titleZh },
-    summary: { en: summaryEn, "zh-TW": summaryZh },
-    body: { en: bodyEn, "zh-TW": bodyZh },
+    title: { en: stripRawUrls(titleEn), "zh-TW": stripRawUrls(titleZh) },
+    summary: { en: stripRawUrls(summaryEn), "zh-TW": stripRawUrls(summaryZh) },
+    body: { en: stripRawUrls(bodyEn), "zh-TW": stripRawUrls(bodyZh) },
     disagreements,
     glossary: [],
   };
@@ -564,7 +581,12 @@ async function main() {
   // Score for headline picks
   const scored = picked.map((c) => {
     const tb = buildTrustBreakdown(c);
-    const trustScore = computeTrustScore(tb);
+    const raw = computeTrustScore(tb);
+    const casualty = isDevelopingCasualtyText(
+      c.primaryTitle,
+      ...c.members.map((m) => `${m.title} ${m.description}`)
+    );
+    const trustScore = applyTrustCaps(raw, { isCasualty: casualty });
     return { c, tb, trustScore };
   });
   scored.sort(
