@@ -47,6 +47,8 @@ export interface Story {
   body: LocalizedText;
   sources: SourceOutlet[];
   disagreements: LocalizedText | null;
+  /** Background / glossary entries for key people, orgs, proper nouns */
+  glossary?: Array<{ term: LocalizedText; blurb: LocalizedText }>;
   trustScore: number;
   trustBreakdown: TrustBreakdown;
   tags: string[];

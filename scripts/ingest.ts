@@ -319,6 +319,12 @@ async function llmDigest(
   bodyZh: string;
   disagreementsEn: string | null;
   disagreementsZh: string | null;
+  glossary: Array<{
+    termEn: string;
+    termZh: string;
+    blurbEn: string;
+    blurbZh: string;
+  }>;
 } | null> {
   const sourcesBlock = cluster.members
     .map(
@@ -337,14 +343,16 @@ SOURCES:
 ${sourcesBlock}
 
 Return STRICT JSON with keys:
-title_en, title_zh_TW, summary_en, summary_zh_TW, body_en, body_zh_TW, disagreements_en (string or null), disagreements_zh_TW (string or null)
+title_en, title_zh_TW, summary_en, summary_zh_TW, body_en, body_zh_TW, disagreements_en (string or null), disagreements_zh_TW (string or null), glossary (array)
 
 Rules:
 - Titles MUST lead with concrete proper nouns (people, orgs, places, products).
 - summary_* = short card briefing (~40-60 words en / similar zh).
 - body_* = full digest with sections: lede, What happened, Why it matters, Sources agree/disagree, Still uncertain. ~200+ words en; Traditional Chinese for zh.
 - If sources conflict on numbers/names, put that in disagreements_*; else null.
-- Use Traditional Chinese (Taiwan) for zh fields.`;
+- Use Traditional Chinese (Taiwan) for zh fields.
+- CRITICAL for ALL zh-TW fields (title_zh_TW, summary_zh_TW, body_zh_TW): when mentioning people, orgs, products, or places that have a known Latin/English original name from the sources, format as 譯名（Original Latin Name） e.g. 山姆·奧特曼（Sam Altman）. NEVER use bare Chinese transliteration alone. English fields stay natural English (no reverse format needed).
+- glossary: array of 3–8 objects { term_en, term_zh_TW, blurb_en, blurb_zh_TW } for key people/orgs/proper nouns in the story. Each blurb = one short factual sentence (identity/role only — CEO of X, agency, product — NO invented biography beyond what sources imply or widely known identity). term_zh_TW must also use 譯名（Original） when applicable. If nothing needs explaining, use [].`;
 
   try {
     const messages = [
@@ -386,7 +394,27 @@ Rules:
     };
     const content = data.choices?.[0]?.message?.content;
     if (!content) return null;
-    const parsed = JSON.parse(content) as Record<string, string | null>;
+    const parsed = JSON.parse(content) as Record<string, unknown>;
+    const rawGlossary = Array.isArray(parsed.glossary) ? parsed.glossary : [];
+    const glossary = rawGlossary
+      .map((g) => {
+        if (!g || typeof g !== "object") return null;
+        const o = g as Record<string, unknown>;
+        const termEn = String(o.term_en || "").trim();
+        const termZh = String(o.term_zh_TW || o.term_zh || "").trim();
+        const blurbEn = String(o.blurb_en || "").trim();
+        const blurbZh = String(o.blurb_zh_TW || o.blurb_zh || "").trim();
+        if (!termEn && !termZh) return null;
+        if (!blurbEn && !blurbZh) return null;
+        return {
+          termEn: termEn || termZh,
+          termZh: termZh || termEn,
+          blurbEn: blurbEn || blurbZh,
+          blurbZh: blurbZh || blurbEn,
+        };
+      })
+      .filter((x): x is NonNullable<typeof x> => x !== null)
+      .slice(0, 8);
     return {
       titleEn: String(parsed.title_en || cluster.primaryTitle),
       titleZh: String(parsed.title_zh_TW || parsed.title_zh || ""),
@@ -402,6 +430,7 @@ Rules:
         : parsed.disagreements_zh
           ? String(parsed.disagreements_zh)
           : null,
+      glossary,
     };
   } catch (err) {
     console.warn("[ingest] LLM failed:", err instanceof Error ? err.message : err);
@@ -417,6 +446,7 @@ async function localizeCluster(
   summary: LocalizedText;
   body: LocalizedText;
   disagreements: LocalizedText | null;
+  glossary: Array<{ term: LocalizedText; blurb: LocalizedText }>;
 }> {
   if (llm) {
     const d = await llmDigest(cluster, llm);
@@ -442,11 +472,16 @@ async function localizeCluster(
           `（譯文待補）${en}`;
         disagreements = { en, "zh-TW": zh };
       }
+      const glossary = (d.glossary || []).map((g) => ({
+        term: { en: g.termEn, "zh-TW": g.termZh },
+        blurb: { en: g.blurbEn, "zh-TW": g.blurbZh },
+      }));
       return {
         title: { en: d.titleEn, "zh-TW": titleZh },
         summary: { en: d.summaryEn, "zh-TW": summaryZh },
         body: { en: d.bodyEn, "zh-TW": bodyZh },
         disagreements,
+        glossary,
       };
     }
   }
@@ -475,6 +510,7 @@ async function localizeCluster(
     summary: { en: summaryEn, "zh-TW": summaryZh },
     body: { en: bodyEn, "zh-TW": bodyZh },
     disagreements,
+    glossary: [],
   };
 }
 
@@ -603,6 +639,7 @@ async function main() {
       body: loc.body,
       sources: [...uniqueSources.values()],
       disagreements: loc.disagreements,
+      glossary: loc.glossary.length ? loc.glossary : undefined,
       trustScore,
       trustBreakdown: tb,
       tags: [

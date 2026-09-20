@@ -121,6 +121,28 @@ export default function StoryDetailPage({
           </div>
         </article>
 
+        {story.glossary && story.glossary.length > 0 && (
+          <section className="mb-8 rounded-2xl border border-slate-200 bg-white p-5 shadow-sm sm:p-6">
+            <h2 className="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-400">
+              {lang === "zh-TW" ? "背景／名詞解釋" : "Background / glossary"}
+            </h2>
+            <ul className="space-y-3">
+              {story.glossary.map((entry, i) => (
+                <li
+                  key={`${entry.term.en}-${i}`}
+                  className="text-sm leading-relaxed text-slate-700 sm:text-[15px]"
+                >
+                  <span className="font-semibold text-slate-900">
+                    {entry.term[lang]}
+                  </span>
+                  <span className="text-slate-400"> — </span>
+                  <span>{entry.blurb[lang]}</span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
         <div className="mb-6">
           <InteractionButtons
             story={story}

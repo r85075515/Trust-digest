@@ -1,13 +1,13 @@
 {
-  "ingestedAt": "2026-09-14T12:58:40.971Z",
+  "ingestedAt": "2026-09-20T18:32:56.589Z",
   "feedOk": 35,
   "feedTotal": 35,
-  "rawItems": 343,
+  "rawItems": 341,
   "mainStories": 22,
   "byCategory": {
     "tech": 3,
-    "international": 3,
     "society": 4,
+    "international": 3,
     "ai": 2,
     "finance": 3,
     "entertainment": 5,
