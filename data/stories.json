@@ -1,0 +1,1823 @@
+[
+  {
+    "id": "live-international-01-houthis-push-to-expand-t",
+    "category": "international",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-01-houthis-push-to-expand-t.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
+      "zh-TW": "相關封面圖：胡塞武裝（Houthis）瞄準利雅德（Riyadh） 沙烏地阿拉伯（Saudi Arabia）指控飛彈攻擊企圖"
+    },
+    "publishedAt": "2026-09-20T17:41:30.000Z",
+    "title": {
+      "en": "Houthis Target Riyadh as Saudi Arabia Reports Missile Attack Attempt",
+      "zh-TW": "胡塞武裝（Houthis）瞄準利雅德（Riyadh） 沙烏地阿拉伯（Saudi Arabia）指控飛彈攻擊企圖"
+    },
+    "summary": {
+      "en": "Houthis say they targeted Saudi capital Riyadh with ballistic missiles, with a reported strike on a fuel depot at the airport causing delays. Saudi Arabia states it shot down the missile aimed at the capital. The Iranian-backed group is also fighting Saudi-backed forces in Yemen to expand territory.",
+      "zh-TW": "胡塞武裝（Houthis）宣稱以彈道飛彈瞄準沙烏地阿拉伯（Saudi Arabia）首都利雅德（Riyadh），機場燃料庫據報遭擊中導致延誤。沙烏地阿拉伯（Saudi Arabia）表示擊落飛彈。伊朗支持的該組織同時在也門（Yemen）與沙烏地阿拉伯（Saudi Arabia）支持的政府軍交戰，試圖擴張領土。"
+    },
+    "body": {
+      "en": "Lede: Houthis claim to have targeted the Saudi capital Riyadh with ballistic missiles while engaged in territorial expansion efforts in Yemen. What happened: According to BBC World, Houthis stated they targeted the Saudi capital with ballistic missiles and a reported strike on a fuel depot at Riyadh airport caused delays on Saturday. Saudi Arabia says it shot down a ballistic missile aimed at the capital. NPR World reports Saudi Arabia said Yemen's Houthi rebels tried to attack Riyadh with a ballistic missile, the first time its capital has been targeted since the escalation in fighting with the Iran-backed rebels. NYT World notes the Iranian-backed militia was engaged in fierce battles with Saudi-backed government forces in Yemen on Sunday as it seeks to maintain momentum in the war. Why it matters: The reported missile attempt marks renewed direct threats to Saudi territory amid ongoing Yemen conflict, highlighting rising tensions between Houthis and Saudi Arabia. Sources agree/disagree: All sources describe the missile incident involving Riyadh and Houthi actions in Yemen without conflicting details on events. Still uncertain: Exact outcomes of the reported airport delays and specific battle results in Yemen remain unconfirmed beyond the provided reports.",
+      "zh-TW": "導言：胡塞武裝（Houthis）宣稱以彈道飛彈瞄準沙烏地阿拉伯（Saudi Arabia）首都利雅德（Riyadh），同時在也門（Yemen）進行領土擴張行動。 事件經過：根據BBC World報導，胡塞武裝（Houthis）表示以彈道飛彈瞄準沙烏地阿拉伯（Saudi Arabia）首都，利雅德（Riyadh）機場燃料庫據報於週六遭擊中導致延誤。沙烏地阿拉伯（Saudi Arabia）表示擊落瞄準首都的彈道飛彈。NPR World報導沙烏地阿拉伯（Saudi Arabia）指也門胡塞叛軍試圖以彈道飛彈攻擊利雅德（Riyadh），這是首都自與伊朗支持叛軍戰事升溫以來首次遭瞄準。NYT World指出伊朗支持的民兵週日在也門（Yemen）與沙烏地阿拉伯（Saudi Arabia）支持的政府軍激烈交戰，試圖維持戰爭勢頭。 重要性：據報飛彈企圖標誌對沙烏地阿拉伯（Saudi Arabia）領土的直接威脅再度出現，凸顯胡塞武裝（Houthis）與沙烏地阿拉伯（Saudi Arabia）之間緊張局勢上升。 來源一致／分歧：所有來源均描述涉及利雅德（Riyadh）的飛彈事件及胡塞武裝（Houthis）在也門（Yemen）的行動，事件細節無衝突。 仍未確定：利雅德（Riyadh）機場延誤的確切結果及也門（Yemen）具體戰鬥結果，除報導外仍未確認。"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital"
+      },
+      {
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Houthis",
+          "zh-TW": "胡塞武裝（Houthis）"
+        },
+        "blurb": {
+          "en": "Iranian-backed militia group operating in Yemen.",
+          "zh-TW": "在也門（Yemen）活動的伊朗支持民兵組織。"
+        }
+      },
+      {
+        "term": {
+          "en": "Saudi Arabia",
+          "zh-TW": "沙烏地阿拉伯（Saudi Arabia）"
+        },
+        "blurb": {
+          "en": "Country reporting missile attack attempt on its capital Riyadh.",
+          "zh-TW": "報告首都利雅德（Riyadh）飛彈攻擊企圖的國家。"
+        }
+      },
+      {
+        "term": {
+          "en": "Riyadh",
+          "zh-TW": "利雅德（Riyadh）"
+        },
+        "blurb": {
+          "en": "Capital of Saudi Arabia targeted in reported missile incident.",
+          "zh-TW": "據報飛彈事件瞄準的沙烏地阿拉伯（Saudi Arabia）首都。"
+        }
+      },
+      {
+        "term": {
+          "en": "Yemen",
+          "zh-TW": "也門（Yemen）"
+        },
+        "blurb": {
+          "en": "Country where Houthis battle Saudi-backed government forces.",
+          "zh-TW": "胡塞武裝（Houthis）與沙烏地阿拉伯（Saudi Arabia）支持政府軍交戰的國家。"
+        }
+      }
+    ],
+    "trustScore": 94,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 23,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "npr-world",
+      "nyt-world"
+    ]
+  },
+  {
+    "id": "live-international-02-nato-welcomes-greenland-",
+    "category": "international",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-nato-welcomes-greenland-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "zh-TW": "相關封面圖：北大西洋公約組織（Nato）、川普（Donald Trump）與丹麥（Denmark）就格陵蘭協議及美國安全控制權"
+    },
+    "publishedAt": "2026-09-20T17:25:49.000Z",
+    "title": {
+      "en": "Nato, Trump and Denmark on Greenland Deal with US Security Control",
+      "zh-TW": "北大西洋公約組織（Nato）、川普（Donald Trump）與丹麥（Denmark）就格陵蘭協議及美國安全控制權"
+    },
+    "summary": {
+      "en": "Nato welcomes a Greenland deal between Denmark and the US after months of threats from Donald Trump to annex the territory. Trump claims the agreement grants the US permanent security control. UK politician Burnham hails the deal while Lib Dem leader Ed Davey calls it a pretend victory ahead of a possible Trump meeting.",
+      "zh-TW": "北大西洋公約組織（Nato）歡迎丹麥（Denmark）與美國（United States）達成格陵蘭協議，此前川普（Donald Trump）曾威脅併吞該領土數月。川普宣稱協議將給予美國永久安全控制權。英國政治人物Burnham讚揚協議，而自由民主黨領袖Ed Davey則稱之為假勝利。"
+    },
+    "body": {
+      "en": "Lede: Nato welcomes Greenland deal as Trump says it will give US permanent security control. What happened: Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory. Burnham hails Greenland deal ahead of expected first Trump meeting. Why it matters: The agreement follows prolonged tensions involving annexation threats and receives support from Nato. Sources agree/disagree: BBC World and BBC UK both report on the Greenland deal and positive Nato and Burnham reactions. The Guardian Business source discusses unrelated Cuba assets and sanctions. Still uncertain: While Burnham praised the agreement, Lib Dem leader Ed Davey called it a pretend victory for Trump.",
+      "zh-TW": "導言：北大西洋公約組織（Nato）歡迎格陵蘭協議，川普（Donald Trump）表示協議將給予美國永久安全控制權。 事件經過：丹麥（Denmark）與美國（United States）在川普（Donald Trump）威脅併吞該領土數月後達成協議。Burnham在預期首次與川普（Donald Trump）會面前讚揚格陵蘭協議。 重要性：協議在長期緊張局勢後達成，並獲得北大西洋公約組織（Nato）支持。 來源一致與分歧：BBC World與BBC UK均報導格陵蘭協議及北大西洋公約組織（Nato）和Burnham的正面反應。The Guardian Business來源討論無關的古巴資產與制裁。 仍未確定：Burnham讚揚協議，但自由民主黨領袖Ed Davey稱之為川普（Donald Trump）的假勝利。"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-marco-rubio-cuba"
+      },
+      {
+        "name": "BBC UK",
+        "url": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Nato",
+          "zh-TW": "北大西洋公約組織（Nato）"
+        },
+        "blurb": {
+          "en": "Nato is the organization that welcomes the Greenland deal.",
+          "zh-TW": "北大西洋公約組織（Nato）是歡迎格陵蘭協議的組織。"
+        }
+      },
+      {
+        "term": {
+          "en": "Donald Trump",
+          "zh-TW": "川普（Donald Trump）"
+        },
+        "blurb": {
+          "en": "Donald Trump is the figure who says the deal gives US permanent security control.",
+          "zh-TW": "川普（Donald Trump）是表示協議將給予美國永久安全控制權的人物。"
+        }
+      },
+      {
+        "term": {
+          "en": "Burnham",
+          "zh-TW": "Burnham"
+        },
+        "blurb": {
+          "en": "Burnham is the politician who hails the Greenland deal.",
+          "zh-TW": "Burnham是讚揚格陵蘭協議的政治人物。"
+        }
+      }
+    ],
+    "trustScore": 86,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 23,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "the-guardian-business",
+      "bbc-uk"
+    ]
+  },
+  {
+    "id": "live-tech-01-meta-s-muse-is-better-at",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-01-meta-s-muse-is-better-at.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Meta's Muse Is Better at Surveilling Than Helping Me",
+      "zh-TW": "相關封面圖：Meta（Meta） Muse AI 助理監控用戶多於協助"
+    },
+    "publishedAt": "2026-09-20T10:30:00.000Z",
+    "title": {
+      "en": "Meta Muse AI Assistant Surveils Users More Than It Helps",
+      "zh-TW": "Meta（Meta） Muse AI 助理監控用戶多於協助"
+    },
+    "summary": {
+      "en": "Meta's Muse AI app accesses Messages, Calendar, and Notes on Mac while opting users into data collection for training. It also prompts sharing of bank, email, and passport details, raising privacy issues despite its assistant capabilities.",
+      "zh-TW": "Meta（Meta） Muse AI 應用程式可在 Mac 上存取訊息、日曆與筆記，並將用戶納入 AI 訓練資料收集，還提示分享銀行、電子郵件與護照資訊，儘管具助理功能但引發隱私疑慮。"
+    },
+    "body": {
+      "en": "Lede: Meta's Muse AI assistant draws attention for its surveillance features rather than helpfulness. What happened: The Verge reports Muse as an effective AI assistant yet creepy due to its Mac app accessing Messages, Calendar, and Notes. Wired AI notes the app continues Meta’s trend of opting users into data collection for AI training and nudges sharing of bank account, email, and passport information. Jason Aten shared screenshots on Threads of Muse questioning a Messages conversation. Why it matters: The access and data prompts highlight ongoing privacy concerns with Meta products integrating AI. Sources agree/disagree: Both outlets describe Muse's data practices and creepy elements without conflicting details. Still uncertain: Exact user opt-in flows and data usage scope remain unclear from the reports.",
+      "zh-TW": "導言：Meta（Meta） Muse AI 助理因監控功能而非協助性引發關注。 事件經過：The Verge 報導 Muse 為有效 AI 助理，但因 Mac 應用程式可存取訊息、日曆與筆記而顯詭異。Wired AI 指出該應用程式延續 Meta（Meta） 將用戶納入 AI 訓練資料收集的趨勢，並提示分享銀行帳戶、電子郵件與護照資訊。Jason Aten 在 Threads 分享 Muse 詢問訊息對話的截圖。 重要性：存取權限與資料提示凸顯 Meta（Meta） 產品整合 AI 的隱私疑慮。 來源一致／分歧：兩家媒體均描述 Muse 的資料做法與詭異元素，無衝突細節。 仍未確定：確切用戶選擇加入流程與資料使用範圍在報導中仍不明確。"
+    },
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy"
+      },
+      {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Meta",
+          "zh-TW": "Meta（Meta）"
+        },
+        "blurb": {
+          "en": "Company developing the Muse AI assistant.",
+          "zh-TW": "開發 Muse AI 助理的公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "Muse",
+          "zh-TW": "Muse"
+        },
+        "blurb": {
+          "en": "Meta AI assistant app with Mac access to Messages, Calendar, and Notes.",
+          "zh-TW": "Meta（Meta） AI 助理應用程式，可存取 Mac 上的訊息、日曆與筆記。"
+        }
+      },
+      {
+        "term": {
+          "en": "Jason Aten",
+          "zh-TW": "Jason Aten"
+        },
+        "blurb": {
+          "en": "Inc Magazine contributing editor who shared Muse interaction screenshots on Threads.",
+          "zh-TW": "Inc Magazine 特約編輯，在 Threads 分享 Muse 互動截圖。"
+        }
+      }
+    ],
+    "trustScore": 72,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 18,
+      "crossCorroboration": 15,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "tech",
+      "live-ingest",
+      "the-verge",
+      "wired-ai"
+    ]
+  },
+  {
+    "id": "live-finance-01-billionaire-man-united-o",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-01-billionaire-man-united-o.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Billionaire Man United owner says he has lost confidence in the UK",
+      "zh-TW": "相關封面圖：詹姆·瑞克里夫（Sir Jim Ratcliffe）表示對英國失去信心"
+    },
+    "publishedAt": "2026-09-20T11:22:21.000Z",
+    "title": {
+      "en": "Sir Jim Ratcliffe Says He Has Lost Confidence in the UK",
+      "zh-TW": "詹姆·瑞克里夫（Sir Jim Ratcliffe）表示對英國失去信心"
+    },
+    "summary": {
+      "en": "Ineos founder and Manchester United owner Sir Jim Ratcliffe told BBC he has lost confidence in the UK due to high taxes and high immigration. He described the country as on the slide and called for more North Sea investment. A Labour chair stated he lost moral high ground after becoming a tax exile.",
+      "zh-TW": "英力士（Ineos）創辦人暨曼聯（Manchester United）老闆詹姆·瑞克里夫（Sir Jim Ratcliffe）向BBC表示，因高稅與高移民對英國失去信心。他形容國家正在下滑，並呼籲增加北海投資。工黨主席指出，他因稅務流亡已失去道德高地。"
+    },
+    "body": {
+      "en": "Lede: Ineos founder Sir Jim Ratcliffe, owner of Manchester United, stated he has lost confidence in the UK. What happened: Speaking to BBC Business, Ratcliffe cited a combination of high taxes and high immigration as reasons for his view that the country is on the slide. He also called for more investment in the North Sea. A separate BBC Business report noted a Labour chair's comment that Ratcliffe has lost moral high ground after becoming a tax exile. Why it matters: The statements from the billionaire businessman highlight concerns over UK economic policies and their impact on business leaders. Sources agree/disagree: Both BBC Business reports cover Ratcliffe's loss of confidence and related comments without conflicting details. Still uncertain: No further details on specific policy changes or responses from UK officials are provided in the sources.",
+      "zh-TW": "導言：英力士（Ineos）創辦人暨曼聯（Manchester United）老闆詹姆·瑞克里夫（Sir Jim Ratcliffe）表示對英國失去信心。 事件經過：詹姆·瑞克里夫（Sir Jim Ratcliffe）向BBC Business表示，高稅與高移民是導致他認為國家正在下滑的原因。他同時呼籲增加北海投資。另一篇BBC Business報導提及工黨主席的評論，指出詹姆·瑞克里夫（Sir Jim Ratcliffe）因稅務流亡已失去道德高地。 重要性：這位億萬富翁商人的發言凸顯對英國經濟政策的關注及其對商界領袖的影響。 來源一致／分歧：兩篇BBC Business報導均涵蓋詹姆·瑞克里夫（Sir Jim Ratcliffe）失去信心及相關評論，無衝突細節。 仍未確定：來源未提供英國官員具體政策回應或進一步細節。"
+    },
+    "sources": [
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Sir Jim Ratcliffe",
+          "zh-TW": "詹姆·瑞克里夫（Sir Jim Ratcliffe）"
+        },
+        "blurb": {
+          "en": "Founder of Ineos and owner of Manchester United.",
+          "zh-TW": "英力士（Ineos）創辦人暨曼聯（Manchester United）老闆。"
+        }
+      },
+      {
+        "term": {
+          "en": "Ineos",
+          "zh-TW": "英力士（Ineos）"
+        },
+        "blurb": {
+          "en": "Company founded by Sir Jim Ratcliffe.",
+          "zh-TW": "詹姆·瑞克里夫（Sir Jim Ratcliffe）創立的企業。"
+        }
+      },
+      {
+        "term": {
+          "en": "Manchester United",
+          "zh-TW": "曼聯（Manchester United）"
+        },
+        "blurb": {
+          "en": "Football club owned by Sir Jim Ratcliffe.",
+          "zh-TW": "詹姆·瑞克里夫（Sir Jim Ratcliffe）擁有的足球俱樂部。"
+        }
+      }
+    ],
+    "trustScore": 70,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 24,
+      "crossCorroboration": 15,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "bbc-business",
+      "bbc-business"
+    ]
+  },
+  {
+    "id": "live-tech-02-trump-says-it-s-time-to-",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-02-trump-says-it-s-time-to-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "zh-TW": "相關封面圖：川普（Trump）提議為人工智慧重新命名並創建AI Force"
+    },
+    "publishedAt": "2026-09-20T15:39:22.000Z",
+    "title": {
+      "en": "Trump Proposes Rebranding AI and Creating an AI Force",
+      "zh-TW": "川普（Trump）提議為人工智慧重新命名並創建AI Force"
+    },
+    "summary": {
+      "en": "President Trump stated it is time to rebrand AI with a new name while announcing plans to create an AI Force. He posted on Truth Social about appointing an AI czar to lead the force and claimed the AI backlash is a Democratic hoax without evidence. His administration pledged to support the industry's growth.",
+      "zh-TW": "總統川普（Trump）表示是時候為人工智慧重新命名，同時宣布計畫創建AI Force。他在Truth Social上發文表示將任命AI czar領導該部隊，並聲稱人工智慧的反彈是民主黨的騙局，沒有證據。他的政府承諾支持產業成長。"
+    },
+    "body": {
+      "en": "Lede: President Trump announced plans to rebrand AI and form an AI Force amid industry debates. What happened: Trump posted on Truth Social that he wanted to appoint an AI czar to lead a new AI force. He claimed without evidence that the AI backlash is a Democratic hoax. The announcement came as calls grew to slow AI development. Why it matters: The statements signal continued government support for AI growth rather than restrictions. Sources agree/disagree: Both sources report the AI Force announcement and related posts; TechCrunch adds the rebranding suggestion and hoax claim. Still uncertain: Details on the rebranding name and full data center comments remain unspecified in available reports.",
+      "zh-TW": "導言：總統川普（Trump）宣布計畫重新命名人工智慧並成立AI Force，此舉正值產業辯論之際。 事件經過：川普（Trump）在Truth Social上發文表示希望任命AI czar領導新的AI force。他聲稱人工智慧的反彈是民主黨的騙局，但未提供證據。此宣布正值各方呼籲放緩人工智慧發展之時。 重要性：這些言論顯示政府將持續支持人工智慧成長而非施加限制。 來源一致與分歧：兩則來源均報導AI Force宣布及相關貼文；TechCrunch額外提及重新命名建議與騙局指控。 仍未確定：重新命名的具體名稱以及資料中心評論的完整內容在現有報導中未詳述。"
+    },
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Trump",
+          "zh-TW": "川普（Trump）"
+        },
+        "blurb": {
+          "en": "President of the United States making the AI announcements.",
+          "zh-TW": "美國總統，作出人工智慧相關宣布。"
+        }
+      },
+      {
+        "term": {
+          "en": "AI Force",
+          "zh-TW": "AI Force"
+        },
+        "blurb": {
+          "en": "Proposed new entity to be led by an AI czar.",
+          "zh-TW": "擬議新實體，將由AI czar領導。"
+        }
+      },
+      {
+        "term": {
+          "en": "Truth Social",
+          "zh-TW": "Truth Social"
+        },
+        "blurb": {
+          "en": "Platform where the president posted the announcements.",
+          "zh-TW": "總統發布宣布的平台。"
+        }
+      }
+    ],
+    "trustScore": 74,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 18,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "tech",
+      "live-ingest",
+      "techcrunch",
+      "the-verge"
+    ]
+  },
+  {
+    "id": "live-entertainment-01-resident-evil-ending-exp",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-01-resident-evil-ending-exp.jpg",
+    "imageAlt": {
+      "en": "Cover related to: ‘Resident Evil’ Ending Explained, Sequel Updates Revealed: Does Bryan Die?",
+      "zh-TW": "相關封面圖：查克·克雷格（Zach Cregger）的《惡靈古堡》電影上映後引發粉絲反彈"
+    },
+    "publishedAt": "2026-09-20T16:59:12.000Z",
+    "title": {
+      "en": "Zach Cregger's Resident Evil Movie Draws Fan Backlash After Release",
+      "zh-TW": "查克·克雷格（Zach Cregger）的《惡靈古堡》電影上映後引發粉絲反彈"
+    },
+    "summary": {
+      "en": "Sony Pictures released Zach Cregger's 2026 Resident Evil film this weekend. The new story follows Bryan, played by Austin Abrams, a medical courier in a survival race. Critics praised the adaptation, but director Zach Cregger expressed surprise at the fan backlash.",
+      "zh-TW": "索尼影業（Sony Pictures）本週末上映查克·克雷格（Zach Cregger）執導的2026年《惡靈古堡》電影。新故事主角布萊恩（Bryan）由奧斯汀·艾布拉姆斯（Austin Abrams）飾演，是一名陷入求生競賽的醫療快遞員。影評人讚賞改編，但導演對粉絲反彈感到意外。"
+    },
+    "body": {
+      "en": "Lede: Zach Cregger directed a new Resident Evil movie for Sony Pictures that opened in theaters this weekend. What happened: The film presents an original story in the video game universe, centering on Bryan, a medical courier portrayed by Austin Abrams, who faces chaos and survival challenges. Why it matters: The adaptation received positive critic reviews, yet the director noted unexpected fan reactions. Sources agree/disagree: Both sources confirm the movie's release, its basis in the video game series, and the director's comments on fan backlash alongside critical success. Still uncertain: Details on sequel updates or specific plot resolutions such as Bryan's fate are mentioned in titles but not elaborated in available information.",
+      "zh-TW": "導言：查克·克雷格（Zach Cregger）為索尼影業（Sony Pictures）執導的新《惡靈古堡》電影本週末在戲院上映。 事件經過：電影呈現電子遊戲宇宙中的全新故事，主角布萊恩（Bryan）由奧斯汀·艾布拉姆斯（Austin Abrams）飾演，他是一名醫療快遞員，面臨混亂與求生挑戰。 重要性：改編作品獲得影評人正面評價，但導演表示粉絲反應出乎意料。 來源一致／分歧：兩則來源均確認電影上映、基於電子遊戲系列，以及導演對粉絲反彈與影評成功的評論。 仍未確定：片名提及續集更新或布萊恩命運等劇情細節，但現有資訊未提供說明。"
+    },
+    "sources": [
+      {
+        "name": "Just Jared",
+        "url": "https://www.justjared.com/2026/09/20/resident-evil-ending-explained-sequel-updates-revealed-does-bryan-die/"
+      },
+      {
+        "name": "BBC Entertainment",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Zach Cregger",
+          "zh-TW": "查克·克雷格（Zach Cregger）"
+        },
+        "blurb": {
+          "en": "Director of the 2026 Resident Evil movie.",
+          "zh-TW": "2026年《惡靈古堡》電影導演。"
+        }
+      },
+      {
+        "term": {
+          "en": "Sony Pictures",
+          "zh-TW": "索尼影業（Sony Pictures）"
+        },
+        "blurb": {
+          "en": "Studio that released the Resident Evil film.",
+          "zh-TW": "發行《惡靈古堡》電影的製片廠。"
+        }
+      },
+      {
+        "term": {
+          "en": "Austin Abrams",
+          "zh-TW": "奧斯汀·艾布拉姆斯（Austin Abrams）"
+        },
+        "blurb": {
+          "en": "Actor portraying Bryan in the Resident Evil movie.",
+          "zh-TW": "在《惡靈古堡》電影中飾演布萊恩的演員。"
+        }
+      },
+      {
+        "term": {
+          "en": "Bryan",
+          "zh-TW": "布萊恩（Bryan）"
+        },
+        "blurb": {
+          "en": "Main character who is a medical courier in the Resident Evil film.",
+          "zh-TW": "《惡靈古堡》電影中擔任醫療快遞員的主角。"
+        }
+      }
+    ],
+    "trustScore": 74,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 18,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "just-jared",
+      "bbc-entertainment"
+    ]
+  },
+  {
+    "id": "live-ai-01-new-insights-from-google",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-ai-01-new-insights-from-google.webp",
+    "imageAlt": {
+      "en": "Cover related to: New insights from Google’s AI & Economy ATLAS",
+      "zh-TW": "相關封面圖：谷歌（Google） AI 與經濟 ATLAS 及團隊擴張"
+    },
+    "publishedAt": "2026-09-18T14:00:00.000Z",
+    "title": {
+      "en": "Google AI & Economy ATLAS and Team Expansion",
+      "zh-TW": "谷歌（Google） AI 與經濟 ATLAS 及團隊擴張"
+    },
+    "summary": {
+      "en": "Google AI Blog reports expansion of its AI & Economy team with academic advisors, fellows, and internal researchers. It also highlights new insights from the AI & Economy ATLAS, converting millions of global data points into an interactive open-access experience.",
+      "zh-TW": "Google AI Blog 報導擴張其 AI 與經濟團隊，加入學術顧問、研究員及內部研究人員。同時強調 AI 與經濟 ATLAS 的新見解，將數百萬全球資料點轉化為互動開放存取體驗。"
+    },
+    "body": {
+      "en": "Lede: Google’s AI & Economy ATLAS and team expansion feature in recent Google AI Blog posts. What happened: The Google AI Blog announced expansion of the AI & Economy team by adding world-class academic advisors, fellows, and core internal researchers. Separately, the same outlet described new insights from Google’s AI & Economy ATLAS, translating its millions of global data points into an interactive, open-access experience. Why it matters: These updates from Google AI Blog strengthen research capacity in AI economics and improve public access to large-scale data visualizations. Sources agree/disagree: Both items originate from Google AI Blog and present complementary developments without conflicting details. Still uncertain: No additional outcomes, timelines, or specific names beyond the team categories and ATLAS data translation are provided in the sources.",
+      "zh-TW": "導言：谷歌（Google） AI 與經濟 ATLAS 及團隊擴張出現在 Google AI Blog 近期文章中。 發生事件：Google AI Blog 宣布擴張 AI 與經濟團隊，新增世界級學術顧問、研究員及核心內部研究人員。同一來源另描述 AI 與經濟 ATLAS 的新見解，將其數百萬全球資料點轉譯為互動開放存取體驗。 重要性：這些 Google AI Blog 更新強化 AI 經濟研究能量，並改善大規模資料視覺化的公眾存取。 來源同意或分歧：兩項內容均來自 Google AI Blog，呈現互補發展且無衝突細節。 仍不確定：來源未提供團隊類別與 ATLAS 資料轉譯以外的成果、時間表或具體名稱。"
+    },
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Google",
+          "zh-TW": "谷歌（Google）"
+        },
+        "blurb": {
+          "en": "Organization publishing the AI & Economy team and ATLAS updates via its AI Blog.",
+          "zh-TW": "透過 AI Blog 發布 AI 與經濟團隊及 ATLAS 更新的組織。"
+        }
+      },
+      {
+        "term": {
+          "en": "AI & Economy ATLAS",
+          "zh-TW": "AI 與經濟 ATLAS"
+        },
+        "blurb": {
+          "en": "Project whose millions of global data points were translated into an interactive open-access experience.",
+          "zh-TW": "其數百萬全球資料點被轉化為互動開放存取體驗的專案。"
+        }
+      }
+    ],
+    "trustScore": 58,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 18,
+      "crossCorroboration": 15,
+      "recencyClarity": 17
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "google-ai-blog",
+      "google-ai-blog"
+    ]
+  },
+  {
+    "id": "live-entertainment-02-sunday-night-football-ho",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-02-sunday-night-football-ho.png",
+    "imageAlt": {
+      "en": "Cover related to: ‘Sunday Night Football’: How to Watch the Indianapolis Colts vs. Kansas City Chiefs Game Live Online Free",
+      "zh-TW": "相關封面圖：傑倫·布朗森（Jalen Brunson）、達科塔·強森（Dakota Johnson）、泰勒·斯威夫特（Taylor Swift）與SEVENTEEN成員喬舒亞（Joshua）近期娛樂提及"
+    },
+    "publishedAt": "2026-09-20T19:03:52.000Z",
+    "title": {
+      "en": "Jalen Brunson, Dakota Johnson, Taylor Swift, and SEVENTEEN’s Joshua in Recent Entertainment Mentions",
+      "zh-TW": "傑倫·布朗森（Jalen Brunson）、達科塔·強森（Dakota Johnson）、泰勒·斯威夫特（Taylor Swift）與SEVENTEEN成員喬舒亞（Joshua）近期娛樂提及"
+    },
+    "summary": {
+      "en": "Sources mention Jalen Brunson hosting SNL Season 52 premiere along with Dakota Johnson as a host. Taylor Swift attendance at the September 20 Chiefs game remains a question. SEVENTEEN’s Joshua released a live clip teaser for his digital single Baby Come Home set for September 22.",
+      "zh-TW": "消息來源提及傑倫·布朗森（Jalen Brunson）主持SNL第52季首播，達科塔·強森（Dakota Johnson）亦為主持人之一。泰勒·斯威夫特（Taylor Swift）是否出席9月20日酋長隊比賽仍為疑問。SEVENTEEN成員喬舒亞（Joshua）釋出數位單曲《Baby Come Home》直播剪輯預告，定於9月22日發行。"
+    },
+    "body": {
+      "en": "Lede: Entertainment mentions from recent reports include SNL Season 52 hosts and a query on Taylor Swift at an NFL game, alongside a K-pop single teaser. What happened: Hollywood Life reports Jalen Brunson heading to Studio 8H for the SNL Season 52 premiere and lists Dakota Johnson among hosts, with musical guests noted. Just Jared asks if Taylor Swift is going to the Chiefs game on September 20 against the Indianapolis Colts. Soompi states SEVENTEEN’s Joshua unveiled a live clip teaser for the digital single Baby Come Home, including Chinese and English versions, releasing September 22 at 1 p.m. KST. Billboard references possible celebrity sightings at the same Chiefs game. Why it matters: These items touch on celebrity appearances tied to live events and music releases that draw public attention. Sources agree/disagree: Outlets align on SNL hosts Jalen Brunson and Dakota Johnson, the September 20 Chiefs-Colts matchup, and Joshua’s single details without noted conflicts. Still uncertain: Taylor Swift’s attendance at the game is presented as unknown in the available information.",
+      "zh-TW": "導言：近期報導中的娛樂提及包括SNL第52季主持人，以及泰勒·斯威夫特（Taylor Swift）出席NFL比賽的疑問，另有K-pop單曲預告。 事件經過：好萊塢生活報導傑倫·布朗森（Jalen Brunson）前往Studio 8H主持SNL第52季首播，並列出達科塔·強森（Dakota Johnson）等主持人，附有音樂嘉賓。Just Jared詢問泰勒·斯威夫特（Taylor Swift）是否出席9月20日酋長隊對印第安納波利斯小馬隊的比賽。Soompi指出SEVENTEEN成員喬舒亞（Joshua）釋出數位單曲《Baby Come Home》直播剪輯預告，包含中文與英文版本，定於9月22日下午1時KST發行。Billboard提及同一場酋長隊比賽可能有名人現身。 重要性：這些項目涉及與現場活動及音樂發行相關的名人現身，吸引公眾關注。 來源一致／分歧：各媒體對SNL主持人傑倫·布朗森（Jalen Brunson）與達科塔·強森（Dakota Johnson）、9月20日酋長隊對小馬隊比賽，以及喬舒亞（Joshua）單曲細節看法一致，未見衝突。 仍未確定：泰勒·斯威夫特（Taylor Swift）是否出席比賽在現有資訊中仍屬未知。"
+    },
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/"
+      },
+      {
+        "name": "Soompi",
+        "url": "https://www.soompi.com/article/1871935wpp/watch-seventeens-joshua-unveils-live-clip-teaser-for-digital-single-baby-come-home"
+      },
+      {
+        "name": "Hollywood Life",
+        "url": "https://hollywoodlife.com/2026/09/20/saturday-night-love-2026-hosts-season-52/"
+      },
+      {
+        "name": "Hollywood Life",
+        "url": "https://hollywoodlife.com/feature/saturday-night-live-season-52-cast-episode-air-date-5560035/"
+      },
+      {
+        "name": "Just Jared",
+        "url": "https://www.justjared.com/2026/09/20/is-taylor-swift-going-to-chiefs-game-today-september-20-what-we-know/"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 8216 vs 8220 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 8216 與 8220）。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Jalen Brunson",
+          "zh-TW": "傑倫·布朗森（Jalen Brunson）"
+        },
+        "blurb": {
+          "en": "Host for SNL Season 52 premiere.",
+          "zh-TW": "SNL第52季首播主持人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Dakota Johnson",
+          "zh-TW": "達科塔·強森（Dakota Johnson）"
+        },
+        "blurb": {
+          "en": "Listed as host for SNL Season 52.",
+          "zh-TW": "列為SNL第52季主持人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Taylor Swift",
+          "zh-TW": "泰勒·斯威夫特（Taylor Swift）"
+        },
+        "blurb": {
+          "en": "Subject of query regarding attendance at September 20 Chiefs game.",
+          "zh-TW": "9月20日酋長隊比賽出席與否的詢問對象。"
+        }
+      },
+      {
+        "term": {
+          "en": "Joshua",
+          "zh-TW": "喬舒亞（Joshua）"
+        },
+        "blurb": {
+          "en": "SEVENTEEN member releasing digital single Baby Come Home on September 22.",
+          "zh-TW": "SEVENTEEN成員，將於9月22日發行數位單曲《Baby Come Home》。"
+        }
+      }
+    ],
+    "trustScore": 81,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 14,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "billboard",
+      "soompi",
+      "hollywood-life"
+    ]
+  },
+  {
+    "id": "live-entertainment-03-youth-episode-schedule-w",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-03-youth-episode-schedule-w.jpg",
+    "imageAlt": {
+      "en": "Cover related to: ‘Youth’ Episode Schedule: When Do New Episodes of Sharon Horgan’s HBO Show Come Out?",
+      "zh-TW": "相關封面圖：莎朗·霍根（Sharon Horgan）《Youth》HBO影集集數排程"
+    },
+    "publishedAt": "2026-09-20T18:17:54.000Z",
+    "title": {
+      "en": "Sharon Horgan’s Youth HBO Series Episode Schedule",
+      "zh-TW": "莎朗·霍根（Sharon Horgan）《Youth》HBO影集集數排程"
+    },
+    "summary": {
+      "en": "Sharon Horgan created and stars in the new HBO comedy series Youth, which premieres with its first two episodes on September 20 at 10 p.m. ET/PT on HBO and streams on HBO Max. Subsequent episodes air weekly on Sundays through early November. Horgan notes it is weird watching herself age on screen in the show about sex and dating for the sandwich generation.",
+      "zh-TW": "莎朗·霍根（Sharon Horgan）創作並主演全新HBO喜劇影集《Youth》，首兩集將於9月20日晚間10點（ET/PT）在HBO首播，並於HBO Max串流。之後每週日播出一集，直至11月初。霍根表示在劇中觀看自己老化感覺很奇怪，該劇探討三明治世代的性與約會議題。"
+    },
+    "body": {
+      "en": "Lede: Sharon Horgan returns to television with her new HBO comedy series Youth. What happened: The series premieres with its first two episodes on Sunday night September 20 at 10 p.m. ET/PT on HBO. After the two-episode premiere, Youth will air one new episode every Sunday through the beginning of November. The episodes will also be available to stream on HBO Max. Why it matters: The show addresses sex and dating for the sandwich generation. Sources agree/disagree: Both sources confirm Sharon Horgan created, wrote and stars in Youth on HBO and HBO Max. Still uncertain: Specific episode titles or plot details beyond the premiere schedule are not provided.",
+      "zh-TW": "導言：莎朗·霍根（Sharon Horgan）以全新HBO喜劇影集《Youth》重返電視。 事件經過：該影集首兩集將於9月20日晚間10點（ET/PT）在HBO首播。首播後，《Youth》將每週日播出一集，直至11月初。集數亦可在HBO Max串流觀看。 重要性：該劇探討三明治世代的性與約會議題。 來源一致／分歧：兩來源均確認莎朗·霍根（Sharon Horgan）創作、編劇並主演HBO與HBO Max的《Youth》。 仍未確定：首播排程以外的具體集數標題或劇情細節未提供。"
+    },
+    "sources": [
+      {
+        "name": "Just Jared",
+        "url": "https://www.justjared.com/2026/09/20/aran-murphy-hbo-hbo-max-robbie-gee-rupert-friend-sharon-horgan-sharlene-whyte-television-youth/"
+      },
+      {
+        "name": "BBC Entertainment",
+        "url": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Sharon Horgan",
+          "zh-TW": "莎朗·霍根（Sharon Horgan）"
+        },
+        "blurb": {
+          "en": "Creator, writer and star of the HBO comedy series Youth.",
+          "zh-TW": "HBO喜劇影集《Youth》的創作者、編劇與主演。"
+        }
+      },
+      {
+        "term": {
+          "en": "Youth",
+          "zh-TW": "Youth"
+        },
+        "blurb": {
+          "en": "New HBO comedy series created by Sharon Horgan premiering September 20.",
+          "zh-TW": "莎朗·霍根（Sharon Horgan）創作的新HBO喜劇影集，9月20日首播。"
+        }
+      },
+      {
+        "term": {
+          "en": "HBO",
+          "zh-TW": "HBO"
+        },
+        "blurb": {
+          "en": "Network airing the series Youth with episodes on Sundays.",
+          "zh-TW": "播出《Youth》影集的電視網，每週日播出集數。"
+        }
+      },
+      {
+        "term": {
+          "en": "HBO Max",
+          "zh-TW": "HBO Max"
+        },
+        "blurb": {
+          "en": "Streaming service offering episodes of the series Youth.",
+          "zh-TW": "提供《Youth》影集集數的串流服務。"
+        }
+      }
+    ],
+    "trustScore": 74,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 18,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "just-jared",
+      "bbc-entertainment"
+    ]
+  },
+  {
+    "id": "live-ai-02-a-new-chapter-for-mit-re",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-ai-02-a-new-chapter-for-mit-re.png",
+    "imageAlt": {
+      "en": "Cover related to: A new chapter for MIT Reads",
+      "zh-TW": "相關封面圖：MIT Reads（MIT Reads）為人工智慧時代重新構想"
+    },
+    "publishedAt": "2026-09-18T16:30:00.000Z",
+    "title": {
+      "en": "MIT Reads Reimagined for Artificial Intelligence Age",
+      "zh-TW": "MIT Reads（MIT Reads）為人工智慧時代重新構想"
+    },
+    "summary": {
+      "en": "MIT Reads marks its 10-year anniversary by shifting focus to fiction and memoir. The MIT Libraries program aims to foster social connection and shared humanity through stories in the age of artificial intelligence. It highlights the power of reading to understand ourselves and our place in the world.",
+      "zh-TW": "MIT Reads（MIT Reads）慶祝十週年，將焦點轉向小說與回憶錄。MIT Libraries（MIT Libraries）的計畫在人工智慧時代透過故事促進社會連結與共享人性，強調閱讀幫助理解自我與世界的位置。"
+    },
+    "body": {
+      "en": "Lede: MIT Reads is entering a new phase as it celebrates its 10-year anniversary. What happened: The program from MIT Libraries is being reimagined for the age of artificial intelligence. It will now emphasize fiction and memoir to build social connections and a sense of shared humanity. Why it matters: At MIT, much time is spent imagining and building for the future. Reading fiction prompts thinking about how what we create affects our understanding of ourselves and our place in the world. Sources agree/disagree: No conflicts reported across available sources. Still uncertain: Details on specific upcoming titles or events remain unspecified in the provided information.",
+      "zh-TW": "導言：MIT Reads（MIT Reads）在慶祝十週年之際進入新階段。 事件經過：來自MIT Libraries（MIT Libraries）的計畫正為人工智慧時代重新構想，將聚焦小說與回憶錄，以促進社會連結與共享人性。 重要性：麻省理工學院（MIT）花費大量時間想像並建構未來。閱讀小說促使思考我們所創造的事物如何影響對自我與世界位置的理解。 來源同意或分歧：現有來源未報告任何衝突。 仍不確定：提供的資訊中未提及具體即將推出的書目或活動細節。"
+    },
+    "sources": [
+      {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "MIT Reads",
+          "zh-TW": "MIT Reads（MIT Reads）"
+        },
+        "blurb": {
+          "en": "A program by MIT Libraries focused on reading and community.",
+          "zh-TW": "由MIT Libraries（MIT Libraries）舉辦的閱讀與社群計畫。"
+        }
+      },
+      {
+        "term": {
+          "en": "MIT Libraries",
+          "zh-TW": "MIT Libraries（MIT Libraries）"
+        },
+        "blurb": {
+          "en": "The library system at the Massachusetts Institute of Technology.",
+          "zh-TW": "麻省理工學院（MIT）的圖書館系統。"
+        }
+      },
+      {
+        "term": {
+          "en": "MIT",
+          "zh-TW": "麻省理工學院（MIT）"
+        },
+        "blurb": {
+          "en": "Massachusetts Institute of Technology, the institution hosting the program.",
+          "zh-TW": "舉辦該計畫的機構麻省理工學院。"
+        }
+      }
+    ],
+    "trustScore": 57,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 23,
+      "crossCorroboration": 8,
+      "recencyClarity": 18
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "mit-news-ai"
+    ]
+  },
+  {
+    "id": "live-entertainment-04-watch-xdinary-heroes-ann",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-04-watch-xdinary-heroes-ann.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Watch: Xdinary Heroes Announces Comeback Date With Cinematic Mood Film For “IMPULSE”",
+      "zh-TW": "相關封面圖：Xdinary Heroes（Xdinary Heroes）、MODYSSEY（MODYSSEY）與 NMIXX（NMIXX）公布回歸日期"
+    },
+    "publishedAt": "2026-09-20T17:41:50.000Z",
+    "title": {
+      "en": "Xdinary Heroes, MODYSSEY and NMIXX Announce Comeback Dates",
+      "zh-TW": "Xdinary Heroes（Xdinary Heroes）、MODYSSEY（MODYSSEY）與 NMIXX（NMIXX）公布回歸日期"
+    },
+    "summary": {
+      "en": "Three K-pop acts revealed comeback plans on September 21 at midnight KST. Xdinary Heroes will release ninth mini album IMPULSE on October 12 as a five-member group. MODYSSEY debuts first EP 2.Multitude: How We Bloom. NMIXX returns with sixth EP Strange Muse on October 19.",
+      "zh-TW": "三個韓流團體於9月21日凌晨韓國標準時間公布回歸計畫。Xdinary Heroes（Xdinary Heroes）將以五人團體身分推出第九張迷你專輯IMPULSE（IMPULSE），發行日為10月12日。MODYSSEY（MODYSSEY）推出首張EP 2.Multitude: How We Bloom。NMIXX（NMIXX）則於10月19日發行第六張EP Strange Muse（Strange Muse）。"
+    },
+    "body": {
+      "en": "Lede: Xdinary Heroes, MODYSSEY and NMIXX each shared comeback details via Soompi reports on September 21. What happened: Xdinary Heroes announced their ninth mini album IMPULSE for October 12 release, marking their first comeback as a five-member band after Gun-il’s departure. The group released a cinematic mood film to kick off the countdown. MODYSSEY confirmed their first-ever comeback with EP 2.Multitude: How We Bloom. NMIXX revealed their sixth EP Strange Muse arriving October 19 at 6 p.m. KST along with its track list. Why it matters: These announcements highlight ongoing activity from JYP and other agency acts in the K-pop calendar, giving fans specific dates for new music. Sources agree/disagree: All three reports from Soompi align on the September 21 announcement timing and provide consistent release windows without contradictions. Still uncertain: Exact track lists for Xdinary Heroes and MODYSSEY were not detailed in the provided snippets.",
+      "zh-TW": "導言：Xdinary Heroes（Xdinary Heroes）、MODYSSEY（MODYSSEY）與 NMIXX（NMIXX）於9月21日透過Soompi報導各自公布回歸細節。 事件經過：Xdinary Heroes（Xdinary Heroes）宣布第九張迷你專輯IMPULSE（IMPULSE）將於10月12日發行，這是Gun-il離團後首次以五人團體身分回歸，並釋出電影式氛圍影片開啟倒數。MODYSSEY（MODYSSEY）確認首張EP 2.Multitude: How We Bloom的回歸計畫。NMIXX（NMIXX）則公布第六張EP Strange Muse（Strange Muse）於10月19日下午6時韓國標準時間發行，並附上曲目列表。 重要性：這些消息顯示JYP等經紀公司旗下團體持續推出新作，為歌迷提供明確的音樂發行時間。 消息來源一致／分歧：三篇Soompi報導均指出9月21日公布消息，且回歸時間窗一致，無相互矛盾之處。 仍未確定：Xdinary Heroes（Xdinary Heroes）與MODYSSEY（MODYSSEY）的完整曲目列表在提供的片段中未詳述。"
+    },
+    "sources": [
+      {
+        "name": "Soompi",
+        "url": "https://www.soompi.com/article/1871965wpp/modyssey-announces-date-for-1st-ever-comeback"
+      },
+      {
+        "name": "Soompi",
+        "url": "https://www.soompi.com/article/1871957wpp/watch-xdinary-heroes-announces-comeback-date-with-cinematic-mood-film-for-impulse"
+      },
+      {
+        "name": "Soompi",
+        "url": "https://www.soompi.com/article/1871958wpp/nmixx-reveals-october-comeback-date-and-track-list-for-strange-muse"
+      },
+      {
+        "name": "Hollywood Life",
+        "url": "https://hollywoodlife.com/2026/09/20/when-is-isaac-pitbull-cruz-next-fight-date/"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 2 vs 12 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 2 比 12）。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Xdinary Heroes",
+          "zh-TW": "Xdinary Heroes（Xdinary Heroes）"
+        },
+        "blurb": {
+          "en": "JYP Entertainment rock band releasing ninth mini album IMPULSE.",
+          "zh-TW": "JYP娛樂旗下搖滾樂團，即將發行第九張迷你專輯IMPULSE（IMPULSE）。"
+        }
+      },
+      {
+        "term": {
+          "en": "MODYSSEY",
+          "zh-TW": "MODYSSEY（MODYSSEY）"
+        },
+        "blurb": {
+          "en": "Group formed through BOYS II PLANET spin-off PLANET C : HOME RACE, preparing first EP.",
+          "zh-TW": "透過BOYS II PLANET衍生節目PLANET C : HOME RACE組成的團體，準備推出首張EP。"
+        }
+      },
+      {
+        "term": {
+          "en": "NMIXX",
+          "zh-TW": "NMIXX（NMIXX）"
+        },
+        "blurb": {
+          "en": "JYP Entertainment girl group returning with sixth EP Strange Muse.",
+          "zh-TW": "JYP娛樂旗下女子團體，即將以第六張EP Strange Muse（Strange Muse）回歸。"
+        }
+      }
+    ],
+    "trustScore": 71,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 13,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "soompi",
+      "soompi",
+      "soompi"
+    ]
+  },
+  {
+    "id": "live-entertainment-05-girl-group-member-s-13-y",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-05-girl-group-member-s-13-y.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Girl Group Member’s 13-Year-Old Daughter Goes Viral For Her Visuals, But Mom Says No To Acting Debut",
+      "zh-TW": "相關封面圖：李智賢（Lee Jihyun）拒絕女兒徐允（Seo Yoon）因爆紅外貌出道演藝圈"
+    },
+    "publishedAt": "2026-09-20T13:22:22.000Z",
+    "title": {
+      "en": "Lee Jihyun Rejects Acting Debut For Daughter Seo Yoon After Viral Visuals",
+      "zh-TW": "李智賢（Lee Jihyun）拒絕女兒徐允（Seo Yoon）因爆紅外貌出道演藝圈"
+    },
+    "summary": {
+      "en": "Former Jewelry member Lee Jihyun addressed online praise for her 13-year-old daughter Seo Yoon’s visuals. Viewers urged an acting debut, but Lee Jihyun immediately stated that her daughter’s growing popularity will not lead to an entertainment career anytime soon. The reaction occurred in a September appearance.",
+      "zh-TW": "前Jewelry成員李智賢（Lee Jihyun）回應網友對13歲女兒徐允（Seo Yoon）外貌的讚美。觀眾呼籲她出道演員，但李智賢立即表示女兒的人氣不會轉為演藝事業。反應出現在九月節目中。"
+    },
+    "body": {
+      "en": "Lede: Lee Jihyun, a former member of girl group Jewelry, has firmly ruled out an acting career for her 13-year-old daughter Seo Yoon despite the girl’s visuals going viral online. What happened: Viewers praised Seo Yoon’s appearance and called for her to debut as an actress. Lee Jihyun responded directly during a September broadcast, clarifying that the attention will not translate into entertainment industry opportunities. Why it matters: The statement from the ex-idol highlights parental boundaries amid rising public interest in celebrity children’s appearances. Sources agree/disagree: The single Koreaboo report provides consistent details on Lee Jihyun’s position and the timing of her comments. Still uncertain: Exact date of the September broadcast and full wording of Lee Jihyun’s reply are not specified beyond the immediate rejection.",
+      "zh-TW": "導言：前女子團體Jewelry成員李智賢（Lee Jihyun）堅決否認讓13歲女兒徐允（Seo Yoon）進入演藝圈，儘管女兒的外貌已在網上爆紅。 事件經過：觀眾讚美徐允（Seo Yoon）的外貌並呼籲她出道成為演員。李智賢在九月節目中直接回應，澄清這些關注不會轉為演藝事業機會。 重要性：這位前偶像的表態凸顯了家長在名人子女外貌引發關注時設定的界限。 來源一致或分歧：單一Koreaboo報導對李智賢（Lee Jihyun）的立場與評論時間提供一致細節。 仍不確定：九月節目的確切日期以及李智賢（Lee Jihyun）完整回應措辭，除立即拒絕外未進一步說明。"
+    },
+    "sources": [
+      {
+        "name": "Koreaboo",
+        "url": "https://www.koreaboo.com/stories/girl-group-member-snh48-shen-xiaoai-ex-girlfriend-lu-xinyi-cheating-another-group-member/"
+      },
+      {
+        "name": "Koreaboo",
+        "url": "https://www.koreaboo.com/news/jewelry-lee-jihyun-former-idol-13-year-old-daughter-goes-viral-visuals-mom-says-no-acting-debut/"
+      },
+      {
+        "name": "Koreaboo",
+        "url": "https://www.koreaboo.com/news/kara-han-seungyeon-girl-group-member-sparks-health-concerns-after-painful-looking-university-festival-performance/"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 8216 vs 13 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 8216 與 13）。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Lee Jihyun",
+          "zh-TW": "李智賢（Lee Jihyun）"
+        },
+        "blurb": {
+          "en": "Former member of girl group Jewelry.",
+          "zh-TW": "前女子團體Jewelry成員。"
+        }
+      },
+      {
+        "term": {
+          "en": "Seo Yoon",
+          "zh-TW": "徐允（Seo Yoon）"
+        },
+        "blurb": {
+          "en": "13-year-old daughter of Lee Jihyun whose visuals went viral.",
+          "zh-TW": "李智賢（Lee Jihyun）13歲女兒，外貌爆紅。"
+        }
+      },
+      {
+        "term": {
+          "en": "Jewelry",
+          "zh-TW": "Jewelry"
+        },
+        "blurb": {
+          "en": "Girl group of which Lee Jihyun was a member.",
+          "zh-TW": "李智賢（Lee Jihyun）曾為成員的女子團體。"
+        }
+      }
+    ],
+    "trustScore": 58,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 13,
+      "crossCorroboration": 14,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "koreaboo",
+      "koreaboo",
+      "koreaboo"
+    ]
+  },
+  {
+    "id": "live-entertainment-03-ed-sheeran-addresses-con",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-03-ed-sheeran-addresses-con.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Ed Sheeran Addresses Controversy at First Show Since Openers, Backing Band Dropped Off Tour, Calls It ‘The Best Show of My Life’",
+      "zh-TW": "相關封面圖：艾德·希蘭（Ed Sheeran）在費城演唱會談麥可摩爾（Macklemore）爭議"
+    },
+    "publishedAt": "2026-09-20T06:30:04.000Z",
+    "title": {
+      "en": "Ed Sheeran Addresses Macklemore Controversy at Philadelphia Show",
+      "zh-TW": "艾德·希蘭（Ed Sheeran）在費城演唱會談麥可摩爾（Macklemore）爭議"
+    },
+    "summary": {
+      "en": "Ed Sheeran spoke about the Israel-Gaza situation and Macklemore's removal from his tour at his first Philadelphia concert after the controversy. He called the show the best of his life while addressing pressure from venue owners over pro-Palestinian remarks.",
+      "zh-TW": "艾德·希蘭（Ed Sheeran）在費城演唱會首場演出中，談及以色列加薩局勢與麥可摩爾（Macklemore）遭移除巡演一事。他在場館業主施壓後，稱這場表演是人生最佳之一。"
+    },
+    "body": {
+      "en": "Lede: Ed Sheeran addressed the tour controversy involving Macklemore at his Philadelphia concert, the first show after openers were dropped. What happened: Sources report Macklemore was removed following pro-Palestinian remarks onstage, amid pressure from venue owners including Robert Kraft. Sheeran spoke about Israel and Gaza, stating the situation is catastrophic and unjustifiable, and noted he cannot hide his feelings anymore. He admitted mistakes and said the event put him in the middle of a freedom of speech argument. Why it matters: The incident highlights tensions around celebrity statements on the Gaza conflict during live tours, affecting supporting acts and drawing public criticism. Sources agree/disagree: BBC, Billboard, and Rolling Stone align on Sheeran addressing the Macklemore drop and Gaza comments at the Philadelphia stop. One Rolling Stone report includes Dropkick Murphys' Ken Casey criticizing Sheeran's stance. Still uncertain: Exact details on how the backing band withdrawal unfolded beyond the reported pressure remain limited to the provided accounts.",
+      "zh-TW": "導言：艾德·希蘭（Ed Sheeran）在費城演唱會中，針對麥可摩爾（Macklemore）遭移除巡演的爭議發表談話，這是相關事件後的首場演出。 事件經過：消息來源指出，麥可摩爾因台上支持巴勒斯坦言論而被移除，場館業主包括羅伯·克拉夫特（Robert Kraft）施加壓力。希蘭談及以色列與加薩局勢，稱情況災難性且無法辯護，並表示無法再隱藏感受。他承認錯誤，並指出事件讓他置身言論自由爭議之中。 重要性：此事件凸顯名人對加薩衝突表態在現場巡演中的緊張，影響支援藝人並引發公開批評。 來源共識與分歧：BBC、Billboard 與 Rolling Stone 一致指出希蘭在費城站談及麥可摩爾移除與加薩評論。Rolling Stone 一篇報導包含 Dropkick Murphys 主唱肯·凱西（Ken Casey）的批評。 仍未確定：支援樂團退出的確切細節，除報導的壓力外，僅限於提供資訊。"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Billboard",
+        "url": "https://www.billboard.com/music/music-news/ed-sheeran-show-recap-philadelphia-macklemore-controversy-1236344180/"
+      },
+      {
+        "name": "Billboard",
+        "url": "https://www.billboard.com/lists/aespa-synk-complaexity-tour-new-york-ubs-arena-best-moments/"
+      },
+      {
+        "name": "Billboard",
+        "url": "https://www.billboard.com/lists/ed-sheeran-tour-drops-macklemore-timeline-controversy/"
+      },
+      {
+        "name": "Billboard",
+        "url": "https://www.billboard.com/music/music-news/ed-sheeran-gaza-speech-philadelphia-concert-tour-1236344137/"
+      },
+      {
+        "name": "Rolling Stone Music",
+        "url": "https://www.rollingstone.com/music/music-news/ed-sheeran-breaks-silence-gaza-isreael-macklemore-concert-1235629139/"
+      },
+      {
+        "name": "Rolling Stone Music",
+        "url": "https://www.rollingstone.com/music/music-news/gnarls-barkley-first-tour-18-years-atlanta-1235629188/"
+      },
+      {
+        "name": "Rolling Stone Music",
+        "url": "https://www.rollingstone.com/music/music-news/dropkick-murphys-ken-casey-ed-sheeran-took-knee-macklemore-1235629079/"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 19 vs 11 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 19 比 11）。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Ed Sheeran",
+          "zh-TW": "艾德·希蘭（Ed Sheeran）"
+        },
+        "blurb": {
+          "en": "British singer on the Loop Tour facing controversy over openers.",
+          "zh-TW": "英國歌手，正進行 Loop 巡演，因開場嘉賓引發爭議。"
+        }
+      },
+      {
+        "term": {
+          "en": "Macklemore",
+          "zh-TW": "麥可摩爾（Macklemore）"
+        },
+        "blurb": {
+          "en": "Rapper dropped from Ed Sheeran's tour after pro-Palestinian stage remarks.",
+          "zh-TW": "饒舌歌手，因台上支持巴勒斯坦言論而被移除艾德·希蘭巡演。"
+        }
+      },
+      {
+        "term": {
+          "en": "Robert Kraft",
+          "zh-TW": "羅伯·克拉夫特（Robert Kraft）"
+        },
+        "blurb": {
+          "en": "Venue owner involved in pressure leading to Macklemore's removal.",
+          "zh-TW": "場館業主，參與導致麥可摩爾移除的施壓行動。"
+        }
+      }
+    ],
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 19,
+      "crossCorroboration": 17,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "bbc-world",
+      "billboard",
+      "billboard"
+    ]
+  },
+  {
+    "id": "live-ai-03-from-mit-to-ibm-expediti",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-ai-03-from-mit-to-ibm-expediti.png",
+    "imageAlt": {
+      "en": "Cover related to: From MIT to IBM, expediting AI and quantum deployment",
+      "zh-TW": "相關封面圖：麻省理工學院－國際商業機器公司運算研究實驗室（MIT-IBM Computing Research Lab）與國際商業機器公司（IBM）量子系統"
+    },
+    "publishedAt": "2026-09-02T20:25:00.000Z",
+    "title": {
+      "en": "MIT-IBM Computing Research Lab and IBM Quantum System",
+      "zh-TW": "麻省理工學院－國際商業機器公司運算研究實驗室（MIT-IBM Computing Research Lab）與國際商業機器公司（IBM）量子系統"
+    },
+    "summary": {
+      "en": "Former MIT researchers now at IBM leverage MIT-IBM Computing Research Lab experience to advance AI and quantum applications. Separately, IBM and University of Chicago researchers used a 70-logical-qubit quantum computer to solve a classically intractable problem in about 15 minutes with reliable results.",
+      "zh-TW": "前麻省理工學院研究人員現任職於國際商業機器公司，運用麻省理工學院－國際商業機器公司運算研究實驗室經驗推動人工智慧與量子應用。另方面，國際商業機器公司與芝加哥大學研究人員使用70個邏輯量子位元量子電腦，在約15分鐘內解決經典方法難以處理的問題，並提供可靠結果證據。"
+    },
+    "body": {
+      "en": "Lede: MIT alumni transitions and an IBM quantum breakthrough highlight paths from academic research to practical deployment in AI and quantum computing.\nWhat happened: Two former MIT graduate students and one former postdoc, all now at IBM, drew on their time with the MIT-IBM Computing Research Lab to bridge theory and real-world business impact. In a separate development, IBM and University of Chicago researchers completed a quantum computation using 70 error-corrected logical qubits that leading classical methods could not practically reproduce, finishing the task in roughly 15 minutes while supplying statistical evidence of reliability.\nWhy it matters: These efforts demonstrate how lab collaborations can accelerate the move from theoretical work to deployable technologies with measurable business and scientific value.\nSources agree/disagree: MIT News and ScienceDaily report distinct but complementary advances involving IBM without conflicting details.\nStill uncertain: Specific business-impact ideas generated by the MIT alumni and the exact nature of the quantum problem solved remain undescribed in the provided sources.",
+      "zh-TW": "導言：麻省理工學院校友轉職與國際商業機器公司量子突破，凸顯從學術研究到人工智慧與量子運算實際部署的路徑。\n發生事件：兩名前麻省理工學院研究生與一名前博士後研究員現任職於國際商業機器公司，他們運用在麻省理工學院－國際商業機器公司運算研究實驗室的經驗，縮小教育與就業差距並產生具商業影響力的想法。另方面，國際商業機器公司與芝加哥大學研究人員使用70個錯誤校正邏輯量子位元完成量子運算，領先的經典方法無法實際重現，任務在約15分鐘內完成，並提供結果可靠的統計證據。\n重要性：這些努力顯示實驗室合作如何加速理論工作轉為具可衡量商業與科學價值的可部署技術。\n來源同意／分歧：麻省理工學院新聞與ScienceDaily報導涉及國際商業機器公司的不同但互補進展，無衝突細節。\n仍不確定：麻省理工學院校友產生的具體商業影響想法，以及所解決量子問題的確切性質，在提供的來源中未詳述。"
+    },
+    "sources": [
+      {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902"
+      },
+      {
+        "name": "ScienceDaily AI",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 25 vs 15 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 25 比 15）。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "MIT-IBM Computing Research Lab",
+          "zh-TW": "麻省理工學院－國際商業機器公司運算研究實驗室（MIT-IBM Computing Research Lab）"
+        },
+        "blurb": {
+          "en": "Formerly the MIT-IBM Watson AI Lab, a joint research effort between MIT and IBM.",
+          "zh-TW": "前身為麻省理工學院－國際商業機器公司華生人工智慧實驗室，是麻省理工學院與國際商業機器公司的聯合研究計畫。"
+        }
+      },
+      {
+        "term": {
+          "en": "IBM",
+          "zh-TW": "國際商業機器公司（IBM）"
+        },
+        "blurb": {
+          "en": "Company employing former MIT researchers and conducting quantum computation research.",
+          "zh-TW": "聘用前麻省理工學院研究人員並進行量子運算研究的企業。"
+        }
+      },
+      {
+        "term": {
+          "en": "University of Chicago",
+          "zh-TW": "芝加哥大學（University of Chicago）"
+        },
+        "blurb": {
+          "en": "Institution collaborating with IBM on quantum computation research.",
+          "zh-TW": "與國際商業機器公司合作進行量子運算研究的機構。"
+        }
+      }
+    ],
+    "trustScore": 49,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 20,
+      "crossCorroboration": 7,
+      "recencyClarity": 6
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "mit-news-ai",
+      "sciencedaily-ai"
+    ]
+  },
+  {
+    "id": "live-international-04-germany-s-merz-vows-to-s",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-04-germany-s-merz-vows-to-s.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Germany’s Merz Vows to Stay After Another State Election ‘Disaster’",
+      "zh-TW": "相關封面圖：弗里德里希·梅爾茨（Friedrich Merz）在另一次州選舉「災難」後誓言留任"
+    },
+    "publishedAt": "2026-09-20T20:21:40.000Z",
+    "title": {
+      "en": "Friedrich Merz Vows to Stay After CDU State Election ‘Disaster’",
+      "zh-TW": "弗里德里希·梅爾茨（Friedrich Merz）在另一次州選舉「災難」後誓言留任"
+    },
+    "summary": {
+      "en": "German Chancellor Friedrich Merz's centre-right CDU party faced damaging losses in Berlin and Mecklenburg-Vorpommern state elections according to exit polls. The far-right Alternative for Germany party made significant gains. Merz described the results as a disaster but pledged to press ahead with reforms and remain in office.",
+      "zh-TW": "德國總理弗里德里希·梅爾茨（Friedrich Merz）所屬中間偏右基督教民主聯盟（CDU）在柏林與梅克倫堡-西波美拉尼亞州選舉中遭遇重大失利。極右翼德國另類選擇黨（Alternative for Germany）取得顯著進展。梅爾茨稱此結果為災難，但誓言繼續推動改革並留任。"
+    },
+    "body": {
+      "en": "Lede: German Chancellor Friedrich Merz vowed to stay on and continue reforms after his centre-right CDU party suffered another state election setback. What happened: Exit polls showed damaging losses for the CDU in the states of Berlin and Mecklenburg-Vorpommern. The party finished behind far-right and far-left parties in the eastern states. The far-right Alternative for Germany party recorded significant gains. Why it matters: The results add pressure on Merz's leadership and highlight rising support for extremist parties in eastern Germany. Sources agree/disagree: BBC World, NPR World and NYT World all report Merz calling the outcome a disaster while pledging to press ahead. They align on CDU losses and AfD advances. Still uncertain: Exact seat distributions and long-term impact on national policy remain to be seen.",
+      "zh-TW": "導言：德國總理弗里德里希·梅爾茨（Friedrich Merz）在所屬中間偏右基督教民主聯盟（CDU）遭遇另一次州選舉挫敗後，誓言留任並繼續推動改革。 事件經過：出口民調顯示基督教民主聯盟（CDU）在柏林與梅克倫堡-西波美拉尼亞州選舉中遭遇重大失利。該黨在東部各州落後於極右翼與極左翼政黨。極右翼德國另類選擇黨（Alternative for Germany）取得顯著進展。 重要性：此結果對梅爾茨（Friedrich Merz）的領導地位增添壓力，並凸顯極端政黨在德國東部支持度上升。 來源一致與分歧：英國廣播公司世界頻道、美國國家公共廣播電台世界頻道與紐約時報世界版均報導梅爾茨（Friedrich Merz）稱此結果為災難，並承諾繼續前進。各來源在基督教民主聯盟（CDU）失利與德國另類選擇黨（Alternative for Germany）進展上看法一致。 仍未確定：確切席次分配與對國家政策的長期影響尚待觀察。"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat"
+      },
+      {
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Friedrich Merz",
+          "zh-TW": "弗里德里希·梅爾茨（Friedrich Merz）"
+        },
+        "blurb": {
+          "en": "German Chancellor and leader of the centre-right CDU party.",
+          "zh-TW": "德國總理兼中間偏右基督教民主聯盟（CDU）領導人。"
+        }
+      },
+      {
+        "term": {
+          "en": "CDU",
+          "zh-TW": "基督教民主聯盟（CDU）"
+        },
+        "blurb": {
+          "en": "Centre-right party led by Chancellor Friedrich Merz.",
+          "zh-TW": "由總理弗里德里希·梅爾茨（Friedrich Merz）領導的中間偏右政黨。"
+        }
+      },
+      {
+        "term": {
+          "en": "Alternative for Germany",
+          "zh-TW": "德國另類選擇黨（Alternative for Germany）"
+        },
+        "blurb": {
+          "en": "Far-right party that made significant gains in the state elections.",
+          "zh-TW": "在州選舉中取得顯著進展的極右翼政黨。"
+        }
+      },
+      {
+        "term": {
+          "en": "Berlin",
+          "zh-TW": "柏林（Berlin）"
+        },
+        "blurb": {
+          "en": "German state where CDU suffered election losses.",
+          "zh-TW": "基督教民主聯盟（CDU）遭遇選舉失利的德國州份。"
+        }
+      },
+      {
+        "term": {
+          "en": "Mecklenburg-Vorpommern",
+          "zh-TW": "梅克倫堡-西波美拉尼亞（Mecklenburg-Vorpommern）"
+        },
+        "blurb": {
+          "en": "German state where CDU suffered election losses.",
+          "zh-TW": "基督教民主聯盟（CDU）遭遇選舉失利的德國州份。"
+        }
+      }
+    ],
+    "trustScore": 94,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 23,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "npr-world",
+      "nyt-world"
+    ]
+  },
+  {
+    "id": "live-finance-02-we-simply-don-t-know-jp-",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-02-we-simply-don-t-know-jp-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "zh-TW": "相關封面圖：摩根大通（JP Morgan）與布里奇特·菲利普森（Bridget Phillipson）談川普伊朗戰爭對油價與英國預算的影響"
+    },
+    "publishedAt": "2026-09-20T19:36:29.000Z",
+    "title": {
+      "en": "JP Morgan and Bridget Phillipson Address Trump's Iran War Effects on Oil and UK Budget",
+      "zh-TW": "摩根大通（JP Morgan）與布里奇特·菲利普森（Bridget Phillipson）談川普伊朗戰爭對油價與英國預算的影響"
+    },
+    "summary": {
+      "en": "JP Morgan says it cannot forecast oil prices due to uncertainty over Trump's war with Iran, assuming the US will avoid crossing economic red lines such as oil at $100 a barrel. UK minister Bridget Phillipson warns the conflict will complicate next month's budget, while noting Prime Minister Andy Burnham's planned meeting with Trump at the UN.",
+      "zh-TW": "摩根大通（JP Morgan）表示因川普與伊朗戰爭的不確定性無法預測油價，假設美國不會跨越油價每桶100美元等經濟紅線。英國部長布里奇特·菲利普森（Bridget Phillipson）警告衝突將使下月預算更困難，並提及首相安迪·伯納姆（Andy Burnham）計劃在聯合國會晤川普。"
+    },
+    "body": {
+      "en": "Lede: JP Morgan reports difficulty forecasting oil prices amid Donald Trump's war with Iran, while UK minister Bridget Phillipson highlights budget challenges for Prime Minister Andy Burnham. What happened: The bank stated it \"assumed\" economic red lines exist, such as oil reaching $100 a barrel, that the US would be unwilling to cross. Phillipson said the war complicates next month's budget and that Burnham's past criticisms of the US president are not expected to be an issue ahead of their meeting at the UN general assembly summit in New York. Why it matters: Oil price uncertainty affects global markets and economic planning, while UK budget preparations face added pressure from international developments. Sources agree/disagree: Both sources reference impacts from Trump's war with Iran but focus on separate areas of finance and UK policy without conflicting details. Still uncertain: The extent of oil price movements and specific budget adjustments remain unclear based on available information.",
+      "zh-TW": "導言：摩根大通（JP Morgan）報告因唐納·川普（Donald Trump）與伊朗戰爭而難以預測油價，英國部長布里奇特·菲利普森（Bridget Phillipson）則強調首相安迪·伯納姆（Andy Burnham）的預算面臨挑戰。 事件經過：該銀行表示「假設」存在經濟紅線，例如油價達到每桶100美元，美國將不願跨越。菲利普森表示戰爭使下月預算更困難，並指出伯納姆過去對美國總統的批評預計不會成為問題，兩人將在紐約聯合國大會峰會會面。 重要性：油價不確定性影響全球市場與經濟規劃，而英國預算準備因國際發展承受額外壓力。 來源同意或分歧：兩來源均提及川普與伊朗戰爭的影響，但分別聚焦金融與英國政策領域，無衝突細節。 仍不確定：油價變動程度與具體預算調整依現有資訊仍不明確。"
+    },
+    "sources": [
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian UK News",
+        "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 100 vs 10 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 100 與 10）。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "JP Morgan",
+          "zh-TW": "摩根大通（JP Morgan）"
+        },
+        "blurb": {
+          "en": "Bank that reported difficulty forecasting oil prices.",
+          "zh-TW": "報告油價預測困難的銀行。"
+        }
+      },
+      {
+        "term": {
+          "en": "Donald Trump",
+          "zh-TW": "唐納·川普（Donald Trump）"
+        },
+        "blurb": {
+          "en": "US president involved in conflict with Iran.",
+          "zh-TW": "涉及與伊朗衝突的美國總統。"
+        }
+      },
+      {
+        "term": {
+          "en": "Bridget Phillipson",
+          "zh-TW": "布里奇特·菲利普森（Bridget Phillipson）"
+        },
+        "blurb": {
+          "en": "UK minister warning on budget impacts.",
+          "zh-TW": "警告預算影響的英國部長。"
+        }
+      },
+      {
+        "term": {
+          "en": "Andy Burnham",
+          "zh-TW": "安迪·伯納姆（Andy Burnham）"
+        },
+        "blurb": {
+          "en": "UK prime minister preparing to meet Trump at UN.",
+          "zh-TW": "準備在聯合國會晤川普的英國首相。"
+        }
+      },
+      {
+        "term": {
+          "en": "UN",
+          "zh-TW": "聯合國（UN）"
+        },
+        "blurb": {
+          "en": "Organization hosting general assembly summit in New York.",
+          "zh-TW": "在紐約舉辦大會峰會的組織。"
+        }
+      }
+    ],
+    "trustScore": 71,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 23,
+      "crossCorroboration": 7,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "bbc-business",
+      "the-guardian-uk-news"
+    ]
+  },
+  {
+    "id": "live-tech-03-is-the-ai-industry-reall",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-tech-03-is-the-ai-industry-reall.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Is the AI industry really ready to slow down?",
+      "zh-TW": "相關封面圖：TechCrunch Equity 播客（Equity Podcast）質疑人工智慧產業放緩"
+    },
+    "publishedAt": "2026-09-20T18:56:04.000Z",
+    "title": {
+      "en": "TechCrunch Equity Podcast Questions AI Industry Slowdown",
+      "zh-TW": "TechCrunch Equity 播客（Equity Podcast）質疑人工智慧產業放緩"
+    },
+    "summary": {
+      "en": "TechCrunch's Equity podcast debated whether AI executives are serious about wanting to slow down the industry. The discussion centered on the readiness of AI leaders to reduce development pace based on the provided source details.",
+      "zh-TW": "TechCrunch 的 Equity 播客（Equity Podcast）辯論人工智慧高管是否認真想要放緩產業。討論聚焦於人工智慧領導者是否準備好降低發展速度，依據來源細節。"
+    },
+    "body": {
+      "en": "Lede: TechCrunch addressed questions about the AI industry's readiness to slow down. What happened: On Equity, the team debated whether AI executives are serious about wanting to slow down. Why it matters: The debate highlights uncertainty around AI development intentions as reported by the outlet. Sources agree/disagree: The single source provides the debate framing without additional viewpoints. Still uncertain: No specific outcomes, participant names, or conclusions from the discussion are detailed in the source.",
+      "zh-TW": "Lede: TechCrunch 探討人工智慧產業是否準備好放緩的問題。 What happened: 在 Equity 播客（Equity Podcast）上，團隊辯論人工智慧高管是否認真想要放緩。 Why it matters: 這場辯論凸顯出路透社報導中人工智慧發展意圖的不確定性。 Sources agree/disagree: 單一來源提供辯論框架，無其他觀點。 Still uncertain: 來源中未詳述討論的具體結果、參與者姓名或結論。"
+    },
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 59,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 18,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "tech",
+      "live-ingest",
+      "techcrunch"
+    ]
+  },
+  {
+    "id": "live-finance-03-nvidia-ceo-jensen-huang-",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-03-nvidia-ceo-jensen-huang-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+      "zh-TW": "相關封面圖：輝達（Nvidia）執行長黃仁勳（Jensen Huang）成為川普在人工智慧安全辯論中的首要盟友"
+    },
+    "publishedAt": "2026-09-20T18:50:18.000Z",
+    "title": {
+      "en": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+      "zh-TW": "輝達（Nvidia）執行長黃仁勳（Jensen Huang）成為川普在人工智慧安全辯論中的首要盟友"
+    },
+    "summary": {
+      "en": "Nvidia CEO Jensen Huang, leader of the world's most valuable company, has gained influence with Trump on key AI topics. He stated in a CBS Sunday Morning interview there is a 0% chance of AI ending the world and called alarm-raising by other CEOs irresponsible.",
+      "zh-TW": "身為全球最有價值公司領導人的輝達（Nvidia）執行長黃仁勳（Jensen Huang），在人工智慧重要議題上獲得川普的關注。他在CBS週日早晨訪談中表示，人工智慧終結世界的機率為0%，並稱其他執行長發出警報是不負責任的行為。"
+    },
+    "body": {
+      "en": "Lede: Nvidia CEO Jensen Huang has positioned himself as a key voice in AI safety discussions with influence on Trump. What happened: Huang, as head of the world's most valuable company, earned Trump's ear on major AI issues. In a CBS Sunday Morning interview, he asserted a 0% chance of AI ending the world and described warnings from CEOs as unnecessary and irresponsible. Why it matters: His stance contrasts with concerns from other AI leaders and reflects his company's central role in the AI boom. Sources agree/disagree: CNBC highlights Huang's influence with Trump due to Nvidia's position. The Verge notes his view that AI fears are overblown and questions his dismissal of long-term researchers. Still uncertain: Details on specific policy outcomes or further statements from Trump remain unaddressed in available reports.",
+      "zh-TW": "導言：輝達（Nvidia）執行長黃仁勳（Jensen Huang）已在人工智慧安全討論中定位為關鍵聲音，並對川普產生影響。 事件經過：身為全球最有價值公司領導人的黃仁勳（Jensen Huang），在重大人工智慧議題上獲得川普的關注。在CBS週日早晨訪談中，他主張人工智慧終結世界的機率為0%，並形容執行長們的警告是不必要且不負責任的。 重要性：他的立場與其他人工智慧領導人的關切形成對比，並反映其公司在人工智慧熱潮中的核心角色。 來源同意／分歧：CNBC強調黃仁勳（Jensen Huang）因輝達（Nvidia）地位而對川普產生影響。The Verge指出他認為人工智慧恐懼被過度渲染，並質疑他對長期研究者的看法。 仍不確定：可用報導未提及具體政策結果或川普的進一步聲明。"
+    },
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Jensen Huang",
+          "zh-TW": "黃仁勳（Jensen Huang）"
+        },
+        "blurb": {
+          "en": "CEO of Nvidia.",
+          "zh-TW": "輝達（Nvidia）的執行長。"
+        }
+      },
+      {
+        "term": {
+          "en": "Nvidia",
+          "zh-TW": "輝達（Nvidia）"
+        },
+        "blurb": {
+          "en": "World's most valuable company led by Jensen Huang.",
+          "zh-TW": "由黃仁勳（Jensen Huang）領導的全球最有價值公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "Dario Amodei",
+          "zh-TW": "達里奧·阿莫代伊（Dario Amodei）"
+        },
+        "blurb": {
+          "en": "CEO of Anthropic.",
+          "zh-TW": "Anthropic的執行長。"
+        }
+      },
+      {
+        "term": {
+          "en": "Sam Altman",
+          "zh-TW": "山姆·奧特曼（Sam Altman）"
+        },
+        "blurb": {
+          "en": "CEO of OpenAI.",
+          "zh-TW": "OpenAI的執行長。"
+        }
+      }
+    ],
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 18,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "cnbc",
+      "the-verge"
+    ]
+  },
+  {
+    "id": "live-finance-04-sabre-sabr-prices-1-35b-",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-04-sabre-sabr-prices-1-35b-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Sabre (SABR) Prices $1.35B of Secured Notes. Is the Breathing Room Worth the Cost?",
+      "zh-TW": "相關封面圖：艾克森企業（Axon Enterprise）與Sabre（SABR）在Yahoo Finance報導中定價票據"
+    },
+    "publishedAt": "2026-09-20T19:47:19.000Z",
+    "title": {
+      "en": "Axon Enterprise (AXON) and Sabre (SABR) Price Notes in Yahoo Finance Reports",
+      "zh-TW": "艾克森企業（Axon Enterprise）與Sabre（SABR）在Yahoo Finance報導中定價票據"
+    },
+    "summary": {
+      "en": "Yahoo Finance reports Axon Enterprise pricing $1B of zero-coupon notes and Sabre pricing $1.35B of secured notes. The articles pose questions about real costs and whether breathing room justifies the expense. No additional details or outcomes are provided in the source titles.",
+      "zh-TW": "Yahoo Finance報導艾克森企業（Axon Enterprise）定價10億美元零息票據，以及Sabre定價13.5億美元擔保票據。文章提出實際成本與喘息空間是否值得的問題。來源標題未提供其他細節或結果。"
+    },
+    "body": {
+      "en": "Lede: Recent Yahoo Finance articles highlight two companies issuing new debt instruments. What happened: Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost? Sabre (SABR) Prices $1.35B of Secured Notes. Is the Breathing Room Worth the Cost? Why it matters: These note issuances represent significant financing moves by the respective firms, with the reports questioning associated costs and benefits. Sources agree/disagree: Both reports originate from Yahoo Finance and present parallel structures focused on pricing amounts and open questions about value. Still uncertain: No further specifics on terms, investor response, or company rationales appear in the provided source titles.",
+      "zh-TW": "導言：近期Yahoo Finance文章強調兩家公司發行新債務工具。 發生什麼事：艾克森企業（Axon Enterprise）定價10億美元零息票據。實際成本為何？Sabre定價13.5億美元擔保票據。喘息空間是否值得成本？ 為什麼重要：這些票據發行代表相關公司的重大融資行動，報導質疑相關成本與效益。 來源同意／不同意：兩篇報導均來自Yahoo Finance，並呈現平行結構，聚焦定價金額與價值的開放問題。 仍不確定：來源標題未出現條款、投資者反應或公司理由的進一步細節。"
+    },
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-axon-prices-1b-194719659.html"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sabre-sabr-prices-1-35b-194212645.html"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Axon Enterprise (AXON)",
+          "zh-TW": "艾克森企業（Axon Enterprise）"
+        },
+        "blurb": {
+          "en": "Company that priced $1B of zero-coupon notes per Yahoo Finance title.",
+          "zh-TW": "根據Yahoo Finance標題定價10億美元零息票據的公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "Sabre (SABR)",
+          "zh-TW": "Sabre（SABR）"
+        },
+        "blurb": {
+          "en": "Company that priced $1.35B of secured notes per Yahoo Finance title.",
+          "zh-TW": "根據Yahoo Finance標題定價13.5億美元擔保票據的公司。"
+        }
+      }
+    ],
+    "trustScore": 64,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 16,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "yahoo-finance",
+      "yahoo-finance"
+    ]
+  },
+  {
+    "id": "live-tech-04-elon-musk-s-latest-borin",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-tech-04-elon-musk-s-latest-borin.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+      "zh-TW": "相關封面圖：埃隆·馬斯克（Elon Musk）The Boring Company 超迴路（Hyperloop）計畫鎖定奧斯汀（Austin）與聖安東尼奧（San Antonio）"
+    },
+    "publishedAt": "2026-09-20T19:38:48.000Z",
+    "title": {
+      "en": "Elon Musk Boring Company Hyperloop Pitch Targets Austin and San Antonio",
+      "zh-TW": "埃隆·馬斯克（Elon Musk）The Boring Company 超迴路（Hyperloop）計畫鎖定奧斯汀（Austin）與聖安東尼奧（San Antonio）"
+    },
+    "summary": {
+      "en": "Elon Musk's Boring Company has pitched a Hyperloop connecting Austin and San Antonio. TechCrunch reports that many of the company's previously announced projects have not materialized, highlighting ongoing challenges in delivering on such infrastructure proposals.",
+      "zh-TW": "埃隆·馬斯克（Elon Musk）旗下The Boring Company 提出連接奧斯汀（Austin）與聖安東尼奧（San Antonio）的超迴路（Hyperloop）計畫。TechCrunch 報導指出，該公司多項先前宣布的專案尚未實現，凸顯基礎設施提案的執行挑戰。"
+    },
+    "body": {
+      "en": "Lede: Elon Musk's Boring Company has made a new pitch for a Hyperloop between Austin and San Antonio. What happened: According to TechCrunch, the proposal involves a Hyperloop link between the two Texas cities. The report notes that many of The Boring Company's announced projects have not materialized. Why it matters: The pitch continues efforts to advance high-speed transit ideas in the region, though past unfulfilled announcements raise questions about feasibility. Sources agree/disagree: The single source from TechCrunch provides the details on the pitch and the track record of unmaterialized projects with no conflicting information reported. Still uncertain: Details on timelines, funding, or specific project status beyond the general note on non-materialization remain unspecified in the available information.",
+      "zh-TW": "Lede: 埃隆·馬斯克（Elon Musk）The Boring Company 提出連接奧斯汀（Austin）與聖安東尼奧（San Antonio）的新超迴路（Hyperloop）計畫。 What happened: 根據TechCrunch報導，此提案涉及兩座德州城市之間的超迴路連結。報導指出The Boring Company多項先前宣布的專案尚未實現。 Why it matters: 此提案延續該地區高速交通構想的推進，但過去未兌現的宣布引發可行性疑慮。 Sources agree/disagree: 單一來源TechCrunch提供計畫細節與未實現專案紀錄，未見衝突資訊。 Still uncertain: 可用資訊中未提及時間表、資金或超出未實現紀錄的具體專案狀態。"
+    },
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Elon Musk",
+          "zh-TW": "埃隆·馬斯克（Elon Musk）"
+        },
+        "blurb": {
+          "en": "Founder associated with The Boring Company.",
+          "zh-TW": "The Boring Company相關創辦人。"
+        }
+      },
+      {
+        "term": {
+          "en": "The Boring Company",
+          "zh-TW": "The Boring Company"
+        },
+        "blurb": {
+          "en": "Company pitching the Hyperloop project.",
+          "zh-TW": "提出超迴路（Hyperloop）計畫的公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "Hyperloop",
+          "zh-TW": "超迴路（Hyperloop）"
+        },
+        "blurb": {
+          "en": "Proposed transit system in the Austin to San Antonio pitch.",
+          "zh-TW": "奧斯汀（Austin）至聖安東尼奧（San Antonio）計畫中的交通系統提案。"
+        }
+      }
+    ],
+    "trustScore": 59,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 18,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "tech",
+      "live-ingest",
+      "techcrunch"
+    ]
+  },
+  {
+    "id": "live-international-05-hundreds-of-drones-targe",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-05-hundreds-of-drones-targe.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+      "zh-TW": "相關封面圖：莫斯科（Moscow）在俄羅斯（Russia）選舉最後一天遭數百架無人機襲擊"
+    },
+    "publishedAt": "2026-09-20T20:02:21.000Z",
+    "title": {
+      "en": "Moscow Targeted by Hundreds of Drones on Final Day of Russian Elections",
+      "zh-TW": "莫斯科（Moscow）在俄羅斯（Russia）選舉最後一天遭數百架無人機襲擊"
+    },
+    "summary": {
+      "en": "Ukraine launched hundreds of drones at Moscow in the largest reported attack on the Russian capital, coinciding with the final day of Russian parliamentary elections. Moscow's mayor stated 450 drones were downed with two deaths and damage to an oil refinery and residential building. Sources note over 1,000 drones fired at Russia overall and mention of a new Ukrainian ballistic missile.",
+      "zh-TW": "烏克蘭（Ukraine）向莫斯科（Moscow）發射數百架無人機，這是俄羅斯（Russia）首都遭報導最大規模攻擊，正值俄羅斯議會選舉最後一天。莫斯科市長表示擊落450架無人機，造成兩人死亡及煉油廠和住宅受損。來源提及對俄羅斯總計發射逾千架無人機，並提到烏克蘭新彈道飛彈。"
+    },
+    "body": {
+      "en": "Lede: Moscow faced its largest reported drone assault from Ukraine on the final day of Russian elections. What happened: Ukraine fired hundreds of drones targeting Moscow and other Russian areas, with Moscow's mayor reporting 450 drones downed overnight. Two people died and damage occurred at a Moscow oil refinery and a residential building. NPR reported over 1,000 drones launched at Russia total. NYT noted Ukraine's use of a newly developed ballistic missile. Why it matters: The scale of the attack on the capital during elections highlights intensified Ukrainian strikes on Russian territory, including annexed regions where Russia held parliamentary votes. Sources agree/disagree: All sources confirm a major drone wave on Moscow tied to election timing. BBC and NPR cite mayor's statements on downed drones and damage. NYT adds ballistic missile detail absent elsewhere. Still uncertain: Exact total drones launched and full extent of damage or casualties beyond the mayor's report remain unspecified across outlets.",
+      "zh-TW": "導言：莫斯科（Moscow）在俄羅斯（Russia）選舉最後一天面臨烏克蘭（Ukraine）報導最大規模無人機襲擊。 事件經過：烏克蘭向莫斯科及其他俄羅斯地區發射數百架無人機，莫斯科市長表示夜間擊落450架。兩人死亡，莫斯科煉油廠和一棟住宅樓受損。NPR報導對俄羅斯總計發射逾千架無人機。NYT提及烏克蘭使用新開發彈道飛彈。 重要性：首都遭大規模攻擊正值選舉期間，凸顯烏克蘭對俄羅斯領土包括被併吞地區加強打擊，俄羅斯在該地區舉行議會投票。 來源一致與分歧：所有來源確認莫斯科遭重大無人機波襲擊且與選舉時間相關。BBC與NPR引用市長關於擊落無人機及損害的說法。NYT補充其他來源未提的彈道飛彈細節。 仍不確定：除市長報告外，發射無人機確切總數及損害或傷亡完整範圍在各媒體中仍未具體說明。"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine"
+      },
+      {
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html"
+      }
+    ],
+    "disagreements": {
+      "en": "Sources differ on drone numbers with BBC citing 450 downed and NPR stating over 1,000 fired at Russia; BBC alone reports two deaths; NYT uniquely mentions a new ballistic missile.",
+      "zh-TW": "來源在無人機數量上分歧，BBC提及擊落450架，NPR稱對俄羅斯發射逾千架；僅BBC報導兩人死亡；NYT獨家提及新彈道飛彈。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Moscow",
+          "zh-TW": "莫斯科（Moscow）"
+        },
+        "blurb": {
+          "en": "Capital city of Russia targeted in the reported drone attack.",
+          "zh-TW": "俄羅斯首都，據報遭無人機攻擊目標。"
+        }
+      },
+      {
+        "term": {
+          "en": "Ukraine",
+          "zh-TW": "烏克蘭（Ukraine）"
+        },
+        "blurb": {
+          "en": "Country that launched the drones according to the sources.",
+          "zh-TW": "據來源所述發射無人機的國家。"
+        }
+      },
+      {
+        "term": {
+          "en": "Russia",
+          "zh-TW": "俄羅斯（Russia）"
+        },
+        "blurb": {
+          "en": "Country holding parliamentary elections during the attacks.",
+          "zh-TW": "攻擊期間舉行議會選舉的國家。"
+        }
+      }
+    ],
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 23,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "npr-world",
+      "npr-world"
+    ]
+  }
+]
