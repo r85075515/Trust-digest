@@ -25,6 +25,7 @@ import {
   stripHtml,
   extractFirstImg,
   domainFromUrl,
+  resolvePublisherDomain,
   slugify,
   type RawFeedItem,
   type StoryCluster,
@@ -190,7 +191,11 @@ async function fetchFeed(source: FeedSource): Promise<RawFeedItem[]> {
       items.push({
         feedId: source.id,
         outletName: source.name,
-        domain: source.domain || domainFromUrl(link),
+        domain: resolvePublisherDomain(
+          link,
+          title,
+          source.domain || domainFromUrl(link)
+        ),
         category,
         title,
         link,
@@ -686,11 +691,19 @@ async function main() {
       }
     }
 
+    // Unique publisher domains for honest 「N源」 (GNews wrappers of same site ≠ N)
     const uniqueSources = new Map<string, { name: string; url: string }>();
     for (const m of c.members) {
-      const key = m.link;
-      if (!uniqueSources.has(key)) {
-        uniqueSources.set(key, { name: m.outletName, url: m.link });
+      const pub = resolvePublisherDomain(m.link, m.title, m.domain)
+        .replace(/^www\./, "")
+        .toLowerCase();
+      if (!uniqueSources.has(pub)) {
+        // Prefer non-GNews display name when possible
+        const name =
+          pub === "news.google.com" || m.outletName.toLowerCase().includes("gnews")
+            ? m.outletName
+            : m.outletName;
+        uniqueSources.set(pub, { name, url: m.link });
       }
     }
 

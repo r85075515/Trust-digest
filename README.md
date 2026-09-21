@@ -64,7 +64,7 @@ Verified free RSS used by the pipeline:
 | Tech            | TechCrunch, The Verge, BBC Technology, Ars Technica, Engadget |
 | AI              | MIT News AI, Wired AI, ScienceDaily AI, Google AI Blog |
 | Entertainment   | Billboard, Rolling Stone Music, TMZ, Hollywood Life, Just Jared, ET Online, BBC Entertainment |
-| East Asia gossip | **TW colony:** ETtoday 影劇/時尚, Yahoo TW 娛樂, GNews TW topic/娛樂 + breakup/reunion/婚變 searches, site:ettoday/setn, Dcard/LINE GNews proxies, 多米多羅 heat probe. **JP/KR/CN:** GNews JP, Soompi, Koreaboo, GNews KR, Sina 娛樂, GNews CN (lower per-feed caps). |
+| East Asia gossip | **TW colony:** ETtoday 影劇/時尚, Yahoo TW 娛樂, GNews TW topic/娛樂 + breakup/reunion/婚變 searches, site:ettoday/setn, Dcard/LINE GNews proxies. **JP/KR/CN:** GNews JP, Soompi, Koreaboo, GNews KR, Sina 娛樂, GNews CN (lower per-feed caps). |
 | Society         | CBS News Crime, Sky News UK, BBC UK, LA Times California, Guardian UK News, NPR News |
 | Beauty          | Allure, Fashionista |
 

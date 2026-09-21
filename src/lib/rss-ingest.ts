@@ -321,15 +321,6 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     region: "tw",
   },
   {
-    id: "gnews-tw-domi-probe",
-    name: "GNews TW 多米多羅 heat probe",
-    url: "https://news.google.com/rss/search?q=%E5%A4%9A%E7%B1%B3+%E5%A4%9A%E7%BE%85+%28%E5%88%86%E6%89%8B+OR+%E6%88%80%E6%84%9B%29&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-    category: "eastAsiaGossip",
-    language: "zh-TW",
-    domain: "news.google.com",
-    region: "tw",
-  },
-  {
     id: "gnews-tw-dcard-proxy",
     name: "GNews Dcard 娛樂 heat proxy",
     url: "https://news.google.com/rss/search?q=site:dcard.tw+%E5%A8%9B%E6%A8%82&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
@@ -593,8 +584,7 @@ const EAST_ASIA_GOSSIP_POSITIVE = [
   "影劇", "娛樂圈", "娱乐圈", "八卦", "緋聞", "绯闻", "偶像", "藝人", "艺人",
   "男星", "女星", "韓星", "韩星", "日星", "台星", "陸星", "陆星",
   "演藝", "演艺", "綜藝", "综艺", "戲劇", "戏剧", "追劇", "追剧",
-  "網紅", "分手", "婚變", "復合", "直播", "對質", "芝芝", "全星", "影劇",
-  "多米", "多羅", "多米多羅",
+  "網紅", "分手", "婚變", "復合", "直播", "對質", "全星", "影劇",
   "연예", "아이돌", "엔터테인먼트", "엔터",
   "芸能", "アイドル", "俳優", "女優", "ジャニーズ",
   "周杰倫", "周杰伦", "林俊傑", "林俊杰", "蔡依林", "鄧紫棋", "邓紫棋",
@@ -604,7 +594,7 @@ const EAST_ASIA_GOSSIP_POSITIVE = [
 const EAST_ASIA_GOSSIP_BOUNDED = ["blackpink", "newjeans", "stray kids", "enhypen", "ateez", "le sserafim", "aespa", "soompi", "koreaboo"];
 
 const EAST_ASIA_STRONG_RE =
-  /k-?pop|j-?pop|soompi|koreaboo|soompi|影劇|娛樂圈|娱乐圈|八卦|緋聞|绯闻|網紅|分手|婚變|復合|直播|對質|全星|芝芝|多米|多羅|연예|芸能|アイドル|韓星|韩星|台星|陸星|陆星|周杰|肖戰|肖战|王一博|stray kids|blackpink|newjeans|enhypen|ateez|le sserafim|inkigayo|music bank|mcountdown|(?:\\bk-?pop\\b.*\\b(?:exo|nct|ive|twice|bts|itzy)\\b)|(?:\\b(?:exo|nct|ive|twice|bts|itzy)\\b.*\\bk-?pop\\b)/i;
+  /k-?pop|j-?pop|soompi|koreaboo|soompi|影劇|娛樂圈|娱乐圈|八卦|緋聞|绯闻|網紅|分手|婚變|復合|直播|對質|全星|연예|芸能|アイドル|韓星|韩星|台星|陸星|陆星|周杰|肖戰|肖战|王一博|stray kids|blackpink|newjeans|enhypen|ateez|le sserafim|inkigayo|music bank|mcountdown|(?:\\bk-?pop\\b.*\\b(?:exo|nct|ive|twice|bts|itzy)\\b)|(?:\\b(?:exo|nct|ive|twice|bts|itzy)\\b.*\\bk-?pop\\b)/i;
 
 function eastAsiaGossipSignal(raw: string): boolean {
   const lower = raw.toLowerCase();
@@ -731,13 +721,24 @@ export function resolveCategory(
 }
 
 export function tokenize(text: string): Set<string> {
-  return new Set(
-    text
-      .toLowerCase()
-      .replace(/[^a-z0-9\u4e00-\u9fff\s-]/g, " ")
-      .split(/\s+/)
-      .filter((t) => t.length > 2 && !STOP.has(t))
-  );
+  const out = new Set<string>();
+  const cleaned = text
+    .toLowerCase()
+    .replace(/[^a-z0-9\u4e00-\u9fff\s-]/g, " ");
+  for (const t of cleaned.split(/\s+/)) {
+    if (!t) continue;
+    if (/[\u4e00-\u9fff]/.test(t)) {
+      // CJK: emit overlapping bigrams + whole short spans for Jaccard
+      if (t.length <= 4 && t.length > 1 && !STOP.has(t)) out.add(t);
+      for (let i = 0; i < t.length - 1; i++) {
+        const bg = t.slice(i, i + 2);
+        if (!STOP.has(bg)) out.add(bg);
+      }
+      continue;
+    }
+    if (t.length > 2 && !STOP.has(t)) out.add(t);
+  }
+  return out;
 }
 
 export function jaccard(a: Set<string>, b: Set<string>): number {
@@ -757,6 +758,80 @@ export function normalizeTitle(title: string): string {
     .trim();
 }
 
+/** Generic CJK spans that are roles/actions/controversy — not person names. */
+const CJK_NAME_STOP = new Set([
+  "分手", "婚變", "復合", "離婚", "緋聞", "網紅", "藝人", "影劇", "直播", "對質",
+  "開砲", "道歉", "明星", "女星", "男星", "大姊", "大姐", "全面", "開戰", "踢爆",
+  "雙標", "受害者", "聯絡", "前男友", "前女友", "爆料", "公開", "確認", "認了",
+  "情斷", "新聞", "娛樂", "討論", "反擊", "私約", "女粉", "持續", "指控", "朋友",
+  "關係", "退回", "認愛", "新歌", "現場", "直擊", "演唱會", "發布會", "延期",
+  "公告", "粉絲", "本人", "媽媽", "爸爸", "男友", "女友",
+]);
+
+/** Split CJK runs on role/action/controversy delimiters to isolate name-like spans. */
+const CJK_NAME_DELIMS =
+  /(?:大姊|大姐|分手|開砲|反擊|踢爆|全面|開戰|對質|道歉|復合|婚變|直播|離婚|私約|女粉|雙標|受害者|持續|聯絡|沒斷|前男友|前女友|爆與|認了|情斷|退回|朋友|關係|認愛|演唱會|發布會|延期|公告|新歌|現場|直擊|被爆|遭爆|控|指|稱|跟|與|爆)/g;
+
+const GOSSIP_CONTROVERSY_RE =
+  /分手|對質|開砲|道歉|復合|婚變|直播|離婚|出軌|緋聞|踢爆|開戰|反擊/;
+
+/** Strip trailing " - Outlet" publisher suffix from titles. */
+export function stripOutletSuffix(title: string): string {
+  return title.replace(/\s*[-–|]\s*[^-–|]{2,40}\s*$/u, "").trim();
+}
+
+/**
+ * Extract CJK name-like spans (2–4 chars) from titles for gossip event merge.
+ * Delimiter-split isolates people from verbs/roles (e.g. 多米多羅＋芝芝).
+ */
+export function extractCjkNameSpans(title: string): Set<string> {
+  const out = new Set<string>();
+  const base = stripOutletSuffix(title);
+  for (const m of base.matchAll(/[\u4e00-\u9fff]{2,}/g)) {
+    const run = m[0];
+    const parts = run.split(CJK_NAME_DELIMS);
+    for (const p of parts) {
+      if (!p) continue;
+      if (p.length >= 2 && p.length <= 4 && !CJK_NAME_STOP.has(p)) {
+        out.add(p);
+      } else if (p.length > 4) {
+        for (const len of [4, 3, 2]) {
+          const cand = p.slice(0, len);
+          if (!CJK_NAME_STOP.has(cand)) {
+            out.add(cand);
+            break;
+          }
+        }
+      }
+    }
+  }
+  return out;
+}
+
+/** Shared distinctive CJK names between two titles (maximal spans). */
+export function sharedCjkNames(a: string, b: string): string[] {
+  const na = extractCjkNameSpans(a);
+  const nb = extractCjkNameSpans(b);
+  const shared = [...na].filter((n) => nb.has(n));
+  // Drop spans contained in a longer shared name
+  return shared.filter((s) => !shared.some((o) => o !== s && o.includes(s)));
+}
+
+/** Same TW gossip event? ≥2 shared names, or 1 long name + controversy tokens. */
+export function sameGossipEvent(a: string, b: string): boolean {
+  const shared = sharedCjkNames(a, b);
+  if (shared.length >= 2) return true;
+  const longName = shared.find((s) => s.length >= 3);
+  if (
+    longName &&
+    GOSSIP_CONTROVERSY_RE.test(a) &&
+    GOSSIP_CONTROVERSY_RE.test(b)
+  ) {
+    return true;
+  }
+  return false;
+}
+
 /** Distinctive proper-noun-ish tokens (capitalized / long / CJK names). */
 export function distinctiveTokens(title: string): Set<string> {
   const out = new Set<string>();
@@ -774,6 +849,8 @@ export function distinctiveTokens(title: string): Set<string> {
       out.add(lower);
     }
   }
+  // Also include extracted CJK name spans
+  for (const n of extractCjkNameSpans(title)) out.add(n);
   return out;
 }
 
@@ -785,6 +862,8 @@ export function titlesNearDuplicate(
   const ta = tokenize(normalizeTitle(a));
   const tb = tokenize(normalizeTitle(b));
   if (jaccard(ta, tb) >= jaccardThreshold) return true;
+  // CJK gossip: same people + controversy → one event even if Jaccard low
+  if (sameGossipEvent(a, b)) return true;
   // Shared distinctive proper-noun tokens (at least 2, or 1 very long)
   const da = distinctiveTokens(a);
   const db = distinctiveTokens(b);
@@ -1036,8 +1115,8 @@ export function clusterItems(
 }
 
 /**
- * Post-pass: no duplicate source URLs across final stories;
- * drop weaker near-dup title clusters that escaped.
+ * Post-pass: fold same-event / near-dup clusters (CJK name merge + Jaccard);
+ * no duplicate source URLs across final stories.
  */
 export function hardDedupeClusters(clusters: StoryCluster[]): StoryCluster[] {
   // Rank stronger first (more members, stronger category, better proper-noun title)
@@ -1054,29 +1133,49 @@ export function hardDedupeClusters(clusters: StoryCluster[]): StoryCluster[] {
   const kept: StoryCluster[] = [];
   const usedUrls = new Set<string>();
 
+  const laneClash = (x: Category, y: Category) => {
+    const ea = (c: Category) => c === "eastAsiaGossip";
+    const western = (c: Category) => c === "entertainment";
+    const hard = (c: Category) =>
+      c === "international" || c === "finance" || c === "tech" || c === "ai";
+    return (
+      (ea(x) && (western(y) || hard(y))) || (ea(y) && (western(x) || hard(x)))
+    );
+  };
+
   for (const c of ranked) {
     const urls = c.members.map((m) => normalizeUrl(m.link));
     // Drop if any URL already claimed by a stronger cluster
     if (urls.some((u) => usedUrls.has(u))) continue;
-    // Drop if near-dup title vs an already-kept cluster (same gossip lane only —
-    // eastAsiaGossip vs entertainment may coexist with similar celebrity names)
-    if (
-      kept.some((k) => {
-        const ea = (x: Category) => x === "eastAsiaGossip";
-        const western = (x: Category) => x === "entertainment";
-        const hard = (x: Category) =>
-          x === "international" || x === "finance" || x === "tech" || x === "ai";
-        const laneClash =
-          (ea(k.category) && (western(c.category) || hard(c.category))) ||
-          (ea(c.category) && (western(k.category) || hard(k.category)));
-        if (laneClash) return false;
-        return titlesNearDuplicate(k.primaryTitle, c.primaryTitle, 0.7);
-      })
-    ) {
+
+    // Fold into an already-kept same-event / near-dup cluster (same gossip lane)
+    const foldIdx = kept.findIndex((k) => {
+      if (laneClash(k.category, c.category)) return false;
+      return (
+        titlesNearDuplicate(k.primaryTitle, c.primaryTitle, 0.7) ||
+        sameGossipEvent(k.primaryTitle, c.primaryTitle)
+      );
+    });
+    if (foldIdx >= 0) {
+      const merged = buildClusterFromMembers([
+        ...kept[foldIdx].members,
+        ...c.members,
+      ]);
+      // Re-dedupe URLs inside merged
+      const seen = new Set<string>();
+      const dedupMembers: RawFeedItem[] = [];
+      for (const m of merged.members) {
+        const u = normalizeUrl(m.link);
+        if (seen.has(u)) continue;
+        seen.add(u);
+        dedupMembers.push(m);
+      }
+      kept[foldIdx] = buildClusterFromMembers(dedupMembers);
+      for (const u of urls) usedUrls.add(u);
       continue;
     }
+
     for (const u of urls) usedUrls.add(u);
-    // Strip any member URLs that somehow duplicated inside
     const seen = new Set<string>();
     const dedupMembers: RawFeedItem[] = [];
     for (const m of c.members) {
@@ -1092,7 +1191,56 @@ export function hardDedupeClusters(clusters: StoryCluster[]): StoryCluster[] {
     );
   }
 
-  return kept;
+  // Second merge sweep: primaryTitle same-event rule (catches chain misses)
+  return mergeClustersByGossipEvent(kept);
+}
+
+/** Second pass: merge clusters that share ≥2 CJK names (or long name + controversy). */
+export function mergeClustersByGossipEvent(
+  clusters: StoryCluster[]
+): StoryCluster[] {
+  const laneClash = (x: Category, y: Category) => {
+    const ea = (c: Category) => c === "eastAsiaGossip";
+    const western = (c: Category) => c === "entertainment";
+    const hard = (c: Category) =>
+      c === "international" || c === "finance" || c === "tech" || c === "ai";
+    return (
+      (ea(x) && (western(y) || hard(y))) || (ea(y) && (western(x) || hard(x)))
+    );
+  };
+
+  const list = [...clusters].sort(
+    (a, b) => b.members.length - a.members.length
+  );
+  const used = new Set<number>();
+  const out: StoryCluster[] = [];
+
+  for (let i = 0; i < list.length; i++) {
+    if (used.has(i)) continue;
+    let members = [...list[i].members];
+    used.add(i);
+    for (let j = i + 1; j < list.length; j++) {
+      if (used.has(j)) continue;
+      if (laneClash(list[i].category, list[j].category)) continue;
+      if (
+        sameGossipEvent(list[i].primaryTitle, list[j].primaryTitle) ||
+        titlesNearDuplicate(list[i].primaryTitle, list[j].primaryTitle, 0.7)
+      ) {
+        members = members.concat(list[j].members);
+        used.add(j);
+      }
+    }
+    const seen = new Set<string>();
+    const dedup: RawFeedItem[] = [];
+    for (const m of members) {
+      const u = normalizeUrl(m.link);
+      if (seen.has(u)) continue;
+      seen.add(u);
+      dedup.push(m);
+    }
+    out.push(buildClusterFromMembers(dedup));
+  }
+  return out;
 }
 
 /** Very simple numeric / named-entity conflict heuristic. */
@@ -1148,18 +1296,17 @@ export function reputationForDomain(domain: string): number {
 }
 
 export function buildTrustBreakdown(cluster: StoryCluster): TrustBreakdown {
-  const uniqueDomains = new Set(
-    cluster.members.map((m) => m.domain.replace(/^www\./, "").toLowerCase())
-  );
+  // Count unique publisher domains (not GNews wrapper rows)
+  const uniqueDomains = uniquePublisherDomains(cluster);
   const sourceDiversity = Math.min(25, Math.round(uniqueDomains.size * 8));
 
   const reps = [...uniqueDomains].map((d) => reputationForDomain(d));
   const outletReputation = Math.min(
     25,
-    Math.round(reps.reduce((a, b) => a + b, 0) / reps.length)
+    Math.round(reps.reduce((a, b) => a + b, 0) / Math.max(1, reps.length))
   );
 
-  const size = cluster.members.length;
+  const size = uniqueDomains.size; // honest multi-source = unique publishers
   let crossCorroboration = Math.min(25, 8 + (size - 1) * 7);
   if (cluster.disagreementHint) {
     crossCorroboration = Math.max(6, crossCorroboration - 8);
@@ -1269,6 +1416,77 @@ export function domainFromUrl(url: string): string {
   } catch {
     return "unknown";
   }
+}
+
+/**
+ * Resolve true publisher domain for trust 「N源」 counting.
+ * GNews wrappers (news.google.com) map to the underlying outlet via title suffix
+ * ("Story - ETtoday") or article host — twenty GNews rows of one site ≠ 20 sources.
+ */
+export function resolvePublisherDomain(
+  link: string,
+  title: string,
+  feedDomain?: string
+): string {
+  const host = domainFromUrl(link).toLowerCase();
+  if (host && host !== "news.google.com" && host !== "unknown") {
+    return canonicalizePublisherDomain(host);
+  }
+
+  const m = title.match(/\s[-–|]\s*([^-–|]{2,40})\s*$/);
+  if (m) {
+    const outlet = m[1].trim().toLowerCase();
+    if (outlet.includes("ettoday") || outlet.includes("星光雲") || outlet.includes("東森")) {
+      return "ettoday.net";
+    }
+    if (outlet.includes("yahoo")) return "tw.news.yahoo.com";
+    if (outlet.includes("三立") || outlet.includes("setn")) return "setn.com";
+    if (outlet.includes("鏡週刊") || outlet.includes("mirrormedia")) return "mirrormedia.mg";
+    if (outlet.includes("自由")) return "ltn.com.tw";
+    if (outlet.includes("聯合") || outlet.includes("udn")) return "udn.com";
+    if (outlet.includes("中時") || outlet.includes("chinatimes")) return "chinatimes.com";
+    if (outlet.includes("東森") || outlet.includes("ebc")) return "news.ebc.net.tw";
+    if (outlet.includes("line today") || outlet.includes("line")) return "today.line.me";
+    if (outlet.includes("dcard")) return "dcard.tw";
+    if (outlet.includes("newtalk")) return "newtalk.tw";
+    if (outlet.includes("蘋果") || outlet.includes("appledaily")) return "tw.appledaily.com";
+    // Fallback: slugify outlet label (still unique-ish, not news.google.com)
+    const slug = outlet.replace(/\s+/g, "").slice(0, 40);
+    if (slug) return slug;
+  }
+  if (feedDomain && feedDomain !== "news.google.com") {
+    return canonicalizePublisherDomain(feedDomain.replace(/^www\./, "").toLowerCase());
+  }
+  return canonicalizePublisherDomain(host || "news.google.com");
+}
+
+/** Collapse CDN / subdomain variants to one publisher for N源. */
+export function canonicalizePublisherDomain(domain: string): string {
+  const d = domain.replace(/^www\./, "").toLowerCase();
+  if (d === "news.google.com") return d;
+  if (d.endsWith("ettoday.net") || d.includes("ettoday")) return "ettoday.net";
+  if (d.endsWith("yahoo.com") || d.includes("yahoo")) return "tw.news.yahoo.com";
+  if (d.endsWith("setn.com")) return "setn.com";
+  if (d.endsWith("mirrormedia.mg") || d.includes("mirrormedia")) return "mirrormedia.mg";
+  if (d.endsWith("ltn.com.tw")) return "ltn.com.tw";
+  if (d.endsWith("udn.com") || d.includes("udn.com")) return "udn.com";
+  if (d.endsWith("chinatimes.com")) return "chinatimes.com";
+  if (d.endsWith("ebc.net.tw") || d.includes("ebc")) return "news.ebc.net.tw";
+  if (d.endsWith("line.me") || d.includes("today.line")) return "today.line.me";
+  if (d.endsWith("dcard.tw")) return "dcard.tw";
+  if (d.endsWith("soompi.com")) return "soompi.com";
+  if (d.endsWith("koreaboo.com")) return "koreaboo.com";
+  if (d.endsWith("sina.com.cn") || d.endsWith("sina.com")) return "sina.com.cn";
+  return d;
+}
+
+/** Unique publisher domains in a cluster (for honest N源). */
+export function uniquePublisherDomains(cluster: StoryCluster): Set<string> {
+  return new Set(
+    cluster.members.map((m) =>
+      resolvePublisherDomain(m.link, m.title, m.domain).replace(/^www\./, "").toLowerCase()
+    )
+  );
 }
 
 export function slugify(text: string): string {
@@ -1415,7 +1633,7 @@ export function pickBalancedClusters(
   ]);
 
   const TW_GOSSIP_TITLE_RE =
-    /分手|婚變|復合|直播對質|對質|緋聞|網紅|藝人|影劇|多米|多羅|芝芝/;
+    /分手|婚變|復合|直播對質|對質|緋聞|網紅|藝人|影劇/;
 
   const scored = clusters.map((c) => {
     const tb = buildTrustBreakdown(c);
@@ -1545,7 +1763,55 @@ export function pickBalancedClusters(
     }
   }
 
-  return picked;
+  // Hard-dedupe after pick: ≥2 shared CJK name entities → keep hotter / multi-source
+  return foldPickedSameEvents(picked);
+}
+
+/** After pick: fold any remaining same-event gossip cards (shared ≥2 names). */
+export function foldPickedSameEvents(picked: StoryCluster[]): StoryCluster[] {
+  if (picked.length < 2) return picked;
+  const score = (c: StoryCluster) =>
+    uniquePublisherDomains(c).size * 20 + c.members.length * 8;
+
+  const ranked = [...picked].sort((a, b) => score(b) - score(a));
+  const kept: StoryCluster[] = [];
+  const used = new Set<number>();
+
+  for (let i = 0; i < ranked.length; i++) {
+    if (used.has(i)) continue;
+    let members = [...ranked[i].members];
+    used.add(i);
+    for (let j = i + 1; j < ranked.length; j++) {
+      if (used.has(j)) continue;
+      // Only fold within eastAsiaGossip / entertainment gossip lanes
+      const bothGossip =
+        (ranked[i].category === "eastAsiaGossip" ||
+          ranked[i].category === "entertainment") &&
+        ranked[i].category === ranked[j].category;
+      if (!bothGossip && ranked[i].category !== ranked[j].category) continue;
+      const shared = sharedCjkNames(
+        ranked[i].primaryTitle,
+        ranked[j].primaryTitle
+      );
+      if (
+        shared.length >= 2 ||
+        sameGossipEvent(ranked[i].primaryTitle, ranked[j].primaryTitle)
+      ) {
+        members = members.concat(ranked[j].members);
+        used.add(j);
+      }
+    }
+    const seen = new Set<string>();
+    const dedup: RawFeedItem[] = [];
+    for (const m of members) {
+      const u = normalizeUrl(m.link);
+      if (seen.has(u)) continue;
+      seen.add(u);
+      dedup.push(m);
+    }
+    kept.push(buildClusterFromMembers(dedup));
+  }
+  return kept;
 }
 
 export type { Story };

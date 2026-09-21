@@ -29,7 +29,7 @@ export interface HeatCandidate {
 const FETCH_MS = 10_000;
 
 const GOSSIP_HEAT_RE =
-  /分手|婚變|復合|離婚|緋聞|網紅|藝人|影劇|直播|對質|明星|歐巴|韓星|台星|多米|多羅|芝芝|戀愛|出軌|舊愛|前女友|前男友|認愛|閃婚|鬧分手/;
+  /分手|婚變|復合|離婚|緋聞|網紅|藝人|影劇|直播|對質|明星|歐巴|韓星|台星|戀愛|出軌|舊愛|前女友|前男友|認愛|閃婚|鬧分手/;
 
 /** Strip PTT category tags like [新聞]/[問卦] for keyword matching. */
 export function cleanHeatTitle(title: string): string {
@@ -313,11 +313,6 @@ export async function verifyHeatAgainstNews(
     .sort((a, b) => b[1] - a[1])
     .map(([k]) => k)
     .slice(0, maxQueries);
-
-  // Always include validation probe if present in heat
-  if (heat.some((h) => /多米|多羅|芝芝/.test(h.title)) && !keywords.some((k) => /多米|多羅/.test(k))) {
-    keywords.unshift("多米多羅");
-  }
 
   const newsItems: RawFeedItem[] = [];
   const verifiedKeywords: string[] = [];
