@@ -934,7 +934,7 @@ function normalizeUrl(u: string): string {
     x.hash = "";
     x.search = "";
     // Drop common tracking noise already stripped via search; also unify www
-    let host = x.hostname.replace(/^www\./, "");
+    const host = x.hostname.replace(/^www\./, "");
     x.hostname = host;
     return x.toString().replace(/\/$/, "");
   } catch {
