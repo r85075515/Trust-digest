@@ -31,6 +31,10 @@ import {
   type FeedSource,
 } from "../src/lib/rss-ingest";
 import {
+  discoverTwHeat,
+  verifyHeatAgainstNews,
+} from "../src/lib/heat-discovery";
+import {
   computeTrustScore,
   applyTrustCaps,
   isDevelopingCasualtyText,
@@ -47,7 +51,19 @@ const COVER_DIR = path.join(ROOT, "public", "covers", "live");
 const FETCH_TIMEOUT_MS = 12_000;
 const OG_TIMEOUT_MS = 5_000;
 const FEED_DELAY_MS = 400;
-const MAX_ITEMS_PER_FEED = 10;
+/** Default cap — overridden per feed for TW heat vs jp/kr/cn soft-deprioritize. */
+const MAX_ITEMS_PER_FEED_DEFAULT = 7;
+
+/** Per-feed item caps (token-saving): TW EA 20–25; jp/kr/cn 5–6; other cats 6–8. */
+function maxItemsForFeed(source: FeedSource): number {
+  if (source.category === "eastAsiaGossip") {
+    if (source.region === "tw") return 22;
+    if (source.region === "jp" || source.region === "kr" || source.region === "cn") {
+      return 5;
+    }
+  }
+  return MAX_ITEMS_PER_FEED_DEFAULT;
+}
 
 const parser = new Parser({
   timeout: FETCH_TIMEOUT_MS,
@@ -142,7 +158,8 @@ async function fetchFeed(source: FeedSource): Promise<RawFeedItem[]> {
     const feed = await parser.parseString(xml);
     const items: RawFeedItem[] = [];
 
-    for (const item of (feed.items ?? []).slice(0, MAX_ITEMS_PER_FEED)) {
+    const itemCap = maxItemsForFeed(source);
+    for (const item of (feed.items ?? []).slice(0, itemCap)) {
       const title = (item.title ?? "").trim();
       const link = (item.link ?? item.guid ?? "").toString().trim();
       if (!title || !link || !/^https?:\/\//i.test(link)) continue;
@@ -561,9 +578,28 @@ async function main() {
     `[ingest] fetched ${allItems.length} items from ${okFeeds}/${ALLOWED_FEEDS.length} feeds`
   );
 
+  // TW heat discovery → verify against colony news → merge (forum-only stays 審慎)
+  const heatCandidates = await discoverTwHeat();
+  const heatVerify = await verifyHeatAgainstNews(heatCandidates, allItems, {
+    maxQueries: 4,
+  });
+  if (heatVerify.newsItems.length) {
+    allItems.push(...heatVerify.newsItems);
+    console.info(
+      `[ingest] heat-injected ${heatVerify.newsItems.length} TW news items (sources: ${heatVerify.sourcesShipped.join(",")})`
+    );
+  } else {
+    console.info(
+      `[ingest] heat sources shipped: ${heatVerify.sourcesShipped.join(",") || "none"} (no extra news inject)`
+    );
+  }
+
   const clusters = clusterItems(allItems);
   console.info(`[ingest] ${clusters.length} clusters before pick`);
-  const picked = pickBalancedClusters(clusters, 14, 24);
+  // Small ingest: ≤16 stories → ≤16 LLM digests
+  const picked = pickBalancedClusters(clusters, 12, 16, {
+    heatKeywords: heatVerify.verifiedKeywords,
+  });
   console.info(`[ingest] picked ${picked.length} clusters for main feed`);
 
   // Enrich top items missing images with og:image (rate-limited)
@@ -701,6 +737,13 @@ async function main() {
     byCat[s.category] = (byCat[s.category] ?? 0) + 1;
   }
 
+  const eaByRegion: Record<string, number> = {};
+  for (const s of stories) {
+    if (s.category !== "eastAsiaGossip") continue;
+    const r = s.region ?? "unknown";
+    eaByRegion[r] = (eaByRegion[r] ?? 0) + 1;
+  }
+
   const meta = {
     ingestedAt: new Date().toISOString(),
     feedOk: okFeeds,
@@ -708,8 +751,12 @@ async function main() {
     rawItems: allItems.length,
     mainStories: stories.length,
     byCategory: byCat,
+    eastAsiaByRegion: eaByRegion,
+    heatSourcesShipped: heatVerify.sourcesShipped,
+    heatVerifiedKeywords: heatVerify.verifiedKeywords,
+    heatNewsInjected: heatVerify.newsItems.length,
     llmUsed: Boolean(llm),
-    mode: llm ? "llm+rss" : "extractive+translate+rss",
+    mode: llm ? "llm+rss+heat" : "extractive+translate+rss+heat",
   };
   fs.writeFileSync(OUT_META, JSON.stringify(meta, null, 2) + "\n", "utf8");
 

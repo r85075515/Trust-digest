@@ -228,7 +228,8 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     language: "en",
     domain: "bbc.com",
   },
-  // East Asia gossip — TW / JP / KR / CN (separate from Western entertainment)
+  // East Asia gossip — TW colony heat-first, then JP/KR/CN (soft-deprioritized in ingest caps)
+  // Heat discovery (PTT / GNews-Dcard / LINE) lives in heat-discovery.ts — backlog: Threads, X, native Dcard API.
   {
     id: "ettoday-star",
     name: "ETtoday 影劇",
@@ -254,6 +255,96 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     category: "eastAsiaGossip",
     language: "zh-TW",
     domain: "ettoday.net",
+    region: "tw",
+  },
+  {
+    id: "yahoo-tw-ent",
+    name: "Yahoo TW 娛樂",
+    url: "https://tw.news.yahoo.com/rss/entertainment",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "tw.news.yahoo.com",
+    region: "tw",
+  },
+  {
+    id: "gnews-tw-yule",
+    name: "Google News TW 娛樂",
+    url: "https://news.google.com/rss/search?q=%E5%A8%9B%E6%A8%82&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "news.google.com",
+    region: "tw",
+  },
+  {
+    id: "gnews-tw-ettoday-breakup",
+    name: "GNews site:ettoday 分手/復合/婚",
+    url: "https://news.google.com/rss/search?q=site:ettoday.net+%28%E5%88%86%E6%89%8B+OR+%E5%BE%A9%E5%90%88+OR+%E5%A9%9A%29&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "news.google.com",
+    region: "tw",
+  },
+  {
+    id: "gnews-tw-setn-breakup",
+    name: "GNews site:setn 分手/婚",
+    url: "https://news.google.com/rss/search?q=site:setn.com+%28%E5%88%86%E6%89%8B+OR+%E5%A9%9A%29&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "news.google.com",
+    region: "tw",
+  },
+  {
+    id: "gnews-tw-breakup-star",
+    name: "GNews TW 分手+藝人/明星",
+    url: "https://news.google.com/rss/search?q=%E5%88%86%E6%89%8B+%28%E8%97%9D%E4%BA%BA+OR+%E6%98%8E%E6%98%9F%29&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "news.google.com",
+    region: "tw",
+  },
+  {
+    id: "gnews-tw-reunion-star",
+    name: "GNews TW 復合+藝人/明星",
+    url: "https://news.google.com/rss/search?q=%E5%BE%A9%E5%90%88+%28%E8%97%9D%E4%BA%BA+OR+%E6%98%8E%E6%98%9F%29&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "news.google.com",
+    region: "tw",
+  },
+  {
+    id: "gnews-tw-divorce-star",
+    name: "GNews TW 婚變/離婚+藝人",
+    url: "https://news.google.com/rss/search?q=%28%E5%A9%9A%E8%AE%8A+OR+%E9%9B%A2%E5%A9%9A%29+%28%E8%97%9D%E4%BA%BA+OR+%E6%98%8E%E6%98%9F%29&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "news.google.com",
+    region: "tw",
+  },
+  {
+    id: "gnews-tw-domi-probe",
+    name: "GNews TW 多米多羅 heat probe",
+    url: "https://news.google.com/rss/search?q=%E5%A4%9A%E7%B1%B3+%E5%A4%9A%E7%BE%85+%28%E5%88%86%E6%89%8B+OR+%E6%88%80%E6%84%9B%29&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "news.google.com",
+    region: "tw",
+  },
+  {
+    id: "gnews-tw-dcard-proxy",
+    name: "GNews Dcard 娛樂 heat proxy",
+    url: "https://news.google.com/rss/search?q=site:dcard.tw+%E5%A8%9B%E6%A8%82&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "news.google.com",
+    region: "tw",
+  },
+  {
+    id: "gnews-tw-line-ent",
+    name: "GNews LINE TODAY TW 娛樂",
+    url: "https://news.google.com/rss/search?q=site:today.line.me/tw+%E5%A8%9B%E6%A8%82&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "eastAsiaGossip",
+    language: "zh-TW",
+    domain: "news.google.com",
     region: "tw",
   },
   {
@@ -502,6 +593,8 @@ const EAST_ASIA_GOSSIP_POSITIVE = [
   "影劇", "娛樂圈", "娱乐圈", "八卦", "緋聞", "绯闻", "偶像", "藝人", "艺人",
   "男星", "女星", "韓星", "韩星", "日星", "台星", "陸星", "陆星",
   "演藝", "演艺", "綜藝", "综艺", "戲劇", "戏剧", "追劇", "追剧",
+  "網紅", "分手", "婚變", "復合", "直播", "對質", "芝芝", "全星", "影劇",
+  "多米", "多羅", "多米多羅",
   "연예", "아이돌", "엔터테인먼트", "엔터",
   "芸能", "アイドル", "俳優", "女優", "ジャニーズ",
   "周杰倫", "周杰伦", "林俊傑", "林俊杰", "蔡依林", "鄧紫棋", "邓紫棋",
@@ -511,7 +604,7 @@ const EAST_ASIA_GOSSIP_POSITIVE = [
 const EAST_ASIA_GOSSIP_BOUNDED = ["blackpink", "newjeans", "stray kids", "enhypen", "ateez", "le sserafim", "aespa", "soompi", "koreaboo"];
 
 const EAST_ASIA_STRONG_RE =
-  /k-?pop|j-?pop|soompi|koreaboo|soompi|影劇|娛樂圈|娱乐圈|八卦|緋聞|绯闻|연예|芸能|アイドル|韓星|韩星|台星|陸星|陆星|周杰|肖戰|肖战|王一博|stray kids|blackpink|newjeans|enhypen|ateez|le sserafim|inkigayo|music bank|mcountdown|(?:\\bk-?pop\\b.*\\b(?:exo|nct|ive|twice|bts|itzy)\\b)|(?:\\b(?:exo|nct|ive|twice|bts|itzy)\\b.*\\bk-?pop\\b)/i;
+  /k-?pop|j-?pop|soompi|koreaboo|soompi|影劇|娛樂圈|娱乐圈|八卦|緋聞|绯闻|網紅|分手|婚變|復合|直播|對質|全星|芝芝|多米|多羅|연예|芸能|アイドル|韓星|韩星|台星|陸星|陆星|周杰|肖戰|肖战|王一博|stray kids|blackpink|newjeans|enhypen|ateez|le sserafim|inkigayo|music bank|mcountdown|(?:\\bk-?pop\\b.*\\b(?:exo|nct|ive|twice|bts|itzy)\\b)|(?:\\b(?:exo|nct|ive|twice|bts|itzy)\\b.*\\bk-?pop\\b)/i;
 
 function eastAsiaGossipSignal(raw: string): boolean {
   const lower = raw.toLowerCase();
@@ -1271,15 +1364,17 @@ export function buildExtractiveDigest(cluster: StoryCluster): {
 
 export function pickBalancedClusters(
   clusters: StoryCluster[],
-  targetMin = 14,
-  targetMax = 28
+  targetMin = 12,
+  targetMax = 16,
+  opts: { heatKeywords?: string[] } = {}
 ): StoryCluster[] {
+  const heatKeywords = opts.heatKeywords ?? [];
   const perCatTarget: Record<string, number> = {
-    international: 5,
-    finance: 4,
-    tech: 4,
-    ai: 3,
-    entertainment: 4,
+    international: 3,
+    finance: 2,
+    tech: 2,
+    ai: 2,
+    entertainment: 2,
     eastAsiaGossip: 5,
     society: 0,
     beauty: 0,
@@ -1301,7 +1396,26 @@ export function pickBalancedClusters(
     "sina.com.cn",
     "sina.com",
     "news.google.com",
+    "tw.news.yahoo.com",
+    "setn.com",
+    "today.line.me",
+    "dcard.tw",
   ]);
+
+  /** TW-lane domains should outrank Soompi when competing for EA slots. */
+  const TW_PREFERRED_DOMAINS = new Set([
+    "ettoday.net",
+    "news.google.com",
+    "tw.news.yahoo.com",
+    "setn.com",
+    "today.line.me",
+    "ltn.com.tw",
+    "udn.com",
+    "mirrormedia.mg",
+  ]);
+
+  const TW_GOSSIP_TITLE_RE =
+    /分手|婚變|復合|直播對質|對質|緋聞|網紅|藝人|影劇|多米|多羅|芝芝/;
 
   const scored = clusters.map((c) => {
     const tb = buildTrustBreakdown(c);
@@ -1323,16 +1437,30 @@ export function pickBalancedClusters(
       const t = c.primaryTitle.toLowerCase();
       if (/sport|betting advert|ferry|deport|dollhouse|blind box/.test(t)) score -= 14;
     }
-    // Prefer regional East Asia gossip outlets
+    // Prefer regional East Asia gossip outlets — TW heat ≫ jp/kr/cn
     if (c.category === "eastAsiaGossip") {
       const domains = c.members.map((m) =>
         m.domain.replace(/^www\./, "").toLowerCase()
       );
-      if (domains.some((d) => EA_DOMAINS.has(d))) score += 16;
-      if (domains.some((d) => d === "soompi.com" || d === "ettoday.net")) score += 10;
+      if (domains.some((d) => EA_DOMAINS.has(d))) score += 12;
+      // TW preferred domains above Soompi for TW-lane competition
+      if (domains.some((d) => TW_PREFERRED_DOMAINS.has(d))) score += 18;
+      if (domains.some((d) => d === "ettoday.net")) score += 8;
+      if (domains.some((d) => d === "soompi.com" || d === "koreaboo.com")) score += 4;
       // Koreaboo lower reputation — mild score penalty vs Soompi
       if (domains.every((d) => d === "koreaboo.com")) score -= 4;
-      if (c.region) score += 2;
+      // Strong TW region boost
+      if (c.region === "tw") score += 24;
+      else if (c.region === "jp" || c.region === "kr" || c.region === "cn") score -= 10;
+      else if (c.region) score += 2;
+      // Multi-member cluster heat
+      if (c.members.length >= 2) score += 10;
+      if (c.members.length >= 3) score += 6;
+      // Title gossip / heat lexicon
+      if (TW_GOSSIP_TITLE_RE.test(c.primaryTitle)) score += 14;
+      for (const kw of heatKeywords) {
+        if (kw && c.primaryTitle.includes(kw)) score += 12;
+      }
     }
     // Prefer clear crime/accident society clusters
     if (c.category === "society") {
@@ -1355,45 +1483,64 @@ export function pickBalancedClusters(
 
   const picked: StoryCluster[] = [];
   const counts: Record<string, number> = {};
+  const pickedSet = new Set<StoryCluster>();
 
   const entDomains = new Set<string>();
   const eaDomains = new Set<string>();
   const eaRegions = new Set<string>();
-  for (const { c } of scored) {
-    if (c.category === "society" || c.category === "beauty") continue;
+
+  const tryPick = (c: StoryCluster, forceEaTw = false): boolean => {
+    if (pickedSet.has(c)) return false;
+    if (c.category === "society" || c.category === "beauty") return false;
     const n = counts[c.category] ?? 0;
-    if (n >= (perCatTarget[c.category] ?? 3)) continue;
+    if (n >= (perCatTarget[c.category] ?? 3)) return false;
     if (c.category === "entertainment") {
       const dom = c.members[0]?.domain.replace(/^www\./, "").toLowerCase() ?? "";
-      // Prefer outlet diversity within Western gossip
-      if (entDomains.has(dom) && entDomains.size < 4 && n >= 1) continue;
+      if (entDomains.has(dom) && entDomains.size < 4 && n >= 1) return false;
       if (dom) entDomains.add(dom);
     }
     if (c.category === "eastAsiaGossip") {
-      // Reject impostors: must come from an EA gossip feed and/or carry a region tag
       const fromEaFeed = c.members.some((m) => m.category === "eastAsiaGossip");
-      if (!fromEaFeed && !c.region) continue;
+      if (!fromEaFeed && !c.region) return false;
+      if (forceEaTw && c.region !== "tw") return false;
       const dom = c.members[0]?.domain.replace(/^www\./, "").toLowerCase() ?? "";
-      // Prefer region + outlet diversity (tw/jp/kr/cn)
-      if (c.region && eaRegions.has(c.region) && eaRegions.size < 4 && n >= 2) {
-        // still allow if new outlet
-        if (dom && eaDomains.has(dom)) continue;
+      // While filling TW quota, allow same-domain TW stories more freely
+      if (!forceEaTw) {
+        if (c.region && eaRegions.has(c.region) && eaRegions.size < 4 && n >= 3) {
+          if (dom && eaDomains.has(dom)) return false;
+        }
+        if (dom && eaDomains.has(dom) && eaDomains.size < 5 && n >= 2) return false;
       }
-      if (dom && eaDomains.has(dom) && eaDomains.size < 5 && n >= 1) continue;
       if (dom) eaDomains.add(dom);
       if (c.region) eaRegions.add(c.region);
     }
     picked.push(c);
+    pickedSet.add(c);
     counts[c.category] = n + 1;
+    return true;
+  };
+
+  // Pass 1: reserve ≥3 TW eastAsiaGossip slots (TW-first)
+  const EA_TW_MIN = 3;
+  for (const { c } of scored) {
+    if ((counts["eastAsiaGossip"] ?? 0) >= EA_TW_MIN) break;
+    if (c.category !== "eastAsiaGossip") continue;
+    tryPick(c, true);
+  }
+
+  // Pass 2: fill remaining category quotas (jp/kr/cn may take leftover EA slots)
+  for (const { c } of scored) {
     if (picked.length >= targetMax) break;
+    tryPick(c, false);
   }
 
   // Fill to min if short
   if (picked.length < targetMin) {
     for (const { c } of scored) {
-      if (picked.includes(c)) continue;
+      if (pickedSet.has(c)) continue;
       if (c.category === "society" || c.category === "beauty") continue;
       picked.push(c);
+      pickedSet.add(c);
       if (picked.length >= targetMin) break;
     }
   }

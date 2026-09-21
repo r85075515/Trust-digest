@@ -24,20 +24,23 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Live ingest (`npm run ingest`)
 
-Pipeline (`scripts/ingest.ts` + `src/lib/rss-ingest.ts`):
+Pipeline (`scripts/ingest.ts` + `src/lib/rss-ingest.ts` + `src/lib/heat-discovery.ts`):
 
-1. Fetch curated allow-list feeds (polite User-Agent, timeout, per-feed delay).
+1. Fetch curated allow-list feeds (polite User-Agent, timeout, per-feed delay). TW eastAsiaGossip feeds pull **20–25** items; jp/kr/cn **5–6**; other categories **6–8** (token-saving).
 2. Parse RSS/Atom (`rss-parser`); normalize title, link, pubDate, description, image (`media:content` / enclosure / first `<img>`; optional `og:image` for a few top items).
-3. Retune category with heuristics (celebrity/K-pop → entertainment; crime/accidents → society; drop film-festival academia noise).
-4. Cluster near-duplicates by title token Jaccard within each category.
-5. Compute trust breakdown: source diversity, outlet reputation map, cross-corroboration, recency & clarity → `computeTrustScore()`.
-6. Digests:
+3. **TW heat discovery (MVP):** PTT Gossiping (`over18=1`), Dcard via GNews `site:dcard.tw 娛樂` proxy (direct dcard.tw is CF 403), LINE TODAY entertainment HTML (+ GNews `site:today.line.me`). Extract titles → verify against TW news colony (ETtoday / Yahoo / GNews). ≥2 news domains for elevated trust; forum-only heat stays 審慎 / never high trust.
+4. Retune category with heuristics (celebrity/K-pop → entertainment or eastAsiaGossip; crime/accidents → society; drop film-festival academia noise).
+5. Cluster near-duplicates by title token Jaccard within each category; merge heat-verified news into TW `eastAsiaGossip`.
+6. `pickBalancedClusters` (~12–16 stories): intl 3 / finance 2 / tech 2 / ai 2 / entertainment 2 / **eastAsiaGossip 5** with **≥3 TW** reserved; TW region & gossip-title boost ≫ jp/kr/cn.
+7. Digests **only for selected cards** (≤16 LLM calls):
    - **If** `AXIOM_LLM_API_KEY` / `OPENAI_API_KEY` / `XAI_API_KEY` is set → OpenAI-compatible chat (xAI if key starts with `xai-` or `AXIOM_LLM_BASE_URL` points at xAI). Never invent facts not in titles/snippets.
    - **Else** extractive digest from title+description + best-effort zh-TW via `@vitalets/google-translate-api` (if translate fails, keep EN and note 「譯文待補」).
-7. Download related covers into `public/covers/live/` when possible; otherwise keep HTTPS publisher CDN URLs only (no unrelated placeholders).
-8. Overwrite `data/stories.json` (100% live) + write `data/ingest-meta.json`.
+8. Download related covers into `public/covers/live/` when possible; otherwise keep HTTPS publisher CDN URLs only (no unrelated placeholders).
+9. Overwrite `data/stories.json` (100% live) + write `data/ingest-meta.json`.
 
 Fail loudly if every feed fails.
+
+**Heat backlog (not shipped):** Threads, X/Twitter, native Dcard API, full LINE TODAY multi-tab crawl, more PTT boards.
 
 ### Optional LLM env
 
@@ -60,7 +63,8 @@ Verified free RSS used by the pipeline:
 | Finance         | CNBC, MarketWatch, Yahoo Finance, BBC Business, Guardian Business |
 | Tech            | TechCrunch, The Verge, BBC Technology, Ars Technica, Engadget |
 | AI              | MIT News AI, Wired AI, ScienceDaily AI, Google AI Blog |
-| Entertainment   | Billboard, Rolling Stone Music, Soompi, Koreaboo, TMZ, Hollywood Life, Just Jared, ET Online, BBC Entertainment |
+| Entertainment   | Billboard, Rolling Stone Music, TMZ, Hollywood Life, Just Jared, ET Online, BBC Entertainment |
+| East Asia gossip | **TW colony:** ETtoday 影劇/時尚, Yahoo TW 娛樂, GNews TW topic/娛樂 + breakup/reunion/婚變 searches, site:ettoday/setn, Dcard/LINE GNews proxies, 多米多羅 heat probe. **JP/KR/CN:** GNews JP, Soompi, Koreaboo, GNews KR, Sina 娛樂, GNews CN (lower per-feed caps). |
 | Society         | CBS News Crime, Sky News UK, BBC UK, LA Times California, Guardian UK News, NPR News |
 | Beauty          | Allure, Fashionista |
 
@@ -72,7 +76,7 @@ Dead feeds are skipped at fetch time; drop/replace in `ALLOWED_FEEDS` if a URL s
 
 ## What you get
 
-- **Categories:** International, Finance, Tech, AI, Entertainment (演藝), Society (社會), Beauty (美妝)
+- **Categories:** International, Finance, Tech, AI, Entertainment (西方八卦), East Asia gossip (亞洲八卦 TW/JP/KR/CN), Society (社會), Beauty (美妝)
 - **Languages:** Every story has `zh-TW` + `en` title, short `summary` (home cards), and full `body` digest article (detail page)
 - **Images:** Optional `imageUrl` + localized `imageAlt` — from feed/og when available (local copy under `/covers/live/` or HTTPS CDN)
 - **Headlines & Popular:** `isHeadline` / `isPopular` from cluster size, reputation, trust×recency, and simple trending keywords

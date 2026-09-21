@@ -1,17 +1,32 @@
 {
-  "ingestedAt": "2026-09-20T21:20:21.869Z",
-  "feedOk": 39,
-  "feedTotal": 43,
-  "rawItems": 381,
-  "mainStories": 24,
+  "ingestedAt": "2026-09-21T02:41:19.920Z",
+  "feedOk": 49,
+  "feedTotal": 53,
+  "rawItems": 571,
+  "mainStories": 16,
   "byCategory": {
-    "international": 5,
-    "tech": 4,
-    "finance": 4,
-    "entertainment": 4,
-    "ai": 3,
-    "eastAsiaGossip": 4
+    "international": 3,
+    "entertainment": 2,
+    "eastAsiaGossip": 5,
+    "ai": 2,
+    "tech": 2,
+    "finance": 2
   },
+  "eastAsiaByRegion": {
+    "tw": 5
+  },
+  "heatSourcesShipped": [
+    "ptt",
+    "gnews-dcard",
+    "line-today"
+  ],
+  "heatVerifiedKeywords": [
+    "長輩迷過的歌",
+    "仔戲明星是",
+    "阿嬤追的",
+    "歐巴歐膩接連"
+  ],
+  "heatNewsInjected": 48,
   "llmUsed": true,
-  "mode": "llm+rss"
+  "mode": "llm+rss+heat"
 }
