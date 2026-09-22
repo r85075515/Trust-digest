@@ -1,8 +1,17 @@
 import storiesData from "../../data/stories.json";
 import type { Category, Story } from "./types";
+import {
+  RETENTION_DAYS,
+  isWithinRetention,
+  type DayRange,
+  isWithinDayRange,
+} from "./retention";
 
 const stories = (storiesData as Story[]).filter(
-  (s) => !s.adult && s.category !== ("adult" as unknown as Category)
+  (s) =>
+    !s.adult &&
+    s.category !== ("adult" as unknown as Category) &&
+    isWithinRetention(s.publishedAt)
 );
 
 export function getAllStories(): Story[] {
@@ -32,6 +41,15 @@ export function getStoriesByCategory(category: Category | "all"): Story[] {
   if (category === "all") return getMainStories();
   return getMainStories().filter((s) => s.category === category);
 }
+
+export function filterStoriesByDayRange(
+  list: Story[],
+  range: DayRange
+): Story[] {
+  return list.filter((s) => isWithinDayRange(s.publishedAt, range));
+}
+
+export { RETENTION_DAYS, type DayRange };
 
 export const CATEGORY_LABELS: Record<
   Category | "all",

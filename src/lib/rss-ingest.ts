@@ -530,6 +530,8 @@ export interface RawFeedItem {
   pubDate: string;
   description: string;
   imageUrl?: string;
+  /** True when imageUrl came from enclosure / media:* (item-tied), not HTML scrape. */
+  imageFromMedia?: boolean;
   region?: EastAsiaRegion;
 }
 
@@ -976,8 +978,12 @@ function buildClusterFromMembers(members: RawFeedItem[]): StoryCluster {
     (a, b) => properNounScore(b.title) - properNounScore(a.title)
   )[0];
 
+  // Prefer enclosure/media-tied images over first <img> scraped from HTML
+  // (HTML often includes sibling related-card thumbs on the same page).
   const bestImage =
-    members.map((m) => m.imageUrl).find((u) => !!u) ?? undefined;
+    members.map((m) => (m.imageFromMedia ? m.imageUrl : undefined)).find((u) => !!u) ??
+    members.map((m) => m.imageUrl).find((u) => !!u) ??
+    undefined;
 
   const dates = members
     .map((m) => Date.parse(m.pubDate))
@@ -1435,8 +1441,30 @@ export function stripHtml(html: string): string {
 }
 
 export function extractFirstImg(html: string): string | undefined {
-  const m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
-  return m?.[1];
+  // Prefer early content images; skip trackers and tiny related-rail thumbs.
+  // (Full article-bound selection uses fetchArticleCover in cover.ts.)
+  const re = /<img[^>]+src=["']([^"']+)["'][^>]*>/gi;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(html))) {
+    let src = m[1].trim();
+    if (!src) continue;
+    src = src.replace(/&amp;/gi, "&");
+    const low = src.toLowerCase();
+    if (
+      /scorecardresearch|quantserve|doubleclick|facebook\.com\/tr|\/pixel|1x1|spacer\.|blank\.(gif|png)|tracking|data:image/i.test(
+        low
+      )
+    ) {
+      continue;
+    }
+    if (!/^https?:\/\//i.test(src) && !src.startsWith("/")) continue;
+    const w = low.match(/[?&]w=(\d+)/);
+    if (w && Number(w[1]) > 0 && Number(w[1]) < 320) continue;
+    const h = low.match(/[?&]h=(\d+)/);
+    if (h && Number(h[1]) > 0 && Number(h[1]) < 180) continue;
+    return src;
+  }
+  return undefined;
 }
 
 export function domainFromUrl(url: string): string {

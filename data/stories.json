@@ -108,7 +108,7 @@
     "adult": false,
     "isHeadline": true,
     "isPopular": true,
-    "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5974200",
+    "imageUrl": "/covers/live/live-international-01-u-n-general-assembly-to-.jpg",
     "imageAlt": {
       "en": "Cover related to: U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.",
       "zh-TW": "相關封面圖：聯合國大會（United Nations General Assembly）將面對危機、衝突與人工智慧"
@@ -262,94 +262,6 @@
       "ettoday-影劇",
       "gnews-line-today-tw-娛樂",
       "gnews-line-today-tw-娛樂"
-    ],
-    "region": "tw"
-  },
-  {
-    "id": "live-eastAsiaGossip-02-tvbs-line-today",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-02-tvbs-line-today.png",
-    "imageAlt": {
-      "en": "Cover related to: 陳幸妤婚變延燒！ 藝人張秀卿「 離婚示範 」被翻出 | TVBS - LINE TODAY",
-      "zh-TW": "相關封面圖：陳幸妤（Chen Xingyu）婚變延燒 張秀卿（Zhang Xiuqing）離婚示範被翻出"
-    },
-    "publishedAt": "2026-08-19T07:00:00.000Z",
-    "title": {
-      "en": "Chen Xingyu Marriage Scandal Highlights Zhang Xiuqing Divorce Demonstration",
-      "zh-TW": "陳幸妤（Chen Xingyu）婚變延燒 張秀卿（Zhang Xiuqing）離婚示範被翻出"
-    },
-    "summary": {
-      "en": "Taiwan entertainment gossip reports Chen Xingyu marriage troubles continuing with resurfaced artist Zhang Xiuqing divorce demonstration video from TVBS sources. Separately net influencer Ah Han announces sudden breakup with girlfriend and mentions considering dating male friends according to Liberty Entertainment.",
-      "zh-TW": "台灣娛樂圈傳聞指出陳幸妤（Chen Xingyu）婚變持續延燒，TVBS消息翻出藝人張秀卿（Zhang Xiuqing）離婚示範影片。另有自由娛樂報導網紅阿翰（Ah Han）突宣布與女友分手，並吐露考慮與哥們交往。"
-    },
-    "body": {
-      "en": "Lede: Taiwan celebrity gossip centers on Chen Xingyu marriage change developments and a related Zhang Xiuqing divorce demonstration clip.\nWhat happened: Sources from TVBS and LINE TODAY state Chen Xingyu marriage change keeps spreading as artist Zhang Xiuqing divorce demonstration gets dug out. Additional report from Liberty Entertainment notes net influencer Ah Han suddenly announces breakup with girlfriend and expresses surprise consideration of dating male friends.\nWhy it matters: These items reflect ongoing east Asia entertainment circle discussions around personal relationship announcements.\nSources agree/disagree: All provided sources cover the Chen Xingyu and Zhang Xiuqing topic with similar phrasing while one separate source covers Ah Han breakup.\nStill uncertain: No further details on outcomes or confirmations appear in the given source titles and snippets.",
-      "zh-TW": "導言：台灣藝人圈傳聞聚焦陳幸妤（Chen Xingyu）婚變發展以及相關張秀卿（Zhang Xiuqing）離婚示範影片。\n事件經過：TVBS新聞網與LINE TODAY來源指出陳幸妤婚變延燒，藝人張秀卿離婚示範被翻出。自由娛樂另有報導網紅阿翰突宣布與女友分手，並驚吐考慮與哥們交往。\n事件意義：這些消息反映東亞娛樂圈對個人關係公告的持續討論。\n來源異同：所有來源以相似用語涵蓋陳幸妤與張秀卿主題，其中一則獨立來源涵蓋阿翰分手。\n仍未確定：來源標題與摘要未提供進一步結果或確認細節。"
-    },
-    "sources": [
-      {
-        "name": "ltn.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZQlNueEprUC1CNWNLRWM1Xy12MndKOVlsUmlJd3U3RUEtTldENlVYZUZITENLOUJWRXNNZ1JLY0Q1emZpZlVIMVZVbktMVEhDSEZ0MFpCbVplVy1W?oc=5"
-      },
-      {
-        "name": "tvbs.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWZkRGZ2w4MXl2NUZhZ01yemFJUnRBVFJDT1ZzSXVWNzdoTkNUTENJQ3BfWDduWnZEajZLTDFEcFotdDJnQVBUSVZjLS1rRWhVMXUtX0pob0poZw?oc=5"
-      },
-      {
-        "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCb05tWWZtSUhOMUxGckRJLU5CWlU2Z0hJbk52VXZvQXBPWkNWTFpqdXFQY1MxcGZzM1Z4N3h5QUFzMURpTTJQMkRWNXhBZXBLWG4wSzFB?oc=5"
-      }
-    ],
-    "disagreements": null,
-    "glossary": [
-      {
-        "term": {
-          "en": "Chen Xingyu",
-          "zh-TW": "陳幸妤（Chen Xingyu）"
-        },
-        "blurb": {
-          "en": "Celebrity mentioned in marriage change gossip reports.",
-          "zh-TW": "婚變傳聞報導中提及的藝人。"
-        }
-      },
-      {
-        "term": {
-          "en": "Zhang Xiuqing",
-          "zh-TW": "張秀卿（Zhang Xiuqing）"
-        },
-        "blurb": {
-          "en": "Artist whose divorce demonstration video was resurfaced.",
-          "zh-TW": "離婚示範影片被翻出的藝人。"
-        }
-      },
-      {
-        "term": {
-          "en": "Ah Han",
-          "zh-TW": "阿翰（Ah Han）"
-        },
-        "blurb": {
-          "en": "Net influencer who announced breakup with girlfriend.",
-          "zh-TW": "宣布與女友分手的網紅。"
-        }
-      }
-    ],
-    "trustScore": 61,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 10,
-      "crossCorroboration": 22,
-      "recencyClarity": 5
-    },
-    "tags": [
-      "eastAsiaGossip",
-      "live-ingest",
-      "region:tw",
-      "gnews-tw-分手+藝人/明星",
-      "gnews-tw-婚變/離婚+藝人",
-      "gnews-tw-婚變/離婚+藝人"
     ],
     "region": "tw"
   },

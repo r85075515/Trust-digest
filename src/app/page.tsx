@@ -3,9 +3,11 @@
 import { useMemo, useState } from "react";
 import { Header } from "@/components/Header";
 import { CategoryFilter } from "@/components/CategoryFilter";
+import { DayRangeFilter } from "@/components/DayRangeFilter";
 import { StoryCard } from "@/components/StoryCard";
 import { HeadlineBlock } from "@/components/HeadlineBlock";
-import { getMainStories } from "@/lib/stories";
+import { getMainStories, filterStoriesByDayRange } from "@/lib/stories";
+import type { DayRange } from "@/lib/retention";
 import { useLanguage } from "@/hooks/useLanguage";
 import { usePersonalization } from "@/hooks/usePersonalization";
 import type { Category } from "@/lib/types";
@@ -29,10 +31,14 @@ export default function HomePage() {
   const { lang, setLang, ready: langReady } = useLanguage();
   const { state, ready, interact, reset, rank } = usePersonalization();
   const [category, setCategory] = useState<Category | "all">("all");
+  const [dayRange, setDayRange] = useState<DayRange>("30d");
 
   const { headlines, feed } = useMemo(() => {
-    const base = getMainStories().filter(
-      (s) => category === "all" || s.category === category
+    const base = filterStoriesByDayRange(
+      getMainStories().filter(
+        (s) => category === "all" || s.category === category
+      ),
+      dayRange
     );
     const ranked = rank(base);
     // Show headline block only on the "all" feed (distinct top section)
@@ -47,7 +53,7 @@ export default function HomePage() {
         : [];
     const feed = ranked.filter((s) => !headlineIds.has(s.id));
     return { headlines, feed };
-  }, [category, rank]);
+  }, [category, dayRange, rank]);
 
   if (!ready || !langReady) {
     return (
@@ -75,7 +81,10 @@ export default function HomePage() {
               ? `國際 · 財經 · 科技 · AI · 熱門八卦（可驗證）· 東亞八卦— 訊息流以熱門與頭條為主。首頁短摘要，點進內頁可讀完整消化文。標題用具名專有名詞；來源一致度標籤優先於「高信任」宣稱（啟發式，非事實查核保證）。即時 RSS 彙整 · 上次更新：${ingestLabel}。`
               : `International · Finance · Tech · AI · Hot gossip (verifiable) · East Asia gossip — feed prioritizes Popular and Headline stories. Short briefings on home; full digests on detail pages. Titles lead with proper nouns. Source-agreement labels preferred over “High trust” claims (heuristics, not fact-check guarantees). Live RSS ingest · last updated: ${ingestLabel}.`}
           </p>
-          <CategoryFilter value={category} onChange={setCategory} lang={lang} />
+          <div className="mb-3">
+            <CategoryFilter value={category} onChange={setCategory} lang={lang} />
+          </div>
+          <DayRangeFilter value={dayRange} onChange={setDayRange} lang={lang} />
         </section>
 
         <section className="mb-4 flex flex-wrap items-center justify-end gap-3 text-xs text-slate-400">
@@ -112,8 +121,8 @@ export default function HomePage() {
           {feed.length === 0 && headlines.length === 0 && (
             <p className="col-span-full rounded-xl border border-dashed border-slate-300 p-8 text-center text-slate-500">
               {lang === "zh-TW"
-                ? "此分類暫無故事（或皆已標為不感興趣）。"
-                : "No stories in this category (or all marked not interested)."}
+                ? "此分類／日期範圍暫無故事（或皆已標為不感興趣）。"
+                : "No stories in this category/date range (or all marked not interested)."}
             </p>
           )}
         </div>

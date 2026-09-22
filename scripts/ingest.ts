@@ -42,6 +42,11 @@ import {
   isDevelopingGossipText,
 } from "../src/lib/trust";
 import type { Story, LocalizedText } from "../src/lib/types";
+import {
+  resolveStoryCover,
+  isJunkImageUrl,
+} from "../src/lib/cover";
+import { RETENTION_DAYS, isWithinRetention } from "../src/lib/retention";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -50,7 +55,6 @@ const OUT_META = path.join(ROOT, "data", "ingest-meta.json");
 const COVER_DIR = path.join(ROOT, "public", "covers", "live");
 
 const FETCH_TIMEOUT_MS = 12_000;
-const OG_TIMEOUT_MS = 5_000;
 const FEED_DELAY_MS = 400;
 /** Default cap — overridden per feed for TW heat vs jp/kr/cn soft-deprioritize. */
 const MAX_ITEMS_PER_FEED_DEFAULT = 7;
@@ -173,12 +177,18 @@ async function fetchFeed(source: FeedSource): Promise<RawFeedItem[]> {
           ""
       );
 
-      let imageUrl = pickItemImage(item);
+      const mediaImage = pickItemImage(item);
+      let imageUrl = mediaImage;
+      let imageFromMedia = Boolean(mediaImage);
       if (!imageUrl && item.content) {
         imageUrl = extractFirstImg(item.content);
       }
       if (!imageUrl && item.contentEncoded) {
         imageUrl = extractFirstImg(item.contentEncoded as string);
+      }
+      if (imageUrl && isJunkImageUrl(imageUrl)) {
+        imageUrl = undefined;
+        imageFromMedia = false;
       }
 
       const category = resolveCategory(
@@ -203,6 +213,7 @@ async function fetchFeed(source: FeedSource): Promise<RawFeedItem[]> {
         description: description.slice(0, 2000),
         region: source.region,
         imageUrl: imageUrl && /^https?:\/\//i.test(imageUrl) ? imageUrl : undefined,
+        imageFromMedia: imageUrl ? imageFromMedia : undefined,
       });
     }
     console.info(`[ingest] ${source.id}: ${items.length} items`);
@@ -244,34 +255,6 @@ function pickItemImage(item: Parser.Item & Record<string, any>): string | undefi
   }
 
   return undefined;
-}
-
-async function fetchOgImage(articleUrl: string): Promise<string | undefined> {
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), OG_TIMEOUT_MS);
-  try {
-    const res = await fetch(articleUrl, {
-      headers: { "User-Agent": USER_AGENT, Accept: "text/html" },
-      signal: ctrl.signal,
-      redirect: "follow",
-    });
-    if (!res.ok) return undefined;
-    const html = await res.text();
-    const og =
-      html.match(
-        /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i
-      ) ||
-      html.match(
-        /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i
-      );
-    const url = og?.[1];
-    if (url && /^https?:\/\//i.test(url)) return url;
-    return undefined;
-  } catch {
-    return undefined;
-  } finally {
-    clearTimeout(timer);
-  }
 }
 
 async function downloadCover(
@@ -610,17 +593,27 @@ async function main() {
   });
   console.info(`[ingest] picked ${picked.length} clusters for main feed`);
 
-  // Enrich top items missing images with og:image (rate-limited)
-  let ogBudget = 8;
+  // Resolve covers bound to EACH story's primary article URL (og/twitter),
+  // so sibling related-card images on the same page cannot win.
+  // Prefer feed enclosure/media when article meta is missing. Rate-limited.
+  let coverBudget = Math.min(picked.length, 16);
   for (const c of picked) {
-    if (c.bestImage || ogBudget <= 0) continue;
-    const primary = c.members[0];
-    const og = await fetchOgImage(primary.link);
-    if (og) {
-      c.bestImage = og;
-      ogBudget--;
+    if (coverBudget <= 0) break;
+    const primary =
+      c.members.find((m) => m.imageFromMedia && m.imageUrl) ?? c.members[0];
+    const feedFromMedia = c.members.some((m) => m.imageFromMedia && m.imageUrl);
+    const resolved = await resolveStoryCover({
+      articleUrl: primary?.link,
+      feedImageUrl: c.bestImage,
+      feedImageFromMedia: feedFromMedia,
+    });
+    if (resolved) {
+      c.bestImage = resolved;
+      coverBudget--;
+    } else if (c.bestImage && isJunkImageUrl(c.bestImage)) {
+      c.bestImage = undefined;
     }
-    await sleep(300);
+    await sleep(250);
   }
 
   // Score for headline picks
@@ -745,6 +738,16 @@ async function main() {
     stories.push(story);
     await sleep(150);
   }
+
+  const beforeRetention = stories.length;
+  const retainedStories = stories.filter((s) => isWithinRetention(s.publishedAt));
+  if (retainedStories.length < beforeRetention) {
+    console.info(
+      `[ingest] retention: dropped ${beforeRetention - retainedStories.length} stor(ies) older than ${RETENTION_DAYS}d`
+    );
+  }
+  stories.length = 0;
+  stories.push(...retainedStories);
 
   fs.mkdirSync(path.dirname(OUT_STORIES), { recursive: true });
   fs.writeFileSync(OUT_STORIES, JSON.stringify(stories, null, 2) + "\n", "utf8");
