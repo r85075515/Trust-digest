@@ -1,16 +1,16 @@
 {
-  "ingestedAt": "2026-09-21T03:08:49.286Z",
+  "ingestedAt": "2026-09-22T00:30:14.536Z",
   "feedOk": 48,
   "feedTotal": 52,
-  "rawItems": 549,
+  "rawItems": 551,
   "mainStories": 16,
   "byCategory": {
+    "finance": 2,
     "international": 3,
-    "entertainment": 2,
     "eastAsiaGossip": 5,
-    "ai": 2,
     "tech": 2,
-    "finance": 2
+    "entertainment": 2,
+    "ai": 2
   },
   "eastAsiaByRegion": {
     "tw": 5

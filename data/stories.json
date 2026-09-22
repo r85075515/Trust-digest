@@ -1,344 +1,345 @@
 [
   {
-    "id": "live-international-01-houthis-push-to-expand-t",
-    "category": "international",
+    "id": "live-finance-01-meta-s-muse-is-better-at",
+    "category": "finance",
     "adult": false,
     "isHeadline": true,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-international-01-houthis-push-to-expand-t.jpg",
+    "imageUrl": "/covers/live/live-finance-01-meta-s-muse-is-better-at.jpg",
     "imageAlt": {
-      "en": "Cover related to: Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
-      "zh-TW": "相關封面圖：胡塞武裝（Houthis）瞄準利雅德（Riyadh） 沙烏地阿拉伯（Saudi Arabia）通報飛彈攻擊"
+      "en": "Cover related to: Meta's Muse Is Better at Surveilling Than Helping Me",
+      "zh-TW": "相關封面圖：Meta（Meta）的Muse（Muse）推升股價 儘管隱私與安全問題浮現"
     },
-    "publishedAt": "2026-09-20T21:10:07.000Z",
+    "publishedAt": "2026-09-21T22:24:38.000Z",
     "title": {
-      "en": "Houthis Target Riyadh as Saudi Arabia Reports Missile Attack",
-      "zh-TW": "胡塞武裝（Houthis）瞄準利雅德（Riyadh） 沙烏地阿拉伯（Saudi Arabia）通報飛彈攻擊"
+      "en": "Meta's Muse Fuels Stock Gains Despite Privacy and Security Issues",
+      "zh-TW": "Meta（Meta）的Muse（Muse）推升股價 儘管隱私與安全問題浮現"
     },
     "summary": {
-      "en": "Houthis launched ballistic missiles toward Saudi capital Riyadh, with one reported strike on a fuel depot at the airport causing delays. Saudi Arabia stated it shot down the missile. The Iran-backed group also fought Saudi-backed forces in Yemen while seeking to expand territory.",
-      "zh-TW": "胡塞武裝（Houthis）向沙烏地阿拉伯（Saudi Arabia）首都利雅德（Riyadh）發射彈道飛彈，據報擊中機場燃料庫造成延誤。沙烏地阿拉伯（Saudi Arabia）表示已擊落飛彈。該伊朗支持團體同時在葉門（Yemen）與沙烏地阿拉伯（Saudi Arabia）支持的政府軍交戰，試圖擴張領土。"
+      "en": "Meta's new AI assistant Muse has boosted the company's stock to its best month in over a decade according to MarketWatch, with strong download numbers outpacing early ChatGPT. However, Wired and Ars Technica report concerns over data collection and a zero-day vulnerability, while Amazon has begun blocking the app.",
+      "zh-TW": "根據MarketWatch報導，Meta（Meta）的新AI助理Muse（Muse）推升公司股價至十多年來最佳表現，下載量超越早期ChatGPT（ChatGPT）。不過Wired與Ars Technica指出資料蒐集疑慮及零時差漏洞，而Amazon（Amazon）已開始封鎖該應用。"
     },
     "body": {
-      "en": "Lede: Houthis targeted the Saudi capital with ballistic missiles amid rising tensions, while also battling for more territory in Yemen.\nWhat happened: BBC World reported Houthis say they targeted Saudi capital with ballistic missiles, noting a strike on a fuel depot at Riyadh airport caused delays. NPR World stated Saudi Arabia says Houthis tried to attack its capital, marking the first such targeting since escalation. NYT World described Houthis pushing to expand territory as tensions with Saudi Arabia rise, with fierce battles against Saudi-backed government forces in Yemen.\nWhy it matters: The attacks and ground fighting signal renewed escalation between the Iran-backed Houthis and Saudi Arabia in the Yemen conflict.\nSources agree/disagree: All sources confirm missile attempts on Riyadh and ongoing Yemen battles involving Houthis and Saudi-backed forces.\nStill uncertain: Exact outcomes of the missile strike and current territorial gains remain unspecified beyond reported delays and clashes.",
-      "zh-TW": "導語：胡塞武裝（Houthis）以彈道飛彈瞄準沙烏地阿拉伯（Saudi Arabia）首都，同時在葉門（Yemen）爭奪更多領土，緊張情勢升高。\n事件經過：BBC World 報導胡塞武裝（Houthis）聲稱以彈道飛彈瞄準沙烏地阿拉伯（Saudi Arabia）首都，利雅德（Riyadh）機場燃料庫遭擊中導致延誤。NPR World 指出沙烏地阿拉伯（Saudi Arabia）表示胡塞武裝（Houthis）試圖攻擊首都，此為升級以來首次。NYT World 描述胡塞武裝（Houthis）推動擴張領土，與沙烏地阿拉伯（Saudi Arabia）支持的葉門（Yemen）政府軍激戰。\n重要性：飛彈攻擊與地面戰鬥顯示伊朗支持的胡塞武裝（Houthis）與沙烏地阿拉伯（Saudi Arabia）在葉門（Yemen）衝突再度升溫。\n來源一致與分歧：所有來源均確認利雅德（Riyadh）飛彈企圖及葉門（Yemen）胡塞武裝（Houthis）與沙烏地阿拉伯（Saudi Arabia）支持軍隊的交戰。\n仍未確定：飛彈攻擊確切結果與目前領土 gains 除延誤與衝突外未有細節。"
+      "en": "Lede: Meta's Muse AI assistant is driving investor optimism and stock performance even as reports highlight surveillance features and a critical security flaw. What happened: MarketWatch noted Meta’s stock enjoying its best month in 13 years thanks to Muse gaining popularity and convincing investors that AI bets are paying off. TechCrunch reported Muse outpacing ChatGPT’s early mobile launch with more downloads and daily active users in the U.S. and Canada. Ars Technica detailed a zero-day vulnerability allowing local apps full control, contradicting Mark Zuckerberg’s privacy claims, and Amazon blocking Muse from its site. Wired described Muse as better at surveilling users by opting them into AI training data collection and nudging sharing of bank, email, and passport details. Why it matters: The finance angle centers on how positive adoption metrics are lifting Meta shares, yet emerging security and privacy issues could affect long-term investor confidence in the company’s AI push. Sources agree/disagree: All sources confirm Muse’s recent launch and rapid user growth. MarketWatch focuses on stock benefits while Wired and Ars Technica emphasize data and security risks. Still uncertain: The exact duration of Meta’s stock performance streak shows variation across reports.",
+      "zh-TW": "導言：Meta（Meta）的Muse（Muse）AI助理正驅動投資人樂觀情緒與股價表現，儘管報導指出其監控功能與關鍵安全漏洞。 事件經過：MarketWatch指出Meta（Meta）股價因Muse（Muse） popularity上升而享受13年來最佳月份，並說服投資人AI投注正見成效。TechCrunch報導Muse（Muse）在美國與加拿大下載量及每日活躍用戶超越ChatGPT（ChatGPT）早期行動版推出表現。Ars Technica詳述零時差漏洞允許本地應用完全控制，與Mark Zuckerberg（Mark Zuckerberg）隱私宣稱相悖，且Amazon（Amazon）已封鎖Muse（Muse）。Wired描述Muse（Muse）更擅長監控用戶，預設加入AI訓練資料蒐集並提示分享銀行、電子郵件與護照資訊。 重要性：財務角度聚焦正面採用指標如何推升Meta（Meta）股價，但新興安全與隱私問題可能影響公司AI推動的長期投資信心。 來源一致與分歧：所有來源確認Muse（Muse）近期推出與快速用戶成長。MarketWatch聚焦股價利益，Wired與Ars Technica強調資料與安全風險。 仍未確定：Meta（Meta）股價表現連續期間在報導中顯示差異。"
     },
     "sources": [
       {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
+        "name": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories"
       },
       {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital"
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
       },
       {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
-      }
-    ],
-    "disagreements": null,
-    "glossary": [
-      {
-        "term": {
-          "en": "Houthis",
-          "zh-TW": "胡塞武裝（Houthis）"
-        },
-        "blurb": {
-          "en": "Iran-backed militia engaged in fighting in Yemen.",
-          "zh-TW": "伊朗支持、在葉門（Yemen）交戰的民兵組織。"
-        }
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/"
       },
       {
-        "term": {
-          "en": "Riyadh",
-          "zh-TW": "利雅德（Riyadh）"
-        },
-        "blurb": {
-          "en": "Capital of Saudi Arabia targeted by reported missile strike.",
-          "zh-TW": "沙烏地阿拉伯（Saudi Arabia）首都，據報遭飛彈攻擊。"
-        }
-      },
-      {
-        "term": {
-          "en": "Yemen",
-          "zh-TW": "葉門（Yemen）"
-        },
-        "blurb": {
-          "en": "Country where Houthis battle Saudi-backed government forces.",
-          "zh-TW": "胡塞武裝（Houthis）與沙烏地阿拉伯（Saudi Arabia）支持政府軍交戰的國家。"
-        }
-      }
-    ],
-    "trustScore": 89,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 18,
-      "crossCorroboration": 22,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-world",
-      "npr-world",
-      "nyt-world"
-    ]
-  },
-  {
-    "id": "live-international-02-germany-s-merz-vows-to-s",
-    "category": "international",
-    "adult": false,
-    "isHeadline": true,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-02-germany-s-merz-vows-to-s.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Germany’s Merz Vows to Stay After Another State Election ‘Disaster’",
-      "zh-TW": "相關封面圖：梅茲（Friedrich Merz）在基民盟州選失利後誓言留任"
-    },
-    "publishedAt": "2026-09-20T20:21:40.000Z",
-    "title": {
-      "en": "Friedrich Merz Vows to Stay After State Election Losses for CDU",
-      "zh-TW": "梅茲（Friedrich Merz）在基民盟州選失利後誓言留任"
-    },
-    "summary": {
-      "en": "German Chancellor Friedrich Merz described his centre-right CDU party's losses in Mecklenburg-Vorpommern and Berlin state elections as a disaster but vowed to remain in office and press ahead with reforms. The far-right Alternative for Germany party gained significantly while the CDU finished behind far-right and far-left parties.",
-      "zh-TW": "德國總理梅茲（Friedrich Merz）將其所屬中間偏右基民盟在梅克倫堡-西波美拉尼亞與柏林州選的失利形容為災難，但誓言留任並推動改革。極右德國另類選擇黨大幅獲利，基民盟則落後於極右與極左政黨。"
-    },
-    "body": {
-      "en": "Lede: German Chancellor Friedrich Merz faced major setbacks as his centre-right CDU party suffered damaging losses in state elections. What happened: Exit polls showed the CDU losing ground in Mecklenburg-Vorpommern and Berlin. Merz called the results a disaster yet vowed to stay on and press ahead with reforms. The far-right Alternative for Germany party made significant gains, and the CDU finished behind far-right and far-left parties in eastern state elections. Why it matters: The defeats highlight growing pressure on Merz's leadership and rising support for the Alternative for Germany party in eastern states. Sources agree/disagree: BBC, NPR and NYT all report Merz vowing to continue despite the losses and note gains by the Alternative for Germany party. Still uncertain: Details on exact vote shares or next political steps remain limited to the provided reports.",
-      "zh-TW": "導言：德國總理梅茲（Friedrich Merz）面臨重大挫敗，其所屬中間偏右基民盟在州選中遭受嚴重損失。 事件經過：出口民調顯示基民盟在梅克倫堡-西波美拉尼亞與柏林失利。梅茲將結果稱為災難，但誓言留任並推動改革。極右德國另類選擇黨大幅獲利，基民盟在東部州選中落後於極右與極左政黨。 重要性：這些失利凸顯梅茲領導壓力增大，以及德國另類選擇黨在東部支持度上升。 來源一致／分歧：BBC、NPR與NYT均報導梅茲誓言繼續留任，並提及德國另類選擇黨獲利。 仍不確定：確切得票率或下一步政治行動細節僅限於所提供報導。"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat"
-      },
-      {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html"
-      }
-    ],
-    "disagreements": null,
-    "glossary": [
-      {
-        "term": {
-          "en": "Friedrich Merz",
-          "zh-TW": "梅茲（Friedrich Merz）"
-        },
-        "blurb": {
-          "en": "German Chancellor and leader of the centre-right CDU party.",
-          "zh-TW": "德國總理兼中間偏右基民盟黨魁。"
-        }
-      },
-      {
-        "term": {
-          "en": "CDU",
-          "zh-TW": "基民盟（CDU）"
-        },
-        "blurb": {
-          "en": "Centre-right Christian Democratic Union party led by Friedrich Merz.",
-          "zh-TW": "由梅茲（Friedrich Merz）領導的中間偏右基督教民主聯盟。"
-        }
-      },
-      {
-        "term": {
-          "en": "Alternative for Germany",
-          "zh-TW": "德國另類選擇黨（Alternative for Germany）"
-        },
-        "blurb": {
-          "en": "Far-right party that gained in the state elections.",
-          "zh-TW": "在州選中獲利的極右政黨。"
-        }
-      },
-      {
-        "term": {
-          "en": "Mecklenburg-Vorpommern",
-          "zh-TW": "梅克倫堡-西波美拉尼亞（Mecklenburg-Vorpommern）"
-        },
-        "blurb": {
-          "en": "German state where CDU suffered election losses.",
-          "zh-TW": "基民盟在州選中失利的德國州份。"
-        }
-      }
-    ],
-    "trustScore": 87,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 18,
-      "crossCorroboration": 22,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-world",
-      "npr-world",
-      "nyt-world"
-    ]
-  },
-  {
-    "id": "live-entertainment-01-ed-sheeran-breaks-silenc",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-01-ed-sheeran-breaks-silenc.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Ed Sheeran Breaks Silence on Israel-Gaza at First Show Amid Tour Controversy: ‘I Cannot Hide How I Feel About It Anymore’",
-      "zh-TW": "相關封面圖：埃德·希蘭（Ed Sheeran）在費城演唱會打破沉默談以色列-加薩 麥克勒莫爾（Macklemore）巡演爭議後"
-    },
-    "publishedAt": "2026-09-20T23:34:03.000Z",
-    "title": {
-      "en": "Ed Sheeran Breaks Silence on Israel-Gaza at Philadelphia Show Amid Macklemore Tour Controversy",
-      "zh-TW": "埃德·希蘭（Ed Sheeran）在費城演唱會打破沉默談以色列-加薩 麥克勒莫爾（Macklemore）巡演爭議後"
-    },
-    "summary": {
-      "en": "Ed Sheeran addressed Israel-Gaza and tour controversy at his first Philadelphia show after Macklemore's removal for pro-Palestinian remarks. He admitted mistakes, emphasized freedom of speech, and later apologized while thanking fans. SNL UK mocked him for fence-sitting and Dropkick Murphys' Ken Casey criticized his stance.",
-      "zh-TW": "埃德·希蘭（Ed Sheeran）在費城首場演唱會上回應以色列-加薩議題與麥克勒莫爾（Macklemore）因挺巴言論遭移除巡演的爭議。他承認錯誤、強調言論自由，稍後道歉感謝粉絲。英國週六夜現場（SNL UK）嘲諷他騎牆，Dropkick Murphys主唱肯·凱西（Ken Casey）批評其立場。"
-    },
-    "body": {
-      "en": "Lede: Ed Sheeran spoke openly about Israel and Gaza during his Philadelphia concert, his first since the Macklemore controversy. What happened: The singer admitted mistakes and stated he could no longer hide his feelings on the issue. He described being placed in the middle of a debate on freedom of speech and the most complex political issue. The show ended with Sheeran apologizing for his political speech while tearing up and thanking fans. SNL UK cold open mocked him for sitting on the fence. Dropkick Murphys frontman Ken Casey said Sheeran took the knee with Macklemore and that it does not sit right with him. Why it matters: The remarks highlight tensions around celebrity statements on Israel-Gaza and their impact on tours and public perception. Sources agree/disagree: Outlets agree Sheeran addressed the topic at the Philadelphia show and later apologized; they differ on emphasis, with some focusing on his speech and others on external criticism. Still uncertain: No further details on specific positions stated by Sheeran beyond the reported quotes.",
-      "zh-TW": "導言：埃德·希蘭（Ed Sheeran）在費城演唱會公開談論以色列與加薩，此為麥克勒莫爾（Macklemore）爭議後首場演出。 事件經過：歌手承認錯誤，並表示無法再隱藏對此議題的感受。他描述自己被置於言論自由與全球最複雜政治議題的辯論中間。演唱會結束時，希蘭為政治發言道歉，邊哭邊感謝粉絲。英國週六夜現場（SNL UK）冷開場嘲諷他騎牆觀望。Dropkick Murphys主唱肯·凱西（Ken Casey）表示希蘭向麥克勒莫爾屈膝，這讓他感到不對勁。 為何重要：這些言論凸顯名人對以色列-加薩表態引發的巡演與公眾觀感緊張。 來源一致與分歧：各媒體一致指出希蘭在費城演唱會談及議題並後續道歉；強調重點不同，有些聚焦其發言，有些則報導外界批評。 仍未確定：除已報導引述外，希蘭具體立場無進一步細節。"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "Billboard",
-        "url": "https://www.billboard.com/culture/tv-film/ed-sheeran-snl-uk-cold-open-princess-diana-1236344220/"
-      },
-      {
-        "name": "Rolling Stone Music",
-        "url": "https://www.rollingstone.com/music/music-news/ed-sheeran-breaks-silence-gaza-isreael-macklemore-concert-1235629139/"
-      },
-      {
-        "name": "Just Jared",
-        "url": "https://www.justjared.com/2026/09/20/ed-sheeran-ended-philly-show-by-apologizing-for-his-political-speech-tearing-up-while-thanking-fans/"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
       }
     ],
     "disagreements": {
-      "en": "Figures differ across outlets (e.g. 8220 vs 18 in headlines/snippets).",
-      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 8220 與 18）。"
+      "en": "MarketWatch states best month in 13 years while its linked URL references more than two years.",
+      "zh-TW": "MarketWatch稱13年來最佳月份，但其連結URL提及超過兩年。"
     },
     "glossary": [
       {
         "term": {
-          "en": "Ed Sheeran",
-          "zh-TW": "埃德·希蘭（Ed Sheeran）"
+          "en": "Meta",
+          "zh-TW": "Meta（Meta）"
         },
         "blurb": {
-          "en": "Singer who addressed Israel-Gaza at his Philadelphia concert.",
-          "zh-TW": "在費城演唱會談論以色列-加薩議題的歌手。"
+          "en": "Company developing the Muse AI assistant.",
+          "zh-TW": "開發Muse（Muse）AI助理的公司。"
         }
       },
       {
         "term": {
-          "en": "Macklemore",
-          "zh-TW": "麥克勒莫爾（Macklemore）"
+          "en": "Muse",
+          "zh-TW": "Muse（Muse）"
         },
         "blurb": {
-          "en": "Artist removed from tour for pro-Palestinian stage remarks.",
-          "zh-TW": "因挺巴勒斯坦舞台言論遭移除巡演的藝人。"
+          "en": "Meta's new AI assistant for tasks like booking appointments.",
+          "zh-TW": "Meta（Meta）用於預約等任務的新AI助理。"
         }
       },
       {
         "term": {
-          "en": "Dropkick Murphys",
-          "zh-TW": "Dropkick Murphys"
+          "en": "Mark Zuckerberg",
+          "zh-TW": "Mark Zuckerberg（Mark Zuckerberg）"
         },
         "blurb": {
-          "en": "Band whose frontman Ken Casey criticized Sheeran's stance.",
-          "zh-TW": "主唱肯·凱西（Ken Casey）批評希蘭立場的樂團。"
+          "en": "Meta founder and CEO who promoted Muse security.",
+          "zh-TW": "Meta（Meta）創辦人兼執行長，曾宣傳Muse（Muse）安全性。"
+        }
+      },
+      {
+        "term": {
+          "en": "Amazon",
+          "zh-TW": "Amazon（Amazon）"
+        },
+        "blurb": {
+          "en": "Company that began blocking Muse from its site.",
+          "zh-TW": "開始從其網站封鎖Muse（Muse）的公司。"
         }
       }
     ],
-    "trustScore": 81,
+    "trustScore": 85,
     "trustBreakdown": {
       "sourceDiversity": 25,
-      "outletReputation": 14,
+      "outletReputation": 18,
       "crossCorroboration": 17,
       "recencyClarity": 25
     },
     "tags": [
-      "entertainment",
+      "finance",
       "live-ingest",
-      "bbc-world",
-      "billboard",
-      "rolling-stone-music"
+      "marketwatch",
+      "ars-technica",
+      "wired-ai"
     ]
   },
   {
-    "id": "live-eastAsiaGossip-01-5-cp-yahoo",
-    "category": "eastAsiaGossip",
+    "id": "live-international-01-u-n-general-assembly-to-",
+    "category": "international",
     "adult": false,
-    "isHeadline": false,
+    "isHeadline": true,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-01-5-cp-yahoo.png",
+    "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5974200",
     "imageAlt": {
-      "en": "Cover related to: 兜兜轉轉最終還是他！盤點演藝圈 5 對「舊情復燃」CP藝人，復合後更閃！ - Yahoo新聞",
-      "zh-TW": "相關封面圖：周杰倫（Jay Chou）、昆凌（Kun Ling）入列演藝圈5對舊情復燃CP"
+      "en": "Cover related to: U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.",
+      "zh-TW": "相關封面圖：聯合國大會（United Nations General Assembly）將面對危機、衝突與人工智慧"
     },
-    "publishedAt": "2025-08-05T07:00:00.000Z",
+    "publishedAt": "2026-09-21T21:18:10.000Z",
     "title": {
-      "en": "Jay Chou and Kun Ling Among 5 Entertainment Circle Rekindled Couples",
-      "zh-TW": "周杰倫（Jay Chou）、昆凌（Kun Ling）入列演藝圈5對舊情復燃CP"
+      "en": "United Nations General Assembly to Confront Crises, Conflicts and A.I.",
+      "zh-TW": "聯合國大會（United Nations General Assembly）將面對危機、衝突與人工智慧"
     },
     "summary": {
-      "en": "Multiple Taiwanese outlets report on five entertainment industry couples who rekindled romances and appear even happier post-reunion, highlighting Jay Chou and Kun Ling's 11-year marriage still resembling a passionate romance.",
-      "zh-TW": "多家台灣媒體報導演藝圈5對舊情復燃的明星夫妻，復合後更閃，其中周杰倫（Jay Chou）與昆凌（Kun Ling）結婚11年仍甜如熱戀。"
+      "en": "World leaders gather at the U.N. General Assembly to discuss AI risks, autonomous weapons, ongoing conflicts, and the search for a new secretary general after António Guterres completes his terms. NPR and NYT reports highlight these agenda items.",
+      "zh-TW": "世界領袖聚集聯合國大會（United Nations General Assembly），討論人工智慧風險、自主武器、持續衝突，以及安東尼奧·古特雷斯（António Guterres）任期結束後尋找新秘書長事宜。NPR與NYT報導強調這些議程項目。"
     },
     "body": {
-      "en": "Lede: Taiwanese media outlets highlight a list of five celebrity couples in the entertainment circle who have rekindled old flames and shine brighter after reuniting.\nWhat happened: girlstyle.com, Yahoo新聞 and 女人我最大 each published coverage under titles focusing on the theme of rekindled romances among artists, specifically noting Jay Chou and Kun Ling as an example of a couple married for 11 years who continue to act like they are in a passionate new relationship.\nWhy it matters: The stories compile examples of entertainment figures whose relationships have endured ups and downs yet resulted in renewed happiness, drawing reader interest in celebrity personal lives within the east Asia entertainment scene.\nSources agree/disagree: All three outlets present identical core titles and themes without variation in the reported couples or details.\nStill uncertain: No additional specifics on the remaining four couples or any timeline of events are provided in the source material.",
-      "zh-TW": "導言：台灣媒體報導演藝圈5對舊情復燃的明星夫妻，復合後更顯閃耀。\n事件經過：girlstyle.com、Yahoo新聞與女人我最大皆以相同主題刊登，特別提及周杰倫（Jay Chou）與昆凌（Kun Ling）結婚11年仍像熱戀般甜蜜。\n重要性：這些故事彙整藝人歷經波折後重燃愛火的例子，吸引讀者對娛樂圈名人私生活的關注。\n來源一致性：三家媒體標題與核心主題完全相同，未出現差異。\n仍未確定：來源未提供其他四對夫妻的細節或事件時間線。"
+      "en": "Lede: The United Nations General Assembly opens its annual debate amid familiar global crises, emerging conflicts, and rising concerns over artificial intelligence. What happened: NPR World reports that AI and autonomous weapons top the agenda, with Colombia's former president and Nobel Peace Prize laureate addressing risks. NYT World notes the assembly confronts ongoing crises plus the need to replace António Guterres after two terms. NPR World also features former UN Deputy Secretary General Mark Malloch-Brown discussing the organization's role in current conflicts. Why it matters: Discussions on autonomous weapons and AI signal growing international focus on regulating emerging technologies in warfare and governance. Leadership transition planning underscores institutional continuity at the UN. Sources agree/disagree: NPR World and NYT World both emphasize AI on the agenda and the secretary general transition; NPR World adds details on autonomous weapons and features Malloch-Brown. Still uncertain: Specific outcomes of debates and the identity of Guterres' successor remain open.",
+      "zh-TW": "導言：聯合國大會（United Nations General Assembly）年度辯論在熟悉的全球危機、新興衝突以及對人工智慧日益關注中開幕。 事件經過：NPR World報導人工智慧與自主武器位居議程首位，哥倫比亞前總統暨諾貝爾和平獎得主討論相關風險。NYT World指出大會面對持續危機以及安東尼奧·古特雷斯（António Guterres）兩任期滿後尋找繼任者。NPR World亦邀請前聯合國副秘書長馬克·馬洛克-布朗（Mark Malloch-Brown）探討該組織在當前衝突中的角色。 重要性：關於自主武器與人工智慧的討論顯示國際社會日益重視規範新興戰爭與治理科技。領導層交接規劃凸顯聯合國機構延續性。 來源一致／分歧：NPR World與NYT World均強調人工智慧議程及秘書長交接；NPR World補充自主武器細節並邀請馬克·馬洛克-布朗（Mark Malloch-Brown）。 仍未確定：辯論具體結果及古特雷斯（António Guterres）繼任者身分仍待觀察。"
     },
     "sources": [
       {
-        "name": "GNews TW 復合+藝人/明星",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTkstZDJPMUVNVHZWdEg3UmozaWhVVzVJQ3c2dUZWZHhka3BrUzFaMnRValc3SnRtdmpjeUV3QmQ3cWdTQ2hicFFSbmtDZjV5aW5rNVZyaUZVbGJYQV9tbDVsbm5PTXAzdWNScVIwZjJ3R1YxcGhvc2xIMld4cjBJSlVVX3VMbFpvdDVRR1oxazRkOFRmUHlSZldscFZSY2t5VGhkV3lPLXc3RjRRSmtVckFSZDBIbUlFNTFudlhQZzB2OGUzWnA4dE13OFRpTURwNm5rRElWc0pRR3l0OFpHMkNwTTk0eUpsM3F0cV9wYUI?oc=5"
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5974200/ai-and-autonomous-weapons-are-high-on-the-agenda-at-the-un-general-assembly"
       },
       {
-        "name": "GNews TW 復合+藝人/明星",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPYTkzcl9JQmI1YkJteEJndFJYSFpZb0pKeXcwUFlIai14YklUYTJFOHQ5bFIyVkZ6cnRqSkJvczJyNlNRU0ZUZThHRFhwWktNN3p2SVVLRk9DcG12cjNyaHRKN2s5TzJmRXp1SGhhSU1uNnpIXzMtNlg5QkFoOFBKdVJ2NFNDR2I4cDAzTkJZNlhvVUNqWWRjWGF3dmVBbjAwYUhhWUJJZlZQUGJjNlRKWThldFk1azZtc21leG5iN2x2Y01tb1g5T0RidTlkeDhnQ19WY3c1NE13RHRnNTJIQ0JleHR5bHlIOE1YTzBlU0I5dS1rSGxORzlvcFE1c1hUSE0zbEVhbm5vZFlqdUV4MXE2S3hkcnhIdUZVd2J5S2tXdVlpWXhNYXJEMHlsY0ltYThiaGpqSmloVFpWdWc?oc=5"
-      },
-      {
-        "name": "GNews TW 復合+藝人/明星",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VRzFFQzNFWmNNRG44OFBpVkcyeWZScHpEU1VOMFl1YXhuWTJyZHZkcDBlWU9FamVlemlianBGb3FDakE4OG5sWHFUNEI0cWhURmZuazZVQm0?oc=5"
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/09/21/world/americas/un-general-assembly-ai.html"
       }
     ],
     "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "Jay Chou",
-          "zh-TW": "周杰倫（Jay Chou）"
+          "en": "United Nations General Assembly",
+          "zh-TW": "聯合國大會（United Nations General Assembly）"
         },
         "blurb": {
-          "en": "Taiwanese entertainer mentioned as part of a celebrity couple married for 11 years.",
-          "zh-TW": "台灣藝人，被提及為結婚11年的明星夫妻之一。"
+          "en": "Annual gathering of world leaders for debate on global issues.",
+          "zh-TW": "世界領袖年度聚會，討論全球議題。"
         }
       },
       {
         "term": {
-          "en": "Kun Ling",
-          "zh-TW": "昆凌（Kun Ling）"
+          "en": "António Guterres",
+          "zh-TW": "安東尼奧·古特雷斯（António Guterres）"
         },
         "blurb": {
-          "en": "Taiwanese entertainer mentioned as part of a celebrity couple married for 11 years.",
-          "zh-TW": "台灣藝人，被提及為結婚11年的明星夫妻之一。"
+          "en": "Current UN secretary general completing two terms.",
+          "zh-TW": "現任聯合國秘書長，任期兩屆即將結束。"
+        }
+      },
+      {
+        "term": {
+          "en": "Mark Malloch-Brown",
+          "zh-TW": "馬克·馬洛克-布朗（Mark Malloch-Brown）"
+        },
+        "blurb": {
+          "en": "Former United Nations Deputy Secretary General.",
+          "zh-TW": "前聯合國副秘書長。"
         }
       }
     ],
-    "trustScore": 63,
+    "trustScore": 79,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 23,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "npr-world",
+      "nyt-world",
+      "npr-world"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-01-7800-86-1-line-today",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-eastAsiaGossip-01-7800-86-1-line-today.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 《網紅老爸》票房破7800萬！王識賢全台86場映後 「1句話」逼哭喪父影迷 | 鏡報 - LINE TODAY",
+      "zh-TW": "相關封面圖：王識賢（Wang Shi-xian）與《網紅老爸》票房破7800萬 全台86場映後「1句話」逼哭影迷"
+    },
+    "publishedAt": "2026-09-21T20:10:00.000Z",
+    "title": {
+      "en": "Wang Shi-xian and 'Internet Celebrity Dad' Film Surpass NT$78 Million at Box Office with 86 Post-Screening Events",
+      "zh-TW": "王識賢（Wang Shi-xian）與《網紅老爸》票房破7800萬 全台86場映後「1句話」逼哭影迷"
+    },
+    "summary": {
+      "en": "Taiwanese actor Wang Shi-xian promoted the film 'Internet Celebrity Dad' across 86 events nationwide. The movie, made by the 'Corner' team, has exceeded NT$78 million in box office. One remark by Wang moved fans who lost their fathers to tears during screenings.",
+      "zh-TW": "台灣演員王識賢（Wang Shi-xian）為電影《網紅老爸》舉辦全台86場映後活動。該片由《角頭》團隊打造，票房已突破7800萬。王識賢的一句話讓喪父影迷感動落淚。"
+    },
+    "body": {
+      "en": "Lede: Actor Wang Shi-xian drew emotional responses from audiences during post-screening events for the film 'Internet Celebrity Dad'. What happened: The movie reached over NT$78.68 million in Taiwan box office by its fourth weekend. Wang participated in 86 events across the island. At one event he answered a question about what he most wanted to say to his daughter, prompting tears from viewers who had lost their fathers. Additional events included a special 'I Love You' screening in Taipei, Taichung and Kaohsiung where cast members shared behind-the-scenes stories. Why it matters: The film continues the universe of the popular 'Corner' series and has sustained strong audience engagement through personal interactions. Sources agree/disagree: Outlets report consistent details on the box office milestone, the number of events and the emotional impact of Wang's comment. Still uncertain: Exact wording of the remark that moved audiences is not specified in the provided sources.",
+      "zh-TW": "導言：演員王識賢（Wang Shi-xian）在電影《網紅老爸》映後活動中，引起觀眾情感共鳴。 事件經過：該片上映第四週末全台票房突破7868萬。王識賢參與全台86場映後活動。在其中一場，他回答最想對女兒說的話，讓喪父影迷落淚。另有台北、台中、高雄的「啾愛你限定場」，演員分享拍攝趣事。 重要性：此片延續《角頭》系列世界觀，透過映後互動維持觀眾熱度。 來源一致與分歧：各報導對票房里程碑、活動場次及王識賢發言的感動效果描述一致。 仍未確定：王識賢讓觀眾感動的那句話確切內容，來源未提供細節。"
+    },
+    "sources": [
+      {
+        "name": "ETtoday 影劇",
+        "url": "https://star.ettoday.net/news/3241522"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqWmp0djdZT0tYNjlSNDBUYl95LWhGYjlqRHVoaF95ODZrQS1LUTRHMXlXeWRzN3VydGJXd1dGWk9pOThpbGFTR1FOQ1djOHVLNDVBY2hR?oc=5"
+      },
+      {
+        "name": "Google News TW 娛樂",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHUlpORVNqTzRvblUtbjJ5SjhKWWR6alFTTWUtOG8yZ0lzNTBEbWNaUGswbEN6Z212XzRadElYWkV0WVZEUU8xaUV4SUlqaXV5WHpPd1laRXNBSHFKU3JBWTJvQklYakFMRVY0?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Box office reported as 7868萬 in one source and 7800萬 in others.",
+      "zh-TW": "票房數字一處報導為7868萬，其他來源為7800萬。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Wang Shi-xian",
+          "zh-TW": "王識賢（Wang Shi-xian）"
+        },
+        "blurb": {
+          "en": "Taiwanese actor who promoted 'Internet Celebrity Dad' at 86 events.",
+          "zh-TW": "台灣演員，為《網紅老爸》舉辦86場映後活動。"
+        }
+      },
+      {
+        "term": {
+          "en": "Internet Celebrity Dad",
+          "zh-TW": "《網紅老爸》"
+        },
+        "blurb": {
+          "en": "Film produced by the 'Corner' team that has surpassed NT$78 million at the Taiwan box office.",
+          "zh-TW": "由《角頭》團隊打造，台灣票房已突破7800萬的電影。"
+        }
+      }
+    ],
+    "trustScore": 74,
     "trustBreakdown": {
       "sourceDiversity": 24,
-      "outletReputation": 12,
+      "outletReputation": 11,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "ettoday-影劇",
+      "gnews-line-today-tw-娛樂",
+      "gnews-line-today-tw-娛樂"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-eastAsiaGossip-02-tvbs-line-today",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-eastAsiaGossip-02-tvbs-line-today.png",
+    "imageAlt": {
+      "en": "Cover related to: 陳幸妤婚變延燒！ 藝人張秀卿「 離婚示範 」被翻出 | TVBS - LINE TODAY",
+      "zh-TW": "相關封面圖：陳幸妤（Chen Xingyu）婚變延燒 張秀卿（Zhang Xiuqing）離婚示範被翻出"
+    },
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "title": {
+      "en": "Chen Xingyu Marriage Scandal Highlights Zhang Xiuqing Divorce Demonstration",
+      "zh-TW": "陳幸妤（Chen Xingyu）婚變延燒 張秀卿（Zhang Xiuqing）離婚示範被翻出"
+    },
+    "summary": {
+      "en": "Taiwan entertainment gossip reports Chen Xingyu marriage troubles continuing with resurfaced artist Zhang Xiuqing divorce demonstration video from TVBS sources. Separately net influencer Ah Han announces sudden breakup with girlfriend and mentions considering dating male friends according to Liberty Entertainment.",
+      "zh-TW": "台灣娛樂圈傳聞指出陳幸妤（Chen Xingyu）婚變持續延燒，TVBS消息翻出藝人張秀卿（Zhang Xiuqing）離婚示範影片。另有自由娛樂報導網紅阿翰（Ah Han）突宣布與女友分手，並吐露考慮與哥們交往。"
+    },
+    "body": {
+      "en": "Lede: Taiwan celebrity gossip centers on Chen Xingyu marriage change developments and a related Zhang Xiuqing divorce demonstration clip.\nWhat happened: Sources from TVBS and LINE TODAY state Chen Xingyu marriage change keeps spreading as artist Zhang Xiuqing divorce demonstration gets dug out. Additional report from Liberty Entertainment notes net influencer Ah Han suddenly announces breakup with girlfriend and expresses surprise consideration of dating male friends.\nWhy it matters: These items reflect ongoing east Asia entertainment circle discussions around personal relationship announcements.\nSources agree/disagree: All provided sources cover the Chen Xingyu and Zhang Xiuqing topic with similar phrasing while one separate source covers Ah Han breakup.\nStill uncertain: No further details on outcomes or confirmations appear in the given source titles and snippets.",
+      "zh-TW": "導言：台灣藝人圈傳聞聚焦陳幸妤（Chen Xingyu）婚變發展以及相關張秀卿（Zhang Xiuqing）離婚示範影片。\n事件經過：TVBS新聞網與LINE TODAY來源指出陳幸妤婚變延燒，藝人張秀卿離婚示範被翻出。自由娛樂另有報導網紅阿翰突宣布與女友分手，並驚吐考慮與哥們交往。\n事件意義：這些消息反映東亞娛樂圈對個人關係公告的持續討論。\n來源異同：所有來源以相似用語涵蓋陳幸妤與張秀卿主題，其中一則獨立來源涵蓋阿翰分手。\n仍未確定：來源標題與摘要未提供進一步結果或確認細節。"
+    },
+    "sources": [
+      {
+        "name": "ltn.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZQlNueEprUC1CNWNLRWM1Xy12MndKOVlsUmlJd3U3RUEtTldENlVYZUZITENLOUJWRXNNZ1JLY0Q1emZpZlVIMVZVbktMVEhDSEZ0MFpCbVplVy1W?oc=5"
+      },
+      {
+        "name": "tvbs.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWZkRGZ2w4MXl2NUZhZ01yemFJUnRBVFJDT1ZzSXVWNzdoTkNUTENJQ3BfWDduWnZEajZLTDFEcFotdDJnQVBUSVZjLS1rRWhVMXUtX0pob0poZw?oc=5"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCb05tWWZtSUhOMUxGckRJLU5CWlU2Z0hJbk52VXZvQXBPWkNWTFpqdXFQY1MxcGZzM1Z4N3h5QUFzMURpTTJQMkRWNXhBZXBLWG4wSzFB?oc=5"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Chen Xingyu",
+          "zh-TW": "陳幸妤（Chen Xingyu）"
+        },
+        "blurb": {
+          "en": "Celebrity mentioned in marriage change gossip reports.",
+          "zh-TW": "婚變傳聞報導中提及的藝人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Zhang Xiuqing",
+          "zh-TW": "張秀卿（Zhang Xiuqing）"
+        },
+        "blurb": {
+          "en": "Artist whose divorce demonstration video was resurfaced.",
+          "zh-TW": "離婚示範影片被翻出的藝人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Ah Han",
+          "zh-TW": "阿翰（Ah Han）"
+        },
+        "blurb": {
+          "en": "Net influencer who announced breakup with girlfriend.",
+          "zh-TW": "宣布與女友分手的網紅。"
+        }
+      }
+    ],
+    "trustScore": 61,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 10,
       "crossCorroboration": 22,
       "recencyClarity": 5
     },
@@ -346,52 +347,308 @@
       "eastAsiaGossip",
       "live-ingest",
       "region:tw",
-      "gnews-tw-復合+藝人/明星",
-      "gnews-tw-復合+藝人/明星",
-      "gnews-tw-復合+藝人/明星"
+      "gnews-tw-分手+藝人/明星",
+      "gnews-tw-婚變/離婚+藝人",
+      "gnews-tw-婚變/離婚+藝人"
     ],
     "region": "tw"
   },
   {
-    "id": "live-eastAsiaGossip-02-7-nownews",
+    "id": "live-tech-01-bungie-says-it-s-not-don",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-01-bungie-says-it-s-not-don.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
+      "zh-TW": "相關封面圖：Bungie（Bungie）撤銷《Destiny》內容金庫 計畫恢復戰役突襲與目的地"
+    },
+    "publishedAt": "2026-09-21T21:34:50.000Z",
+    "title": {
+      "en": "Bungie Reverses Destiny Content Vault to Restore Campaigns Raids and Destinations",
+      "zh-TW": "Bungie（Bungie）撤銷《Destiny》內容金庫 計畫恢復戰役突襲與目的地"
+    },
+    "summary": {
+      "en": "Bungie states it is not done with Destiny and plans to restore previously vaulted content including campaigns, destinations, and raids. The move reverses the Destiny Content Vault introduced six years ago that removed paid player content. Bungie acknowledges the impact on player trust.",
+      "zh-TW": "Bungie（Bungie）表示未放棄《Destiny》，計畫恢復先前封存的戰役、目的地與突襲內容。此舉逆轉六年前推出的《Destiny》內容金庫，該機制移除玩家已付費取得的內容。Bungie（Bungie）承認此舉影響玩家信任。"
+    },
+    "body": {
+      "en": "Lede: Bungie has announced plans to bring back vaulted Destiny content after previously appearing to step away from the franchise. What happened: Bungie confirmed it will restore campaigns, destinations, and raids removed through the Destiny Content Vault created six years ago. The studio admitted the removals affected player trust and enjoyment. Why it matters: Restoring paid content addresses long-standing player concerns and signals renewed commitment to Destiny 2. Sources agree/disagree: The Verge and Engadget both report Bungie leaders stating the studio is not done with Destiny. Engadget additionally notes a promise that Marathon will continue to grow. Still uncertain: Exact timelines and scope of restored content remain unspecified in the reports.",
+      "zh-TW": "導言：Bungie（Bungie）宣布計畫恢復已封存的《Destiny》內容，此前該工作室看似已放棄此系列。 事件經過：Bungie（Bungie）確認將恢復六年前透過《Destiny》內容金庫移除的戰役、目的地與突襲。該工作室承認移除內容影響玩家信任與享受。 重要性：恢復已付費內容回應玩家長期疑慮，並顯示對《Destiny 2》的持續投入。 來源共識與分歧：The Verge 與 Engadget 均報導 Bungie（Bungie）領導層表示工作室未放棄《Destiny》。Engadget 另提及 Marathon 將持續成長的承諾。 仍未確定：恢復內容的確切時間表與範圍在報導中未具體說明。"
+    },
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2264759/bungie-leaders-now-say-the-studio-is-not-done-with-destiny/"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Bungie",
+          "zh-TW": "Bungie（Bungie）"
+        },
+        "blurb": {
+          "en": "Game studio developing Destiny and Marathon.",
+          "zh-TW": "開發《Destiny》與 Marathon 的遊戲工作室。"
+        }
+      },
+      {
+        "term": {
+          "en": "Destiny",
+          "zh-TW": "《Destiny》"
+        },
+        "blurb": {
+          "en": "Video game franchise by Bungie.",
+          "zh-TW": "Bungie（Bungie）推出的遊戲系列。"
+        }
+      },
+      {
+        "term": {
+          "en": "Destiny Content Vault",
+          "zh-TW": "《Destiny》內容金庫"
+        },
+        "blurb": {
+          "en": "System created six years ago by Bungie to remove older content from Destiny 2.",
+          "zh-TW": "Bungie（Bungie）六年前建立的系統，用於移除《Destiny 2》舊內容。"
+        }
+      },
+      {
+        "term": {
+          "en": "Marathon",
+          "zh-TW": "Marathon"
+        },
+        "blurb": {
+          "en": "Game by Bungie that the studio says will keep growing.",
+          "zh-TW": "Bungie（Bungie）表示將持續發展的遊戲。"
+        }
+      }
+    ],
+    "trustScore": 73,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 17,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "tech",
+      "live-ingest",
+      "the-verge",
+      "engadget"
+    ]
+  },
+  {
+    "id": "live-entertainment-01-taylor-swift-shows-off-w",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-01-taylor-swift-shows-off-w.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Taylor Swift Shows Off Wedding Ring as Travis Kelce Scores First Touchdown of the Season",
+      "zh-TW": "相關封面圖：泰勒·斯威夫特（Taylor Swift）在箭頭體育場（Arrowhead Stadium）慶祝泰拉維斯·凱爾斯（Travis Kelce）本季首達陣"
+    },
+    "publishedAt": "2026-09-21T18:30:44.000Z",
+    "title": {
+      "en": "Taylor Swift Celebrates Travis Kelce First Touchdown at Arrowhead Stadium",
+      "zh-TW": "泰勒·斯威夫特（Taylor Swift）在箭頭體育場（Arrowhead Stadium）慶祝泰拉維斯·凱爾斯（Travis Kelce）本季首達陣"
+    },
+    "summary": {
+      "en": "Taylor Swift cheered from her suite as husband Travis Kelce scored his first touchdown of the 2026 NFL season for the Kansas City Chiefs against the Indianapolis Colts. She showed off her wedding ring during the primetime game at Arrowhead Stadium in Kansas City, Missouri on September 20.",
+      "zh-TW": "泰勒·斯威夫特（Taylor Swift）在堪薩斯市箭頭體育場（Arrowhead Stadium）包廂為丈夫泰拉維斯·凱爾斯（Travis Kelce）本季首達陣歡呼。她在9月20日晚場堪薩斯城酋長隊對印第安納波利斯小馬隊比賽中展示婚戒。"
+    },
+    "body": {
+      "en": "Lede: Taylor Swift pointed to her wedding ring while celebrating Travis Kelce scoring the first touchdown of his 2026 NFL season. What happened: During the Kansas City Chiefs primetime matchup against the Indianapolis Colts at Arrowhead Stadium in Kansas City, Missouri on Sunday September 20, the 36-year-old pop superstar cheered from her suite as Kelce found the end zone. She exclaimed 'That’s My Husband!' according to reports. Why it matters: The moment highlights the ongoing public interest in the celebrity couple’s relationship amid the NFL season. Sources agree/disagree: Billboard and Rolling Stone both report the touchdown celebration and Swift’s presence at the game with consistent details on the date, teams, and location. Still uncertain: No additional details on the final score or other game events are provided beyond the Chiefs triumph.",
+      "zh-TW": "導言：泰勒·斯威夫特（Taylor Swift）在慶祝泰拉維斯·凱爾斯（Travis Kelce）攻下2026年NFL球季首達陣時展示婚戒。 事件經過：9月20日星期日晚場，36歲流行巨星在密蘇里州堪薩斯市箭頭體育場（Arrowhead Stadium）包廂觀看堪薩斯城酋長隊對印第安納波利斯小馬隊比賽，為丈夫達陣歡呼。 事件意義：此舉凸顯大眾對這對名人夫妻關係在NFL球季中的持續關注。 來源一致與分歧：Billboard與Rolling Stone均報導達陣慶祝及斯威夫特現身賽事，日期、球隊與地點細節一致。 仍未確定：除酋長隊獲勝外，無其他比賽最終比分或細節。"
+    },
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://www.billboard.com/music/awards/taylor-swift-artist-director-honors-2026-mtv-vmas-1236344313/"
+      },
+      {
+        "name": "Rolling Stone Music",
+        "url": "https://www.rollingstone.com/music/music-news/taylor-swift-artist-director-honors-2026-mtv-vmas-1235629611/"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 21 vs 20 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 21 比 20）。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Taylor Swift",
+          "zh-TW": "泰勒·斯威夫特（Taylor Swift）"
+        },
+        "blurb": {
+          "en": "36-year-old pop superstar mentioned in the sources.",
+          "zh-TW": "來源中提及的36歲流行巨星。"
+        }
+      },
+      {
+        "term": {
+          "en": "Travis Kelce",
+          "zh-TW": "泰拉維斯·凱爾斯（Travis Kelce）"
+        },
+        "blurb": {
+          "en": "Taylor Swift's husband and Kansas City Chiefs player who scored the touchdown.",
+          "zh-TW": "泰勒·斯威夫特（Taylor Swift）丈夫及堪薩斯城酋長隊球員，攻下達陣。"
+        }
+      },
+      {
+        "term": {
+          "en": "Kansas City Chiefs",
+          "zh-TW": "堪薩斯城酋長隊（Kansas City Chiefs）"
+        },
+        "blurb": {
+          "en": "NFL team that triumphed over the Indianapolis Colts in the reported game.",
+          "zh-TW": "在報導比賽中擊敗印第安納波利斯小馬隊的NFL球隊。"
+        }
+      }
+    ],
+    "trustScore": 65,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 17,
+      "crossCorroboration": 7,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "billboard",
+      "billboard",
+      "rolling-stone-music"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-03-lisani-taipei-2026-11-10",
     "category": "eastAsiaGossip",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-02-7-nownews.png",
+    "imageUrl": "/covers/live/live-eastAsiaGossip-03-lisani-taipei-2026-11-10.jpg",
     "imageAlt": {
-      "en": "Cover related to: 楊銘威、方志友情斷！盤點7對明星離婚夫妻　全民吃瓜王力宏醜聞 - NOWnews今日新聞",
-      "zh-TW": "相關封面圖：方志友（Fang Zhiyou）、楊銘威（Yang Mingwei）宣布離婚 11年婚姻告終"
+      "en": "Cover related to: 《LISANI！TAIPEI 2026》11月登場！10組動漫歌手、聲優連唱2天 10／3正式開賣 | 鏡報 - LINE TODAY",
+      "zh-TW": "相關封面圖：LISANI！TAIPEI 2026（LISANI！TAIPEI 2026）11月登場！10組動漫歌手、聲優連唱2天 10／3正式開賣"
     },
-    "publishedAt": "2026-08-17T09:20:22.000Z",
+    "publishedAt": "2026-09-21T23:36:23.000Z",
     "title": {
-      "en": "Fang Zhiyou, Yang Mingwei Announce Divorce After 11 Years of Marriage",
-      "zh-TW": "方志友（Fang Zhiyou）、楊銘威（Yang Mingwei）宣布離婚 11年婚姻告終"
+      "en": "LISANI！TAIPEI 2026 to Host 10 Anime Singer and Voice Actor Groups for Two-Day Concert in November",
+      "zh-TW": "LISANI！TAIPEI 2026（LISANI！TAIPEI 2026）11月登場！10組動漫歌手、聲優連唱2天 10／3正式開賣"
     },
     "summary": {
-      "en": "Taiwanese celebrities Fang Zhiyou and Yang Mingwei have announced the end of their 11-year marriage, stating they will remain family. Reports from multiple outlets cover the divorce agreement and Fang Zhiyou's first public comments post-announcement emphasizing no regrets about the marriage.",
-      "zh-TW": "台灣藝人方志友（Fang Zhiyou）與楊銘威（Yang Mingwei）宣布結束11年婚姻，強調永遠是家人。多個媒體報導離婚協議及方志友離婚後首度公開表示從未後悔結婚。"
+      "en": "The LISANI！TAIPEI 2026 event is set to take place in November with performances by 10 groups of anime singers and voice actors over two days. Ticket sales begin on October 3. Multiple Taiwanese entertainment outlets report identical details about the concert lineup and schedule.",
+      "zh-TW": "《LISANI！TAIPEI 2026》（LISANI！TAIPEI 2026）預計11月登場，由10組動漫歌手與聲優連唱2天，10月3日正式開賣。多家台灣娛樂媒體報導活動陣容與時程細節一致。"
     },
     "body": {
-      "en": "Lede: Fang Zhiyou and Yang Mingwei have ended their marriage of 11 years through a divorce agreement. What happened: Multiple Taiwanese news outlets reported the couple's announcement that their 11-year marriage has concluded, with both stating they will always be family. Fang Zhiyou appeared publicly for the first time after the news, stressing she has never regretted the marriage. Yang Mingwei was also reported to have made a public appearance revealing his latest status. Why it matters: The divorce has drawn attention in entertainment circles as part of broader discussions on celebrity marriages. Sources agree/disagree: All sources confirm the divorce announcement and the couple's statements about remaining family. Still uncertain: Details on the exact timing or reasons beyond the agreement are not specified across reports.",
-      "zh-TW": "導言：方志友（Fang Zhiyou）與楊銘威（Yang Mingwei）透過協議結束11年婚姻。 事件經過：多家台灣新聞媒體報導這對夫妻宣布11年婚姻告終，雙方表示永遠是家人。方志友離婚後首度露面，強調從沒有後悔結婚。楊銘威也公開現身，最新近況曝光。 重要性：此離婚消息在娛樂圈引起關注，屬於名人婚姻討論的一部分。 來源一致/分歧：所有來源均確認離婚宣布及夫妻將永遠是家人的說法。 仍未確定：除協議外，確切時間或原因細節未在報導中說明。"
+      "en": "Lede: LISANI！TAIPEI 2026 is scheduled for a November debut featuring 10 groups of anime singers and voice actors performing across two days. What happened: Reports confirm the event will run for two consecutive days in November, with ticket sales officially starting on October 3. Why it matters: The concert brings together multiple anime music acts and seiyuu performers in Taipei, highlighting ongoing interest in anime-related live events in the region. Sources agree/disagree: All listed sources from Yahoo TW, Google News TW, and LINE TODAY present identical information on the event name, performer count, duration, and sale date with no variations. Still uncertain: Specific venue details, exact performance dates within November, and the identities of the 10 groups are not provided in the sources.",
+      "zh-TW": "導言：LISANI！TAIPEI 2026（LISANI！TAIPEI 2026）預計11月登場，由10組動漫歌手與聲優連唱2天。 事件經過：報導指出活動將在11月連續舉辦2天，門票於10月3日正式開賣。 重要性：此演唱會匯集多組動漫音樂表演者與聲優，在台北呈現相關現場活動的持續關注。 來源一致／分歧：Yahoo TW、Google News TW與LINE TODAY等來源對活動名稱、表演團數、持續天數及開賣日期均呈現相同資訊，無任何差異。 仍未確定：11月內確切演出日期、場地細節以及10組團體的具體成員，來源中均未提供。"
     },
     "sources": [
       {
-        "name": "GNews TW 婚變/離婚+藝人",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wdVJtem5KY3B6c3QyRy1nY3RzYTdXYkk5OVU5aW54YmE1UEVaTGpWRThFTTRUamt6MTIxSV9GeHBZMDI4Ny1mZ3NZRXDSAVJBVV95cUxPTTBQM2diYVRkWC05ZWNFY0JIYVZmdGRuVEMxVy11aVZMSnJUMVk0enpwa1FOSlFhSjVVOWJmYllZNkx0emtmV1VoSUdyWlhpTEdR?oc=5"
+        "name": "Yahoo TW 娛樂",
+        "url": "https://tw.news.yahoo.com/lisani-taipei-2026-11%E6%9C%88%E7%99%BB%E5%A0%B4-10%E7%B5%84%E5%8B%95%E6%BC%AB%E6%AD%8C%E6%89%8B-230000782.html"
       },
       {
-        "name": "GNews TW 婚變/離婚+藝人",
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VcmpoYjhMMWlIX2xCaWl3eUZ0MkhJLThER0R4UjhMV1VwREIxMGVOS0VJUEo5VlVRS1ZUOFJST2hSZlJYRDZGTlVGb2RaOHM4Znc?oc=5"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyQmRyTUliVjZPT0djY1lGUGdhekp0ZG9CMjJOdEJjYm9MS0RzUjJOcm02V0tKUFRjWnl1R1ptb2MweGFhVzU1SjlWODgzQjdfazZxd0dn?oc=5"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "LISANI！TAIPEI 2026",
+          "zh-TW": "LISANI！TAIPEI 2026（LISANI！TAIPEI 2026）"
+        },
+        "blurb": {
+          "en": "An upcoming anime music concert event scheduled in Taipei.",
+          "zh-TW": "預計在台北舉辦的動漫音樂演唱會活動。"
+        }
+      }
+    ],
+    "trustScore": 83,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 12,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "yahoo-tw-娛樂",
+      "google-news-tw-娛樂",
+      "gnews-line-today-tw-娛樂"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-eastAsiaGossip-04-11-yahoo",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-eastAsiaGossip-04-11-yahoo.png",
+    "imageAlt": {
+      "en": "Cover related to: 遭爆11年婚變協議離婚方志友！楊銘威首公開現身了 「最新近況」曝 - Yahoo新聞",
+      "zh-TW": "相關封面圖：方志友（Fang Chih-yu）與楊銘威（Yang Ming-wei）宣布結束11年婚姻"
+    },
+    "publishedAt": "2026-09-21T02:25:45.000Z",
+    "title": {
+      "en": "Fang Chih-yu and Yang Ming-wei Announce 11-Year Marriage End",
+      "zh-TW": "方志友（Fang Chih-yu）與楊銘威（Yang Ming-wei）宣布結束11年婚姻"
+    },
+    "summary": {
+      "en": "Taiwanese celebrities Fang Chih-yu and Yang Ming-wei have announced their divorce after 11 years, stating they will remain family. Yang Ming-wei was seen publicly for the first time since the news. Separate reports detail singer Wu Shu-min entering court mediation over her 7-year marriage amid alleged domestic violence claims.",
+      "zh-TW": "台灣藝人方志友（Fang Chih-yu）與楊銘威（Yang Ming-wei）宣布結束11年婚姻，強調仍是一家人。楊銘威自消息曝光後首度公開現身。另有報導指出歌手吳淑敏（Wu Shu-min）因7年婚姻問題進入法院調解，並傳出家暴指控。"
+    },
+    "body": {
+      "en": "Lede: Fang Chih-yu and Yang Ming-wei have ended their 11-year marriage through agreement, with both parties confirming they remain family. What happened: Multiple outlets report the couple's divorce filing, with Yang Ming-wei making his first public appearance afterward. Past comments from Jia Jing-wen about Yang Ming-wei's behavior at home have resurfaced alongside Fang Chih-yu's earlier admissions of considering leaving the marriage. Separate coverage covers singer Wu Shu-min appearing in court for mediation in her 7-year marriage, acknowledging alleged domestic violence incidents. Why it matters: These cases highlight ongoing celebrity marriage strains in Taiwan entertainment circles. Sources agree/disagree: Outlets consistently report the Fang-Yang divorce announcement and Wu Shu-min's court appearance without conflicting details on timelines or statements. Still uncertain: No further specifics on settlement terms or future plans have been confirmed across reports.",
+      "zh-TW": "導言：方志友（Fang Chih-yu）與楊銘威（Yang Ming-wei）經協議結束11年婚姻，雙方均表示永遠是家人。事件經過：多家媒體報導這對夫妻的離婚消息，楊銘威（Yang Ming-wei）在消息後首度公開現身。賈靜雯（Jia Jing-wen）過去對楊銘威（Yang Ming-wei）在家行為的評論，以及方志友（Fang Chih-yu）曾多次想放棄婚姻的心聲被重新提及。另外，歌手吳淑敏（Wu Shu-min）因7年婚姻問題現身法院調解，並承認遭遇家庭暴力指控。為何重要：這些案例凸顯台灣娛樂圈藝人婚姻的持續壓力。消息來源一致性：各媒體對方志友（Fang Chih-yu）與楊銘威（Yang Ming-wei）的離婚宣布，以及吳淑敏（Wu Shu-min）的法院現身報導一致，無時間或陳述上的衝突。仍未確定：和解條件或未來計畫的細節尚未在報導中確認。"
+    },
+    "sources": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qbDcza0pDTGVYa1VMNjdYbGR1R1NtME42MjRLdXRkc25PZVRRSlc1dUVvWWFZQmZzaEFNaU9COFhKY0RmRXVUY2JVUmZMLUgyZWZ6NVVQVS1Nd9IBX0FVX3lxTE5aanp6MzA2TmxMZVZSdS1hNG5rSXpUY3ZfNFVLdGpuSGxBMTR6VGdNZDAxYjJQM3M2REFhMnp1ZjhidmZmWEI3U3p1dzF2dnFHYTZJQVU5Rm41b1ZxbUtZ?oc=5"
+      },
+      {
+        "name": "chinatimes.com",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0WlBLeW56WHVjMjUzV212bG1qMUNYd1gwVHhlQmJjWWpPRnpLWHZZa3hpR0pqUExjNVZRWjI1NThqWUhGcmJBYk9xMzBBRExnN0Q2Zllsekh0MzRfWHlaT214WlVBZGJOZlNYOUhB?oc=5"
       },
       {
-        "name": "GNews TW 婚變/離婚+藝人",
+        "name": "tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNZTRwVkcyemd2WDZ6VDhSTkt0OWR6ck96bk1TYWo2WHVyV05YcDVVU1oxQ2dlc1QyUDZ1ckFkaFFJVW9aV3MyblA3V3dFN3VOQVVqWDl0MTlVQmppZnFjRHUwVGxLQTV3a3BlcXR5ZnlBUWhKRGozbVdEWnUxdy1YZFNPcTNYMDJKMm1OLWJxZG5Mdk9NVzFuWV9hczBmQ0hjQ0Y3SWRqaUlwRThfekpxTlRzMm5CdFJvQjE4S0p0UnhSSE1mZm5SMUc4YmhKY0IweTEwOGVNdTZlV2VoX1ByYm5BTkRUTS1HUkF6WGVRZzAzR3IxWnN1TktqemZRZ25pLWg5aDFBVmN1Tkd6NkdZakRsaHZKb09YMFg0bnh5SWs2YTktblNicTFYYm5kN3hrOGVxS0QzTHhWR3ktcGRWMDFRSDk4MFVlNkZraWhwWVNjR2ZkVXBsbG01b2tON2VtTFFhYzlPV0JCLTlhc1dWaWtveGxtLXNnQUlkVXRlV1J4VVZIdzJFY2JqMWpiUVZmd3c?oc=5"
       },
       {
-        "name": "GNews TW 婚變/離婚+藝人",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mWFAzdFRyTV96cVgwX1dmdGNSZkk4eVMzXzhyWl9UY2I3REFWY1d0a0ROWDRCQ1RuTTJCSHNQVlVuLV9ZQnk2dUJiLUR4TDQ5RnduZFFZdw?oc=5"
+        "name": "news.ebc.net.tw",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfQTVRbzlsaGY0R0ZnaHdZN0o4bm9rMnZFc0k3QURYdnpXM1JjWVQydEE2amV5c1VBZFBtWGVrLTRuTkNrWC1oYXRB?oc=5"
+      },
+      {
+        "name": "cts.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpaVRTSW55MXktWjVKME1ITk05UXpjbEp5MnMxekhScUtKYUtLWlpGNVZaTGI4bllsSURwdTd3Tm1aM0NnMjZZSG9tc1NydXFOcWpjM0Nmd2dJcEVYaWdsNEYtc0VJN0RYdV9XNQ?oc=5"
+      },
+      {
+        "name": "mirrormedia.mg",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iYzhOeEYzRnlOekZBR0hNTTBxUklPSUF4ZjBzOEZnU010RVBlcmZvVjRZTVdQRTRLVFpvMW5iOHpXMmxaS0JsZjhtVEQ1UEpXc2NDMXBITFVJR0XSAWBBVV95cUxPWUJoclVYRFUzVUtPSEtnYXJrOUNaT1JVSXpZcHdXeXpLb0IwRFV6U1NnREJob093TUxPNnM3TU5rckNxc0U5ZXVmdi1FalJUYnpnS0V6YXRtYldwQ2RnRDg?oc=5"
+      },
+      {
+        "name": "nownews.com",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wdVJtem5KY3B6c3QyRy1nY3RzYTdXYkk5OVU5aW54YmE1UEVaTGpWRThFTTRUamt6MTIxSV9GeHBZMDI4Ny1mZ3NZRXDSAVJBVV95cUxPTTBQM2diYVRkWC05ZWNFY0JIYVZmdGRuVEMxVy11aVZMSnJUMVk0enpwa1FOSlFhSjVVOWJmYllZNkx0emtmV1VoSUdyWlhpTEdR?oc=5"
       }
     ],
     "disagreements": {
@@ -401,254 +658,379 @@
     "glossary": [
       {
         "term": {
-          "en": "Fang Zhiyou",
-          "zh-TW": "方志友（Fang Zhiyou）"
+          "en": "Fang Chih-yu",
+          "zh-TW": "方志友（Fang Chih-yu）"
         },
         "blurb": {
-          "en": "Taiwanese celebrity involved in the reported divorce.",
-          "zh-TW": "台灣藝人，報導中涉及離婚消息。"
+          "en": "Taiwanese actress involved in publicized 11-year marriage ending.",
+          "zh-TW": "台灣女演員，涉及11年婚姻結束的公開消息。"
         }
       },
       {
         "term": {
-          "en": "Yang Mingwei",
-          "zh-TW": "楊銘威（Yang Mingwei）"
+          "en": "Yang Ming-wei",
+          "zh-TW": "楊銘威（Yang Ming-wei）"
         },
         "blurb": {
-          "en": "Taiwanese celebrity involved in the reported divorce.",
-          "zh-TW": "台灣藝人，報導中涉及離婚消息。"
+          "en": "Taiwanese actor who appeared publicly after divorce announcement.",
+          "zh-TW": "台灣男演員，離婚消息後首度公開現身。"
+        }
+      },
+      {
+        "term": {
+          "en": "Wu Shu-min",
+          "zh-TW": "吳淑敏（Wu Shu-min）"
+        },
+        "blurb": {
+          "en": "Taiwanese singer whose 7-year marriage entered court mediation.",
+          "zh-TW": "台灣歌手，7年婚姻進入法院調解程序。"
         }
       }
     ],
-    "trustScore": 58,
+    "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 25,
       "outletReputation": 11,
       "crossCorroboration": 17,
-      "recencyClarity": 5
+      "recencyClarity": 23
     },
     "tags": [
       "eastAsiaGossip",
       "live-ingest",
       "region:tw",
-      "gnews-tw-婚變/離婚+藝人",
+      "google-news-tw-entertainment",
       "gnews-tw-婚變/離婚+藝人",
       "gnews-tw-婚變/離婚+藝人"
     ],
     "region": "tw"
   },
   {
-    "id": "live-ai-01-a-new-chapter-for-mit-re",
+    "id": "live-ai-01-got-an-android-phone-goo",
     "category": "ai",
     "adult": false,
     "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-ai-01-a-new-chapter-for-mit-re.png",
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-ai-01-got-an-android-phone-goo.jpg",
     "imageAlt": {
-      "en": "Cover related to: A new chapter for MIT Reads",
-      "zh-TW": "相關封面圖：麻省理工學院閱讀計畫（MIT Reads）在人工智慧時代重新構想"
+      "en": "Cover related to: Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+      "zh-TW": "相關封面圖：Google（Google）推出 Googlebook 筆記型電腦以延伸 Android 連接體驗"
     },
-    "publishedAt": "2026-09-18T16:30:00.000Z",
+    "publishedAt": "2026-09-21T13:00:00.000Z",
     "title": {
-      "en": "MIT Reads Reimagined for Artificial Intelligence Age",
-      "zh-TW": "麻省理工學院閱讀計畫（MIT Reads）在人工智慧時代重新構想"
+      "en": "Google Launches Googlebook Laptops to Extend Android Connectivity",
+      "zh-TW": "Google（Google）推出 Googlebook 筆記型電腦以延伸 Android 連接體驗"
     },
     "summary": {
-      "en": "MIT Reads marks its 10-year anniversary by shifting to fiction and memoir. The MIT Libraries program aims to build social connection and shared humanity through stories, helping participants understand themselves and their place in the world amid rapid AI development.",
-      "zh-TW": "麻省理工學院閱讀計畫（MIT Reads）慶祝十週年，將焦點轉向小說與回憶錄。該計畫由麻省理工學院圖書館（MIT Libraries）推動，透過故事促進社會連結與共同人性，幫助參與者理解自我與世界。"
+      "en": "Google is introducing Googlebook laptops designed to offer Android phone users the kind of seamless device integration long available to Apple customers between iPhones and Macs. The move aims to create a unified experience across Google hardware and software.",
+      "zh-TW": "Google（Google）推出 Googlebook 筆記型電腦，目標為 Android 手機用戶提供類似 Apple（Apple） iPhone 與 Mac 之間的無縫連接體驗，此舉旨在打造 Google 硬體與軟體的整合環境。"
     },
     "body": {
-      "en": "Lede: MIT Reads is entering a new phase as it reaches its 10-year mark. What happened: The program, operated by MIT Libraries, is being reimagined for the age of artificial intelligence. It will now emphasize fiction and memoir to highlight the power of stories. Why it matters: At MIT, much time is spent imagining and building for the future. Reading fiction prompts reflection on how current actions shape that future and fosters a sense of shared humanity. Sources agree/disagree: Only one source is available. Still uncertain: Details on specific upcoming titles or events are not provided in the source.",
-      "zh-TW": "導言：麻省理工學院閱讀計畫（MIT Reads）在十週年之際進入新階段。 事件經過：該計畫由麻省理工學院圖書館（MIT Libraries）運作，正針對人工智慧時代重新設計，將重點放在小說與回憶錄，以突顯故事的力量。 重要性：麻省理工學院（MIT）投入大量時間想像並建構未來。閱讀小說促使人們思考當前行動如何塑造未來，並培養共同人性的感受。 來源一致或分歧：僅有一個來源。 仍不確定：來源未提供具體即將推出的書目或活動細節。"
+      "en": "Lede: Google is releasing Googlebook laptops to bring seamless connectivity to Android users, mirroring Apple's iPhone-Mac ecosystem. What happened: According to Wired AI, Google is launching Googlebook laptops with the goal of delivering integrated experiences for people who own Android phones. The announcement highlights how Apple users have benefited from tight connections between their devices for years. Why it matters: This development could strengthen Google's position in the laptop market by encouraging Android phone owners to stay within the Google ecosystem for their computing needs. Sources agree/disagree: The single source from Wired AI reports the launch and its intent without conflicting details. Still uncertain: Specific features, pricing, or release dates for the Googlebook laptops are not detailed in the provided source material.",
+      "zh-TW": "Lede: Google（Google）正發布 Googlebook 筆記型電腦，為 Android 用戶帶來無縫連接，類似 Apple（Apple） iPhone 與 Mac 的生態系統。 What happened: 根據 Wired AI 報導，Google（Google）推出 Googlebook 筆記型電腦，目標是為 Android 手機擁有者提供整合體驗。消息指出 Apple（Apple）用戶多年來已享有裝置間緊密連接的優勢。 Why it matters: 此舉可能強化 Google（Google）在筆記型電腦市場的地位，鼓勵 Android 用戶留在 Google 生態系統內。 Sources agree/disagree: 單一來源 Wired AI 報導此推出及其意圖，無衝突細節。 Still uncertain: 來源未提供 Googlebook 筆記型電腦的具體功能、價格或發布日期。"
     },
     "sources": [
       {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918"
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/google-launches-googlebook-laptops/"
       }
     ],
     "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "MIT Reads",
-          "zh-TW": "麻省理工學院閱讀計畫（MIT Reads）"
+          "en": "Google",
+          "zh-TW": "Google（Google）"
         },
         "blurb": {
-          "en": "Popular MIT Libraries program focused on reading.",
-          "zh-TW": "麻省理工學院圖書館（MIT Libraries）的熱門閱讀計畫。"
+          "en": "Company launching Googlebook laptops.",
+          "zh-TW": "推出 Googlebook 筆記型電腦的公司。"
         }
       },
       {
         "term": {
-          "en": "MIT Libraries",
-          "zh-TW": "麻省理工學院圖書館（MIT Libraries）"
+          "en": "Googlebook",
+          "zh-TW": "Googlebook（Googlebook）"
         },
         "blurb": {
-          "en": "Library system at the Massachusetts Institute of Technology.",
-          "zh-TW": "麻省理工學院（MIT）的圖書館系統。"
+          "en": "New line of laptops from Google targeting Android users.",
+          "zh-TW": "Google（Google）針對 Android 用戶推出的新筆記型電腦系列。"
+        }
+      },
+      {
+        "term": {
+          "en": "Android",
+          "zh-TW": "Android（Android）"
+        },
+        "blurb": {
+          "en": "Mobile operating system central to the new laptop integration.",
+          "zh-TW": "新筆記型電腦整合的核心行動作業系統。"
+        }
+      },
+      {
+        "term": {
+          "en": "Apple",
+          "zh-TW": "Apple（Apple）"
+        },
+        "blurb": {
+          "en": "Company whose iPhone-Mac connectivity is referenced as a model.",
+          "zh-TW": "其 iPhone 與 Mac 連接被引用為範例的公司。"
         }
       }
     ],
-    "trustScore": 57,
+    "trustScore": 56,
     "trustBreakdown": {
       "sourceDiversity": 8,
-      "outletReputation": 23,
+      "outletReputation": 18,
       "crossCorroboration": 8,
-      "recencyClarity": 18
+      "recencyClarity": 22
     },
     "tags": [
       "ai",
       "live-ingest",
-      "mit-news-ai"
+      "wired-ai"
     ]
   },
   {
-    "id": "live-tech-01-an-undercover-google-ana",
-    "category": "tech",
+    "id": "live-ai-02-ai-tariffs-rare-minerals",
+    "category": "ai",
     "adult": false,
     "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-tech-01-an-undercover-google-ana.jpg",
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-ai-02-ai-tariffs-rare-minerals.jpg",
     "imageAlt": {
-      "en": "Cover related to: An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "zh-TW": "相關封面圖：Google 威脅情報（Google Threat Intelligence）滲透 TeamPCP 供應鏈駭客集團"
+      "en": "Cover related to: AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+      "zh-TW": "相關封面圖：川普（Trump）與習近平（Xi Jinping）：AI、關稅、稀有礦物峰會預期"
     },
-    "publishedAt": "2026-09-20T11:07:00.000Z",
+    "publishedAt": "2026-09-21T18:33:02.000Z",
     "title": {
-      "en": "Google Threat Intelligence Infiltrates TeamPCP Supply-Chain Hacking Gang",
-      "zh-TW": "Google 威脅情報（Google Threat Intelligence）滲透 TeamPCP 供應鏈駭客集團"
+      "en": "Trump and Xi Jinping: AI Tariffs Rare Minerals Summit Expectations",
+      "zh-TW": "川普（Trump）與習近平（Xi Jinping）：AI、關稅、稀有礦物峰會預期"
     },
     "summary": {
-      "en": "Google’s threat intelligence group revealed an undercover analyst infiltrated the TeamPCP hacker group. The group tainted hundreds of open-source programs with malware, stole developer accounts, released a Dune-themed self-spreading worm, and breached more than a thousand companies before two alleged members were arrested in Australia last month.",
-      "zh-TW": "Google 威脅情報小組（Google Threat Intelligence）揭露一名臥底分析師滲透 TeamPCP 駭客集團。該集團在澳洲兩名涉嫌成員上月被捕前，污染數百個開源程式、竊取開發者帳戶、釋出以 Dune 為主題的自傳播蠕蟲，並入侵超過一千家公司。"
+      "en": "Washington and Beijing remain closely linked through the AI boom. Hardware exports and technological restrictions serve as major bargaining chips ahead of the upcoming Trump-Xi summit on tariffs and rare minerals.",
+      "zh-TW": "華盛頓與北京透過AI熱潮緊密連結。硬體出口與技術限制成為川普（Trump）與習近平（Xi Jinping）即將舉行峰會中關稅與稀有礦物的主要談判籌碼。"
     },
     "body": {
-      "en": "Lede: Google’s threat intelligence group disclosed details of an undercover analyst who infiltrated the notorious TeamPCP supply-chain hacking gang. What happened: Before two of its alleged members were arrested and charged in Australia last month, the hacker group known as TeamPCP carried out a hacking spree. It tainted hundreds of open-source programs with its malware, stole developer accounts to perpetuate that software supply-chain hacking, and even released a Dune-themed self-spreading worm to automate the process, ultimately breaching more than a thousand companies. Why it matters: The operation highlights the scale of software supply-chain attacks and the role of threat intelligence teams in disrupting such groups. Sources agree/disagree: Ars Technica reports the events based on Google’s threat intelligence findings with no conflicting accounts present. Still uncertain: The snippet ends before detailing the full extent of the infiltration or additional outcomes.",
-      "zh-TW": "導言：Google 威脅情報小組（Google Threat Intelligence）揭露一名臥底分析師滲透惡名昭彰的 TeamPCP 供應鏈駭客集團。 事件經過：在澳洲兩名涉嫌成員上月被捕並遭起訴前，名為 TeamPCP 的駭客集團展開史上獨特的駭客行動。它以惡意軟體污染數百個開源程式、竊取開發者帳戶以延續軟體供應鏈攻擊，甚至釋出以 Dune 為主題的自傳播蠕蟲來自動化過程，最終入侵超過一千家公司。 重要性：此行動凸顯軟體供應鏈攻擊的規模，以及威脅情報團隊在瓦解此類集團中的角色。 來源一致／分歧：Ars Technica 根據 Google 威脅情報發現報導事件，無衝突描述。 仍未確定：片段在詳述滲透完整範圍或額外結果前結束。"
+      "en": "Lede: The upcoming summit between Trump and Xi Jinping will address AI, tariffs, and rare minerals amid deepening US-China ties in technology. What happened: Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations. Why it matters: These elements position AI-related hardware and restrictions as central issues in bilateral talks. Sources agree/disagree: Only one source available. Still uncertain: Specific outcomes or additional details remain unspecified in available reporting. Sources: Wired.",
+      "zh-TW": "導言：川普（Trump）與習近平（Xi Jinping）即將舉行的峰會將討論AI、關稅與稀有礦物，同時美中科技連結日益深化。 事件經過：華盛頓與北京透過AI熱潮緊密連結，使硬體出口與技術限制成為談判中的重要籌碼。 重要性：這些因素使AI相關硬體與限制成為雙邊談判的核心議題。 來源同意或分歧：僅有一個來源。 仍不確定：具體結果或其他細節在現有報導中未提及。 來源：Wired。"
     },
     "sources": [
       {
-        "name": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/"
       }
     ],
     "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "TeamPCP",
-          "zh-TW": "TeamPCP"
+          "en": "Trump",
+          "zh-TW": "川普（Trump）"
         },
         "blurb": {
-          "en": "Hacker group known for supply-chain attacks on open-source software.",
-          "zh-TW": "以供應鏈攻擊開源軟體聞名的駭客集團。"
+          "en": "US President involved in upcoming summit with Xi Jinping.",
+          "zh-TW": "美國總統，即將與習近平（Xi Jinping）舉行峰會。"
         }
       },
       {
         "term": {
-          "en": "Google Threat Intelligence",
-          "zh-TW": "Google 威脅情報（Google Threat Intelligence）"
+          "en": "Xi Jinping",
+          "zh-TW": "習近平（Xi Jinping）"
         },
         "blurb": {
-          "en": "Google’s threat intelligence group that revealed the infiltration.",
-          "zh-TW": "揭露滲透行動的 Google 威脅情報小組。"
+          "en": "Chinese leader involved in upcoming summit with Trump.",
+          "zh-TW": "中國領導人，即將與川普（Trump）舉行峰會。"
         }
       },
       {
         "term": {
-          "en": "Australia",
-          "zh-TW": "澳洲（Australia）"
+          "en": "Washington",
+          "zh-TW": "華盛頓（Washington）"
         },
         "blurb": {
-          "en": "Country where two alleged TeamPCP members were arrested last month.",
-          "zh-TW": "上月兩名 TeamPCP 涉嫌成員被捕的國家。"
+          "en": "US capital referenced in AI and trade negotiations with Beijing.",
+          "zh-TW": "美國首都，與北京（Beijing）進行AI與貿易談判的指涉。"
+        }
+      },
+      {
+        "term": {
+          "en": "Beijing",
+          "zh-TW": "北京（Beijing）"
+        },
+        "blurb": {
+          "en": "Chinese capital referenced in AI and trade negotiations with Washington.",
+          "zh-TW": "中國首都，與華盛頓（Washington）進行AI與貿易談判的指涉。"
         }
       }
     ],
-    "trustScore": 55,
+    "trustScore": 59,
     "trustBreakdown": {
       "sourceDiversity": 8,
-      "outletReputation": 19,
+      "outletReputation": 18,
       "crossCorroboration": 8,
-      "recencyClarity": 23
+      "recencyClarity": 25
     },
     "tags": [
-      "tech",
+      "ai",
       "live-ingest",
-      "ars-technica"
+      "wired-ai"
     ]
   },
   {
-    "id": "live-eastAsiaGossip-03-2-ettoday",
+    "id": "live-finance-02-hundreds-of-flights-into",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-02-hundreds-of-flights-into.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
+      "zh-TW": "相關封面圖：威瑞森（Verizon）光纖線路切斷導致紐瓦克（Newark）、費城（Philadelphia）機場航班受影響"
+    },
+    "publishedAt": "2026-09-21T23:48:56.000Z",
+    "title": {
+      "en": "Verizon Fiber Line Cut Disrupts Flights at Newark, Philadelphia Airports",
+      "zh-TW": "威瑞森（Verizon）光纖線路切斷導致紐瓦克（Newark）、費城（Philadelphia）機場航班受影響"
+    },
+    "summary": {
+      "en": "Construction crews in New Jersey cut a Verizon fiber cable used for air traffic control, causing hundreds of flights into Newark Liberty International Airport and Philadelphia International Airport to be canceled or delayed on Monday. The FAA reported an equipment problem snarling air travel at these airports and affecting New York as well.",
+      "zh-TW": "紐澤西（New Jersey）施工人員切斷用於空中交通管制的威瑞森（Verizon）光纖電纜，導致紐瓦克自由國際機場（Newark Liberty International Airport）與費城國際機場（Philadelphia International Airport）數百航班於週一取消或延誤。美國聯邦航空管理局（FAA）表示設備問題影響這些機場及紐約的空中交通。"
+    },
+    "body": {
+      "en": "Lede: A Verizon fiber line cut by construction crews in New Jersey led to widespread flight disruptions at major airports including Newark and Philadelphia. What happened: Construction crews accidentally cut a Verizon fiber cable used for air traffic control. This caused an FAA equipment problem that snarled air travel at Newark Liberty International Airport and Philadelphia International Airport on Monday. Hundreds of flights were cancelled or delayed across the US. Why it matters: The incident highlights vulnerabilities in critical infrastructure supporting air traffic control systems, affecting travel at key East Coast hubs including Newark, New York, and Philadelphia. Sources agree/disagree: Both sources report the cable cut by construction crews in New Jersey disrupting flights via FAA equipment issues at Newark and Philadelphia airports. Still uncertain: Exact total number of affected flights and full duration of disruptions remain unspecified beyond the Monday events described.",
+      "zh-TW": "導言：紐澤西（New Jersey）施工人員切斷威瑞森（Verizon）光纖線路，導致紐瓦克（Newark）與費城（Philadelphia）等主要機場出現大規模航班中斷。 事件經過：施工人員意外切斷用於空中交通管制的威瑞森（Verizon）光纖電纜，造成美國聯邦航空管理局（FAA）設備問題，週一影響紐瓦克自由國際機場（Newark Liberty International Airport）與費城國際機場（Philadelphia International Airport）的空中交通。美國各地數百航班因此取消或延誤。 重要性：此事件凸顯支撐空中交通管制系統的關鍵基礎設施脆弱性，影響紐瓦克、紐約及費城等東岸主要樞紐的旅行。 來源一致與分歧：兩來源均報導紐澤西（New Jersey）施工人員切斷電纜，透過FAA設備問題影響紐瓦克與費城機場航班。 仍未確定：受影響航班確切總數及中斷持續時間，除週一事件描述外未進一步說明。"
+    },
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Verizon",
+          "zh-TW": "威瑞森（Verizon）"
+        },
+        "blurb": {
+          "en": "Telecommunications company whose fiber cable was cut.",
+          "zh-TW": "電信公司，其光纖電纜遭切斷。"
+        }
+      },
+      {
+        "term": {
+          "en": "FAA",
+          "zh-TW": "美國聯邦航空管理局（FAA）"
+        },
+        "blurb": {
+          "en": "Agency reporting the equipment problem from the cable cut.",
+          "zh-TW": "報告電纜切斷導致設備問題的機構。"
+        }
+      },
+      {
+        "term": {
+          "en": "Newark Liberty International Airport",
+          "zh-TW": "紐瓦克自由國際機場（Newark Liberty International Airport）"
+        },
+        "blurb": {
+          "en": "Airport where air travel was snarled by the FAA equipment issue.",
+          "zh-TW": "空中交通因FAA設備問題受阻的機場。"
+        }
+      }
+    ],
+    "trustScore": 74,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 18,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "cnbc",
+      "the-verge"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-05-2-ettoday",
     "category": "eastAsiaGossip",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-03-2-ettoday.jpg",
+    "imageUrl": "/covers/live/live-eastAsiaGossip-05-2-ettoday.jpg",
     "imageAlt": {
       "en": "Cover related to: 多米多羅、芝芝開直播攤牌　「2萬人同時在線」看分手對質 - ETtoday星光雲",
-      "zh-TW": "相關封面圖：多米多羅、芝芝開直播攤牌　2萬人同時在線看分手對質"
+      "zh-TW": "相關封面圖：多米多羅（Domidora）與芝芝直播攤牌　2萬人同時在線看分手對質"
     },
-    "publishedAt": "2026-09-20T14:23:33.000Z",
+    "publishedAt": "2026-09-21T23:01:05.000Z",
     "title": {
-      "en": "Domi Duoluo and Zhizhi Stage Live Breakup Confrontation Watched by 20,000 Viewers",
-      "zh-TW": "多米多羅、芝芝開直播攤牌　2萬人同時在線看分手對質"
+      "en": "多米多羅 and 芝芝 Live Stream Breakup Confrontation Draws 20,000 Simultaneous Viewers",
+      "zh-TW": "多米多羅（Domidora）與芝芝直播攤牌　2萬人同時在線看分手對質"
     },
     "summary": {
-      "en": "Influencers Domi Duoluo and Zhizhi held a live voice call to discuss their breakup, drawing 20,000 simultaneous viewers. Domi Duoluo's sister later defended him in a long post, accusing Zhizhi of double standards and maintaining contact with an ex. Domi Duoluo later apologized for his handling of the situation while denying infidelity.",
-      "zh-TW": "網紅多米多羅與芝芝透過直播語音通話公開討論分手，吸引2萬人同時在線觀看。多米多羅大姊發文護航，指控芝芝雙標裝受害者並與前男友持續聯絡。多米多羅事後道歉承認表達方式不佳，但強調絕無出軌。"
+      "en": "多米多羅 and 芝芝 held a live stream to address their breakup, with reports of 20,000 viewers online. 芝芝 issued a late-night final statement detailing the breakup timeline, while 多米多羅 accused her of double standards and contacting an ex. Both sides traded claims over phone checks and past behaviors.",
+      "zh-TW": "多米多羅與芝芝開直播對質分手，據報2萬人同時在線。芝芝深夜發最終聲明公布分手時間線，多米多羅反控她雙標並與前男友聯絡，雙方互揭分手後查看手機等指控。"
     },
     "body": {
-      "en": "Lede: Taiwanese influencers Domi Duoluo and Zhizhi publicly addressed their breakup through a live voice call that attracted 20,000 concurrent viewers. What happened: Domi Duoluo confirmed the split during the stream, where Zhizhi was seen crying amid accusations of him contacting an ex-girlfriend and following adult video actresses. Domi Duoluo's sister posted a lengthy rebuttal claiming she witnessed the relationship dynamics and accusing Zhizhi of double standards and pretending to be a victim while staying in touch with a former partner. Domi Duoluo later posted an apology video admitting he used the worst method to express himself but insisted there was no cheating. Why it matters: The public live confrontation and family involvement amplified online scrutiny, leading to declining follower counts for Domi Duoluo and widespread discussion of breakup etiquette among Taiwanese internet celebrities. Sources agree/disagree: All outlets report the same sequence of the live stream, sister's defense, and subsequent apology without conflicting details. Still uncertain: Exact reasons for the initial split and full private messages remain partially unverified beyond the participants' statements.",
-      "zh-TW": "導言：台灣網紅多米多羅與芝芝透過直播語音通話公開討論分手，吸引2萬人同時在線觀看。 事件經過：多米多羅在直播中證實分手，芝芝當場哭泣，過程中遭控聯絡前女友及追蹤成人影片女優。多米多羅大姊發長文護航，聲稱自己清楚兩人相處情況，指控芝芝雙標裝受害者並與前男友持續聯絡。多米多羅事後發布影片道歉，承認用了最糟的方式表達，但強調絕無出軌。 事件意義：公開直播對質與家屬介入使爭議擴大，導致多米多羅追蹤人數下滑，也引發台灣網路名人分手禮儀的廣泛討論。 來源共識與分歧：所有報導均描述相同直播流程、大姊護航及後續道歉，無衝突細節。 仍未確定：分手初始原因及完整私下對話內容，僅依參與者陳述部分未經證實。"
+      "en": "Lede: 多米多羅 and 芝芝 staged a public live stream showdown over their breakup, attracting 20,000 simultaneous viewers according to ETtoday reports. What happened: 芝芝 posted a late-night final statement outlining the full breakup timeline. 多米多羅 countered by accusing her of double standards and maintaining contact with an ex-boyfriend after the split. Additional claims included post-breakup phone checks and earlier disputes over birthday meal payments. Why it matters: The public exchange highlights ongoing social media dynamics in Taiwanese internet celebrity breakups, drawing large audiences to real-time confrontations. Sources agree/disagree: Multiple outlets including ETtoday星光雲 and 三立娛樂星聞 consistently report the live stream viewer count and mutual accusations without conflicting details on events. Still uncertain: Specific outcomes of the live stream beyond viewer numbers and initial statements remain unclarified in the provided sources.",
+      "zh-TW": "導言：多米多羅與芝芝舉行公開直播對質分手，ETtoday報導吸引2萬人同時在線觀看。 事件經過：芝芝深夜發布最終聲明，公開分手完整時間線。多米多羅反擊指控她雙標裝受害者，並爆料分手後仍與前男友聯絡。另有分手後查看手機及生日餐未AA等舊帳翻出。 為何重要：這場公開對質反映台灣網紅分手事件在社群媒體上的持續發酵，吸引大量觀眾即時關注。 來源一致／分歧：ETtoday星光雲與三立娛樂星聞等多個 outlets 一致報導直播觀看人數及雙方互控，未見事件細節衝突。 仍未確定：直播對質後的具體結果，除觀看人數與初始聲明外，來源未進一步澄清。"
     },
     "sources": [
       {
         "name": "ETtoday 影劇",
-        "url": "https://star.ettoday.net/news/3240963"
+        "url": "https://star.ettoday.net/news/3241619"
       },
       {
-        "name": "Google News TW 娛樂",
-        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWWo4XzRTVHRtV1pKM1BkSDRJTHFjaFVYSWR2Rk1odkZPaklYNnp6dFd3NHdZb0QxWF85QXQ3Z1NMVEhxUHhodks4VVNWRnVNQnBMY252dEptQ2M4N3l1OXNFa2FsNlpQTHFiWlJrRHlFTWJDTVdnbjI4bGVyeDJqckp2V2NmRW00RzJvZ1ppUmpORWNSMDBrU0d5ZjlVdmd1a1FCUmhsTG80dk1XaHNpRVE2UFd3MTBEMGZYTmZOdHZhVzB2ZzhwV2JIOEF0aERrRWVPWXlTT203aFNvZmM2YldJbWtRQlVCM0lkZTFEbGdrOWlmZW9qSGpGQ1h2bWlvUXNhbXZnNFltMTk4SE9XMTcyeTZVNFQxT09oOFZ6c044Zk5GUWRqR1ZPQmw0UEN1dEdYTzJEV1BaVFpoT2k0VW5MemFSejdIMkU2OVd3alktZG55Wl9qbE4zS3ZyMTlpNnpzOGsxOE54Vno5LTlfay1ndi00QUFUakoyd21MZkg4ZDVKQ0hSLWs1R0d0RDBoZFoyMlNUbVI?oc=5"
-      },
-      {
-        "name": "GNews site:setn 分手/婚",
+        "name": "Google News TW Entertainment",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA0NVU1OURNWllmZmJIdDRpSjBrdVdUWEV5WWlrcV9XdzNrdmFxZkZPSDNkQ3JIS3A5WWFXNXJnbEhwOUpqVC1kWUV30gFfQVVfeXFMTl9pVUNlRGx6T3I0Nnp3RzVzUHgxb1d4WGtWbEtNVFZvcjkwUGdpV3BEVWExS0hMTUQ2ZHhpQWJEVVYwYlBMaTgyMURrc2dTQWhTUU5LcEJ3R195VVpRcDg?oc=5"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdVhmS2JyZ1lENTZHYUhrSlhnRzk0bWlKMXE1em1wSEQtRHlrVnkxV2RPVFRyWU4tVlVZRTVBQUlQRi0yZzRkc3E3ZktUemlwUjRQN1VDbDJtb0dLUzMyNlF0NXBFWmI4TEhhSUFaYU40WmRzeXA4dkNTd2otMWN3U0txc2l3Zw?oc=5"
+      },
+      {
+        "name": "tvbs.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iLWdvSENfYmFXYUlXVTZKTklVakc1em9NU1FkMEwxSXNHR3BwU0lpRWlVNVVCb0E4WnB2cmlCcFgwWGl4WU02VlVpMll5RnowY09KWjMzQTd4OHZHb3Y2b0xNSQ?oc=5"
       }
     ],
     "disagreements": {
-      "en": "Figures differ across outlets (e.g. 19 vs 2 in headlines/snippets).",
-      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 19 比 2）。"
+      "en": "Figures differ across outlets (e.g. 2 vs 10 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 2 比 10）。"
     },
     "glossary": [
       {
         "term": {
-          "en": "Domi Duoluo",
-          "zh-TW": "多米多羅（Domi Duoluo）"
+          "en": "多米多羅",
+          "zh-TW": "多米多羅（Domidora）"
         },
         "blurb": {
-          "en": "Taiwanese internet celebrity and YouTuber involved in the publicized breakup.",
-          "zh-TW": "台灣網紅與YouTuber，公開分手事件主角。"
+          "en": "Taiwanese Youtuber involved in publicized breakup.",
+          "zh-TW": "台灣Youtuber，涉入公開分手事件。"
         }
       },
       {
         "term": {
-          "en": "Zhizhi",
-          "zh-TW": "芝芝（Zhizhi）"
+          "en": "芝芝",
+          "zh-TW": "芝芝（Chichi）"
         },
         "blurb": {
-          "en": "Taiwanese internet personality and former partner of Domi Duoluo.",
-          "zh-TW": "台灣網路名人，多米多羅前女友。"
+          "en": "Girlfriend of 多米多羅 who issued breakup timeline statement.",
+          "zh-TW": "多米多羅女友，發布分手時間線聲明。"
         }
       }
     ],
     "trustScore": 55,
     "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 13,
-      "crossCorroboration": 14,
-      "recencyClarity": 23
+      "sourceDiversity": 25,
+      "outletReputation": 11,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
     },
     "tags": [
       "eastAsiaGossip",
@@ -656,50 +1038,152 @@
       "region:tw",
       "ettoday-影劇",
       "google-news-tw-entertainment",
-      "google-news-tw-娛樂"
+      "gnews-site:ettoday-分手/復合/婚"
     ],
     "region": "tw"
   },
   {
-    "id": "live-tech-02-6-days-left-to-save-up-t",
-    "category": "tech",
+    "id": "live-international-02-cnn-ms-now-and-politico-",
+    "category": "international",
     "adult": false,
     "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-tech-02-6-days-left-to-save-up-t.png",
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-cnn-ms-now-and-politico-.jpg",
     "imageAlt": {
-      "en": "Cover related to: 6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "zh-TW": "相關封面圖：TechCrunch Disrupt 2026（TechCrunch Disrupt 2026）：剩6天可省200美元"
+      "en": "Cover related to: CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "zh-TW": "相關封面圖：CNN、MS Now（MSNBC）和Politico對川普白宮禁令提起訴訟"
     },
-    "publishedAt": "2026-09-20T21:41:08.000Z",
+    "publishedAt": "2026-09-22T00:16:06.000Z",
     "title": {
-      "en": "TechCrunch Disrupt 2026: 6 Days Left to Save Up to $200",
-      "zh-TW": "TechCrunch Disrupt 2026（TechCrunch Disrupt 2026）：剩6天可省200美元"
+      "en": "CNN, MS Now and Politico File Lawsuit Against Trump White House Ban",
+      "zh-TW": "CNN、MS Now（MSNBC）和Politico對川普白宮禁令提起訴訟"
     },
     "summary": {
-      "en": "TechCrunch announces that current ticket pricing for Disrupt 2026 ends in 6 days on September 25 at 11:59 p.m. PT. Buyers can save up to $200 before the deadline. The event is expected to draw over 10,000 founders, investors and tech leaders.",
-      "zh-TW": "TechCrunch宣布，Disrupt 2026（TechCrunch Disrupt 2026）目前票價將於6天後即9月25日晚間11:59 PT截止。購票者可在此期限前省下最多200美元。活動預計吸引逾萬名創辦人、投資人與科技領袖參加。"
+      "en": "CNN, MS Now (formerly MSNBC) and Politico sued the Trump administration after their White House access badges were disabled. The outlets accuse the president of violating the US constitution by banning them over coverage. The suit was filed Monday in US district court. Major networks later suspended White House TV coverage as Trump heads to the UN summit.",
+      "zh-TW": "CNN、MS Now（MSNBC）和Politico在白宮通行證被停用後，對川普政府提起訴訟。這些媒體指控總統因報導而禁止它們進入白宮，違反美國憲法。訴訟於週一在聯邦地區法院提起。主要電視網後來暫停白宮報導，因川普前往聯合國峰會。"
     },
     "body": {
-      "en": "Lede: TechCrunch reports a final 6-day window to secure discounted tickets for its Disrupt 2026 event. What happened: Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Attendees who purchase before the cutoff can save up to $200 on their ticket. Why it matters: The promotion encourages early registration for the gathering that will host 10,000+ founders, investors and tech leaders. Sources agree/disagree: Only one source is available and it provides consistent details on the deadline and savings. Still uncertain: No additional details on ticket tiers or event agenda are provided in the source.",
-      "zh-TW": "導言：TechCrunch報導，Disrupt 2026（TechCrunch Disrupt 2026）活動的折扣票價僅剩6天期限。 事件經過：目前票價將於6天後即9月25日晚間11:59 PT截止。在此之前購票可省下最多200美元。 重要性：此促銷鼓勵早鳥註冊，活動預計聚集逾萬名創辦人、投資人與科技領袖。 來源一致或分歧：僅有一個來源提供期限與省錢資訊，內容一致。 仍未確定：來源未提供票種細節或活動議程。"
+      "en": "Lede: CNN, MS Now and Politico have filed a lawsuit against the Trump White House after being banned from the premises. What happened: Three news organizations – CNN, MS Now (formerly MSNBC) and Politico – that have been denied access to the White House have sued to regain their ability to enter the building. The suit was filed on Monday morning in the US district court. President Trump announced the ban on his Truth Social platform on Friday, expelling the outlets effective immediately over what he called their constant fake news reporting. Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit. Why it matters: In what will be one of the largest battles yet between the press and Donald Trump’s administration, the outlets accuse the president of violating the US constitution. Trump has overseen an unprecedented restriction of access for major news media since the start of his second term. Sources agree/disagree: All sources confirm the lawsuit filing, the ban announcement on Truth Social, and the outlets involved. Still uncertain: Details on the exact court outcome or further network actions remain pending.",
+      "zh-TW": "導言：CNN、MS Now（MSNBC）和Politico在被禁止進入白宮後，已對川普白宮提起訴訟。 事件經過：被拒絕進入白宮的三家新聞機構——CNN、MS Now（MSNBC）和Politico——已提起訴訟以恢復進入該建築的能力。訴訟於週一上午在美國聯邦地區法院提起。總統川普週五在Truth Social平台上宣布禁令，立即驅逐這些媒體，理由是它們不斷的假新聞報導。主要美國電視網後來暫停對川普的白宮電視報導，因他前往紐約參加聯合國峰會。 重要性：在媒體與唐納·川普政府之間最大戰役之一中，這些媒體指控總統違反美國憲法。自第二任期開始以來，川普已對主要新聞媒體實施前所未有的進入限制。 來源一致/分歧：所有來源均確認訴訟提起、Truth Social上的禁令宣布以及涉及的媒體。 仍不確定：法院確切結果或進一步電視網行動的細節仍有待確定。"
     },
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit"
       }
     ],
     "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "TechCrunch Disrupt 2026",
-          "zh-TW": "TechCrunch Disrupt 2026（TechCrunch Disrupt 2026）"
+          "en": "CNN",
+          "zh-TW": "CNN（CNN）"
         },
         "blurb": {
-          "en": "Tech event organized by TechCrunch.",
-          "zh-TW": "由TechCrunch舉辦的科技活動。"
+          "en": "Major US news network that filed the lawsuit.",
+          "zh-TW": "提起訴訟的主要美國新聞網絡。"
+        }
+      },
+      {
+        "term": {
+          "en": "MS Now",
+          "zh-TW": "MS Now（MSNBC）"
+        },
+        "blurb": {
+          "en": "News outlet formerly known as MSNBC that sued the White House.",
+          "zh-TW": "曾稱MSNBC、對白宮提起訴訟的新聞機構。"
+        }
+      },
+      {
+        "term": {
+          "en": "Politico",
+          "zh-TW": "Politico（Politico）"
+        },
+        "blurb": {
+          "en": "News organization that joined the lawsuit against the access ban.",
+          "zh-TW": "加入反對進入禁令訴訟的新聞機構。"
+        }
+      },
+      {
+        "term": {
+          "en": "Truth Social",
+          "zh-TW": "Truth Social（Truth Social）"
+        },
+        "blurb": {
+          "en": "Platform where the ban was announced.",
+          "zh-TW": "宣布禁令的平台。"
+        }
+      }
+    ],
+    "trustScore": 72,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 16,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "the-guardian-business",
+      "the-guardian-business"
+    ]
+  },
+  {
+    "id": "live-tech-02-the-man-who-built-apple-",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-02-the-man-who-built-apple-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "zh-TW": "相關封面圖：隆·強森（Ron Johnson）不認同矽谷人工智慧購物願景"
+    },
+    "publishedAt": "2026-09-21T23:44:28.000Z",
+    "title": {
+      "en": "Ron Johnson Rejects Silicon Valley AI Shopping Vision",
+      "zh-TW": "隆·強森（Ron Johnson）不認同矽谷人工智慧購物願景"
+    },
+    "summary": {
+      "en": "Apple Store architect Ron Johnson states that Apple's success has always come from its people. He does not support Silicon Valley's focus on AI for shopping experiences.",
+      "zh-TW": "蘋果商店（Apple Store）建築師隆·強森（Ron Johnson）表示，蘋果的成功一直來自其員工。他不支持矽谷對購物體驗使用人工智慧的重點。"
+    },
+    "body": {
+      "en": "Lede: Ron Johnson, the architect behind Apple's stores, challenges Silicon Valley's push for AI in retail. What happened: According to TechCrunch, Ron Johnson says Apple's secret sauce has always been its people. Why it matters: This view contrasts with industry bets on AI-driven shopping tools. Sources agree/disagree: Only one source reports this position. Still uncertain: No additional details on specific AI technologies or counterarguments are provided.",
+      "zh-TW": "導言：蘋果商店的建築師隆·強森（Ron Johnson）質疑矽谷在零售業推動人工智慧。 事件經過：根據TechCrunch報導，隆·強森（Ron Johnson）表示蘋果的秘訣一直來自其員工。 重要性：此觀點與產業對人工智慧購物工具的投注形成對比。 來源同意或不同意：僅有一個來源報導此立場。 仍不確定：未提供關於特定人工智慧技術或反對論點的額外細節。"
+    },
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Ron Johnson",
+          "zh-TW": "隆·強森（Ron Johnson）"
+        },
+        "blurb": {
+          "en": "Architect of Apple Stores.",
+          "zh-TW": "蘋果商店的建築師。"
+        }
+      },
+      {
+        "term": {
+          "en": "Apple",
+          "zh-TW": "蘋果（Apple）"
+        },
+        "blurb": {
+          "en": "Technology company known for its retail stores.",
+          "zh-TW": "以零售商店聞名的科技公司。"
         }
       }
     ],
@@ -717,525 +1201,140 @@
     ]
   },
   {
-    "id": "live-ai-02-new-insights-from-google",
-    "category": "ai",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-ai-02-new-insights-from-google.webp",
-    "imageAlt": {
-      "en": "Cover related to: New insights from Google’s AI & Economy ATLAS",
-      "zh-TW": "相關封面圖：谷歌（Google）的 AI & Economy ATLAS 帶來新見解"
-    },
-    "publishedAt": "2026-09-18T14:00:00.000Z",
-    "title": {
-      "en": "Google’s AI & Economy ATLAS Delivers New Insights",
-      "zh-TW": "谷歌（Google）的 AI & Economy ATLAS 帶來新見解"
-    },
-    "summary": {
-      "en": "Google AI Blog reports expansion of its AI & Economy team with academic advisors, fellows, and researchers. It also highlights translation of ATLAS’s millions of global data points into an interactive open-access experience for users.",
-      "zh-TW": "Google AI Blog 報導擴展 AI & Economy 團隊，加入學術顧問、研究員與內部研究人員，並將 ATLAS 的數百萬全球數據點轉化為互動開放存取體驗。"
-    },
-    "body": {
-      "en": "Lede: Google AI Blog highlights updates to its AI & Economy initiatives including team growth and ATLAS tool enhancements. What happened: The blog states the AI & Economy team is expanding with world-class academic advisors, fellows, and core internal researchers. It also notes translation of ATLAS’s millions of global data points into an interactive, open-access experience. Why it matters: These developments support broader research access and expertise in AI economics according to the sources. Sources agree/disagree: Both items from Google AI Blog align without conflict on team expansion and ATLAS data translation. Still uncertain: No additional details on specific advisors or exact ATLAS features beyond the provided snippets.",
-      "zh-TW": "Lede: Google AI Blog 強調其 AI & Economy 計畫的更新，包括團隊成長與 ATLAS 工具強化。 What happened: 部落格指出 AI & Economy 團隊正擴展，加入世界級學術顧問、研究員與核心內部研究人員。它也提到將 ATLAS 的數百萬全球數據點轉化為互動開放存取體驗。 Why it matters: 這些發展依據來源支持 AI 經濟領域的更廣泛研究存取與專業知識。 Sources agree/disagree: 兩則 Google AI Blog 內容在團隊擴展與 ATLAS 數據轉化上無衝突。 Still uncertain: 除提供的片段外，無特定顧問或 ATLAS 確切功能的額外細節。"
-    },
-    "sources": [
-      {
-        "name": "Google AI Blog",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
-      }
-    ],
-    "disagreements": null,
-    "glossary": [
-      {
-        "term": {
-          "en": "Google",
-          "zh-TW": "谷歌（Google）"
-        },
-        "blurb": {
-          "en": "Organization publishing AI & Economy team and ATLAS updates.",
-          "zh-TW": "發布 AI & Economy 團隊與 ATLAS 更新的組織。"
-        }
-      },
-      {
-        "term": {
-          "en": "ATLAS",
-          "zh-TW": "ATLAS"
-        },
-        "blurb": {
-          "en": "AI & Economy data tool with millions of global data points.",
-          "zh-TW": "擁有數百萬全球數據點的 AI & Economy 數據工具。"
-        }
-      }
-    ],
-    "trustScore": 51,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 18,
-      "crossCorroboration": 8,
-      "recencyClarity": 17
-    },
-    "tags": [
-      "ai",
-      "live-ingest",
-      "google-ai-blog",
-      "google-ai-blog"
-    ]
-  },
-  {
-    "id": "live-finance-01-nvidia-ceo-jensen-huang-",
-    "category": "finance",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-finance-01-nvidia-ceo-jensen-huang-.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-      "zh-TW": "相關封面圖：詹森·黃（Jensen Huang）成為川普（Trump）在人工智慧安全辯論中的首要盟友"
-    },
-    "publishedAt": "2026-09-20T18:50:18.000Z",
-    "title": {
-      "en": "Jensen Huang Emerges as Trump's Top Ally in AI Safety Debate",
-      "zh-TW": "詹森·黃（Jensen Huang）成為川普（Trump）在人工智慧安全辯論中的首要盟友"
-    },
-    "summary": {
-      "en": "Nvidia CEO Jensen Huang's role leading the world's most valuable company has given him influence with Trump on key AI topics. He states there is a 0% chance of AI ending the world and calls alarm-raising irresponsible.",
-      "zh-TW": "身為全球最有價值公司領導者的輝達（Nvidia）執行長詹森·黃（Jensen Huang），因此在人工智慧重要議題上獲得川普（Trump）的關注。他表示人工智慧終結世界的機率為0%，並稱發出警報是不負責任的行為。"
-    },
-    "body": {
-      "en": "Lede: Nvidia CEO Jensen Huang has become a prominent voice aligned with Trump on AI safety issues. What happened: CNBC reports that Huang's position as leader of the world's most valuable company has earned him Trump's ear on the most important topics in AI. The Verge notes Huang's view that AI fears are overblown, citing his CBS Sunday Morning interview where he claimed a 0% chance of AI ending the world and described scaring people as unnecessary and irresponsible. He also referenced calls from CEOs like Anthropic's Dario Amodei and OpenAI's Sam. Why it matters: Huang's stance contrasts with other AI leaders and positions him as an influential figure in policy discussions due to Nvidia's market dominance. Sources agree/disagree: Both sources highlight Huang downplaying existential AI risks without conflicting details. Still uncertain: Specific outcomes of Huang's discussions with Trump remain unspecified in the provided sources.",
-      "zh-TW": "導言：輝達（Nvidia）執行長詹森·黃（Jensen Huang）已成為川普（Trump）在人工智慧安全議題上的重要盟友。 事件經過：CNBC報導指出，詹森·黃（Jensen Huang）身為全球最有價值公司的領導者，因此在人工智慧重要議題上獲得川普（Trump）的關注。The Verge指出詹森·黃（Jensen Huang）認為人工智慧恐懼被過度渲染，引用他在CBS Sunday Morning的訪談，他宣稱人工智慧終結世界的機率為0%，並表示嚇唬民眾是不必要且不負責任的行為。他也提及Anthropic的達里奧·阿莫代伊（Dario Amodei）與OpenAI的Sam等執行長的呼籲。 重要性：詹森·黃（Jensen Huang）的立場與其他人工智慧領導者形成對比，並因輝達（Nvidia）的市場主導地位而使其在政策討論中具影響力。 來源一致與分歧：兩則來源均強調詹森·黃（Jensen Huang）淡化人工智慧存在風險，無衝突細節。 仍未確定：詹森·黃（Jensen Huang）與川普（Trump）討論的具體結果在來源中未具體說明。"
-    },
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html"
-      },
-      {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
-      }
-    ],
-    "disagreements": null,
-    "glossary": [
-      {
-        "term": {
-          "en": "Jensen Huang",
-          "zh-TW": "詹森·黃（Jensen Huang）"
-        },
-        "blurb": {
-          "en": "CEO of Nvidia.",
-          "zh-TW": "輝達（Nvidia）的執行長。"
-        }
-      },
-      {
-        "term": {
-          "en": "Nvidia",
-          "zh-TW": "輝達（Nvidia）"
-        },
-        "blurb": {
-          "en": "Company led by Jensen Huang, described as the world's most valuable.",
-          "zh-TW": "由詹森·黃（Jensen Huang）領導的公司，被描述為全球最有價值。"
-        }
-      },
-      {
-        "term": {
-          "en": "Dario Amodei",
-          "zh-TW": "達里奧·阿莫代伊（Dario Amodei）"
-        },
-        "blurb": {
-          "en": "CEO of Anthropic.",
-          "zh-TW": "Anthropic的執行長。"
-        }
-      }
-    ],
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 18,
-      "crossCorroboration": 15,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "finance",
-      "live-ingest",
-      "cnbc",
-      "the-verge"
-    ]
-  },
-  {
-    "id": "live-international-03-hundreds-of-drones-targe",
-    "category": "international",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-03-hundreds-of-drones-targe.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Hundreds of Drones Target Moscow on Final Day of Russian Elections",
-      "zh-TW": "相關封面圖：數百架無人機在俄羅斯選舉最後一天襲擊莫斯科（Moscow）"
-    },
-    "publishedAt": "2026-09-20T20:39:23.000Z",
-    "title": {
-      "en": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
-      "zh-TW": "數百架無人機在俄羅斯選舉最後一天襲擊莫斯科（Moscow）"
-    },
-    "summary": {
-      "en": "Ukraine launched hundreds of drones at Moscow during the final day of Russian elections. Moscow's mayor called it the largest attack on the capital, with reports of downed drones, damage to an oil refinery and residential building, and two deaths. Ukraine also mentioned using a new ballistic missile in broader strikes on Russia.",
-      "zh-TW": "烏克蘭（Ukraine）在俄羅斯選舉最後一天向莫斯科（Moscow）發射數百架無人機。莫斯科市長稱這是首都歷來最大攻擊，包含油廠與住宅受損，以及兩人死亡。烏克蘭提及使用新型彈道飛彈攻擊俄羅斯其他地區。"
-    },
-    "body": {
-      "en": "Lede: Ukraine directed hundreds of drones toward Moscow on the final day of Russian elections, marking the largest reported attack on the capital. What happened: Sources describe an overnight barrage where Moscow's mayor reported 450 drones downed, with two deaths. Damage occurred at a Moscow oil refinery and a residential building. Ukraine stated it fired over 1,000 drones total at Russia and used a newly developed ballistic missile in attacks targeting multiple regions. Why it matters: The scale of the drone operation during elections highlights intensified Ukrainian strikes on Russian territory, including the capital, with potential implications for civilian areas and infrastructure. Sources agree/disagree: All sources confirm Ukraine's drone attacks on Moscow and other Russian areas during the election period. They agree on the mayor describing it as the largest attack. Still uncertain: Exact drone totals vary across reports, with only some mentioning deaths, specific damage sites, or the ballistic missile use.",
-      "zh-TW": "導言：烏克蘭（Ukraine）在俄羅斯選舉最後一天向莫斯科（Moscow）發射數百架無人機，這是首都歷來最大規模攻擊。 事件經過：消息來源描述夜間攻擊，莫斯科市長表示有四百五十架無人機被擊落，並有兩人死亡。莫斯科一處油廠與住宅建築受損。烏克蘭表示總共向俄羅斯發射超過一千架無人機，並在多地攻擊中使用新型彈道飛彈。 重要性：選舉期間對首都的大規模無人機行動，顯示烏克蘭對俄羅斯境內攻擊加劇，可能影響平民區與基礎設施。 來源一致與分歧：所有來源均確認烏克蘭在選舉期間對莫斯科及其他俄羅斯地區發動無人機攻擊，並同意市長描述為最大攻擊。 仍未確定：各報導對無人機總數有差異，僅部分提及死亡、特定損害地點或彈道飛彈使用。"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow"
-      },
-      {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html"
-      }
-    ],
-    "disagreements": {
-      "en": "Sources differ on total drones fired (450 downed vs over 1,000), mention of deaths, specific damage to refinery and building, and use of a new ballistic missile.",
-      "zh-TW": "來源對無人機總數（四百五十架被擊落與超過一千架）、死亡人數、油廠與住宅損害，以及新型彈道飛彈使用有分歧。"
-    },
-    "glossary": [
-      {
-        "term": {
-          "en": "Moscow",
-          "zh-TW": "莫斯科（Moscow）"
-        },
-        "blurb": {
-          "en": "Capital city of Russia targeted in the drone attacks.",
-          "zh-TW": "俄羅斯首都，遭無人機攻擊目標。"
-        }
-      },
-      {
-        "term": {
-          "en": "Ukraine",
-          "zh-TW": "烏克蘭（Ukraine）"
-        },
-        "blurb": {
-          "en": "Country that launched the drone strikes on Russia.",
-          "zh-TW": "對俄羅斯發動無人機攻擊的國家。"
-        }
-      },
-      {
-        "term": {
-          "en": "Russia",
-          "zh-TW": "俄羅斯（Russia）"
-        },
-        "blurb": {
-          "en": "Country holding elections during the reported attacks.",
-          "zh-TW": "選舉期間遭攻擊的國家。"
-        }
-      }
-    ],
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 18,
-      "crossCorroboration": 14,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-world",
-      "npr-world",
-      "nyt-world"
-    ]
-  },
-  {
-    "id": "live-entertainment-02-lindsay-clancy-s-ex-patr",
+    "id": "live-entertainment-02-dolly-parton-s-nephew-br",
     "category": "entertainment",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-02-lindsay-clancy-s-ex-patr.jpg",
+    "imageUrl": "/covers/live/live-entertainment-02-dolly-parton-s-nephew-br.jpg",
     "imageAlt": {
-      "en": "Cover related to: Lindsay Clancy's Ex Patrick Reveals He Held Son Callan In His Arms As He Died",
-      "zh-TW": "相關封面圖：派崔克·克蘭西（Patrick Clancy）在《60分鐘》訪談中透露抱著兒子卡倫（Callan）離世"
+      "en": "Cover related to: Dolly Parton’s Nephew Bryan Seaver, Security Companies Fired From Her Properties Following Her Death",
+      "zh-TW": "相關封面圖：布萊恩·西弗（Bryan Seaver）在桃莉·帕頓（Dolly Parton）逝世後遭解雇安保職務"
     },
-    "publishedAt": "2026-09-20T23:41:04.000Z",
+    "publishedAt": "2026-09-21T23:54:36.000Z",
     "title": {
-      "en": "Patrick Clancy Reveals Holding Son Callan As He Died During 60 Minutes Interview",
-      "zh-TW": "派崔克·克蘭西（Patrick Clancy）在《60分鐘》訪談中透露抱著兒子卡倫（Callan）離世"
+      "en": "Bryan Seaver Fired From Dolly Parton Security Role After Her Death",
+      "zh-TW": "布萊恩·西弗（Bryan Seaver）在桃莉·帕頓（Dolly Parton）逝世後遭解雇安保職務"
     },
     "summary": {
-      "en": "Patrick Clancy shared in a 60 Minutes interview how he held his dying son Callan. TMZ and Hollywood Life report on the emotional discussion following Lindsay Clancy's mistrial. He appeared alongside new wife Rachel Danis, with coverage also noting their marriage timeline and meeting story.",
-      "zh-TW": "派崔克·克蘭西（Patrick Clancy）在《60分鐘》訪談中分享抱著兒子卡倫（Callan）離世的經歷。TMZ與Hollywood Life報導此情緒訪談，背景為琳賽·克蘭西（Lindsay Clancy）審判未決。他與新婚妻子瑞秋·丹尼斯（Rachel Danis）一同現身，相關報導提及婚姻時間線。"
+      "en": "Dolly Parton's nephew Bryan Seaver and his security companies were terminated from protecting her properties including the Nashville home and museum. The move follows her death and is linked to an estate dispute according to reports from Just Jared and TMZ.",
+      "zh-TW": "桃莉·帕頓（Dolly Parton）的姪子布萊恩·西弗（Bryan Seaver）及其安保公司已從保護其納什維爾住宅與博物館等資產的職務中被解雇。此舉發生在她逝世之後，並與遺產爭議有關，消息來自Just Jared與TMZ。"
     },
     "body": {
-      "en": "Lede: Patrick Clancy described holding his son Callan as he died during an emotional 60 Minutes interview. What happened: TMZ reported Clancy's account of the moment with his son. Hollywood Life covered his appearance with new wife Rachel Danis after the mistrial in Lindsay Clancy's case, including details on their marriage and meeting. CBS News Crime clips showed Clancy stating he still talks to his kids all the time and believes he did the best he could. Why it matters: The interview provides Clancy's perspective weeks after the mistrial. Sources agree/disagree: Outlets align on the interview focus and family details without noted conflicts. Still uncertain: Specific outcomes of the mistrial and future plans remain unaddressed in sources.",
-      "zh-TW": "導言：派崔克·克蘭西（Patrick Clancy）在《60分鐘》情緒訪談中描述抱著兒子卡倫（Callan）離世的時刻。事件經過：TMZ報導克蘭西對兒子時刻的描述。Hollywood Life報導他在琳賽·克蘭西（Lindsay Clancy）審判未決後與新婚妻子瑞秋·丹尼斯（Rachel Danis）一同現身，包括婚姻與相識細節。CBS News Crime片段顯示克蘭西表示仍常與孩子交談，並認為已盡力。重要性：訪談提供克蘭西在審判未決數週後的觀點。來源一致或分歧：各媒體對訪談焦點與家庭細節一致，未見衝突。仍未確定：審判未決具體結果與未來計畫在來源中未提及。"
+      "en": "Lede: Bryan Seaver, nephew of the late Dolly Parton, has been removed from his role as head of security for her properties. What happened: Just Jared and TMZ report that Seaver received a termination notice on September 16 dismissing him and his companies immediately from all of Dolly Parton's properties. These include her main Nashville home, museum, and downtown residence. Seaver had announced her death and held the security position for a long time. Why it matters: The abrupt change is described as fueling an escalating war over her estate. Sources agree/disagree: Both Just Jared and TMZ describe the same termination of Seaver and his companies amid estate tensions. Still uncertain: Details on the exact parties issuing the notice or further estate proceedings are not specified in the provided sources.",
+      "zh-TW": "導言：已故桃莉·帕頓（Dolly Parton）的姪子布萊恩·西弗（Bryan Seaver）已被解除其擔任的安保主管職務。 事件經過：Just Jared與TMZ報導，西弗於9月16日收到解雇通知，他與其公司立即被解除在桃莉·帕頓所有資產的職務，包括她位於納什維爾的主要住宅、博物館以及市中心住所。西弗曾宣布她的死訊，並長期擔任安保職位。 重要性：此突然變動被描述為加劇了遺產爭議。 來源一致與分歧：Just Jared與TMZ均描述西弗及其公司遭解雇，並與遺產緊張局勢有關。 仍未確定：來源未提供發出通知的確切當事人或進一步遺產程序的細節。"
     },
     "sources": [
       {
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Just Jared",
+        "url": "https://www.justjared.com/2026/09/21/dolly-partons-nephew-bryan-seaver-security-companies-fired-from-her-properties-following-her-death/"
+      },
+      {
         "name": "TMZ",
-        "url": "https://www.tmz.com/2026/09/20/lindsay-clancy-ex-husband-patrick-was-holding-son-callan-when-he-died/"
-      },
-      {
-        "name": "Hollywood Life",
-        "url": "https://hollywoodlife.com/2026/09/20/does-patrick-clancy-have-kids-with-his-new-wife/"
-      },
-      {
-        "name": "CBS News Crime",
-        "url": "https://www.cbsnews.com/video/patrick-clancy-says-he-still-talks-to-his-kids-all-the-time/"
+        "url": "https://www.tmz.com/2026/09/21/dolly-parton-nephew-fired-estate-battle/"
       }
     ],
     "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "Patrick Clancy",
-          "zh-TW": "派崔克·克蘭西（Patrick Clancy）"
+          "en": "Bryan Seaver",
+          "zh-TW": "布萊恩·西弗（Bryan Seaver）"
         },
         "blurb": {
-          "en": "Ex-husband of Lindsay Clancy who appeared in 60 Minutes interview.",
-          "zh-TW": "琳賽·克蘭西（Lindsay Clancy）前夫，曾接受《60分鐘》訪談。"
+          "en": "Nephew of Dolly Parton and former head of security for her properties.",
+          "zh-TW": "桃莉·帕頓（Dolly Parton）的姪子，前任其資產安保主管。"
         }
       },
       {
         "term": {
-          "en": "Lindsay Clancy",
-          "zh-TW": "琳賽·克蘭西（Lindsay Clancy）"
+          "en": "Dolly Parton",
+          "zh-TW": "桃莉·帕頓（Dolly Parton）"
         },
         "blurb": {
-          "en": "Subject of mistrial case mentioned across sources.",
-          "zh-TW": "來源提及的審判未決案件主角。"
-        }
-      },
-      {
-        "term": {
-          "en": "Rachel Danis",
-          "zh-TW": "瑞秋·丹尼斯（Rachel Danis）"
-        },
-        "blurb": {
-          "en": "New wife of Patrick Clancy featured in Hollywood Life reports.",
-          "zh-TW": "Hollywood Life報導中派崔克·克蘭西（Patrick Clancy）的新婚妻子。"
-        }
-      },
-      {
-        "term": {
-          "en": "60 Minutes",
-          "zh-TW": "《60分鐘》（60 Minutes）"
-        },
-        "blurb": {
-          "en": "CBS program that aired the Patrick Clancy interview.",
-          "zh-TW": "CBS節目，播出派崔克·克蘭西（Patrick Clancy）訪談。"
+          "en": "Late country music superstar whose properties and estate are referenced.",
+          "zh-TW": "已故鄉村音樂巨星，其資產與遺產被提及。"
         }
       }
     ],
     "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 24,
-      "outletReputation": 15,
+      "outletReputation": 11,
       "crossCorroboration": 22,
       "recencyClarity": 25
     },
     "tags": [
       "entertainment",
       "live-ingest",
-      "tmz",
-      "hollywood-life",
-      "hollywood-life"
+      "bbc-technology",
+      "just-jared",
+      "tmz"
     ]
   },
   {
-    "id": "live-eastAsiaGossip-04-6",
-    "category": "eastAsiaGossip",
+    "id": "live-international-03-18-suspects-accused-in-t",
+    "category": "international",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-04-6.png",
+    "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x4480+0+0/resize/6720x4480!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F12%2Fa7%2F5f3c28084c7f8ed6de22e098f443%2Fap26263665982776.jpg",
     "imageAlt": {
-      "en": "Cover related to: 6天才被發現！泰國女友提分手遭勒斃　科技男竟藏屍辦公室冰櫃 - 三立新聞",
-      "zh-TW": "相關封面圖：台中科技男據報勒斃泰籍女友後藏屍辦公室冰櫃"
+      "en": "Cover related to: 18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.",
+      "zh-TW": "相關封面圖：若韋內爾·莫伊塞（Jovenel Moïse）遇刺案：18名嫌犯引渡至美國"
     },
-    "publishedAt": "2026-09-19T10:41:00.000Z",
+    "publishedAt": "2026-09-22T00:00:26.000Z",
     "title": {
-      "en": "Taichung Tech Worker Allegedly Strangles Thai Girlfriend and Hides Body in Office Fridge",
-      "zh-TW": "台中科技男據報勒斃泰籍女友後藏屍辦公室冰櫃"
+      "en": "Jovenel Moïse Assassination: 18 Suspects Extradited to United States",
+      "zh-TW": "若韋內爾·莫伊塞（Jovenel Moïse）遇刺案：18名嫌犯引渡至美國"
     },
     "summary": {
-      "en": "Reports from Sanli News detail a case where a Thai woman visiting Taiwan to discuss a breakup was allegedly strangled by her tech boyfriend. He reportedly hid the body in a Taichung company fridge, with the discovery coming after six days. Additional coverage mentions premeditated transport using a suitcase.",
-      "zh-TW": "三立新聞報導指出，一名泰籍女子來台談分手，據稱遭科技男勒斃，屍體藏於台中公司冰櫃，六天後才被發現。另有報導提及預謀運屍使用行李箱。"
+      "en": "Eighteen suspects arrested in the 2021 killing of Haitian President Jovenel Moïse are being extradited to the U.S. to face justice in Florida, according to NPR World. The move follows their arrests related to the July 2021 assassination.",
+      "zh-TW": "根據NPR World報導，2021年海地總統若韋內爾·莫伊塞（Jovenel Moïse）遇刺案中被捕的18名嫌犯，正被引渡至美國佛羅里達州接受審判。此舉發生在他們於2021年7月遇刺案中被捕之後。"
     },
     "body": {
-      "en": "Lede: Sanli News reports cover an alleged murder in Taichung involving a tech worker and his Thai girlfriend. What happened: According to the sources, the Thai woman came to Taiwan to discuss breaking up and was allegedly strangled. The tech man reportedly hid the body in the office fridge at a Taichung company, with one snippet noting plans for Mid-Autumn barbecue use. Coverage also describes cold-blooded transport footage showing a suitcase used in a premeditated manner. The body was found after six days. Why it matters: The repeated coverage from the same outlet highlights details of the alleged crime and concealment methods. Sources agree/disagree: All provided sources from Sanli News describe the same core events without variation in key details. Still uncertain: No additional facts beyond the reported allegations and discovery timeline are available in the sources.",
-      "zh-TW": "導言：三立新聞報導涵蓋台中一起科技男與泰籍女友的據稱命案。 事件經過：來源指出，泰籍女子來台談分手，據稱遭勒斃。科技男據報將屍體藏於台中公司辦公室冰櫃，其中一則提及中秋烤肉用途。另有報導描述冷血運屍畫面，顯示使用行李箱進行預謀犯案。屍體於六天後被發現。 事件重要性：同一媒體的重複報導突顯據稱犯罪及隱藏方式的細節。 來源一致或分歧：所有三立新聞來源描述相同核心事件，關鍵細節無差異。 仍未確定：來源中除報導指控與發現時間外，無其他事實。"
+      "en": "Lede: Eighteen suspects in the 2021 assassination of Haitian President Jovenel Moïse are being extradited to the United States. What happened: The suspects, arrested following the July 2021 killing, were extradited on Sunday to face justice in Florida. Why it matters: The extradition brings the accused to U.S. courts for prosecution in a high-profile international case. Sources agree/disagree: Only one source reports on this event. Still uncertain: No additional details on the suspects' identities or trial timeline are available from the provided sources.",
+      "zh-TW": "導言：2021年海地總統若韋內爾·莫伊塞（Jovenel Moïse）遇刺案中的18名嫌犯正被引渡至美國。 事件經過：這些嫌犯在2021年7月遇刺案中被捕後，於週日被引渡至佛羅里達州接受審判。 重要性：此引渡將被告帶至美國法院，處理這起備受關注的國際案件。 來源一致／分歧：僅有一個來源報導此事件。 仍不確定：來源未提供嫌犯身分或審判時間表的其他細節。"
     },
     "sources": [
       {
-        "name": "GNews site:setn 分手/婚",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EYW4zM2wxWGJUTDNSM3RVTkJvTDVKYW9Qb3JYTEdXNHBILTN4ZWx6SlpoQmhSY2pqSHBwRjl3ZlFJOTgxbGJvT9IBTEFVX3lxTFBrdDN6Tmowc1h5Sjc5YnlxdlhWb1JHZkY1ajJpbzh2X0gtRVlJN1hseUpTLVNBWXN6UTU3Q0RXbWh4Y3RJMktrcUh2Rzg?oc=5"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 43,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 10,
-      "crossCorroboration": 8,
-      "recencyClarity": 17
-    },
-    "tags": [
-      "eastAsiaGossip",
-      "live-ingest",
-      "region:tw",
-      "gnews-site:setn-分手/婚",
-      "gnews-site:setn-分手/婚",
-      "gnews-site:setn-分手/婚"
-    ],
-    "region": "tw"
-  },
-  {
-    "id": "live-finance-02-oil-falls-as-crude-flows",
-    "category": "finance",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-finance-02-oil-falls-as-crude-flows.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Oil falls as crude flows remain 'surprisingly strong'",
-      "zh-TW": "相關封面圖：沙烏地阿拉伯（Saudi Arabia）原油流量推低油價"
-    },
-    "publishedAt": "2026-09-21T02:14:21.000Z",
-    "title": {
-      "en": "Saudi Arabia Crude Flows Push Oil Prices Lower",
-      "zh-TW": "沙烏地阿拉伯（Saudi Arabia）原油流量推低油價"
-    },
-    "summary": {
-      "en": "Oil prices fell Monday as traders monitored strong crude shipments from Saudi Arabia despite ongoing Mideast tensions. CNBC reported continued market focus on supply recovery amid geopolitical pressures in the region.",
-      "zh-TW": "週一油價下跌，交易員關注沙烏地阿拉伯（Saudi Arabia）原油出貨量維持強勁，儘管中東局勢持續升溫。CNBC報導市場持續留意供應恢復情況。"
-    },
-    "body": {
-      "en": "Lede: Oil prices declined on Monday amid persistently strong crude flows from Saudi Arabia.\nWhat happened: According to CNBC, traders watched for signs of recovering shipments from Saudi Arabia even as Mideast tensions escalated.\nWhy it matters: Strong supply levels continue to weigh on oil markets despite regional instability.\nSources agree/disagree: Only one source available.\nStill uncertain: Future shipment volumes and exact impact of tensions remain under observation.",
-      "zh-TW": "導言：週一油價因沙烏地阿拉伯（Saudi Arabia）原油流量持續強勁而下跌。\n事件經過：根據CNBC報導，交易員持續關注沙烏地阿拉伯（Saudi Arabia）出貨量恢復跡象，儘管中東局勢升溫。\n重要性：供應量維持高檔，在區域不穩下仍對油市造成壓力。\n來源一致或分歧：僅單一來源。\n仍未確定：未來出貨量及局勢確切影響仍在觀察中。"
-    },
-    "sources": [
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited"
+      },
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html"
+        "name": "CBS News Crime",
+        "url": "https://www.cbsnews.com/video/former-american-idol-contestant-sobs-court-accused-killing-wife/"
       }
     ],
     "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "Saudi Arabia",
-          "zh-TW": "沙烏地阿拉伯（Saudi Arabia）"
+          "en": "Jovenel Moïse",
+          "zh-TW": "若韋內爾·莫伊塞（Jovenel Moïse）"
         },
         "blurb": {
-          "en": "Major crude oil producer whose shipments traders are monitoring.",
-          "zh-TW": "主要原油生產國，其出貨量正受交易員關注。"
-        }
-      }
-    ],
-    "trustScore": 60,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 19,
-      "crossCorroboration": 8,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "finance",
-      "live-ingest",
-      "cnbc"
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-05-3-newtalk-line-today",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-05-3-newtalk-line-today.png",
-    "imageAlt": {
-      "en": "Cover related to: 米可白、孫綻分手了！認了3年情斷：退回朋友關係 | Newtalk - LINE TODAY",
-      "zh-TW": "相關封面圖：米可白（Miko Bai）、孫綻（Sun Zhan）分手 認了3年情斷退回朋友關係"
-    },
-    "publishedAt": "2026-09-21T01:52:38.000Z",
-    "title": {
-      "en": "Miko Bai and Sun Zhan End Three-Year Relationship, Return to Friends",
-      "zh-TW": "米可白（Miko Bai）、孫綻（Sun Zhan）分手 認了3年情斷退回朋友關係"
-    },
-    "summary": {
-      "en": "Taiwanese entertainers Miko Bai and Sun Zhan confirmed the end of their three-year romance, stating they have reverted to a friends-only relationship. The announcement appeared in Newtalk coverage on LINE TODAY.",
-      "zh-TW": "台灣藝人米可白（Miko Bai）與孫綻（Sun Zhan）證實結束3年戀情，雙方表示退回朋友關係。此消息出自Newtalk於LINE TODAY的報導。"
-    },
-    "body": {
-      "en": "Lede: Taiwanese celebrities Miko Bai and Sun Zhan have parted ways after three years together. What happened: The pair publicly acknowledged the breakup and clarified they are now back to being friends. Why it matters: The confirmation resolves ongoing speculation about the couple's status in the local entertainment circle. Sources agree/disagree: All available reports from the provided sources align on the breakup announcement without conflicting details. Still uncertain: No further timeline or reasons for the split were detailed in the sources.",
-      "zh-TW": "導言：台灣藝人米可白（Miko Bai）與孫綻（Sun Zhan）結束3年交往。 事件經過：雙方公開承認分手，並說明已退回朋友關係。 為何重要：此確認解決了娛樂圈對兩人感情狀態的持續猜測。 消息來源一致或分歧：所提供來源的報導均一致提及分手消息，無衝突細節。 仍未確定：來源未提供分手時間表或原因。"
-    },
-    "sources": [
-      {
-        "name": "Google News TW Entertainment",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9saGVSemI2cTZ6UldvLXlVR2p5bXNoUmdXcDhmSHhvbWZ0TUlPcXQ0OUN1MWRxUWpKUVg0a3VVM2p0dWsxTGxwOVl3ZDM4S1VlRnBxZ3d3?oc=5"
-      },
-      {
-        "name": "GNews TW 分手+藝人/明星",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE42VkU3SzZTRTB1cl8wYWJiZzlTOXpMemNnZXVfendPT1RVWWJrSllkbkNNV0ptNXVIamMyTFNLbTFZMzRRSGRuQ2hB?oc=5"
-      },
-      {
-        "name": "GNews TW 婚變/離婚+藝人",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWZkRGZ2w4MXl2NUZhZ01yemFJUnRBVFJDT1ZzSXVWNzdoTkNUTENJQ3BfWDduWnZEajZLTDFEcFotdDJnQVBUSVZjLS1rRWhVMXUtX0pob0poZw?oc=5"
-      },
-      {
-        "name": "GNews TW 婚變/離婚+藝人",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdXBZYzBCWDhFQVlrMk1oZkl5ZVZNNWlOVV9Zc2pTcThrdXFQSFBmdmFqc2k0WGNtdjZOdEkyWEZlWFFfbUtMSU1Lc01xMVU3T2p0MEFZMWdYVl9WaFdhbXg0NHB0aE4tUTRQYmtkYjNaemdxWm9EQ1hpR1Zrb21MbmY0SHNHanlRXzBJeG9IRUNzUjY3b0MySjlWUGJzMUh0T3hlZC1rU3dWajB2dXhVc1hSRHBaOHRrR0pxSGdIYmFickRTZnFTSmtmNk5UR3ZBamU1bW1VRFNGYlN4d1UwT0FTT0REbVduMXZjV1daeUxWUmxvaDlwc1ZrSTU4cnBTMVkxRnVQUV85aUxtTFVR?oc=5"
-      }
-    ],
-    "disagreements": {
-      "en": "Figures differ across outlets (e.g. 7 vs 12 in headlines/snippets).",
-      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 7 比 12）。"
-    },
-    "glossary": [
-      {
-        "term": {
-          "en": "Miko Bai",
-          "zh-TW": "米可白（Miko Bai）"
-        },
-        "blurb": {
-          "en": "Taiwanese entertainer mentioned in breakup report.",
-          "zh-TW": "台灣藝人，見於分手報導。"
-        }
-      },
-      {
-        "term": {
-          "en": "Sun Zhan",
-          "zh-TW": "孫綻（Sun Zhan）"
-        },
-        "blurb": {
-          "en": "Taiwanese entertainer mentioned in breakup report.",
-          "zh-TW": "台灣藝人，見於分手報導。"
+          "en": "President of Haiti assassinated in July 2021.",
+          "zh-TW": "2021年7月遇刺的海地總統。"
         }
       }
     ],
     "trustScore": 55,
     "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 11,
-      "crossCorroboration": 17,
+      "sourceDiversity": 16,
+      "outletReputation": 22,
+      "crossCorroboration": 15,
       "recencyClarity": 25
     },
     "tags": [
-      "eastAsiaGossip",
+      "international",
       "live-ingest",
-      "region:tw",
-      "google-news-tw-entertainment",
-      "google-news-tw-entertainment",
-      "google-news-tw-娛樂"
-    ],
-    "region": "tw"
+      "npr-world",
+      "cbs-news-crime"
+    ]
   }
 ]

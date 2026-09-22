@@ -601,8 +601,11 @@ async function main() {
 
   const clusters = clusterItems(allItems);
   console.info(`[ingest] ${clusters.length} clusters before pick`);
-  // Small ingest: ≤16 stories → ≤16 LLM digests
-  const picked = pickBalancedClusters(clusters, 12, 16, {
+  // Small ingest: digest only on picked. Override with AXIOM_PICK_MIN / AXIOM_PICK_MAX.
+  const pickMin = Math.max(4, Number(process.env.AXIOM_PICK_MIN || 12) || 12);
+  const pickMax = Math.max(pickMin, Number(process.env.AXIOM_PICK_MAX || 16) || 16);
+  console.info(`[ingest] pick window ${pickMin}–${pickMax}`);
+  const picked = pickBalancedClusters(clusters, pickMin, pickMax, {
     heatKeywords: heatVerify.verifiedKeywords,
   });
   console.info(`[ingest] picked ${picked.length} clusters for main feed`);
@@ -698,11 +701,12 @@ async function main() {
         .replace(/^www\./, "")
         .toLowerCase();
       if (!uniqueSources.has(pub)) {
-        // Prefer non-GNews display name when possible
         const name =
-          pub === "news.google.com" || m.outletName.toLowerCase().includes("gnews")
-            ? m.outletName
-            : m.outletName;
+          pub === "news.google.com"
+            ? "Google News"
+            : m.outletName.toLowerCase().includes("gnews") && pub !== "news.google.com"
+              ? pub
+              : m.outletName;
         uniqueSources.set(pub, { name, url: m.link });
       }
     }

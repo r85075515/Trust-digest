@@ -281,7 +281,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     url: "https://news.google.com/rss/search?q=site:ettoday.net+%28%E5%88%86%E6%89%8B+OR+%E5%BE%A9%E5%90%88+OR+%E5%A9%9A%29&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     category: "eastAsiaGossip",
     language: "zh-TW",
-    domain: "news.google.com",
+    domain: "ettoday.net",
     region: "tw",
   },
   {
@@ -290,7 +290,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     url: "https://news.google.com/rss/search?q=site:setn.com+%28%E5%88%86%E6%89%8B+OR+%E5%A9%9A%29&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     category: "eastAsiaGossip",
     language: "zh-TW",
-    domain: "news.google.com",
+    domain: "setn.com",
     region: "tw",
   },
   {
@@ -326,7 +326,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     url: "https://news.google.com/rss/search?q=site:dcard.tw+%E5%A8%9B%E6%A8%82&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     category: "eastAsiaGossip",
     language: "zh-TW",
-    domain: "news.google.com",
+    domain: "dcard.tw",
     region: "tw",
   },
   {
@@ -335,7 +335,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     url: "https://news.google.com/rss/search?q=site:today.line.me/tw+%E5%A8%9B%E6%A8%82&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     category: "eastAsiaGossip",
     language: "zh-TW",
-    domain: "news.google.com",
+    domain: "today.line.me",
     region: "tw",
   },
   {
@@ -766,18 +766,27 @@ const CJK_NAME_STOP = new Set([
   "情斷", "新聞", "娛樂", "討論", "反擊", "私約", "女粉", "持續", "指控", "朋友",
   "關係", "退回", "認愛", "新歌", "現場", "直擊", "演唱會", "發布會", "延期",
   "公告", "粉絲", "本人", "媽媽", "爸爸", "男友", "女友",
+  "回顧", "登場", "留言", "快閃", "男神", "阿嬤", "最終", "狀態", "有人", "東森",
+  "娛圈", "投票", "家長", "長輩", "迷過", "歌仔",
 ]);
 
 /** Split CJK runs on role/action/controversy delimiters to isolate name-like spans. */
 const CJK_NAME_DELIMS =
-  /(?:大姊|大姐|分手|開砲|反擊|踢爆|全面|開戰|對質|道歉|復合|婚變|直播|離婚|私約|女粉|雙標|受害者|持續|聯絡|沒斷|前男友|前女友|爆與|認了|情斷|退回|朋友|關係|認愛|演唱會|發布會|延期|公告|新歌|現場|直擊|被爆|遭爆|控|指|稱|跟|與|爆)/g;
+  /(?:大姊|大姐|分手|開砲|反擊|踢爆|全面|開戰|對質|道歉|復合|婚變|直播|離婚|私約|女粉|雙標|受害者|持續|聯絡|沒斷|前男友|前女友|爆與|認了|情斷|退回|朋友|關係|認愛|演唱會|發布會|延期|公告|新歌|現場|直擊|深夜|聲明|時間線|攤牌|完整|被爆|遭爆|控|指|稱|跟|與|爆)/g;
 
 const GOSSIP_CONTROVERSY_RE =
   /分手|對質|開砲|道歉|復合|婚變|直播|離婚|出軌|緋聞|踢爆|開戰|反擊/;
 
-/** Strip trailing " - Outlet" publisher suffix from titles. */
+/** Strip trailing " - Outlet" / "| Outlet" publisher suffixes from titles. */
 export function stripOutletSuffix(title: string): string {
-  return title.replace(/\s*[-–|]\s*[^-–|]{2,40}\s*$/u, "").trim();
+  let t = title.trim();
+  // Repeat: "… | EBC 東森娛樂 - LINE TODAY" → drop platform then outlet
+  for (let i = 0; i < 3; i++) {
+    const next = t.replace(/\s*[-–|]\s*[^-–|]{2,40}\s*$/u, "").trim();
+    if (next === t) break;
+    t = next;
+  }
+  return t;
 }
 
 /**
@@ -803,6 +812,11 @@ export function extractCjkNameSpans(title: string): Set<string> {
           }
         }
       }
+      // Glued Name+verb (芝芝開 / 芝芝深夜發) → emit 2-char nickname prefix
+      if (p.length >= 3) {
+        const pref2 = p.slice(0, 2);
+        if (!CJK_NAME_STOP.has(pref2)) out.add(pref2);
+      }
     }
   }
   return out;
@@ -818,12 +832,18 @@ export function sharedCjkNames(a: string, b: string): string[] {
 }
 
 /** Same TW gossip event? ≥2 shared names, or 1 long name + controversy tokens. */
+const LISTICLE_RE =
+  /\d+\s*對|\d+\s*名|盤點|回顧|這些|等人|情侶們|藝人們/;
+
 export function sameGossipEvent(a: string, b: string): boolean {
   const shared = sharedCjkNames(a, b);
   if (shared.length >= 2) return true;
-  const longName = shared.find((s) => s.length >= 3);
+  // Listicles (N對/盤點/回顧) chain-merge unrelated breakups via one shared name — require ≥2
+  if (LISTICLE_RE.test(a) || LISTICLE_RE.test(b)) return false;
+  // TW nicknames are often 2-char (芝芝); 1 shared name + controversy ⇒ same event
+  const nameHit = shared.find((s) => s.length >= 2);
   if (
-    longName &&
+    nameHit &&
     GOSSIP_CONTROVERSY_RE.test(a) &&
     GOSSIP_CONTROVERSY_RE.test(b)
   ) {
@@ -833,13 +853,20 @@ export function sameGossipEvent(a: string, b: string): boolean {
 }
 
 /** Distinctive proper-noun-ish tokens (capitalized / long / CJK names). */
+const PUBLISHER_NOISE = new Set([
+  "line", "today", "ebc", "ettoday", "yahoo", "setn", "udn", "ltn",
+  "chinatimes", "newtalk", "dcard", "gnews", "google", "news",
+  "東森", "東森娛樂", "星光雲", "三立", "中時", "自由", "聯合",
+]);
+
 export function distinctiveTokens(title: string): Set<string> {
   const out = new Set<string>();
-  for (const w of title.split(/\s+/)) {
+  const base = stripOutletSuffix(title);
+  for (const w of base.split(/\s+/)) {
     const clean = w.replace(/[^A-Za-z0-9\u4e00-\u9fff-]/g, "");
     if (!clean || clean.length < 3) continue;
     const lower = clean.toLowerCase();
-    if (STOP.has(lower)) continue;
+    if (STOP.has(lower) || PUBLISHER_NOISE.has(lower)) continue;
     if (
       /^[A-Z][a-z]/.test(clean) ||
       /^[A-Z]{2,}/.test(clean) ||
@@ -849,8 +876,10 @@ export function distinctiveTokens(title: string): Set<string> {
       out.add(lower);
     }
   }
-  // Also include extracted CJK name spans
-  for (const n of extractCjkNameSpans(title)) out.add(n);
+  // Also include extracted CJK name spans (already outlet-stripped)
+  for (const n of extractCjkNameSpans(title)) {
+    if (!PUBLISHER_NOISE.has(n)) out.add(n);
+  }
   return out;
 }
 
@@ -1436,7 +1465,7 @@ export function resolvePublisherDomain(
   const m = title.match(/\s[-–|]\s*([^-–|]{2,40})\s*$/);
   if (m) {
     const outlet = m[1].trim().toLowerCase();
-    if (outlet.includes("ettoday") || outlet.includes("星光雲") || outlet.includes("東森")) {
+    if (outlet.includes("ettoday") || outlet.includes("星光雲")) {
       return "ettoday.net";
     }
     if (outlet.includes("yahoo")) return "tw.news.yahoo.com";
@@ -1450,13 +1479,17 @@ export function resolvePublisherDomain(
     if (outlet.includes("dcard")) return "dcard.tw";
     if (outlet.includes("newtalk")) return "newtalk.tw";
     if (outlet.includes("蘋果") || outlet.includes("appledaily")) return "tw.appledaily.com";
-    // Fallback: slugify outlet label (still unique-ish, not news.google.com)
-    const slug = outlet.replace(/\s+/g, "").slice(0, 40);
-    if (slug) return slug;
+    if (outlet.includes("nownews") || outlet.includes("今日新聞")) return "nownews.com";
+    if (outlet.includes("bazaar") || outlet.includes("哈潑")) return "harpersbazaar.com";
+    if (outlet.includes("tvbs")) return "tvbs.com.tw";
+    if (outlet.includes("華視") || outlet.includes("cts")) return "cts.com.tw";
+    // Do NOT slugify unknown outlet labels — that invents fake N源 from GNews wrappers.
   }
+  // Prefer site: proxy feedDomain (ettoday.net / setn.com / dcard.tw / today.line.me)
   if (feedDomain && feedDomain !== "news.google.com") {
     return canonicalizePublisherDomain(feedDomain.replace(/^www\./, "").toLowerCase());
   }
+  // Unresolved GNews → single bucket (honest 1源), never unique spam slugs
   return canonicalizePublisherDomain(host || "news.google.com");
 }
 
@@ -1789,14 +1822,26 @@ export function foldPickedSameEvents(picked: StoryCluster[]): StoryCluster[] {
           ranked[i].category === "entertainment") &&
         ranked[i].category === ranked[j].category;
       if (!bothGossip && ranked[i].category !== ranked[j].category) continue;
-      const shared = sharedCjkNames(
+      const titlesA = [
         ranked[i].primaryTitle,
-        ranked[j].primaryTitle
-      );
-      if (
-        shared.length >= 2 ||
-        sameGossipEvent(ranked[i].primaryTitle, ranked[j].primaryTitle)
-      ) {
+        ...ranked[i].members.map((m) => m.title),
+      ];
+      const titlesB = [
+        ranked[j].primaryTitle,
+        ...ranked[j].members.map((m) => m.title),
+      ];
+      let same = sameGossipEvent(ranked[i].primaryTitle, ranked[j].primaryTitle);
+      if (!same) {
+        outer: for (const ta of titlesA) {
+          for (const tb of titlesB) {
+            if (sameGossipEvent(ta, tb)) {
+              same = true;
+              break outer;
+            }
+          }
+        }
+      }
+      if (same) {
         members = members.concat(ranked[j].members);
         used.add(j);
       }
