@@ -1,18 +1,17 @@
 {
-  "ingestedAt": "2026-09-24T01:37:19.926Z",
+  "ingestedAt": "2026-09-24T13:37:52.484Z",
   "feedOk": 48,
   "feedTotal": 52,
-  "rawItems": 552,
-  "mainStories": 10,
+  "rawItems": 549,
+  "mainStories": 11,
   "byCategory": {
-    "eastAsiaGossip": 3,
-    "finance": 1,
-    "international": 2,
     "tech": 2,
+    "eastAsiaGossip": 4,
+    "international": 3,
     "entertainment": 2
   },
   "eastAsiaByRegion": {
-    "tw": 3
+    "tw": 4
   },
   "heatSourcesShipped": [
     "ptt",
@@ -20,12 +19,12 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "長輩迷過的歌",
-    "仔戲明星是",
-    "阿嬤追的",
-    "休閒娛樂英文"
+    "索吻合照閃瞎",
+    "年不藏了",
+    "大咖韓星",
+    "看板分類"
   ],
-  "heatNewsInjected": 48,
+  "heatNewsInjected": 45,
   "llmUsed": true,
   "mode": "llm+rss+heat"
 }
