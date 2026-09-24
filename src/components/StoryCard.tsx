@@ -63,6 +63,14 @@ export function StoryCard({
             hasDisagreement={Boolean(story.disagreements)}
             titleText={story.title.en + " " + story.title["zh-TW"]}
             summaryText={story.summary.en + " " + story.summary["zh-TW"]}
+            category={story.category}
+            sourceDomains={story.sources.map((s) => {
+              try {
+                return new URL(s.url).hostname;
+              } catch {
+                return s.name;
+              }
+            })}
           />
           {opened && (
             <span className="text-xs text-slate-400">

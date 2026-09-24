@@ -16,6 +16,7 @@
 import type { EastAsiaRegion, Category } from "./types";
 import type { RawFeedItem } from "./rss-ingest";
 import { USER_AGENT, stripHtml } from "./rss-ingest";
+import { isDeathRumorText } from "./trust";
 
 export type HeatSourceId = "ptt" | "gnews-dcard" | "line-today";
 
@@ -29,7 +30,11 @@ export interface HeatCandidate {
 const FETCH_MS = 10_000;
 
 const GOSSIP_HEAT_RE =
-  /分手|婚變|復合|離婚|緋聞|網紅|藝人|影劇|直播|對質|明星|歐巴|韓星|台星|戀愛|出軌|舊愛|前女友|前男友|認愛|閃婚|鬧分手/;
+  /分手|婚變|復合|離婚|緋聞|網紅|藝人|影劇|直播|對質|明星|歐巴|韓星|台星|戀愛|出軌|舊愛|前女友|前男友|認愛|閃婚|鬧分手|去世|過世|逝世|英年早逝|病逝|死訊|假死|闢謠/;
+
+/** Celebrity death-rumor heat (EN+ZH) — community buzz without requiring gossip lexicon. */
+const DEATH_RUMOR_HEAT_RE =
+  /died|dies|dead|death|\brip\b|r\.i\.p|obituary|passed away|去世|過世|逝世|英年早逝|病逝|死訊|離世|身亡|假死|死亡謠/;
 
 /** Strip PTT category tags like [新聞]/[問卦] for keyword matching. */
 export function cleanHeatTitle(title: string): string {
@@ -293,7 +298,10 @@ export async function verifyHeatAgainstNews(
   if (heat.some((h) => h.source === "line-today")) sourcesShipped.push("line-today");
 
   const gossipHeat = heat.filter(
-    (h) => GOSSIP_HEAT_RE.test(h.title) || h.source !== "ptt"
+    (h) =>
+      GOSSIP_HEAT_RE.test(h.title) ||
+      DEATH_RUMOR_HEAT_RE.test(h.title) ||
+      h.source !== "ptt"
   );
   // Build keyword list from top gossip heat
   const keywordScores = new Map<string, number>();
@@ -401,4 +409,70 @@ export function heatBoostScore(title: string, verifiedKeywords: string[]): numbe
   }
   if (GOSSIP_HEAT_RE.test(title)) boost += 4;
   return Math.min(boost, 28);
+}
+
+
+/**
+ * Turn unverified community death-rumor heat into RawFeedItems so celebrity
+ * fake-death clusters remain card-eligible even without mainstream obituaries.
+ * Trust layer labels them 未確認／審慎 (never high trust).
+ * Narrow: death-rumor titles only; max 5; pattern-based (no person hardcodes).
+ */
+export function deathRumorHeatToFeedItems(
+  unverifiedHeat: HeatCandidate[],
+  opts: { max?: number } = {}
+): RawFeedItem[] {
+  const max = opts.max ?? 5;
+  const out: RawFeedItem[] = [];
+  const seen = new Set<string>();
+  for (const h of unverifiedHeat) {
+    if (out.length >= max) break;
+    const title = cleanHeatTitle(h.title);
+    if (!title || title.length < 4) continue;
+    if (!isDeathRumorText(title) && !DEATH_RUMOR_HEAT_RE.test(title)) continue;
+    const key = title.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    const domain =
+      h.source === "ptt"
+        ? "ptt.cc"
+        : h.source === "gnews-dcard"
+          ? "dcard.tw"
+          : "today.line.me";
+    const outletName =
+      h.source === "ptt"
+        ? "PTT Gossiping (heat)"
+        : h.source === "gnews-dcard"
+          ? "Dcard 娛樂 (heat)"
+          : "LINE TODAY (heat)";
+    const link =
+      h.url ||
+      (h.source === "ptt"
+        ? "https://www.ptt.cc/bbs/Gossiping/index.html"
+        : h.source === "gnews-dcard"
+          ? "https://www.dcard.tw/f/entertainment"
+          : "https://today.line.me/tw/v2/tab/entertain");
+    out.push({
+      feedId: `heat-death-rumor-${h.source}`,
+      outletName,
+      domain,
+      category: "eastAsiaGossip" as Category,
+      title,
+      link,
+      pubDate: new Date().toISOString(),
+      description: `Community heat — unverified celebrity death rumor (no mainstream obituary yet): ${title}`,
+      region: "tw" as EastAsiaRegion,
+    });
+  }
+  if (out.length) {
+    console.info(
+      `[heat] death-rumor card-eligible inject: ${out.length} (forum/community only → 未確認／審慎)`
+    );
+  }
+  return out;
+}
+
+/** Whether a heat title looks like a celebrity death rumor (for pick boost). */
+export function isDeathRumorHeatTitle(title: string): boolean {
+  return isDeathRumorText(title) || DEATH_RUMOR_HEAT_RE.test(title);
 }

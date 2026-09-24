@@ -34,12 +34,14 @@ import {
 import {
   discoverTwHeat,
   verifyHeatAgainstNews,
+  deathRumorHeatToFeedItems,
 } from "../src/lib/heat-discovery";
 import {
   computeTrustScore,
   applyTrustCaps,
   isDevelopingCasualtyText,
   isDevelopingGossipText,
+  classifyCelebrityDeathRumor,
 } from "../src/lib/trust";
 import type { Story, LocalizedText } from "../src/lib/types";
 import {
@@ -582,6 +584,15 @@ async function main() {
     );
   }
 
+  // Celebrity death-rumor gap: community heat without mainstream obituaries
+  // still gets a card slot, labeled 未確認／審慎 (never high trust).
+  const deathRumorItems = deathRumorHeatToFeedItems(heatVerify.unverifiedHeat, {
+    max: 5,
+  });
+  if (deathRumorItems.length) {
+    allItems.push(...deathRumorItems);
+  }
+
   const clusters = clusterItems(allItems);
   console.info(`[ingest] ${clusters.length} clusters before pick`);
   // Small ingest: digest only on picked. Override with AXIOM_PICK_MIN / AXIOM_PICK_MAX.
@@ -620,19 +631,29 @@ async function main() {
   const scored = picked.map((c) => {
     const tb = buildTrustBreakdown(c);
     const raw = computeTrustScore(tb);
-    const casualty = isDevelopingCasualtyText(
-      c.primaryTitle,
-      ...c.members.map((m) => `${m.title} ${m.description}`)
+    const memberTexts = c.members.map((m) => `${m.title} ${m.description}`);
+    const casualty = isDevelopingCasualtyText(c.primaryTitle, ...memberTexts);
+    const rumorGossip = isDevelopingGossipText(c.primaryTitle, ...memberTexts);
+    const domains = c.members.map((m) =>
+      resolvePublisherDomain(m.link, m.title, m.domain)
     );
-    const rumorGossip = isDevelopingGossipText(
-      c.primaryTitle,
-      ...c.members.map((m) => `${m.title} ${m.description}`)
+    const hasCommunityHeat = c.members.some(
+      (m) =>
+        m.feedId.startsWith("heat-death-rumor-") ||
+        /ptt\.cc|dcard\.tw/i.test(m.domain)
     );
-    const trustScore = applyTrustCaps(raw, {
-      isCasualty: casualty,
-      isRumorGossip: rumorGossip,
+    const deathPath = classifyCelebrityDeathRumor({
+      category: c.category,
+      texts: [c.primaryTitle, ...memberTexts],
+      domains,
+      hasCommunityHeat,
     });
-    return { c, tb, trustScore };
+    const trustScore = applyTrustCaps(raw, {
+      isCasualty: casualty || deathPath === "confirmed_obituary",
+      isRumorGossip: rumorGossip || deathPath === "unconfirmed_rumor",
+      deathPath,
+    });
+    return { c, tb, trustScore, deathPath };
   });
   scored.sort(
     (a, b) =>

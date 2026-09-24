@@ -96,6 +96,10 @@ Dead feeds are skipped at fetch time; drop/replace in `ALLOWED_FEEDS` if a URL s
 
 `data/ingest-meta.json` records last ingest time and category counts (shown on the home page).
 
+## Celebrity death-rumor cards (narrow)
+
+When **community heat** claims a celebrity died but **mainstream obituaries are absent**, Axiom still allows a card, labeled **未確認／審慎** (never high trust). If mainstream outlets confirm via obituaries → developing-death cap / N源一致. If mainstream says the person is alive or the rumor is a hoax → **打臉／多源打臉**. Pattern-based (no person-name hardcodes). Unit dry-run: `npm run test:death-hoax`.
+
 ## Trust-score methodology (honest)
 
 Scores are a **heuristic**, not a fact-checker and **not a claim of zero misinformation**.
