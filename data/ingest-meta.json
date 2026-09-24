@@ -1,14 +1,15 @@
 {
-  "ingestedAt": "2026-09-23T02:20:38.863Z",
+  "ingestedAt": "2026-09-24T01:37:19.926Z",
   "feedOk": 48,
   "feedTotal": 52,
-  "rawItems": 537,
+  "rawItems": 552,
   "mainStories": 10,
   "byCategory": {
     "eastAsiaGossip": 3,
-    "entertainment": 2,
-    "international": 3,
-    "finance": 2
+    "finance": 1,
+    "international": 2,
+    "tech": 2,
+    "entertainment": 2
   },
   "eastAsiaByRegion": {
     "tw": 3
@@ -19,11 +20,12 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "貝莉莓在網紅",
-    "本無敵的吧",
-    "長輩迷過的歌"
+    "長輩迷過的歌",
+    "仔戲明星是",
+    "阿嬤追的",
+    "休閒娛樂英文"
   ],
-  "heatNewsInjected": 33,
+  "heatNewsInjected": 48,
   "llmUsed": true,
   "mode": "llm+rss+heat"
 }

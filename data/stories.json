@@ -1,75 +1,274 @@
 [
   {
-    "id": "live-eastAsiaGossip-01-2-ettoday-ettoday",
+    "id": "live-eastAsiaGossip-01-ozone-ettoday-ettoday",
     "category": "eastAsiaGossip",
     "adult": false,
     "isHeadline": true,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-01-2-ettoday-ettoday.jpg",
-    "imageAlt": {
-      "en": "Cover related to: 多米多羅、芝芝開直播攤牌　「2萬人同時在線」看分手對質 - ETtoday星光雲| ETtoday新聞雲",
-      "zh-TW": "相關封面圖：多米多羅、芝芝開直播攤牌　「2萬人同時在線」看分手對質"
-    },
-    "publishedAt": "2026-09-22T10:11:00.000Z",
+    "publishedAt": "2026-09-23T08:04:00.000Z",
     "title": {
-      "en": "Domi Dora and Zhi Zhi Stage Live Breakup Showdown with 20,000 Simultaneous Viewers",
-      "zh-TW": "多米多羅、芝芝開直播攤牌　「2萬人同時在線」看分手對質"
+      "en": "Pan Junlun and Lin Tingli Break Up After Love Admission, Involving Ozone's Wen Ting in Quadrangle",
+      "zh-TW": "潘君侖（Pan Junlun）與林亭莉（Lin Tingli）認愛即分手 Ozone文廷（Wen Ting）劈腿扯出四角戀"
     },
     "summary": {
-      "en": "YouTuber Domi Dora and ex-girlfriend Zhi Zhi held a live stream confrontation over their breakup, drawing 20,000 simultaneous viewers. Both issued final statements addressing living expenses, family involvement, and reconciliation attempts. Domi Dora claimed he covered most costs and sought an amicable split, while Zhi Zhi shared a timeline of events.",
-      "zh-TW": "YouTuber多米多羅（Domi Dora）與前女友芝芝（Zhi Zhi）舉行直播分手對質，吸引2萬人同時在線。雙方發出最終聲明，針對生活費、家人介入與復合爭議回應。多米多羅稱自行負擔大部分開銷並盼好聚好散，芝芝則公開事件時間線。"
+      "en": "Taiwanese celebrities Pan Junlun and Lin Tingli have split after publicly admitting their relationship. Matchmaker Xiao Xun stated she was unaware of the breakup and asked for respect. Reports link the situation to Ozone member Wen Ting's alleged cheating, expanding into a reported love quadrangle.",
+      "zh-TW": "台灣藝人潘君侖（Pan Junlun）與林亭莉（Lin Tingli）公開認愛後隨即分手。媒人小薰（Xiao Xun）表示不知情並呼籲尊重。報導指出事件涉及Ozone文廷（Wen Ting）劈腿，擴大成四角戀。"
     },
     "body": {
-      "en": "Lede: YouTuber Domi Dora and Zhi Zhi conducted a public live stream to address their breakup, attracting 20,000 simultaneous online viewers according to ETtoday星光雲 reports. What happened: Domi Dora issued a final statement clarifying he bore most cohabitation expenses, denying repeated family interventions, and expressing a desire for an amicable separation. Zhi Zhi released a nighttime final statement with a detailed timeline of events. Additional coverage from 娛樂星聞 noted Domi Dora's sister accused Zhi Zhi of double standards and maintaining contact with an ex. Why it matters: The public dispute highlights how personal relationship conflicts among Taiwanese internet personalities can escalate into widespread online spectacles involving live audiences and multiple statements. Sources agree/disagree: Outlets including ETtoday星光雲 and 娛樂星聞 consistently report the live stream viewership figure and the issuance of final statements by both parties. Still uncertain: Exact details of expense breakdowns and family roles remain based on individual statements without independent verification.",
-      "zh-TW": "Lede: YouTuber多米多羅（Domi Dora）與芝芝（Zhi Zhi）舉行公開直播對質分手事件，據ETtoday星光雲報導吸引2萬人同時在線。 What happened: 多米多羅發出最後聲明澄清自行負擔大部分同居生活費，否認家人多次介入，並表示盼好聚好散。芝芝深夜發布最終聲明，公開完整事件時間線。娛樂星聞等報導提及多米多羅大姊指控芝芝雙標並與前男友聯絡未斷。 Why it matters: 此公開爭議顯示台灣網路名人私人間感情紛爭如何演變為吸引大量觀眾的線上 spectacle。 Sources agree/disagree: ETtoday星光雲與娛樂星聞等媒體一致報導直播觀看人數及雙方發布最終聲明之事。 Still uncertain: 開銷細節與家人角色等仍依個人聲明，缺乏獨立查證。"
+      "en": "Lede: Pan Junlun announced that he and Lin Tingli are now in a friends status following their public admission of love. What happened: Multiple reports from ETtoday and SETN detail the breakup of Pan Junlun and Lin Tingli. Xiao Xun, identified as the matchmaker, responded that she had no knowledge of the split and requested respect for the parties involved. The coverage also connects the matter to Ozone's Wen Ting and an alleged cheating incident that reportedly drew in additional parties forming a quadrangle. Why it matters: The story highlights rapid shifts in publicized celebrity relationships within the Taiwanese entertainment circle and the role of intermediaries in such announcements. Sources agree/disagree: All provided sources from ETtoday星光雲 and SETN consistently report the breakup, Xiao Xun's lack of prior knowledge, and her call for respect, along with the connection to Wen Ting. Still uncertain: Details on the exact timeline of events or additional individuals in the quadrangle remain limited to the reported allegations in the sources.",
+      "zh-TW": "導言：潘君侖（Pan Junlun）表示與林亭莉（Lin Tingli）公開認愛後已轉為朋友狀態。 事件經過：ETtoday星光雲與三立新聞等來源報導潘君侖（Pan Junlun）與林亭莉（Lin Tingli）分手。小薰（Xiao Xun）作為媒人回應稱對分手毫不知情，並呼籲外界尊重。報導同時提及Ozone文廷（Wen Ting）劈腿事件，擴大成四角戀。 事件意義：此事件凸顯台灣娛樂圈公開感情關係的快速變化，以及中介人在其中的角色。 來源共識與分歧：所有ETtoday星光雲與SETN來源均一致提及分手、小薰不知情及其尊重呼籲，以及與文廷的關聯。 仍未確定：事件確切時間線或四角戀其他成員細節，來源僅限於報導中的指稱。"
     },
     "sources": [
       {
-        "name": "ETtoday 影劇",
-        "url": "https://star.ettoday.net/news/3242244"
-      },
-      {
-        "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3MGo4LV8wVl9iaDhRcVBBUGVLZjhGZ1hfRExNSk9mS2ZPcEd6Q0kxRU5FUEZNZl9QWmZLdWtPcVFIZVd1Z19RLXBKcmFNQXZ1Vkh5N1pSUWNnOXPSAWBBVV95cUxNeVNiSjFUd0hRNjFnRVVSWlZYVG5rSmJyS3FLQjRRQVpUQklUaHdLSFVUQ0pwOWs1cy1uX1R6c0Z2UEZIUUgwN1NjN20td3hlMFVZR2JYTjJhZ3Z5enh3NUM?oc=5"
+        "name": "ettoday.net",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHNFNBcUJESjhOWWVQbEJ4TVhiOWQ0THc5Tm1nUDJTTl9rd21RYkpIVjdNYkxPczdwV3FmblpiTVZJaFVXWGxTTXdSRDhUQdIBTEFVX3lxTFAxdWVoV1lUMmR4LUNVa1ZjbnVRMGpySEhFcTdLbWVvLVYtX1E5WWpBdU1DVnY2enJUT2tKRnRlTUpuYm5Ma3l0TjZCSEY?oc=5"
       },
       {
         "name": "setn.com",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBUd0tRem9jVl9ManEyckQ1WU9lLVVQWlI4SmxaMF9GWTM2Q3plN0FWWm5xRXZUelZDaVJVYVF2MHJxQUhuX2NLUE5B0gFfQVVfeXFMT2N3M0UyeldKYjIzR19ZMVY1alVyeXU0b3dtVjJhb0JqZmVlM2o0RG1peXExWkhLM0lkUXUyVnlTUjd2UEVtdHhYSUd4ZnpLX1JVaWw5UlBlRkROdzR1aDg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWRVJWYUNqaUNUdk9MZDlsWUlXdGUwMXg0SmZZQW1jZlBoZjZjb3lwejIwcUo4Rk9ibTJ5VkpadGREVHNuQ3gySTVtbDIxb1NyaFZ5VF9GYjhhdV9PR2N5bWFkVk1oT2liN0k00gFfQVVfeXFMUEp1eVdmbjFmNGNZNUt3ZGQzNkxfdnFyalI3cE9qU0NyZVJ6UkFhZmlGWVlaS1VlSTFwLUUxR2Jic2tyMUJKekJCcWE3eks2em8xWVc2NUVkZmd5bzBYd3M?oc=5"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mRC1mZGluaUY5cnNDX0RyZmVHVENWZ1lSaF8yWklXZ1JLUzdqaGFjV2liMldORWl4R04wMHl3VUYwWUU1bmZPMjh5aUtyZ9IBTEFVX3lxTE9DQkhPeEVDRHJQQXZXaTJ3YlExY3NzRXBSVC11QWVUNTRIN1l2ZWdHMV95elUtNUEyZHlSN0M0WGRJRTFKcXpRLXZfMWQ?oc=5"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Pan Junlun",
+          "zh-TW": "潘君侖（Pan Junlun）"
+        },
+        "blurb": {
+          "en": "Celebrity who publicly discussed breakup with Lin Tingli.",
+          "zh-TW": "公開討論與林亭莉（Lin Tingli）分手的藝人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Lin Tingli",
+          "zh-TW": "林亭莉（Lin Tingli）"
+        },
+        "blurb": {
+          "en": "Celebrity reported to have split from Pan Junlun.",
+          "zh-TW": "據報與潘君侖（Pan Junlun）分手的藝人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Xiao Xun",
+          "zh-TW": "小薰（Xiao Xun）"
+        },
+        "blurb": {
+          "en": "Matchmaker who stated she was unaware of the breakup.",
+          "zh-TW": "表示不知情分手消息的媒人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Wen Ting",
+          "zh-TW": "文廷（Wen Ting）"
+        },
+        "blurb": {
+          "en": "Ozone member linked to alleged cheating in reports.",
+          "zh-TW": "報導中被提及涉及劈腿的Ozone成員。"
+        }
+      }
+    ],
+    "trustScore": 80,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 12,
+      "crossCorroboration": 22,
+      "recencyClarity": 22
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "gnews-site:ettoday-分手/復合/婚",
+      "gnews-site:setn-分手/婚",
+      "gnews-site:setn-分手/婚"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-finance-01-openai-and-anthropic-ceo",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-01-openai-and-anthropic-ceo.jpg",
+    "imageAlt": {
+      "en": "Cover related to: OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+      "zh-TW": "相關封面圖：山姆·奧特曼（Sam Altman）與達里奧·阿莫代伊（Dario Amodei）呼籲聯合國制定全球人工智慧標準"
+    },
+    "publishedAt": "2026-09-23T22:35:14.000Z",
+    "title": {
+      "en": "Sam Altman and Dario Amodei Urge United Nations on Global AI Standards",
+      "zh-TW": "山姆·奧特曼（Sam Altman）與達里奧·阿莫代伊（Dario Amodei）呼籲聯合國制定全球人工智慧標準"
+    },
+    "summary": {
+      "en": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei called on United Nations members to collaborate on global AI standards and risk evaluation. The request comes as AI safety concerns rise. US officials rejected the push for unified international rules. Hugging Face executive Clement Delangue also supported standards.",
+      "zh-TW": "OpenAI執行長山姆·奧特曼（Sam Altman）與Anthropic執行長達里奧·阿莫代伊（Dario Amodei）呼籲聯合國成員合作制定全球人工智慧標準與風險評估。美國官員拒絕此國際統一規則倡議。Hugging Face高層克萊門特·德朗格（Clement Delangue）亦支持標準。"
+    },
+    "body": {
+      "en": "Lede: Sam Altman of OpenAI and Dario Amodei of Anthropic addressed the United Nations to advocate coordinated global AI standards. What happened: On Wednesday the two CEOs asked United Nations members to develop shared AI safety frameworks. Altman has previously argued that companies should slow AI development to manage risks. Amodei joined the call for international standards. Hugging Face executive Clement Delangue also endorsed risk evaluation standards. Why it matters: Coordinated standards could shape how nations regulate rapidly advancing AI systems and address safety concerns across borders. Sources agree/disagree: CNBC, MarketWatch and BBC Business all report the CEOs' request for UN-level cooperation on AI standards. BBC Business alone notes that the United States rejected the pleas for global standards. Still uncertain: No further details on specific standards proposed or responses from other nations appear in the reports.",
+      "zh-TW": "導言：OpenAI的山姆·奧特曼（Sam Altman）與Anthropic的達里奧·阿莫代伊（Dario Amodei）向聯合國呼籲協調全球人工智慧標準。 事件經過：週三兩位執行長要求聯合國成員制定共享人工智慧安全框架。奧特曼先前主張公司應放緩人工智慧發展以管理風險。阿莫代伊加入國際標準呼籲。Hugging Face高層克萊門特·德朗格（Clement Delangue）亦支持風險評估標準。 重要性：協調標準可能影響各國如何監管快速進展的人工智慧系統，並跨國界處理安全疑慮。 來源一致與分歧：CNBC、MarketWatch與BBC Business均報導執行長們對聯合國層級人工智慧標準的請求。僅BBC Business提及美國拒絕全球標準的請求。 仍未確定：報告中未出現所提具體標準細節或其他國家回應。"
+    },
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html"
+      },
+      {
+        "name": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories"
+      },
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Sam Altman",
+          "zh-TW": "山姆·奧特曼（Sam Altman）"
+        },
+        "blurb": {
+          "en": "CEO of OpenAI.",
+          "zh-TW": "OpenAI的執行長。"
+        }
+      },
+      {
+        "term": {
+          "en": "Dario Amodei",
+          "zh-TW": "達里奧·阿莫代伊（Dario Amodei）"
+        },
+        "blurb": {
+          "en": "CEO of Anthropic.",
+          "zh-TW": "Anthropic的執行長。"
+        }
+      },
+      {
+        "term": {
+          "en": "OpenAI",
+          "zh-TW": "OpenAI（OpenAI）"
+        },
+        "blurb": {
+          "en": "AI company led by Sam Altman.",
+          "zh-TW": "由山姆·奧特曼（Sam Altman）領導的人工智慧公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "Anthropic",
+          "zh-TW": "Anthropic（Anthropic）"
+        },
+        "blurb": {
+          "en": "AI company led by Dario Amodei.",
+          "zh-TW": "由達里奧·阿莫代伊（Dario Amodei）領導的人工智慧公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "Clement Delangue",
+          "zh-TW": "克萊門特·德朗格（Clement Delangue）"
+        },
+        "blurb": {
+          "en": "Executive at Hugging Face.",
+          "zh-TW": "Hugging Face的高層。"
+        }
+      }
+    ],
+    "trustScore": 87,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 16,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "cnbc",
+      "marketwatch",
+      "bbc-business"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-02-12-ebc-line-today",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-eastAsiaGossip-02-12-ebc-line-today.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 12公尺巨鏟落腳台北！阿湯哥《挖掘者》首波評價出爐 | EBC 東森娛樂 - LINE TODAY",
+      "zh-TW": "相關封面圖：湯姆·克魯斯（Tom Cruise）《挖掘者》12公尺巨鏟落腳台北 凱特王妃（Kate）出席倫敦首映"
+    },
+    "publishedAt": "2026-09-23T12:44:37.000Z",
+    "title": {
+      "en": "Tom Cruise Excavator 12-Meter Shovel Lands in Taipei as Kate Attends London Premiere",
+      "zh-TW": "湯姆·克魯斯（Tom Cruise）《挖掘者》12公尺巨鏟落腳台北 凱特王妃（Kate）出席倫敦首映"
+    },
+    "summary": {
+      "en": "Tom Cruise movie Excavator sees a 12-meter giant shovel placed in Taipei as its only Asian site while Kate Middleton wore a deep-V purple gown with a heart-shaped amethyst at the London premiere attended by Prince William and David Beckham.",
+      "zh-TW": "湯姆·克魯斯（Tom Cruise）主演《挖掘者》亞洲唯一12公尺巨鏟現身台北美麗華，倫敦首映會上凱特王妃（Kate）身穿深V葡萄紫禮服搭配百年心形紫水晶驚艷全場，威廉王子與貝克漢父子同框。"
+    },
+    "body": {
+      "en": "Lede: A 12-meter giant shovel for Tom Cruise's film Excavator has been installed in Taipei as the sole Asian location while the London premiere drew Kate Middleton in a standout purple gown. What happened: Sources report the shovel arrived at Miramar in Taipei. At the London premiere of Excavator, Kate Middleton appeared in a deep-V purple chiffon gown featuring a century-old heart-shaped amethyst pendant. Prince William and David Beckham also attended. Why it matters: The Taipei installation promotes the film in East Asia while the London event highlights royal-celebrity ties through fashion and attendance. Sources agree/disagree: All outlets align on the shovel's Taipei placement and Kate's purple dress with amethyst at the London premiere. Still uncertain: No further details on premiere reviews or additional Taipei events appear in the provided sources.",
+      "zh-TW": "導言：湯姆·克魯斯（Tom Cruise）電影《挖掘者》12公尺巨鏟已安置於台北，作為亞洲唯一地點，倫敦首映會則由凱特王妃（Kate）以葡萄紫深V禮服亮相。 事件經過：報導指出巨鏟現身美麗華。倫敦首映會上，凱特王妃（Kate）選擇深V剪裁晚禮服，王室珍藏百年心形切割紫水晶墜於胸口，威廉王子與貝克漢父子亦出席。 重要性：台北裝置用於電影在東亞宣傳，倫敦活動則展現王室與名人透過時尚與出席建立的連結。 來源一致或分歧：各來源對巨鏟台北位置與凱特王妃（Kate）紫色禮服搭配紫水晶一事描述一致。 仍未確定：來源未提供首波評價細節或台北其他活動資訊。"
+    },
+    "sources": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUxOckxOTlVNZkF1YjBWQU44aks1NnMwTER6b3JEdnpsYnBHdy1rTzVhd0Nqd0hVc2dzdUpJZGtETTNRdnFYZDNkTXdpSHVMR3prM2dVaVJWaVhmNlVKbDFqZmhfQzg1U1gydjd3bHczN3dXblhNYmQ5V2VYUzZiM1dIemdKejV4MlBqUlFqTms5bWIxMHNyTjhHTFg?oc=5"
+      },
+      {
+        "name": "ETtoday 時尚",
+        "url": "https://fashion.ettoday.net/news/3242415"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2dEhmUGs4MzVKcHRJQmlTZDIwUFd5YkcydXJzWEJHMUx0WGdGdVJaSVVYRHp1ZjJLcE5WdUR3Nk1RZjBuenJIeUF0eXhKWHVxM0tlQjBB?oc=5"
       }
     ],
     "disagreements": {
-      "en": "Figures differ across outlets (e.g. 22 vs 4 in headlines/snippets).",
-      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中為 22 比 4）。"
+      "en": "Figures differ across outlets (e.g. 22 vs 12 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 22 與 12）。"
     },
     "glossary": [
       {
         "term": {
-          "en": "Domi Dora",
-          "zh-TW": "多米多羅（Domi Dora）"
+          "en": "Tom Cruise",
+          "zh-TW": "湯姆·克魯斯（Tom Cruise）"
         },
         "blurb": {
-          "en": "YouTuber involved in the publicized breakup dispute.",
-          "zh-TW": "涉入公開分手爭議的YouTuber。"
+          "en": "Lead actor in the film Excavator.",
+          "zh-TW": "電影《挖掘者》主演。"
         }
       },
       {
         "term": {
-          "en": "Zhi Zhi",
-          "zh-TW": "芝芝（Zhi Zhi）"
+          "en": "Kate Middleton",
+          "zh-TW": "凱特王妃（Kate）"
         },
         "blurb": {
-          "en": "Ex-girlfriend of Domi Dora who issued statements on the breakup.",
-          "zh-TW": "多米多羅前女友，曾就分手事件發表聲明。"
+          "en": "Attended the London premiere in a purple gown.",
+          "zh-TW": "出席倫敦首映會並身穿紫色禮服。"
         }
       },
       {
         "term": {
-          "en": "ETtoday星光雲",
-          "zh-TW": "ETtoday星光雲"
+          "en": "Excavator",
+          "zh-TW": "《挖掘者》"
         },
         "blurb": {
-          "en": "Taiwanese entertainment news outlet covering the story.",
-          "zh-TW": "報導此事件的台灣娛樂新聞媒體。"
+          "en": "Film starring Tom Cruise promoted with a giant shovel in Taipei.",
+          "zh-TW": "湯姆·克魯斯（Tom Cruise）主演電影，台北設有宣傳巨鏟。"
         }
       }
     ],
@@ -84,377 +283,11 @@
       "eastAsiaGossip",
       "live-ingest",
       "region:tw",
-      "ettoday-影劇",
       "google-news-tw-entertainment",
-      "gnews-site:ettoday-分手/復合/婚"
+      "ettoday-時尚",
+      "gnews-line-today-tw-娛樂"
     ],
     "region": "tw"
-  },
-  {
-    "id": "live-entertainment-01-who-is-clavicular-5-thin",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": true,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-01-who-is-clavicular-5-thin.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Who Is Clavicular? 5 Things About the ‘Looksmaxxing’ Influencer",
-      "zh-TW": "相關封面圖：布雷登·彼得斯（Braden Peters）以克拉維庫拉（Clavicular）之名在麻薩諸塞州面臨強姦指控"
-    },
-    "publishedAt": "2026-09-22T21:37:28.000Z",
-    "title": {
-      "en": "Braden Peters Known as Clavicular Faces Rape Charges in Massachusetts",
-      "zh-TW": "布雷登·彼得斯（Braden Peters）以克拉維庫拉（Clavicular）之名在麻薩諸塞州面臨強姦指控"
-    },
-    "summary": {
-      "en": "Influencer Braden Peters, known online as Clavicular, is a 20-year-old Miami-based personality facing rape charges. Sources report two felony charges and one misdemeanor after allegations involving a 17-year-old victim. Peters denies the claims.",
-      "zh-TW": "線上影響者布雷登·彼得斯（Braden Peters），網路暱稱克拉維庫拉（Clavicular），為20歲邁阿密居民，面臨強姦指控。消息指出兩項重罪與一項輕罪，指控涉及17歲受害者。彼得斯否認指控。"
-    },
-    "body": {
-      "en": "Lede: Braden Peters, the influencer known as Clavicular, has been charged with rape in Massachusetts according to multiple reports. What happened: Hollywood Life identifies Clavicular as Braden Peters, a 20-year-old Miami-based influencer. CBS News reports he faces two felony charges and one misdemeanor charge related to rape. NPR states a girl accuses him of non-consensual sex with a 17-year-old female victim after plying her with alcohol. Why it matters: The case involves a social media personality in the looksmaxxing community and has drawn coverage from entertainment and news outlets. Sources agree/disagree: All sources confirm the real name Braden Peters, the online name Clavicular, and that he denies the allegations. Still uncertain: Details beyond the charges and denial are limited to the provided reports.",
-      "zh-TW": "導言：根據多份報導，以克拉維庫拉（Clavicular）聞名的影響者布雷登·彼得斯（Braden Peters）在麻薩諸塞州遭強姦指控。 事件經過：好萊塢生活報導克拉維庫拉（Clavicular）本名布雷登·彼得斯（Braden Peters），為20歲邁阿密影響者。哥倫比亞廣播公司新聞指出他面臨兩項重罪與一項輕罪指控。國家公共廣播電台報導一名女孩指控他對17歲女性受害者施以酒精後發生非自願性行為。 事件重要性：此案涉及社群媒體影響者與外貌最大化社群，吸引娛樂與新聞媒體關注。 消息來源異同：所有來源均確認本名布雷登·彼得斯（Braden Peters）、網路名稱克拉維庫拉（Clavicular），並指出他否認指控。 仍未確定事項：除指控與否認外，細節僅限於所提供報導。"
-    },
-    "sources": [
-      {
-        "name": "Hollywood Life",
-        "url": "https://hollywoodlife.com/feature/who-is-clavicular-braden-peters-5531357/"
-      },
-      {
-        "name": "CBS News Crime",
-        "url": "https://www.cbsnews.com/news/clavicular-looksmaxxing-influencer-rape-charge-massachusetts/"
-      },
-      {
-        "name": "NPR News",
-        "url": "https://www.npr.org/2026/09/22/nx-s1-5978033/braden-peters-clavicular-looksmaxxing-rape-accusation"
-      }
-    ],
-    "disagreements": {
-      "en": "Figures differ across outlets (e.g. 5 vs 17 in headlines/snippets).",
-      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 5 比 17）。"
-    },
-    "glossary": [
-      {
-        "term": {
-          "en": "Braden Peters",
-          "zh-TW": "布雷登·彼得斯（Braden Peters）"
-        },
-        "blurb": {
-          "en": "20-year-old Miami-based influencer known online as Clavicular.",
-          "zh-TW": "20歲邁阿密影響者，網路暱稱克拉維庫拉（Clavicular）。"
-        }
-      },
-      {
-        "term": {
-          "en": "Clavicular",
-          "zh-TW": "克拉維庫拉（Clavicular）"
-        },
-        "blurb": {
-          "en": "Online persona of influencer Braden Peters.",
-          "zh-TW": "影響者布雷登·彼得斯（Braden Peters）的網路化身。"
-        }
-      }
-    ],
-    "trustScore": 81,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 18,
-      "crossCorroboration": 14,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "entertainment",
-      "live-ingest",
-      "hollywood-life",
-      "cbs-news-crime",
-      "npr-news"
-    ]
-  },
-  {
-    "id": "live-international-01-cnn-ms-now-and-politico-",
-    "category": "international",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-01-cnn-ms-now-and-politico-.jpg",
-    "imageAlt": {
-      "en": "Cover related to: CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
-      "zh-TW": "相關封面圖：美國有線電視新聞網（CNN）、MS NOW 與 Politico 控告川普；派拉蒙（Paramount）和解華納兄弟探索（Warner Bros. Discovery）併購訴訟"
-    },
-    "publishedAt": "2026-09-22T21:31:01.000Z",
-    "title": {
-      "en": "CNN, MS NOW and Politico Sue Trump; Paramount Settles Warner Bros. Discovery Merger Lawsuit",
-      "zh-TW": "美國有線電視新聞網（CNN）、MS NOW 與 Politico 控告川普；派拉蒙（Paramount）和解華納兄弟探索（Warner Bros. Discovery）併購訴訟"
-    },
-    "summary": {
-      "en": "CNN, MS NOW and Politico filed suit against President Trump after their White House access was suspended. Paramount reached a settlement in a lawsuit tied to its Warner Bros. Discovery merger. The White House launched a 24/7 YouTube channel called Trump TV following the ban on the three outlets.",
-      "zh-TW": "美國有線電視新聞網（CNN）、MS NOW 與 Politico 在白宮通行證被停用後對川普總統提起訴訟。派拉蒙（Paramount）就其與華納兄弟探索（Warner Bros. Discovery）併購相關的訴訟達成和解。白宮在三家媒體遭禁後推出名為川普電視（Trump TV）的二十四小時 YouTube 頻道。"
-    },
-    "body": {
-      "en": "Lede: Three major news organizations sued President Trump after losing White House access, while Paramount settled a merger-related lawsuit. What happened: CNN, MS NOW (formerly MSNBC) and Politico sued to regain entry to the White House following suspension of their badges. The suit accuses the administration of violating the US constitution. Separately, Paramount made concessions to resolve litigation over its Warner Bros. Discovery merger. Days after barring the three outlets, the White House launched a 24/7 YouTube channel titled Trump TV. Why it matters: The lawsuit represents a significant press-administration conflict over access rights. The merger settlement concludes a major corporate legal dispute. Sources agree/disagree: All sources confirm the lawsuit by CNN, MS NOW and Politico and the White House response. The Paramount settlement appears only in the NPR World report. Still uncertain: Details on the exact timing of badge suspensions and the full terms of the Paramount settlement remain unspecified in the provided sources.",
-      "zh-TW": "導言：三家主要新聞機構在失去白宮通行權後對川普總統提起訴訟，同時派拉蒙（Paramount）就併購相關訴訟達成和解。 事件經過：美國有線電視新聞網（CNN）、MS NOW（前身為 MSNBC）與 Politico 在通行證被停用後提起訴訟，要求恢復進入白宮的權利。訴訟指控政府違反美國憲法。此外，派拉蒙（Paramount）作出讓步以解決與華納兄弟探索（Warner Bros. Discovery）併購相關的訴訟。在禁止三家媒體進入白宮數日後，白宮推出名為川普電視（Trump TV）的二十四小時 YouTube 頻道。 重要性：此訴訟代表新聞界與政府在通行權上的重大衝突。併購和解結束了一項大型企業法律爭議。 來源一致與分歧：所有來源均確認美國有線電視新聞網（CNN）、MS NOW 與 Politico 的訴訟及白宮回應。派拉蒙（Paramount）和解僅出現於 NPR World 報導。 仍未確定：通行證停用確切時間及派拉蒙（Paramount）和解完整條款在來源中未詳述。"
-    },
-    "sources": [
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal"
-      },
-      {
-        "name": "The Guardian Business",
-        "url": "https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit"
-      }
-    ],
-    "disagreements": null,
-    "glossary": [
-      {
-        "term": {
-          "en": "CNN",
-          "zh-TW": "美國有線電視新聞網（CNN）"
-        },
-        "blurb": {
-          "en": "News organization that sued President Trump over White House access.",
-          "zh-TW": "對川普總統提起白宮通行權訴訟的新聞機構。"
-        }
-      },
-      {
-        "term": {
-          "en": "MS NOW",
-          "zh-TW": "MS NOW"
-        },
-        "blurb": {
-          "en": "Formerly MSNBC; news outlet that joined the lawsuit against Trump.",
-          "zh-TW": "前身為 MSNBC；參與對川普提起訴訟的新聞機構。"
-        }
-      },
-      {
-        "term": {
-          "en": "Politico",
-          "zh-TW": "Politico"
-        },
-        "blurb": {
-          "en": "News organization that sued to regain White House access.",
-          "zh-TW": "為恢復白宮通行權而提起訴訟的新聞機構。"
-        }
-      },
-      {
-        "term": {
-          "en": "Paramount",
-          "zh-TW": "派拉蒙（Paramount）"
-        },
-        "blurb": {
-          "en": "Company that settled a lawsuit over its Warner Bros. Discovery merger.",
-          "zh-TW": "就與華納兄弟探索（Warner Bros. Discovery）併購訴訟達成和解的公司。"
-        }
-      },
-      {
-        "term": {
-          "en": "Warner Bros. Discovery",
-          "zh-TW": "華納兄弟探索（Warner Bros. Discovery）"
-        },
-        "blurb": {
-          "en": "Entity involved in the merger lawsuit settled by Paramount.",
-          "zh-TW": "涉及派拉蒙（Paramount）和解併購訴訟的實體。"
-        }
-      }
-    ],
-    "trustScore": 78,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 22,
-      "crossCorroboration": 15,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "npr-world",
-      "the-guardian-business",
-      "npr-news"
-    ]
-  },
-  {
-    "id": "live-finance-01-muse-meta-s-extraordinar",
-    "category": "finance",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-finance-01-muse-meta-s-extraordinar.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "zh-TW": "相關封面圖：Meta（Meta） 的 Muse AI 助理 在 App Store 病毒式成功後面臨零時差漏洞"
-    },
-    "publishedAt": "2026-09-22T21:26:00.000Z",
-    "title": {
-      "en": "Meta's Muse AI Assistant Faces Zero-Day Vulnerability After Viral App Store Success",
-      "zh-TW": "Meta（Meta） 的 Muse AI 助理 在 App Store 病毒式成功後面臨零時差漏洞"
-    },
-    "summary": {
-      "en": "Meta's Muse app tops App Store charts and outpaces ChatGPT downloads, boosting AI strategy confidence per MarketWatch. Ars Technica reports a zero-day flaw allowing local apps full control, contradicting Zuckerberg's privacy claims, with Amazon blocking the app shortly after its recent launch.",
-      "zh-TW": "根據 MarketWatch，Meta（Meta） 的 Muse 應用程式登上 App Store 排行榜，超越 ChatGPT 早期下載速度，提升 AI 策略信心。Ars Technica 報導零時差漏洞讓本地應用程式取得完整控制權，與祖克柏（Mark Zuckerberg） 隱私宣稱相悖，Amazon 已在推出數週後封鎖該應用。"
-    },
-    "body": {
-      "en": "Lede: Meta's Muse AI assistant has achieved rapid viral success on app stores while facing a reported serious zero-day security vulnerability. What happened: MarketWatch notes Muse topping App Store charts and beating ChatGPT’s early download pace, spurring renewed confidence in the company’s AI strategy. Ars Technica states Meta founder and CEO Mark Zuckerberg hyped the security of Muse, claiming it is built from the ground up for privacy and security. A zero-day vulnerability gives locally run apps and terminal commands complete control of the agent. Amazon on Sunday began blocking Muse from its site. Meta introduced Muse a few weeks ago. The assistant books appointments, fills out forms and handles customer tasks. Why it matters: The combination of strong user adoption and security concerns raises questions about the balance between rapid AI deployment and protection measures in Meta's products. Sources agree/disagree: MarketWatch focuses on positive download metrics and strategy confidence. Ars Technica highlights the vulnerability and blocking action. No direct conflicts on shared facts. Still uncertain: Details on the full scope of the vulnerability impact or Amazon's exact reasons remain limited to the provided reports.",
-      "zh-TW": "導言：Meta（Meta） 的 Muse AI 助理 在應用程式商店取得快速病毒式成功，同時面臨報導中的嚴重零時差安全漏洞。 事件經過：MarketWatch 指出 Muse 登上 App Store 排行榜，超越 ChatGPT 早期下載速度，提升該公司 AI 策略信心。Ars Technica 表示 Meta 創辦人兼執行長 馬克·祖克柏（Mark Zuckerberg） 大力宣傳 Muse 的安全性，聲稱其從頭建置以確保隱私與安全。一項零時差漏洞讓本地執行的應用程式與終端命令取得代理程式的完整控制權。Amazon 已在週日開始從其網站封鎖 Muse。Meta 數週前推出 Muse。該助理可預約、填寫表格並處理客戶任務。 重要性：強勁使用者採用與安全疑慮的結合，引發關於 Meta 產品快速 AI 部署與保護措施平衡的疑問。 來源同意或分歧：MarketWatch 聚焦正面下載數據與策略信心。Ars Technica 強調漏洞與封鎖行動。共享事實無直接衝突。 仍不確定：漏洞影響完整範圍或 Amazon 確切原因的細節，僅限於所提供報導。"
-    },
-    "sources": [
-      {
-        "name": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories"
-      },
-      {
-        "name": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
-      }
-    ],
-    "disagreements": null,
-    "glossary": [
-      {
-        "term": {
-          "en": "Meta",
-          "zh-TW": "Meta（Meta）"
-        },
-        "blurb": {
-          "en": "Company that developed the Muse AI assistant.",
-          "zh-TW": "開發 Muse AI 助理的公司。"
-        }
-      },
-      {
-        "term": {
-          "en": "Muse",
-          "zh-TW": "Muse"
-        },
-        "blurb": {
-          "en": "Meta's AI assistant app that books appointments and handles forms.",
-          "zh-TW": "Meta（Meta） 的 AI 助理應用程式，可預約並處理表格。"
-        }
-      },
-      {
-        "term": {
-          "en": "Mark Zuckerberg",
-          "zh-TW": "馬克·祖克柏（Mark Zuckerberg）"
-        },
-        "blurb": {
-          "en": "Meta founder and CEO who promoted Muse security.",
-          "zh-TW": "Meta（Meta） 創辦人兼執行長，曾宣傳 Muse 安全性。"
-        }
-      },
-      {
-        "term": {
-          "en": "Amazon",
-          "zh-TW": "Amazon"
-        },
-        "blurb": {
-          "en": "Company that began blocking Muse from its site.",
-          "zh-TW": "開始從其網站封鎖 Muse 的公司。"
-        }
-      }
-    ],
-    "trustScore": 75,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 19,
-      "crossCorroboration": 15,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "finance",
-      "live-ingest",
-      "marketwatch",
-      "ars-technica"
-    ]
-  },
-  {
-    "id": "live-finance-02-trump-discloses-more-tha",
-    "category": "finance",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-finance-02-trump-discloses-more-tha.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-      "zh-TW": "相關封面圖：唐納·川普（Donald Trump）披露逾1100筆7月交易 包含微軟（Microsoft）與亞馬遜（Amazon）出售"
-    },
-    "publishedAt": "2026-09-22T22:03:33.000Z",
-    "title": {
-      "en": "Donald Trump Discloses Over 1,100 July Trades Including Microsoft and Amazon Sales",
-      "zh-TW": "唐納·川普（Donald Trump）披露逾1100筆7月交易 包含微軟（Microsoft）與亞馬遜（Amazon）出售"
-    },
-    "summary": {
-      "en": "Donald Trump filed disclosures showing more than 1,100 stock trades in July, with sales of Microsoft and Amazon stock each reaching up to $25 million on July 20. The trades occurred as major tech stocks rose sharply that day. Reports from CNBC and The Guardian detail purchases and sales totaling between $79 million and $270 million.",
-      "zh-TW": "唐納·川普（Donald Trump）提交文件顯示7月進行逾1100筆股票交易，7月20日出售微軟（Microsoft）與亞馬遜（Amazon）股票各達2500萬美元。交易發生在科技股大漲當日。CNBC與衛報報導指出買賣總額介於7900萬至2.7億美元。"
-    },
-    "body": {
-      "en": "Lede: Donald Trump reported more than 1,100 stock trades for July, including large sales of Microsoft and Amazon shares. What happened: According to filings analyzed by CNBC and The Guardian, Trump executed over 440 purchases and 700 sales in July. The two largest transactions were sales of Amazon and Microsoft stock, each between $5 million and $25 million, completed on July 20. Additional sales included Oracle, Costco, and Nvidia shares. Why it matters: The disclosures highlight trading activity by an elected official amid public scrutiny over stock trading by politicians. The sales coincided with a single-day gain of $291 billion in market value for Mag 7 stocks. Sources agree/disagree: Both outlets confirm the July 20 sales of Microsoft and Amazon up to $25 million each and the overall scale of activity exceeding 1,000 trades. Minor differences appear in reported totals, with one citing more than 1,100 trades and the other specifying 440 purchases plus 700 sales worth $79 million to $270 million. Still uncertain: Exact individual trade sizes beyond the reported ranges and the full list of all holdings remain subject to further review of the disclosures.",
-      "zh-TW": "導言：唐納·川普（Donald Trump）申報7月超過1100筆股票交易，包含微軟（Microsoft）與亞馬遜（Amazon）的大額出售。 事件經過：根據CNBC與衛報分析的文件，川普7月執行逾440筆買入與700筆賣出。最大兩筆交易為7月20日出售微軟（Microsoft）與亞馬遜（Amazon）股票，各介於500萬至2500萬美元。另有甲骨文（Oracle）、好市多（Costco）與輝達（Nvidia）股票出售。 重要性：這些揭露凸顯民選官員的交易活動，適逢公眾對政客股票交易的關注。出售發生在七大科技股單日市值增加2910億美元之際。 來源異同：兩家媒體均確認7月20日微軟（Microsoft）與亞馬遜（Amazon）各出售達2500萬美元，以及交易規模超過1000筆。細節略有差異，一方稱逾1100筆交易，另一方則列出440筆買入加700筆賣出，總值7900萬至2.7億美元。 仍未確定：超出已報範圍的個別交易確切規模，以及全部持股完整清單，仍待進一步審查文件。"
-    },
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html"
-      },
-      {
-        "name": "The Guardian Business",
-        "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing"
-      }
-    ],
-    "disagreements": {
-      "en": "Slight variations in trade counts (more than 1,100 vs. 440 purchases plus 700 sales) and total value ranges ($79m-$270m).",
-      "zh-TW": "交易筆數略有差異（逾1100筆 vs 440筆買入加700筆賣出）以及總值範圍（7900萬至2.7億美元）。"
-    },
-    "glossary": [
-      {
-        "term": {
-          "en": "Donald Trump",
-          "zh-TW": "唐納·川普（Donald Trump）"
-        },
-        "blurb": {
-          "en": "Former and current U.S. president filing the stock disclosures.",
-          "zh-TW": "提交股票揭露文件的前任及現任美國總統。"
-        }
-      },
-      {
-        "term": {
-          "en": "Microsoft",
-          "zh-TW": "微軟（Microsoft）"
-        },
-        "blurb": {
-          "en": "Technology company whose stock was sold in the reported trades.",
-          "zh-TW": "所報交易中出售股票的科技公司。"
-        }
-      },
-      {
-        "term": {
-          "en": "Amazon",
-          "zh-TW": "亞馬遜（Amazon）"
-        },
-        "blurb": {
-          "en": "Technology company whose stock was sold in the reported trades.",
-          "zh-TW": "所報交易中出售股票的科技公司。"
-        }
-      },
-      {
-        "term": {
-          "en": "Mag 7",
-          "zh-TW": "七大科技股（Mag 7）"
-        },
-        "blurb": {
-          "en": "Group of major technology stocks referenced in the market value gain.",
-          "zh-TW": "報導中提及市值增加的科技股群組。"
-        }
-      }
-    ],
-    "trustScore": 68,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 20,
-      "crossCorroboration": 7,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "finance",
-      "live-ingest",
-      "cnbc",
-      "the-guardian-business"
-    ]
   },
   {
     "id": "live-eastAsiaGossip-03-18-54-20260814-our-lifes",
@@ -462,160 +295,313 @@
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "publishedAt": "2026-09-21T10:30:28.000Z",
+    "imageUrl": "/covers/live/live-eastAsiaGossip-03-18-54-20260814-our-lifes.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 姚正菁剖白當年與郭富城分手原因 復出遭前輩藝人白眼 (18:54) - 20260814 - 明報 Our Lifestyle",
+      "zh-TW": "相關封面圖：姚正菁剖白當年與郭富城分手原因 復出遭前輩藝人白眼"
+    },
+    "publishedAt": "2026-09-23T23:00:00.000Z",
     "title": {
-      "en": "Wu Zongxian, Jolin Tsai, Yao Zhengjing and Other Taiwanese Celebrities Face Breakup and Divorce Reports",
-      "zh-TW": "吳宗憲（Wu Zongxian）、蔡依林（Jolin Tsai）、姚正菁（Yao Zhengjing）等台灣藝人爆分手離婚消息"
+      "en": "Yao Zhengjing Reveals Reason for Breakup with Aaron Kwok Years Ago and Faces Cold Shoulder from Senior Artists on Comeback",
+      "zh-TW": "姚正菁剖白當年與郭富城分手原因 復出遭前輩藝人白眼"
     },
     "summary": {
-      "en": "Multiple Taiwanese entertainment reports detail celebrity relationship endings. Jolin Tsai ends six-year romance with Jinrong while Wu Zongxian reflects on artist marriages. Yao Zhengjing explains past split from Aaron Kwok and faces cold reception on comeback. Other stories cover divorces involving Chen Yingjie, Zhang Weiwei and Xiaodao.",
-      "zh-TW": "多篇台灣娛樂報導揭露藝人感情結束消息。蔡依林結束與錦榮六年戀情，吳宗憲感慨藝人婚姻難幸福。姚正菁剖白與郭富城分手原因，復出遭前輩白眼。另有陳盈潔、張葳葳、小刀等離婚相關報導。"
+      "en": "Yao Zhengjing discusses the reason behind her past breakup with Aaron Kwok and notes receiving cold treatment from senior artists upon her return to the industry.",
+      "zh-TW": "姚正菁（Yao Zhengjing）剖白當年與郭富城（Aaron Kwok）分手原因，並提及復出時遭前輩藝人白眼。"
     },
     "body": {
-      "en": "Lede: Taiwanese entertainment outlets report several high-profile relationship endings and reflections from celebrities including Wu Zongxian, Jolin Tsai and Yao Zhengjing. What happened: 三立新聞 reports Jolin Tsai ended a six-year relationship with Jinrong, prompting Wu Zongxian to comment that artist marriages struggle to find happiness. 噓！星聞 covers Wu Zongxian giving all property to his ex-wife in a divorce twelve years ago and experts criticizing the decision. Additional 噓！星聞 items note Chen Yingjie’s ex-husband visiting her deathbed after twenty years apart, Wu Zongxian discussing gradual distance in his divorce from Zhang Weiwei, and Xiaodao allegedly divorcing two years ago while hiding it for a 5566 comeback. 明報 Our Lifestyle details Yao Zhengjing explaining her past breakup with Aaron Kwok and receiving cold stares from senior artists upon her return. Why it matters: These stories highlight ongoing public interest in the personal lives of Taiwanese entertainers and the challenges they face in relationships and comebacks. Sources agree/disagree: All sources focus on breakup and divorce topics without conflicting details on names or timelines. Still uncertain: Specific reasons behind some splits remain limited to individual statements from the celebrities involved.",
-      "zh-TW": "導言：台灣娛樂媒體報導多起藝人感情結束與相關反思，包括吳宗憲、蔡依林與姚正菁等。 事件經過：三立新聞報導蔡依林結束與錦榮六年戀情，吳宗憲感慨藝人婚姻難幸福。噓！星聞提及吳宗憲十二年前離婚將財產全給前妻，專家批評此舉。另有噓！星聞報導陳盈潔離世前離婚二十年前夫趕赴病榻道別、吳宗憲談與張葳葳漸行漸遠原因，以及小刀遭爆兩年前已離婚卻為5566復出隱瞞婚變。明報 Our Lifestyle 詳述姚正菁剖白當年與郭富城分手原因，復出遭前輩藝人白眼。 重要性：這些報導反映台灣娛樂圈藝人私生活持續受關注，以及他們在感情與復出上面臨的挑戰。 來源一致性：所有來源聚焦分手離婚主題，姓名與時間點無衝突。 仍未確定：部分分手具體原因僅限涉事藝人個人說明。"
+      "en": "Lede: Yao Zhengjing opens up about her past relationship with Aaron Kwok. What happened: The report states she explained the breakup reason from years ago and described facing cold looks from senior artists after her comeback. Why it matters: This falls under East Asia celebrity gossip involving Taiwanese and Hong Kong entertainment figures. Sources agree/disagree: Only one source title provides this information with no conflicting details from other snippets. Still uncertain: No additional details on the exact reasons or specific artists are available in the provided sources.",
+      "zh-TW": "導言：姚正菁剖白當年與郭富城分手原因。發生經過：報導指出她說明多年前分手緣由，並提到復出時遭前輩藝人白眼。為何重要：此屬東亞娛樂圈名人緋聞，涉及台灣與香港藝人。來源一致或分歧：僅單一來源標題提供此資訊，其他片段無衝突內容。仍未確定：來源未提供分手具體原因或前輩藝人姓名等細節。"
     },
     "sources": [
       {
+        "name": "ETtoday 影劇",
+        "url": "https://star.ettoday.net/news/3243064"
+      },
+      {
+        "name": "Google News TW Entertainment",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPNXFCSkZPQk82QTdyeTlJYlB5ekwwZkFDUFRKS1JraDdQYW1oRUs3LWtEZzh2dVpYcHB3bi1sTl9yREhUOXVSeEhCYkRsNDd6RHVMazBub1JmTWE1eTRsNTlRczhWZHZhaWhhbndUdEtidTNlYXJ5WEdrRlpJTFRZVnI3SmhhTnhvZl9iWmF0LWZRZ0lGcEhsc1BpNUdnVk5qVlctNm5yZ20tSy04dWpVWXI4bTFXcHd1c202dWlzSEg1TFJMVi1oT1VnZHBZM0JOcEc1N2dxSVhtVnNCWFFEWGxBNFd5OUtqWHA5YkJFMmN2cjQ0S0VaVnZOeXZCbjdJZXYzbDJ6YkVucTdwNWVGak42bUxRWFAzU3pLNGRwSXlMbF9CUkx2QldRZ2VCTW8ybU50UDhFVkdiOTJrS09GT2VRTUVyRGllVWJfYnlDbzVMS3dzOGRVUTBNWkVHYi1uRjhoTXdtNzRfZlhoMGt6VHVZajFXRUpFaDloX0dybEdRTWMxZ0xSaVhUajRzNTRqSjVoX1p3?oc=5"
+      },
+      {
         "name": "setn.com",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Dc2h4eUNJX19LdWZkWWdLdWVaenp2S0FadW9MaV9hd0VMbDZBbkNhanVYS3pWMzNfcTlfbmstajJEUkhCQzZR?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rbVRYM09LNE9pU2RWSGxMQU00aHBmWjA2UkNBaDA0TWVLX1JSdGEwaWd2UDRUdFdCbW9KV2Q2aUpOWTBVY2tnZFhn0gFfQVVfeXFMT0RoQnJ1Vy1xcDZsSXNvOXh4Z0tyUkdzZG1oTnYtQ0RKRzgyeFNzX210S3VZNUhGajBKQ0V2bWpsWTBud3dyeVdFWGdwR3RYLW5OTGNESURJdEtqX2Y5QWs?oc=5"
       },
       {
         "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Od0ZlaG1SMEI3cGkweXZjMnJpM1BOUG52WVRxUmROQmR5VUlzTmQ5N2U5dGxiRDJINDJlSzV6UGRvSjBSRXh0anNNV253b0tUM2tMR0FQTlQ0d9IBX0FVX3lxTE4tRmFfMFJrOHhXZmNjU243UU5vQXpWMnpwMjRDSGZqbTFsSWZhQ2FSbjdBOXlBX1NMdGpsUV8taHJ2Y045S0JUTy1ES1VVaGpzQ211cFlTQ1ZDSllOc2RN?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNUmJJVkkxeXE3MmRBQUVib083anBpMmFRNWdCZldlRFRQNHJpYUNTY2JhdW05ZXo2M3l2U2s0OXZHd24xektzaTNGTEhyUDBRLUZPdnFtNU11eHhtUm1icXRnRGJuUFdLYnhZQnJjVFl4OERyV1VGalRYYlhhQnZsdWFuV2ZyaEVIZDFoVHpDWERDMjlkQnQ1Z1hadk9DM0pzOVZ1bzh0T0t2bXdqcHR6UzFjU1h6UFhycm1wVjNQUDVIVHA1WlJDVlBrQ0VVMFF0YVM5dDlCc0ExeXlHd2I1ajRKYWxiSEhyREo0TlBUS3R1UHpUSWctY2ZvTXd2QjVPM1hkWGJZb1JTMlpoTlFRejRsQ3F6ekh0OG1rMk0tdmpZVEEzVG1USVZJVHpYajNlNFJpaWZkVjEzWjRHdGNYdEd4NjFWalBOdTB0S2J1OElYUzBWSEphYWFxSHlSZFNlQk5nNGw3V0ZMVExyblZNTkd1WkJvWmdyX0xJLUN2cEJjTDNBaGxrUnU0M096R2d1UERjYw?oc=5"
+      },
+      {
+        "name": "tvbs.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnZmdHQ2hTOVNOUW5XT2VtZ2t5ejU1ODhnMDNJUWZTNkFCNEdzVjd6TUZIWHpDdVBnSW1waUhtMWRoTno1Vk5YWHFULV80TXRZNFNBZFN6dDQ2WUxIT1dlWmxrMA?oc=5"
+      },
+      {
+        "name": "chinatimes.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0WlBLeW56WHVjMjUzV212bG1qMUNYd1gwVHhlQmJjWWpPRnpLWHZZa3hpR0pqUExjNVZRWjI1NThqWUhGcmJBYk9xMzBBRExnN0Q2Zllsekh0MzRfWHlaT214WlVBZGJOZlNYOUhB?oc=5"
+      },
+      {
+        "name": "news.ebc.net.tw",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfQTVRbzlsaGY0R0ZnaHdZN0o4bm9rMnZFc0k3QURYdnpXM1JjWVQydEE2amV5c1VBZFBtWGVrLTRuTkNrWC1oYXRB?oc=5"
+      },
+      {
+        "name": "cts.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpaVRTSW55MXktWjVKME1ITk05UXpjbEp5MnMxekhScUtKYUtLWlpGNVZaTGI4bllsSURwdTd3Tm1aM0NnMjZZSG9tc1NydXFOcWpjM0Nmd2dJcEVYaWdsNEYtc0VJN0RYdV9XNQ?oc=5"
+      },
+      {
+        "name": "mirrormedia.mg",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iYzhOeEYzRnlOekZBR0hNTTBxUklPSUF4ZjBzOEZnU010RVBlcmZvVjRZTVdQRTRLVFpvMW5iOHpXMmxaS0JsZjhtVEQ1UEpXc2NDMXBITFVJR0XSAWBBVV95cUxPWUJoclVYRFUzVUtPSEtnYXJrOUNaT1JVSXpZcHdXeXpLb0IwRFV6U1NnREJob093TUxPNnM3TU5rckNxc0U5ZXVmdi1FalJUYnpnS0V6YXRtYldwQ2RnRDg?oc=5"
       }
     ],
     "disagreements": {
-      "en": "Figures differ across outlets (e.g. 6 vs 12 in headlines/snippets).",
-      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 6 比 12）。"
+      "en": "Figures differ across outlets (e.g. 18 vs 4 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 18 比 4）。"
     },
-    "glossary": [
-      {
-        "term": {
-          "en": "Wu Zongxian",
-          "zh-TW": "吳宗憲（Wu Zongxian）"
-        },
-        "blurb": {
-          "en": "Taiwanese entertainer commenting on celebrity marriages and divorces.",
-          "zh-TW": "台灣藝人，評論藝人婚姻與離婚議題。"
-        }
-      },
-      {
-        "term": {
-          "en": "Jolin Tsai",
-          "zh-TW": "蔡依林（Jolin Tsai）"
-        },
-        "blurb": {
-          "en": "Taiwanese singer reported to have ended a six-year relationship.",
-          "zh-TW": "台灣歌手，據報結束六年戀情。"
-        }
-      },
-      {
-        "term": {
-          "en": "Yao Zhengjing",
-          "zh-TW": "姚正菁（Yao Zhengjing）"
-        },
-        "blurb": {
-          "en": "Taiwanese entertainer who discussed past breakup with Aaron Kwok.",
-          "zh-TW": "台灣藝人，曾談論與郭富城分手經過。"
-        }
-      },
-      {
-        "term": {
-          "en": "Aaron Kwok",
-          "zh-TW": "郭富城（Aaron Kwok）"
-        },
-        "blurb": {
-          "en": "Celebrity mentioned in Yao Zhengjing breakup account.",
-          "zh-TW": "姚正菁分手報導中提及的藝人。"
-        }
-      }
-    ],
-    "trustScore": 52,
+    "trustScore": 78,
     "trustBreakdown": {
-      "sourceDiversity": 16,
+      "sourceDiversity": 25,
       "outletReputation": 11,
-      "crossCorroboration": 7,
-      "recencyClarity": 18
+      "crossCorroboration": 17,
+      "recencyClarity": 25
     },
     "tags": [
       "eastAsiaGossip",
       "live-ingest",
       "region:tw",
-      "gnews-tw-分手+藝人/明星",
-      "gnews-tw-婚變/離婚+藝人",
-      "gnews-tw-婚變/離婚+藝人"
+      "ettoday-影劇",
+      "google-news-tw-entertainment",
+      "gnews-site:ettoday-分手/復合/婚"
     ],
     "region": "tw"
   },
   {
-    "id": "live-international-02-u-n-updates-as-trump-thr",
+    "id": "live-international-01-three-charged-with-assau",
     "category": "international",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-international-02-u-n-updates-as-trump-thr.jpg",
+    "imageUrl": "/covers/live/live-international-01-three-charged-with-assau.jpg",
     "imageAlt": {
-      "en": "Cover related to: U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
-      "zh-TW": "相關封面圖：唐納·川普（Donald Trump）在聯合國大會威脅消滅伊朗"
+      "en": "Cover related to: Three charged with assault after anti-migration protests in Hampshire",
+      "zh-TW": "相關封面圖：戈斯波特（Gosport）、漢普郡（Hampshire）：反移民抗議後三人被控襲擊"
     },
-    "publishedAt": "2026-09-23T02:00:26.000Z",
+    "publishedAt": "2026-09-23T22:41:27.000Z",
     "title": {
-      "en": "Donald Trump Threatens to Annihilate Iran at United Nations Assembly",
-      "zh-TW": "唐納·川普（Donald Trump）在聯合國大會威脅消滅伊朗"
+      "en": "Gosport, Hampshire: Three Charged with Assault After Anti-Migration Protests",
+      "zh-TW": "戈斯波特（Gosport）、漢普郡（Hampshire）：反移民抗議後三人被控襲擊"
     },
     "summary": {
-      "en": "US President Donald Trump warned he may annihilate Iran if no peace deal is reached during his UN speech. Other leaders highlighted deep global divisions at the assembly. Trump also met UK Prime Minister Andy Burnham on the sidelines, praising their relations despite tensions over Iran and AI.",
-      "zh-TW": "美國總統唐納·川普（Donald Trump）在聯合國演說中警告，若無法達成和平協議，可能消滅伊朗。其他領袖在會上強調全球嚴重分歧。川普並在場邊會晤英國首相安迪·伯納姆（Andy Burnham），讚揚雙邊關係。"
+      "en": "Three people were charged with assaulting an emergency worker after protests in Gosport, Hampshire, where hundreds gathered expecting a migrant boat. Six arrests occurred during the anti-migration demonstration at a marina on Tuesday night, according to Sky News and The Guardian.",
+      "zh-TW": "戈斯波特（Gosport）數百人週二晚聚集抗議移民船抵達，導致三人被控襲擊緊急工作者，六人遭逮捕，消息來自天空新聞與衛報。"
     },
     "body": {
-      "en": "Lede: US President Donald Trump stated he must decide whether to make a deal or annihilate Iran during his address at the UN General Assembly. What happened: Trump pondered extreme action against Iran in his speech while officials from both countries met on the sidelines. World leaders at the gathering typically focus on global harmony but instead warned of deep divisions. Why it matters: The remarks underscore escalating tensions between the US and Iran amid broader international disagreements. Sources agree/disagree: BBC World, NYT World and The Guardian UK News all report Trump's threat to annihilate Iran and note the unusual tone at the assembly. Still uncertain: Details on any specific outcomes from the US-Iran sidelines meetings remain limited in the provided reports.",
-      "zh-TW": "導言：美國總統唐納·川普（Donald Trump）在聯合國大會演說中表示，他必須決定是否達成協議或消滅伊朗。 事件經過：川普在演說中思考對伊朗採取極端行動，同時兩國官員在場邊會晤。與會領袖通常強調全球和諧，此次卻警告存在嚴重分歧。 重要性：此言論凸顯美伊緊張局勢升溫，以及國際間更廣泛的分歧。 來源一致或分歧：BBC World、NYT World 與 The Guardian UK News 均報導川普威脅消滅伊朗，並指出大會氛圍與往常不同。 仍未確定：美伊場邊會談的具體結果在提供的報導中仍有限。"
+      "en": "Lede: Three people face assault charges following anti-migration protests in Gosport, Hampshire. What happened: Hundreds gathered on Tuesday night at a marina in Gosport anticipating a small boat arrival. Protesters aimed to disrupt any asylum seekers. Three individuals were charged with assaulting an emergency worker. Six people were arrested by police during the events. Why it matters: The incident highlights tensions around migrant boat arrivals and local responses in UK coastal areas. Sources agree/disagree: Both Sky News and The Guardian confirm the charges and Gosport location; The Guardian adds details on crowd size, arrests, and mistaken beliefs about the boat. Still uncertain: Exact identities of those charged and full sequence of events remain limited in available reports.",
+      "zh-TW": "導言：戈斯波特（Gosport）反移民抗議後三人面臨襲擊指控。 事件經過：週二晚數百人聚集在戈斯波特（Gosport）碼頭，預期小船抵達，抗議者試圖阻撓尋求庇護者入境。三人被控襲擊緊急工作者，警方逮捕六人。 重要性：此事件凸顯英國沿海地區對移民船抵達的緊張局勢。 來源一致與分歧：天空新聞與衛報均確認指控及戈斯波特（Gosport）地點；衛報補充人群規模、逮捕人數及對船隻的誤判。 仍不確定：被控者確切身分及事件完整經過在現有報導中有限。"
     },
     "sources": [
       {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news"
+        "name": "Sky News UK",
+        "url": "https://news.sky.com/story/two-women-among-three-charged-with-assaulting-emergency-worker-after-migrant-boat-protest-13591073"
       },
       {
         "name": "The Guardian UK News",
-        "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting"
+        "url": "https://www.theguardian.com/uk-news/2026/sep/23/gosport-people-charged-anti-migration-protests"
       }
     ],
     "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "Donald Trump",
-          "zh-TW": "唐納·川普（Donald Trump）"
+          "en": "Gosport",
+          "zh-TW": "戈斯波特（Gosport）"
         },
         "blurb": {
-          "en": "President of the United States delivering the UN address.",
-          "zh-TW": "美國總統，在聯合國發表演說。"
+          "en": "Location in Hampshire where the protests and charges occurred.",
+          "zh-TW": "漢普郡（Hampshire）發生抗議與指控的地點。"
         }
       },
       {
         "term": {
-          "en": "United Nations",
-          "zh-TW": "聯合國（United Nations）"
+          "en": "Hampshire",
+          "zh-TW": "漢普郡（Hampshire）"
         },
         "blurb": {
-          "en": "International organization hosting the General Assembly in New York.",
-          "zh-TW": "在紐約舉辦大會的國際組織。"
+          "en": "UK county containing Gosport marina site of the events.",
+          "zh-TW": "包含戈斯波特（Gosport）碼頭事件的英國郡。"
+        }
+      }
+    ],
+    "trustScore": 76,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 20,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "sky-news-uk",
+      "the-guardian-uk-news"
+    ]
+  },
+  {
+    "id": "live-international-02-pupils-to-be-offered-voc",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-pupils-to-be-offered-voc.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Pupils to be offered vocational GCSEs in radical shake-up of system in England",
+      "zh-TW": "相關封面圖：英格蘭（England）教育系統職業GCSE課程改革"
+    },
+    "publishedAt": "2026-09-23T22:59:00.000Z",
+    "title": {
+      "en": "England Education System Vocational GCSEs Shake-up",
+      "zh-TW": "英格蘭（England）教育系統職業GCSE課程改革"
+    },
+    "summary": {
+      "en": "Teenagers in England will access new vocational GCSEs from 2029 to address youth unemployment affecting nearly a million young people. The plan allows supplementing core subjects like English, maths and sciences with courses such as construction, finance and creative media production. Government aims for education offering a path for everybody.",
+      "zh-TW": "英格蘭（England）青少年將自2029年起修習新職業GCSE課程，以因應近百萬青年失業問題。計畫允許在英文、數學與科學等必修科目外，增修建築、金融與創意媒體製作等課程。政府目標是提供人人皆有出路的教育。"
+    },
+    "body": {
+      "en": "Lede: England plans to introduce vocational GCSEs as part of a major education overhaul. What happened: Teenagers in England will be able to study new vocational GCSEs starting in 2029. Pupils can supplement compulsory subjects such as English, maths and sciences with courses including construction, finance and creative media production. The changes form part of the government's efforts to tackle youth unemployment. Why it matters: The shake-up targets a crisis leaving nearly a million young people out of work or training. It seeks to create education that offers a path for everybody. Sources agree/disagree: Sky News UK and The Guardian UK News both report the vocational GCSEs plan for England to address youth unemployment. The Guardian adds details on the 2029 start and specific courses. Still uncertain: Exact list of all available courses remains partial in reports.",
+      "zh-TW": "導言：英格蘭（England）計畫引入職業GCSE課程，作為教育大改革的組成部分。 事件經過：英格蘭（England）青少年將自2029年起修習新職業GCSE課程。學生可在英文、數學與科學等必修科目外，增修建築、金融與創意媒體製作等課程。此變革屬於政府因應青年失業的努力。 重要性：改革針對造成近百萬青年失業或未受訓的危機，目標是打造人人皆有出路的教育。 來源共識與分歧：天空新聞英國（Sky News UK）與衛報英國新聞（The Guardian UK News）均報導英格蘭（England）職業GCSE課程計畫，用以解決青年失業。衛報英國新聞補充2029年啟動與特定課程細節。 仍未確定：所有可用課程的完整清單在報導中仍屬部分。"
+    },
+    "sources": [
+      {
+        "name": "Sky News UK",
+        "url": "https://news.sky.com/story/teenagers-in-england-to-be-offered-new-vocational-gcses-13591233"
+      },
+      {
+        "name": "The Guardian UK News",
+        "url": "https://www.theguardian.com/education/2026/sep/23/vocational-gcse-radical-shake-up-education-system-england"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "GCSE",
+          "zh-TW": "GCSE（General Certificate of Secondary Education）"
+        },
+        "blurb": {
+          "en": "General Certificate of Secondary Education qualification taken by pupils in England.",
+          "zh-TW": "英格蘭（England）學生修習的中等教育普通證書資格。"
         }
       },
       {
         "term": {
-          "en": "Andy Burnham",
-          "zh-TW": "安迪·伯納姆（Andy Burnham）"
+          "en": "England",
+          "zh-TW": "英格蘭（England）"
         },
         "blurb": {
-          "en": "UK Prime Minister who met Donald Trump at the UN assembly.",
-          "zh-TW": "在聯合國大會會晤唐納·川普（Donald Trump）的英國首相。"
+          "en": "Country in the United Kingdom where the vocational GCSE changes apply.",
+          "zh-TW": "英國境內適用職業GCSE變革的國家。"
+        }
+      },
+      {
+        "term": {
+          "en": "PM",
+          "zh-TW": "首相（PM）"
+        },
+        "blurb": {
+          "en": "Prime Minister leading the education policy push described in reports.",
+          "zh-TW": "領導報導中所述教育政策推動的首相。"
+        }
+      }
+    ],
+    "trustScore": 76,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 20,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "sky-news-uk",
+      "the-guardian-uk-news"
+    ]
+  },
+  {
+    "id": "live-tech-01-meta-s-muse-ai-assistant",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-01-meta-s-muse-ai-assistant.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "zh-TW": "相關封面圖：Meta（Meta）推出 Muse（Muse）AI 助理 卻出現嚴重安全漏洞"
+    },
+    "publishedAt": "2026-09-24T01:13:32.000Z",
+    "title": {
+      "en": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "zh-TW": "Meta（Meta）推出 Muse（Muse）AI 助理 卻出現嚴重安全漏洞"
+    },
+    "summary": {
+      "en": "Meta rolled out its AI assistant Muse with claims of strong privacy and security from CEO Mark Zuckerberg at the Connect event. Reports from Ars Technica and Wired reveal a zero-day vulnerability allowing local apps and terminal commands full control on Macs, with Amazon blocking access and a fix later issued.",
+      "zh-TW": "Meta（Meta）執行長馬克·祖克柏（Mark Zuckerberg）在 Connect 活動推出 AI 助理 Muse（Muse），強調隱私安全。但 Ars Technica 與 Wired 報導指出存在零時差漏洞，讓本地應用程式與終端指令完全控制 Mac，Amazon 已封鎖存取並已發布修補。"
+    },
+    "body": {
+      "en": "Lede: Meta introduced its AI assistant Muse at the Connect event, positioning it as a secure tool for tasks like booking appointments and filling forms, but security flaws quickly emerged. What happened: CEO Mark Zuckerberg highlighted Muse at the Connect event in Menlo Park, announcing its expansion to Meta's AI glasses. Ars Technica reported a zero-day vulnerability giving locally run apps and terminal commands complete control of the agent. Wired noted Meta issued a fix for the flaw that could let attackers do whatever they wanted on a victim’s Mac. Amazon began blocking Muse from its site. Why it matters: The vulnerability contradicts Meta’s security claims and underscores risks of privileged AI assistants handling personal tasks on user devices. Sources agree/disagree: TechCrunch, Ars Technica, and Wired all confirm Muse’s rollout and Zuckerberg’s involvement at Connect. Ars Technica and Wired detail the zero-day and Amazon’s action, while Wired adds the fix issuance. Still uncertain: Details on the exact scope of customer handling functions and long-term impact of the fix remain limited in the provided reports.",
+      "zh-TW": "導言：Meta（Meta）在 Connect 活動推出 AI 助理 Muse（Muse），定位為安全工具，可處理預約與填表等任務，但安全漏洞隨即浮現。 事件經過：執行長馬克·祖克柏（Mark Zuckerberg）在門洛帕克（Menlo Park）舉行的 Connect 活動強調 Muse（Muse），並宣布擴展至 Meta（Meta）AI 眼鏡。Ars Technica 報導零時差漏洞讓本地應用程式與終端指令完全控制代理程式。Wired 指出 Meta（Meta）已發布修補，該漏洞可能讓攻擊者在受害者 Mac 上為所欲為。Amazon 已開始封鎖 Muse（Muse）在其網站的存取。 重要性：漏洞與 Meta（Meta）安全宣稱相悖，凸顯具特權 AI 助理處理使用者裝置個人任務的風險。 來源一致與分歧：TechCrunch、Ars Technica 與 Wired 均確認 Muse（Muse）推出及馬克·祖克柏（Mark Zuckerberg）在 Connect 的參與。Ars Technica 與 Wired 詳述零時差漏洞及 Amazon 行動，Wired 另提及修補發布。 仍未確定：客戶處理功能的確切範圍及修補長期影響，在提供的報導中仍有限。"
+    },
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+      },
+      {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Mark Zuckerberg",
+          "zh-TW": "馬克·祖克柏（Mark Zuckerberg）"
+        },
+        "blurb": {
+          "en": "CEO and founder of Meta.",
+          "zh-TW": "Meta（Meta）執行長兼創辦人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Meta",
+          "zh-TW": "Meta（Meta）"
+        },
+        "blurb": {
+          "en": "Company that developed the Muse AI assistant.",
+          "zh-TW": "開發 Muse（Muse）AI 助理的公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "Muse",
+          "zh-TW": "Muse（Muse）"
+        },
+        "blurb": {
+          "en": "Meta's AI assistant for tasks like booking appointments.",
+          "zh-TW": "Meta（Meta）用於預約等任務的 AI 助理。"
+        }
+      },
+      {
+        "term": {
+          "en": "Connect",
+          "zh-TW": "Connect（Connect）"
+        },
+        "blurb": {
+          "en": "Meta's annual event held in Menlo Park.",
+          "zh-TW": "Meta（Meta）在門洛帕克（Menlo Park）舉行的年度活動。"
         }
       }
     ],
@@ -627,281 +613,188 @@
       "recencyClarity": 25
     },
     "tags": [
-      "international",
+      "tech",
       "live-ingest",
-      "bbc-world",
-      "nyt-world",
-      "the-guardian-uk-news"
+      "techcrunch",
+      "ars-technica",
+      "wired-ai"
     ]
   },
   {
-    "id": "live-eastAsiaGossip-04-11-yahoo",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-04-11-yahoo.jpg",
-    "imageAlt": {
-      "en": "Cover related to: 遭爆11年婚變協議離婚方志友！楊銘威首公開現身了 「最新近況」曝 - Yahoo新聞",
-      "zh-TW": "相關封面圖：楊銘威（Yang Mingwei）、方志友（Fang Zhiyou）宣布結束11年婚姻"
-    },
-    "publishedAt": "2026-09-22T17:58:00.000Z",
-    "title": {
-      "en": "Yang Mingwei and Fang Zhiyou Announce End of 11-Year Marriage",
-      "zh-TW": "楊銘威（Yang Mingwei）、方志友（Fang Zhiyou）宣布結束11年婚姻"
-    },
-    "summary": {
-      "en": "Taiwanese celebrities Yang Mingwei and Fang Zhiyou have announced their divorce after 11 years of marriage, stating they will remain family. Past comments from Jia Jingwen resurfaced describing Yang's behavior at home, while Fang noted she considered ending the marriage multiple times.",
-      "zh-TW": "台灣藝人楊銘威（Yang Mingwei）與方志友（Fang Zhiyou）宣布結束11年婚姻，強調永遠是家人。賈靜雯（Jia Jingwen）昔日言論被翻出，提及楊在家像大少爺，方志友也曾表示想放棄婚姻不只一次。"
-    },
-    "body": {
-      "en": "Lede: Yang Mingwei has made his first public appearance following reports of his divorce from Fang Zhiyou after 11 years of marriage.\nWhat happened: Multiple outlets reported that Yang Mingwei and Fang Zhiyou announced the end of their 11-year marriage, with statements emphasizing they remain family. Older remarks from Jia Jingwen were recirculated, noting Yang often mentioned divorce after drinking and behaved like a young master at home. Fang Zhiyou previously acknowledged considering giving up on the marriage more than once.\nWhy it matters: The split joins other recent celebrity divorces in the region, drawing public attention to the couple's past statements.\nSources agree/disagree: Outlets consistently report the divorce announcement and reference the same past comments from Jia Jingwen and Fang Zhiyou.\nStill uncertain: Details on the exact timing of the public appearance and any new statements from Yang Mingwei remain limited to the reported exposure.",
-      "zh-TW": "導言：楊銘威在方志友傳出離婚消息後首度公開現身。\n事件經過：多家媒體報導楊銘威與方志友宣布結束11年婚姻，強調永遠是家人。賈靜雯過去言論被翻出，提及楊酒後常把離婚掛在嘴邊，在家中像大少爺。方志友先前也承認想放棄婚姻不只一次。\n為何重要：此離婚案與近期其他藝人婚姻變化一同引發關注。\n來源一致／分歧：各報導一致提及離婚宣布及賈靜雯、方志友的舊有發言。\n仍未確定：楊銘威最新現身細節與新聲明內容僅限於曝光報導。"
-    },
-    "sources": [
-      {
-        "name": "Yahoo TW 娛樂",
-        "url": "https://tw.news.yahoo.com/%E6%B7%B1%E5%A4%9C%E8%B7%9F%E8%8F%AF%E5%9C%8B%E8%80%81%E7%B8%BD%E5%BB%96%E8%A3%95%E8%BC%9D%E6%8C%89%E6%91%A9%E8%A2%AB%E6%8B%8D-%E9%99%B3%E9%9B%85%E7%90%B3%E7%88%86%E7%B7%8B%E8%81%9E%E9%A6%96%E7%99%BC%E8%81%B2%E4%BA%86-%E6%9C%80%E6%96%B0%E8%BF%91%E6%B3%81%E6%9B%9D-015800208.html"
-      },
-      {
-        "name": "news.ebc.net.tw",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfQTVRbzlsaGY0R0ZnaHdZN0o4bm9rMnZFc0k3QURYdnpXM1JjWVQydEE2amV5c1VBZFBtWGVrLTRuTkNrWC1oYXRB?oc=5"
-      },
-      {
-        "name": "mirrormedia.mg",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iYzhOeEYzRnlOekZBR0hNTTBxUklPSUF4ZjBzOEZnU010RVBlcmZvVjRZTVdQRTRLVFpvMW5iOHpXMmxaS0JsZjhtVEQ1UEpXc2NDMXBITFVJR0XSAWBBVV95cUxPWUJoclVYRFUzVUtPSEtnYXJrOUNaT1JVSXpZcHdXeXpLb0IwRFV6U1NnREJob093TUxPNnM3TU5rckNxc0U5ZXVmdi1FalJUYnpnS0V6YXRtYldwQ2RnRDg?oc=5"
-      },
-      {
-        "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mWFAzdFRyTV96cVgwX1dmdGNSZkk4eVMzXzhyWl9UY2I3REFWY1d0a0ROWDRCQ1RuTTJCSHNQVlVuLV9ZQnk2dUJiLUR4TDQ5RnduZFFZdw?oc=5"
-      },
-      {
-        "name": "nownews.com",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wdVJtem5KY3B6c3QyRy1nY3RzYTdXYkk5OVU5aW54YmE1UEVaTGpWRThFTTRUamt6MTIxSV9GeHBZMDI4Ny1mZ3NZRXDSAVJBVV95cUxPTTBQM2diYVRkWC05ZWNFY0JIYVZmdGRuVEMxVy11aVZMSnJUMVk0enpwa1FOSlFhSjVVOWJmYllZNkx0emtmV1VoSUdyWlhpTEdR?oc=5"
-      },
-      {
-        "name": "ettoday.net",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Tcl9iY3hsTjJWTTJka1R5OVMtaTdyam0yY0Z1MC1KdmlQYUNac1RCUlNhWjVoYWozemQyNURfakFmU2pMR3NOZGFoSS1FRE9fME52ck1KdVRLbTJES2fSAUtBVV95cUxNNFcxaC16VC1xOGdGc1JLQnpVOEFhV3JjT29ZY2V6YXBMUXJWSVBZejRoRzF1eVVjU19RaVUzRE5NQmRvLUFFaTVzVW8?oc=5"
-      },
-      {
-        "name": "setn.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EYW4zM2wxWGJUTDNSM3RVTkJvTDVKYW9Qb3JYTEdXNHBILTN4ZWx6SlpoQmhSY2pqSHBwRjl3ZlFJOTgxbGJvT9IBTEFVX3lxTFBrdDN6Tmowc1h5Sjc5YnlxdlhWb1JHZkY1ajJpbzh2X0gtRVlJN1hseUpTLVNBWXN6UTU3Q0RXbWh4Y3RJMktrcUh2Rzg?oc=5"
-      },
-      {
-        "name": "chinatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0WlBLeW56WHVjMjUzV212bG1qMUNYd1gwVHhlQmJjWWpPRnpLWHZZa3hpR0pqUExjNVZRWjI1NThqWUhGcmJBYk9xMzBBRExnN0Q2Zllsekh0MzRfWHlaT214WlVBZGJOZlNYOUhB?oc=5"
-      },
-      {
-        "name": "cts.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpaVRTSW55MXktWjVKME1ITk05UXpjbEp5MnMxekhScUtKYUtLWlpGNVZaTGI4bllsSURwdTd3Tm1aM0NnMjZZSG9tc1NydXFOcWpjM0Nmd2dJcEVYaWdsNEYtc0VJN0RYdV9XNQ?oc=5"
-      }
-    ],
-    "disagreements": {
-      "en": "Figures differ across outlets (e.g. 15 vs 11 in headlines/snippets).",
-      "zh-TW": "（譯文待補）Figures differ across outlets (e.g. 15 vs 11 in headlines/snippets)."
-    },
-    "glossary": [
-      {
-        "term": {
-          "en": "Yang Mingwei",
-          "zh-TW": "楊銘威（Yang Mingwei）"
-        },
-        "blurb": {
-          "en": "Taiwanese celebrity reported to have divorced after 11 years of marriage.",
-          "zh-TW": "據報結束11年婚姻的台灣藝人。"
-        }
-      },
-      {
-        "term": {
-          "en": "Fang Zhiyou",
-          "zh-TW": "方志友（Fang Zhiyou）"
-        },
-        "blurb": {
-          "en": "Taiwanese celebrity who announced divorce after 11 years of marriage.",
-          "zh-TW": "宣布結束11年婚姻的台灣藝人。"
-        }
-      },
-      {
-        "term": {
-          "en": "Jia Jingwen",
-          "zh-TW": "賈靜雯（Jia Jingwen）"
-        },
-        "blurb": {
-          "en": "Celebrity whose past comments about Yang Mingwei were recirculated.",
-          "zh-TW": "過去言論被翻出的藝人。"
-        }
-      }
-    ],
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 11,
-      "crossCorroboration": 17,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "eastAsiaGossip",
-      "live-ingest",
-      "region:tw",
-      "yahoo-tw-娛樂",
-      "yahoo-tw-娛樂",
-      "gnews-tw-婚變/離婚+藝人"
-    ],
-    "region": "tw"
-  },
-  {
-    "id": "live-international-03-sri-lanka-convicts-15-in",
-    "category": "international",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-03-sri-lanka-convicts-15-in.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Sri Lanka Convicts 15 in Easter 2019 Bomb Attacks",
-      "zh-TW": "相關封面圖：斯里蘭卡（Sri Lanka）法院判定15人犯下2019年復活節爆炸案"
-    },
-    "publishedAt": "2026-09-22T19:47:44.000Z",
-    "title": {
-      "en": "Sri Lanka Court Convicts 15 in Easter 2019 Bomb Attacks",
-      "zh-TW": "斯里蘭卡（Sri Lanka）法院判定15人犯下2019年復活節爆炸案"
-    },
-    "summary": {
-      "en": "A Sri Lankan court convicted 15 men for coordinating the 2019 Easter Sunday bombings that struck three churches and three luxury hotels. The attacks killed hundreds and were among the deadliest in the country's history.",
-      "zh-TW": "斯里蘭卡（Sri Lanka）法院判定15人參與策劃2019年復活節週日爆炸攻擊，目標包括三座教堂與三家豪華飯店，造成數百人死亡，是該國史上最嚴重攻擊之一。"
-    },
-    "body": {
-      "en": "Lede: Sri Lanka court convicts 15 men over the 2019 Easter bombings. What happened: A court found the 15 men guilty of coordinating suicide bombings on Easter Sunday 2019 that targeted three churches and three luxury hotels. The attacks killed 270 people according to BBC World, more than 300 according to NYT World, and included 42 foreigners per NPR World. The bombings were Islamic State group-inspired. Why it matters: The attacks rank among the deadliest in Sri Lanka's history. Sources agree/disagree: All three sources agree on the conviction of 15 men for the bombings. Still uncertain: Exact death toll varies across reports.",
-      "zh-TW": "導言：斯里蘭卡（Sri Lanka）法院判定15人犯下2019年復活節爆炸案。 事件經過：法院認定這15人策劃2019年復活節週日自殺炸彈攻擊，目標為三座教堂與三家豪華飯店。根據BBC World報導死亡人數為270人，NYT World則稱超過300人，NPR World指出其中包含42名外國人。這些攻擊受到伊斯蘭國（Islamic State）啟發。 事件重要性：這些攻擊是斯里蘭卡（Sri Lanka）史上最嚴重之一。 來源一致與分歧：三家來源均同意15人被判有罪。 仍未確定事項：死亡人數在各報導中有所差異。"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings"
-      },
-      {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/2026/09/22/world/asia/sri-lanka-convictions-easter-2019-bomb-attacks.html"
-      }
-    ],
-    "disagreements": {
-      "en": "Sources differ on fatalities: BBC World reports 270 killed, NYT World states more than 300, NPR World notes 42 foreigners killed.",
-      "zh-TW": "來源對死亡人數有分歧：BBC World報導270人死亡，NYT World稱超過300人，NPR World指出42名外國人喪生。"
-    },
-    "glossary": [
-      {
-        "term": {
-          "en": "Sri Lanka",
-          "zh-TW": "斯里蘭卡（Sri Lanka）"
-        },
-        "blurb": {
-          "en": "Country where the 2019 Easter bombings occurred.",
-          "zh-TW": "2019年復活節爆炸案發生地。"
-        }
-      },
-      {
-        "term": {
-          "en": "Islamic State group",
-          "zh-TW": "伊斯蘭國（Islamic State）"
-        },
-        "blurb": {
-          "en": "Group that inspired the 2019 bombings per NPR World.",
-          "zh-TW": "據NPR World報導為2019年爆炸案靈感來源的組織。"
-        }
-      }
-    ],
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 18,
-      "crossCorroboration": 14,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-world",
-      "npr-world",
-      "nyt-world"
-    ]
-  },
-  {
-    "id": "live-entertainment-02-outkast-sues-ovrkast-for",
+    "id": "live-entertainment-01-ray-ban-meta-creates-fir",
     "category": "entertainment",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-02-outkast-sues-ovrkast-for.jpg",
+    "imageUrl": "/covers/live/live-entertainment-01-ray-ban-meta-creates-fir.jpg",
     "imageAlt": {
-      "en": "Cover related to: Outkast Sues Ovrkast for Allegedly Hijacking Its ‘Famous, Extremely Valuable’ Name",
-      "zh-TW": "相關封面圖：Outkast（Outkast） 控告 Ovrkast（Ovrkast） 商標侵權 指控名稱近乎相同"
+      "en": "Cover related to: Ray-Ban Meta Creates First Audio-Only Glasses Amid Online Discussions Over Camera Recording & Privacy",
+      "zh-TW": "相關封面圖：雷朋 Meta（Ray-Ban Meta）推出無攝影機音訊眼鏡 引發隱私討論"
     },
-    "publishedAt": "2026-09-23T01:34:34.000Z",
+    "publishedAt": "2026-09-24T01:08:52.000Z",
     "title": {
-      "en": "Outkast Sues Ovrkast for Trademark Infringement Over Nearly Identical Name",
-      "zh-TW": "Outkast（Outkast） 控告 Ovrkast（Ovrkast） 商標侵權 指控名稱近乎相同"
+      "en": "Ray-Ban Meta Audio Glasses Launch Camera-Free Amid Privacy Discussions",
+      "zh-TW": "雷朋 Meta（Ray-Ban Meta）推出無攝影機音訊眼鏡 引發隱私討論"
     },
     "summary": {
-      "en": "Outkast has filed a trademark infringement lawsuit against rapper Ovrkast in Atlanta federal court, alleging the California artist Silas Wilson deliberately adopted a nearly identical name and reneged on a prior settlement agreement to change it.",
-      "zh-TW": "Outkast（Outkast） 在亞特蘭大聯邦法院對說唱歌手 Ovrkast（Ovrkast） 提起商標侵權訴訟，指控加州藝人 Silas Wilson（Silas Wilson） 故意採用近乎相同的名稱，並違背先前和解協議更改名字。"
+      "en": "Ray-Ban Meta introduced its first audio-only smart glasses without cameras at Meta Connect 2026, responding to public concerns over recording and privacy. The move comes alongside updates to Muse AI features on glasses and new VR products from Meta.",
+      "zh-TW": "雷朋 Meta（Ray-Ban Meta）在 Meta Connect 2026 推出首款無攝影機音訊智慧眼鏡，回應大眾對錄影與隱私的疑慮。此舉同時伴隨 Muse AI 在眼鏡上的功能更新，以及 Meta 的新 VR 產品。"
     },
     "body": {
-      "en": "Lede: Outkast has sued rapper and producer Ovrkast for trademark infringement over his nearly identical name. What happened: In a lawsuit filed last week in Atlanta federal court, attorneys for the hip-hop duo André 3000 and Big Boi accused the California artist Silas Wilson of knowingly, willfully, intentionally, and maliciously trying to link himself to Outkast. The suit claims Ovrkast reneged on a secret settlement to change his name. Rolling Stone reports the Atlanta hip-hop duo says Ovrkast agreed to adopt a new name but later backed out of the deal. Why it matters: The case centers on protection of the Outkast brand, described in one report as famous and extremely valuable. Sources agree/disagree: Both Billboard and Rolling Stone confirm the filing of the trademark lawsuit and the claim that Ovrkast backed out of an agreement to change his name. Still uncertain: Details of the secret settlement remain limited to the court filing description.",
-      "zh-TW": "導言：Outkast（Outkast） 已對說唱歌手兼製作人 Ovrkast（Ovrkast） 提起商標侵權訴訟，指控其名稱近乎相同。 事件經過：上週在亞特蘭大聯邦法院提起的訴訟中，嘻哈二人組 André 3000（André 3000） 與 Big Boi（Big Boi） 的律師指控加州藝人 Silas Wilson（Silas Wilson） 明知、故意、蓄意且惡意地試圖與 Outkast（Outkast） 連結。訴訟聲稱 Ovrkast（Ovrkast） 違背秘密和解協議更改名稱。Rolling Stone 報導指出，亞特蘭大嘻哈二人組表示 Ovrkast（Ovrkast） 同意採用新名稱但後來退出協議。 事件重要性：案件核心在於保護 Outkast（Outkast） 品牌，一篇報導形容其為著名且極具價值。 來源一致與分歧：Billboard 與 Rolling Stone 均確認商標訴訟已提起，並提及 Ovrkast（Ovrkast） 退出更改名稱協議。 仍未確定事項：秘密和解的細節僅限於法院文件描述。"
+      "en": "Lede: Ray-Ban Meta has created its first audio-only glasses, ditching the camera in response to online discussions about recording and privacy. What happened: At Meta Connect 2026, the company unveiled the Ray-Ban Meta Audio Glasses with no cameras. Meta also announced plans to bring the Muse AI agent to its smart glasses, including new accessibility features. Other releases include a $1,299 Meta VR Glasses model and the Muse Charm pendant device. Why it matters: The camera-free design addresses growing public backlash against wearable surveillance tech, making the glasses less likely to raise social concerns in everyday settings. Sources agree/disagree: All sources confirm the absence of cameras on the new Ray-Ban Meta Audio Glasses and the push for Muse AI integration. No numerical or naming conflicts appear. Still uncertain: Exact launch dates for the audio glasses and full Muse features on them remain unspecified beyond fall market expansions.",
+      "zh-TW": "Lede: 雷朋 Meta（Ray-Ban Meta）推出首款純音訊眼鏡，移除攝影機以回應網路對錄影與隱私的討論。 What happened: 在 Meta Connect 2026 活動中，該公司發表雷朋 Meta（Ray-Ban Meta）音訊眼鏡，無搭載攝影機。Meta 同時宣布將 Muse AI 代理程式帶入智慧眼鏡，並加入新無障礙功能。其他發布包括 1299 美元的 Meta VR 眼鏡，以及 Muse Charm 吊墜裝置。 Why it matters: 無攝影機設計回應大眾對穿戴式監控科技的反彈，讓眼鏡在日常使用中較不易引發社交疑慮。 Sources agree/disagree: 所有來源均確認新款雷朋 Meta（Ray-Ban Meta）音訊眼鏡無攝影機，並推動 Muse AI 整合。未出現數字或名稱衝突。 Still uncertain: 音訊眼鏡確切上市日期及 Muse 完整功能細節，除秋季新市場擴張外仍未具體說明。"
     },
     "sources": [
       {
-        "name": "Billboard",
-        "url": "https://www.billboard.com/pro/outkast-sues-rapper-ovrkast-trademark-lawsuit-similar-name/"
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2267220/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/"
       },
       {
-        "name": "Rolling Stone Music",
-        "url": "https://www.rollingstone.com/music/music-news/outkast-sues-ovrkast-trademark-infringement-big-boi-andre-1235630184/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+      },
+      {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/"
+      },
+      {
+        "name": "Billboard",
+        "url": "https://www.billboard.com/culture/product-recommendations/ray-ban-meta-audio-only-ai-glasses-no-camera-shop-online-1236345627/"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 1 vs 3 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 1 比 3）。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Ray-Ban Meta",
+          "zh-TW": "雷朋 Meta（Ray-Ban Meta）"
+        },
+        "blurb": {
+          "en": "Collaboration between Ray-Ban and Meta producing smart glasses.",
+          "zh-TW": "雷朋與 Meta 合作推出的智慧眼鏡系列。"
+        }
+      },
+      {
+        "term": {
+          "en": "Muse",
+          "zh-TW": "Muse"
+        },
+        "blurb": {
+          "en": "Meta's AI agent designed for tasks like workouts and shopping assistance.",
+          "zh-TW": "Meta 的 AI 代理程式，用於引導運動、記錄餐點等任務。"
+        }
+      },
+      {
+        "term": {
+          "en": "Meta Connect",
+          "zh-TW": "Meta Connect"
+        },
+        "blurb": {
+          "en": "Meta's annual event for announcing hardware and AI updates.",
+          "zh-TW": "Meta 年度活動，用於發表硬體與 AI 更新。"
+        }
+      }
+    ],
+    "trustScore": 84,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 17,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "engadget",
+      "cnbc",
+      "techcrunch"
+    ]
+  },
+  {
+    "id": "live-tech-02-meta-connect-2026-the-7-",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-02-meta-connect-2026-the-7-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Meta Connect 2026: The 7 biggest announcements",
+      "zh-TW": "相關封面圖：Meta（Meta）Connect 2026 發表新款 VR 眼鏡與穿戴裝置"
+    },
+    "publishedAt": "2026-09-24T00:07:34.000Z",
+    "title": {
+      "en": "Meta Connect 2026: New VR Glasses and Wearables Announced",
+      "zh-TW": "Meta（Meta）Connect 2026 發表新款 VR 眼鏡與穿戴裝置"
+    },
+    "summary": {
+      "en": "Meta showcased new wearables at its annual event, including Meta VR Glasses in a lightweight frame with tethered puck, screen-free smart glasses, AI features, and style options. Coverage from The Verge and Engadget highlights these as key reveals alongside possible privacy updates.",
+      "zh-TW": "Meta（Meta）在年度活動中展示新款穿戴裝置，包括輕量框架搭配繫繩小盒的 Meta VR Glasses（Meta VR Glasses）、無螢幕智慧眼鏡、AI 功能及款式選擇。The Verge 與 Engadget 報導指出這些為重點，並提及可能的隱私更新。"
+    },
+    "body": {
+      "en": "Lede: Meta presented a range of new wearables during its Meta Connect 2026 showcase. What happened: The company announced Meta VR Glasses that integrate virtual reality technology into a lightweight smart glasses-style frame with a tethered puck. New pairs of screen-free smart glasses were also revealed along with additional AI features and style and frame options. Mentions include Aviator-style Ray-Ban Meta specs and Ace Attorney in virtual reality. Why it matters: The announcements align with Meta's focus on AI and wearables, potentially addressing user scrutiny over covert recording with the glasses. Sources agree/disagree: The Verge and Engadget both report the core wearables and AI updates without conflicting details. Still uncertain: Specific privacy measures for recording concerns remain unconfirmed in the provided coverage.",
+      "zh-TW": "Lede: Meta（Meta）在 Meta Connect 2026 展示中發表一系列新款穿戴裝置。 What happened: 該公司宣布 Meta VR Glasses（Meta VR Glasses），將虛擬實境技術整合進輕量智慧眼鏡式框架並搭配繫繩小盒。同時推出無螢幕智慧眼鏡、額外 AI 功能及款式與框架選擇。提及包括飛行員風格 Ray-Ban Meta specs（Ray-Ban Meta specs）以及 Ace Attorney（Ace Attorney）虛擬實境版本。 Why it matters: 這些宣布符合 Meta（Meta）對 AI 與穿戴裝置的重點，可能回應使用者對眼鏡隱密錄影的疑慮。 Sources agree/disagree: The Verge 與 Engadget 均報導核心穿戴裝置與 AI 更新，無衝突細節。 Still uncertain: 針對錄影疑慮的具體隱私措施在提供的報導中仍未確認。"
+    },
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/"
       }
     ],
     "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "Outkast",
-          "zh-TW": "Outkast（Outkast）"
+          "en": "Meta",
+          "zh-TW": "Meta（Meta）"
         },
         "blurb": {
-          "en": "Legendary hip-hop duo consisting of André 3000 and Big Boi.",
-          "zh-TW": "由 André 3000（André 3000） 與 Big Boi（Big Boi） 組成的傳奇嘻哈二人組。"
+          "en": "Company hosting the annual Connect event.",
+          "zh-TW": "舉辦年度 Connect 活動的公司。"
         }
       },
       {
         "term": {
-          "en": "Ovrkast",
-          "zh-TW": "Ovrkast（Ovrkast）"
+          "en": "Meta VR Glasses",
+          "zh-TW": "Meta VR Glasses（Meta VR Glasses）"
         },
         "blurb": {
-          "en": "Rapper and producer Silas Wilson accused in the trademark lawsuit.",
-          "zh-TW": "在商標訴訟中被控的說唱歌手兼製作人 Silas Wilson（Silas Wilson）。"
+          "en": "New virtual reality product in lightweight frame with tethered puck.",
+          "zh-TW": "新款虛擬實境產品，採用輕量框架搭配繫繩小盒。"
         }
       },
       {
         "term": {
-          "en": "André 3000",
-          "zh-TW": "André 3000（André 3000）"
+          "en": "Mark Zuckerberg",
+          "zh-TW": "Mark Zuckerberg（Mark Zuckerberg）"
         },
         "blurb": {
-          "en": "Member of the hip-hop duo Outkast.",
-          "zh-TW": "嘻哈二人組 Outkast（Outkast） 成員。"
+          "en": "CEO of Meta expected to discuss AI and wearables.",
+          "zh-TW": "Meta（Meta）執行長，預計討論 AI 與穿戴裝置。"
         }
       },
       {
         "term": {
-          "en": "Big Boi",
-          "zh-TW": "Big Boi（Big Boi）"
+          "en": "Ray-Ban Meta specs",
+          "zh-TW": "Ray-Ban Meta specs（Ray-Ban Meta specs）"
         },
         "blurb": {
-          "en": "Member of the hip-hop duo Outkast.",
-          "zh-TW": "嘻哈二人組 Outkast（Outkast） 成員。"
+          "en": "Aviator-style smart glasses mentioned in announcements.",
+          "zh-TW": "宣布中提及的飛行員風格智慧眼鏡。"
         }
       }
     ],
@@ -913,10 +806,104 @@
       "recencyClarity": 25
     },
     "tags": [
+      "tech",
+      "live-ingest",
+      "the-verge",
+      "the-verge",
+      "engadget"
+    ]
+  },
+  {
+    "id": "live-entertainment-02-dolly-parton-s-estate-gr",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-02-dolly-parton-s-estate-gr.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Dolly Parton’s Estate Grants Restraining Order Against Nephew: ‘Demands for Payment’",
+      "zh-TW": "相關封面圖：多莉·帕頓（Dolly Parton）遺產針對侄子布萊恩·西弗（Bryan Seaver）取得限制令，涉及付款要求"
+    },
+    "publishedAt": "2026-09-24T01:10:29.000Z",
+    "title": {
+      "en": "Dolly Parton Estate Secures Restraining Order Against Nephew Bryan Seaver Over Payment Demands",
+      "zh-TW": "多莉·帕頓（Dolly Parton）遺產針對侄子布萊恩·西弗（Bryan Seaver）取得限制令，涉及付款要求"
+    },
+    "summary": {
+      "en": "A Tennessee judge granted Dolly Parton’s estate a temporary restraining order against nephew Bryan Seaver ahead of an October 7 hearing, citing demands for payment and extortion claims. Freida Parton stated there is no family feud. Sources include Rolling Stone, TMZ, BBC, and CBS News.",
+      "zh-TW": "田納西州法官核准多莉·帕頓（Dolly Parton）遺產對侄子布萊恩·西弗（Bryan Seaver）發出臨時限制令，聽證會定於10月7日，理由涉及付款要求與勒索指控。弗蕾達·帕頓（Freida Parton）表示家族無爭執。來源包括Rolling Stone、TMZ、BBC與CBS News。"
+    },
+    "body": {
+      "en": "Lede: A Tennessee judge granted Dolly Parton’s estate a temporary restraining order against nephew Bryan Seaver on Wednesday ahead of an October 7 hearing. What happened: Rolling Stone reported the order followed demands for payment. BBC noted accusations that Seaver, who announced Parton’s death in a video last month, used threats and intimidation to extort the estate. CBS News confirmed the court order bars Seaver from most estate dealings amid extortion claims. Why it matters: The case involves estate management and family allegations in a high-profile entertainment matter. Sources agree/disagree: Rolling Stone, BBC, and CBS News align on the restraining order and extortion accusations. TMZ reports Freida Parton’s Instagram statement denying any family feud. Still uncertain: Details on the exact nature of payment demands remain limited to court filings referenced in the reports.",
+      "zh-TW": "導言：田納西州法官於週三核准多莉·帕頓（Dolly Parton）遺產對侄子布萊恩·西弗（Bryan Seaver）發出臨時限制令，聽證會定於10月7日。 事件經過：Rolling Stone報導該命令因付款要求而發出。BBC指出西弗上月發布帕頓逝世影片，遭控以威脅與恐嚇方式勒索遺產。CBS News證實法院命令禁止西弗涉入大多數遺產事務，理由為勒索指控。 重要性：此案涉及娛樂圈高知名度人士的遺產管理與家族指控。 來源異同：Rolling Stone、BBC與CBS News一致指出限制令與勒索指控。TMZ報導弗蕾達·帕頓（Freida Parton）在Instagram發文否認家族有爭執。 仍未確定：付款要求的確切細節僅限於報導提及的法院文件。"
+    },
+    "sources": [
+      {
+        "name": "Rolling Stone Music",
+        "url": "https://www.rollingstone.com/music/music-news/dolly-parton-estate-granted-restraining-order-against-nephew-1235630808/"
+      },
+      {
+        "name": "TMZ",
+        "url": "https://www.tmz.com/2026/09/23/dolly-partons-sister-freida-denies-family-feud/"
+      },
+      {
+        "name": "BBC Entertainment",
+        "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "CBS News Crime",
+        "url": "https://www.cbsnews.com/video/dolly-partons-nephew-ordered-by-court-to-stay-out-of-estate-dealings-amid-extortion-claims/"
+      }
+    ],
+    "disagreements": {
+      "en": "TMZ reports Freida Parton denying any family feud while other sources detail accusations of threats and extortion by Bryan Seaver.",
+      "zh-TW": "TMZ報導弗蕾達·帕頓（Freida Parton）否認家族有爭執，其他來源則詳述布萊恩·西弗（Bryan Seaver）的威脅與勒索指控。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Dolly Parton",
+          "zh-TW": "多莉·帕頓（Dolly Parton）"
+        },
+        "blurb": {
+          "en": "Subject of the estate in the reported legal matter.",
+          "zh-TW": "本案報導中遺產的主體。"
+        }
+      },
+      {
+        "term": {
+          "en": "Bryan Seaver",
+          "zh-TW": "布萊恩·西弗（Bryan Seaver）"
+        },
+        "blurb": {
+          "en": "Nephew subject to the temporary restraining order from the estate.",
+          "zh-TW": "遭遺產發出臨時限制令的侄子。"
+        }
+      },
+      {
+        "term": {
+          "en": "Freida Parton",
+          "zh-TW": "弗蕾達·帕頓（Freida Parton）"
+        },
+        "blurb": {
+          "en": "Sister who posted on Instagram denying a family feud.",
+          "zh-TW": "在Instagram發文否認家族爭執的姊姊。"
+        }
+      }
+    ],
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 15,
+      "crossCorroboration": 25,
+      "recencyClarity": 25
+    },
+    "tags": [
       "entertainment",
       "live-ingest",
-      "billboard",
-      "rolling-stone-music"
+      "rolling-stone-music",
+      "tmz",
+      "bbc-entertainment"
     ]
   }
 ]
