@@ -4,7 +4,7 @@
  */
 
 import type { Category, EastAsiaRegion, Story, TrustBreakdown } from "./types";
-import { computeTrustScore } from "./trust";
+import { computeTrustScore, isDeathRumorText } from "./trust";
 
 export interface FeedSource {
   id: string;
@@ -1740,6 +1740,25 @@ export function pickBalancedClusters(
       for (const kw of heatKeywords) {
         if (kw && c.primaryTitle.includes(kw)) score += 12;
       }
+      // Celebrity death-rumor heat: keep card-eligible even without obituaries
+      if (
+        isDeathRumorText(
+          c.primaryTitle,
+          ...c.members.map((m) => `${m.title} ${m.description}`)
+        )
+      ) {
+        score += 16;
+      }
+    }
+    // Western entertainment / intl celebrity death rumor — mild pick boost
+    if (
+      (c.category === "entertainment" || c.category === "international") &&
+      isDeathRumorText(
+        c.primaryTitle,
+        ...c.members.map((m) => `${m.title} ${m.description}`)
+      )
+    ) {
+      score += 12;
     }
     // Prefer clear crime/accident society clusters
     if (c.category === "society") {

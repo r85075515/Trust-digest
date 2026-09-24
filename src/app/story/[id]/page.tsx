@@ -105,6 +105,14 @@ export default function StoryDetailPage({
               " " +
               story.body.en
             }
+            category={story.category}
+            sourceDomains={story.sources.map((s) => {
+              try {
+                return new URL(s.url).hostname;
+              } catch {
+                return s.name;
+              }
+            })}
           />
           <time className="text-xs text-slate-400">
             {new Date(story.publishedAt).toLocaleString(
