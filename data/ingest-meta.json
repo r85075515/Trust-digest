@@ -1,17 +1,17 @@
 {
-  "ingestedAt": "2026-09-24T13:37:52.484Z",
+  "ingestedAt": "2026-09-25T01:36:57.139Z",
   "feedOk": 48,
   "feedTotal": 52,
-  "rawItems": 549,
-  "mainStories": 11,
+  "rawItems": 534,
+  "mainStories": 10,
   "byCategory": {
-    "tech": 2,
-    "eastAsiaGossip": 4,
+    "eastAsiaGossip": 3,
     "international": 3,
+    "tech": 2,
     "entertainment": 2
   },
   "eastAsiaByRegion": {
-    "tw": 4
+    "tw": 3
   },
   "heatSourcesShipped": [
     "ptt",
@@ -19,12 +19,12 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "索吻合照閃瞎",
-    "年不藏了",
-    "大咖韓星",
-    "看板分類"
+    "Dcard",
+    "看板分類",
+    "你的品牌， AI 推薦了嗎？",
+    "工作板熱門討論"
   ],
-  "heatNewsInjected": 45,
+  "heatNewsInjected": 30,
   "llmUsed": true,
   "mode": "llm+rss+heat"
 }
