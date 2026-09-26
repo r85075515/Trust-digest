@@ -1,17 +1,17 @@
 {
-  "ingestedAt": "2026-09-25T01:36:57.139Z",
+  "ingestedAt": "2026-09-26T01:45:01.164Z",
   "feedOk": 48,
   "feedTotal": 52,
-  "rawItems": 534,
-  "mainStories": 10,
+  "rawItems": 540,
+  "mainStories": 11,
   "byCategory": {
-    "eastAsiaGossip": 3,
+    "eastAsiaGossip": 4,
     "international": 3,
     "tech": 2,
     "entertainment": 2
   },
   "eastAsiaByRegion": {
-    "tw": 3
+    "tw": 4
   },
   "heatSourcesShipped": [
     "ptt",
@@ -22,9 +22,9 @@
     "Dcard",
     "看板分類",
     "你的品牌， AI 推薦了嗎？",
-    "工作板熱門討論"
+    "塔羅的最新討論"
   ],
-  "heatNewsInjected": 30,
+  "heatNewsInjected": 36,
   "llmUsed": true,
   "mode": "llm+rss+heat"
 }
