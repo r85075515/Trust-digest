@@ -1,17 +1,18 @@
 {
-  "ingestedAt": "2026-09-26T01:45:01.164Z",
+  "ingestedAt": "2026-09-28T01:43:19.824Z",
   "feedOk": 48,
   "feedTotal": 52,
-  "rawItems": 540,
-  "mainStories": 11,
+  "rawItems": 550,
+  "mainStories": 10,
   "byCategory": {
-    "eastAsiaGossip": 4,
-    "international": 3,
-    "tech": 2,
-    "entertainment": 2
+    "tech": 1,
+    "eastAsiaGossip": 3,
+    "finance": 2,
+    "entertainment": 2,
+    "international": 2
   },
   "eastAsiaByRegion": {
-    "tw": 4
+    "tw": 3
   },
   "heatSourcesShipped": [
     "ptt",
@@ -19,12 +20,12 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "Dcard",
-    "看板分類",
-    "你的品牌， AI 推薦了嗎？",
-    "塔羅的最新討論"
+    "長輩迷過的歌",
+    "仔戲明星是",
+    "阿嬤追的",
+    "年一度好轉"
   ],
-  "heatNewsInjected": 36,
+  "heatNewsInjected": 48,
   "llmUsed": true,
   "mode": "llm+rss+heat"
 }

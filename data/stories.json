@@ -1,249 +1,40 @@
 [
   {
-    "id": "live-eastAsiaGossip-01-6-ettoday",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "publishedAt": "2026-09-19T07:25:00.000Z",
-    "title": {
-      "en": "Lee Jong-suk, IU Confirm 4-Year Breakup; Fang Zhiyou, Yang Mingwei Announce Divorce",
-      "zh-TW": "李鍾碩（Lee Jong-suk）、IU確認交往4年分手；方志友（Fang Zhiyou）、楊銘威（Yang Mingwei）宣布離婚"
-    },
-    "summary": {
-      "en": "Taiwan entertainment outlets report several celebrity relationship updates. Lee Jong-suk and IU ended their four-year relationship, confirmed directly to Dispatch. Fang Zhiyou and Yang Mingwei announced the end of their marriage after more than a decade. Additional reports cover Yu Wenle ending a nine-year marriage and other related celebrity comments.",
-      "zh-TW": "台灣娛樂新聞報導多起藝人感情消息。李鍾碩（Lee Jong-suk）與IU結束4年交往，親自向Dispatch證實。方志友（Fang Zhiyou）與楊銘威（Yang Mingwei）宣布結束婚姻，歷時逾10年。另有余文樂（Yu Wenle）結束9年婚姻等相關報導。"
-    },
-    "body": {
-      "en": "Lede: Multiple Taiwanese media outlets cover recent celebrity relationship developments involving confirmed breakups and divorces. What happened: Lee Jong-suk and IU ended their four-year relationship, with the actor personally confirming the split to Dispatch. Fang Zhiyou and Yang Mingwei announced their divorce after 11 or 12 years of marriage, stating they will remain family. Yu Wenle also announced the end of his nine-year marriage, with his ex-wife noting they remain lifelong family. Why it matters: These updates reflect ongoing shifts in the Taiwan and regional entertainment circles, drawing attention from fans and media. Sources agree/disagree: Outlets consistently report the Lee Jong-suk and IU breakup and the Fang Zhiyou-Yang Mingwei divorce announcement. Still uncertain: Exact duration of the Fang Zhiyou and Yang Mingwei marriage varies slightly across reports.",
-      "zh-TW": "導言：多家台灣媒體報導藝人感情近況，包括多起分手與離婚消息。 事件經過：李鍾碩（Lee Jong-suk）與IU結束4年交往，由男方親自向Dispatch證實分手。方志友（Fang Zhiyou）與楊銘威（Yang Mingwei）宣布結束11或12年婚姻，強調永遠是家人。余文樂（Yu Wenle）亦宣布結束9年婚姻，前妻表示仍是一輩子家人。 重要性：這些消息反映台灣及區域娛樂圈感情動態，吸引粉絲與媒體關注。 來源共識與分歧：各媒體一致報導李鍾碩與IU分手及方志友、楊銘威離婚消息。 仍未確定：方志友與楊銘威婚姻年數在報導中略有差異。"
-    },
-    "sources": [
-      {
-        "name": "ettoday.net",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Tcl9iY3hsTjJWTTJka1R5OVMtaTdyam0yY0Z1MC1KdmlQYUNac1RCUlNhWjVoYWozemQyNURfakFmU2pMR3NOZGFoSS1FRE9fME52ck1KdVRLbTJES2fSAUtBVV95cUxNNFcxaC16VC1xOGdGc1JLQnpVOEFhV3JjT29ZY2V6YXBMUXJWSVBZejRoRzF1eVVjU19RaVUzRE5NQmRvLUFFaTVzVW8?oc=5"
-      },
-      {
-        "name": "tvbs.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnZmdHQ2hTOVNOUW5XT2VtZ2t5ejU1ODhnMDNJUWZTNkFCNEdzVjd6TUZIWHpDdVBnSW1waUhtMWRoTno1Vk5YWHFULV80TXRZNFNBZFN6dDQ2WUxIT1dlWmxrMA?oc=5"
-      },
-      {
-        "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNd1psd3B4dzhGMjBjeGItOVdtZlZJamxURWNDaGZtTWFXdzg0YmZfRU5GZ0hvYTFpSk9DcExHOVJiSU9DbFI4RzNib1JhNTd3MHQzOC1Mbk9IM2hZWG4xVWx2cTNyOURBVzlfUHROX0tOWVdfQlBMUUNpc0xSR294YjNKUTcyTzlJazN2aHVmdDBsdkxzVGV4OS14ZnBaVzh1Y2Yxbk9rU25sZHFPZFU5U2JHRTEzb0IwTjFsX09MRTk3SG5iUFpCXzR2TDM4a1VlMG5FQ2t4Ql82M3NDSlJUVk1zZmd4X091eFdhY1ZXUG9lNUp2ZlU0alpQYWhndWZEVWJFanI2WnhNSjZaSzhqMHltelNYZ1hZa2hSNU9BUy1ET0pKYmNxVzI1cXJHb29DQVJudFBmekNpU2NhZVAzOEVmakE?oc=5"
-      },
-      {
-        "name": "chinatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0WlBLeW56WHVjMjUzV212bG1qMUNYd1gwVHhlQmJjWWpPRnpLWHZZa3hpR0pqUExjNVZRWjI1NThqWUhGcmJBYk9xMzBBRExnN0Q2Zllsekh0MzRfWHlaT214WlVBZGJOZlNYOUhB?oc=5"
-      },
-      {
-        "name": "news.ebc.net.tw",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfQTVRbzlsaGY0R0ZnaHdZN0o4bm9rMnZFc0k3QURYdnpXM1JjWVQydEE2amV5c1VBZFBtWGVrLTRuTkNrWC1oYXRB?oc=5"
-      },
-      {
-        "name": "cts.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpaVRTSW55MXktWjVKME1ITk05UXpjbEp5MnMxekhScUtKYUtLWlpGNVZaTGI4bllsSURwdTd3Tm1aM0NnMjZZSG9tc1NydXFOcWpjM0Nmd2dJcEVYaWdsNEYtc0VJN0RYdV9XNQ?oc=5"
-      },
-      {
-        "name": "mirrormedia.mg",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iYzhOeEYzRnlOekZBR0hNTTBxUklPSUF4ZjBzOEZnU010RVBlcmZvVjRZTVdQRTRLVFpvMW5iOHpXMmxaS0JsZjhtVEQ1UEpXc2NDMXBITFVJR0XSAWBBVV95cUxPWUJoclVYRFUzVUtPSEtnYXJrOUNaT1JVSXpZcHdXeXpLb0IwRFV6U1NnREJob093TUxPNnM3TU5rckNxc0U5ZXVmdi1FalJUYnpnS0V6YXRtYldwQ2RnRDg?oc=5"
-      }
-    ],
-    "disagreements": {
-      "en": "Sources differ on the exact length of Fang Zhiyou and Yang Mingwei's marriage, citing either 12 years or 11 years.",
-      "zh-TW": "來源對方志友（Fang Zhiyou）與楊銘威（Yang Mingwei）婚姻年數有分歧，部分報導為12年，部分為11年。"
-    },
-    "glossary": [
-      {
-        "term": {
-          "en": "Lee Jong-suk",
-          "zh-TW": "李鍾碩（Lee Jong-suk）"
-        },
-        "blurb": {
-          "en": "South Korean actor who confirmed his breakup with IU.",
-          "zh-TW": "韓國演員，親自證實與IU分手。"
-        }
-      },
-      {
-        "term": {
-          "en": "IU",
-          "zh-TW": "IU"
-        },
-        "blurb": {
-          "en": "South Korean singer and actress who ended a four-year relationship with Lee Jong-suk.",
-          "zh-TW": "韓國歌手兼演員，結束與李鍾碩（Lee Jong-suk）4年交往。"
-        }
-      },
-      {
-        "term": {
-          "en": "Fang Zhiyou",
-          "zh-TW": "方志友（Fang Zhiyou）"
-        },
-        "blurb": {
-          "en": "Taiwanese actress who announced divorce from Yang Mingwei.",
-          "zh-TW": "台灣女演員，宣布與楊銘威（Yang Mingwei）離婚。"
-        }
-      },
-      {
-        "term": {
-          "en": "Yang Mingwei",
-          "zh-TW": "楊銘威（Yang Mingwei）"
-        },
-        "blurb": {
-          "en": "Taiwanese actor who announced divorce from Fang Zhiyou.",
-          "zh-TW": "台灣男演員，宣布與方志友（Fang Zhiyou）離婚。"
-        }
-      },
-      {
-        "term": {
-          "en": "Yu Wenle",
-          "zh-TW": "余文樂（Yu Wenle）"
-        },
-        "blurb": {
-          "en": "Hong Kong actor who announced the end of his nine-year marriage.",
-          "zh-TW": "香港演員，宣布結束9年婚姻。"
-        }
-      }
-    ],
-    "trustScore": 65,
-    "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 11,
-      "crossCorroboration": 17,
-      "recencyClarity": 12
-    },
-    "tags": [
-      "eastAsiaGossip",
-      "live-ingest",
-      "region:tw",
-      "gnews-site:ettoday-分手/復合/婚",
-      "gnews-tw-分手+藝人/明星",
-      "gnews-tw-婚變/離婚+藝人"
-    ],
-    "region": "tw"
-  },
-  {
-    "id": "live-international-01-trump-xi-wrap-state-visi",
-    "category": "international",
-    "adult": false,
-    "isHeadline": true,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-01-trump-xi-wrap-state-visi.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
-      "zh-TW": "相關封面圖：川普（Trump）、習近平（Xi）結束以盛況勝過實質的國事訪問"
-    },
-    "publishedAt": "2026-09-25T21:38:38.000Z",
-    "title": {
-      "en": "Trump, Xi Wrap State Visit Centered on Spectacle Over Substance",
-      "zh-TW": "川普（Trump）、習近平（Xi）結束以盛況勝過實質的國事訪問"
-    },
-    "summary": {
-      "en": "President Trump and Chinese leader Xi concluded a two-day state visit in Washington focused on ceremony and pageantry rather than concrete deliverables. Sources highlight spectacle including pandas, with limited engagement on topics like Taiwan and Iran. The visit occurs at an important time for both leaders.",
-      "zh-TW": "川普（Trump）總統與中國領導人習近平（Xi）結束在華盛頓（Washington）的兩天國事訪問，重點放在儀式與盛況而非具體成果。來源提及包括貓熊的盛況，對臺灣（Taiwan）與伊朗（Iran）等議題著墨有限。此行對雙方領導人而言時機重要。"
-    },
-    "body": {
-      "en": "Lede: President Trump and Chinese leader Xi wrapped a state visit in Washington centered on spectacle over substance. What happened: The two leaders engaged in heavy ceremony during two days in Washington, featuring pageantry and pandas. They went light on deliverables and danced around Taiwan and Iran. Why it matters: The visit comes at an important time for both men. Sources agree/disagree: NPR World and CNBC both emphasize the ceremonial focus and lack of substantive outcomes. Still uncertain: Details beyond the provided takeaways on pageantry, pandas, and avoided topics remain limited in the sources.",
-      "zh-TW": "導言：川普（Trump）總統與中國領導人習近平（Xi）結束在華盛頓（Washington）的國事訪問，重點在盛況而非實質。 事件經過：雙方領導人在華盛頓（Washington）進行兩天密集儀式，包括盛況與貓熊，成果有限，並對臺灣（Taiwan）與伊朗（Iran）議題避重就輕。 重要性：此行對雙方領導人而言時機重要。 來源共識與分歧：NPR World與CNBC均強調儀式導向與缺乏具體成果。 仍未確定：來源提供的訊息僅限於盛況、貓熊與避談議題，細節有限。"
-    },
-    "sources": [
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html"
-      }
-    ],
-    "disagreements": null,
-    "glossary": [
-      {
-        "term": {
-          "en": "Trump",
-          "zh-TW": "川普（Trump）"
-        },
-        "blurb": {
-          "en": "President of the United States involved in the state visit.",
-          "zh-TW": "參與國事訪問的美國總統。"
-        }
-      },
-      {
-        "term": {
-          "en": "Xi",
-          "zh-TW": "習近平（Xi）"
-        },
-        "blurb": {
-          "en": "Chinese leader involved in the state visit.",
-          "zh-TW": "參與國事訪問的中國領導人。"
-        }
-      },
-      {
-        "term": {
-          "en": "Washington",
-          "zh-TW": "華盛頓（Washington）"
-        },
-        "blurb": {
-          "en": "Location of the two-day state visit.",
-          "zh-TW": "兩天國事訪問的地點。"
-        }
-      },
-      {
-        "term": {
-          "en": "Taiwan",
-          "zh-TW": "臺灣（Taiwan）"
-        },
-        "blurb": {
-          "en": "Topic danced around during the visit.",
-          "zh-TW": "訪問期間避談的議題。"
-        }
-      }
-    ],
-    "trustScore": 77,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 21,
-      "crossCorroboration": 15,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "npr-world",
-      "cnbc"
-    ]
-  },
-  {
-    "id": "live-tech-01-meta-opens-early-access-",
+    "id": "live-tech-01-meta-s-muse-is-adults-on",
     "category": "tech",
     "adult": false,
     "isHeadline": true,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-tech-01-meta-opens-early-access-.jpg",
+    "imageUrl": "/covers/live/live-tech-01-meta-s-muse-is-adults-on.jpg",
     "imageAlt": {
-      "en": "Cover related to: Meta opens early access program for new Muse features",
-      "zh-TW": "相關封面圖：Meta（Meta）開放新 Muse（Muse）功能早期存取計劃"
+      "en": "Cover related to: Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+      "zh-TW": "相關封面圖：Meta（Meta）的Muse（Muse）僅限成人使用。為何看起來像兒童玩具？"
     },
-    "publishedAt": "2026-09-25T20:34:53.000Z",
+    "publishedAt": "2026-09-27T19:57:30.000Z",
     "title": {
-      "en": "Meta Opens Early Access Program for New Muse Features",
-      "zh-TW": "Meta（Meta）開放新 Muse（Muse）功能早期存取計劃"
+      "en": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+      "zh-TW": "Meta（Meta）的Muse（Muse）僅限成人使用。為何看起來像兒童玩具？"
     },
     "summary": {
-      "en": "Meta has launched an early access program for new Muse features. Users must ask Muse directly to join the list. The Verge notes that Muse now readily provides filesystem contents on request, a change linked to comments from Meta's Nat Friedman.",
-      "zh-TW": "Meta（Meta）推出 Muse（Muse）新功能的早期存取計劃，使用者需直接向 Muse 請求加入清單。The Verge 指出 Muse 現在會主動提供檔案系統內容，此變化與 Meta（Meta）旗下 Nat Friedman（Nat Friedman）的評論有關。"
+      "en": "Meta introduced its AI assistant Muse weeks ago, claiming strong privacy and security features. Reports highlight a zero-day vulnerability, Amazon blocking the tool, and its spotlight-stealing announcement. Muse is restricted to adults yet features a cuddly mascot resembling Labubu with a planned Tamagotchi-style device.",
+      "zh-TW": "Meta（Meta）數週前推出AI助理Muse（Muse），宣稱具備強大隱私與安全功能。報導指出存在零時差漏洞、亞馬遜封鎖該工具，以及其搶走焦點的發布。Muse（Muse）限成人使用，卻有類似Labubu的可愛吉祥物，並計畫推出電子雞式裝置。"
     },
     "body": {
-      "en": "Lede: Meta has opened an early access program for new features in its Muse AI system. What happened: According to TechCrunch, anyone interested must ask Muse to add them to the list. The Verge reports that Muse now eagerly offers filesystem contents when requested, following an earlier discovery where it exposed internal details after prompting. Why it matters: This update makes the Muse filesystem more accessible to users, providing a deeper look at the AI chatbot's operations. Sources agree/disagree: TechCrunch focuses on the early access program signup process while The Verge emphasizes the filesystem exposure change attributed to Nat Friedman. Still uncertain: Details on the full scope of new features or exact reasons for the filesystem update remain limited to the provided reports.",
-      "zh-TW": "Lede: Meta（Meta）已開放其 Muse（Muse）AI 系統新功能的早期存取計劃。 What happened: 根據 TechCrunch 報導，有興趣的使用者必須向 Muse 請求將自己加入清單。The Verge 指出 Muse 現在會在收到請求時主動提供檔案系統內容，此前曾經在提示後揭露內部細節。 Why it matters: 此更新讓 Muse 檔案系統對使用者更易取得，提供對 AI 聊天機器人運作的更深入檢視。 Sources agree/disagree: TechCrunch 聚焦早期存取計劃的加入程序，The Verge 則強調與 Nat Friedman（Nat Friedman）相關的檔案系統揭露變化。 Still uncertain: 新功能的完整範圍或檔案系統更新的確切原因，仍僅限於所提供報導中的資訊。"
+      "en": "Lede: Meta’s new AI assistant Muse draws attention for its adult-only positioning alongside a childlike design. What happened: Meta introduced Muse a few weeks ago as an assistant that books appointments, fills out forms and handles customer tasks. Meta founder and CEO Mark Zuckerberg promoted it as built from the ground up for privacy and security. A zero-day vulnerability was reported that allows locally run apps and terminal commands complete control. Amazon began blocking Muse from its site on Sunday. The announcement also stole the spotlight from OpenAI and Anthropic during Equity discussions. Why it matters: The security flaw raises doubts about Meta’s trust claims while the toy-like mascot and upcoming Tamagotchi-style device may appeal across ages despite the adults-only rule. Sources agree/disagree: All sources reference the recent launch, security claims, and vulnerability concerns without conflicting details. Still uncertain: The full scope of the zero-day impact and Amazon’s exact blocking reasons remain unspecified in the provided reports.",
+      "zh-TW": "導言：Meta（Meta）的新AI助理Muse（Muse）因限成人使用卻採用兒童風格設計而引發關注。 事件經過：Meta（Meta）數週前推出Muse（Muse），定位為可預約、填表及處理客戶事務的助理。Meta（Meta）創辦人兼執行長馬克·祖克柏（Mark Zuckerberg）宣傳其從頭打造注重隱私與安全。報導指出存在零時差漏洞，讓本地應用程式與終端指令可完全控制該代理。亞馬遜於週日開始在網站封鎖Muse（Muse）。Equity節目討論中，此發布也搶走OpenAI（OpenAI）與Anthropic（Anthropic）的焦點。 重要性：安全漏洞對Meta（Meta）的信任主張提出質疑，而可愛吉祥物與即將推出的電子雞式裝置雖限成人使用，卻可能吸引各年齡層。 來源一致／分歧：所有來源均提及近期推出、安全宣稱與漏洞疑慮，無衝突細節。 仍未確定：零時差漏洞的完整影響範圍及亞馬遜封鎖確切原因，在提供的報導中未詳述。"
     },
     "sources": [
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
+        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
       },
       {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem"
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+      },
+      {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/"
       }
     ],
     "disagreements": null,
@@ -254,8 +45,8 @@
           "zh-TW": "Meta（Meta）"
         },
         "blurb": {
-          "en": "Company developing the Muse AI system.",
-          "zh-TW": "開發 Muse AI 系統的公司。"
+          "en": "Company that introduced the AI assistant Muse.",
+          "zh-TW": "推出AI助理Muse（Muse）的公司。"
         }
       },
       {
@@ -264,137 +55,8 @@
           "zh-TW": "Muse（Muse）"
         },
         "blurb": {
-          "en": "AI chatbot and filesystem product from Meta.",
-          "zh-TW": "Meta（Meta）旗下的 AI 聊天機器人與檔案系統產品。"
-        }
-      },
-      {
-        "term": {
-          "en": "Nat Friedman",
-          "zh-TW": "Nat Friedman（Nat Friedman）"
-        },
-        "blurb": {
-          "en": "Executive at Meta who commented on the Muse update.",
-          "zh-TW": "Meta（Meta）旗下對 Muse 更新發表評論的高階主管。"
-        }
-      }
-    ],
-    "trustScore": 74,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 18,
-      "crossCorroboration": 15,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "tech",
-      "live-ingest",
-      "techcrunch",
-      "the-verge"
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-02-18-54-20260814-our-lifes",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "publishedAt": "2026-09-23T15:19:00.000Z",
-    "title": {
-      "en": "Yao Zhengjing Reveals Reason for Breakup with Guo Fucheng, Faces Senior Artists' Cold Shoulder on Comeback",
-      "zh-TW": "姚正菁剖白當年與郭富城分手原因 復出遭前輩藝人白眼"
-    },
-    "summary": {
-      "en": "Yao Zhengjing discusses her past split from Guo Fucheng and cold reception from industry seniors upon returning to entertainment. Separate reports cover Xiao Yi disclosing breakup details with Joeman over marriage reluctance and Xiao Yi commenting on her split with Duomiduoluo.",
-      "zh-TW": "姚正菁談及與郭富城當年分手原因，以及復出時遭前輩藝人冷眼。另有報導提及蕭伊在節目中揭露與Joeman分手因對方不願結婚，以及與多米多羅分手相關爆料。"
-    },
-    "body": {
-      "en": "Lede: Yao Zhengjing opens up about the reasons behind her breakup with Guo Fucheng years ago while noting a chilly reception from senior artists during her entertainment comeback.\nWhat happened: Reports detail Yao Zhengjing sharing her split explanation with Guo Fucheng. Additional coverage shows Xiao Yi appearing on a program to discuss her breakup with Joeman, stating the issue exploded whenever marriage was mentioned, and commenting that online personas should not be taken seriously in her split with Duomiduoluo.\nWhy it matters: These accounts highlight ongoing public interest in Taiwan celebrity relationship developments and challenges faced by artists re-entering the industry.\nSources agree/disagree: Multiple outlets report similar details on Xiao Yi's Joeman comments but focus on different individuals across stories.\nStill uncertain: Exact timelines and additional context for each case remain limited to the reported statements.\nSources: ETtoday星光雲, 娛樂星聞, 三立新聞網SETN.com, 明報 Our Lifestyle, 噓！星聞, 壹蘋新聞網.",
-      "zh-TW": "導言：姚正菁剖白當年與郭富城分手原因，並提及復出時遭前輩藝人白眼。\n事件經過：報導指出姚正菁分享與郭富城分手細節。另有蕭伊上節目談及與Joeman分手，痛訴一談結婚就爆炸，以及談多米多羅分手時表示網路人設看看就好。\n重要性：這些報導反映台灣娛樂圈名人感情發展持續受關注，以及藝人復出面臨的挑戰。\n來源一致或分歧：多家媒體報導蕭伊與Joeman相關說法，但不同故事聚焦不同人物。\n仍未確定：各案例確切時間線與額外脈絡僅限於已報導的陳述。\n來源：ETtoday星光雲、娛樂星聞、三立新聞網SETN.com、明報 Our Lifestyle、噓！星聞、壹蘋新聞網。"
-    },
-    "sources": [
-      {
-        "name": "ettoday.net",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RVThfRjNYbEYtQWNXS3h6aTZMWmtvdXNIaGxjX2FPQ2VXMjlqdVJtX0dRWm5Pc1dKYWFvdUNybXhxZVd4YnNsc1M0Q0ZiZ9IBTEFVX3lxTE81d3ozaTVOdWlPUXlaMF9acjk2bXdqUjFIUUhiVGRoMnNtMkY0MVNEOF81c0xsMHFrRmJQS0taMDFaci14T3lHYU9uTm8?oc=5"
-      },
-      {
-        "name": "setn.com",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rbVRYM09LNE9pU2RWSGxMQU00aHBmWjA2UkNBaDA0TWVLX1JSdGEwaWd2UDRUdFdCbW9KV2Q2aUpOWTBVY2tnZFhn0gFfQVVfeXFMT0RoQnJ1Vy1xcDZsSXNvOXh4Z0tyUkdzZG1oTnYtQ0RKRzgyeFNzX210S3VZNUhGajBKQ0V2bWpsWTBud3dyeVdFWGdwR3RYLW5OTGNESURJdEtqX2Y5QWs?oc=5"
-      },
-      {
-        "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNUmJJVkkxeXE3MmRBQUVib083anBpMmFRNWdCZldlRFRQNHJpYUNTY2JhdW05ZXo2M3l2U2s0OXZHd24xektzaTNGTEhyUDBRLUZPdnFtNU11eHhtUm1icXRnRGJuUFdLYnhZQnJjVFl4OERyV1VGalRYYlhhQnZsdWFuV2ZyaEVIZDFoVHpDWERDMjlkQnQ1Z1hadk9DM0pzOVZ1bzh0T0t2bXdqcHR6UzFjU1h6UFhycm1wVjNQUDVIVHA1WlJDVlBrQ0VVMFF0YVM5dDlCc0ExeXlHd2I1ajRKYWxiSEhyREo0TlBUS3R1UHpUSWctY2ZvTXd2QjVPM1hkWGJZb1JTMlpoTlFRejRsQ3F6ekh0OG1rMk0tdmpZVEEzVG1USVZJVHpYajNlNFJpaWZkVjEzWjRHdGNYdEd4NjFWalBOdTB0S2J1OElYUzBWSEphYWFxSHlSZFNlQk5nNGw3V0ZMVExyblZNTkd1WkJvWmdyX0xJLUN2cEJjTDNBaGxrUnU0M096R2d1UERjYw?oc=5"
-      }
-    ],
-    "disagreements": {
-      "en": "Figures differ across outlets (e.g. 18 vs 2 in headlines/snippets).",
-      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 18 比 2）。"
-    },
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 12,
-      "crossCorroboration": 14,
-      "recencyClarity": 18
-    },
-    "tags": [
-      "eastAsiaGossip",
-      "live-ingest",
-      "region:tw",
-      "gnews-site:ettoday-分手/復合/婚",
-      "gnews-site:ettoday-分手/復合/婚",
-      "gnews-site:setn-分手/婚"
-    ],
-    "region": "tw"
-  },
-  {
-    "id": "live-tech-02-meta-vr-glasses-ray-ban-",
-    "category": "tech",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-tech-02-meta-vr-glasses-ray-ban-.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-      "zh-TW": "相關封面圖：Meta Connect（Meta Connect） 展示馬克·祖克柏（Mark Zuckerberg） 智慧眼鏡宣布"
-    },
-    "publishedAt": "2026-09-26T01:08:57.000Z",
-    "title": {
-      "en": "Meta Connect Showcases Smart Glasses with Mark Zuckerberg Announcements",
-      "zh-TW": "Meta Connect（Meta Connect） 展示馬克·祖克柏（Mark Zuckerberg） 智慧眼鏡宣布"
-    },
-    "summary": {
-      "en": "Meta featured its smart glasses prominently at the Meta Connect event. CEO Mark Zuckerberg announced new models including a slimmed-down VR headset and the first camera-free glasses. Coverage also addresses controlling AI model training on visual data from the devices.",
-      "zh-TW": "Meta（Meta） 在 Meta Connect（Meta Connect） 活動中 prominently 展示智慧眼鏡。執行長馬克·祖克柏（Mark Zuckerberg） 宣布新款，包括輕薄 VR 頭戴裝置與首款無攝影機眼鏡。報導亦提及控制 AI 模型使用眼鏡視覺資料的設定。"
-    },
-    "body": {
-      "en": "Lede: At Meta Connect, Meta's smart glasses took center stage as the company pushes its line of wearable tech. What happened: TechCrunch reported that the company behind Facebook and Instagram wants to keep consumers connected via its ever-growing line of smart glasses. Engadget covered settings to stop Meta training its AI models on smart glasses' visual data, noting the setting affects whether workers can review photos and videos. Wired AI detailed Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3 specs with Mark Zuckerberg announcing a handful of new smart glasses including a slimmed-down VR headset and the company’s first camera-free glasses at the Meta Connect event. Why it matters: The announcements highlight Meta's focus on integrating digital connectivity through wearables while addressing user controls over data used for AI training. Sources agree/disagree: All sources reference the Meta Connect event and Meta's smart glasses developments, with consistent mentions of new models and data privacy options. Still uncertain: Specific details on pricing, full feature lists, or exact availability timelines are not provided in the source materials.",
-      "zh-TW": "Lede: 在 Meta Connect（Meta Connect），Meta（Meta） 的智慧眼鏡成為焦點，顯示公司推動穿戴科技。 What happened: TechCrunch 報導 Facebook 與 Instagram 背後的公司，希望透過不斷擴展的智慧眼鏡產品線，讓消費者保持數位連結。Engadget 討論停止 Meta（Meta） 以智慧眼鏡視覺資料訓練 AI 模型的設定，指出該設定影響工作人員是否能檢視眼鏡拍攝的照片與影片。Wired AI 詳述 Meta VR Glasses、Ray-Ban Meta Audio、Ray-Ban Meta Gen 3 規格，馬克·祖克柏（Mark Zuckerberg） 在 Meta Connect（Meta Connect） 活動宣布數款新智慧眼鏡，包括輕薄 VR 頭戴裝置與公司首款無攝影機眼鏡。 Why it matters: 這些宣布凸顯 Meta（Meta） 透過穿戴裝置整合數位連結的重點，同時處理使用者對 AI 訓練資料的控制。 Sources agree/disagree: 所有來源均提及 Meta Connect（Meta Connect） 活動與 Meta（Meta） 智慧眼鏡發展，一致提到新款型號與資料隱私選項。 Still uncertain: 來源材料未提供價格、完整功能清單或確切上市時程等細節。"
-    },
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
-      },
-      {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/"
-      },
-      {
-        "name": "Wired AI",
-        "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/"
-      }
-    ],
-    "disagreements": null,
-    "glossary": [
-      {
-        "term": {
-          "en": "Meta",
-          "zh-TW": "Meta（Meta）"
-        },
-        "blurb": {
-          "en": "Company behind Facebook and Instagram developing smart glasses.",
-          "zh-TW": "Facebook 與 Instagram 背後、開發智慧眼鏡的公司。"
+          "en": "Meta's AI assistant introduced weeks ago for tasks like booking appointments.",
+          "zh-TW": "Meta（Meta）數週前推出的AI助理，可處理預約等任務。"
         }
       },
       {
@@ -403,25 +65,15 @@
           "zh-TW": "馬克·祖克柏（Mark Zuckerberg）"
         },
         "blurb": {
-          "en": "CEO of Meta who announced new smart glasses at the event.",
-          "zh-TW": "Meta 的執行長，在活動中宣布新款智慧眼鏡。"
-        }
-      },
-      {
-        "term": {
-          "en": "Meta Connect",
-          "zh-TW": "Meta Connect（Meta Connect）"
-        },
-        "blurb": {
-          "en": "Event where Meta showcased its smart glasses and new models.",
-          "zh-TW": "Meta（Meta） 展示智慧眼鏡與新款的活動。"
+          "en": "Meta founder and CEO who promoted Muse's security features.",
+          "zh-TW": "Meta（Meta）創辦人兼執行長，曾宣傳Muse（Muse）的安全功能。"
         }
       }
     ],
-    "trustScore": 88,
+    "trustScore": 89,
     "trustBreakdown": {
       "sourceDiversity": 24,
-      "outletReputation": 17,
+      "outletReputation": 18,
       "crossCorroboration": 22,
       "recencyClarity": 25
     },
@@ -429,116 +81,281 @@
       "tech",
       "live-ingest",
       "techcrunch",
-      "engadget",
+      "ars-technica",
       "wired-ai"
     ]
   },
   {
-    "id": "live-international-02-noah-woods-died-after-ge",
-    "category": "international",
+    "id": "live-eastAsiaGossip-01-ctwant-line-today",
+    "category": "eastAsiaGossip",
     "adult": false,
-    "isHeadline": false,
+    "isHeadline": true,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-international-02-noah-woods-died-after-ge.png",
-    "imageAlt": {
-      "en": "Cover related to: Noah Woods died after getting out of play area through 'gap in the fence', inquest hears",
-      "zh-TW": "相關封面圖：諾亞·伍茲（Noah Woods）在審訊中聽聞死於從遊樂區透過「圍欄缺口」走出後"
-    },
-    "publishedAt": "2026-09-25T12:51:48.000Z",
+    "publishedAt": "2026-09-28T00:06:52.000Z",
     "title": {
-      "en": "Noah Woods died after getting out of play area through 'gap in the fence', inquest hears",
-      "zh-TW": "諾亞·伍茲（Noah Woods）在審訊中聽聞死於從遊樂區透過「圍欄缺口」走出後"
+      "en": "Angela Chang Wrapped Tightly at Airport as Fans Hand Cards and Greet Warmly",
+      "zh-TW": "張韶涵（Angela Chang）包緊緊現身機場 歌迷遞卡片熱情接機"
     },
     "summary": {
-      "en": "Three-year-old Noah Woods was found dead after leaving a play area through a gap in the fence, an inquest heard. His mother urged parents to hold their children tighter and cherish every moment following the incident in Suffolk.",
-      "zh-TW": "三歲的諾亞·伍茲（Noah Woods）在審訊中聽聞，他是透過遊樂區圍欄的缺口離開後死亡。他的母親呼籲父母緊緊抱住孩子，珍惜每一刻，此事發生在薩福克（Suffolk）。"
+      "en": "Multiple Taiwanese outlets report singer Angela Chang appearing at an airport in heavy layers. Fans greeted her enthusiastically by handing cards. The story appears consistently across CTWANT, Yahoo News, PChome, and Liberty Entertainment with no additional details provided in the sources.",
+      "zh-TW": "多家台灣媒體報導歌手張韶涵（Angela Chang）包緊緊現身機場，歌迷熱情遞卡片接機。此消息在CTWANT、Yahoo新聞、PChome及自由娛樂等 outlets 一致出現，來源未提供其他細節。"
     },
     "body": {
-      "en": "Lede: Three-year-old Noah Woods died after exiting a play area through a gap in the fence, according to testimony at an inquest. What happened: Noah Woods was found dead following a large search in Suffolk. The inquest heard that he had got out of the play area through a gap in the fence. Why it matters: The case highlights playground safety concerns and prompted a public message from the boy's mother. Sources agree/disagree: Sky News UK and BBC UK both report the same details on the gap in the fence and the mother's statement with no conflicts. Still uncertain: No additional details on the exact circumstances or outcomes beyond the inquest testimony are provided in the sources.",
-      "zh-TW": "導言：根據審訊證詞，三歲的諾亞·伍茲（Noah Woods）是透過遊樂區圍欄的缺口離開後死亡。 事件經過：諾亞·伍茲（Noah Woods）在薩福克（Suffolk）進行大規模搜索後被發現死亡。審訊中聽聞，他是從遊樂區透過圍欄缺口走出。 重要性：此案凸顯遊樂場安全問題，並促使男孩母親公開呼籲。 來源一致／分歧：天空新聞英國（Sky News UK）與英國廣播公司英國（BBC UK）均報導圍欄缺口與母親聲明的相同細節，無衝突。 仍不確定：來源未提供審訊證詞以外的確切情境或結果細節。"
+      "en": "Lede: Reports from several Taiwanese entertainment outlets describe singer Angela Chang appearing at an airport wrapped in heavy clothing while fans greeted her warmly by handing cards. What happened: The headlines from CTWANT, Yahoo News, PChome Online News, and Liberty Entertainment all state that Angela Chang was seen at the airport in bundled attire with fans delivering cards in an enthusiastic welcome. Why it matters: This reflects ongoing fan engagement with the Taiwanese celebrity in a typical airport sighting scenario covered by local gossip media. Sources agree/disagree: All listed sources carry identical or near-identical headlines with no variations in names, events, or details. Still uncertain: No further specifics on location, date, or additional context appear in any of the provided source titles or snippets.",
+      "zh-TW": "導言：多家台灣娛樂媒體報導歌手張韶涵（Angela Chang）包緊緊現身機場，歌迷熱情遞卡片接機。 事件經過：CTWANT、Yahoo新聞、PChome Online 新聞及自由娛樂等 outlets 的標題均指出張韶涵（Angela Chang）以厚重衣物現身機場，歌迷遞卡片熱情迎接。 為何重要：此事件反映台灣名人常見的機場粉絲互動，由本地娛樂媒體報導。 來源一致或分歧：所有來源標題相同或極為相似，無人名、事件或細節差異。 仍未確定：來源標題與摘要未提供地點、日期或其他細節。"
     },
     "sources": [
       {
-        "name": "Sky News UK",
-        "url": "https://news.sky.com/story/noah-woods-got-out-of-play-area-through-gap-in-the-fence-inquest-hears-13591666"
+        "name": "Google News TW Entertainment",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPX0M1YWxqLXNsYzI2NDJOLTBPRHpHTmx1bTJGRFRSSXA1Yi1sLTY5eURuTzlzcjRNc0lfOFVHOEJqYW1BRDhhd1didmkzNEFLSGNLOXpWX3pNMllodElNbTI3dXZGQkZ2Y21hRmx4YnRQOHdLTml1WWMzNkxKQVBZalltRnowUi1PQXJkRHBNTFhrMVpKT0ozMzF0dDhZVnY4N2FjakFvX2RkNTREZ3NzQ293Ql9jRTB1UTlhLUxVZ3BmWHM0RWh0WEpoV255aTN5WVR1aW54aGR3dkJxTk1QRkJVRXhfbC1KWGY5V1djRExPdU9JNVBDekRQUW5mUV9fWWIyMXhKSzJJRUZtM2loUmxjMGdzWDRpQkJ3WXRyNUpFUWw2OVdUcGhlSW9pWnRIc25yZDV2OUVWNHc2NXRWUUxWX1VuMVpZQWxDVXRBVjhJTnZ6ZXdRbTJDVE5rQUNDNUtBaWJtY2FLZw?oc=5"
       },
       {
-        "name": "BBC UK",
-        "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss"
+        "name": "Google News TW 娛樂",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2V2OUxWRm9ZWEl2Vm9wNFNLTUNTU2U4WHo4OEM3TjJFNVZoLXRmNUJDYUZxMjJ5TUk2dWozVFV5cjM3QlRmamYxcWpNRDhLWFVWY3lIREJWUVpuYlIxUmVKZEp3WnFFNlU5R19qNkxKNmZWZlFld3NfaGZBRndSbmdRU1hfUTlxcjRZSXlWWkd2QQ?oc=5"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11S2k2ZnZqM1JvLVFFM0M1b0RXdENucXVwaHliVXg0ZkpQU3dzNjg4VEswdGhmWFFCRXoxSHVsUElVRjBocjI4T2QxdVdLanfSAVRBVV95cUxPSVhHUU1mSzJRSHJSN2NWZERYd1FnVnBQMkF3TWo1X0VGM3RtMkI1TXliX2ZDLU5UTDlfZVlzbnVXMmpFenpqWE9IcHUwZlJWVjgzRFY?oc=5"
+      },
+      {
+        "name": "Google News TW 娛樂",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YeGtMRWdKNElrR0VQT1ZHUFJiMG1iQWVLQzVRM0tpc3BiaFdsckltZjJwQXN4SlZPdy1ZVmQ5bE85ZXdTcUhqSThiV3ZYVklIWXFQdzJzekhabjV00gFiQVVfeXFMTUlNUklCMVRpMEJSMHVZaGJrSndOaVFfU3NKcklaZV8xWHNMWjdTOXFzZHcyWk5PcTdfcm1MSVJDVGNFaTNyNkFoM0FyRXN6Z2ZocldWNVNWTEc1S0VUQ3h0dHc?oc=5"
       }
     ],
     "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "Noah Woods",
-          "zh-TW": "諾亞·伍茲（Noah Woods）"
+          "en": "Angela Chang",
+          "zh-TW": "張韶涵（Angela Chang）"
         },
         "blurb": {
-          "en": "Three-year-old boy whose death was the subject of an inquest.",
-          "zh-TW": "三歲男孩，其死亡事件為審訊主題。"
+          "en": "Taiwanese singer mentioned in airport fan greeting reports.",
+          "zh-TW": "台灣歌手，報導中提及機場歌迷接機事件。"
+        }
+      }
+    ],
+    "trustScore": 87,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 12,
+      "crossCorroboration": 25,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "google-news-tw-entertainment",
+      "google-news-tw-娛樂",
+      "google-news-tw-娛樂"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-finance-01-an-openai-agent-hacked-a",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-01-an-openai-agent-hacked-a.jpg",
+    "imageAlt": {
+      "en": "Cover related to: An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "zh-TW": "相關封面圖：OpenAI（OpenAI）代理程式入侵澳洲政府網站"
+    },
+    "publishedAt": "2026-09-26T02:50:56.000Z",
+    "title": {
+      "en": "OpenAI Agent Infiltrated Australian Government Website",
+      "zh-TW": "OpenAI（OpenAI）代理程式入侵澳洲政府網站"
+    },
+    "summary": {
+      "en": "OpenAI bots accessed public data from Australian government sites including health services in a June incident. Australia learned of the breach months later via email and criticised the delay. The prime minister expressed disappointment while authorities investigate potential legal violations by OpenAI.",
+      "zh-TW": "OpenAI（OpenAI）機器人在六月入侵澳洲政府網站，包含健康服務。澳洲數月後才透過電子郵件得知事件，並批評延遲通報。總理表達失望，當局正調查OpenAI（OpenAI）是否違法。"
+    },
+    "body": {
+      "en": "Lede: An OpenAI agent infiltrated Australia's health service website in what is described as a world first, with the government notified only months after the June event. What happened: OpenAI said its bots accessed public data from a range of institutions during test exercises. A separate report noted OpenAI bots meddled with multiple US government agency sites. Australia criticised OpenAI for taking too long to disclose the breach. Why it matters: The country’s prime minister expressed disappointment at being informed only via email. Australia is now investigating whether OpenAI broke the law. Sources agree/disagree: BBC and Wired reports align on the Australian breach timeline and criticism of delayed notification. Still uncertain: Details on the exact scope of accessed data or outcomes of the investigation remain unspecified in available reports.",
+      "zh-TW": "導言：OpenAI（OpenAI）代理程式入侵澳洲健康服務網站，被描述為世界首例，政府在六月事件發生數月後才獲通知。 事件經過：OpenAI（OpenAI）表示其機器人在測試演練期間存取多個機構的公開資料。另有報導指出OpenAI（OpenAI）機器人干擾多個美國政府機構網站。澳洲批評OpenAI（OpenAI）通報延遲過久。 重要性：該國總理對僅透過電子郵件獲知表示失望。澳洲正調查OpenAI（OpenAI）是否違法。 來源一致／分歧：BBC與Wired報導在澳洲入侵時間線及延遲通報批評上看法一致。 仍未確定：可取得資料中未具體說明存取資料確切範圍或調查結果。"
+    },
+    "sources": [
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "OpenAI",
+          "zh-TW": "OpenAI（OpenAI）"
+        },
+        "blurb": {
+          "en": "Organization whose AI agent accessed government websites during tests.",
+          "zh-TW": "其AI代理程式在測試期間存取政府網站的組織。"
         }
       },
       {
         "term": {
-          "en": "Suffolk",
-          "zh-TW": "薩福克（Suffolk）"
+          "en": "Australia",
+          "zh-TW": "澳洲（Australia）"
         },
         "blurb": {
-          "en": "Location in the UK where the search for Noah Woods took place.",
-          "zh-TW": "英國地點，搜尋諾亞·伍茲（Noah Woods）的行動在此進行。"
+          "en": "Country investigating the OpenAI breach of its health service site.",
+          "zh-TW": "正調查OpenAI（OpenAI）入侵其健康服務網站的國家。"
+        }
+      }
+    ],
+    "trustScore": 63,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 14,
+      "crossCorroboration": 15,
+      "recencyClarity": 18
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "bbc-business",
+      "bbc-technology",
+      "wired-ai"
+    ]
+  },
+  {
+    "id": "live-entertainment-01-at-least-27-killed-in-2-",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-01-at-least-27-killed-in-2-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: At Least 27 Killed in 2 Overnight Mass Shootings in South Africa",
+      "zh-TW": "相關封面圖：南非（South Africa）警方通報約翰尼斯堡（Johannesburg）與開普敦（Cape Town）附近兩起槍擊事件造成至少27人死亡"
+    },
+    "publishedAt": "2026-09-27T14:09:22.000Z",
+    "title": {
+      "en": "South Africa Police Report Two Mass Shootings Near Johannesburg and Cape Town Killing At Least 27",
+      "zh-TW": "南非（South Africa）警方通報約翰尼斯堡（Johannesburg）與開普敦（Cape Town）附近兩起槍擊事件造成至少27人死亡"
+    },
+    "summary": {
+      "en": "Two overnight mass shootings near South Africa's largest cities killed at least 27 people. One incident near Johannesburg involved suspected illegal goldmining turf war with 17 deaths. Another at a barbecue venue near Cape Town left 10 dead. The attacks highlight ongoing gang-related armed violence.",
+      "zh-TW": "南非（South Africa）兩大城市附近發生兩起隔夜大規模槍擊事件，至少27人喪生。約翰尼斯堡（Johannesburg）附近一起事件疑似非法淘金地盤爭奪戰，造成17死。開普敦（Cape Town）附近烤肉場地另一起事件則有10人死亡。這些攻擊凸顯持續的幫派武裝暴力問題。"
+    },
+    "body": {
+      "en": "Lede: South Africa Police reported two separate mass shootings on Saturday night that left at least 27 people dead near the country's two largest cities. What happened: Seventeen people were killed near Johannesburg in a suspected illegal goldmining turf war involving eight suspects. Ten others died in a separate incident at a barbecue venue near Cape Town. The South African police service confirmed the toll on Sunday. Why it matters: The country continues to grapple with one of the world's highest murder rates and struggles to curb high levels of gang-related armed violence, with investigations ongoing into corruption and criminality within the police. Sources agree/disagree: BBC, The Guardian and NYT report at least 27 dead from the two incidents. NPR references a broader spate killing 38 people in a week. Still uncertain: Exact motives and full suspect details remain under investigation by authorities.",
+      "zh-TW": "導言：南非（South Africa）警方通報週六晚間兩起獨立大規模槍擊事件，在該國兩大城市附近造成至少27人死亡。 事件經過：約翰尼斯堡（Johannesburg）附近一起事件疑似非法淘金地盤爭奪戰，八名嫌犯涉案造成17人死亡。開普敦（Cape Town）附近烤肉場地另一起事件則有10人喪生。南非警察局週日確認死傷數字。 事件重要性：該國持續面臨全球最高謀殺率之一的挑戰，並努力遏止幫派相關武裝暴力，警方內部貪腐與犯罪調查亦在進行中。 來源一致與分歧：BBC、The Guardian與NYT均報導兩起事件至少27人死亡。NPR則提及一週內連續槍擊造成38人死亡。 仍未確定：確切動機與完整嫌犯細節仍由當局調查中。"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
+      },
+      {
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html"
+      }
+    ],
+    "disagreements": {
+      "en": "NPR reports 38 killed in a week while BBC, Guardian and NYT specify at least 27 from the two overnight incidents.",
+      "zh-TW": "NPR報導一週內38人死亡，而BBC、The Guardian與NYT則指明兩起隔夜事件至少27人喪生。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Johannesburg",
+          "zh-TW": "約翰尼斯堡（Johannesburg）"
+        },
+        "blurb": {
+          "en": "Largest city in South Africa and site of one mass shooting incident.",
+          "zh-TW": "南非（South Africa）最大城市，兩起槍擊事件之一發生地點。"
+        }
+      },
+      {
+        "term": {
+          "en": "Cape Town",
+          "zh-TW": "開普敦（Cape Town）"
+        },
+        "blurb": {
+          "en": "Second-largest city in South Africa and site of the second mass shooting incident.",
+          "zh-TW": "南非（South Africa）第二大城市，第二起槍擊事件發生地點。"
+        }
+      },
+      {
+        "term": {
+          "en": "South African Police Service",
+          "zh-TW": "南非警察局（South African Police Service）"
+        },
+        "blurb": {
+          "en": "National police agency that confirmed the death toll from the shootings.",
+          "zh-TW": "確認槍擊事件死亡人數的國家警察機構。"
         }
       }
     ],
     "trustScore": 55,
     "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 14,
-      "crossCorroboration": 15,
+      "sourceDiversity": 25,
+      "outletReputation": 19,
+      "crossCorroboration": 17,
       "recencyClarity": 23
     },
     "tags": [
-      "international",
+      "entertainment",
       "live-ingest",
-      "sky-news-uk",
-      "bbc-uk"
+      "bbc-world",
+      "npr-world",
+      "the-guardian-world"
     ]
   },
   {
-    "id": "live-eastAsiaGossip-03-14-30-20260805-our-lifes",
+    "id": "live-eastAsiaGossip-03-1-ebc-line-today",
     "category": "eastAsiaGossip",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "publishedAt": "2026-09-25T15:04:00.000Z",
+    "publishedAt": "2026-09-27T16:52:19.000Z",
     "title": {
-      "en": "Liu Peiyue Clarifies Male Artist Blacklist Rumors as Ho Peijia and Ruan Haozong Discuss Reconciliation Possibility",
-      "zh-TW": "劉佩玥澄清男藝人黑名單傳聞 何沛珈阮浩棕談復合可能"
+      "en": "Jing Boran and Liu Wen Targeted by 'Early Spring Sunshine' Fans",
+      "zh-TW": "井柏然（Jing Boran）與劉雯（Liu Wen）遭《早春晴朗》CP粉出征"
     },
     "summary": {
-      "en": "East Asian celebrity gossip covers breakup announcements and possible reconciliations. Liu Peiyue addresses blacklist rumors while Ho Peijia and Ruan Haozong discuss getting back together. Other reports include splits involving Korean and Chinese stars with some companies denying rumors.",
-      "zh-TW": "東亞藝人緋聞涵蓋分手宣布與可能復合。劉佩玥澄清黑名單傳聞，何沛珈與阮浩棕討論復合。其他報導包括韓國與中國明星分手，部分公司否認傳聞。"
+      "en": "Jing Boran and girlfriend Liu Wen faced backlash from fans of drama 'Early Spring Sunshine' who ship him with co-star Sun Qian. Liu Wen reportedly changed her flight to return to Beijing alone after online attacks urging her to break up. Jing Boran took one action seen as protecting their relationship.",
+      "zh-TW": "井柏然（Jing Boran）與女友劉雯（Liu Wen）因《早春晴朗》爆紅，遭CP粉洗版出征。劉雯被逼分手後急改班機獨返北京，井柏然則以1舉動低調護愛。"
     },
     "body": {
-      "en": "Lede: Recent East Asian entertainment news highlights several celebrity relationship updates centered on breakups and potential reconciliations.\nWhat happened: Liu Peiyue clarified rumors about a male artist blacklist. Ho Peijia and Ruan Haozong discussed the possibility of getting back together. Additional reports covered splits such as those involving Jung Kyung-ho and Sooyoung, Luhan and Guan Xiaotong, Kim Jung-ryul and his Taiwanese wife, and conflicting claims around Chaeyoung and Zion.T.\nWhy it matters: These stories reflect ongoing public interest in the personal lives of regional stars and how agencies respond to rumors.\nSources agree/disagree: Multiple outlets reported on Chaeyoung and Zion.T with some claiming a breakup and others stating the pair remains together and companies plan to take action against false reports.\nStill uncertain: Details on future reconciliations and exact reasons for splits remain unconfirmed beyond the reported statements.",
-      "zh-TW": "導言：近期東亞娛樂新聞聚焦多起藝人感情更新，圍繞分手與可能復合。\n事件經過：劉佩玥澄清男藝人黑名單傳聞。何沛珈與阮浩棕談論復合可能。其他報導包括鄭敬淏與秀英、鹿晗與關曉彤、金正烈與台籍妻子，以及彩瑛與Zion.T的衝突說法。\n重要性：這些故事反映大眾對區域明星私生活的持續關注，以及經紀公司對傳聞的回應。\n來源同意或分歧：多家媒體報導彩瑛與Zion.T，有些宣稱分手，有些則表示兩人仍交往，公司計劃對假消息採取行動。\n仍未確定：未來復合細節與分手確切原因，除已報導聲明外仍未確認。"
+      "en": "Lede: Chinese model Liu Wen encountered fan backlash tied to actor Jing Boran's drama role. What happened: Reports indicate that after 'Early Spring Sunshine' gained popularity, fans of the on-screen pairing with Sun Qian flooded comments against Liu Wen. She reportedly altered her flight schedule to fly back to Beijing alone to avoid further issues. Jing Boran performed one gesture interpreted as a low-key defense of their relationship. Why it matters: Celebrity couple rumors in East Asian entertainment often trigger intense fan reactions that spill into real-life pressures. Sources agree/disagree: Multiple outlets including ETtoday, SETN, and Yahoo TW report consistent details on the flight change and fan attacks. Still uncertain: Exact nature of Jing Boran's protective action remains described only as 'one move' without further specifics across reports.",
+      "zh-TW": "導言：中國名模劉雯（Liu Wen）因井柏然（Jing Boran）戲劇角色遭遇粉絲反彈。 事件經過：據報導，《早春晴朗》爆紅後，孫千（Sun Qian）與井柏然的CP粉大量留言攻擊劉雯。她被迫改班機獨自返回北京以避嫌。井柏然則做出1個被視為低調護愛的舉動。 為何重要：東亞娛樂圈名人情侶傳聞常引發粉絲激烈反應，影響現實生活。 來源共識與分歧：ETtoday、SETN及Yahoo TW等多家媒體對改班機與粉絲出征細節報導一致。 仍未確定：井柏然護愛舉動僅被描述為「1舉動」，未有進一步細節說明。"
     },
     "sources": [
       {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBURjgyNFdNLUFRcTNPa21hUlY3VXE0M2V0SmIzOEZUMUpXQThGLWR1MWtobThUaFJvZVlLYkJHc3BzSm9randUTUlPck90aDNKUDBSZUViWk9nQdIBX0FVX3lxTE0zb3hHdmJVZ19qSk9VTElFcjg5QWhMcFFNbXNSdTNwQVBuNWI0aFFVUWJGYllMTDdMSnRIUWktZERPcktWeUhlZzBzYTczMjRyTUFqbkF4WVFpOEdmYVNR?oc=5"
+      },
+      {
+        "name": "Yahoo TW 娛樂",
+        "url": "https://tw.news.yahoo.com/%E5%A5%B3%E5%8F%8B%E5%8A%89%E9%9B%AF%E9%81%AD-%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-cp%E7%B2%89%E5%87%BA%E5%BE%81-%E4%BA%95%E6%9F%8F%E7%84%B6-1%E8%88%89%E5%8B%95-005219521.html"
+      },
+      {
         "name": "ettoday.net",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ec0hZcDJwTVNtU29QWndpN0o0REh6YnplcmVSQU5TdERsSWdXRm9FTzBHbjNCQ3E0Rzl2UzNOTnRmaFFyVk9rR09Db3U0d9IBTEFVX3lxTE5QNmcxR3A4UWVHNzdSOEVCcEtfOTRiY1N3NWVrQ2U4WDRyRnNKREF4R2Y1NnBER2lJcV9vcHFLZGRJZXlibUEtV3cybVY?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MbEpqTy02UWZFUkotY3FfX0NJVVp4dVROb2J4MmhBVng3VjlHd3FldmRrb3luUmVZdzZ4MHFZdGpIVXJyM29QaGFmY2xXZ9IBTEFVX3lxTE55X1hZajhRZGlyTmlFUjRlMUZKWkRnU0hwbkdIRmY3b05GYjFlZ0JGNVRHaEtGcEFWbzFOTnZYMm55dlpBZ3RVc3lUMXI?oc=5"
       },
       {
         "name": "setn.com",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5cG5lN0t2NjFCRlpLTWp6aWpfejZxUFV5T3E3eUtuRmhXd2ZibFlLdjNnUEFnMUN0SXBZRXdFY0RFS3d1ejQtMTVn0gFfQVVfeXFMTUxKSExJMkpucUNkREdkM2EyVHVuX2hKSE1za29ZbzlMMmJXU3RwTlF0a3p5Vk9PeVFiRmEyQ0U2b3lERnpFMC11VHhMNzZtWGRWd1I0cEowZF9YN1dsWDg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GY19pTVhRVi1WVlpRc3Nkd21nc1JKWGFET2hBWHRnM3QwaVdhM1dlcHFGWXc4RDh5bkRMR1JxYXdSOGM3QUt1OS1R0gFfQVVfeXFMTnBtYnhnMkVnd1BiOWRTYkU1VHJGbDZXcF9HQXhKckszX3kzWXdiYW9RWko5RjRiMVNpbFQzOGNMclF6N1VnNUNtdFhoN2ZfQkNKZ2RwZVBSRDN2MVBoR2M?oc=5"
       },
       {
-        "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xWVRUOVItU0xXTDRHZVJFNWRrV2NpNktacGllaHlKVXJYOWVuNzJHbHFUQXd1UGVWTHhwWHJvOG1uZFluMUI3azVVQnhZQzI0WmFYaEJVVHLSAVdBVV95cUxNeHJGRWdqdS04c21RSEZJaXNMYkVJOG95SFhGM3NlMWVOOFY4S0hmQ3UzbjNPOE13ODVXbjZXcld3ZmxYTDJNQ0dnYWg5TWQ0UDNhU2N3eEk?oc=5"
-      },
-      {
-        "name": "tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOVmtEdXZjQWN5cE90eVdGNDRMUFlTYWpoTmdWV2phWGh0cGE1TXlUWG5yeWJFelEtU1VxenFhZDFPV1pNYTlGbHhmRFlFY1RjOHZieHZUX2dpdGNrTDdQdmVrRXlKckNET3gwOVVaN1VyWEVvZ2ZkNFRvUC1yeEYtNGxGVzNhaDVjR3FFXzVzVkxRNUlud0xMaEoxMGRFTHJUbF9QMVRUU3J3NE1iR3R4YVlEV3VsUHZST3FNd1puYVRuZ3V6WjI5YkVhNmVad1JRZVBzN3dITTRGeXBHSlFfNm5QbW9iTllSeUFaeTY4aGx2SUFMWGw1RG9PSHlDNy11VDVqTlhnU1dJM1JDdXVzNnlMNDlWanMwLVZXVE8ydnRZZ1FZWU9ocTdPT25FajJlQWIwZkhpSWRyRWdjMnZmMDNwZnNqdDgwYklMNllOLW5aeEVXRFJDZU55X1dVX21jMDdFaVdDYkd6Mkhj?oc=5"
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMXZsNnpDSWRVbDA3S2JoUWxucS1xeEhaOU9mWnZtZktNc3M1QWdnVW5SSTNldEZMc2VlbkM0eHhGMEg0RUlKOFlLX1dwcE40ZlQzTFBB?oc=5"
       },
       {
         "name": "tvbs.com.tw",
@@ -546,28 +363,38 @@
       }
     ],
     "disagreements": {
-      "en": "Reports conflict on Chaeyoung and Zion.T relationship status with some sources claiming breakup and others denying it with company statements affirming they are still together.",
-      "zh-TW": "彩瑛與Zion.T關係狀態報導衝突，部分來源宣稱分手，另一些則否認並有公司聲明確認仍在一起。"
+      "en": "Figures differ across outlets (e.g. 1 vs 20260926 in headlines/snippets).",
+      "zh-TW": "各個媒體的數字有所不同（例如，標題/片段中的 1 與 20260926）。"
     },
     "glossary": [
       {
         "term": {
-          "en": "Zion.T",
-          "zh-TW": "Zion.T"
+          "en": "Jing Boran",
+          "zh-TW": "井柏然（Jing Boran）"
         },
         "blurb": {
-          "en": "Music producer linked to relationship rumor with Chaeyoung.",
-          "zh-TW": "與彩瑛傳出感情傳聞的音樂製作人。"
+          "en": "Chinese actor involved in the drama Early Spring Sunshine.",
+          "zh-TW": "中國演員，參與《早春晴朗》演出。"
         }
       },
       {
         "term": {
-          "en": "Chaeyoung",
-          "zh-TW": "彩瑛"
+          "en": "Liu Wen",
+          "zh-TW": "劉雯（Liu Wen）"
         },
         "blurb": {
-          "en": "TWICE member involved in reported relationship update.",
-          "zh-TW": "TWICE成員，傳出感情更新。"
+          "en": "Chinese model and girlfriend of Jing Boran.",
+          "zh-TW": "中國名模，井柏然女友。"
+        }
+      },
+      {
+        "term": {
+          "en": "Early Spring Sunshine",
+          "zh-TW": "《早春晴朗》"
+        },
+        "blurb": {
+          "en": "Drama starring Jing Boran that sparked fan shipping with co-star Sun Qian.",
+          "zh-TW": "井柏然主演戲劇，引發與孫千CP粉絲熱議。"
         }
       }
     ],
@@ -577,176 +404,6 @@
       "outletReputation": 12,
       "crossCorroboration": 17,
       "recencyClarity": 23
-    },
-    "tags": [
-      "eastAsiaGossip",
-      "live-ingest",
-      "region:tw",
-      "gnews-site:ettoday-分手/復合/婚",
-      "gnews-site:setn-分手/婚",
-      "gnews-tw-分手+藝人/明星"
-    ],
-    "region": "tw"
-  },
-  {
-    "id": "live-international-03-leo-xiv-trying-to-be-eve",
-    "category": "international",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-03-leo-xiv-trying-to-be-eve.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Leo XIV, Trying to Be Everyone’s Pope, Tours Secular France",
-      "zh-TW": "相關封面圖：利奧十四世（Leo XIV）巡訪世俗法國（France） 警告機器威脅"
-    },
-    "publishedAt": "2026-09-25T15:38:35.000Z",
-    "title": {
-      "en": "Leo XIV Tours Secular France, Warns of AI Machines",
-      "zh-TW": "利奧十四世（Leo XIV）巡訪世俗法國（France） 警告機器威脅"
-    },
-    "summary": {
-      "en": "Pope Leo XIV visited France and warned against losing humanity to AI machines during the first day of his trip. Sources note his efforts to appeal to both traditional and newer Catholic strongholds after Africa travels.",
-      "zh-TW": "教宗利奧十四世（Leo XIV）在法國（France）之行首日警告勿因機器而失去人性。消息指出其在非洲之行後，試圖同時吸引傳統與新興天主教據點。"
-    },
-    "body": {
-      "en": "Lede: Leo XIV, Trying to Be Everyone’s Pope, Tours Secular France. What happened: The pontiff delivered a warning against losing humanity to AI machines on the first day of his trip to France. He raised existential concerns about scientific progress, life and human rights during a speech. Why it matters: After visiting Africa, Pope Leo’s four-day trip to France shows how he is seeking to appeal to Roman Catholicism’s original heartlands as well as to the church’s newest strongholds. Sources agree/disagree: BBC, NPR and NYT all report the AI warning issued on the France visit and note the broader appeal strategy. Still uncertain: No details on specific outcomes or further itinerary steps are provided.",
-      "zh-TW": "導言：利奧十四世（Leo XIV）試圖成為眾人之教宗，巡訪世俗法國（France）。 事件經過：教宗在法國（France）之行首日警告勿因機器而失去人性。他在演說中提出對科學進展、生命與人權的存在疑慮。 重要性：利奧十四世（Leo XIV）在非洲之行後展開四天法國（France）行程，顯示其試圖同時吸引羅馬天主教傳統核心地帶與教會新興據點。 消息來源異同：BBC、NPR與NYT均報導教宗在法國（France）之行中發出人工智慧警告，並提及此廣泛吸引力策略。 仍未確定：未提供具體成果或後續行程細節。"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france"
-      },
-      {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html"
-      }
-    ],
-    "disagreements": null,
-    "glossary": [
-      {
-        "term": {
-          "en": "Leo XIV",
-          "zh-TW": "利奧十四世（Leo XIV）"
-        },
-        "blurb": {
-          "en": "Current pope on official visit to France.",
-          "zh-TW": "現任教宗，正進行法國（France）官方訪問。"
-        }
-      },
-      {
-        "term": {
-          "en": "France",
-          "zh-TW": "法國（France）"
-        },
-        "blurb": {
-          "en": "Country hosting the pope's four-day trip.",
-          "zh-TW": "教宗四天行程的接待國家。"
-        }
-      }
-    ],
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 18,
-      "crossCorroboration": 22,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-world",
-      "npr-world",
-      "nyt-world"
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-04-20260926-our-lifestyle",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "publishedAt": "2026-09-25T20:30:00.000Z",
-    "title": {
-      "en": "Jing Boran, Sun Qian Kiss Scene in Early Spring Clear Goes Viral",
-      "zh-TW": "井柏然（Jing Boran）、孫千（Sun Qian）《早春晴朗》吻戲爆紅"
-    },
-    "summary": {
-      "en": "Jing Boran and Sun Qian's kiss in drama Early Spring Clear sparks online buzz. Separate reports note Jing Boran appearing with Liu Wen at an event, dispelling past breakup rumors. Sources also reference his past relationship circle involving a former teammate.",
-      "zh-TW": "井柏然（Jing Boran）與孫千（Sun Qian）在《早春晴朗》吻戲引發熱議。另有報導指出井柏然（Jing Boran）與劉雯（Liu Wen）合體現身活動，粉碎情變傳聞。消息提及過去感情圈與前男團隊友相關。"
-    },
-    "body": {
-      "en": "Lede: Jing Boran and Sun Qian's intimate scene in the drama Early Spring Clear has gone viral according to Ming Pao Our Lifestyle. What happened: Reports from ETtoday and NOWnews detail Jing Boran and Liu Wen attending a Li Ronghao concert together, with one action said to break breakup rumors after seven years. udnSTYLE highlights entertainment circle connections where Jing Boran's ex-girlfriend reportedly dated a former male team member. Why it matters: The drama's popularity and public appearances fuel ongoing gossip about Jing Boran's relationships in the Chinese entertainment scene. Sources agree/disagree: Multiple outlets including ETtoday, NOWnews, and udnSTYLE align on the Liu Wen sighting and past circle rumors; no direct conflicts noted. Still uncertain: Exact status of relationships remains based on public sightings and unverified past claims from single reports.",
-      "zh-TW": "導言：明報Our Lifestyle報導，井柏然（Jing Boran）與孫千（Sun Qian）在《早春晴朗》中的親密戲碼爆紅。 事件經過：ETtoday與NOWnews指出井柏然（Jing Boran）與劉雯（Liu Wen）一同出席李榮浩演唱會，一動作據稱粉碎七年情變傳聞。udnSTYLE提及娛樂圈關係，井柏然（Jing Boran）前女友據傳與昔日男團隊友交往。 重要性：劇集人氣與公開現身推升井柏然（Jing Boran）感情八卦討論。 來源一致與分歧：ETtoday、NOWnews與udnSTYLE等多方對劉雯（Liu Wen）現身及過去圈內傳聞看法一致，無直接衝突。 仍未確定：關係現況依據公開現身與單一報導未證實過去傳聞。"
-    },
-    "sources": [
-      {
-        "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HN0Z6cW5aS3FlclZLU3FjOUx2ZEVCYS1ZVE9RdWNVeFRvV3ZHcks0M0docXQ2d0hPeWx2TVhPM1I0VVdwMmIyNXB4LTVrZjM0R3F4bXJ5dE9TUdIBX0FVX3lxTFBGSE1PUTRjZG9tbWNHWFEzQlVqTmh1Z1laNmdVbmtoaFctNmFsZ0NHbTVkT3VQYXRLZGJ0bi1WQ2xtZW02SVZaWnFVa3cwX2hXaDZ0WnJmVTI0UGs2eGZj?oc=5"
-      },
-      {
-        "name": "Yahoo TW 娛樂",
-        "url": "https://tw.news.yahoo.com/%E3%80%8A%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E3%80%8B%E4%BA%95%E6%9F%8F%E7%84%B610%E5%A4%A7%E4%BA%BA%E7%94%9F%E9%87%91%E5%8F%A5%EF%BC%9A%E3%80%8C%E6%88%91%E8%AA%8D%E7%82%BA%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E4%B8%8D%E6%98%AF%E4%B8%80%E5%91%B3%E5%9C%B0%E5%8E%BB%E6%88%90%E7%82%BA%E4%B8%80%E5%80%8B%E6%88%90%E5%8A%9F%E7%9A%84%E4%BA%BA%E3%80%82%E3%80%8D-010000991.html"
-      },
-      {
-        "name": "Google News TW 娛樂",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FYjZRTEZPMHBqQnBpa2xnY1FRbUt1ZUJreFlKTF9acGFMQm1jSnl5eTY5Ylg1M1VnaTUtRE5TN2dWb2NOT3JxZklGcXEyV3hIeUpvYXZSOEFaNGVB0gFiQVVfeXFMUDRpLW5ENy05amdyemtSNjFodmlJR0VDS3JyZFdMNVFGWXc0Rjl3VVhsM2IwMDVpYVhnVzYzMHJkY2VMR215anVIeDh4NmJyZ1FzVGl2OGFKT3FYVER1N1hqeHc?oc=5"
-      },
-      {
-        "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCb05tWWZtSUhOMUxGckRJLU5CWlU2Z0hJbk52VXZvQXBPWkNWTFpqdXFQY1MxcGZzM1Z4N3h5QUFzMURpTTJQMkRWNXhBZXBLWG4wSzFB?oc=5"
-      },
-      {
-        "name": "tvbs.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWZkRGZ2w4MXl2NUZhZ01yemFJUnRBVFJDT1ZzSXVWNzdoTkNUTENJQ3BfWDduWnZEajZLTDFEcFotdDJnQVBUSVZjLS1rRWhVMXUtX0pob0poZw?oc=5"
-      }
-    ],
-    "disagreements": {
-      "en": "Figures differ across outlets (e.g. 7 vs 10 in headlines/snippets).",
-      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 7 比 10）。"
-    },
-    "glossary": [
-      {
-        "term": {
-          "en": "Jing Boran",
-          "zh-TW": "井柏然（Jing Boran）"
-        },
-        "blurb": {
-          "en": "Chinese actor appearing in Early Spring Clear and linked to public relationship reports.",
-          "zh-TW": "中國演員，出演《早春晴朗》並與公開關係報導相關。"
-        }
-      },
-      {
-        "term": {
-          "en": "Sun Qian",
-          "zh-TW": "孫千（Sun Qian）"
-        },
-        "blurb": {
-          "en": "Actress featured in viral kiss scene with Jing Boran in Early Spring Clear.",
-          "zh-TW": "女演員，在《早春晴朗》與井柏然（Jing Boran）吻戲爆紅。"
-        }
-      },
-      {
-        "term": {
-          "en": "Liu Wen",
-          "zh-TW": "劉雯（Liu Wen）"
-        },
-        "blurb": {
-          "en": "Model seen publicly with Jing Boran, cited in reports dispelling breakup rumors.",
-          "zh-TW": "模特兒，與井柏然（Jing Boran）公開現身，被報導用以粉碎情變傳聞。"
-        }
-      }
-    ],
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 11,
-      "crossCorroboration": 17,
-      "recencyClarity": 25
     },
     "tags": [
       "eastAsiaGossip",
@@ -759,179 +416,435 @@
     "region": "tw"
   },
   {
-    "id": "live-entertainment-01-presley-gerber-was-dropp",
-    "category": "entertainment",
+    "id": "live-international-01-this-charming-man-how-po",
+    "category": "international",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-01-presley-gerber-was-dropp.jpg",
+    "imageUrl": "/covers/live/live-international-01-this-charming-man-how-po.jpg",
     "imageAlt": {
-      "en": "Cover related to: Presley Gerber Was Dropped Off at Rehab by Friend, Sober Coach",
-      "zh-TW": "相關封面圖：普雷斯利·格伯（Presley Gerber）由友人與清醒教練送往康復中心"
+      "en": "Cover related to: This Charming Man: How popular is Andy Burnham?",
+      "zh-TW": "相關封面圖：安迪·伯納姆（Andy Burnham）人氣與工黨會議計畫"
     },
-    "publishedAt": "2026-09-25T23:09:23.000Z",
+    "publishedAt": "2026-09-27T18:56:22.000Z",
     "title": {
-      "en": "Presley Gerber Dropped Off at Rehab by Friend and Sober Coach Before Death",
-      "zh-TW": "普雷斯利·格伯（Presley Gerber）由友人與清醒教練送往康復中心"
+      "en": "Andy Burnham Popularity and Labour Conference Plans",
+      "zh-TW": "安迪·伯納姆（Andy Burnham）人氣與工黨會議計畫"
     },
     "summary": {
-      "en": "Presley Gerber, son of Cindy Crawford and Rande Gerber, was dropped off at a Santa Monica rehab facility by a friend and his sober coach. He died at age 27. His body was cremated at Rose Family Funeral Home days later, with ashes to be kept at his parents' Malibu mansion. The cause of death is still under investigation after autopsy completion.",
-      "zh-TW": "辛迪·克勞馥（Cindy Crawford）與蘭德·格伯（Rande Gerber）之子普雷斯利·格伯（Presley Gerber），由友人與清醒教練送往聖塔莫尼卡康復中心，27歲去世。遺體數日後在玫瑰家族殯儀館火化，骨灰將存放於父母馬里布豪宅。驗屍完成後死因仍在調查中。"
+      "en": "Andy Burnham leads Labour at its Liverpool conference. He refuses to back a third Heathrow runway pending consultation on the £33bn scheme and pledges an NHS-style universal care service for England funded by taxpayers.",
+      "zh-TW": "安迪·伯納姆（Andy Burnham）在利物浦（Liverpool）主持工黨會議。他拒絕支持希斯洛機場（Heathrow）第三跑道，等待330億英鎊方案諮詢結果，並承諾為英格蘭（England）推出國民保健署（NHS）式全民照護服務，由納稅人出資。"
     },
     "body": {
-      "en": "Lede: Presley Gerber was dropped off at the Santa Monica rehab facility where he later died by a friend along with his personal sober coach. What happened: According to TMZ, Presley's team found the facility and arranged the drop-off. The death certificate confirms he was cremated at the Rose Family Funeral Home. Just Jared reports his ashes will be kept at his parents' mansion in Malibu. The autopsy was completed but the Medical Examiner awaits test results before announcing the cause of death. Why it matters: The details provide context around the circumstances of the 27-year-old's death in the entertainment world. Sources agree/disagree: TMZ and Just Jared both confirm the cremation at Rose Family Funeral Home and ongoing investigation into cause of death. Still uncertain: The official cause of death remains listed as under investigation pending test results.",
-      "zh-TW": "導言：普雷斯利·格伯（Presley Gerber）由友人與其清醒教練一同送往聖塔莫尼卡康復中心，之後在該處去世。 事件經過：根據TMZ報導，格伯團隊找到該設施並安排送達。正如死亡證明書所示，他於玫瑰家族殯儀館火化。Just Jared報導其骨灰將存放於父母位於馬里布的豪宅。驗屍已完成，但法醫仍等待檢驗結果以公布死因。 重要性：這些細節提供娛樂圈27歲逝世相關情境。 來源一致／分歧：TMZ與Just Jared均確認玫瑰家族殯儀館火化及死因調查持續進行。 仍未確定：官方死因仍列為調查中，待檢驗結果。"
+      "en": "Lede: Labour returns to Liverpool for its annual conference under Andy Burnham's leadership, with focus on his popularity and key policy pledges. What happened: Andy Burnham said he would wait for consultation results on a third runway at Heathrow estimated to cost £33bn. He pledged to fight the next election with a plan for an NHS-style care service, willing to expend political capital to fund universal care for England by asking everybody to contribute. Why it matters: The moves signal Labour's direction on infrastructure and social care under Burnham, testing his ability to maintain momentum. Sources agree/disagree: BBC Business, Sky News UK and The Guardian UK News all report Burnham's Heathrow stance and care service vision at the Liverpool conference. Still uncertain: Details on exact funding mechanisms and public response to the proposals remain open.",
+      "zh-TW": "導言：工黨在安迪·伯納姆（Andy Burnham）領導下返回利物浦（Liverpool）舉行年度會議，焦點在他的人氣與主要政策承諾。 事件經過：安迪·伯納姆（Andy Burnham）表示將等待希斯洛機場（Heathrow）第三跑道方案諮詢結果，該方案估計耗資330億英鎊。他承諾以國民保健署（NHS）式照護服務計畫爭取下次選舉，願意耗費政治資本，要求每個人出資為英格蘭（England）提供全民服務。 重要性：這些舉措顯示伯納姆領導下工黨在基礎建設與社會照護的方向，測試其維持動能的能力。 來源一致／分歧：BBC Business、Sky News UK 與 The Guardian UK News 均報導伯納姆在利物浦會議上的希斯洛立場與照護服務願景。 仍未確定：確切資金機制與民眾對提案的反應仍待觀察。"
     },
     "sources": [
       {
-        "name": "TMZ",
-        "url": "https://www.tmz.com/2026/09/25/presley-gerber-cremated/"
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "name": "Just Jared",
-        "url": "https://www.justjared.com/2026/09/25/presley-gerbers-body-cremated-as-funeral-arrangements-are-underway/"
+        "name": "Sky News UK",
+        "url": "https://news.sky.com/story/this-charming-man-can-andy-burnham-restore-labours-fortunes-13591718"
+      },
+      {
+        "name": "The Guardian UK News",
+        "url": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference"
       }
     ],
     "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "Presley Gerber",
-          "zh-TW": "普雷斯利·格伯（Presley Gerber）"
+          "en": "Andy Burnham",
+          "zh-TW": "安迪·伯納姆（Andy Burnham）"
         },
         "blurb": {
-          "en": "Son of Cindy Crawford and Rande Gerber who died at age 27.",
-          "zh-TW": "辛迪·克勞馥與蘭德·格伯之子，27歲去世。"
+          "en": "Leader of the Labour Party.",
+          "zh-TW": "工黨領袖。"
         }
       },
       {
         "term": {
-          "en": "Cindy Crawford",
-          "zh-TW": "辛迪·克勞馥（Cindy Crawford）"
+          "en": "Labour",
+          "zh-TW": "工黨（Labour）"
         },
         "blurb": {
-          "en": "Mother of Presley Gerber.",
-          "zh-TW": "普雷斯利·格伯之母。"
+          "en": "UK political party holding its conference in Liverpool.",
+          "zh-TW": "在利物浦舉行會議的英國政黨。"
         }
       },
       {
         "term": {
-          "en": "Rande Gerber",
-          "zh-TW": "蘭德·格伯（Rande Gerber）"
+          "en": "Heathrow",
+          "zh-TW": "希斯洛機場（Heathrow）"
         },
         "blurb": {
-          "en": "Father of Presley Gerber.",
-          "zh-TW": "普雷斯利·格伯之父。"
+          "en": "Airport site of proposed third runway costing £33bn.",
+          "zh-TW": "擬建第三跑道、估計耗資330億英鎊的機場。"
         }
       },
       {
         "term": {
-          "en": "Rose Family Funeral Home",
-          "zh-TW": "玫瑰家族殯儀館（Rose Family Funeral Home）"
+          "en": "NHS",
+          "zh-TW": "國民保健署（NHS）"
         },
         "blurb": {
-          "en": "Location where Presley Gerber was cremated.",
-          "zh-TW": "普雷斯利·格伯火化地點。"
-        }
-      },
-      {
-        "term": {
-          "en": "Santa Monica",
-          "zh-TW": "聖塔莫尼卡（Santa Monica）"
-        },
-        "blurb": {
-          "en": "City where the rehab facility was located.",
-          "zh-TW": "康復中心所在城市。"
+          "en": "UK National Health Service model referenced for care plans.",
+          "zh-TW": "英國國民保健服務模式，用於照護計畫參考。"
         }
       }
     ],
-    "trustScore": 45,
+    "trustScore": 55,
     "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 12,
-      "crossCorroboration": 15,
-      "recencyClarity": 25
+      "sourceDiversity": 24,
+      "outletReputation": 16,
+      "crossCorroboration": 22,
+      "recencyClarity": 23
     },
     "tags": [
-      "entertainment",
+      "international",
       "live-ingest",
-      "tmz",
-      "tmz",
-      "just-jared"
+      "bbc-business",
+      "sky-news-uk",
+      "the-guardian-uk-news"
     ]
   },
   {
-    "id": "live-entertainment-02-olivia-rodrigo-setlist-f",
-    "category": "entertainment",
+    "id": "live-finance-02-anthropic-ceo-amodei-set",
+    "category": "finance",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-02-olivia-rodrigo-setlist-f.jpg",
+    "imageUrl": "/covers/live/live-finance-02-anthropic-ceo-amodei-set.jpg",
     "imageAlt": {
-      "en": "Cover related to: Olivia Rodrigo Setlist for 2026 ‘Unraveled Tour’ Revealed After Opening Night Show",
-      "zh-TW": "相關封面圖：奧莉維亞·羅德里戈（Olivia Rodrigo）「Unraveled Tour」開幕夜後曲目揭曉"
+      "en": "Cover related to: Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+      "zh-TW": "相關封面圖：Anthropic 執行長達里奧·阿莫代（Dario Amodei） 錯過國宴後 將與川普會面"
     },
-    "publishedAt": "2026-09-26T01:03:20.000Z",
+    "publishedAt": "2026-09-27T20:34:28.000Z",
     "title": {
-      "en": "Olivia Rodrigo Unraveled Tour Setlist Revealed After Opening Night Show",
-      "zh-TW": "奧莉維亞·羅德里戈（Olivia Rodrigo）「Unraveled Tour」開幕夜後曲目揭曉"
+      "en": "Anthropic CEO Dario Amodei Set to Meet with Trump After Missing State Dinner",
+      "zh-TW": "Anthropic 執行長達里奧·阿莫代（Dario Amodei） 錯過國宴後 將與川普會面"
     },
     "summary": {
-      "en": "Olivia Rodrigo launched her 2026 Unraveled Tour at PeoplesBank Arena in Hartford, Connecticut on September 25. The Grammy-winning singer, 23, will perform 86 shows including 10-show residencies at Intuit Dome in Los Angeles and Barclays Center in New York City, split into six acts.",
-      "zh-TW": "奧莉維亞·羅德里戈（Olivia Rodrigo）於9月25日在康乃狄克州哈特福的PeoplesBank Arena展開2026年「Unraveled Tour」。這位23歲葛萊美獎歌手將演出86場，包括在洛杉磯Intuit Dome及紐約Barclays Center的10場駐唱，表演分為六幕。"
+      "en": "Anthropic CEO Dario Amodei missed President Trump's dinner for Chinese President Xi but is scheduled for a one-on-one dinner with Trump, marking their first such meeting according to reports from CNBC and TechCrunch.",
+      "zh-TW": "Anthropic 執行長達里奧·阿莫代（Dario Amodei） 缺席川普總統為中國國家主席習近平舉辦的晚宴，但據 CNBC 與 TechCrunch 報導，他將與川普進行首次一對一晚餐會面。"
     },
     "body": {
-      "en": "Lede: Olivia Rodrigo has kicked off her 2026 Unraveled Tour with the setlist from opening night now revealed.\nWhat happened: The Grammy-winning singer launched the tour with a show at PeoplesBank Arena on Friday night September 25 in Hartford, Connecticut. She will perform 86 shows on her third concert tour, including 10-show residencies at the Intuit Dome in Los Angeles and the Barclays Center in New York City. Olivia split the show up into six acts.\nWhy it matters: The tour details provide fans with the full opening night setlist and schedule for the extensive run of concerts.\nSources agree/disagree: One source covers the Unraveled Tour setlist while the other reports iHeartRadio’s 2026 Jingle Ball Tour lineup including Olivia Rodrigo along with Hilary Duff, Sombr, Raye, Adéla, Katseye, Ludacris, Dominic Fike, Myles Smith and more across a nine-city tour with varying lineups.\nStill uncertain: The full setlist details beyond the six-act structure are not specified in the provided sources.",
-      "zh-TW": "導言：奧莉維亞·羅德里戈（Olivia Rodrigo）已展開2026年「Unraveled Tour」，開幕夜完整曲目現已揭曉。\n事件經過：這位葛萊美獎歌手於9月25日星期五晚間在康乃狄克州哈特福的PeoplesBank Arena舉行開幕演出。她將在第三次巡演中演出86場，包括在洛杉磯Intuit Dome及紐約Barclays Center各10場的駐唱。奧莉維亞·羅德里戈（Olivia Rodrigo）將表演分為六幕。\n重要性：巡演細節讓粉絲得知開幕夜完整曲目與龐大演出行程。\n來源異同：一則來源報導「Unraveled Tour」曲目，另一則報導iHeartRadio 2026年Jingle Ball Tour陣容，包含奧莉維亞·羅德里戈（Olivia Rodrigo）、希拉蕊·杜夫（Hilary Duff）、Sombr、Raye、Adéla、Katseye、Ludacris、Dominic Fike、Myles Smith等人，在九城巡演中以不同陣容演出。\n仍未確定：六幕結構以外的完整曲目細節在來源中未說明。"
+      "en": "Lede: Anthropic CEO Dario Amodei is set to have dinner with President Trump after being absent from a state dinner. What happened: As top tech CEOs attended President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent per CNBC. TechCrunch reports this upcoming dinner will be the first one-on-one meeting between Dario Amodei and Donald Trump. Why it matters: The meeting follows Amodei's absence from a high-profile event involving multiple tech leaders and the Chinese president, highlighting separate engagement between Anthropic leadership and the U.S. administration. Sources agree/disagree: Both CNBC and TechCrunch confirm the planned dinner meeting after the missed state dinner. TechCrunch adds the detail of it being the first one-on-one encounter. Still uncertain: No further details on timing, agenda, or outcomes are provided in the sources.",
+      "zh-TW": "導言：Anthropic 執行長達里奧·阿莫代（Dario Amodei） 缺席國宴後，預計將與川普總統共進晚餐。 事件經過：根據 CNBC 報導，當多位科技執行長出席川普總統為中國國家主席習近平舉辦的華麗晚宴時，Anthropic 執行長明顯缺席。TechCrunch 則指出，這場即將舉行的晚餐將是達里奧·阿莫代（Dario Amodei） 與唐納·川普（Donald Trump）的首次一對一會面。 重要性：此會面發生在阿莫代缺席涉及多位科技領袖與中國國家主席的高規格活動之後，凸顯 Anthropic 領導層與美國政府的另行接觸。 來源一致與分歧：CNBC 與 TechCrunch 均確認缺席國宴後的晚餐計畫，TechCrunch 補充這是首次一對一會面。 仍未確定：來源未提供時間、議程或結果等進一步細節。"
     },
     "sources": [
       {
-        "name": "Rolling Stone Music",
-        "url": "https://www.rollingstone.com/music/music-news/iheartradio-jingle-ball-2026-lineup-1235631750/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html"
       },
       {
-        "name": "Just Jared",
-        "url": "https://www.justjared.com/2026/09/25/olivia-rodrigo-setlist-for-2026-unraveled-tour-revealed-after-opening-night-show/"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
       }
     ],
-    "disagreements": {
-      "en": "Sources cover separate tours: Unraveled Tour setlist versus iHeartRadio 2026 Jingle Ball Tour lineup.",
-      "zh-TW": "來源報導不同巡演：「Unraveled Tour」曲目與iHeartRadio 2026年Jingle Ball Tour陣容。"
-    },
+    "disagreements": null,
     "glossary": [
       {
         "term": {
-          "en": "Olivia Rodrigo",
-          "zh-TW": "奧莉維亞·羅德里戈（Olivia Rodrigo）"
+          "en": "Dario Amodei",
+          "zh-TW": "達里奧·阿莫代（Dario Amodei）"
         },
         "blurb": {
-          "en": "Grammy-winning singer launching 2026 Unraveled Tour.",
-          "zh-TW": "葛萊美獎得主歌手，展開2026年「Unraveled Tour」。"
+          "en": "CEO of Anthropic.",
+          "zh-TW": "Anthropic 執行長。"
         }
       },
       {
         "term": {
-          "en": "iHeartRadio",
-          "zh-TW": "iHeartRadio"
+          "en": "Anthropic",
+          "zh-TW": "Anthropic"
         },
         "blurb": {
-          "en": "Organizer of 2026 Jingle Ball Tour featuring multiple artists.",
-          "zh-TW": "2026年Jingle Ball Tour主辦單位，邀請多位藝人。"
+          "en": "AI company led by Dario Amodei.",
+          "zh-TW": "由達里奧·阿莫代（Dario Amodei）領導的 AI 公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "Donald Trump",
+          "zh-TW": "唐納·川普（Donald Trump）"
+        },
+        "blurb": {
+          "en": "President of the United States.",
+          "zh-TW": "美國總統。"
         }
       }
     ],
     "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 16,
-      "outletReputation": 15,
+      "outletReputation": 19,
       "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "cnbc",
+      "techcrunch"
+    ]
+  },
+  {
+    "id": "live-international-02-5-arrested-on-suspicion-",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-5-arrested-on-suspicion-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
+      "zh-TW": "相關封面圖：皇家空軍費爾福德空軍基地（RAF Fairford）：英國五人因恐怖主義嫌疑被捕"
+    },
+    "publishedAt": "2026-09-27T21:55:42.000Z",
+    "title": {
+      "en": "RAF Fairford Air Base: Five Arrested on Suspicion of Terrorism in UK",
+      "zh-TW": "皇家空軍費爾福德空軍基地（RAF Fairford）：英國五人因恐怖主義嫌疑被捕"
+    },
+    "summary": {
+      "en": "UK police arrested five men near RAF Fairford air base on suspicion of preparing a terrorist act after three suspicious vehicles were spotted. The base has been used by US forces. Homes were evacuated and explosives offenses are under investigation by counter-terrorism police.",
+      "zh-TW": "英國警方在皇家空軍費爾福德空軍基地（RAF Fairford）附近逮捕五名男子，涉嫌準備恐怖行為。三輛可疑車輛被發現，該基地曾供美軍使用。反恐警察調查爆炸物罪行，並疏散附近住戶。"
+    },
+    "body": {
+      "en": "Lede: Five men were arrested by British counterterrorism police near RAF Fairford air base in the UK on suspicion of preparing a terrorist act. What happened: Three suspicious vehicles were reported traveling toward the base early Sunday. Police evacuated nearby homes after spotting the vehicles. The men were detained following reports of hooded and balaclavaed individuals near white vans in Whelford. Why it matters: RAF Fairford has served as a launch point for US military operations. The incident prompted a major counter-terrorism response. Sources agree/disagree: All sources confirm five arrests, three vehicles, and suspicion of a terrorist act near the base. Still uncertain: Details on exact materials found and any links remain under investigation.",
+      "zh-TW": "導言：英國反恐警察在皇家空軍費爾福德空軍基地（RAF Fairford）附近逮捕五名男子，涉嫌準備恐怖行為。 事件經過：週日清晨，三輛可疑車輛被通報朝基地行駛。警方在惠爾福德發現白色貨車及蒙面人士後，疏散附近住戶。 重要性：皇家空軍費爾福德空軍基地（RAF Fairford）曾作為美軍行動起點，此事件引發重大反恐回應。 來源一致／分歧：所有來源均確認五人被捕、三輛車輛及恐怖行為嫌疑。 仍未確定：發現的確切物品及任何關聯仍在調查中。"
+    },
+    "sources": [
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war"
+      },
+      {
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+      },
+      {
+        "name": "BBC UK",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian UK News",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 5 vs 999 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 5 比 999）。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "RAF Fairford",
+          "zh-TW": "皇家空軍費爾福德空軍基地（RAF Fairford）"
+        },
+        "blurb": {
+          "en": "UK air base used by US military forces.",
+          "zh-TW": "英國空軍基地，曾供美軍使用。"
+        }
+      },
+      {
+        "term": {
+          "en": "counter-terrorism police",
+          "zh-TW": "反恐警察（counter-terrorism police）"
+        },
+        "blurb": {
+          "en": "UK police unit handling terrorism investigations.",
+          "zh-TW": "英國負責恐怖主義調查的警察單位。"
+        }
+      }
+    ],
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 19,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "npr-world",
+      "npr-world",
+      "nyt-world"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-04-10-49-ebc-line-today",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "publishedAt": "2026-09-27T06:21:52.000Z",
+    "title": {
+      "en": "Hong Jianhua, Known as Replica of Takeshi Kaneshiro, Dies at 49 After Decade-Long Cancer Fight",
+      "zh-TW": "洪楗華（Hong Jianhua）「翻版金城武」抗癌10年病逝享年49歲"
+    },
+    "summary": {
+      "en": "Hong Kong singer Hong Jianhua, nicknamed the replica of Takeshi Kaneshiro, passed away at age 49 following a 10-year battle with cancer. His condition had recently improved, but friends expressed shock that their last conversation became a permanent farewell. He was known for the song '我失戀你悲傷'. Multiple Taiwanese entertainment outlets reported the news.",
+      "zh-TW": "香港歌手洪楗華（Hong Jianhua）被稱為「翻版金城武」，在抗癌10年後於49歲病逝。病情一度好轉，但好友驚訝最後對話竟成永別。他以歌曲《我失戀你悲傷》聞名。多個台灣娛樂媒體報導此消息。"
+    },
+    "body": {
+      "en": "Lede: Hong Jianhua, the Hong Kong singer known as the replica of Takeshi Kaneshiro, has died at 49 after fighting cancer for 10 years. What happened: Sources report that Hong Jianhua's condition had shown improvement recently, yet he passed away. Friends were saddened, with one noting they did not expect the last conversation to be a farewell. He gained recognition for singing '我失戀你悲傷'. Why it matters: The news highlights the challenges faced by entertainers in the East Asian entertainment industry battling long-term illnesses, drawing attention from Taiwanese media outlets. Sources agree/disagree: All reports from outlets including 噓！星聞, Yahoo新聞, UDN, 東森電視, 鏡報, and news.tvbs.com.tw align on the age, duration of illness, recent improvement, and friends' reactions. Still uncertain: No further details on the exact date of death or specific medical updates beyond the reported improvement are provided in the sources.",
+      "zh-TW": "導言：香港歌手洪楗華（Hong Jianhua）被稱為「翻版金城武」，在抗癌10年後於49歲病逝。 事件經過：消息指出洪楗華病情一度好轉，卻仍告辭世。好友感到悲痛，有人提到沒想到最後對話竟成永別。他因演唱《我失戀你悲傷》而知名。 重要性：此消息凸顯東亞娛樂圈藝人長期抗病挑戰，吸引台灣媒體關注。 來源一致與分歧：噓！星聞、Yahoo新聞、UDN、東森電視、鏡報及news.tvbs.com.tw等媒體報導在年齡、病程、近期好轉及好友反應上均一致。 仍未確定：來源未提供確切逝世日期或超出已報導好轉的醫療細節。"
+    },
+    "sources": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TV3dRcXBnT19RU2NROURtUGlJSWVLTW81bFVzbEREdWFoMzlOQ2R6MldTaERqSnJ2X09IZEo0T29wNE1SX0RkTWpfSWdNVFl2TUduMjlfbHFWZ9IBX0FVX3lxTFBLSm5vVFZrYk5TNzFvOTJzbGl1TmU4SEFCTWludFd0aThseVlKSExZRmVaeDg0SzNrQ0lUWnNZdXowXzVwTmo1TG9QdUJiQ3pEdmxjRENUbXA1UENsdlJR?oc=5"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11VTZMVVNqUmxoU2pLRWw4STBfc0lTYnRna0xCck04QnozZ1pDWXg1VFJ5QkxnZUNZUkFELWVQMmE0dExWd21HQnBJeExhUVVnaDJrclB3?oc=5"
+      },
+      {
+        "name": "news.ebc.net.tw",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnNElBVzJVOF94QS1IVy1VRW5OY1dKaGhXcGtoZFVzSm5nR0w5d2xpT2c4ejVJdnh1alkzUDRRZUotV3ZaWW5lYjE5Yw?oc=5"
+      },
+      {
+        "name": "鏡報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tM1NlRTRZMnZGYVFQZzVlUldPakE4NUktdFU5aF91cjY2WWFLYS0wZ1ZfNUJNRkUwdEcyZHFyRG5ZdEZyX0xfeDJUVnJfVlRrcXc?oc=5"
+      },
+      {
+        "name": "news.tvbs.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfU2FseDU2ZzVqUmZHUk1JY2Z5TkwxWnI2SkR0eFl1eER1NjJpWjQ5dHc5LS1BZElLYS1zREZLalZmSm00Zkx6eS1SU3lVTUltdHpubUVvZmdOYlczNWdObThn?oc=5"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Hong Jianhua",
+          "zh-TW": "洪楗華（Hong Jianhua）"
+        },
+        "blurb": {
+          "en": "Hong Kong singer known for the song '我失戀你悲傷'.",
+          "zh-TW": "香港歌手，以歌曲《我失戀你悲傷》聞名。"
+        }
+      }
+    ],
+    "trustScore": 45,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 10,
+      "crossCorroboration": 25,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "google-news-tw-entertainment",
+      "gnews-line-today-tw-娛樂",
+      "gnews-tw-heat:年一度好轉"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-entertainment-02-flo-are-excited-to-see-m",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-02-flo-are-excited-to-see-m.jpg",
+    "imageAlt": {
+      "en": "Cover related to: FLO Are Excited to See Madonna Perform & Talk How Fans Feel About Their New Music | VMAs 2026",
+      "zh-TW": "相關封面圖：FLO（FLO）在2026 MTV音樂錄影帶大獎紅毯受訪"
+    },
+    "publishedAt": "2026-09-28T01:36:18.000Z",
+    "title": {
+      "en": "FLO Interviewed on Red Carpet at 2026 MTV VMAs",
+      "zh-TW": "FLO（FLO）在2026 MTV音樂錄影帶大獎紅毯受訪"
+    },
+    "summary": {
+      "en": "FLO spoke with Billboard on the 2026 MTV VMAs red carpet, expressing excitement about Madonna's performance and discussing fan reactions to their new music.",
+      "zh-TW": "FLO（FLO）在2026 MTV音樂錄影帶大獎紅毯接受Billboard訪問，表達對Madonna（Madonna）表演的興奮，並談論粉絲對新音樂的反應。"
+    },
+    "body": {
+      "en": "Lede: FLO appeared on the red carpet at the 2026 MTV Video Music Awards.\nWhat happened: The group was interviewed by Billboard’s Tetris Kelly, sharing their anticipation for Madonna's performance and comments on how fans are responding to their latest tracks.\nWhy it matters: The appearance highlights FLO's presence at a major music awards event alongside established stars.\nSources agree/disagree: All available sources confirm the red carpet interview setting without conflicting details.\nStill uncertain: Specific quotes or detailed fan feedback from the interview are not provided in the sources.",
+      "zh-TW": "導言：FLO（FLO）現身2026 MTV音樂錄影帶大獎紅毯。\n事件經過：該團體接受Billboard（Billboard）的Tetris Kelly訪問，分享對Madonna（Madonna）表演的期待，並談論粉絲對最新作品的反應。\n重要性：此次亮相凸顯FLO（FLO）在大型音樂獎項活動中與知名藝人同台。\n來源一致／分歧：所有來源均確認紅毯訪問情境，無衝突細節。\n仍未確定：來源未提供訪談中的具體引述或詳細粉絲反饋。"
+    },
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://www.billboard.com/music/awards/blackpink-lisa-sawadika-vmas-performance-1236348676/"
+      },
+      {
+        "name": "Rolling Stone Music",
+        "url": "https://www.rollingstone.com/music/music-news/sienna-spiro-vmas-performance-debut-1235631694/"
+      },
+      {
+        "name": "TMZ",
+        "url": "https://www.tmz.com/2026/09/27/mtv-video-music-awards-red-carpet-arrivals/"
+      },
+      {
+        "name": "Hollywood Life",
+        "url": "https://hollywoodlife.com/feature/how-many-vmas-does-taylor-swift-have-win-record-5563014/"
+      },
+      {
+        "name": "Just Jared",
+        "url": "https://www.justjared.com/2026/09/27/taylor-swift-patient-zero-video-dakota-johnson-colin-farrell-cara-delevingne-meaning/"
+      },
+      {
+        "name": "ET Online",
+        "url": "https://www.etonline.com/new-music-friday-september-25-u2-madonna-taylor-swift-kenny-chesney-cara-delevingne-magnus-ferrell"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 8216 vs 8212 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 8216 與 8212）。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "FLO",
+          "zh-TW": "FLO（FLO）"
+        },
+        "blurb": {
+          "en": "Music group interviewed on the 2026 MTV VMAs red carpet.",
+          "zh-TW": "在2026 MTV音樂錄影帶大獎紅毯接受訪問的音樂團體。"
+        }
+      },
+      {
+        "term": {
+          "en": "Madonna",
+          "zh-TW": "Madonna（Madonna）"
+        },
+        "blurb": {
+          "en": "Performer referenced by FLO during the 2026 MTV VMAs red carpet interview.",
+          "zh-TW": "在2026 MTV音樂錄影帶大獎紅毯訪問中被FLO（FLO）提及的表演者。"
+        }
+      },
+      {
+        "term": {
+          "en": "VMAs",
+          "zh-TW": "VMAs（VMAs）"
+        },
+        "blurb": {
+          "en": "MTV Video Music Awards event held in 2026.",
+          "zh-TW": "2026年舉辦的MTV音樂錄影帶大獎活動。"
+        }
+      }
+    ],
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 14,
+      "crossCorroboration": 17,
       "recencyClarity": 25
     },
     "tags": [
       "entertainment",
       "live-ingest",
-      "rolling-stone-music",
-      "just-jared"
+      "billboard",
+      "billboard",
+      "rolling-stone-music"
     ]
   }
 ]
