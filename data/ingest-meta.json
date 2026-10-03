@@ -1,0 +1,31 @@
+{
+  "ingestedAt": "2026-09-30T01:43:09.253Z",
+  "feedOk": 48,
+  "feedTotal": 52,
+  "rawItems": 541,
+  "mainStories": 11,
+  "byCategory": {
+    "tech": 1,
+    "eastAsiaGossip": 4,
+    "finance": 1,
+    "international": 3,
+    "entertainment": 2
+  },
+  "eastAsiaByRegion": {
+    "tw": 4
+  },
+  "heatSourcesShipped": [
+    "ptt",
+    "gnews-dcard",
+    "line-today"
+  ],
+  "heatVerifiedKeywords": [
+    "唐綺陽直播",
+    "比中指嗆聲",
+    "錫蘭突襲",
+    "長輩迷過的歌"
+  ],
+  "heatNewsInjected": 40,
+  "llmUsed": true,
+  "mode": "llm+rss+heat"
+}

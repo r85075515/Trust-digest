@@ -1,1 +1,137 @@
-# Trust-digest
+# Axiom
+
+Multi-source **verified news digest** MVP — bilingual (**Traditional Chinese / English**), explainable trust scores, personalization, cover images, and **Popular（熱門）** + **Headline（頭條）** treatment. The home feed prioritizes high-buzz Popular stories and important Headline news.
+
+> **Live ingest:** stories come from allow-listed RSS (summarize + link only). Run `npm run ingest` to refresh `data/stories.json`. Trust scores are **heuristics**, not fact-check guarantees.
+
+## Quick start
+
+```bash
+cd Trust-digest   # or: /workspace/Trust-digest
+npm install
+npm run ingest    # fetch allow-listed RSS → data/stories.json
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000).
+
+| Script          | Purpose                                      |
+|-----------------|----------------------------------------------|
+| `npm run ingest`| Live RSS pipeline → `data/stories.json`      |
+| `npm run dev`   | Local development                            |
+| `npm run build` | Production build                             |
+| `npm start`     | Serve production build                       |
+
+## Live ingest (`npm run ingest`)
+
+Pipeline (`scripts/ingest.ts` + `src/lib/rss-ingest.ts` + `src/lib/heat-discovery.ts`):
+
+1. Fetch curated allow-list feeds (polite User-Agent, timeout, per-feed delay). TW eastAsiaGossip feeds pull **20–25** items; jp/kr/cn **5–6**; other categories **6–8** (token-saving).
+2. Parse RSS/Atom (`rss-parser`); normalize title, link, pubDate, description, image (`media:content` / enclosure / first `<img>`; optional `og:image` for a few top items).
+3. **TW heat discovery (MVP):** PTT Gossiping (`over18=1`), Dcard via GNews `site:dcard.tw 娛樂` proxy (direct dcard.tw is CF 403), LINE TODAY entertainment HTML (+ GNews `site:today.line.me`). Extract titles → verify against TW news colony (ETtoday / Yahoo / GNews). ≥2 news domains for elevated trust; forum-only heat stays 審慎 / never high trust.
+4. Retune category with heuristics (celebrity/K-pop → entertainment or eastAsiaGossip; crime/accidents → society; drop film-festival academia noise).
+5. Cluster near-duplicates by title token Jaccard within each category; merge heat-verified news into TW `eastAsiaGossip`.
+6. `pickBalancedClusters` (~12–16 stories): intl 3 / finance 2 / tech 2 / ai 2 / entertainment 2 / **eastAsiaGossip 5** with **≥3 TW** reserved; TW region & gossip-title boost ≫ jp/kr/cn.
+7. Digests **only for selected cards** (≤16 LLM calls):
+   - **If** `AXIOM_LLM_PROVIDER` is set (not `none`) with `AXIOM_LLM_BASE_URL` + `AXIOM_LLM_MODEL` → OpenAI-compatible chat via `src/lib/llm.ts` wrapper. xAI is banned and refused by guard. Never invent facts not in titles/snippets.
+   - **Else** (`AXIOM_LLM_PROVIDER=none` or unset) extractive digest from title+description + best-effort zh-TW via `@vitalets/google-translate-api` (if translate fails, keep EN and note 「譯文待補」).
+8. Download related covers into `public/covers/live/` when possible; otherwise keep HTTPS publisher CDN URLs only (no unrelated placeholders).
+9. Overwrite `data/stories.json` (100% live) + write `data/ingest-meta.json`.
+
+Fail loudly if every feed fails.
+
+**Heat backlog (not shipped):** Threads, X/Twitter, native Dcard API, full LINE TODAY multi-tab crawl, more PTT boards.
+
+### Optional LLM env
+
+```bash
+export AXIOM_LLM_PROVIDER=custom
+export AXIOM_LLM_BASE_URL=https://your-openai-compatible-endpoint/v1
+export AXIOM_LLM_MODEL=your-model
+export AXIOM_LLM_API_KEY=<redacted>
+npm run ingest
+```
+
+Daily routine runs with `AXIOM_LLM_PROVIDER=none` (no LLM calls, no cost).
+
+### Feed allow-list (v1)
+
+Verified free RSS used by the pipeline:
+
+| Category        | Outlets |
+|-----------------|---------|
+| International   | BBC World, NPR World, The Guardian World, NYT World |
+| Finance         | CNBC, MarketWatch, Yahoo Finance, BBC Business, Guardian Business |
+| Tech            | TechCrunch, The Verge, BBC Technology, Ars Technica, Engadget |
+| AI              | MIT News AI, Wired AI, ScienceDaily AI, Google AI Blog |
+| Entertainment   | Billboard, Rolling Stone Music, TMZ, Hollywood Life, Just Jared, ET Online, BBC Entertainment |
+| East Asia gossip | **TW colony:** ETtoday 影劇/時尚, Yahoo TW 娛樂, GNews TW topic/娛樂 + breakup/reunion/婚變 searches, site:ettoday/setn, Dcard/LINE GNews proxies. **JP/KR/CN:** GNews JP, Soompi, Koreaboo, GNews KR, Sina 娛樂, GNews CN (lower per-feed caps). |
+| Society         | CBS News Crime, Sky News UK, BBC UK, LA Times California, Guardian UK News, NPR News |
+| Beauty          | Allure, Fashionista |
+
+**Entertainment** means celebrity / pop culture (singers, actors, K-pop / J-pop, Hollywood, TW·CN·JP·KR·US/EU idols) — not Broadway reviews or film-festival academia.
+
+**Society** means social news: accidents, crime, disasters, public safety / civic incidents — not geopolitics or pure finance.
+
+Dead feeds are skipped at fetch time; drop/replace in `ALLOWED_FEEDS` if a URL stops returning 200.
+
+## What you get
+
+- **Categories:** International, Finance, Tech, AI, Entertainment (西方八卦), East Asia gossip (亞洲八卦 TW/JP/KR/CN), Society (社會), Beauty (美妝)
+- **Languages:** Every story has `zh-TW` + `en` title, short `summary` (home cards), and full `body` digest article (detail page)
+- **Images:** Optional `imageUrl` + localized `imageAlt` — from feed/og when available (local copy under `/covers/live/` or HTTPS CDN)
+- **Headlines & Popular:** `isHeadline` / `isPopular` from cluster size, reputation, trust×recency, and simple trending keywords
+- **Trust score:** four capped factors (max 25 each → 0–100); see methodology below
+- **Personalization:** opens / saves / not-interested via `localStorage`
+
+## Story data shape (`data/stories.json`)
+
+| Field | Notes |
+|-------|--------|
+| `id`, `category`, `adult`, `publishedAt` | Core identity (`adult` always `false`; legacy field) |
+| `isHeadline?` | Home HEADLINE block |
+| `isPopular?` | 熱門 / Popular badge |
+| `imageUrl?`, `imageAlt?` | Cover/thumbnail |
+| `title`, `summary`, `body` | LocalizedText |
+| `sources[]`, `disagreements`, `trustScore`, `trustBreakdown`, `tags` | Live: `live-ingest` |
+
+`data/ingest-meta.json` records last ingest time and category counts (shown on the home page).
+
+## Celebrity death-rumor cards (narrow)
+
+When **community heat** claims a celebrity died but **mainstream obituaries are absent**, Axiom still allows a card, labeled **未確認／審慎** (never high trust). If mainstream outlets confirm via obituaries → developing-death cap / N源一致. If mainstream says the person is alive or the rumor is a hoax → **打臉／多源打臉**. Pattern-based (no person-name hardcodes). Unit dry-run: `npm run test:death-hoax`.
+
+## Trust-score methodology (honest)
+
+Scores are a **heuristic**, not a fact-checker and **not a claim of zero misinformation**.
+
+| Factor | Live signal |
+|--------|-------------|
+| Source diversity | Unique outlets in the cluster (capped 25) |
+| Outlet reputation | Curated domain→score map (BBC/NPR/NYT high; blogs lower) |
+| Cross-corroboration | Cluster size / agreement; reduced if numeric disagreements detected |
+| Recency & clarity | pubDate age + description length |
+
+## Copyright & image policy
+
+- **Summarize + link only.** Axiom writes original short digests from feed titles/descriptions and links to publishers. It does **not** republish full articles or scrape paywalled text.
+- **Covers:** thumbnails from feed media / `og:image` are stored locally for UI link-out cards (thumbnail fair use). If download fails, only HTTPS publisher CDN URLs are kept — never unrelated stock placeholders for live stories.
+
+## Project layout
+
+```
+data/stories.json              # Live main feed
+data/ingest-meta.json          # Last ingest timestamp / counts
+scripts/ingest.ts              # npm run ingest
+src/lib/rss-ingest.ts          # Allow-list, classify, cluster, trust helpers
+src/app/page.tsx               # Main feed + HEADLINE block
+public/covers/live/            # Downloaded live thumbnails
+```
+
+## Non-goals (MVP)
+
+Native apps, live paywall scraping, payments, claiming zero misinformation.
+
+## License / contribution
+
+Private MVP repo. Digests are original summaries; linked brands and cover thumbnails remain their owners’. Product name **Axiom**; GitHub repo **Trust-digest**.

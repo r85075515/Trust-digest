@@ -1,0 +1,932 @@
+[
+  {
+    "id": "live-tech-01-openai-s-dots-are-always",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-01-openai-s-dots-are-always.png",
+    "imageAlt": {
+      "en": "Cover related to: OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "zh-TW": "相關封面圖：OpenAI（OpenAI）Dots 推出遭遇 xAI（xAI）嘲諷及 Meta（Meta）Muse 安全疑慮"
+    },
+    "publishedAt": "2026-09-29T22:20:59.000Z",
+    "title": {
+      "en": "OpenAI Dots Launch Faces xAI Trolling and Meta Muse Security Questions",
+      "zh-TW": "OpenAI（OpenAI）Dots 推出遭遇 xAI（xAI）嘲諷及 Meta（Meta）Muse 安全疑慮"
+    },
+    "summary": {
+      "en": "OpenAI launched Dots as always-on AI agents connecting to apps for multistep tasks and positioned as answer to Meta’s Muse. xAI acquired dot.com redirecting to Grok. Meta’s Muse faces a zero-day vulnerability allowing local apps control despite privacy claims, with Amazon blocking it.",
+      "zh-TW": "OpenAI（OpenAI）推出 Dots 作為永遠在線 AI 代理，可連接應用程式處理多步驟任務，並定位為 Meta（Meta）Muse 的回應。xAI（xAI）取得 dot.com 並導向 Grok。Meta（Meta）Muse 面臨零時差漏洞，允許本地應用程式控制，儘管有隱私宣稱，Amazon（Amazon）已封鎖它。"
+    },
+    "body": {
+      "en": "Lede: OpenAI introduced its Dots always-on AI agents designed to connect to apps and handle multistep tasks, presented as its answer to Meta’s Muse. What happened: Before the Tuesday launch of Dots, xAI acquired the domain dot.com which now redirects to the Grok chatbot download page. Separately, Meta introduced Muse a few weeks ago as an assistant that books appointments, fills out forms and handles customer tasks, with claims it is built from the ground up for privacy and security. A zero-day vulnerability was reported that gives locally run apps and terminal commands complete control of the agent. Amazon began blocking Muse from its site on Sunday. Why it matters: The Dots launch highlights competition in proactive AI agents while the reported xAI domain move and Muse security issue draw attention to industry responses and vulnerabilities in new AI tools. Sources agree/disagree: TechCrunch, Wired AI and Ars Technica report on the respective launches and issues without conflicting details on the described events. Still uncertain: No further details on the extent of the Muse vulnerability or any responses from Meta are provided in the sources.",
+      "zh-TW": "導言：OpenAI（OpenAI）推出 Dots 永遠在線 AI 代理，設計用於連接應用程式並處理多步驟任務，定位為 Meta（Meta）Muse 的回應。 事件經過：Dots 週二推出前，xAI（xAI）已取得 dot.com 網域名稱，現導向 Grok 聊天機器人下載頁面。Meta（Meta）數週前推出 Muse 作為助理，可預約、填表並處理客戶任務，並宣稱從頭建置以確保隱私與安全。報導指出存在零時差漏洞，讓本地應用程式與終端指令完全控制該代理。Amazon（Amazon）週日開始在網站封鎖 Muse。 重要性：Dots 推出凸顯主動式 AI 代理的競爭，而 xAI（xAI）網域動作與 Muse 安全問題引發對新 AI 工具回應與漏洞的關注。 來源一致與分歧：TechCrunch、Wired AI 與 Ars Technica 分別報導相關推出與問題，所述事件無衝突細節。 仍未確定：來源未提供 Muse 漏洞範圍或 Meta（Meta）回應的進一步細節。"
+    },
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+      },
+      {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "OpenAI",
+          "zh-TW": "OpenAI（OpenAI）"
+        },
+        "blurb": {
+          "en": "Company that launched Dots AI agents.",
+          "zh-TW": "推出 Dots AI 代理的公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "xAI",
+          "zh-TW": "xAI（xAI）"
+        },
+        "blurb": {
+          "en": "Company that acquired dot.com redirecting to Grok.",
+          "zh-TW": "取得 dot.com 並導向 Grok 的公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "Meta",
+          "zh-TW": "Meta（Meta）"
+        },
+        "blurb": {
+          "en": "Company that introduced Muse AI assistant.",
+          "zh-TW": "推出 Muse AI 助理的公司。"
+        }
+      },
+      {
+        "term": {
+          "en": "Dots",
+          "zh-TW": "Dots（Dots）"
+        },
+        "blurb": {
+          "en": "Always-on AI agents launched by OpenAI.",
+          "zh-TW": "OpenAI（OpenAI）推出的永遠在線 AI 代理。"
+        }
+      },
+      {
+        "term": {
+          "en": "Muse",
+          "zh-TW": "Muse（Muse）"
+        },
+        "blurb": {
+          "en": "AI assistant introduced by Meta.",
+          "zh-TW": "Meta（Meta）推出的 AI 助理。"
+        }
+      }
+    ],
+    "trustScore": 89,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 18,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "tech",
+      "live-ingest",
+      "techcrunch",
+      "wired-ai",
+      "ars-technica"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-01-1-star-ettoday-net",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "publishedAt": "2026-09-27T11:27:15.000Z",
+    "title": {
+      "en": "Liu Wen and Jing Boran Face Breakup Pressure from Early Spring CP Fans",
+      "zh-TW": "劉雯（Liu Wen）與井柏然（Jing Boran）遭《早春》CP粉逼分手"
+    },
+    "summary": {
+      "en": "Liu Wen faced fan pressure to split from Jing Boran after joint appearance. She changed flights to return to Beijing alone to avoid suspicion. Jing Boran reportedly took one low-key action to protect their relationship. Reports from ETtoday and SETN praise her discretion.",
+      "zh-TW": "劉雯（Liu Wen）合體井柏然（Jing Boran）後遭《早春》CP粉逼分手，急改班機獨返北京避嫌。井柏然疑有低調護愛舉動。ETtoday與三立新聞網報導讚其低調體面。"
+    },
+    "body": {
+      "en": "Lede: Celebrity couple Liu Wen and Jing Boran encountered fan backlash after appearing together, prompting breakup demands from fans of the Early Spring CP. What happened: Reports indicate Liu Wen quickly altered her flight to return to Beijing alone to avoid further suspicion. Jing Boran is said to have made one subtle move suspected of shielding their relationship. Why it matters: The incident highlights intense fan influence on celebrity personal lives in East Asian entertainment circles, with Liu Wen receiving praise for her low-profile response. Sources agree/disagree: ETtoday and SETN outlets consistently describe the fan pressure, flight change, and Jing Boran's action without conflicting details. Still uncertain: Exact nature of Jing Boran's protective move remains unspecified across reports.",
+      "zh-TW": "導言：藝人劉雯（Liu Wen）與井柏然（Jing Boran）合體後，遭《早春》CP粉絲出征逼分手。 事件經過：報導指出劉雯（Liu Wen）急改班機獨自返京避嫌。井柏然（Jing Boran）據傳有低調護愛舉動。 事件意義：此事件凸顯東亞娛樂圈粉絲對名人私生活的強烈影響，劉雯（Liu Wen）低調處理獲讚。 來源一致與分歧：ETtoday與三立新聞網報導內容一致，描述粉絲施壓、改班機及井柏然舉動無衝突。 仍未確定：井柏然（Jing Boran）護愛舉動細節未在報導中具體說明。"
+    },
+    "sources": [
+      {
+        "name": "ettoday.net",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MbEpqTy02UWZFUkotY3FfX0NJVVp4dVROb2J4MmhBVng3VjlHd3FldmRrb3luUmVZdzZ4MHFZdGpIVXJyM29QaGFmY2xXZ9IBTEFVX3lxTE55X1hZajhRZGlyTmlFUjRlMUZKWkRnU0hwbkdIRmY3b05GYjFlZ0JGNVRHaEtGcEFWbzFOTnZYMm55dlpBZ3RVc3lUMXI?oc=5"
+      },
+      {
+        "name": "setn.com",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GY19pTVhRVi1WVlpRc3Nkd21nc1JKWGFET2hBWHRnM3QwaVdhM1dlcHFGWXc4RDh5bkRMR1JxYXdSOGM3QUt1OS1R0gFfQVVfeXFMTnBtYnhnMkVnd1BiOWRTYkU1VHJGbDZXcF9HQXhKckszX3kzWXdiYW9RWko5RjRiMVNpbFQzOGNMclF6N1VnNUNtdFhoN2ZfQkNKZ2RwZVBSRDN2MVBoR2M?oc=5"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RYzN2ZkxYeWFHWGZlUU1Gd1JFc0xkX2pucVVzWHFjRGNoQUdwVjVnMEEwSjlZSGpScHYxRlFabnJiZlNreVhzVjl4OFJVTEFqc1lXMk5mNHhOZ9IBX0FVX3lxTE1uc0JXZEh5eWdMeDRwSW8xR2RqMEFMZllEcktVTHlBd2lXMWczUkNWdmptS3FFeXZ4TklWQTZjaUhNU0FlTk4wTjFaMHFuVklsZGVGb2hwcVBEaFI0bFln?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 1 vs 400 in headlines/snippets).",
+      "zh-TW": "（譯文待補）Figures differ across outlets (e.g. 1 vs 400 in headlines/snippets)."
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Liu Wen",
+          "zh-TW": "劉雯（Liu Wen）"
+        },
+        "blurb": {
+          "en": "Celebrity appearing with Jing Boran in reports.",
+          "zh-TW": "與井柏然（Jing Boran）合體的藝人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Jing Boran",
+          "zh-TW": "井柏然（Jing Boran）"
+        },
+        "blurb": {
+          "en": "Celebrity linked to Liu Wen in fan pressure reports.",
+          "zh-TW": "與劉雯（Liu Wen）相關的藝人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Early Spring",
+          "zh-TW": "早春（Early Spring）"
+        },
+        "blurb": {
+          "en": "Drama or pairing referenced by fans pressuring the couple.",
+          "zh-TW": "粉絲用以施壓的劇集或配對名稱。"
+        }
+      }
+    ],
+    "trustScore": 68,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 12,
+      "crossCorroboration": 14,
+      "recencyClarity": 18
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "gnews-site:ettoday-分手/復合/婚",
+      "gnews-site:ettoday-分手/復合/婚",
+      "gnews-site:ettoday-分手/復合/婚"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-finance-01-trump-orders-us-governme",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-01-trump-orders-us-governme.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Trump orders US government to call AI ‘Super Intelligence’",
+      "zh-TW": "相關封面圖：唐納·川普（Donald Trump）下令美國政府將AI稱為「Super Intelligence」"
+    },
+    "publishedAt": "2026-09-29T22:42:35.000Z",
+    "title": {
+      "en": "Donald Trump Orders US Government to Call AI ‘Super Intelligence’",
+      "zh-TW": "唐納·川普（Donald Trump）下令美國政府將AI稱為「Super Intelligence」"
+    },
+    "summary": {
+      "en": "President Donald Trump signed an executive order directing the US executive branch to replace references to artificial intelligence with Super Intelligence in official documents and websites. CNBC reports this occurs as polls indicate sinking support on the issue ahead of midterms, with Trump shrugging off concerns about AI and data centers impacting Republicans.",
+      "zh-TW": "唐納·川普（Donald Trump）總統簽署行政命令，要求美國行政部門在官方文件與網站中以Super Intelligence取代人工智慧相關用語。CNBC報導，此舉發生在民調顯示其在該議題支持度下滑、可能影響共和黨期中選舉之際，川普對AI與資料中心議題是否傷及共和黨表示無所謂。"
+    },
+    "body": {
+      "en": "Lede: President Donald Trump has directed the US government to stop using the term artificial intelligence in favor of Super Intelligence. What happened: The Verge reports that a new executive order requires official policy websites, documents, and press releases to refer only to Super Intelligence. Trump stated at an event for America.gov that the word super is the best and simplest. CNBC notes Trump shrugged when asked about polls showing sinking support on the AI issue and potential harm to Republicans in midterms from backing AI and data centers. Why it matters: The change affects how the executive branch communicates on technology policy, aligning with Trump's preference for the term Super Intelligence. Sources agree/disagree: Both sources confirm the executive order and terminology shift. CNBC adds details on polls and midterms while The Verge provides the quote and scope of the order. Still uncertain: Details on implementation across agencies and exact poll numbers are not specified in the provided sources.",
+      "zh-TW": "導言：唐納·川普（Donald Trump）總統已指示美國政府停止使用人工智慧一詞，改用Super Intelligence。 事件經過：The Verge報導，一項新行政命令要求官方政策網站、文件與新聞稿僅使用Super Intelligence。川普在America.gov活動中表示，super是最好且最簡單的詞。CNBC指出，川普在被問及民調顯示AI議題支持度下滑、可能影響共和黨期中選舉時聳肩回應。 重要性：此變更影響行政部門科技政策溝通方式，符合川普對Super Intelligence用語的偏好。 來源一致與分歧：兩來源均確認行政命令與用語轉變。CNBC補充民調與期中選舉細節，The Verge則提供引言與命令範圍。 仍未確定：各機關執行細節與確切民調數字在來源中未提及。"
+    },
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Donald Trump",
+          "zh-TW": "唐納·川普（Donald Trump）"
+        },
+        "blurb": {
+          "en": "President of the United States who signed the executive order.",
+          "zh-TW": "簽署行政命令的美國總統。"
+        }
+      },
+      {
+        "term": {
+          "en": "America.gov",
+          "zh-TW": "America.gov"
+        },
+        "blurb": {
+          "en": "Website launched at the event where Trump discussed the terminology change.",
+          "zh-TW": "川普討論用語變更時宣布推出的網站。"
+        }
+      }
+    ],
+    "trustScore": 74,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 18,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "cnbc",
+      "the-verge"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-02-setn-com",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "publishedAt": "2026-09-25T15:04:00.000Z",
+    "title": {
+      "en": "Chaeyoung and Zion.T Face Conflicting Breakup Reports After JYP Exit",
+      "zh-TW": "彩瑛（Chaeyoung）與Zion.T（Zion.T）傳分手 JYP（JYP）離開後公司發聲"
+    },
+    "summary": {
+      "en": "Reports emerged claiming Chaeyoung split from Zion.T following her JYP departure announcement, with agencies threatening legal action. A follow-up report states both sides deny the breakup and affirm they remain in a relationship.",
+      "zh-TW": "彩瑛（Chaeyoung）宣布離開JYP（JYP）後，傳出與Zion.T（Zion.T）分手消息，雙方公司揚言提告。後續報導指出公司澄清仍在交往。"
+    },
+    "body": {
+      "en": "Lede: Entertainment outlets reported conflicting accounts regarding the relationship status of Chaeyoung and Zion.T shortly after her announcement of leaving JYP.\nWhat happened: One report stated that Chaeyoung and Zion.T had broken up, prompting swift statements from both agencies threatening lawsuits. A second report indicated the pair denied any split, attributing rumors to busy schedules and confirming they are still dating.\nWhy it matters: Celebrity relationship rumors in the K-pop and music industry often draw significant fan and media attention, especially when tied to agency changes.\nSources agree/disagree: Outlets differ on whether a breakup occurred, with one highlighting legal threats and the other emphasizing ongoing romance.\nStill uncertain: The exact nature of any statements from the individuals involved remains unconfirmed beyond agency comments.\nSources: TVBS, ETtoday.",
+      "zh-TW": "導言：彩瑛（Chaeyoung）宣布離開JYP（JYP）後不久，娛樂媒體對其與Zion.T（Zion.T）的關係狀態出現相互矛盾的報導。\n事件經過：一則報導指出彩瑛（Chaeyoung）與Zion.T（Zion.T）已分手，促使雙方經紀公司迅速發表聲明揚言提告。另一則報導則表示雙方否認分手，歸因於行程繁忙而疏遠，並確認仍維持交往。\n重要性：K-pop與音樂圈名人感情傳聞常引發粉絲與媒體關注，尤其涉及經紀公司變動時。\n來源異同：媒體在是否已分手一事上看法分歧，一方強調法律行動，另一方則強調持續交往。\n尚未確定：當事人本人除經紀公司聲明外，確切回應仍未明朗。\n來源：TVBS、ETtoday。"
+    },
+    "sources": [
+      {
+        "name": "setn.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUOUNGUkJHbTJKRU1FMGlPNEZZQk9DcHk3TTlrak9BQWtaazFka2Rkalh4eXFzMnlWQjBkajlON3dfTE9qcXRERNIBTEFVX3lxTE5zdWJLMkhkNGhqNEZOZExqYTBPZUR3eG5sRFh4ZkJyczRPQ283c1JjZHZvWm9lb3g0bFMtci1SWDJ1RkNkSDBlVkpxVkQ?oc=5"
+      },
+      {
+        "name": "tvbs.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iLWdvSENfYmFXYUlXVTZKTklVakc1em9NU1FkMEwxSXNHR3BwU0lpRWlVNVVCb0E4WnB2cmlCcFgwWGl4WU02VlVpMll5RnowY09KWjMzQTd4OHZHb3Y2b0xNSQ?oc=5"
+      },
+      {
+        "name": "ettoday.net",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TM3ZZTHc2b2IzUVVWT1ROSUJvQkUza21QWmxObzBIdGJacjdkVlJrLTJrYWlPdG0xOUd0N1BHR29XbmlodWczWTF6ZGpwZ9IBTEFVX3lxTE9sdUVaS2JSMmpzMHp2UE1NVFZmc09xTmJBX1J1Y185N0JPdTVHNkRPR1JDdFplLWFLSVJsSHFOc1dXMVJ1WWhZU3A3Smo?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Sources conflict on whether Chaeyoung and Zion.T broke up or remain together.",
+      "zh-TW": "來源對彩瑛（Chaeyoung）與Zion.T（Zion.T）是否分手存在矛盾說法。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Chaeyoung",
+          "zh-TW": "彩瑛（Chaeyoung）"
+        },
+        "blurb": {
+          "en": "Singer who announced departure from JYP.",
+          "zh-TW": "宣布離開JYP（JYP）的歌手。"
+        }
+      },
+      {
+        "term": {
+          "en": "Zion.T",
+          "zh-TW": "Zion.T（Zion.T）"
+        },
+        "blurb": {
+          "en": "Singer linked to Chaeyoung in relationship reports.",
+          "zh-TW": "與彩瑛（Chaeyoung）傳出感情消息的歌手。"
+        }
+      },
+      {
+        "term": {
+          "en": "JYP",
+          "zh-TW": "JYP（JYP）"
+        },
+        "blurb": {
+          "en": "Entertainment agency from which Chaeyoung announced her departure.",
+          "zh-TW": "彩瑛（Chaeyoung）宣布離開的經紀公司。"
+        }
+      }
+    ],
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 11,
+      "crossCorroboration": 22,
+      "recencyClarity": 11
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "gnews-site:setn-分手/婚",
+      "gnews-tw-分手+藝人/明星",
+      "gnews-tw-分手+藝人/明星"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-international-01-israeli-settlers-stop-so",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-01-israeli-settlers-stop-so.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
+      "zh-TW": "相關封面圖：西岸 al-Tubasi 家族（al-Tubasi family）遭以色列定居者阻擋返家"
+    },
+    "publishedAt": "2026-09-30T00:19:18.000Z",
+    "title": {
+      "en": "West Bank al-Tubasi Family Blocked by Israeli Settlers from Returning Home",
+      "zh-TW": "西岸 al-Tubasi 家族（al-Tubasi family）遭以色列定居者阻擋返家"
+    },
+    "summary": {
+      "en": "Israeli settlers attacked a West Bank village, setting fire to two al-Tubasi family homes and targeting security forces. Settlers blocked the family's return despite a Supreme Court order directing the military to ensure their return. Authorities face accusations of failing to confront the settlers adequately.",
+      "zh-TW": "以色列定居者攻擊西岸村落，燒毀 al-Tubasi 家族（al-Tubasi family）兩間房屋並攻擊安全部隊。儘管最高法院命令軍方協助家族返回，定居者仍阻擋行動，當局被指未能充分對抗定居者。"
+    },
+    "body": {
+      "en": "Lede: Israeli settlers in the West Bank prevented a Palestinian family from returning home after violence forced them to flee. What happened: Settlers attacked the village, burning two homes belonging to the al-Tubasi family and targeting Israeli security forces. The Supreme Court had ordered the military to facilitate the family's return, but settlers blocked the effort. Why it matters: The incident highlights ongoing tensions in the West Bank where settler actions challenge court directives and military enforcement. Sources agree/disagree: BBC World and NYT World both report the attack on al-Tubasi family homes and the blocking of return efforts by settlers. Still uncertain: Details on the exact response by security forces remain limited in the provided reports.",
+      "zh-TW": "導言：以色列定居者在西岸阻止一個巴勒斯坦家族返回因暴力而逃離的家園。 事件經過：定居者攻擊村落，燒毀 al-Tubasi 家族（al-Tubasi family）兩間房屋，並針對以色列安全部隊。最高法院曾命令軍方協助家族返回，但定居者阻擋了行動。 重要性：此事件凸顯西岸持續緊張局勢，定居者行動挑戰法院命令與軍方執法。 來源一致／分歧：BBC World 與 NYT World 均報導 al-Tubasi 家族房屋遭襲及定居者阻擋返回。 仍未確定：安全部隊確切回應細節在提供的報導中有限。"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "al-Tubasi family",
+          "zh-TW": "al-Tubasi 家族（al-Tubasi family）"
+        },
+        "blurb": {
+          "en": "Palestinian family whose homes were attacked in the West Bank.",
+          "zh-TW": "西岸房屋遭襲的巴勒斯坦家族。"
+        }
+      },
+      {
+        "term": {
+          "en": "West Bank",
+          "zh-TW": "西岸（West Bank）"
+        },
+        "blurb": {
+          "en": "Region in the Middle East where the reported incidents occurred.",
+          "zh-TW": "報導事件發生的中東地區。"
+        }
+      },
+      {
+        "term": {
+          "en": "Supreme Court",
+          "zh-TW": "最高法院（Supreme Court）"
+        },
+        "blurb": {
+          "en": "Court that ordered the military to ensure the family's return.",
+          "zh-TW": "命令軍方確保家族返回的法院。"
+        }
+      }
+    ],
+    "trustScore": 72,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 16,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "nyt-world"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-03-15-7",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "publishedAt": "2026-09-30T00:53:00.000Z",
+    "title": {
+      "en": "Tang Qiyang Bids Farewell to 15-Year-Old Cat in Emotional Live Stream",
+      "zh-TW": "唐綺陽（Tang Qiyang）直播告別15年愛貓 突痛哭畫面惹心疼"
+    },
+    "summary": {
+      "en": "Taiwanese astrologer Tang Qiyang tearfully said goodbye to her 15-year-old cat during a live stream, revealing her biggest fear of the past seven years. Multiple Taiwanese media outlets covered the emotional moment that touched viewers.",
+      "zh-TW": "唐綺陽（Tang Qiyang）在直播中告別陪伴15年的愛貓，途中突然痛哭並透露7年來最大恐懼，畫面引發網友心疼，多家台灣媒體報導此事件。"
+    },
+    "body": {
+      "en": "Lede: Taiwanese celebrity astrologer Tang Qiyang shared an emotional farewell to her 15-year-old cat during one of her live streams, breaking down in tears midway through the broadcast. What happened: Reports from ETtoday and other outlets describe Tang Qiyang pausing her stream to say goodbye to the pet she had for 15 years. She cried on camera and mentioned her greatest fear over the past seven years. Other live stream incidents covered include interruptions by Xilan, who made rude gestures and comments, as well as Tang Qiyang discussing horoscopes and personal topics. Why it matters: The moment resonated with audiences in Taiwan's entertainment circles, highlighting Tang Qiyang's personal life alongside her public role sharing astrology content. Sources agree/disagree: All relevant sources align on the cat farewell details and emotional reaction without contradictions. Still uncertain: No additional details on the cat's fate or exact fear beyond the reported live stream moment are provided in the sources.",
+      "zh-TW": "導言：台灣知名占星師唐綺陽（Tang Qiyang）在直播途中告別陪伴15年的愛貓，過程中突然痛哭。 事件經過：ETtoday等媒體報導，唐綺陽（Tang Qiyang）在直播中停下來與15年愛貓道別，畫面顯示她哭泣並提及過去7年最大恐懼。其他直播相關報導包括錫蘭突襲連線比中指嗆聲，以及唐綺陽（Tang Qiyang）分享星座運勢等內容。 事件意義：此舉在台灣娛樂圈引起關注，展現唐綺陽（Tang Qiyang）公開分享占星內容之餘的個人生活面向。 來源共識與分歧：相關來源對愛貓告別與情緒反應的描述一致，無衝突。 仍未確定：來源未提供愛貓後續或恐懼細節以外的額外資訊。"
+    },
+    "sources": [
+      {
+        "name": "ettoday.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zTmMxaGZWWUx4eUpjNVRqTzJfUndvdW9yajczUEhrMVAtNU5DLXQzb1lHMGduNExlalUyNlFuNUdESmZVRFRDQ2Y2Z9IBS0FVX3lxTE0zTmMxaGZWWUx4eUpjNVRqTzJfUndvdW9yajczUEhrMVAtNU5DLXQzb1lHMGduNExlalUyNlFuNUdESmZVRFRDQ2Y2Zw?oc=5"
+      },
+      {
+        "name": "news.nextapple.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd294S1o1N21LVmYxWjBYa1BEZjAxVkN5X1NUNU9fdWFIakdJcDU4N0VoYldqUkIzTl9QbkRubFNCampTZUNSTjR5bWUzeU5EaklTNzhKUmxDdHNmemJFMVhSeVIwMmlQek5WamF4c2x0R2JBQjZKUWV4STZRLWRQZS1wNUhtSVp1N3c?oc=5"
+      },
+      {
+        "name": "harper'sbazaar",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS0dJSE43VHpzd3JxMms3T25jQVVjcTFKSWc1ZXZsVmhmUmc3NHVKai1KTGJCNERUcXRjX3o3a3pTZ24yRHB5c05FSlNmeFpkdVE2Z1VSLWNseHowbk9rU2YzUnVqMnZibnJtT3U5cUphOHhDQndmTWRQdzJuWGk1b3pHSVotdw?oc=5"
+      },
+      {
+        "name": "tatlerasia",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa21EWkpITm5pYkpYd0JwNVJUd2k0ZWZPajA2MmEtZTYxc295MjhCWVZxSnJuVFA5Y1RfS0dteFVaUnpQT2VXTFZMQXVreEpYTHpnS0MzdVlQVFg2bUg4WGVfcWhFRzFJbHYwWDA3Wkc4UGJ0a00yRHo3OEc4Y29QM25rXzk5eG5aUUFkQW52YTVNeUlRN0VjQjNnX3g5bTUwTE5kNA?oc=5"
+      },
+      {
+        "name": "setn.com",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NMkhVdXUwd2h0MjZqdzRSMVBzdktvWE1neUViRkFONGFmX3pvSmtsWFh4MkNUVF9IY1NCbFJSZWZ3UTg3R2Nj0gFLQVVfeXFMTWtZQmJfQzRnWWFOQ05sTzJrQVpHR3RiWFN5QVpEWkdEY2NnMHV3clgxeFM4a2FEbDBxSUtXQUNQVUVkZWNaZklHWWtJ?oc=5"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxdWFNOWhBcC1ueXFxNXk2LVZMTXFld2hISjRGZ0s3UENEeXRmNzczX1ViNlhDa3ZrZjdtWDUweG9GNmd0ZTJwNGxaakNhSHRXOEg0?oc=5"
+      },
+      {
+        "name": "ltn.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzWDhjWnM5bF81X2hGR0hpaldHemx5MXZDOEZHMUlsU25CbW5NUHdIWWVhdlYtZTlSdE9NMlFRdnZPeXRrazdWTklBbEdmUUhyS2oxODVyczBNUGt50gFiQVVfeXFMUEdzeXFKcmNtRkp3Wl9xZWhqNm9YN0xXdVEzVWxLd3BidW1RUnJlRGhldjFFcWF5VFVjOTdkSjlLNUR1WFlscUQ4YUsxVUhNdHdScUFBeXNZbU12VG9uTmVoWUE?oc=5"
+      },
+      {
+        "name": "造咖",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CSnlMVC1zNDRNNFV5VURHQ2dsYjVVbjVBbEdOT0lkYjNmdWswZUd4TlZvOTF5S2NLZ0I1Tk9HQ2RVNVpUbDlYbGhmbU9jai1KdjBV?oc=5"
+      },
+      {
+        "name": "民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oNWlMZV9UU1B3bWt1MXlBa0RYQXp1VnJtMkI3S2NhMjZiOVVWVW5vOWdRR290a2xaQ21rSHFqMUFzRmxMMlUtN3ZKOUtsSHdGc3FDUGRra2pjeUpyc2E2aQ?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 1 vs 15 in headlines/snippets).",
+      "zh-TW": "（譯文待補）Figures differ across outlets (e.g. 1 vs 15 in headlines/snippets)."
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Tang Qiyang",
+          "zh-TW": "唐綺陽（Tang Qiyang）"
+        },
+        "blurb": {
+          "en": "Taiwanese astrologer known for live streams on horoscopes.",
+          "zh-TW": "台灣占星師，以直播分享星座運勢聞名。"
+        }
+      },
+      {
+        "term": {
+          "en": "Xilan",
+          "zh-TW": "錫蘭（Xilan）"
+        },
+        "blurb": {
+          "en": "Individual who interrupted Tang Qiyang's live stream with confrontational remarks.",
+          "zh-TW": "曾突襲唐綺陽（Tang Qiyang）直播並發表挑釁言論的個人。"
+        }
+      }
+    ],
+    "trustScore": 78,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 11,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "gnews-tw-heat:唐綺陽直播",
+      "gnews-tw-heat:唐綺陽直播",
+      "gnews-tw-heat:唐綺陽直播"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-international-02-three-teenagers-killed-a",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-three-teenagers-killed-a.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Three teenagers killed after car enters river",
+      "zh-TW": "相關封面圖：威爾河（River Wear）桑德蘭（Sunderland）：三名青少年汽車墜河身亡"
+    },
+    "publishedAt": "2026-09-29T20:01:45.000Z",
+    "title": {
+      "en": "River Wear Sunderland: Three Teenagers Killed After Car Enters River",
+      "zh-TW": "威爾河（River Wear）桑德蘭（Sunderland）：三名青少年汽車墜河身亡"
+    },
+    "summary": {
+      "en": "Three teenagers died after a car entered the River Wear in Sunderland. Two teenage boys and one teenage girl were recovered from the water. A boy who reached safety has been arrested, according to police statements reported by Sky News UK and BBC UK.",
+      "zh-TW": "三名青少年在桑德蘭（Sunderland）的威爾河（River Wear）汽車墜河身亡。兩名少年及一名少女從水中被尋獲。一名男孩自行脫險後遭警方逮捕，消息來自天空新聞英國及英國廣播公司。"
+    },
+    "body": {
+      "en": "Lede: Three teenagers died after their car entered the River Wear in Sunderland. What happened: Sky News UK reported that three teenagers have died after a car entered the River Wear, with a boy who reached safety arrested by police. BBC UK stated that the bodies of two teenage boys and a teenage girl have been recovered from the water. Why it matters: The incident highlights a fatal vehicle accident involving young people in the UK, prompting police investigation and arrest. Sources agree/disagree: Both outlets confirm three teenage deaths from a car entering the River Wear in Sunderland and note an arrest of a surviving boy. Still uncertain: Details on the exact circumstances leading to the car entering the river remain limited in available reports.",
+      "zh-TW": "導言：三名青少年在桑德蘭（Sunderland）的威爾河（River Wear）汽車墜河身亡。 事件經過：天空新聞英國報導，三名青少年因汽車進入威爾河（River Wear）而死亡，一名自行脫險的男孩遭警方逮捕。英國廣播公司指出，兩名少年及一名少女的遺體已從水中尋獲。 事件意義：此事件凸顯英國年輕人涉及的致命車禍，促使警方展開調查與逮捕行動。 來源一致／分歧：兩家媒體均確認桑德蘭（Sunderland）威爾河（River Wear）汽車墜河導致三名青少年死亡，並提及一名倖存男孩遭逮捕。 仍未確定：關於汽車進入河流的確切經過，現有報導提供的細節有限。"
+    },
+    "sources": [
+      {
+        "name": "Sky News UK",
+        "url": "https://news.sky.com/story/three-teenagers-dead-after-car-entered-river-wear-in-sunderland-as-17-year-old-arrested-13593358"
+      },
+      {
+        "name": "BBC UK",
+        "url": "https://www.bbc.co.uk/news/articles/c8y5zxeq5dl3o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 14,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "sky-news-uk",
+      "bbc-uk"
+    ]
+  },
+  {
+    "id": "live-international-03-lindsay-clancy-s-lawyer-",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-03-lindsay-clancy-s-lawyer-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Lindsay Clancy's lawyer now questions whether she killed her 3 children",
+      "zh-TW": "相關封面圖：林賽·克蘭西（Lindsay Clancy）律師主張無證據證明殺害三名子女"
+    },
+    "publishedAt": "2026-09-29T23:31:43.000Z",
+    "title": {
+      "en": "Lindsay Clancy Lawyer Argues No Evidence She Killed Her Children",
+      "zh-TW": "林賽·克蘭西（Lindsay Clancy）律師主張無證據證明殺害三名子女"
+    },
+    "summary": {
+      "en": "Lindsay Clancy's attorney argued in court that there is no evidence she killed her three children. This marks a new position after a mistrial, shifting focus from her mental state to whether the killings occurred at all.",
+      "zh-TW": "林賽·克蘭西（Lindsay Clancy）的律師在法庭上主張，沒有證據顯示她殺害了三名子女。這是審判後的新立場，焦點從她的精神狀態轉向是否發生殺害行為。"
+    },
+    "body": {
+      "en": "Lede: Lindsay Clancy's attorney presented a new argument in court questioning whether she killed her three children. What happened: At a hearing following a mistrial, the lawyer stated there is no evidence that Clancy killed her three small children. This position was not taken in the first trial. Why it matters: The argument shifts the case focus from mental state to the act itself, potentially affecting future proceedings. Sources agree/disagree: CBS News Crime and NPR News both report the attorney's claim of insufficient evidence. Still uncertain: Details on the outcome of the hearing or next trial steps are not specified in the sources.",
+      "zh-TW": "導言：林賽·克蘭西（Lindsay Clancy）的律師在法庭提出新論點，質疑她是否殺害三名子女。 事件經過：在宣告審判無效後的聽證會上，律師表示沒有證據證明克蘭西殺害三名年幼子女。此立場在首次審判中未曾提出。 重要性：此論點將案件焦點從精神狀態轉向行為本身，可能影響後續程序。 來源一致／分歧：CBS News Crime與NPR News均報導律師主張證據不足。 仍未確定：來源未提及聽證會結果或下次審判細節。"
+    },
+    "sources": [
+      {
+        "name": "CBS News Crime",
+        "url": "https://www.cbsnews.com/video/lindsay-clancys-attorney-argues-first-time-no-evidence-killed-kids/"
+      },
+      {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Lindsay Clancy",
+          "zh-TW": "林賽·克蘭西（Lindsay Clancy）"
+        },
+        "blurb": {
+          "en": "Defendant in a case involving the deaths of her three children.",
+          "zh-TW": "涉及三名子女死亡案件的被告。"
+        }
+      }
+    ],
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 22,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "cbs-news-crime",
+      "npr-news"
+    ]
+  },
+  {
+    "id": "live-entertainment-01-who-is-alleigha-botner-m",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-01-who-is-alleigha-botner-m.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Who Is Alleigha Botner? Meet Caleb Flynn’s Mistress at the Center of His Murder Trial",
+      "zh-TW": "相關封面圖：凱萊布·弗林（Caleb Flynn）在美國偶像（American Idol）前參賽者妻子艾希莉（Ashley）謀殺案審判中被判有罪"
+    },
+    "publishedAt": "2026-09-30T00:01:48.000Z",
+    "title": {
+      "en": "Caleb Flynn Found Guilty of Murdering Wife Ashley in American Idol Trial",
+      "zh-TW": "凱萊布·弗林（Caleb Flynn）在美國偶像（American Idol）前參賽者妻子艾希莉（Ashley）謀殺案審判中被判有罪"
+    },
+    "summary": {
+      "en": "Former American Idol contestant Caleb Flynn was found guilty of murdering his wife Ashley in their Ohio home. His mistress Alleigha Botner testified against him during the trial that ended with a guilty verdict on September 29, 2026.",
+      "zh-TW": "前美國偶像（American Idol）參賽者凱萊布·弗林（Caleb Flynn）被判在俄亥俄州家中謀殺妻子艾希莉（Ashley）。其情婦艾莉亞·博特納（Alleigha Botner）在審判中作證，陪審團於2026年9月29日做出有罪判決。"
+    },
+    "body": {
+      "en": "Lede: Former American Idol contestant Caleb Flynn has been convicted of murdering his wife Ashley. What happened: Caleb Flynn was found guilty of shooting his wife inside their Ohio home. He had told his mistress he wanted her dead and attempted to blame the murder on a break-in. The jury reached its verdict on September 29, 2026. Alleigha Botner, the woman who had an affair with Flynn, testified against him. Why it matters: The case involves a former American Idol season 12 contestant now facing life in prison without parole after being convicted of killing his wife. Sources agree/disagree: All sources confirm the guilty verdict against Caleb Flynn for murdering his wife Ashley, with mention of mistress Alleigha Botner testifying. Still uncertain: Limited details are available about Flynn's family or parents following the conviction.",
+      "zh-TW": "導言：前美國偶像（American Idol）參賽者凱萊布·弗林（Caleb Flynn）已被判謀殺妻子艾希莉（Ashley）罪名成立。 事件經過：凱萊布·弗林（Caleb Flynn）被判在俄亥俄州家中槍殺妻子。他曾告訴情婦希望她死去，並試圖將謀殺歸咎於入室盜竊。陪審團於2026年9月29日做出判決。與弗林有染的女子艾莉亞·博特納（Alleigha Botner）在庭上作證指控他。 事件意義：此案涉及前美國偶像（American Idol）第12季參賽者，現因殺害妻子被判無假釋可能之終身監禁。 來源一致與分歧：所有來源均確認凱萊布·弗林（Caleb Flynn）謀殺妻子艾希莉（Ashley）罪名成立，並提及情婦艾莉亞·博特納（Alleigha Botner）作證。 仍未確定：關於弗林家人或父母在定罪後的資訊有限。"
+    },
+    "sources": [
+      {
+        "name": "Rolling Stone Music",
+        "url": "https://www.rollingstone.com/music/music-news/caleb-flynn-american-idol-contestant-murder-trial-verdict-1235633563/"
+      },
+      {
+        "name": "Hollywood Life",
+        "url": "https://hollywoodlife.com/2026/09/29/caleb-flynn-american-idol-trial-verdict/"
+      },
+      {
+        "name": "CBS News Crime",
+        "url": "https://www.cbsnews.com/news/caleb-flynn-murder-trial-verdict-american-idol-wife/"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "Caleb Flynn",
+          "zh-TW": "凱萊布·弗林（Caleb Flynn）"
+        },
+        "blurb": {
+          "en": "Former American Idol contestant convicted of murdering his wife.",
+          "zh-TW": "前美國偶像（American Idol）參賽者，被判謀殺妻子罪名成立。"
+        }
+      },
+      {
+        "term": {
+          "en": "Alleigha Botner",
+          "zh-TW": "艾莉亞·博特納（Alleigha Botner）"
+        },
+        "blurb": {
+          "en": "Mistress of Caleb Flynn who testified in his murder trial.",
+          "zh-TW": "凱萊布·弗林（Caleb Flynn）的情婦，在其謀殺案審判中作證。"
+        }
+      },
+      {
+        "term": {
+          "en": "Ashley Flynn",
+          "zh-TW": "艾希莉·弗林（Ashley Flynn）"
+        },
+        "blurb": {
+          "en": "Wife of Caleb Flynn who was murdered in their Ohio home.",
+          "zh-TW": "凱萊布·弗林（Caleb Flynn）的妻子，在俄亥俄州家中遭謀殺。"
+        }
+      },
+      {
+        "term": {
+          "en": "American Idol",
+          "zh-TW": "美國偶像（American Idol）"
+        },
+        "blurb": {
+          "en": "Reality singing competition show where Caleb Flynn competed in season 12.",
+          "zh-TW": "真人歌唱選秀節目，凱萊布·弗林（Caleb Flynn）參加第12季。"
+        }
+      }
+    ],
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 16,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "rolling-stone-music",
+      "hollywood-life",
+      "hollywood-life"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-04-24-4-line-today",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-eastAsiaGossip-04-24-4-line-today.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 - LINE TODAY",
+      "zh-TW": "相關封面圖：方志友（Fang Zhiyou）、楊銘威（Yang Mingwei）證實離婚 11年婚姻告終"
+    },
+    "publishedAt": "2026-09-30T00:21:00.000Z",
+    "title": {
+      "en": "Fang Zhiyou and Yang Mingwei Confirm Divorce After Over a Decade of Marriage",
+      "zh-TW": "方志友（Fang Zhiyou）、楊銘威（Yang Mingwei）證實離婚 11年婚姻告終"
+    },
+    "summary": {
+      "en": "Taiwanese celebrities Fang Zhiyou and Yang Mingwei have confirmed their divorce after 11 or 12 years of marriage. Multiple outlets report the couple issued statements ending their relationship while noting they remain family. Past comments from Fang and others about marital strains have resurfaced in coverage.",
+      "zh-TW": "台灣藝人方志友（Fang Zhiyou）與楊銘威（Yang Mingwei）證實結束11或12年婚姻。多個媒體報導兩人發聲明分手，但仍視彼此為家人。方志友過往提及婚姻心結的發言也再度被提及。"
+    },
+    "body": {
+      "en": "Lede: Fang Zhiyou and Yang Mingwei have publicly confirmed the end of their marriage. What happened: Sources report the pair announced their divorce, with statements describing the conclusion of their long-term relationship. Coverage notes they described each other as remaining family despite the split. Reports reference an 11-year or 12-year marriage period and mention prior comments from Fang about considering ending the marriage multiple times. Why it matters: The confirmation adds to recent celebrity relationship updates in the Taiwan entertainment circle, drawing public attention to the couple's personal matters. Sources agree/disagree: Outlets consistently report the divorce confirmation and statements from the couple. Some describe the marriage length as 11 years while others reference 12 years of relationship. Still uncertain: Exact details on the timing of their separation and any specific reasons beyond general statements remain limited to the announcements covered.",
+      "zh-TW": "導言：方志友與楊銘威已公開證實結束婚姻。 事件經過：多個消息來源指出兩人宣布離婚，並發出聲明描述長期關係的結束。報導提及儘管分手，他們仍視彼此為家人。部分內容提到婚姻持續11年或12年，並引用方志友先前表示曾多次考慮放棄婚姻的發言。 重要性：此確認消息為台灣娛樂圈近期名人關係更新之一，引起大眾對兩人私事的關注。 來源異同：各媒體一致報導離婚確認及兩人聲明。部分描述婚姻為11年，另有提及12年感情。 尚未確定：分手確切時間及除一般聲明外的具體原因，仍僅限於已報導的公告內容。"
+    },
+    "sources": [
+      {
+        "name": "tvbs.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnZmdHQ2hTOVNOUW5XT2VtZ2t5ejU1ODhnMDNJUWZTNkFCNEdzVjd6TUZIWHpDdVBnSW1waUhtMWRoTno1Vk5YWHFULV80TXRZNFNBZFN6dDQ2WUxIT1dlWmxrMA?oc=5"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNd1psd3B4dzhGMjBjeGItOVdtZlZJamxURWNDaGZtTWFXdzg0YmZfRU5GZ0hvYTFpSk9DcExHOVJiSU9DbFI4RzNib1JhNTd3MHQzOC1Mbk9IM2hZWG4xVWx2cTNyOURBVzlfUHROX0tOWVdfQlBMUUNpc0xSR294YjNKUTcyTzlJazN2aHVmdDBsdkxzVGV4OS14ZnBaVzh1Y2Yxbk9rU25sZHFPZFU5U2JHRTEzb0IwTjFsX09MRTk3SG5iUFpCXzR2TDM4a1VlMG5FQ2t4Ql82M3NDSlJUVk1zZmd4X091eFdhY1ZXUG9lNUp2ZlU0alpQYWhndWZEVWJFanI2WnhNSjZaSzhqMHltelNYZ1hZa2hSNU9BUy1ET0pKYmNxVzI1cXJHb29DQVJudFBmekNpU2NhZVAzOEVmakE?oc=5"
+      },
+      {
+        "name": "chinatimes.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0WlBLeW56WHVjMjUzV212bG1qMUNYd1gwVHhlQmJjWWpPRnpLWHZZa3hpR0pqUExjNVZRWjI1NThqWUhGcmJBYk9xMzBBRExnN0Q2Zllsekh0MzRfWHlaT214WlVBZGJOZlNYOUhB?oc=5"
+      },
+      {
+        "name": "tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNZTRwVkcyemd2WDZ6VDhSTkt0OWR6ck96bk1TYWo2WHVyV05YcDVVU1oxQ2dlc1QyUDZ1ckFkaFFJVW9aV3MyblA3V3dFN3VOQVVqWDl0MTlVQmppZnFjRHUwVGxLQTV3a3BlcXR5ZnlBUWhKRGozbVdEWnUxdy1YZFNPcTNYMDJKMm1OLWJxZG5Mdk9NVzFuWV9hczBmQ0hjQ0Y3SWRqaUlwRThfekpxTlRzMm5CdFJvQjE4S0p0UnhSSE1mZm5SMUc4YmhKY0IweTEwOGVNdTZlV2VoX1ByYm5BTkRUTS1HUkF6WGVRZzAzR3IxWnN1TktqemZRZ25pLWg5aDFBVmN1Tkd6NkdZakRsaHZKb09YMFg0bnh5SWs2YTktblNicTFYYm5kN3hrOGVxS0QzTHhWR3ktcGRWMDFRSDk4MFVlNkZraWhwWVNjR2ZkVXBsbG01b2tON2VtTFFhYzlPV0JCLTlhc1dWaWtveGxtLXNnQUlkVXRlV1J4VVZIdzJFY2JqMWpiUVZmd3c?oc=5"
+      },
+      {
+        "name": "news.ebc.net.tw",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfQTVRbzlsaGY0R0ZnaHdZN0o4bm9rMnZFc0k3QURYdnpXM1JjWVQydEE2amV5c1VBZFBtWGVrLTRuTkNrWC1oYXRB?oc=5"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VzRzVUNaalhNanVLRndXWDNRUXV1eTRyNmVtZXJNNGZkTWpjWkhJVC1URFJFOWlGNzJaVko0RkpMSG1KNUtDZTQyTWN2cDlsU0Z1aFVn?oc=5"
+      },
+      {
+        "name": "mirrormedia.mg",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iYzhOeEYzRnlOekZBR0hNTTBxUklPSUF4ZjBzOEZnU010RVBlcmZvVjRZTVdQRTRLVFpvMW5iOHpXMmxaS0JsZjhtVEQ1UEpXc2NDMXBITFVJR0XSAWBBVV95cUxPWUJoclVYRFUzVUtPSEtnYXJrOUNaT1JVSXpZcHdXeXpLb0IwRFV6U1NnREJob093TUxPNnM3TU5rckNxc0U5ZXVmdi1FalJUYnpnS0V6YXRtYldwQ2RnRDg?oc=5"
+      },
+      {
+        "name": "nownews.com",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wdVJtem5KY3B6c3QyRy1nY3RzYTdXYkk5OVU5aW54YmE1UEVaTGpWRThFTTRUamt6MTIxSV9GeHBZMDI4Ny1mZ3NZRXDSAVJBVV95cUxPTTBQM2diYVRkWC05ZWNFY0JIYVZmdGRuVEMxVy11aVZMSnJUMVk0enpwa1FOSlFhSjVVOWJmYllZNkx0emtmV1VoSUdyWlhpTEdR?oc=5"
+      },
+      {
+        "name": "ETtoday 影劇",
+        "url": "https://star.ettoday.net/news/3246128"
+      },
+      {
+        "name": "setn.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LT3NCSzhzSlVOdXk1bTh4MFhhVUFxbjlOOWFiMXVFVWl5bmtNMDJBMzRLWmM3UzUxR0xNemRBbXNzUFdfR0I4ag?oc=5"
+      },
+      {
+        "name": "cts.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpaVRTSW55MXktWjVKME1ITk05UXpjbEp5MnMxekhScUtKYUtLWlpGNVZaTGI4bllsSURwdTd3Tm1aM0NnMjZZSG9tc1NydXFOcWpjM0Nmd2dJcEVYaWdsNEYtc0VJN0RYdV9XNQ?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Sources differ on marriage length, with some stating 11 years and others referencing 12 years of relationship.",
+      "zh-TW": "來源對婚姻年數有分歧，部分指11年，另有提及12年感情。"
+    },
+    "glossary": [
+      {
+        "term": {
+          "en": "Fang Zhiyou",
+          "zh-TW": "方志友（Fang Zhiyou）"
+        },
+        "blurb": {
+          "en": "Taiwanese actress and celebrity involved in the reported divorce.",
+          "zh-TW": "台灣女藝人，據報涉及離婚事件。"
+        }
+      },
+      {
+        "term": {
+          "en": "Yang Mingwei",
+          "zh-TW": "楊銘威（Yang Mingwei）"
+        },
+        "blurb": {
+          "en": "Taiwanese actor and celebrity involved in the reported divorce.",
+          "zh-TW": "台灣男藝人，據報涉及離婚事件。"
+        }
+      }
+    ],
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 11,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "gnews-tw-分手+藝人/明星",
+      "gnews-tw-婚變/離婚+藝人",
+      "gnews-tw-婚變/離婚+藝人"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-entertainment-02-nba-star-lamelo-ball-s-b",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-02-nba-star-lamelo-ball-s-b.jpg",
+    "imageAlt": {
+      "en": "Cover related to: NBA Star LaMelo Ball's Baby Mama Ana Montana Arrested on Felony Drug Charges",
+      "zh-TW": "相關封面圖：安娜·蒙塔納（Ana Montana）因重罪毒品指控被捕"
+    },
+    "publishedAt": "2026-09-30T01:15:58.000Z",
+    "title": {
+      "en": "Ana Montana Arrested on Felony Drug Charges",
+      "zh-TW": "安娜·蒙塔納（Ana Montana）因重罪毒品指控被捕"
+    },
+    "summary": {
+      "en": "Ana Montana, identified as LaMelo Ball's baby mama with real name Analicia Chaves, was arrested Monday in Mecklenburg County, North Carolina, facing felony drug charges according to reports.",
+      "zh-TW": "安娜·蒙塔納（Ana Montana），本名Analicia Chaves，被指認為拉梅洛·鮑爾（LaMelo Ball）的孩子母親，週一在北卡羅來納州梅克倫堡縣因重罪毒品指控被捕。"
+    },
+    "body": {
+      "en": "Lede: NBA Star LaMelo Ball's Baby Mama Ana Montana Arrested on Felony Drug Charges.\nWhat happened: LaMelo Ball's baby mama, Ana Montana, has found herself in some legal trouble in North Carolina. TMZ has learned she's facing felony drug charges. Montana -- real name Analicia Chaves -- was arrested Monday in Mecklenburg County.\nWhy it matters: The arrest involves a figure connected to a prominent NBA player, drawing attention in celebrity and sports circles.\nSources agree/disagree: Only one source covers this incident.\nStill uncertain: Details beyond the arrest and charges are limited in available reports.",
+      "zh-TW": "導言：NBA球星拉梅洛·鮑爾（LaMelo Ball）的孩子母親安娜·蒙塔納（Ana Montana）因重罪毒品指控被捕。\n事件經過：拉梅洛·鮑爾（LaMelo Ball）的孩子母親安娜·蒙塔納（Ana Montana）在北卡羅來納州陷入法律麻煩。報導指出她面臨重罪毒品指控。蒙塔納本名Analicia Chaves，週一在梅克倫堡縣被捕。\n事件意義：此逮捕事件涉及與知名NBA球員相關的人物，引起名人與體育圈關注。\n來源一致／分歧：僅有一來源涵蓋此事件。\n仍未確定：除逮捕與指控外，可得報導細節有限。"
+    },
+    "sources": [
+      {
+        "name": "TMZ",
+        "url": "https://www.tmz.com/2026/09/29/ana-montana-arrested/"
+      },
+      {
+        "name": "Just Jared",
+        "url": "https://www.justjared.com/2026/09/29/former-nba-star-jr-smith-arrested-for-active-warrant-from-family-violence-charge/"
+      }
+    ],
+    "disagreements": null,
+    "glossary": [
+      {
+        "term": {
+          "en": "LaMelo Ball",
+          "zh-TW": "拉梅洛·鮑爾（LaMelo Ball）"
+        },
+        "blurb": {
+          "en": "NBA star mentioned in connection with Ana Montana.",
+          "zh-TW": "與安娜·蒙塔納（Ana Montana）相關的NBA球星。"
+        }
+      },
+      {
+        "term": {
+          "en": "Ana Montana",
+          "zh-TW": "安娜·蒙塔納（Ana Montana）"
+        },
+        "blurb": {
+          "en": "Individual arrested on felony drug charges, also known as Analicia Chaves.",
+          "zh-TW": "因重罪毒品指控被捕的個人，亦名Analicia Chaves。"
+        }
+      },
+      {
+        "term": {
+          "en": "Mecklenburg County",
+          "zh-TW": "梅克倫堡縣（Mecklenburg County）"
+        },
+        "blurb": {
+          "en": "North Carolina location of the reported arrest.",
+          "zh-TW": "報導中逮捕發生的北卡羅來納州地點。"
+        }
+      }
+    ],
+    "trustScore": 45,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 12,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "tmz",
+      "just-jared"
+    ]
+  }
+]
