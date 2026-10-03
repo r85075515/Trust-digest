@@ -3,6 +3,7 @@
 import Link from "next/link";
 import type { Language, PersonalizationState, Story } from "@/lib/types";
 import { CATEGORY_LABELS } from "@/lib/stories";
+import { assetUrl } from "@/lib/paths";
 import { TrustScoreBadge } from "./TrustScoreBadge";
 import { InteractionButtons } from "./InteractionButtons";
 
@@ -33,7 +34,7 @@ export function StoryCard({
         <Link href={`/story/${story.id}`} onClick={onOpen} className="block">
           <div className="relative aspect-[16/9] w-full bg-slate-100">
             <img
-              src={story.imageUrl}
+              src={assetUrl(story.imageUrl)}
               alt={alt}
               className="absolute inset-0 h-full w-full object-cover"
             />

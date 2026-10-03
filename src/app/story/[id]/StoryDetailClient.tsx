@@ -8,6 +8,7 @@ import { TrustBreakdownPanel } from "@/components/TrustBreakdown";
 import { InteractionButtons } from "@/components/InteractionButtons";
 import { CATEGORY_LABELS } from "@/lib/stories";
 import type { Story } from "@/lib/types";
+import { assetUrl } from "@/lib/paths";
 import { useLanguage } from "@/hooks/useLanguage";
 import { usePersonalization } from "@/hooks/usePersonalization";
 
@@ -47,7 +48,7 @@ export default function StoryDetailClient({ story }: { story: Story }) {
         {story.imageUrl && (
           <div className="relative mb-5 aspect-[16/9] w-full overflow-hidden rounded-2xl bg-slate-100 shadow-sm">
             <img
-              src={story.imageUrl}
+              src={assetUrl(story.imageUrl)}
               alt={alt}
               className="absolute inset-0 h-full w-full object-cover"
             />

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import type { Language, PersonalizationState, Story } from "@/lib/types";
 import { CATEGORY_LABELS } from "@/lib/stories";
+import { assetUrl } from "@/lib/paths";
 import { TrustScoreBadge } from "./TrustScoreBadge";
 import { InteractionButtons } from "./InteractionButtons";
 
@@ -55,7 +56,7 @@ export function HeadlineBlock({
                 >
                   <div className="relative aspect-[21/9] w-full bg-slate-200 sm:aspect-[2/1]">
                     <img
-                      src={story.imageUrl}
+                      src={assetUrl(story.imageUrl)}
                       alt={alt}
                       className="absolute inset-0 h-full w-full object-cover"
                     />
