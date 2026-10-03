@@ -1,6 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // 靜態匯出（GitHub Pages 部署用，2026-10-03）
+  output: "export",
   allowedDevOrigins: [
     "*.trycloudflare.com",
     "*.loca.lt",
