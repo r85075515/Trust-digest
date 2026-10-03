@@ -33,8 +33,8 @@ Pipeline (`scripts/ingest.ts` + `src/lib/rss-ingest.ts` + `src/lib/heat-discover
 5. Cluster near-duplicates by title token Jaccard within each category; merge heat-verified news into TW `eastAsiaGossip`.
 6. `pickBalancedClusters` (~12–16 stories): intl 3 / finance 2 / tech 2 / ai 2 / entertainment 2 / **eastAsiaGossip 5** with **≥3 TW** reserved; TW region & gossip-title boost ≫ jp/kr/cn.
 7. Digests **only for selected cards** (≤16 LLM calls):
-   - **If** `AXIOM_LLM_API_KEY` / `OPENAI_API_KEY` / `XAI_API_KEY` is set → OpenAI-compatible chat (xAI if key starts with `xai-` or `AXIOM_LLM_BASE_URL` points at xAI). Never invent facts not in titles/snippets.
-   - **Else** extractive digest from title+description + best-effort zh-TW via `@vitalets/google-translate-api` (if translate fails, keep EN and note 「譯文待補」).
+   - **If** `AXIOM_LLM_PROVIDER` is set (not `none`) with `AXIOM_LLM_BASE_URL` + `AXIOM_LLM_MODEL` → OpenAI-compatible chat via `src/lib/llm.ts` wrapper. xAI is banned and refused by guard. Never invent facts not in titles/snippets.
+   - **Else** (`AXIOM_LLM_PROVIDER=none` or unset) extractive digest from title+description + best-effort zh-TW via `@vitalets/google-translate-api` (if translate fails, keep EN and note 「譯文待補」).
 8. Download related covers into `public/covers/live/` when possible; otherwise keep HTTPS publisher CDN URLs only (no unrelated placeholders).
 9. Overwrite `data/stories.json` (100% live) + write `data/ingest-meta.json`.
 
@@ -45,13 +45,14 @@ Fail loudly if every feed fails.
 ### Optional LLM env
 
 ```bash
-export AXIOM_LLM_API_KEY=xai-...      # or OPENAI_API_KEY / XAI_API_KEY
-# export AXIOM_LLM_BASE_URL=https://api.x.ai/v1
-# export AXIOM_LLM_MODEL=grok-3-mini
+export AXIOM_LLM_PROVIDER=custom
+export AXIOM_LLM_BASE_URL=https://your-openai-compatible-endpoint/v1
+export AXIOM_LLM_MODEL=your-model
+export AXIOM_LLM_API_KEY=<redacted>
 npm run ingest
 ```
 
-The ingest script also loads `card.AXIOM_LLM_API_KEY` from `/home/box/agent-data/box-secrets.json` when env is unset (key is never printed).
+Daily routine runs with `AXIOM_LLM_PROVIDER=none` (no LLM calls, no cost).
 
 ### Feed allow-list (v1)
 

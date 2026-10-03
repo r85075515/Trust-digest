@@ -2,10 +2,14 @@
  * Axiom live news ingest — allow-listed RSS only.
  * Usage: npm run ingest
  *
- * Env (optional LLM):
- *   AXIOM_LLM_API_KEY | OPENAI_API_KEY | XAI_API_KEY
- *   AXIOM_LLM_BASE_URL (default OpenAI-compatible)
- *   AXIOM_LLM_MODEL
+ * Env (optional LLM — xAI is BANNED, see src/lib/llm.ts):
+ *   AXIOM_LLM_PROVIDER   provider name; `none` = never call LLM
+ *   AXIOM_LLM_BASE_URL   OpenAI-compatible base URL (must NOT contain x.ai)
+ *   AXIOM_LLM_MODEL      model name
+ *   AXIOM_LLM_API_KEY    key, env only — never commit
+ *
+ * Daily routine runs with AXIOM_LLM_PROVIDER=none
+ * (extractive digests + free zh-TW translate fallback).
  */
 
 import fs from "node:fs";
@@ -49,6 +53,7 @@ import {
   isJunkImageUrl,
 } from "../src/lib/cover";
 import { RETENTION_DAYS, isWithinRetention } from "../src/lib/retention";
+import { getLlmConfig, chatJson, type LlmConfig } from "../src/lib/llm";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -97,52 +102,8 @@ function stripRawUrls(text: string): string {
     .trim();
 }
 
-function loadKeyFromBoxSecrets(): string {
-  try {
-    const p = "/home/box/agent-data/box-secrets.json";
-    if (!fs.existsSync(p)) return "";
-    const data = JSON.parse(fs.readFileSync(p, "utf8")) as {
-      card?: Record<string, string>;
-    };
-    return data.card?.AXIOM_LLM_API_KEY || data.card?.XAI_API_KEY || "";
-  } catch {
-    return "";
-  }
-}
-
-function getLlmConfig(): {
-  key: string;
-  baseUrl: string;
-  model: string;
-} | null {
-  const key =
-    process.env.AXIOM_LLM_API_KEY ||
-    process.env.XAI_API_KEY ||
-    process.env.OPENAI_API_KEY ||
-    loadKeyFromBoxSecrets() ||
-    "";
-  if (!key) return null;
-
-  const isXai =
-    key.startsWith("xai-") ||
-    Boolean(process.env.AXIOM_LLM_API_KEY) ||
-    Boolean(process.env.XAI_API_KEY) ||
-    (process.env.AXIOM_LLM_BASE_URL || "").includes("x.ai");
-
-  let baseUrl =
-    process.env.AXIOM_LLM_BASE_URL ||
-    (isXai ? "https://api.x.ai/v1" : "https://api.openai.com/v1");
-  baseUrl = baseUrl.replace(/\/$/, "");
-
-  const model =
-    process.env.AXIOM_LLM_MODEL ||
-    (baseUrl.includes("x.ai") ? "grok-3-mini" : "gpt-4o-mini");
-
-  // Never log the key — length only
-  console.info(`[ingest] LLM key loaded (len=${key.length}, xai=${baseUrl.includes("x.ai")})`);
-
-  return { key, baseUrl, model };
-}
+// NOTE (2026-10-03): loadKeyFromBoxSecrets() 已刪除。
+// Ray 明令不再使用 xAI；key 只從 AXIOM_LLM_API_KEY 讀，不再有任何 fallback。
 
 async function fetchFeed(source: FeedSource): Promise<RawFeedItem[]> {
   const ctrl = new AbortController();
@@ -330,7 +291,7 @@ async function translateToZhTW(text: string): Promise<string | null> {
 
 async function llmDigest(
   cluster: StoryCluster,
-  cfg: { key: string; baseUrl: string; model: string }
+  cfg: LlmConfig
 ): Promise<{
   titleEn: string;
   titleZh: string;
@@ -381,42 +342,12 @@ Rules:
       { role: "system", content: "You output only valid JSON. Never invent news facts." },
       { role: "user", content: prompt },
     ];
-    async function callLlm(withJsonFormat: boolean) {
-      const body: Record<string, unknown> = {
-        model: cfg.model,
-        temperature: 0.2,
-        messages,
-      };
-      if (withJsonFormat) body.response_format = { type: "json_object" };
-      return fetch(`${cfg.baseUrl}/chat/completions`, {
-        method: "POST",
-        headers: {
-          Authorization: `Bearer ${cfg.key}`,
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(body),
-      });
-    }
-    let res = await callLlm(true);
-    if (!res.ok) {
-      const errText = await res.text().then((t) => t.slice(0, 200));
-      console.warn("[ingest] LLM HTTP", res.status, errText.replace(/xai-[A-Za-z0-9_-]+/g, "[REDACTED]"));
-      if (res.status === 400 || /response_format|json_object/i.test(errText)) {
-        res = await callLlm(false);
-      } else {
-        return null;
-      }
-    }
-    if (!res.ok) {
-      console.warn("[ingest] LLM retry HTTP", res.status, await res.text().then((t) => t.slice(0, 200).replace(/xai-[A-Za-z0-9_-]+/g, "[REDACTED]")));
-      return null;
-    }
-    const data = (await res.json()) as {
-      choices?: Array<{ message?: { content?: string } }>;
-    };
-    const content = data.choices?.[0]?.message?.content;
-    if (!content) return null;
-    const parsed = JSON.parse(content) as Record<string, unknown>;
+    // 經 src/lib/llm.ts wrapper 呼叫（含 400 重試＋JSON 擷取容錯）；xAI 已被 wrapper 擋下
+    const parsed = (await chatJson(cfg, messages, { temperature: 0.2 })) as Record<
+      string,
+      unknown
+    > | null;
+    if (!parsed) return null;
     const rawGlossary = Array.isArray(parsed.glossary) ? parsed.glossary : [];
     const glossary = rawGlossary
       .map((g) => {
@@ -546,7 +477,7 @@ async function main() {
   const llm = getLlmConfig();
   console.info(
     llm
-      ? `[ingest] LLM enabled (${llm.baseUrl}, model ${llm.model})`
+      ? `[ingest] LLM enabled (provider ${llm.provider}, ${llm.baseUrl}, model ${llm.model})`
       : "[ingest] no LLM key — extractive digests + free zh-TW translate"
   );
 
@@ -797,6 +728,8 @@ async function main() {
     heatVerifiedKeywords: heatVerify.verifiedKeywords,
     heatNewsInjected: heatVerify.newsItems.length,
     llmUsed: Boolean(llm),
+    llmProvider: llm?.provider ?? null,
+    llmModel: llm?.model ?? null,
     mode: llm ? "llm+rss+heat" : "extractive+translate+rss+heat",
   };
   fs.writeFileSync(OUT_META, JSON.stringify(meta, null, 2) + "\n", "utf8");
