@@ -1,8 +1,8 @@
 {
-  "ingestedAt": "2026-10-04T03:04:08.751Z",
+  "ingestedAt": "2026-10-04T03:09:03.414Z",
   "feedOk": 48,
   "feedTotal": 52,
-  "rawItems": 546,
+  "rawItems": 545,
   "mainStories": 14,
   "byCategory": {
     "international": 3,
@@ -26,7 +26,7 @@
     "唐綺陽",
     "看板分類"
   ],
-  "heatNewsInjected": 45,
+  "heatNewsInjected": 44,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
