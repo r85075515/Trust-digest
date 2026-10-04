@@ -30,5 +30,8 @@
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat"
+  "mode": "extractive+translate+rss+heat",
+  "rewrittenAt": "2026-10-04T14:34:40.000Z",
+  "rewrittenBy": "bebo",
+  "rewriteNote": "manual rewrite 2026-10-04: full bilingual digest (title/summary/body en+zh-TW), removed extractive template boilerplate"
 }
