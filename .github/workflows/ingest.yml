@@ -1,5 +1,5 @@
 # Axiom 每日 ingest — 每天 01:32 UTC 跑，provider=none（零 LLM 成本）
-# 之後由 Bebo 的改寫 cron（約 02:00 UTC）補上正式雙語 digest 再觸發部署。
+# GITHUB_TOKEN push 不會觸發其他 workflow 的 push 事件，故本 workflow 內直接 build＋deploy Pages。
 name: Axiom daily ingest
 
 on:
@@ -9,6 +9,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   ingest:
@@ -45,3 +51,33 @@ jobs:
           git add -A data/ public/covers/live/
           git diff --cached --quiet && echo "no changes" || git commit -m "daily ingest $(date -u +%F) (provider=none)"
           git push
+
+  build:
+    needs: ingest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+      - run: npm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
