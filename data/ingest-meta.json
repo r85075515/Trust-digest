@@ -1,18 +1,19 @@
 {
-  "ingestedAt": "2026-09-30T01:43:09.253Z",
+  "ingestedAt": "2026-10-04T03:04:08.751Z",
   "feedOk": 48,
   "feedTotal": 52,
-  "rawItems": 541,
-  "mainStories": 11,
+  "rawItems": 546,
+  "mainStories": 14,
   "byCategory": {
-    "tech": 1,
-    "eastAsiaGossip": 4,
-    "finance": 1,
     "international": 3,
-    "entertainment": 2
+    "eastAsiaGossip": 3,
+    "tech": 2,
+    "entertainment": 2,
+    "finance": 2,
+    "ai": 2
   },
   "eastAsiaByRegion": {
-    "tw": 4
+    "tw": 3
   },
   "heatSourcesShipped": [
     "ptt",
@@ -20,12 +21,14 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "唐綺陽直播",
-    "比中指嗆聲",
-    "錫蘭突襲",
-    "長輩迷過的歌"
+    "錫蘭直播開嗆",
+    "網路論戰你挺",
+    "唐綺陽",
+    "看板分類"
   ],
-  "heatNewsInjected": 40,
-  "llmUsed": true,
-  "mode": "llm+rss+heat"
+  "heatNewsInjected": 45,
+  "llmUsed": false,
+  "llmProvider": null,
+  "llmModel": null,
+  "mode": "extractive+translate+rss+heat"
 }
