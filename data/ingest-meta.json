@@ -1,19 +1,19 @@
 {
-  "ingestedAt": "2026-10-04T03:09:03.414Z",
+  "ingestedAt": "2026-10-04T04:04:27.502Z",
   "feedOk": 48,
   "feedTotal": 52,
-  "rawItems": 545,
-  "mainStories": 14,
+  "rawItems": 540,
+  "mainStories": 15,
   "byCategory": {
     "international": 3,
-    "eastAsiaGossip": 3,
+    "eastAsiaGossip": 4,
     "tech": 2,
     "entertainment": 2,
     "finance": 2,
     "ai": 2
   },
   "eastAsiaByRegion": {
-    "tw": 3
+    "tw": 4
   },
   "heatSourcesShipped": [
     "ptt",
@@ -24,9 +24,9 @@
     "錫蘭直播開嗆",
     "網路論戰你挺",
     "唐綺陽",
-    "看板分類"
+    "氣到一拳打凹"
   ],
-  "heatNewsInjected": 44,
+  "heatNewsInjected": 39,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
