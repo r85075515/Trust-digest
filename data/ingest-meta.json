@@ -1,19 +1,19 @@
 {
-  "ingestedAt": "2026-10-04T04:04:27.502Z",
+  "ingestedAt": "2026-10-05T01:43:48.471Z",
   "feedOk": 48,
   "feedTotal": 52,
-  "rawItems": 540,
-  "mainStories": 15,
+  "rawItems": 525,
+  "mainStories": 14,
   "byCategory": {
-    "international": 3,
-    "eastAsiaGossip": 4,
-    "tech": 2,
+    "eastAsiaGossip": 3,
     "entertainment": 2,
     "finance": 2,
-    "ai": 2
+    "tech": 2,
+    "ai": 2,
+    "international": 3
   },
   "eastAsiaByRegion": {
-    "tw": 4
+    "tw": 3
   },
   "heatSourcesShipped": [
     "ptt",
@@ -21,17 +21,14 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "錫蘭直播開嗆",
-    "網路論戰你挺",
     "唐綺陽",
-    "氣到一拳打凹"
+    "歐洲熱吻放閃",
+    "錫蘭直播開嗆",
+    "網路論戰你挺"
   ],
-  "heatNewsInjected": 39,
+  "heatNewsInjected": 22,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat",
-  "rewrittenAt": "2026-10-04T14:34:40.000Z",
-  "rewrittenBy": "bebo",
-  "rewriteNote": "manual rewrite 2026-10-04: full bilingual digest (title/summary/body en+zh-TW), removed extractive template boilerplate"
+  "mode": "extractive+translate+rss+heat"
 }

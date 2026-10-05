@@ -1,86 +1,24 @@
 [
   {
-    "id": "live-international-01-flydubai-co-pilot-used-c",
-    "category": "international",
-    "adult": false,
-    "isHeadline": true,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-01-flydubai-co-pilot-used-c.jpg",
-    "imageAlt": {
-      "en": "Cover related to: UAE Says FlyDubai Co-Pilot Attacked Captain With Crash Axe in Attempted Cockpit Takeover",
-      "zh-TW": "相關封面圖：阿聯酋：杜拜航空副駕駛持消防斧襲擊機長　企圖奪取駕駛艙"
-    },
-    "publishedAt": "2026-10-03T14:52:27.000Z",
-    "title": {
-      "en": "UAE Says FlyDubai Co-Pilot Attacked Captain With Crash Axe in Attempted Cockpit Takeover",
-      "zh-TW": "阿聯酋：杜拜航空副駕駛持消防斧襲擊機長　企圖奪取駕駛艙"
-    },
-    "summary": {
-      "en": "The UAE's prosecutor general says FlyDubai co-pilot Hamam al-Hammami attacked the captain with a crash axe on a Tel Aviv-bound flight and tried to seize the aircraft, calling it an attempted terrorist act. Outlets agree on the core facts; pre-flight background checks remain in question.",
-      "zh-TW": "阿聯酋總檢察長表示，杜拜航空副駕駛哈馬姆·哈馬米（Hamam al-Hammami）在飛往特拉維夫的班機上持消防斧襲擊機長、企圖奪取飛機控制權，定調為未遂恐怖攻擊。各媒體對核心事實說法一致，行前背景審查仍有疑問。"
-    },
-    "body": {
-      "en": "What happened\nA FlyDubai flight bound for Tel Aviv turned violent mid-air when co-pilot Hamam al-Hammami attacked the captain inside the cockpit with a crash axe and attempted to take control of the aircraft, according to the UAE prosecutor general. The captain survived; CBS News reports he was stabbed during the assault and has since spoken out. The accused co-pilot, identified by several outlets as an Omani national, was restrained. The New York Times reports he is said to have held extremist views, though that characterization comes from sourcing cited by the paper rather than an official charge sheet.\nWhy it matters\nAn attempted cockpit takeover by a crew member is among the rarest and most alarming aviation security failures. The incident has deepened anxiety about the safety of Israel-bound travel and raised immediate questions about airline vetting: it remains unclear what background checks al-Hammami underwent before being cleared to fly.\nSources agree / disagree\nBBC World, The New York Times, CNBC and CBS News agree on the essentials — an axe attack in the cockpit, an attempted takeover, and the UAE framing it as an attempted terrorist act. The outlets differ only in emphasis: the Times leans into the co-pilot's background and alleged extremist views, while CBS centers the captain's account.\nStill uncertain\nThe full results of the background screening are not public, and the investigation is ongoing. Details may change as UAE authorities release more.",
-      "zh-TW": "發生了什麼事\n杜拜航空一架飛往特拉維夫的班機在高空中爆發暴力衝突。阿聯酋總檢察長表示，副駕駛哈馬姆·哈馬米（Hamam al-Hammami）在駕駛艙內持消防斧襲擊機長，並企圖奪取飛機控制權。機長生還，哥倫比亞廣播公司（CBS）報導他遭刺傷，事後已對外發聲。涉案副駕駛據多家媒體指為阿曼籍，已被制伏。《紐約時報》引述消息稱他抱持極端主義觀點，但此說法來自該報引述的消息來源，並非官方起訴書內容。\n為什麼重要\n機組員企圖奪取駕駛艙，是罕見且最令人憂心的飛安破口之一。這起事件加深了外界對飛往以色列航班安全的疑慮，也讓航空公司的人員審查機制受到檢視：哈馬米執飛前究竟通過了哪些背景調查，目前仍不清楚。\n來源異同\n英國廣播公司（BBC）、《紐約時報》、CNBC 與 CBS 對核心事實說法一致：駕駛艙斧擊、企圖奪機、阿聯酋定調為未遂恐怖攻擊。差異只在著重點：《紐約時報》聚焦副駕駛背景與極端觀點指控，CBS 則以機長說法為主。\n仍不確定\n背景審查的完整結果尚未公開，調查仍在進行，細節可能隨阿聯酋當局公布而更新。"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html"
-      },
-      {
-        "name": "CBS News Crime",
-        "url": "https://www.cbsnews.com/video/flydubai-captain-stabbed-mid-flight-by-radicalized-co-pilot-speaks-out/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 91,
-    "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 18,
-      "crossCorroboration": 25,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-world",
-      "nyt-world",
-      "nyt-world"
-    ]
-  },
-  {
     "id": "live-eastAsiaGossip-01-24-4-line-today",
     "category": "eastAsiaGossip",
     "adult": false,
-    "isHeadline": true,
+    "isHeadline": false,
     "isPopular": true,
-    "publishedAt": "2026-10-03T13:46:47.000Z",
+    "publishedAt": "2026-09-30T04:56:21.000Z",
     "title": {
-      "en": "Ruby Fang and Johnny Yang Announce Divorce, Ending 11-Year Marriage",
-      "zh-TW": "方志友、楊銘威宣布離婚　11年婚姻告終：永遠是家人"
+      "en": "方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 - LINE TODAY",
+      "zh-TW": "方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 - LINE TODAY"
     },
     "summary": {
-      "en": "Taiwanese actors Ruby Fang and Johnny Yang have confirmed their divorce, ending an 11-year marriage that began when Fang was 24. The pair said they \"can't be lovers anymore\" but will \"always be family.\" Outlets agree on the split; the reasons remain private.",
-      "zh-TW": "藝人方志友、楊銘威證實離婚，結束 11 年婚姻。兩人 24 歲奉子成婚，聲明中表示「無法再做情人」，但「永遠是家人」。各媒體對離婚事實說法一致，詳細原因未公開。"
+      "en": "出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」 還遭威脅斷手 star.setn.com",
+      "zh-TW": "出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」 還遭威脅斷手 star.setn.com"
     },
     "body": {
-      "en": "What happened\nTaiwanese actors Ruby Fang (方志友) and Johnny Yang (楊銘威) have announced their divorce, ending 11 years of marriage. The pair married young — Fang was 24 and pregnant at the time — and said in their statement that while they \"can't be lovers anymore,\" they will \"always be family.\" China Times reports the 11-year marriage has formally ended; Yahoo News notes Yang has since made his first public appearance, with his latest status under scrutiny. Taiwan media have also revisited long-rumored \"four major grudges\" between the couple, though neither party has confirmed specifics.\nWhy it matters\nThe split caps a week of high-profile Taiwan entertainment breakups dominating local feeds, and the couple's carefully worded \"family forever\" framing has set the tone for coverage: outlets are treating it as amicable unless new details emerge.\nSources agree / disagree\nChina Times, Yahoo News, LINE TODAY and NOWnews agree the marriage is over and cite the same joint statement. No outlet disputes the 11-year timeline.\nStill uncertain\nThe specific reasons for the split have not been disclosed. Note: this news cluster also swept in an unrelated divorce rumor about a different local male star (a \"3-year marriage\" infidelity story); treat items about a recording-studio affair as a separate story, not part of the Fang-Yang split.",
-      "zh-TW": "發生了什麼事\n藝人方志友、楊銘威宣布離婚，結束 11 年婚姻。兩人當年 24 歲奉子成婚，聲明中表示「無法再做情人」，但「永遠是家人」。中時新聞網報導 11 年婚姻正式告終；Yahoo 新聞指出楊銘威離婚後首度公開現身，近況受關注。台媒也翻出兩人過往傳出的「夫妻四大心結」，但雙方均未證實細節。\n為什麼重要\n這起離婚案為本週台灣演藝圈一連串婚變消息再添一筆。兩人以「永遠是家人」定調，各媒體目前多以和平分手角度報導，除非有新事證出現。\n來源異同\n中時、Yahoo、LINE TODAY、NOWnews 對離婚事實與 11 年時間軸說法一致，均引述同一份聯合聲明。\n仍不確定\n離婚具體原因未公開。另註：本次新聞群組混入了一則不相關的婚變傳聞（某本土男星「3 年婚」外遇錄音間事件），請視為另一起獨立事件，與方志友、楊銘威無關。"
+      "en": "出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」 還遭威脅斷手 star.setn.com What happened\n方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 - LINE TODAY. 出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」 還遭威脅斷手 star.setn.com 【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 LINE TODAY 方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 LINE TODAY 楊銘威、方志友情斷！盤點7對明星離婚夫妻 全民吃瓜王力宏醜聞 nownews.com Why it matters\nThis cluster was assembled from 8 feed item(s) across 2 outlet(s) (GNews site:setn 分手/婚, GNews TW 婚變/離婚+藝人) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」　還遭威脅斷手 - star.setn.com\" (GNews site:setn 分手/婚); \"快訊》方志友、楊銘威宣布離婚！11年婚姻告終：永遠是家人 - 中時新聞網\" (GNews TW 婚變/離婚+藝人); \"遭爆11年婚變協議離婚方志友！楊銘威首公開現身了 「最新近況」曝 - Yahoo新聞\" (GNews TW 婚變/離婚+藝人); \"楊銘威酒後把「離婚」掛嘴邊 賈靜雯揭他家中是大爺 - 東森電視\" (GNews TW 婚變/離婚+藝人); \"【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 - LINE TODAY\" (GNews TW 婚變/離婚+藝人).\nFigures differ across outlets (e.g. 3 vs 11 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews site:setn 分手/婚, GNews TW 婚變/離婚+藝人 Additional feed context\n(1) 出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」 還遭威脅斷手 star.setn.com\n(2) 【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 LINE TODAY\n(3) 方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 LINE TODAY\n(4) 楊銘威、方志友情斷！盤點7對明星離婚夫妻 全民吃瓜王力宏醜聞 nownews.com",
+      "zh-TW": "出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」 還遭威脅斷手 star.setn.com What happened\n方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 - LINE TODAY. 出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」 還遭威脅斷手 star.setn.com 【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 LINE TODAY 方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 LINE TODAY 楊銘威、方志友情斷！盤點7對明星離婚夫妻 全民吃瓜王力宏醜聞 nownews.com Why it matters\nThis cluster was assembled from 8 feed item(s) across 2 outlet(s) (GNews site:setn 分手/婚, GNews TW 婚變/離婚+藝人) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」　還遭威脅斷手 - star.setn.com\" (GNews site:setn 分手/婚); \"快訊》方志友、楊銘威宣布離婚！11年婚姻告終：永遠是家人 - 中時新聞網\" (GNews TW 婚變/離婚+藝人); \"遭爆11年婚變協議離婚方志友！楊銘威首公開現身了 「最新近況」曝 - Yahoo新聞\" (GNews TW 婚變/離婚+藝人); \"楊銘威酒後把「離婚」掛嘴邊 賈靜雯揭他家中是大爺 - 東森電視\" (GNews TW 婚變/離婚+藝人); \"【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 - LINE TODAY\" (GNews TW 婚變/離婚+藝人).\nFigures differ across outlets (e.g. 3 vs 11 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews site:setn 分手/婚, GNews TW 婚變/離婚+藝人 Additional feed context\n(1) 出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」 還遭威脅斷手 star.setn.com\n(2) 【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 LINE TODAY\n(3) 方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 LINE TODAY\n(4) 楊銘威、方志友情斷！盤點7對明星離婚夫妻 全民吃瓜王力宏醜聞 nownews.com"
     },
     "sources": [
-      {
-        "name": "Google News TW Entertainment",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84ZmRWb1BESldKUnpSMV9HSm9HRC03Nld6aTc4N1k5OERZaGwzREwzUWgxU3o3bjQtWkNncldYVzBpckxxNTQwcUtmaDBNdzJm0gFWQVVfeXFMTWpfa21vaGJjOUZVNkxWa1hncHNlNlc3eXJfYUVVNktsZEk4ZGc1dm9EZ0RIcFRkdzJibUtfeFo2ZDE1bXh1S3pwSTJOYU8tVlhlUE1JclE?oc=5"
-      },
       {
         "name": "setn.com",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10TlJoS3FYVkFiYzdMVVRNd3JSbFh4akEzTUVNTXYyU0p1T29jRUtGUXNycmttNko2RTFYWWxKNHRsQUQxVFpZZ3Rn0gFfQVVfeXFMUFpackk1eERuQlNkTmgtLWUxZl9SSEtBMlYxYlFCNkU4QW9zVlVwT3dzLWR6NjQzZlA4cjFybDNWSUxmMTNXUHgwTUxNQTVrT2NtSFBDWGMxQWZNQW5iR00?oc=5"
@@ -102,10 +40,6 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VzRzVUNaalhNanVLRndXWDNRUXV1eTRyNmVtZXJNNGZkTWpjWkhJVC1URFJFOWlGNzJaVko0RkpMSG1KNUtDZTQyTWN2cDlsU0Z1aFVn?oc=5"
       },
       {
-        "name": "cts.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpaVRTSW55MXktWjVKME1ITk05UXpjbEp5MnMxekhScUtKYUtLWlpGNVZaTGI4bllsSURwdTd3Tm1aM0NnMjZZSG9tc1NydXFOcWpjM0Nmd2dJcEVYaWdsNEYtc0VJN0RYdV9XNQ?oc=5"
-      },
-      {
         "name": "nownews.com",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wdVJtem5KY3B6c3QyRy1nY3RzYTdXYkk5OVU5aW54YmE1UEVaTGpWRThFTTRUamt6MTIxSV9GeHBZMDI4Ny1mZ3NZRXDSAVJBVV95cUxPTTBQM2diYVRkWC05ZWNFY0JIYVZmdGRuVEMxVy11aVZMSnJUMVk0enpwa1FOSlFhSjVVOWJmYllZNkx0emtmV1VoSUdyWlhpTEdR?oc=5"
       },
@@ -115,118 +49,69 @@
       }
     ],
     "disagreements": {
-      "en": "Figures differ across outlets (e.g. 15 vs 3 in headlines/snippets).",
-      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中為 15 比 3）。"
+      "en": "Figures differ across outlets (e.g. 3 vs 11 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 3 比 11）。"
     },
-    "trustScore": 76,
+    "trustScore": 65,
     "trustBreakdown": {
       "sourceDiversity": 25,
       "outletReputation": 11,
       "crossCorroboration": 17,
-      "recencyClarity": 23
+      "recencyClarity": 12
     },
     "tags": [
       "eastAsiaGossip",
       "live-ingest",
       "region:tw",
-      "google-news-tw-entertainment",
       "gnews-site:setn-分手/婚",
-      "gnews-site:setn-分手/婚"
+      "gnews-tw-婚變/離婚+藝人",
+      "gnews-tw-婚變/離婚+藝人"
     ],
     "region": "tw"
   },
   {
-    "id": "live-tech-01-openai-safety-employee-r",
-    "category": "tech",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-tech-01-openai-safety-employee-r.jpg",
-    "imageAlt": {
-      "en": "Cover related to: OpenAI Safety Researcher David Robinson Resigns, Says Company's 'Culture Is Broken'",
-      "zh-TW": "相關封面圖：OpenAI 安全研究員大衛·羅賓森（David Robinson）請辭　批公司「文化已崩壞」"
-    },
-    "publishedAt": "2026-10-03T16:30:01.000Z",
-    "title": {
-      "en": "OpenAI Safety Researcher David Robinson Resigns, Says Company's 'Culture Is Broken'",
-      "zh-TW": "OpenAI 安全研究員大衛·羅賓森（David Robinson）請辭　批公司「文化已崩壞」"
-    },
-    "summary": {
-      "en": "David Robinson, who authored the safety reports for OpenAI's major model releases, has resigned and written in The Atlantic that the company's culture is \"broken.\" TechCrunch and The Verge confirm the departure; the full details of his warnings are in the editorial.",
-      "zh-TW": "曾為 OpenAI 歷次重大模型發布撰寫安全報告的大衛·羅賓森（David Robinson）辭職，並在《大西洋月刊》撰文指公司「文化已崩壞」。TechCrunch 與 The Verge 證實其離職，警告細節見該篇社論。"
-    },
-    "body": {
-      "en": "What happened\nDavid Robinson, the OpenAI staffer who wrote the safety reports accompanying every major model release, has resigned and is now speaking out. In an editorial for The Atlantic, he says the company's \"culture is broken.\" By his own admission, he is \"something of a cliché\" — the insider who warns about the dangers of what he helped build only on his way out the door.\nWhy it matters\nRobinson is not a peripheral figure: he authored the safety documentation for OpenAI's flagship releases, so his break with the company lands harder than the usual departure post. His resignation adds to a steady drumbeat of safety-team exits that critics cite as evidence of shifting priorities inside the AI lab.\nSources agree / disagree\nTechCrunch and The Verge agree on the core facts — the resignation, the Atlantic editorial, the \"culture is broken\" line. Coverage differs only in framing, with Robinson's own self-aware \"cliché\" remark quoted by both.\nStill uncertain\nThe full substance of Robinson's safety concerns is in the Atlantic piece, which feed summaries only excerpt. Whether his departure triggers further exits or any policy response from OpenAI is not yet known.",
-      "zh-TW": "發生了什麼事\n曾為 OpenAI 每次重大模型發布撰寫安全報告的大衛·羅賓森（David Robinson）辭職，並選擇對外發聲。他在《大西洋月刊》的社論中表示，公司「文化已崩壞」。他自嘲自己是「有點老套」的那種人——在離開時才警告自己參與打造的東西有多危險的內部人士。\n為什麼重要\n羅賓森並非邊緣人物：他經手了 OpenAI 旗艦模型的安全文件，他的決裂比一般的離職貼文更有分量。這起辭職也讓外界再次檢視 OpenAI 安全團隊近年一波波出走潮，批評者認為這反映了公司優先順序的轉變。\n來源異同\nTechCrunch 與 The Verge 對核心事實說法一致：辭職、《大西洋月刊》社論、「文化崩壞」一語。兩家報導僅角度略異，都引述了他自嘲「老套」的說法。\n仍不確定\n羅賓森安全疑慮的完整內容見《大西洋月刊》原文，摘要僅節錄片段。他的離開是否引發後續出走潮、OpenAI 是否回應，目前未知。"
-    },
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
-      },
-      {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 72,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 18,
-      "crossCorroboration": 15,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "tech",
-      "live-ingest",
-      "techcrunch",
-      "the-verge"
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-02-4-43-5-star-setn-com",
+    "id": "live-eastAsiaGossip-02-9-ctwant-line-today",
     "category": "eastAsiaGossip",
     "adult": false,
-    "isHeadline": false,
+    "isHeadline": true,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-02-4-43-5-star-setn-com.jpg",
+    "imageUrl": "/covers/live/live-eastAsiaGossip-02-9-ctwant-line-today.jpg",
     "imageAlt": {
-      "en": "Cover related to: 43-Year-Old Star Confirms 4-Year Secret Marriage; Director Wife Five Years His Junior Identified",
-      "zh-TW": "相關封面圖：43歲大咖男星認了秘婚4年　小5歲導演老婆真實身分曝光"
+      "en": "Cover related to: 娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT - LINE TODAY",
+      "zh-TW": "相關封面圖：娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT - LINE TODAY"
     },
-    "publishedAt": "2026-10-04T01:00:00.000Z",
+    "publishedAt": "2026-10-04T23:25:00.000Z",
     "title": {
-      "en": "43-Year-Old Star Confirms 4-Year Secret Marriage; Director Wife Five Years His Junior Identified",
-      "zh-TW": "43歲大咖男星認了秘婚4年　小5歲導演老婆真實身分曝光"
+      "en": "娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT - LINE TODAY",
+      "zh-TW": "娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT - LINE TODAY"
     },
     "summary": {
-      "en": "SETN reports a 43-year-old male star has publicly confirmed a four-year secret marriage, identifying his wife — a director five years his junior. Details are thin in feed summaries; the same news cluster separately tracks a viral Korean soldier story.",
-      "zh-TW": "三立新聞網報導，一名 43 歲大咖男星公開承認秘婚 4 年，小 5 歲的導演妻子身分曝光。摘要資訊有限；同一新聞群組另混入南韓「神顏阿兵哥」爆紅的獨立事件。"
+      "en": "知名YouTuber「見習網美小吳」經營團隊長達9年，上月25日拋出震撼彈，大動作在社群平台發文宣告解散公司；同一時間，時報周刊CTWANT讀者也在捷運中和新蘆線巧遇小吳的夥伴聖元，隻身搭車的他神情相當平靜，似乎早已坦然接受團隊的決定。 《詳全文...》",
+      "zh-TW": "知名YouTuber「見習網美小吳」經營團隊長達9年，上月25日拋出震撼彈，大動作在社群平台發文宣告解散公司；同一時間，時報周刊CTWANT讀者也在捷運中和新蘆線巧遇小吳的夥伴聖元，隻身搭車的他神情相當平靜，似乎早已坦然接受團隊的決定。 《詳全文...》"
     },
     "body": {
-      "en": "What happened\nAccording to SETN (三立新聞網), a 43-year-old male star has publicly acknowledged a secret marriage of four years, and the identity of his wife — a director five years younger than him — has now been revealed. Feed summaries carry little beyond the headline facts: the confirmation itself is the news, with the couple's private timeline still largely undisclosed.\nWhy it matters\nSecret-marriage reveals remain a staple of East Asian entertainment coverage precisely because they upend a star's public image overnight; the \"director wife five years younger\" detail is what is driving the current round of pickup.\nSources agree / disagree\nSETN's reporting stands largely alone in this cluster; no other outlet in the feed set independently confirms the marriage details, so treat the specifics as single-source until corroborated.\nStill uncertain\nThe star's name and the full timeline are not spelled out in the feed summaries — verify against the publisher page. Note: this cluster also contains a separate viral story about a handsome Korean soldier whose dance performance at the Gyeryong military culture festival drew crowds of fans; it is unrelated to the marriage story and was grouped here only by topic overlap.",
-      "zh-TW": "發生了什麼事\n三立新聞網報導，一名 43 歲大咖男星公開承認秘婚 4 年，小 5 歲的導演妻子真實身分隨之曝光。目前摘要僅止於標題資訊：認婚本身就是新聞，兩人交往與婚姻的時間軸細節尚未公開。\n為什麼重要\n秘婚曝光向來是東亞娛樂新聞的固定題材，因為它一夜之間顛覆明星的公眾形象；「小 5 歲的導演老婆」正是本輪報導的焦點。\n來源異同\n此消息在群組內主要來自三立新聞網單一來源，其他媒體尚未獨立證實，細節在獲得佐證前請保留。\n仍不確定\n男星姓名與完整時間軸在摘要中未明載，請以媒體原文為準。另註：本群組另混入南韓「神顏阿兵哥」在雞龍軍文化節跳舞爆紅的獨立事件，與秘婚新聞無關，僅因主題重疊被歸入同組。"
+      "en": "知名YouTuber「見習網美小吳」經營團隊長達9年，上月25日拋出震撼彈，大動作在社群平台發文宣告解散公司；同一時間，時報周刊CTWANT讀者也在捷運中和新蘆線巧遇小吳的夥伴聖元，隻身搭車的他神情相當平靜，似乎早已坦然接受團隊的決定。 《詳全文...》 What happened\n娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT - LINE TODAY. 知名YouTuber「見習網美小吳」經營團隊長達9年，上月25日拋出震撼彈，大動作在社群平台發文宣告解散公司；同一時間，時報周刊CTWANT讀者也在捷運中和新蘆線巧遇小吳的夥伴聖元，隻身搭車的他神情相當平靜，似乎早已坦然接受團隊的決定。 《詳全文...》 娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT LINE TODAY Why it matters\nThis cluster was assembled from 3 feed item(s) across 2 outlet(s) (ETtoday 影劇, Google News TW 娛樂) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"小吳解散9年公司「聖元獨自現蹤捷運」！全程0偽裝…被拍真實反應\" (ETtoday 影劇); \"娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT - LINE TODAY\" (Google News TW 娛樂); \"娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 - Yahoo新聞\" (Google News TW 娛樂).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): ETtoday 影劇, Google News TW 娛樂 Additional feed context\n(1) 知名YouTuber「見習網美小吳」經營團隊長達9年，上月25日拋出震撼彈，大動作在社群平台發文宣告解散公司；同一時間，時報周刊CTWANT讀者也在捷運中和新蘆線巧遇小吳的夥伴聖元，隻身搭車的他神情相當平靜，似乎早已坦然接受團隊的決定。 《詳全文...》\n(2) 娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT LINE TODAY",
+      "zh-TW": "知名YouTuber「見習網美小吳」經營團隊長達9年，上月25日拋出震撼彈，大動作在社群平台發文宣告解散公司；同一時間，時報周刊CTWANT讀者也在捷運中和新蘆線巧遇小吳的夥伴聖元，隻身搭車的他神情相當平靜，似乎早已坦然接受團隊的決定。 《詳全文...》 What happened\n娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT - LINE TODAY. 知名YouTuber「見習網美小吳」經營團隊長達9年，上月25日拋出震撼彈，大動作在社群平台發文宣告解散公司；同一時間，時報周刊CTWANT讀者也在捷運中和新蘆線巧遇小吳的夥伴聖元，隻身搭車的他神情相當平靜，似乎早已坦然接受團隊的決定。 《詳全文...》 娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT LINE TODAY Why it matters\nThis cluster was assembled from 3 feed item(s) across 2 outlet(s) (ETtoday 影劇, Google News TW 娛樂) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"小吳解散9年公司「聖元獨自現蹤捷運」！全程0偽裝…被拍真實反應\" (ETtoday 影劇); \"娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT - LINE TODAY\" (Google News TW 娛樂); \"娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 - Yahoo新聞\" (Google News TW 娛樂).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): ETtoday 影劇, Google News TW 娛樂 Additional feed context\n(1) 知名YouTuber「見習網美小吳」經營團隊長達9年，上月25日拋出震撼彈，大動作在社群平台發文宣告解散公司；同一時間，時報周刊CTWANT讀者也在捷運中和新蘆線巧遇小吳的夥伴聖元，隻身搭車的他神情相當平靜，似乎早已坦然接受團隊的決定。 《詳全文...》\n(2) 娛樂報報／小吳解散9年公司！聖元捷運被捕獲神情全被拍 | CTWANT LINE TODAY"
     },
     "sources": [
       {
         "name": "ETtoday 影劇",
-        "url": "https://star.ettoday.net/news/3248612"
+        "url": "https://star.ettoday.net/news/3249077"
       },
       {
-        "name": "Google News TW Entertainment",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CZ3dqVVFKVUVzYXhGaVNZall0a29uV1Y1SlloTF9pTmxGa1ZDR3VPQzlqbE5oM1lISFJxNkdHMy11WE4tcHJyUEJLSTJscG9KaVc2WTRtX2dvVkRN0gFiQVVfeXFMTmlmRG1raENMLURWQ3lUSVlsNDFCY01EM3JCa0V6ZlFnSjQtNVcybi1lb1FoV2VoT2QyUXJLVXg0eUlfZzY1dUpxaXdyVl9TQUNDTDhfbWw1UmNqR3dsaVJqalE?oc=5"
+        "name": "Google News TW 娛樂",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nWGZjeW1zVTAtRmpuczhaLU5CRTEtek1wejRaeUJIQkJCSUdQOVZjVGNoVkxWVFNzVXNXV0J0dWxSLWpZNkVCMy1IMDhYRE1DOWxhYWV3?oc=5"
       },
       {
-        "name": "setn.com",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wXzJXcW5nS2I4c0cwY2I3OHdhakJOVjR2R29XZGdpbS1oX0ZCNFNxaXNrUjl5Qmp6eFBFWDFzdWt0aVJLT0xKcEd30gFfQVVfeXFMTUVtb0t0Y1hyaGJXbXZyc3YxOHBjQ0lKQ3BBNHpFNDMtLXR0bVhkZ0lHcnJfN2UtNU9jb0ZyM0hpbHdoMndPZjN4Zl9sdGd0T2dCWXJ6Wmg2ZmVqNGtzY00?oc=5"
+        "name": "Google News TW 娛樂",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNR251ZFJoY25NTXIydnJwWjcyLS1KQi0zdzFsZ0dwOTJjM3N1Vm5kSWFteEVsRDdFYWNtTmxvV3NPd3Q1RXVqaVdIV2tWN0hoSGRQbHIyZUdmUkJMSzRPNFdqV3pRWFFLdHFpTDI0VktqNk9FZzNpWHNNN1lBWjhyTUMtN1J1Uy1qT3p2UHJQNU1XcEdHVUUtMlJJSF96OS01eU9VbXFuYTlCbFNzRGw4UnUwY3hYVU15dG40Y2ZzZWVSek91RkxHZDJmLWFiRnVPLUtEbnItTmhSa2NFelRyLUVPQkNneWVwa1NCYUZjNGVsdVZIWklwTi1nX25xUnFnNWN2dE1kelhUZ1ZhSjg4d3NINjA3bGdRRl9TamwzbXBaM3hhZHR5VV9FSDNWT2F1WnRPdm8ySGNCZEZGazh4U093R3k3ZEdXeUxnR0diNWtiSUJuUkRnRVFoV2xiZ3hZQWdESExxTlBRMTA?oc=5"
       }
     ],
     "disagreements": null,
-    "trustScore": 82,
+    "trustScore": 84,
     "trustBreakdown": {
       "sourceDiversity": 24,
-      "outletReputation": 11,
+      "outletReputation": 13,
       "crossCorroboration": 22,
       "recencyClarity": 25
     },
@@ -235,39 +120,39 @@
       "live-ingest",
       "region:tw",
       "ettoday-影劇",
-      "google-news-tw-entertainment",
-      "gnews-site:setn-分手/婚"
+      "google-news-tw-娛樂",
+      "google-news-tw-娛樂"
     ],
     "region": "tw"
   },
   {
-    "id": "live-entertainment-01-phil-collins-says-he-kis",
+    "id": "live-entertainment-01-paul-mccartney-reveals-w",
     "category": "entertainment",
     "adult": false,
-    "isHeadline": false,
+    "isHeadline": true,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-01-phil-collins-says-he-kis.jpg",
+    "imageUrl": "/covers/live/live-entertainment-01-paul-mccartney-reveals-w.jpg",
     "imageAlt": {
-      "en": "Cover related to: Phil Collins Says He 'Kissed and Made Up' With Paul McCartney After Decades-Old Snub",
-      "zh-TW": "相關封面圖：菲爾·柯林斯（Phil Collins）稱已與保羅·麥卡尼（Paul McCartney）和解　數十年前求簽名遭冷落"
+      "en": "Cover related to: Paul McCartney Reveals Why He Performed at Taylor Swift’s Wedding: ‘She Asked Me to Do It’",
+      "zh-TW": "相關封面圖：保羅麥卡尼透露為什麼他在泰勒絲的婚禮上表演：“她要求我這麼做”"
     },
-    "publishedAt": "2026-10-03T23:55:36.000Z",
+    "publishedAt": "2026-10-04T21:00:07.000Z",
     "title": {
-      "en": "Phil Collins Says He 'Kissed and Made Up' With Paul McCartney After Decades-Old Snub",
-      "zh-TW": "菲爾·柯林斯（Phil Collins）稱已與保羅·麥卡尼（Paul McCartney）和解　數十年前求簽名遭冷落"
+      "en": "Paul McCartney Reveals Why He Performed at Taylor Swift’s Wedding: ‘She Asked Me to Do It’",
+      "zh-TW": "保羅麥卡尼透露為什麼他在泰勒絲的婚禮上表演：“她要求我這麼做”"
     },
     "summary": {
-      "en": "Phil Collins says he has \"kissed and made up\" with Paul McCartney, decades after feeling slighted when McCartney brushed off his 2002 request to sign a book. Billboard and Rolling Stone both carry the reconciliation; McCartney has not publicly commented in these snippets.",
-      "zh-TW": "菲爾·柯林斯（Phil Collins）表示，已與保羅·麥卡尼（Paul McCartney）和解。2002 年他請麥卡尼簽書遭冷落，多年來耿耿於懷。Billboard 與滾石（Rolling Stone）均報導此事；摘要中未見麥卡尼回應。"
+      "en": "Taylor Swift ’s The Life of a Showgirl returns to No. 1 on the Billboard 200 albums chart for a 13th nonconsecutive week on top, as the set vaults 21-1 on the Oct. 10-dated chart after it was reissued with four previo…",
+      "zh-TW": "泰勒絲 (Taylor Swift) 的《歌舞女郎的一生》(The Life of a Showgirl) 重返 Billboard 200 專輯榜第一名，連續第 13 週位居榜首，該專輯在 10 月 10 日的排行榜上以 21 比 1 的成績躍升，此前該專輯與之前的四張專輯重新發行…"
     },
     "body": {
-      "en": "What happened\nPhil Collins says he and Paul McCartney have \"kissed and made up.\" The Genesis drummer says he felt slighted by the Beatle back in 2002 after asking him to sign a book — a small slight that apparently lingered for over two decades. Collins is now characterizing the hatchet as buried.\nWhy it matters\nIt is a minor story with an outsized charm: two British rock institutions, one decades-old bruised ego, and a reconciliation delivered in Collins's characteristically blunt phrasing. It also arrives as McCartney dominates music headlines for a separate reason — his surprise performance of \"I Want to Hold Your Hand\" at Taylor Swift and Travis Kelce's wedding, which both Billboard and Rolling Stone have been covering in parallel.\nSources agree / disagree\nBillboard and Rolling Stone agree on the reconciliation and its origin in the 2002 book-signing slight. Neither reports a fresh comment from McCartney himself.\nStill uncertain\nOnly Collins's account is on the record in these summaries; McCartney's version of the 2002 encounter — and of the makeup — hasn't surfaced.",
-      "zh-TW": "發生了什麼事\n菲爾·柯林斯（Phil Collins）表示，他與保羅·麥卡尼（Paul McCartney）已經「和好」。這位創世紀樂團（Genesis）鼓手說，2002 年他請麥卡尼簽書卻遭冷落，這點小事一記就是二十多年。如今他用一貫直率的口吻宣布心結已解。\n為什麼重要\n這是則小事，卻頗有味道：兩位英國搖滾傳奇、一段二十多年的心結、一次直白的和解。同時麥卡尼正因另一件事佔據音樂版面——在泰勒絲（Taylor Swift）與特拉維斯·凱爾斯（Travis Kelce）婚禮上驚喜演唱《I Want to Hold Your Hand》，Billboard 與滾石都在同步追蹤。\n來源異同\n兩家媒體對和解事實與 2002 年簽書起因說法一致；摘要中均未見麥卡尼本人的最新回應。\n仍不確定\n目前只有柯林斯單方面的說法，麥卡尼對當年那次會面、以及對這次和解的版本尚未曝光。"
+      "en": "Taylor Swift ’s The Life of a Showgirl returns to No. 1 on the Billboard 200 albums chart for a 13th nonconsecutive week on top, as the set vaults 21-1 on the Oct. 10-dated chart after it was reissued with four previously unreleased songs on Sept. 25. The album debuted atop the c What happened\nPaul McCartney Reveals Why He Performed at Taylor Swift’s Wedding: ‘She Asked Me to Do It’. Taylor Swift ’s The Life of a Showgirl returns to No. 1 on the Billboard 200 albums chart for a 13th nonconsecutive week on top, as the set vaults 21-1 on the Oct. 10-dated chart after it was reissued with four previously unreleased songs on Sept. 25. The album debuted atop the chart dated Oct. 18, 2025, and notched its last week at No. 1 on the Jan. 10, 2026-dated ranking. On Sept. 25, Swift drop Beatles legend also talks about banning Larry David from his concerts after he refused to sing along to \"Hey Jude\" on Jimmy Kimmel Live Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (Billboard, Rolling Stone Music) in the entertainment category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Taylor Swift’s ‘The Life of a Showgirl’ Returns to No. 1 After ‘Encore’ Reissue\" (Billboard); \"Paul McCartney Reveals Why He Performed at Taylor Swift’s Wedding: ‘She Asked Me to Do It’\" (Rolling Stone Music).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Billboard, Rolling Stone Music",
+      "zh-TW": "泰勒絲 (Taylor Swift) 的《歌舞女郎的生活》(The Life of a Showgirl) 重返 Billboard 200 專輯榜第一名，連續第 13 週位居榜首，該專輯在 9 月 25 日重新發行了四首之前未發行的歌曲後，在 10 月 10 日的排行榜上以 21 比居 1 的成績榜首。 發生了什麼事\n保羅麥卡尼透露了他為什麼在泰勒絲的婚禮上表演：「她要求我這麼做」。泰勒絲的《The Life of a Showgirl》在 9 月 25 日重新發行了四首未發行的歌曲後，在 10 月 10 日的排行榜上以 21 比 1 的成績躍升為 Billboard 200 專輯榜第一名，連續第 13 週位居榜首。這張專輯於 2025 年 10 月 18 日首次登頂排行榜，並在上週排名第一。在截至 2026 年 1 月 10 日的排名中排名第一。 9 月 25 日，披頭四傳奇人物斯威夫特也談到了禁止拉里大衛參加他的音樂會，因為他拒絕在吉米金梅爾現場演唱“嘿裘德” 為什麼這很重要\n此集群由娛樂類別中 2 個頻道（公告牌、滾石音樂）的 2 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「泰勒絲的《歌舞女郎的一生》在『安可』重新發行後重回第一」（《告示牌》）；「保羅麥卡尼透露了他為什麼在泰勒絲的婚禮上表演：『她要求我這麼做』」（滾石音樂）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限頻道名稱）：公告牌、滾石音樂"
     },
     "sources": [
       {
         "name": "Billboard",
-        "url": "https://www.billboard.com/music/pop/paul-mccartney-taylor-swift-wedding-song-performance-1236353877/"
+        "url": "https://www.billboard.com/music/chart-beat/taylor-swift-life-of-a-showgirl-no-1-encore-1236353941/"
       },
       {
         "name": "Rolling Stone Music",
@@ -286,33 +171,81 @@
       "entertainment",
       "live-ingest",
       "billboard",
-      "rolling-stone-music",
       "rolling-stone-music"
     ]
   },
   {
-    "id": "live-tech-02-trump-s-crazy-ai-rebrand",
+    "id": "live-finance-01-trump-reiterates-pledge-",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-01-trump-reiterates-pledge-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+      "zh-TW": "相關封面圖：川普重申，隨著中期選舉的臨近，將寄出 5,000 美元支票，並發放少量款項"
+    },
+    "publishedAt": "2026-10-04T20:28:47.000Z",
+    "title": {
+      "en": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+      "zh-TW": "川普重申，隨著中期選舉的臨近，將寄出 5,000 美元支票，並發放少量款項"
+    },
+    "summary": {
+      "en": "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress.",
+      "zh-TW": "川普正在推動兩項已經啟動的聯邦支付計劃，同時重申以共和黨保住國會為條件的 5,000 美元股息承諾。"
+    },
+    "body": {
+      "en": "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress. What happened\nTrump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom. Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress. Unemployment rose slightly as American employers paused hiring with midterm elections just a month away. Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (CNBC, BBC Business) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom\" (CNBC); \"US jobs market sees sharp slowdown ahead of midterm elections\" (BBC Business).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): CNBC, BBC Business",
+      "zh-TW": "川普正在推動兩項已經啟動的聯邦支付計劃，同時重申以共和黨保住國會為條件的 5,000 美元股息承諾。 發生了什麼事\n川普重申，隨著中期選舉的臨近，將寄出 5,000 美元支票，並發放少量款項。川普正在推動兩項已經啟動的聯邦支付計劃，同時重申以共和黨保住國會為條件的 5,000 美元股息承諾。由於美國雇主在距離中期選舉僅一個月之際暫停招聘，失業率略有上升。 為什麼這很重要\n此集群由金融類別中 2 個管道（CNBC、BBC Business）的 2 個 Feed 項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「隨著中期選舉的臨近，川普重申承諾寄出 5,000 美元支票，並發放少量款項」（CNBC）；「中期選舉前美國就業市場急劇放緩」（BBC Business）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：CNBC、BBC Business"
+    },
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html"
+      },
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 71,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 15,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "cnbc",
+      "bbc-business"
+    ]
+  },
+  {
+    "id": "live-tech-01-trump-s-crazy-ai-rebrand",
     "category": "tech",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-tech-02-trump-s-crazy-ai-rebrand.jpg",
+    "imageUrl": "/covers/live/live-tech-01-trump-s-crazy-ai-rebrand.jpg",
     "imageAlt": {
-      "en": "Cover related to: Trump Pushes 'Super Intelligence' as New Name for AI; Tech Execs Fall in Line",
-      "zh-TW": "相關封面圖：川普要把 AI 改叫「超級智慧」（Super Intelligence）　科技巨頭乖乖跟進"
+      "en": "Cover related to: Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+      "zh-TW": "相關封面圖：川普瘋狂的人工智慧品牌重塑是對科技主管的忠誠度測試——而且確實有效"
     },
     "publishedAt": "2026-10-02T15:00:00.000Z",
     "title": {
-      "en": "Trump Pushes 'Super Intelligence' as New Name for AI; Tech Execs Fall in Line",
-      "zh-TW": "川普要把 AI 改叫「超級智慧」（Super Intelligence）　科技巨頭乖乖跟進"
+      "en": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+      "zh-TW": "川普瘋狂的人工智慧品牌重塑是對科技主管的忠誠度測試——而且確實有效"
     },
     "summary": {
-      "en": "President Trump wants \"AI\" rebranded as \"super intelligence\" — \"SI\" — and tech executives are going along with it, in what Wired frames as a loyalty test that worked. The BBC notes an \"unprecedented\" rush for Slovenian .si domains as a side effect.",
-      "zh-TW": "川普總統希望把 AI 改稱為「超級智慧」（Super Intelligence，縮寫 SI），科技巨頭們紛紛照辦，Wired 將此解讀為一場成功的忠誠度測試。BBC 則注意到斯洛維尼亞 .si 網域出現「前所未有」的搶註潮。"
+      "en": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "zh-TW": "總統希望人工智慧被稱為超級智慧（SI），與斯洛維尼亞網域使用的縮寫相同。"
     },
     "body": {
-      "en": "What happened\nPresident Trump has decided the term \"AI\" should go, replaced by \"super intelligence\" — SI for short. For years, tech billionaires gushed obsessively about AI; when Trump canceled the term, they meekly went along. Wired frames the episode as a loyalty test for tech executives — and says it worked. An unexpected side effect, per BBC Technology: \"unprecedented\" demand for Slovenian website names, since Slovenia's country domain is .si.\nWhy it matters\nThe substance of AI policy matters more than its branding, but the compliance on display is the story: an entire industry's leadership class adopting a president's preferred vocabulary overnight says something about the current power dynamic between Washington and Silicon Valley.\nSources agree / disagree\nWired and the BBC agree on the rebrand push and the industry's acquiescence; they simply cover different angles — Wired the politics of obedience, the BBC the absurdist domain-name fallout.\nStill uncertain\nWhether \"super intelligence\" sticks as official usage — in executive orders, agency guidance, or industry marketing — remains to be seen. Feed summaries don't show any formal directive yet.",
-      "zh-TW": "發生了什麼事\n川普總統決定棄用 AI 一詞，改稱「超級智慧」（Super Intelligence，縮寫 SI）。多年來對 AI 滔滔不絕的科技億萬富翁們，在川普下令改名後乖乖照辦。Wired 將此解讀為對科技高管的一場忠誠度測試——而且測試成功了。BBC 則報導了一個意外的副作用：斯洛維尼亞網域 .si 出現「前所未有」的搶註需求。\n為什麼重要\nAI 政策的實質比名稱重要，但這次展現的順從本身就是新聞：整個科技業領導層一夜之間採用總統欽定的詞彙，說明了當前華府與矽谷之間的權力關係。\n來源異同\nWired 與 BBC 對改名施壓與業界順從的事實說法一致，只是角度不同：Wired 談政治服從，BBC 談網域搶註的荒謬後續。\n仍不確定\n「超級智慧」是否會成為正式用法——出現在行政命令、部會指引或業界行銷中，目前未知；摘要中尚未見到正式指令。"
+      "en": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains. What happened\nTrump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked. The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains. For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term. Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (BBC Technology, Wired AI) in the tech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names\" (BBC Technology); \"Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked\" (Wired AI).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC Technology, Wired AI",
+      "zh-TW": "總統希望人工智慧被稱為超級智慧（SI），與斯洛維尼亞網域使用的縮寫相同。 發生了什麼事\n川普瘋狂的人工智慧品牌重塑是對科技高層的忠誠度測試——而且它奏效了。總統希望人工智慧被稱為超級智慧（SI），與斯洛維尼亞網域使用的縮寫相同。多年來，這些億萬富翁對人工智慧滔滔不絕。但當川普取消這個任期時，他們卻乖乖地同意了。 為什麼這很重要\n此集群由科技類別中 2 個管道（BBC Technology、Wired AI）的 2 個 Feed 項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「川普的人工智慧品牌重塑導致對斯洛維尼亞網站名稱的『前所未有』的需求」（BBC Technology）；「川普瘋狂的人工智慧品牌重塑是對技術高管的忠誠度測試——而且它奏效了」（連線人工智慧）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC Technology、Wired AI"
     },
     "sources": [
       {
@@ -340,50 +273,6 @@
     ]
   },
   {
-    "id": "live-finance-01-the-american-dream-remai",
-    "category": "finance",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-finance-01-the-american-dream-remai.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Salinas, Steinbeck's Hometown, Is America's Least Affordable City for the Middle Class",
-      "zh-TW": "相關封面圖：史坦貝克故鄉薩利納斯（Salinas）　全美中產最買不起房的城市"
-    },
-    "publishedAt": "2026-10-03T09:00:54.000Z",
-    "title": {
-      "en": "Salinas, Steinbeck's Hometown, Is America's Least Affordable City for the Middle Class",
-      "zh-TW": "史坦貝克故鄉薩利納斯（Salinas）　全美中產最買不起房的城市"
-    },
-    "summary": {
-      "en": "A Brookings Institution analysis finds Salinas, California — John Steinbeck's hometown in the \"salad bowl of the world\" — is the least affordable US city for the middle class. The Guardian is the sole outlet in this cluster so far.",
-      "zh-TW": "布魯金斯學會（Brookings Institution）分析指出，加州薩利納斯（Salinas）——約翰·史坦貝克（John Steinbeck）的故鄉、「世界沙拉碗」——是全美中產階級最負擔不起的城市。目前僅《衛報》一家報導。"
-    },
-    "body": {
-      "en": "What happened\nNestled between two mountain ranges in central California sits the Salinas Valley, the \"salad bowl of the world,\" where farm workers harvest more than half of the nation's produce. It is also, according to a recent Brookings Institution analysis, the least affordable city in America for the middle class — the hometown of John Steinbeck, who set \"East of Eden\" in this same valley, now priced out of reach for the very class his novels chronicled.\nWhy it matters\nThe finding is a neat, bleak symmetry: the valley that fed the nation and inspired its literature is where the American dream now looks thinnest. Affordability crises are usually framed as coastal-city problems; Salinas shows the math is breaking in agricultural America too.\nSources agree / disagree\nSingle-source story: only The Guardian Business is carrying it in this feed set, so the Brookings figures are uncorroborated here.\nStill uncertain\nThe analysis itself isn't excerpted in the feed summary — the methodology, time frame, and how \"middle class\" is defined would need the full report.",
-      "zh-TW": "發生了什麼事\n加州中部兩座山脈之間，是「世界沙拉碗」薩利納斯谷地，農工在這裡收成全美過半的農產品。但根據布魯金斯學會（Brookings Institution）最新分析，這裡也是全美中產階級最負擔不起的城市——約翰·史坦貝克（John Steinbeck）的故鄉、《伊甸園之東》的故事舞台，如今連他筆下那個階級都住不起了。\n為什麼重要\n這是個工整而黯淡的對照：養活全美、啟發文學的谷地，正是美國夢看起來最稀薄的地方。可負擔危機常被框定為沿海大城市的問題，薩利納斯說明農業美國的帳也算不過來了。\n來源異同\n單一來源：目前只有《衛報》商業版報導，布魯金斯的數據在此尚無其他佐證。\n仍不確定\n摘要未節錄分析原文，方法論、時間範圍與「中產階級」的定義需見完整報告。"
-    },
-    "sources": [
-      {
-        "name": "The Guardian Business",
-        "url": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 60,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 21,
-      "crossCorroboration": 8,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "finance",
-      "live-ingest",
-      "the-guardian-business"
-    ]
-  },
-  {
     "id": "live-ai-01-documenting-the-tech-wor",
     "category": "ai",
     "adult": false,
@@ -391,21 +280,21 @@
     "isPopular": false,
     "imageUrl": "/covers/live/live-ai-01-documenting-the-tech-wor.jpg",
     "imageAlt": {
-      "en": "Cover related to: Documenting the Tech Worker Movement, From the Dot-Com Crash On",
-      "zh-TW": "相關封面圖：記錄科技勞工運動　從網路泡沫到今日"
+      "en": "Cover related to: Documenting the tech worker movement",
+      "zh-TW": "相關封面圖：記錄科技工人運動"
     },
     "publishedAt": "2026-10-02T17:00:00.000Z",
     "title": {
-      "en": "Documenting the Tech Worker Movement, From the Dot-Com Crash On",
-      "zh-TW": "記錄科技勞工運動　從網路泡沫到今日"
+      "en": "Documenting the tech worker movement",
+      "zh-TW": "記錄科技工人運動"
     },
     "summary": {
-      "en": "An MIT News piece traces the tech worker movement from the 2000 dot-com crash — when tech remained a magnet career — through the industry's rise as a dominant labor-market force. Single-source; details are thin in the feed summary.",
-      "zh-TW": "MIT News 一篇文章回顧科技勞工運動：2000 年網路泡沫後，科技業仍是具吸引力的職涯選擇，並逐漸成為勞動市場的主導力量。單一來源，摘要資訊有限。"
+      "en": "Despite the “dot-com crash” in 2000, the tech industry remained an attractive career destination for many who believed technology represented the future. The digital age — defined by global connectivity and computers …",
+      "zh-TW": "儘管 2000 年發生了“網路泡沫”，但對於許多相信科技代表未來的人來說，科技業仍然是一個有吸引力的職業目的地。數位時代——由全球連接和電腦定義…"
     },
     "body": {
-      "en": "What happened\nDespite the 2000 dot-com crash, the tech industry stayed an attractive career destination for those who believed technology was the future. Over time, as the digital age took hold, tech emerged as a dominant force in the labor market — high-paying jobs for engineers, designers, and professionals — and with that dominance came an organized worker movement now being documented.\nWhy it matters\nTech's labor story is usually told through founders and valuations; a movement history shifts the lens to the workers. But with only a feed summary to go on, this card is a pointer to the MIT piece rather than a digest of it.\nSources agree / disagree\nSingle source (MIT News AI). Nothing to corroborate against yet.\nStill uncertain\nThe summary is truncated mid-thought; the actual arguments, interviews, and scope of the documentation project need the full article.",
-      "zh-TW": "發生了什麼事\n儘管經歷 2000 年網路泡沫，科技業對相信科技即未來的人來說仍是具吸引力的職涯選擇。隨著數位時代成形，科技業成為勞動市場的主導力量——工程師、設計師與各類專業人員的高薪工作——隨之而來的便是有組織的勞工運動，而這正是這篇紀錄的對象。\n為什麼重要\n科技業的勞工故事通常圍繞創辦人與估值打轉，一部運動史把鏡頭轉向勞工。但目前只有摘要可看，這張卡片比較像指向 MIT 原文的索引，而非完整消化。\n來源異同\n單一來源（MIT News），尚無可比對的報導。\n仍不確定\n摘要在中途截斷，紀錄計畫的實際論點、訪談對象與範圍需見全文。"
+      "en": "Despite the “dot-com crash” in 2000, the tech industry remained an attractive career destination for many who believed technology represented the future. The digital age — defined by global connectivity and computers — had firmly taken hold, and over time, the tech industry emerg What happened\nDocumenting the tech worker movement. Despite the “dot-com crash” in 2000, the tech industry remained an attractive career destination for many who believed technology represented the future. The digital age — defined by global connectivity and computers — had firmly taken hold, and over time, the tech industry emerged as a dominant force in the labor market. High-paying jobs for engineers, designers, and professionals across a wide r Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (MIT News AI) in the ai category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): MIT News AI",
+      "zh-TW": "儘管 2000 年發生了“網路泡沫”，但對於許多相信科技代表未來的人來說，科技業仍然是一個有吸引力的職業目的地。由全球連結性和電腦定義的數位時代已經牢牢紮根，隨著時間的推移，科技產業不斷湧現 發生了什麼事\n記錄科技工人運動。儘管 2000 年發生了“網路泡沫”，但對於許多相信科技代表未來的人來說，科技業仍然是一個有吸引力的職業目的地。由全球互聯和電腦定義的數位時代已經牢牢紮根，隨著時間的推移，科技業成為勞動市場的主導力量。為各行各業的工程師、設計師和專業人士提供高薪工作 為什麼這很重要\n此集群由人工智慧類別中 1 個管道（麻省理工學院新聞人工智慧）的 1 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：MIT News AI"
     },
     "sources": [
       {
@@ -435,21 +324,21 @@
     "isPopular": false,
     "imageUrl": "/covers/live/live-ai-02-computational-tools-for-.jpg",
     "imageAlt": {
-      "en": "Cover related to: Cathy Wu's Computational Tools Tackle Society's Most Complex Challenges",
-      "zh-TW": "相關封面圖：凱西·吳（Cathy Wu）以運算工具應對社會最複雜的難題"
+      "en": "Cover related to: Computational tools for society’s most complex challenges",
+      "zh-TW": "相關封面圖：因應社會最複雜挑戰的運算工具"
     },
     "publishedAt": "2026-10-02T19:30:00.000Z",
     "title": {
-      "en": "Cathy Wu's Computational Tools Tackle Society's Most Complex Challenges",
-      "zh-TW": "凱西·吳（Cathy Wu）以運算工具應對社會最複雜的難題"
+      "en": "Computational tools for society’s most complex challenges",
+      "zh-TW": "因應社會最複雜挑戰的運算工具"
     },
     "summary": {
-      "en": "MIT profiles Cathy Wu ('12, MNG '13), whose parents were Taiwanese immigrants, and her work building computational tools for society's toughest problems — a path shaped by a budget-tight childhood. Single-source.",
-      "zh-TW": "MIT 專訪凱西·吳（Cathy Wu，2012 年畢業），父母為台灣移民。她致力以運算工具解決社會難題，成長於拮据的家庭環境。單一來源。"
+      "en": "As far back as she can remember, Cathy Wu ’12, MNG ’13 wanted to find ways to solve problems to improve people’s lives. Her parents were Taiwanese immigrants, and her father had a long commute to his job, which took h…",
+      "zh-TW": "從她記事起，Cathy Wu '12、MNG '13 就想找到解決問題的方法，以改善人們的生活。她的父母是台灣移民，她的父親上班的路程很長，這需要她…"
     },
     "body": {
-      "en": "What happened\nAs far back as she can remember, Cathy Wu wanted to find ways to solve problems that improve people's lives. The MIT News profile ('12, MNG '13) traces that drive to a budget-tight childhood as the daughter of Taiwanese immigrants — a father with a long commute, a family that stayed home on a street too busy for outdoor play — and follows it into her current work: computational tools aimed at society's most complex challenges.\nWhy it matters\nIt's a researcher profile more than a news event, but the throughline is a familiar and durable one: constrained beginnings producing problem-solvers oriented toward public problems rather than private returns.\nSources agree / disagree\nSingle source (MIT News AI).\nStill uncertain\nThe feed summary cuts off before detailing what the tools actually are or which challenges they target; the full profile has the substance.",
-      "zh-TW": "發生了什麼事\n凱西·吳（Cathy Wu）自記事起就想找到改善人們生活的方法。MIT 的人物專訪（2012 年畢業、MNG 2013）把這份動力追溯到她拮据的童年：身為台灣移民之女，父親通勤路途遙遠，一家人在車水馬龍、不適合戶外玩耍的街道上省吃儉用；如今她的工作是打造運算工具，應對社會最複雜的難題。\n為什麼重要\n這是人物特寫而非突發新聞，但主線清晰而恆久：受限的起點，養出面向公共問題而非私人回報的問題解決者。\n來源異同\n單一來源（MIT News）。\n仍不確定\n摘要在關鍵處截斷，這些工具究竟是什麼、針對哪些難題，須見專訪全文。"
+      "en": "As far back as she can remember, Cathy Wu ’12, MNG ’13 wanted to find ways to solve problems to improve people’s lives. Her parents were Taiwanese immigrants, and her father had a long commute to his job, which took him away from the family. On a tight budget, the rest of the fam What happened\nComputational tools for society’s most complex challenges. As far back as she can remember, Cathy Wu ’12, MNG ’13 wanted to find ways to solve problems to improve people’s lives. Her parents were Taiwanese immigrants, and her father had a long commute to his job, which took him away from the family. On a tight budget, the rest of the family often stayed home on a street that was too busy for playing outdoors. Wu and her siblings ended up playing a lot of Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (MIT News AI) in the ai category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): MIT News AI",
+      "zh-TW": "從她記事起，Cathy Wu '12、MNG '13 就想找到解決問題的方法，以改善人們的生活。她的父母是台灣移民，她的父親上班的路程很長，這讓他遠離了家人。在預算緊張的情況下，家庭的其他成員 發生了什麼事\n應對社會最複雜挑戰的計算工具。從她記事起，Cathy Wu '12、MNG '13 就想找到解決問題的方法，以改善人們的生活。她的父母是台灣移民，她的父親上班的路程很長，這讓他遠離了家人。由於預算緊張，家裡的其他人經常待在家裡，街上太繁忙，無法在戶外玩耍。吳和她的兄弟姐妹最後玩了很多 為什麼這很重要\n此集群由人工智慧類別中 1 個管道（麻省理工學院新聞人工智慧）的 1 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：MIT News AI"
     },
     "sources": [
       {
@@ -472,23 +361,23 @@
     ]
   },
   {
-    "id": "live-eastAsiaGossip-03-newtalk",
+    "id": "live-eastAsiaGossip-05-newtalk",
     "category": "eastAsiaGossip",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "publishedAt": "2026-10-02T02:30:40.000Z",
+    "publishedAt": "2026-10-02T00:28:44.000Z",
     "title": {
-      "en": "YouTuber 錫蘭 Crashes 唐綺陽's Livestream, Flips Middle Finger Over 'Baseless' Horoscopes",
-      "zh-TW": "錫蘭直播嗆唐綺陽「比中指、罵瞎掰」惹議　唐綺陽冷回：不隨之起舞"
+      "en": "(影)錫蘭踢館國師直播「飆髒話、比中指」惹議！唐綺陽冷回：不隨之起舞 | Newtalk",
+      "zh-TW": "(影)錫蘭踢館國師直播「飆髒話、比中指」惹議！唐綺陽冷回：不隨之起舞 | Newtalk"
     },
     "summary": {
-      "en": "YouTuber 錫蘭 crashed astrologer 唐綺陽's livestream, flipping the middle finger and shouting \"shut up,\" accusing horoscopes of having no data. 唐綺陽 coolly declined to engage. The clash drew 24 items of coverage and split Taiwan's internet into camps.",
-      "zh-TW": "網紅錫蘭亂入占星師唐綺陽直播，比中指、嗆「Shut up」，批星座沒數據。唐綺陽冷回「不隨之起舞」。事件引爆 24 篇相關報導，網路論戰選邊站。"
+      "en": "唐綺陽遭錫蘭直播開嗆比中指！律師霸氣護航：天上掉下來的屎不用接 stars.udn.com",
+      "zh-TW": "唐綺陽遭錫蘭直播開嗆比中指！律師霸氣護航：天上掉下來的屎不用接 stars.udn.com"
     },
     "body": {
-      "en": "What happened\nTaiwanese YouTuber 錫蘭 stormed astrologer 唐綺陽's livestream, flipping the middle finger on camera and shouting \"shut up,\" demanding she look at his PPT and accusing astrology of being made-up nonsense with no data behind it. Clips of the ambush spread fast. 唐綺陽, the celebrity \"國師\" (national astrologer), responded coolly: she won't \"dance along\" (不隨之起舞). Coverage also resurfaced her backstory: she once gave up a six-figure monthly salary to switch to astrology. One lawyer chimed in with a memorable defense: there's no need to catch \"shit falling from the sky.\"\nWhy it matters\nIt's the latest flare-up in Taiwan's running internet war over astrology's legitimacy, and the volume — 24 items across outlets from Newtalk to Yahoo News to 民視 — shows how reliably the 錫蘭-vs-國師 genre drives engagement. The \"which side are you on\" framing has already taken over comment sections.\nSources agree / disagree\nOutlets agree on the core sequence: the crash, the middle finger, the \"shut up,\" 唐綺陽's cool response. They differ only in color — some lead with the vulgarity, others with the PPT stunt or the lawyer's scatological defense.\nStill uncertain\nWhether 錫蘭 faces any platform or legal consequences for the stunt isn't covered in these summaries; that's the open thread.",
-      "zh-TW": "發生了什麼事\n網紅錫蘭突襲占星師唐綺陽的直播，對著鏡頭比中指、狂嗆「Shut up」，要她「看我 PPT」，批星座是沒數據的瞎掰。比中指、嗆聲的畫面迅速擴散。被封為「國師」的唐綺陽冷靜回應：不隨之起舞。報導也翻出她的背景：當年放棄六位數月薪轉行做占星。一名律師更以金句護航：天上掉下來的屎不用接。\n為什麼重要\n這是台灣網路上「星座到底有沒有根據」論戰的最新一章。24 篇相關報導、從 Newtalk 到 Yahoo 新聞到民視財經網的覆蓋量，說明「錫蘭槓國師」這個題型有多吸流量；「你挺哪一方」的選邊站已經洗版留言區。\n來源異同\n各家對核心經過說法一致：亂入、比中指、嗆聲、唐綺陽冷回。差別只在調味——有的主打粗口畫面，有的寫 PPT 橋段，有的收錄律師金句。\n仍不確定\n錫蘭此舉是否面臨平台處分或法律後果，摘要中未提及，是後續觀察點。"
+      "en": "唐綺陽遭錫蘭直播開嗆比中指！律師霸氣護航：天上掉下來的屎不用接 stars.udn.com What happened\n(影)錫蘭踢館國師直播「飆髒話、比中指」惹議！唐綺陽冷回：不隨之起舞 | Newtalk. 唐綺陽遭錫蘭直播開嗆比中指！律師霸氣護航：天上掉下來的屎不用接 stars.udn.com 精準命中！唐綺陽才預告「禍從天上來」就遭錫蘭直播比中指狠嗆 本人回應了 | 太報 LINE TODAY 唐綺陽遭錫蘭直播開嗆比中指！昔放棄6位數月薪轉戰占星 心路歷程曝光 ETtoday星光雲 隔空開撕唐綺陽！錫蘭直播「比中指、嗆Shut up」畫面曝光…全網看傻：太沒水準 民視財經網 Why it matters\nThis cluster was assembled from 19 feed item(s) across 2 outlet(s) (GNews TW heat:錫蘭直播開嗆, GNews TW heat:網路論戰你挺) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"錫蘭直播開嗆唐綺陽！怒比中指狂喊「看我PPT」 轟星座沒數據\" (GNews TW heat:錫蘭直播開嗆); \"唐綺陽遭錫蘭直播開嗆比中指！律師霸氣護航：天上掉下來的屎不用接\" (GNews TW heat:錫蘭直播開嗆); \"精準命中！唐綺陽才預告「禍從天上來」就遭錫蘭直播比中指狠嗆 本人回應了 | 太報\" (GNews TW heat:錫蘭直播開嗆); \"錫蘭直播「隔空挑釁唐綺陽」比中指！狂嗆她瞎掰、閉嘴\" (GNews TW heat:錫蘭直播開嗆); \"錫蘭直播對唐綺陽比中指！從心靈課程到質疑九粒，網紅「開嗆方式」再掀爭議\" (GNews TW heat:錫蘭直播開嗆).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews TW heat:錫蘭直播開嗆, GNews TW heat:網路論戰你挺 Additional feed context\n(1) 唐綺陽遭錫蘭直播開嗆比中指！律師霸氣護航：天上掉下來的屎不用接 stars.udn.com\n(2) 精準命中！唐綺陽才預告「禍從天上來」就遭錫蘭直播比中指狠嗆 本人回應了 | 太報 LINE TODAY\n(3) 唐綺陽遭錫蘭直播開嗆比中指！昔放棄6位數月薪轉戰占星 心路歷程曝光 ETtoday星光雲\n(4) 隔空開撕唐綺陽！錫蘭直播「比中指、嗆Shut up」畫面曝光…全網看傻：太沒水準 民視財經網\n(5) 錫蘭亂入唐綺陽直播比中指嗆「真能夠瞎扯」 瘋狂跳針吼：唐陽雞看我PPT Yahoo新聞\n(6) 混血網紅直播狂嗆比中指 律師力挺唐綺陽：天上掉下來的屎不用接 | 鏡週刊 LINE TODAY",
+      "zh-TW": "唐綺陽遭錫蘭直播開嗆比中指！律師霸氣護航：天上掉下來的屎不用接 stars.udn.com What happened\n(影)錫蘭踢館國師直播「飆髒話、比中指」惹議！唐綺陽冷回：不隨之起舞 | Newtalk. 唐綺陽遭錫蘭直播開嗆比中指！律師霸氣護航：天上掉下來的屎不用接 stars.udn.com 精準命中！唐綺陽才預告「禍從天上來」就遭錫蘭直播比中指狠嗆 本人回應了 | 太報 LINE TODAY 唐綺陽遭錫蘭直播開嗆比中指！昔放棄6位數月薪轉戰占星 心路歷程曝光 ETtoday星光雲 隔空開撕唐綺陽！錫蘭直播「比中指、嗆Shut up」畫面曝光…全網看傻：太沒水準 民視財經網 Why it matters\nThis cluster was assembled from 19 feed item(s) across 2 outlet(s) (GNews TW heat:錫蘭直播開嗆, GNews TW heat:網路論戰你挺) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"錫蘭直播開嗆唐綺陽！怒比中指狂喊「看我PPT」 轟星座沒數據\" (GNews TW heat:錫蘭直播開嗆); \"唐綺陽遭錫蘭直播開嗆比中指！律師霸氣護航：天上掉下來的屎不用接\" (GNews TW heat:錫蘭直播開嗆); \"精準命中！唐綺陽才預告「禍從天上來」就遭錫蘭直播比中指狠嗆 本人回應了 | 太報\" (GNews TW heat:錫蘭直播開嗆); \"錫蘭直播「隔空挑釁唐綺陽」比中指！狂嗆她瞎掰、閉嘴\" (GNews TW heat:錫蘭直播開嗆); \"錫蘭直播對唐綺陽比中指！從心靈課程到質疑九粒，網紅「開嗆方式」再掀爭議\" (GNews TW heat:錫蘭直播開嗆).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews TW heat:錫蘭直播開嗆, GNews TW heat:網路論戰你挺 Additional feed context\n(1) 唐綺陽遭錫蘭直播開嗆比中指！律師霸氣護航：天上掉下來的屎不用接 stars.udn.com\n(2) 精準命中！唐綺陽才預告「禍從天上來」就遭錫蘭直播比中指狠嗆 本人回應了 | 太報 LINE TODAY\n(3) 唐綺陽遭錫蘭直播開嗆比中指！昔放棄6位數月薪轉戰占星 心路歷程曝光 ETtoday星光雲\n(4) 隔空開撕唐綺陽！錫蘭直播「比中指、嗆Shut up」畫面曝光…全網看傻：太沒水準 民視財經網\n(5) 錫蘭亂入唐綺陽直播比中指嗆「真能夠瞎扯」 瘋狂跳針吼：唐陽雞看我PPT Yahoo新聞\n(6) 混血網紅直播狂嗆比中指 律師力挺唐綺陽：天上掉下來的屎不用接 | 鏡週刊 LINE TODAY"
     },
     "sources": [
       {
@@ -496,8 +385,12 @@
         "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMGFLcHM3VGdpbG5oQXQ0UjB6TEVURkgyTHRydWRydmRPSHFjVl9STGdUeDlDZXJxR1JJNmhod0lGR2p0cXI4SDl2NGdWTUNRZEpUTVh3azl6azlkUGNod1FBUlppTlhnX195clYzQmRPQmZiTkNMakliQjhUZnNLeGd1TnM4amE1T2ZpaUtPRGNmMGUtZjVXYlplZVdVQ2RGbUE4eFhQRUwzWS1MU1pFOUVNV3BVa3R3TnBtZDJfMGVhNnFIOTN3N001R1FvbjlvNjQ5NW9sWlVueTc4STJwNlAyVWZPbHYzUlpoYmlXZWQtTnAtcllHRTRSdDRmcHdxNndBU1pWeW9aSlBheElNbHZZbVJvN0t2SGNqa21wWERvQUphWGE4U2lyRmNHTXBpRjZUV040WUdyNnFkU2dlMlVBaXd2Y2wzdTkzcGFISllUVUEtLWxVbXdGZU1JOVpmankwQVhydVIwcnNYa1N3?oc=5"
       },
       {
+        "name": "udn.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EV09ZWFhQckw1RVh4YU1YZHpzLVgyRXFOV3lJcXlOZ19FTV90cm9lWldScXFja0c2eVhfelFYVTh5NWlyOHZYdFltR1hDTmVqaG9kZXQ0LTBGZw?oc=5"
+      },
+      {
         "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16YTNQQzhtQTN5MjdWbjZWeDBWcXY0NWE3WU5GU1dZdThNMUo3Skd0UExSbllFNUVsSzB1MFBqTVRoZEdrTWsyVms0RzI3VXV2aGc?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UU19NOE5rR0F6TG56akswbXMxM2UxMGZtS0xMRy1rZVJqMjZfc2dYeFRWUFljNjJVeE83WVlCTFQ0MjhWeEJlMzRwVjJxckpzZHBWSUVB?oc=5"
       },
       {
         "name": "壹蘋新聞網",
@@ -508,56 +401,37 @@
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6VWs3aU9RakMtam9MYmJoRFM4T0EyOFVqUmJadW1Iby0xdnBsVUl3RE43WUEycGVDOWczbFhRNEFvcXVGVHQ3MA?oc=5"
       },
       {
-        "name": "噓！星聞",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRMTlKNFJlb0RQZWp3Mkw2N2RqZGF0V1o5SnY2NWxzZVJTUmJPTTJsMWpyWF9vR0pSWkZiLWFJQWw0Mm1YZ0JSM3UzOXNBM19BZ3RHUnN0bHZZcHg3UDlV0gFfQVVfeXFMUFExOUo0UmVvRFBlancyTDY3ZGpkYXRXWjlKdjY1bHNlUlNSYk9NMmwxanJYX29HSlJaRmItYUlBbDQybVhnQlIzdTM5c0EzX0FndEdSc3RsdllweDdQOVU?oc=5"
+        "name": "ettoday.net",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13aVFwRmxGNDJvUEIxTGROS0hnRllVUVlRcExOT2FTRUd5QkoxUzFFQUkwUW5iSFNiUWJIdmNPLWVzdnpMZ2NQV2NXa2ZsUdIBTEFVX3lxTFBnSWFMRU9GSTF2X3BKeU85TWRtYjlJTkJMZklMYll5UEZtMEd2YzFWSHF5ZlBJYWpoaHRhNjdwalVlaGo4WHhqaFJ5Rjk?oc=5"
       },
       {
         "name": "鏡報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfaGlBWkNYck8xQzJQeWN2Wk8tZXMwdXdjMC1XQ0kzT2M3SFg1czNSdzBKSEFXTWdfX1Q1WUJYdnZDUXMxbjd0MVM1SlVMRHc5aGc?oc=5"
       },
       {
-        "name": "ettoday.net",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13aVFwRmxGNDJvUEIxTGROS0hnRllVUVlRcExOT2FTRUd5QkoxUzFFQUkwUW5iSFNiUWJIdmNPLWVzdnpMZ2NQV2NXa2ZsUdIBTEFVX3lxTFBnSWFMRU9GSTF2X3BKeU85TWRtYjlJTkJMZklMYll5UEZtMEd2YzFWSHF5ZlBJYWpoaHRhNjdwalVlaGo4WHhqaFJ5Rjk?oc=5"
-      },
-      {
         "name": "民視財經網",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oVDBSMVVCRUpPRFpfMWpqalhQbkNDUktfM0ZnNnhmdXBOV0VTTEMyWWJJODhzbUhPNUR5ZzdNYlRVZDZpbHhnbU9wNU9nUU02dDB1MFV0Y2dWVnBoemo0QUpLbXhTQQ?oc=5"
+      },
+      {
+        "name": "mirrormedia.mg",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TUHNTcHNubkVhSVlIbURpcFlrcjU3Q0NycERzYUExbnlvQmM3M3QyYXo3R1l0eVNKQ3NBXzdkSXE3TGlnc1U0S09kUHg1cEZyTXN3d3ZR?oc=5"
       },
       {
         "name": "newtalk.tw",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUcElJODRsUWVkVXZYYURUQXpva3FsMHBNUXViWHdheWhLcDJ3Q3V5bXhoNUJsazd5dTRuajh2M0tFczBORFAwN21QR0JxTzRvZDR5MHh3?oc=5"
       },
       {
-        "name": "ltn.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tWTlTVXA2SWptRFhpOU5FNmpzaGREYjZXbFUwSTFvS3pqeWtTWmduX1FYU1JwNzlGSjlvTXlIZHBaWVRuLWw2YTNsS1NKdmc5RWhPNExB?oc=5"
-      },
-      {
         "name": "cts.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpVDItN1VrNlF0eTlvUDZzYnlEUmk1U1pmQTUyd3Y4dlYtNU9vQ0JRUXhickpGaTZEUUVMbXJBSlZTbVdoTlhkSmdXdFpHZ1ZIUWw5OHB3?oc=5"
-      },
-      {
-        "name": "udn.com",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3YloyTFhZTzEwalV3QkMycHFnMGNxWmd3cXk1YVEya2daNk16RUtlYTZZNWp2eFVSRmJyOG9HM2V1MGZBSms3OGp2VXNqNENH0gFWQVVfeXFMTzBMSUQzeVRoYlhUbF9DUk1mOEowTUgyTkVabzR6b05TaWRQUFNlWDdwYTUxLVNtMnFLQ2hqbVhLbnkwa2Y3T0hCWmZHWU5QcXo0WW15dnc?oc=5"
-      },
-      {
-        "name": "storm.mg",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OYjRORy1nbWpJZzA0dHVtUTlaMnN4eWZUWUIweW5jZGRxS2NLX3JIOENJak81di15cjBVS0hxQkVScFZEaW9RbWprNC1kWEty?oc=5"
-      },
-      {
-        "name": "mirrormedia.mg",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ERWVCem1PZHVGLUk5ZHRzNzB3Q1lFV21MWVhaZHhHcXdPNzlpZ0c5RmVLMHlQcjRRVzg0dlZhYXl2bzJBVFg5ekY0NnFhS0tocDZNS3ZJeV81cUXSAWBBVV95cUxNdTdDS3FjOVFkMmMtcVhkNWY2ZGZNZVdWTW5KUFo5MVJxNEpQS2JiZFFhM1dHTlNmaEliX0w1Mk5MdWZHVnIwNWlEczJPUDhTd0lyVnpvSHlXSWlBdS1Rbkk?oc=5"
       }
     ],
-    "disagreements": {
-      "en": "Figures differ across outlets (e.g. 6 vs 2 in headlines/snippets).",
-      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 6 比 2）。"
-    },
+    "disagreements": null,
     "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 25,
       "outletReputation": 11,
-      "crossCorroboration": 17,
-      "recencyClarity": 18
+      "crossCorroboration": 25,
+      "recencyClarity": 12
     },
     "tags": [
       "eastAsiaGossip",
@@ -570,37 +444,33 @@
     "region": "tw"
   },
   {
-    "id": "live-international-02-the-g7-will-release-100-",
-    "category": "international",
+    "id": "live-finance-02-g7-to-release-up-to-100m",
+    "category": "finance",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-international-02-the-g7-will-release-100-.jpg",
+    "imageUrl": "/covers/live/live-finance-02-g7-to-release-up-to-100m.jpg",
     "imageAlt": {
-      "en": "Cover related to: G7 to Release 100 Million Barrels of Diesel From Reserves After Trump Supply Threat",
-      "zh-TW": "相關封面圖：G7 將釋出 1 億桶柴油儲備　因應川普威脅切斷美國供應"
+      "en": "Cover related to: G7 to release up to 100m barrels of emergency oil and diesel reserves",
+      "zh-TW": "相關封面圖：G7將釋放多達1億桶緊急石油和柴油儲備"
     },
     "publishedAt": "2026-10-03T04:38:31.000Z",
     "title": {
-      "en": "G7 to Release 100 Million Barrels of Diesel From Reserves After Trump Supply Threat",
-      "zh-TW": "G7 將釋出 1 億桶柴油儲備　因應川普威脅切斷美國供應"
+      "en": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
+      "zh-TW": "G7將釋放多達1億桶緊急石油和柴油儲備"
     },
     "summary": {
-      "en": "After an emergency energy meeting spurred by Washington pressure, G7 nations will release 100 million barrels of diesel from reserves over four months to head off price spikes — following Donald Trump's threat to cut off US diesel supplies, per BBC, NPR and The Guardian.",
-      "zh-TW": "在華府施壓下召開能源緊急會議後，G7 決議 4 個月內釋出 1 億桶柴油儲備，以抑制油價飆漲。此前川普曾威脅切斷美國柴油供應。BBC、NPR、《衛報》說法一致。"
+      "en": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "zh-TW": "此次協調發布的目的是阻止價格進一步上漲並避免美國柴油出口禁令。"
     },
     "body": {
-      "en": "What happened\nG7 leaders have agreed to a coordinated release of 100 million barrels of diesel from emergency reserves over the next four months, aimed at heading off further price spikes and staving off a US diesel export ban. The decision followed an emergency energy meeting convened after increased pressure from Washington — and, crucially, after Donald Trump threatened to cut off American diesel supplies. French President Emmanuel Macron said ministers from the world's largest economies had agreed to release stocks.\nWhy it matters\nCoordinated reserve releases are the G7's bluntest short-term tool against energy price shocks; doing it preemptively, under explicit US pressure, signals how seriously governments are taking the current diesel tightness — and how directly Trump is now driving allied energy policy.\nSources agree / disagree\nBBC World, NPR World and The Guardian agree on the 100-million-barrel figure and the four-month window. Wording varies slightly on scope — some headlines say \"diesel,\" others \"oil and diesel\" — but no outlet disputes the core plan.\nStill uncertain\nThe release mechanics (which countries draw down how much, on what timetable) aren't in these summaries; watch for the official communiqué.",
-      "zh-TW": "發生了什麼事\nG7 領袖決議協調釋出 1 億桶柴油儲備，4 個月內分批釋出，以抑制油價進一步飆漲、避免美國祭出柴油出口禁令。決策來自一場能源緊急會議——起因是華府加壓，更關鍵的是川普（Donald Trump）威脅切斷美國柴油供應。法國總統馬克宏（Emmanuel Macron）表示，各大經濟體部長已同意釋出庫存。\n為什麼重要\n協調釋出儲備是 G7 應對能源價格衝擊最直接的短線工具；在美國明確施壓下搶先出手，顯示各國對當前柴油吃緊的重視程度，也顯示川普正直接牽動盟友的能源政策。\n來源異同\nBBC、NPR、《衛報》對 1 億桶數字與 4 個月期程說法一致；標題用詞略有出入（「柴油」vs「石油與柴油」），但無人質疑核心計畫。\n仍不確定\n各國分攤多少、何時釋出等執行細節不在摘要中，待官方公報。"
+      "en": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports. What happened\nG7 to release up to 100m barrels of emergency oil and diesel reserves. The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports. Leaders agree a coordinated drawdown after surge in prices and Donald Trump’s threat to cut off US supplies Leaders of G7 nations are to release up to 100m barrels of their emergency diesel and crude oil stockpiles after Donald Trump threatened to cut off supplies of US diesel. The French President, Emmanuel Macron, said ministers from some of world’s largest economies had agreed to release stocks Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (BBC Business, The Guardian Business) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"G7 to release millions of barrels of oil and diesel after Trump threat\" (BBC Business); \"G7 to release up to 100m barrels of emergency oil and diesel reserves\" (The Guardian Business).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC Business, The Guardian Business",
+      "zh-TW": "此次協調發布的目的是阻止價格進一步上漲並避免美國柴油出口禁令。 發生了什麼事\nG7將釋放最多1億桶緊急石油和柴油儲備。此次協調發布的目的是阻止價格進一步上漲並避免美國柴油出口禁令。領導人同意在價格飆升和唐納德·特朗普威脅切斷美國供應後協調削減在唐納德·特朗普威脅切斷美國柴油供應後，七國集團領導人將釋放多達1億桶的緊急柴油和原油庫存。法國總統馬克宏表示，世界一些最大經濟體的部長已同意釋放庫存 為什麼這很重要\n此集群由金融類別中 2 個管道（BBC Business、The Guardian Business）的 2 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「川普威脅後七國集團將釋放數百萬桶石油和柴油」（BBC Business）； 「七國集團將釋放多達 1 億桶緊急石油和柴油儲備」（《衛報商業》）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC Business、The Guardian Business"
     },
     "sources": [
       {
-        "name": "BBC World",
+        "name": "BBC Business",
         "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months"
       },
       {
         "name": "The Guardian Business",
@@ -610,215 +480,272 @@
     "disagreements": null,
     "trustScore": 55,
     "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 18,
-      "crossCorroboration": 22,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-world",
-      "npr-world",
-      "the-guardian-business"
-    ]
-  },
-  {
-    "id": "live-finance-02-trump-taps-director-of-n",
-    "category": "finance",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-finance-02-trump-taps-director-of-n.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Trump Taps Intelligence Director Jay Clayton as AI Czar, WSJ Reports",
-      "zh-TW": "相關封面圖：川普任命情報總監傑伊·克萊頓（Jay Clayton）為 AI 沙皇　華爾街日報報導"
-    },
-    "publishedAt": "2026-10-03T23:37:23.000Z",
-    "title": {
-      "en": "Trump Taps Intelligence Director Jay Clayton as AI Czar, WSJ Reports",
-      "zh-TW": "川普任命情報總監傑伊·克萊頓（Jay Clayton）為 AI 沙皇　華爾街日報報導"
-    },
-    "summary": {
-      "en": "The Wall Street Journal reports President Trump will tap Director of National Intelligence Jay Clayton to lead the administration's AI policy as its \"AI czar.\" CNBC is the sole outlet carrying the story in this feed set.",
-      "zh-TW": "《華爾街日報》報導，川普總統將任命國家情報總監傑伊·克萊頓（Jay Clayton）主掌政府 AI 政策，頭銜為「AI 沙皇」。目前僅 CNBC 一家跟進。"
-    },
-    "body": {
-      "en": "What happened\nPresident Trump is tapping Director of National Intelligence Jay Clayton to lead the administration's AI policy, with the \"AI czar\" mantle, The Wall Street Journal reported Saturday. Putting the intelligence chief in charge of AI policy folds the technology portfolio directly into the national security apparatus.\nWhy it matters\nThe pick signals that this White House views AI primarily through a security lens. A single-sourced Saturday report is thin, but the direction of travel — intelligence leadership over AI policy — is the takeaway until more outlets confirm.\nSources agree / disagree\nSingle-source: CNBC relaying the Journal's reporting. No independent corroboration in the feed set.\nStill uncertain\nThe scope of the role, its statutory footing, and whether Clayton keeps his intelligence post are all unreported in these snippets.",
-      "zh-TW": "發生了什麼事\n《華爾街日報》週六報導，川普總統將任命國家情報總監傑伊·克萊頓（Jay Clayton）主掌政府 AI 政策，掛「AI 沙皇」頭銜。由情報首長執掌 AI 政策，等於把科技政策直接併入國安體系。\n為什麼重要\n這項人事顯示白宮主要從國安視角看 AI。週六的單一來源報導雖薄，但方向很清楚——情報體系主導 AI 政策，後續待更多媒體證實。\n來源異同\n單一來源：CNBC 轉述《華爾街日報》，尚無獨立佐證。\n仍不確定\n職權範圍、法源依據、克萊頓是否兼任情報總監，摘要中均未提及。"
-    },
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 60,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 19,
-      "crossCorroboration": 8,
-      "recencyClarity": 25
+      "sourceDiversity": 16,
+      "outletReputation": 16,
+      "crossCorroboration": 15,
+      "recencyClarity": 18
     },
     "tags": [
       "finance",
       "live-ingest",
-      "cnbc"
+      "bbc-business",
+      "the-guardian-business"
     ]
   },
   {
-    "id": "live-international-03-man-shot-dead-at-london-",
+    "id": "live-international-01-brazil-elections-head-to",
     "category": "international",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-international-03-man-shot-dead-at-london-.jpg",
+    "imageUrl": "/covers/live/live-international-01-brazil-elections-head-to.jpg",
     "imageAlt": {
-      "en": "Cover related to: Man, 40, Shot Dead at West London Memorial Service in 'Senseless Act of Violence'",
-      "zh-TW": "相關封面圖：倫敦西部追悼會槍擊案　40 歲男子中彈身亡　警方啟動謀殺調查"
+      "en": "Cover related to: Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
+      "zh-TW": "相關封面圖：巴西大選將在盧拉和博索納羅之子之間進行決選"
     },
-    "publishedAt": "2026-10-03T22:04:08.000Z",
+    "publishedAt": "2026-10-05T01:22:42.000Z",
     "title": {
-      "en": "Man, 40, Shot Dead at West London Memorial Service in 'Senseless Act of Violence'",
-      "zh-TW": "倫敦西部追悼會槍擊案　40 歲男子中彈身亡　警方啟動謀殺調查"
+      "en": "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
+      "zh-TW": "巴西大選將在盧拉和博索納羅之子之間進行決選"
     },
     "summary": {
-      "en": "A 40-year-old man was shot dead at a memorial service in East Acton, west London, on Friday evening after multiple shots were heard. The Met Police have launched a murder investigation, calling it a \"senseless act of violence.\"",
-      "zh-TW": "週五晚間，倫敦西部伊令區（East Acton）一場追悼會上傳出多聲槍響，一名 40 歲男子中彈身亡。倫敦都會區警察局已啟動謀殺調查，稱為「毫無意義的暴力行為」。"
+      "en": "Now there are two: Brazil heads into a runoff after a first round that failed to fully energize voters, setting the stage for a more polarized contest that Washington is watching very closely. (Image credit: Mauro Pim…",
+      "zh-TW": "現在有兩個：巴西在第一輪未能充分激發選民活力後進入決選，為華盛頓密切關注的更加兩極分化的競爭奠定了基礎。 （圖片來源：毛羅‧皮姆…"
     },
     "body": {
-      "en": "What happened\nA 40-year-old man was shot dead as people gathered for a memorial service in East Acton, west London. Police were called at 7:47pm on Friday after multiple shots were heard; the victim was declared dead at the scene from a gunshot wound. The Metropolitan Police have launched a murder investigation.\nWhy it matters\nA shooting at a memorial — a gathering explicitly for mourning — is what earned the \"senseless\" label from police and the uniformly grim tone across UK outlets. London gun homicides remain rare enough that each one resets the public conversation about street violence.\nSources agree / disagree\nSky News UK, BBC UK and The Guardian agree on the essentials: the location (East Acton), the victim's age (40), the Friday 7:47pm call, death at the scene, and the murder investigation. No conflicts.\nStill uncertain\nNo suspect information and no motive appear in these summaries; the investigation is in its early hours.",
-      "zh-TW": "發生了什麼事\n週五晚間 7 點 47 分，倫敦西部伊令區（East Acton）一場追悼會現場傳出多聲槍響，一名 40 歲男子中彈，宣告當場死亡。倫敦都會區警察局已啟動謀殺案調查。\n為什麼重要\n在追悼會——一個為哀悼而聚的場合——開槍，正是警方口中「毫無意義」的由來，英國各媒體口徑一致地凝重。倫敦槍擊命案仍屬少見，每一起都會重啟社會對街頭暴力的討論。\n來源異同\n英國天空新聞、BBC、《衛報》對地點（伊令區）、死者年齡（40 歲）、報案時間（週五晚間 7:47）、當場死亡與謀殺調查均說法一致，無衝突。\n仍不確定\n摘要中未見嫌犯資訊與犯案動機，調查仍在初期。"
+      "en": "Now there are two: Brazil heads into a runoff after a first round that failed to fully energize voters, setting the stage for a more polarized contest that Washington is watching very closely. (Image credit: Mauro Pimentel, Sergio Lima) What happened\nBrazil Elections Head to Runoff Between Lula and Bolsonaro Son. Now there are two: Brazil heads into a runoff after a first round that failed to fully energize voters, setting the stage for a more polarized contest that Washington is watching very closely. (Image credit: Mauro Pimentel, Sergio Lima) Far-right challenger and son of disgraced ex-president Jair Bolsonaro will now face leftwing president in runoff vote Brazil’s presidential race will go to a second round after the far-right candidate, Flávio Bolsonaro, beat the incumbent leftwing president, Luiz Inácio Lula da Silva, but failed to secure the outright majority he needed to avoid a runoff. With more than 99% of votes counted, the 4 Neither President Luiz Inácio Lula da Silva nor his top challenger, Flávio Bolsonaro, won a majority of votes in the first round, and the race appeared very close. In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25. Why it matters\nThis cluster was assembled from 4 feed item(s) across 4 outlet(s) (NPR World, The Guardian World, NYT World, NPR News) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground\" (NPR World); \"Brazil’s presidential race goes to second round as Flávio Bolsonaro leads incumbent Lula\" (The Guardian World); \"Brazil Elections Head to Runoff Between Lula and Bolsonaro Son\" (NYT World); \"Brazil votes, with Lula facing Bolsonaro's son\" (NPR News).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): NPR World, The Guardian World, NYT World, NPR News",
+      "zh-TW": "現在有兩個：巴西在第一輪未能充分激發選民活力後進入決選，為華盛頓密切關注的更加兩極分化的競爭奠定了基礎。 （圖片來源：Mauro Pimentel、Sergio Lima） 發生了什麼事\n巴西選舉將在盧拉和博索納羅之子之間進行決選。現在有兩個：巴西在第一輪未能充分激發選民活力後進入決選，為華盛頓密切關注的更加兩極分化的競爭奠定了基礎。 （圖片來源：毛羅·皮門特爾、塞爾吉奧·利馬）極右翼挑戰者、失寵的前總統雅伊爾·博爾索納羅的兒子現在將在決選中面對左翼總統。極右翼候選人弗拉維奧·博爾索納羅擊敗了現任左翼總統路易斯·伊納西奧·盧拉·達席爾瓦，但未能獲得避免決選所需的絕對多數席位，巴西總統競選將進入第二輪。超過99%的選票已清點完畢，4號總統路易斯·伊納西奧·盧拉·達席爾瓦和他的頭號挑戰者弗拉維奧·博爾索納羅都沒有在第一輪中贏得多數選票，競選顯得十分膠著。在巴西，總統盧拉·達席爾瓦與被監禁的前總統弗拉維奧·博爾索納羅的兒子弗拉維奧·博爾索納羅展開了一場激烈的角逐。如果雙方都無法贏得過半數選票，他們將在 10 月 25 日再次對峙。 為什麼這很重要\n此集群由國際類別中 4 個媒體（NPR World、The Guardian World、NYT World、NPR News）的 4 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：“隨著右翼勢力的崛起，巴西總統競選將進入盧拉-博爾索納羅決選”（NPR World）；“巴西總統競選進入第二輪，弗拉維奧·博爾索納羅領先現任盧拉”（《衛報世界》）； “巴西選舉將在盧拉羅拉納羅和博爾索納羅之子之間進行決選”（巴西選舉日拉羅拉納羅的兒子R “R”。新聞）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：NPR World、The Guardian World、NYT World、NPR News"
     },
     "sources": [
       {
-        "name": "Sky News UK",
-        "url": "https://news.sky.com/story/man-shot-dead-in-senseless-act-of-violence-as-people-gathered-for-west-london-memorial-service-13594784"
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro"
       },
       {
-        "name": "BBC UK",
-        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss"
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
       },
       {
-        "name": "The Guardian UK News",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/03/met-launches-inquiry-after-man-shot-dead-at-london-memorial-service"
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 93,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 22,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "npr-world",
+      "the-guardian-world",
+      "nyt-world"
+    ]
+  },
+  {
+    "id": "live-tech-02-google-froze-its-open-so",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-02-google-froze-its-open-so.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "zh-TW": "相關封面圖：由於人工智慧提交量“顯著增加”，谷歌凍結了其開源漏洞賞金計劃"
+    },
+    "publishedAt": "2026-10-04T20:31:07.000Z",
+    "title": {
+      "en": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "zh-TW": "由於人工智慧提交量“顯著增加”，谷歌凍結了其開源漏洞賞金計劃"
+    },
+    "summary": {
+      "en": "AI slop seems to be overwhelming bug bounty programs.",
+      "zh-TW": "AI 溢出似乎壓倒了 bug 賞金計劃。"
+    },
+    "body": {
+      "en": "AI slop seems to be overwhelming bug bounty programs. What happened\nGoogle froze its open source bug bounty program due to a ‘significant rise’ in AI submissions. AI slop seems to be overwhelming bug bounty programs. Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (TechCrunch) in the tech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechCrunch Additional feed context\n(1) AI slop seems to be overwhelming bug bounty programs.",
+      "zh-TW": "AI 溢出似乎壓倒了 bug 賞金計劃。 發生了什麼事\n由於人工智慧提交量“顯著增加”，谷歌凍結了其開源漏洞賞金計劃。 AI 溢出似乎壓倒了 bug 賞金計劃。 為什麼這很重要\n此集群由科技類別中 1 個管道 (TechCrunch) 的 1 個 Feed 項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限頻道名稱）：TechCrunch 附加提要上下文\n(1) AI 溢位似乎壓倒了 bug 賞金計畫。"
+    },
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 59,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 18,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "tech",
+      "live-ingest",
+      "techcrunch"
+    ]
+  },
+  {
+    "id": "live-international-02-trump-announces-super-in",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-trump-announces-super-in.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Trump announces 'Super Intelligence Force' to oversee AI policy",
+      "zh-TW": "相關封面圖：川普宣佈設立「超級情報部隊」來監督人工智慧政策"
+    },
+    "publishedAt": "2026-10-05T01:33:08.000Z",
+    "title": {
+      "en": "Trump announces 'Super Intelligence Force' to oversee AI policy",
+      "zh-TW": "川普宣佈設立「超級情報部隊」來監督人工智慧政策"
+    },
+    "summary": {
+      "en": "The president named his national intelligence chief will head the taskforce as worries over the technology grow.",
+      "zh-TW": "隨著對這項技術的擔憂日益加劇，總統任命國家情報總監將領導該工作小組。"
+    },
+    "body": {
+      "en": "The president named his national intelligence chief will head the taskforce as worries over the technology grow. What happened\nTrump announces 'Super Intelligence Force' to oversee AI policy. The president named his national intelligence chief will head the taskforce as worries over the technology grow. This new task force is Trump's latest response to the debate over AI safety. Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence. (Image credit: Mariam Zuhaib) Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (BBC Business, TechCrunch, NPR News) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump announces 'Super Intelligence Force' to oversee AI policy\" (BBC Business); \"Trump unveils his new Super Intelligence Force\" (TechCrunch); \"Trump names national intelligence chief Jay Clayton as new AI czar\" (NPR News).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC Business, TechCrunch, NPR News",
+      "zh-TW": "隨著對這項技術的擔憂日益加劇，總統任命國家情報總監將領導該工作小組。 發生了什麼事\n川普宣佈設立「超級情報部隊」來監督人工智慧政策。隨著對這項技術的擔憂日益加劇，總統任命國家情報總監將領導該工作小組。這個新的工作小組是川普對人工智慧安全爭論的最新回應。川普表示，克萊頓將領導白宮新的“超級情報部隊”，該部隊將協調政府與人工智慧的互動。 （圖片來源：Mariam Zuhaib） 為什麼這很重要\n此集群由國際類別中 3 個媒體（BBC Business、TechCrunch、NPR News）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「川普宣布『超級情報力量』來監督人工智慧政策」（BBC Business）；「川普推出了他的新超級情報力量」（TechCrunch）；「川普任命國家情報總監傑伊·克萊頓為新的人工智慧沙皇」（NPR 新聞）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC Business、TechCrunch、NPR 新聞"
+    },
+    "sources": [
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+      },
+      {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 88,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 17,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-business",
+      "techcrunch",
+      "npr-news"
+    ]
+  },
+  {
+    "id": "live-entertainment-02-christa-pike-is-under-gu",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-02-christa-pike-is-under-gu.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Christa Pike Is Under Guard at Hospital, May Not Fully Recover After Failed Execution",
+      "zh-TW": "相關封面圖：克里斯塔·派克在醫院受到看守，處決失敗後可能無法完全康復"
+    },
+    "publishedAt": "2026-10-04T23:58:07.000Z",
+    "title": {
+      "en": "Christa Pike Is Under Guard at Hospital, May Not Fully Recover After Failed Execution",
+      "zh-TW": "克里斯塔·派克在醫院受到看守，處決失敗後可能無法完全康復"
+    },
+    "summary": {
+      "en": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+      "zh-TW": "派克的律師表示，醫生仍在嘗試從她體內清除兩劑致命劑量的戊巴比妥。"
+    },
+    "body": {
+      "en": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body. What happened\nChrista Pike Is Under Guard at Hospital, May Not Fully Recover After Failed Execution. Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body. An attorney representing Christa Pike has said that his client may never fully recover from her botched execution ... and claims that her hospital room is under guard as she remains on a ventilator. Stephen Ferrell revealed to Jake Tapper on CNN&hellip; Pike remains hospitalized days after surviving two execution injections. Here's what we know so far. Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (BBC World, TMZ, Hollywood Life) in the entertainment category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Christa Pike's prognosis still unclear after failed execution, lawyer says\" (BBC World); \"Christa Pike Is Under Guard at Hospital, May Not Fully Recover After Failed Execution\" (TMZ); \"Is Christa Pike Still Alive? How She Survived the Failed Execution\" (Hollywood Life).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC World, TMZ, Hollywood Life",
+      "zh-TW": "派克的律師表示，醫生仍在嘗試從她體內清除兩劑致命劑量的戊巴比妥。 發生了什麼事\n克里斯塔·派克在醫院受到看守，處決失敗後可能無法完全康復。派克的律師表示，醫生仍在嘗試從她體內清除兩劑致命劑量的戊巴比妥。克里斯塔·派克的代表律師表示，他的委託人可能永遠不會從她拙劣的處決中完全康復……並聲稱她的病房受到看守，因為她仍然需要呼吸機。史蒂芬費雷爾 (Stephen Ferrell) 在 CNN 上向傑克塔珀 (Jake Tapper) 透露…派克在兩次執行注射後倖存幾天后仍在醫院接受治療。這是迄今為止我們所知道的。 為什麼這很重要\n此集群由娛樂類別中 3 個頻道（BBC World、TMZ、Hollywood Life）的 3 個提要項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「律師聲稱，克里斯塔·派克在執行失敗後的預後仍不清楚」（BBC World）；「克里斯塔·派克在醫院受到看守，處決失敗後可能無法完全康復」（TMZ）；「克里斯塔·派克還活著嗎？她是如何在失敗的處決中倖存下來的」（好萊塢生活）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC World、TMZ、Hollywood Life"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "TMZ",
+        "url": "https://www.tmz.com/2026/10/04/christa-pike-may-not-fully-recover-after-botched-execution/"
+      },
+      {
+        "name": "Hollywood Life",
+        "url": "https://hollywoodlife.com/2026/10/04/is-christa-pike-still-alive/"
       }
     ],
     "disagreements": null,
     "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 24,
-      "outletReputation": 16,
+      "outletReputation": 11,
       "crossCorroboration": 22,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "sky-news-uk",
-      "bbc-uk",
-      "the-guardian-uk-news"
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-04-line-today",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "publishedAt": "2026-10-04T04:01:47.000Z",
-    "title": {
-      "en": "Nicholas Tse Once Punched His Nanny Van, Manager Mani Fok Reveals",
-      "zh-TW": "霍汶希爆謝霆鋒年少叛逆　一拳打凹保母車：他不是最扯的"
-    },
-    "summary": {
-      "en": "\"Gold-medal manager\" Mani Fok has been spilling artist stories — including that a young Nicholas Tse once punched his nanny van hard enough to dent it. Fok also named her \"most troublesome\" artist and described using company resources to force a return to school.",
-      "zh-TW": "「金牌經紀人」霍汶希大爆藝人內幕：年少叛逆的謝霆鋒曾一拳把保母車打凹。她還公開「最麻煩藝人」身分，自曝曾動用公司資源逼藝人返校。"
-    },
-    "body": {
-      "en": "What happened\nMani Fok (霍汶希), the veteran \"gold-medal manager,\" is telling tales from the industry — headlined by a young Nicholas Tse (謝霆鋒), who in a fit of youthful rebellion once punched his nanny van hard enough to dent it. Fok also publicly identified her \"most troublesome artist\" and described mobilizing company resources to force an artist back to school, adding of Tse: he's not even the worst of them.\nWhy it matters\nIt's nostalgia gossip with a long tail: Tse's bad-boy youth is foundational Hong Kong entertainment lore, and a first-hand account from the manager who lived it gives old stories new legs across LINE TODAY, Yahoo and Sing Tao coverage.\nSources agree / disagree\nThe Mirror/LINE TODAY, Yahoo News and Sing Tao versions agree on the van-punching anecdote and the \"most troublesome artist\" framing. No conflicts.\nStill uncertain\nThese are decades-old anecdotes retold for entertainment; treat the color as color, not as newly verified fact.",
-      "zh-TW": "發生了什麼事\n「金牌經紀人」霍汶希大爆業界內幕，主角是年少輕狂的謝霆鋒：他曾氣到一拳打在保母車上，硬生生打凹車身。霍汶希還公開點名「最麻煩藝人」，自曝曾動用公司資源逼藝人回去上學，並補上一句：謝霆鋒還不是最扯的那個。\n為什麼重要\n這是後勁很強的懷舊八卦：謝霆鋒的叛逆少年形象本就是香港娛樂圈的集體記憶，如今由親身經歷的經紀人親口認證，老故事在鏡報、Yahoo、星島的報導中又活了一輪。\n來源異同\n鏡報／LINE TODAY、Yahoo、星島對「打凹保母車」軼事與「最麻煩藝人」說法一致，無衝突。\n仍不確定\n這些都是幾十年前的軼事重提，聽個趣味就好，不必當新查證的事實。"
-    },
-    "sources": [
-      {
-        "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yWnA3Q21uTXkyMGlZY1hmWW1tMzNoazVKMVQ5Z1g0SzFhYlJNNmduOHIyYl9DREpxR3h3ZkdnN3dDRmZzUk12Nl9DS2dZMW5UTVZqcFpB?oc=5"
-      },
-      {
-        "name": "tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOd1h6cUtVTi1PZm43Mm1wV3lvZDJlTFBxRmplUkRGQUpucXlSbjFFX1VfNVFTcnlOaVNwWHJuSF8tdWQxZFhaVXJSMzU1UjJFYW9mNzBhOWJkOXRPRldKTEZBYzNTSHl2ek9wYXZfWTNYOV9mVTAtN0FDbmNka2JXNGNBRU9FLVcxY09MdC00aGlubHdXNFUyOXdSVi1STWhTbTFJLWZ2ZTlhWTNiOE1oS1F4VE9TV0pXSi0zVS0yQTJfWmlSZDFENTRMMkpCTEl0NjhuZElHaHctYXhxSHc5aF9HVHdMaDNlRHRNcU5PMUl3MUpxWXd1eVh5VHFUaVBiNy1sT1VVcVJFalNzdHZKd085Tk9XVFdZMXh3N1BKQlhTNHhXelNPcy1XcklLU1RLems3alE1VlpDVlMyUEZwVlY2MnhEMlZxeTBGVkw0ZktjbnVvcmhnWmNON1VHRjJTb01TUU9jMmlVYVU3LXQ1T0Z4N21WaDNUdW9JUUhNNHlhd19heWplay12OExHU1BvMkotWF9oY3BwUmEwZXRnRmw4U0laOUVNSUpRMlBSV0t6LTg0YXRIMnVELUxCZlA5VXpEcVpoOGhCeTNBQ094X2xCLUFscXc3VDJoOFoweXE4OVJK?oc=5"
-      },
-      {
-        "name": "singtao.ca",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNWm5GUHJDalhfSTM1ekM0a3ZxNHhSYlJJbU45TGUxLWdmR3BnQ2gxWkFPT0NnS1JhT2ZJTUVYWGZJU0hxTFpSS1U4LXRid0U4aVdXcGlkUnBCaW1wajJtQTdOdDNwVjA5a3VsTFdKT0V1cFVCai0tbXFydllsRnV0ZWpkZ3czN0tBR2lMY09lVzNuSkpyRnJiQkVRbkpLNmFGbnpCbVlPc21neUxZMlBkTVE5blV2OW5rRXk4R1k1YWxHdWxjUEFEdHdsNy1ldW5GblBKa1RqS1MzYW1PMjZYb0h2bmkxcVRBQ3FjVFRGQWlDMlF4Rlh4X1l3NWNfN01odHUxY3VvNFhoeFVLNUJiMGdVVWFKcjdaOHA1VWZGVE9jcWhHWXpFQW1MQm5YTUI4dExFUU5IMUo2NVBPcHFZYjNKVnFEeTVLREZ3RlJyWkwxNFM1NndseHdOMXFzTGRQRjE5UGZRZFl1Q1hzZE5FWEhMc1hEWHZsalRTMnJ1OHZZRnFWRWNqc29QQUU4WmJ6T0oxSlh6bm1hRV9IeExyejV4dndHR2lUTjRvSDkwQk1tT3BOcDJiY3puVVdVNV9qLUtKbnJXci1HM3BLREw1TE91U29DS0dQbjlQZG9OWWVuS2FVMW9oaHctR0dwY0xXRG05Vk1FNUNscS1JRGZ1Q1c3LUtoUdIBigFBVV95cUxPTmdtMUZvZ0xNcDEyR1E4a0YyT1JEN0FXaHc5NVBRRlpLN3FSdGNnUmcxUUNRYTRGZEotdjAwcDFmLVFEUnZVenh3UldfU0tjQzViZFFNdTNmUEZCLWR3WDNUS1dYVFZ0Z2tvbzVNYURlaVY4R3MxZWJaMDB0V2ExcHlIX2xURFVlbGc?oc=5"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 83,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 12,
-      "crossCorroboration": 22,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "eastAsiaGossip",
-      "live-ingest",
-      "region:tw",
-      "gnews-line-today-tw-娛樂",
-      "gnews-tw-heat:氣到一拳打凹",
-      "gnews-tw-heat:氣到一拳打凹"
-    ],
-    "region": "tw"
-  },
-  {
-    "id": "live-entertainment-02-aaron-sorkin-talks-tryin",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-02-aaron-sorkin-talks-tryin.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Aaron Sorkin Says Money Couldn't Lure Jesse Eisenberg Back for 'The Social Reckoning'",
-      "zh-TW": "相關封面圖：亞倫·索金（Aaron Sorkin）稱加錢也請不回傑西·艾森柏格（Jesse Eisenberg）演《社會清算》"
-    },
-    "publishedAt": "2026-10-04T01:51:11.000Z",
-    "title": {
-      "en": "Aaron Sorkin Says Money Couldn't Lure Jesse Eisenberg Back for 'The Social Reckoning'",
-      "zh-TW": "亞倫·索金（Aaron Sorkin）稱加錢也請不回傑西·艾森柏格（Jesse Eisenberg）演《社會清算》"
-    },
-    "summary": {
-      "en": "Aaron Sorkin says he tried to get Jesse Eisenberg to return as Mark Zuckerberg for \"The Social Reckoning,\" but more money didn't matter to the actor. Jeremy Strong plays the Meta CEO instead. Hollywood Life and Just Jared carry the story; both lean gossip.",
-      "zh-TW": "亞倫·索金（Aaron Sorkin）透露，曾力邀傑西·艾森柏格（Jesse Eisenberg）回歸《社會清算》再演祖克柏，但加錢也打動不了他，改由傑瑞米·史壯（Jeremy Strong）接演 Meta 執行長。消息來自 Hollywood Life 與 Just Jared，兩家皆偏八卦。"
-    },
-    "body": {
-      "en": "What happened\nFilmmaker Aaron Sorkin is opening up about Jesse Eisenberg not returning for \"The Social Reckoning,\" his follow-up to 2010's \"The Social Network.\" Eisenberg originated the role of Mark Zuckerberg, but opted not to return for the sequel; Jeremy Strong has taken his place as the Meta CEO. Sorkin says he tried to lure Eisenberg back — and that more money didn't matter to the actor.\nWhy it matters\nCasting drama is the entertainment press's lifeblood, and this one has a clean narrative hook: the defining Zuckerberg performance stays in the past while the franchise moves on with an acclaimed successor in Strong.\nSources agree / disagree\nHollywood Life and Just Jared agree on the facts above. Both are celebrity-gossip outlets, so treat the framing as soft; the underlying casting facts are consistent.\nStill uncertain\nEisenberg's own reasons, beyond \"money didn't matter,\" aren't detailed in these summaries — Sorkin's telling is the only one on record here.",
-      "zh-TW": "發生了什麼事\n導演亞倫·索金（Aaron Sorkin）鬆口談傑西·艾森柏格（Jesse Eisenberg）缺席《社會清算》——那是他 2010 年《社群網戰》的續作。艾森柏格當年飾演馬克·祖克柏（Mark Zuckerberg）一角成名，但選擇不回歸續集，改由傑瑞米·史壯（Jeremy Strong）飾演 Meta 執行長。索金說他試過加錢請人回來，但錢打動不了艾森柏格。\n為什麼重要\n選角風波是娛樂新聞的命脈，這一樁敘事乾淨：定義性的祖克柏演出留在過去，系列作由備受肯定的史壯接棒往前走。\n來源異同\nHollywood Life 與 Just Jared 對上述事實說法一致；兩家都偏八卦調性，敘事看看就好，選角事實本身一致。\n仍不確定\n除了「錢打動不了」，艾森柏格本人的理由在摘要中沒有細節；目前只有索金的版本。"
-    },
-    "sources": [
-      {
-        "name": "Hollywood Life",
-        "url": "https://hollywoodlife.com/feature/the-social-reckoning-movie-cast-5544055/"
-      },
-      {
-        "name": "Just Jared",
-        "url": "https://www.justjared.com/2026/10/03/aaron-sorkin-talks-trying-to-get-jesse-eisenberg-to-return-for-the-social-reckoning-says-more-money-didnt-matter-to-the-actor/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 45,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 12,
-      "crossCorroboration": 15,
       "recencyClarity": 25
     },
     "tags": [
       "entertainment",
       "live-ingest",
-      "hollywood-life",
-      "just-jared"
+      "bbc-world",
+      "tmz",
+      "hollywood-life"
+    ]
+  },
+  {
+    "id": "live-international-03-cornell-president-breaks",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-03-cornell-president-breaks.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Cornell president breaks silence: \"What happened to Jane Doe in 2024 is deeply disturbing\"",
+      "zh-TW": "相關封面圖：康乃爾大學校長打破沉默：“2024年發生在無名氏身上的事情令人深感不安”"
+    },
+    "publishedAt": "2026-10-05T00:57:11.000Z",
+    "title": {
+      "en": "Cornell president breaks silence: \"What happened to Jane Doe in 2024 is deeply disturbing\"",
+      "zh-TW": "康乃爾大學校長打破沉默：“2024年發生在無名氏身上的事情令人深感不安”"
+    },
+    "summary": {
+      "en": "Cornell University's president addressed the school's handling of the alleged gang rape of a junior at a fraternity house in 2024. Lilia Luciano reports from Ithaca, New York.",
+      "zh-TW": "康乃爾大學校長談到了學校對 2024 年兄弟會會所涉嫌輪姦一名大三學生的處理情況。莉莉亞·盧西亞諾 (Lilia Luciano) 從紐約州伊薩卡報道。"
+    },
+    "body": {
+      "en": "Cornell University's president addressed the school's handling of the alleged gang rape of a junior at a fraternity house in 2024. Lilia Luciano reports from Ithaca, New York. What happened\nCornell president breaks silence: \"What happened to Jane Doe in 2024 is deeply disturbing\". Cornell University's president addressed the school's handling of the alleged gang rape of a junior at a fraternity house in 2024. Lilia Luciano reports from Ithaca, New York. Lilia Luciano spoke to the attorney for Jane Doe, who says that campus police at Cornell University failed to properly investigate after she was allegedly raped at a fraternity house in 2024. Cornell president Michael I. Kotlikoff said his university \"must do better\" in a video statement. \"This is a defining moment in Cornell's history,\" he added. (Image credit: Matt Rourke) Why it matters\nThis cluster was assembled from 3 feed item(s) across 2 outlet(s) (CBS News Crime, NPR News) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Cornell president breaks silence: \"What happened to Jane Doe in 2024 is deeply disturbing\"\" (CBS News Crime); \"Jane Doe's attorney accuses Cornell of \"cover-up\" of alleged rape\" (CBS News Crime); \"Cornell president calls gang rape allegations 'deeply disturbing'\" (NPR News).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): CBS News Crime, NPR News",
+      "zh-TW": "康乃爾大學校長談到了學校對 2024 年兄弟會會所涉嫌輪姦一名大三學生的處理情況。莉莉亞·盧西亞諾 (Lilia Luciano) 從紐約州伊薩卡報道。 發生了什麼事\n康乃爾大學校長打破沉默：「2024 年發生在無名氏身上的事情令人深感不安」。康乃爾大學校長談到了學校對 2024 年兄弟會會所涉嫌輪姦一名大三學生的處理情況。莉莉亞·盧西亞諾 (Lilia Luciano) 從紐約州伊薩卡報道。莉莉婭·盧西亞諾 (Lilia Luciano) 與簡·多伊 (Jane Doe) 的律師進行了交談，後者表示，康奈爾大學校園警察在她據稱於 2024 年在兄弟會會所遭到強姦後未能進行適當調查。康乃爾大學校長 Michael I. Kotlikoff 在影片聲明中表示，他的大學「必須做得更好」。 「這是康乃爾大學歷史上的決定性時刻，」他補充道。 （圖片來源：馬特洛克） 為什麼這很重要\n此集群由國際類別中 2 個管道（CBS 犯罪新聞、NPR 新聞）的 3 個提要項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：“康奈爾大學校長打破沉默：“2024 年發生在無名氏身上的事情令人深感不安”（哥倫比亞廣播公司犯罪新聞）； “無名氏的律師指控康奈爾大學‘掩蓋’強姦指控”（哥倫比亞廣播公司犯罪新聞）； “康奈爾大學校長稱輪姦指控‘深感不安’”（NPR 新聞）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：CBS 犯罪新聞、NPR 新聞"
+    },
+    "sources": [
+      {
+        "name": "CBS News Crime",
+        "url": "https://www.cbsnews.com/video/cornell-president-breaks-silence-happened-jane-doe-2024-deeply-disturbing/"
+      },
+      {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 22,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "cbs-news-crime",
+      "cbs-news-crime",
+      "npr-news"
     ]
   }
 ]
