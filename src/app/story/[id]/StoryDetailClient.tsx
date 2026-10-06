@@ -7,10 +7,53 @@ import { TrustScoreBadge } from "@/components/TrustScoreBadge";
 import { TrustBreakdownPanel } from "@/components/TrustBreakdown";
 import { InteractionButtons } from "@/components/InteractionButtons";
 import { CATEGORY_LABELS } from "@/lib/stories";
+import type { ReactNode } from "react";
 import type { Story } from "@/lib/types";
+import type { Language } from "@/lib/types";
 import { assetUrl } from "@/lib/paths";
 import { useLanguage } from "@/hooks/useLanguage";
 import { usePersonalization } from "@/hooks/usePersonalization";
+
+// Section headings used by the digest body, per language. Rendered with
+// distinct styling so sections don't blur into one blob of text.
+const SECTION_HEADINGS: Record<Language, string[]> = {
+  "zh-TW": ["發生了什麼事", "為什麼重要", "來源異同", "仍不確定"],
+  en: ["What happened", "Why it matters", "Sources agree / disagree", "Still uncertain"],
+};
+
+function renderBodySections(body: string, lang: Language) {
+  const headings = new Set(SECTION_HEADINGS[lang]);
+  const nodes: ReactNode[] = [];
+  let key = 0;
+  let seenHeading = false;
+  for (const chunk of body.split(/\n\n+/)) {
+    for (const rawLine of chunk.split("\n")) {
+      const line = rawLine.trim();
+      if (!line) continue;
+      if (headings.has(line)) {
+        // Distinct section heading: bold + divider line above (except first).
+        nodes.push(
+          <h3
+            key={key++}
+            className={`mb-2 text-lg font-bold text-slate-900 ${
+              seenHeading ? "mt-7 border-t border-slate-200 pt-5" : ""
+            }`}
+          >
+            {line}
+          </h3>
+        );
+        seenHeading = true;
+      } else {
+        nodes.push(
+          <p key={key++} className="mb-4 leading-7 text-slate-800 sm:leading-8">
+            {line}
+          </p>
+        );
+      }
+    }
+  }
+  return nodes;
+}
 
 export default function StoryDetailClient({ story }: { story: Story }) {
   const { lang, setLang, ready: langReady } = useLanguage();
@@ -124,12 +167,8 @@ export default function StoryDetailClient({ story }: { story: Story }) {
           <h2 className="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-400">
             {lang === "zh-TW" ? "Axiom 消化文" : "Axiom digest"}
           </h2>
-          <div className="space-y-4 text-base leading-7 text-slate-800 sm:text-[17px] sm:leading-8">
-            {story.body[lang]
-              .split(/\n\n+/)
-              .map((para, i) => (
-              <p key={i}>{para}</p>
-            ))}
+          <div className="text-base text-slate-800 sm:text-[17px]">
+            {renderBodySections(story.body[lang], lang)}
           </div>
         </article>
 
