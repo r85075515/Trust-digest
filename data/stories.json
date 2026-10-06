@@ -1,22 +1,195 @@
 [
   {
-    "id": "live-eastAsiaGossip-01-24-4-line-today",
+    "id": "live-international-01-no-10-insists-raf-fairfo",
+    "category": "international",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-01-no-10-insists-raf-fairfo.jpg",
+    "imageAlt": {
+      "en": "Cover related to: No 10 insists RAF Fairford is safe after US withdraws its bombers from base",
+      "zh-TW": "相關封面圖：美國從基地撤出轟炸機後，第 10 號堅稱英國皇家空軍費爾福德是安全的"
+    },
+    "publishedAt": "2026-10-05T21:46:22.000Z",
+    "title": {
+      "en": "No 10 insists RAF Fairford is safe after US withdraws its bombers from base",
+      "zh-TW": "美國從基地撤出轟炸機後，第 10 號堅稱英國皇家空軍費爾福德是安全的"
+    },
+    "summary": {
+      "en": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "zh-TW": "五角大廈週日證實，已將 B1 轟炸機從英國基地運回美國基地。"
+    },
+    "body": {
+      "en": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America. What happened\nNo 10 insists RAF Fairford is safe after US withdraws its bombers from base. The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America. The US removed its bombers from RAF Fairford partly because of a reported threat of a possible Iranian drone attack against the base, American officials have said. A dozen B-1s stationed at Gloucestershire base redeployed over concerns about possible threat from Iran Ask our reporters your questions about the Iran war and the US midterms Downing Street has insisted RAF Fairford is secure a day after the US air force suddenly withdrew a dozen B-1 bombers from the Gloucestershire base over security concerns about a possible threat from Iran. The prime minister Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (BBC World, Sky News UK, The Guardian UK News) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump says 'threat' led US to pull bombers from RAF Fairford\" (BBC World); \"'Reported threat of possible Iranian drone attack' led US to remove bombers from RAF Fairford\" (Sky News UK); \"No 10 insists RAF Fairford is safe after US withdraws its bombers from base\" (The Guardian UK News).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC World, Sky News UK, The Guardian UK News",
+      "zh-TW": "五角大廈週日證實，已將 B1 轟炸機從英國基地運回美國基地。 發生了什麼事\n在美國從基地撤出轟炸機後，No 10 堅稱英國皇家空軍費爾福德是安全的。五角大廈週日證實，已將 B1 轟炸機從英國基地運回美國基地。美國官員表示，美國從英國皇家空軍費爾福德基地撤走轟炸機的部分原因是有通報伊朗無人機可能攻擊該基地。出於對伊朗可能威脅的擔憂，駐紮在格洛斯特郡基地的十幾架 B-1 轟炸機被重新部署。 向我們的記者提問有關伊朗戰爭和美國中期選舉的問題 唐寧街堅稱英國皇家空軍費爾福德空軍基地是安全的，一天前，美國空軍出於對伊朗可能威脅的安全擔憂，突然從格洛斯特郡基地撤回了十幾架 B-1 轟炸機。總理 為什麼這很重要\n此集群由國際類別中 3 個管道（BBC World、英國天空新聞、英國衛報新聞）的 3 個提要項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「川普稱『威脅』導緻美國從英國皇家空軍費爾福德撤出轟炸機」（BBC World）；「『據報道伊朗無人機可能發動襲擊的威脅』導緻美國從英國皇家空軍費爾福德基地撤走轟炸機」（英國天空新聞）； 「在美國從基地報出轟炸機後，第 10 號航空師那是英國皇家空軍費爾福德是安全的轟炸機」。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（限媒體名稱）：BBC World、英國天空新聞、英國衛報新聞"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Sky News UK",
+        "url": "https://news.sky.com/story/us-removes-all-air-force-bombers-from-raf-fairford-after-suspected-terror-plot-13595162"
+      },
+      {
+        "name": "The Guardian UK News",
+        "url": "https://www.theguardian.com/us-news/2026/oct/05/no-10-says-raf-fairford-safe-us-withdraws-bombers-from-base"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 87,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 16,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "sky-news-uk",
+      "the-guardian-uk-news"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-01-ebc-today-line-me",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "publishedAt": "2026-10-05T09:30:12.000Z",
+    "title": {
+      "en": "直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 | EBC 東森娛樂 - today.line.me",
+      "zh-TW": "直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 | EBC 東森娛樂 - today.line.me"
+    },
+    "summary": {
+      "en": "直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 東森電視 前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "zh-TW": "直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 東森電視 前往 Google 新聞瀏覽更多頭條新聞和觀點"
+    },
+    "body": {
+      "en": "直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 東森電視 前往 Google 新聞瀏覽更多頭條新聞和觀點 What happened\n直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 | EBC 東森娛樂 - today.line.me. 直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 東森電視 前往 Google 新聞瀏覽更多頭條新聞和觀點 直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 | EBC 東森娛樂 today.line.me 暴肥星二代曬愛170公斤男直播主 自揭昔拍AV「賺逾億圓」網怕爆 mirrormedia.mg 葉珂直播認了「生完寶寶」！ 自揭分手黃曉明內幕：他教會我很多 ETtoday星光雲| ETtoday新聞雲 Why it matters\nThis cluster was assembled from 7 feed item(s) across 3 outlet(s) (Google News TW Entertainment, GNews LINE TODAY TW 娛樂, GNews TW heat:直播自揭) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 - 東森電視\" (Google News TW Entertainment); \"直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 | EBC 東森娛樂 - today.line.me\" (GNews LINE TODAY TW 娛樂); \"暴肥星二代曬愛170公斤男直播主　自揭昔拍AV「賺逾億圓」網怕爆\" (GNews TW heat:直播自揭); \"井柏然遭疑「進廠維修」割雙眼皮！直播開砲自揭1慘況\" (GNews TW heat:直播自揭); \"葉珂直播認了「生完寶寶」！　自揭分手黃曉明內幕：他教會我很多\" (GNews TW heat:直播自揭).\nFigures differ across outlets (e.g. 170 vs 1 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Google News TW Entertainment, GNews LINE TODAY TW 娛樂, GNews TW heat:直播自揭 Additional feed context\n(1) 直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 東森電視 前往 Google 新聞瀏覽更多頭條新聞和觀點\n(2) 直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 | EBC 東森娛樂 today.line.me\n(3) 暴肥星二代曬愛170公斤男直播主 自揭昔拍AV「賺逾億圓」網怕爆 mirrormedia.mg\n(4) 葉珂直播認了「生完寶寶」！ 自揭分手黃曉明內幕：他教會我很多 ETtoday星光雲| ETtoday新聞雲\n(5) 《浪姐》人氣女星國中慘遭霸凌！拒告白遭群毆「被踹多次還裝沒事」 直播自揭創傷惹網心疼｜TTshow 台灣達人秀 台灣達人秀TTshow",
+      "zh-TW": "直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 東森電視 前往 Google 新聞瀏覽更多頭條新聞和觀點 What happened\n直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 | EBC 東森娛樂 - today.line.me. 直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 東森電視 前往 Google 新聞瀏覽更多頭條新聞和觀點 直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 | EBC 東森娛樂 today.line.me 暴肥星二代曬愛170公斤男直播主 自揭昔拍AV「賺逾億圓」網怕爆 mirrormedia.mg 葉珂直播認了「生完寶寶」！ 自揭分手黃曉明內幕：他教會我很多 ETtoday星光雲| ETtoday新聞雲 Why it matters\nThis cluster was assembled from 7 feed item(s) across 3 outlet(s) (Google News TW Entertainment, GNews LINE TODAY TW 娛樂, GNews TW heat:直播自揭) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 - 東森電視\" (Google News TW Entertainment); \"直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 | EBC 東森娛樂 - today.line.me\" (GNews LINE TODAY TW 娛樂); \"暴肥星二代曬愛170公斤男直播主　自揭昔拍AV「賺逾億圓」網怕爆\" (GNews TW heat:直播自揭); \"井柏然遭疑「進廠維修」割雙眼皮！直播開砲自揭1慘況\" (GNews TW heat:直播自揭); \"葉珂直播認了「生完寶寶」！　自揭分手黃曉明內幕：他教會我很多\" (GNews TW heat:直播自揭).\nFigures differ across outlets (e.g. 170 vs 1 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Google News TW Entertainment, GNews LINE TODAY TW 娛樂, GNews TW heat:直播自揭 Additional feed context\n(1) 直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 東森電視 前往 Google 新聞瀏覽更多頭條新聞和觀點\n(2) 直播自揭「祖籍雲南」遭炎上！八點檔男星直呼他們很可悲 | EBC 東森娛樂 today.line.me\n(3) 暴肥星二代曬愛170公斤男直播主 自揭昔拍AV「賺逾億圓」網怕爆 mirrormedia.mg\n(4) 葉珂直播認了「生完寶寶」！ 自揭分手黃曉明內幕：他教會我很多 ETtoday星光雲| ETtoday新聞雲\n(5) 《浪姐》人氣女星國中慘遭霸凌！拒告白遭群毆「被踹多次還裝沒事」 直播自揭創傷惹網心疼｜TTshow 台灣達人秀 台灣達人秀TTshow"
+    },
+    "sources": [
+      {
+        "name": "Google News TW Entertainment",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94WXVvdHR2SzNwVXFHYWZLUDJHUHVCOEFrbzRRN1FGTDhfSkltSUM3RHp4Mjl3R2g5cUdKVWtLNzRPbE9wWnQ4ZzFn?oc=5"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93SmdteEdWdWNsYmJ6a05iQzZINGZITVBrNXkxbGg2YTJ0MEJGRFUwdi1YN09HeEluWTFhdW1BQ3NhSldwc3FtckhIZ0Y3OXJybTVTRGxB?oc=5"
+      },
+      {
+        "name": "mirrormedia.mg",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tM3pIT1VTYmhTOWVUc3ljd25lUV96TFJjN0UxaE1pTWFjcHZaZms4bWt3ZmdacnFvZU00SXNqQjZVOXVxWkNNTWh2YTA2MEkxa0VnTzJMb1MxZlVBdm9mSENlbGpSQdIBa0FVX3lxTFBObFo0UDRPTm0wbkZNMVpoMGlJcjIzUUlUb0ZUelJnc19xZGR5TUJjNUlUQWZPWGJZN0JneFA2NlpBcGZJYy1HU1NEYVZIWjYwSmctaWVKTmQzckpfTTZ5NnpXSmlzX09TbmxB?oc=5"
+      },
+      {
+        "name": "ltn.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RLWdWazAxTkN5RWlDbXNKS2JXUm05SW9oQjRrdnppM0FKRGdaRXlOX19JUkRteVFOYmNXWkhkRFlmTzdwN0RWWmhGSWZwY1R5STlTejQ1ZWhtVWts0gFiQVVfeXFMTzlRSVdUY1pZUGlxekZEamNUNlVNNHl1dUxEbU00aWpLM2FxVFBteW94SkRJRWVELWl1T3BJR1F0Ynk2WF9SN0FPUncycnVsWUdrTnI3Q28xMlZFcGZFNkRGWlE?oc=5"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91X200MUlqalFiOURfZVJLQjBwLXlhMmJRVE1EVVByYXVhRzdMS0xUbTI3UGtZUWRSWU85dGo5WUx6cE83dTd0ZWpLOGkzUdIBTEFVX3lxTFA5X25KLXpkaXBsazZlQ25vUlphdHBkNnhNWmNIYVZfcnRmR0puZXdVR0h0VDJoTmo4STRET2wzNk9feDJlNHBZTU83Xzc?oc=5"
+      },
+      {
+        "name": "台灣達人秀ttshow",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80RGR3cDZrSFZCMTQ5ZlVEa09YVExJTG1nZ2FrcHVhYVYwTU1RUHluc3E0ckpZNDctZlMzM2ZFNHlTU05DVFBtdTVXbTc?oc=5"
+      },
+      {
+        "name": "tvb",
+        "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPZFFzbDE1eGwzYjdoUFVoSm5KaFFQdng4RFpJbWZQb0t4Y205dFJ4Vm1qX1VieGNtNlA1ajdCSDlPVDF1SDFxZjUzeno1cEp1NDd5d2laUWVZSm9fbTNRdHZWTXd5X0JEem4yeUxrSEZ3dUstR18xa0tNS2hvR3pKR3NSLXN6cTlIaXZmQlVCaHpFZVRNYzkxY3dIQ0tId1N5a1BBbjhWN1FRNGRiQWwwVkZjLVFQZDhmbWd5TlFralp2bDhMVTZ4bGdQSk5nWm9YUGlzT0xBbXZ1elVsUnY2ZU5WNGlSYXNmbmFJMGUzNHVjZEM4UXppUUFvd3A0VHZuWXA5eWtya1QzT1MtNi1takpkbHdzMEhqUG5SNXkxNElhYTBMWFRfQW0wTTN5RHRvTzNrU0NoZUVlV0pQWU11bE55ODVWSVZ0dVpPSGo2RkptNkdHY3RnVHh2eFRqb04tZUVlV3BDQ2pzRi0yX0JLLW0wVGNvNllJTUpWZW5iY2NHay02R2QwTnFNcDREejZyN0llWVlUZURfOVF1QXY3ZXBCVlRhalZzdFRrUGZMUVJrekxrSXExZGticS1HMFhNNVB0M1RzbkFsYlBBRHhaSEpVR3RobFk0Nlg5Q3FKTEFPdw?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 170 vs 1 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中為 170 比 1）。"
+    },
+    "trustScore": 75,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 10,
+      "crossCorroboration": 17,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "google-news-tw-entertainment",
+      "gnews-line-today-tw-娛樂",
+      "gnews-tw-heat:直播自揭"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-international-02-in-a-major-boost-for-the",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-in-a-major-boost-for-the.jpg",
+    "imageAlt": {
+      "en": "Cover related to: In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
+      "zh-TW": "相關封面圖：另一位博索納羅即將就任巴西總統，這是右翼勢力的一大推動力"
+    },
+    "publishedAt": "2026-10-05T21:42:18.000Z",
+    "title": {
+      "en": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
+      "zh-TW": "另一位博索納羅即將就任巴西總統，這是右翼勢力的一大推動力"
+    },
+    "summary": {
+      "en": "Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsuna…",
+      "zh-TW": "進步派選民和現任總統路易斯·伊納西奧·盧拉·達席爾瓦的支持者在極右勢力崛起後感到震驚。在極右翼海嘯之後，弗拉維奧·博爾索納羅在贏得巴西總統選舉中處於領先地位…"
+    },
+    "body": {
+      "en": "Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled him to a shock first-round victory over the incumb What happened\nIn a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency. Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled him to a shock first-round victory over the incumbent, Luiz Inácio Lula da Silva, leaving progressive voters reeling. The 45-year-old rightwing candidate received 56.1m v Flávio Bolsonaro’s first round lead leaves President Luiz Inácio Lula da Silva three weeks to find the votes to stop Brazil’s, and Latin America’s, rightward shift. Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (The Guardian World, NYT World) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory\" (The Guardian World); \"In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency\" (NYT World).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Guardian World, NYT World",
+      "zh-TW": "進步派選民和現任總統路易斯·伊納西奧·盧拉·達席爾瓦的支持者在極右勢力崛起後感到震驚弗拉維奧·博爾索納羅在一場極右翼海嘯推動他在第一輪令人震驚地擊敗現任總統後，他在贏得巴西總統選舉中處於領先地位 發生了什麼事\n另一位博索納羅即將就任巴西總統，這對右翼勢力來說是重大推動。極右翼浪潮推動弗拉維奧·博爾索納羅在巴西總統選舉中處於領先地位，極右翼海嘯推動他在第一輪令人震驚地擊敗現任總統路易斯·伊納西奧·盧拉·達席爾瓦，讓進步派選民感到震驚。這位 45 歲的右翼候選人獲得了 5610 萬票，首輪領先弗拉維奧·博爾索納羅，總統路易斯·伊納西奧·盧拉·達席爾瓦需要三週的時間才能找到票數來阻止巴西和拉丁美洲的右傾。 為什麼這很重要\n該集群由國際類別中 2 個管道（《衛報世界》、《紐約時報世界》）的 2 個飼料項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「弗拉維奧·博爾索納羅在首輪令人震驚的勝利後準備贏得巴西總統職位」（《衛報世界》）； 「另一位博爾索納羅即將就任巴西總統，這是對右翼的重大推動」（《紐約時報世界》）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（限媒體名稱）：《衛報世界》、《紐約時報世界》"
+    },
+    "sources": [
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory"
+      },
+      {
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/10/05/world/americas/bolsanaro-lula-brazil-presidency-trump.html"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 78,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 22,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "the-guardian-world",
+      "nyt-world"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-02-24-4-today-line-me",
     "category": "eastAsiaGossip",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
     "publishedAt": "2026-09-30T04:56:21.000Z",
     "title": {
-      "en": "Fang Zhiyou and Yang Mingwei Announce Divorce, Ending 11-Year Marriage",
-      "zh-TW": "方志友、楊銘威宣布離婚　11年婚姻告終：永遠是家人"
+      "en": "方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 - today.line.me",
+      "zh-TW": "方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 - today.line.me"
     },
     "summary": {
-      "en": "Taiwanese actors Fang Zhiyou and Yang Mingwei have confirmed their divorce, ending an 11-year marriage that began when Fang was 24 and pregnant. The pair said they \"can't be lovers anymore\" but will \"always be family.\" Outlets agree on the split; the reasons remain private.",
-      "zh-TW": "藝人方志友、楊銘威證實離婚，結束11年婚姻。兩人當年24歲奉子成婚，聲明表示「無法再做情人」，但「永遠是家人」。各媒體對離婚事實說法一致，詳細原因未公開。"
+      "en": "【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 today.line.me",
+      "zh-TW": "【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 today.line.me"
     },
     "body": {
-      "en": "What happened\nTaiwanese actors Fang Zhiyou and Yang Mingwei have announced their divorce, ending 11 years of marriage. The pair married young — Fang was 24 and pregnant at the time — and said in their joint statement that while they \"can't be lovers anymore,\" they will \"always be family.\" China Times reports the marriage has formally ended; Yahoo News notes Yang has since made his first public appearance, with his latest status drawing attention. Taiwan media have also revisited the couple's rumored \"four major grudges\" and a past episode in which Yang was said to mention divorce after drinking, with actress Alyssa Chia quoted describing him as acting \"like a lord\" at home — though neither party has confirmed these details.\nWhy it matters\nThe split lands amid a wave of high-profile Taiwan entertainment breakups filling local feeds, and the couple's carefully worded \"family forever\" framing has set the tone for coverage: outlets are treating the divorce as amicable unless new details emerge.\nSources agree / disagree\nChina Times, Yahoo News, EBC, LINE TODAY and NOWnews agree the marriage is over and cite the same joint statement, with the 11-year timeline consistent across outlets. Figures of 3 versus 11 years appearing in some headlines come from an unrelated story swept into the same news cluster (see below), not from disagreement about this divorce.\nStill uncertain\nThe specific reasons for the split have not been disclosed. Note: this cluster also contains an unrelated divorce rumor about a different local male star — a \"3-year marriage\" infidelity story involving a recording studio — which should be treated as a separate story, not part of the Fang-Yang split.",
-      "zh-TW": "發生了什麼事\n藝人方志友、楊銘威宣布離婚，結束11年婚姻。兩人當年24歲奉子成婚，聲明中表示「無法再做情人」，但「永遠是家人」。中時新聞網報導11年婚姻正式告終；Yahoo新聞指出楊銘威離婚後首度公開現身，近況受關注。台媒也翻出兩人過往傳出的「夫妻四大心結」，以及楊銘威曾被爆酒後把「離婚」掛嘴邊、賈靜雯（Alyssa Chia）形容他在家「像大爺」等說法，但雙方均未證實細節。\n為什麼重要\n這起離婚案落在台灣演藝圈一波婚變潮之中，兩人以「永遠是家人」定調，各媒體目前多以和平分手角度報導，除非有新事證出現。\n來源異同\n中時、Yahoo、東森、LINE TODAY、NOWnews對離婚事實與11年時間軸說法一致，均引述同一份聯合聲明。部分標題出現的「3年」與「11年」數字差異，來自混入同群組的另一則不相關新聞，並非針對本案的分歧。\n仍不確定\n離婚具體原因未公開。另註：本群組另混入一則不相關的婚變傳聞（某本土男星「3年婚」外遇錄音間事件），請視為獨立事件，與方志友、楊銘威無關。"
+      "en": "【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 today.line.me What happened\n方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 - today.line.me. 【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 today.line.me 賈靜雯昔爆楊銘威在家像大少爺！方志友認「想放棄婚姻不只一次」 11年夫妻感情生變過往心聲被翻出 mirrormedia.mg 方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 today.line.me 楊銘威、方志友情斷！盤點7對明星離婚夫妻 全民吃瓜王力宏醜聞 NOWnews今日新聞 Why it matters\nThis cluster was assembled from 9 feed item(s) across 2 outlet(s) (GNews site:setn 分手/婚, GNews TW 婚變/離婚+藝人) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」　還遭威脅斷手 - 娛樂星聞\" (GNews site:setn 分手/婚); \"快訊》方志友、楊銘威宣布離婚！11年婚姻告終：永遠是家人 - 中時新聞網\" (GNews TW 婚變/離婚+藝人); \"【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 - today.line.me\" (GNews TW 婚變/離婚+藝人); \"楊銘威酒後把「離婚」掛嘴邊 賈靜雯揭他家中是大爺 - 東森電視\" (GNews TW 婚變/離婚+藝人); \"賈靜雯昔爆楊銘威在家像大少爺！方志友認「想放棄婚姻不只一次」　11年夫妻感情生變過往心聲被翻出 - mirrormedia.mg\" (GNews TW 婚變/離婚+藝人).\nFigures differ across outlets (e.g. 3 vs 11 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews site:setn 分手/婚, GNews TW 婚變/離婚+藝人 Additional feed context\n(1) 【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 today.line.me\n(2) 賈靜雯昔爆楊銘威在家像大少爺！方志友認「想放棄婚姻不只一次」 11年夫妻感情生變過往心聲被翻出 mirrormedia.mg\n(3) 方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 today.line.me\n(4) 楊銘威、方志友情斷！盤點7對明星離婚夫妻 全民吃瓜王力宏醜聞 NOWnews今日新聞",
+      "zh-TW": "【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 today.line.me What happened\n方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 - today.line.me. 【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 today.line.me 賈靜雯昔爆楊銘威在家像大少爺！方志友認「想放棄婚姻不只一次」 11年夫妻感情生變過往心聲被翻出 mirrormedia.mg 方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 today.line.me 楊銘威、方志友情斷！盤點7對明星離婚夫妻 全民吃瓜王力宏醜聞 NOWnews今日新聞 Why it matters\nThis cluster was assembled from 9 feed item(s) across 2 outlet(s) (GNews site:setn 分手/婚, GNews TW 婚變/離婚+藝人) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"出軌團員錄音間激戰！本土男星斷3年婚爆「扶正小三」　還遭威脅斷手 - 娛樂星聞\" (GNews site:setn 分手/婚); \"快訊》方志友、楊銘威宣布離婚！11年婚姻告終：永遠是家人 - 中時新聞網\" (GNews TW 婚變/離婚+藝人); \"【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 - today.line.me\" (GNews TW 婚變/離婚+藝人); \"楊銘威酒後把「離婚」掛嘴邊 賈靜雯揭他家中是大爺 - 東森電視\" (GNews TW 婚變/離婚+藝人); \"賈靜雯昔爆楊銘威在家像大少爺！方志友認「想放棄婚姻不只一次」　11年夫妻感情生變過往心聲被翻出 - mirrormedia.mg\" (GNews TW 婚變/離婚+藝人).\nFigures differ across outlets (e.g. 3 vs 11 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews site:setn 分手/婚, GNews TW 婚變/離婚+藝人 Additional feed context\n(1) 【動畫說時事】 方志友拋震撼彈證實離婚！ 稱與楊銘威「無法再做情人」 | 太報 today.line.me\n(2) 賈靜雯昔爆楊銘威在家像大少爺！方志友認「想放棄婚姻不只一次」 11年夫妻感情生變過往心聲被翻出 mirrormedia.mg\n(3) 方志友、楊銘威離婚！24歲奉子成婚 與「他」曖昧掀夫妻4大心結一次看 | 太報 today.line.me\n(4) 楊銘威、方志友情斷！盤點7對明星離婚夫妻 全民吃瓜王力宏醜聞 NOWnews今日新聞"
     },
     "sources": [
       {
@@ -28,16 +201,20 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0WlBLeW56WHVjMjUzV212bG1qMUNYd1gwVHhlQmJjWWpPRnpLWHZZa3hpR0pqUExjNVZRWjI1NThqWUhGcmJBYk9xMzBBRExnN0Q2Zllsekh0MzRfWHlaT214WlVBZGJOZlNYOUhB?oc=5"
       },
       {
-        "name": "tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNZTRwVkcyemd2WDZ6VDhSTkt0OWR6ck96bk1TYWo2WHVyV05YcDVVU1oxQ2dlc1QyUDZ1ckFkaFFJVW9aV3MyblA3V3dFN3VOQVVqWDl0MTlVQmppZnFjRHUwVGxLQTV3a3BlcXR5ZnlBUWhKRGozbVdEWnUxdy1YZFNPcTNYMDJKMm1OLWJxZG5Mdk9NVzFuWV9hczBmQ0hjQ0Y3SWRqaUlwRThfekpxTlRzMm5CdFJvQjE4S0p0UnhSSE1mZm5SMUc4YmhKY0IweTEwOGVNdTZlV2VoX1ByYm5BTkRUTS1HUkF6WGVRZzAzR3IxWnN1TktqemZRZ25pLWg5aDFBVmN1Tkd6NkdZakRsaHZKb09YMFg0bnh5SWs2YTktblNicTFYYm5kN3hrOGVxS0QzTHhWR3ktcGRWMDFRSDk4MFVlNkZraWhwWVNjR2ZkVXBsbG01b2tON2VtTFFhYzlPV0JCLTlhc1dWaWtveGxtLXNnQUlkVXRlV1J4VVZIdzJFY2JqMWpiUVZmd3c?oc=5"
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VzRzVUNaalhNanVLRndXWDNRUXV1eTRyNmVtZXJNNGZkTWpjWkhJVC1URFJFOWlGNzJaVko0RkpMSG1KNUtDZTQyTWN2cDlsU0Z1aFVn?oc=5"
       },
       {
         "name": "news.ebc.net.tw",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfQTVRbzlsaGY0R0ZnaHdZN0o4bm9rMnZFc0k3QURYdnpXM1JjWVQydEE2amV5c1VBZFBtWGVrLTRuTkNrWC1oYXRB?oc=5"
       },
       {
-        "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VzRzVUNaalhNanVLRndXWDNRUXV1eTRyNmVtZXJNNGZkTWpjWkhJVC1URFJFOWlGNzJaVko0RkpMSG1KNUtDZTQyTWN2cDlsU0Z1aFVn?oc=5"
+        "name": "mirrormedia.mg",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iYzhOeEYzRnlOekZBR0hNTTBxUklPSUF4ZjBzOEZnU010RVBlcmZvVjRZTVdQRTRLVFpvMW5iOHpXMmxaS0JsZjhtVEQ1UEpXc2NDMXBITFVJR0XSAWBBVV95cUxPWUJoclVYRFUzVUtPSEtnYXJrOUNaT1JVSXpZcHdXeXpLb0IwRFV6U1NnREJob093TUxPNnM3TU5rckNxc0U5ZXVmdi1FalJUYnpnS0V6YXRtYldwQ2RnRDg?oc=5"
+      },
+      {
+        "name": "cts.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpaVRTSW55MXktWjVKME1ITk05UXpjbEp5MnMxekhScUtKYUtLWlpGNVZaTGI4bllsSURwdTd3Tm1aM0NnMjZZSG9tc1NydXFOcWpjM0Nmd2dJcEVYaWdsNEYtc0VJN0RYdV9XNQ?oc=5"
       },
       {
         "name": "nownews.com",
@@ -49,13 +226,13 @@
       }
     ],
     "disagreements": {
-      "en": "Some headlines in this feed cluster mention a \"3-year\" marriage versus \"11 years\" — this reflects an unrelated divorce story mixed into the same cluster, not a dispute about the Fang-Yang marriage.",
-      "zh-TW": "群組內部分標題出現「3年婚」與「11年」的數字差異，來自混入同群組的另一則不相關婚變新聞，並非針對方楊離婚的分歧。"
+      "en": "Figures differ across outlets (e.g. 3 vs 11 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 3 比 11）。"
     },
-    "trustScore": 65,
+    "trustScore": 64,
     "trustBreakdown": {
       "sourceDiversity": 25,
-      "outletReputation": 11,
+      "outletReputation": 10,
       "crossCorroboration": 17,
       "recencyClarity": 12
     },
@@ -67,106 +244,44 @@
       "gnews-tw-婚變/離婚+藝人",
       "gnews-tw-婚變/離婚+藝人"
     ],
-    "region": "tw",
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "方志友",
-          "en": "Fang Zhiyou"
-        },
-        "blurb": {
-          "zh-TW": "台灣女藝人；24歲與楊銘威奉子成婚，11年後宣布離婚。",
-          "en": "Taiwanese actress; married Yang Mingwei at 24 and is now divorcing him after 11 years."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "楊銘威",
-          "en": "Yang Mingwei"
-        },
-        "blurb": {
-          "zh-TW": "台灣男藝人；與方志友宣布離婚，婚後首度公開現身受關注。",
-          "en": "Taiwanese actor; announced divorce from Fang Zhiyou and has since made his first public appearance."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "賈靜雯",
-          "en": "Alyssa Chia"
-        },
-        "blurb": {
-          "zh-TW": "台灣女藝人；東森報導引述其談論楊銘威在家中的表現。",
-          "en": "Taiwanese actress quoted by EBC commenting on Yang's behavior at home."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "中時新聞網",
-          "en": "China Times News"
-        },
-        "blurb": {
-          "zh-TW": "台灣新聞媒體；報導兩人11年婚姻正式告終。",
-          "en": "Taiwanese news outlet; reported the formal end of the 11-year marriage."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "東森新聞",
-          "en": "Eastern Broadcasting (EBC)"
-        },
-        "blurb": {
-          "zh-TW": "台灣電視台；報導楊銘威酒後提離婚等消息。",
-          "en": "Taiwanese broadcaster; reported Yang's drinking-related divorce remarks."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "LINE TODAY",
-          "en": "LINE TODAY"
-        },
-        "blurb": {
-          "zh-TW": "新聞聚合平台；刊載太報等媒體的娛樂報導。",
-          "en": "News aggregator platform carrying Taiwan entertainment coverage."
-        }
-      }
-    ]
+    "region": "tw"
   },
   {
-    "id": "live-eastAsiaGossip-02-9-ctwant-line-today",
+    "id": "live-eastAsiaGossip-03-10",
     "category": "eastAsiaGossip",
     "adult": false,
-    "isHeadline": true,
+    "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-02-9-ctwant-line-today.jpg",
+    "imageUrl": "/covers/live/live-eastAsiaGossip-03-10.jpg",
     "imageAlt": {
-      "en": "Cover related to: YouTuber Xiao Wu Dissolves 9-Year Team; Partner Sheng Yuan Spotted Calm on Taipei MRT",
-      "zh-TW": "相關封面圖：小吳解散9年公司　聖元獨自現身捷運神情平靜"
+      "en": "Cover related to: 薛仕凌陷閃兵風波「懷秋戲約暴增」！大嘴巴解散10年…星運都出現轉折",
+      "zh-TW": "相關封面圖：薛仕凌陷閃兵風波「懷秋戲約暴增」！大嘴巴解散10年…星運都出現轉折"
     },
-    "publishedAt": "2026-10-04T23:25:00.000Z",
+    "publishedAt": "2026-10-06T00:20:00.000Z",
     "title": {
-      "en": "YouTuber Xiao Wu Dissolves 9-Year Team; Partner Sheng Yuan Spotted Calm on Taipei MRT",
-      "zh-TW": "小吳解散9年公司　聖元獨自現身捷運神情平靜"
+      "en": "薛仕凌陷閃兵風波「懷秋戲約暴增」！大嘴巴解散10年…星運都出現轉折",
+      "zh-TW": "薛仕凌陷閃兵風波「懷秋戲約暴增」！大嘴巴解散10年…星運都出現轉折"
     },
     "summary": {
-      "en": "Taiwanese YouTuber Xiao Wu, known as \"見習網美小吳\", announced the dissolution of her 9-year team on social media late last month. Around the same time, a CTWANT reader spotted her partner Sheng Yuan riding the MRT's Zhonghe-Xinlu line alone, looking calm and composed.",
-      "zh-TW": "YouTuber「見習網美小吳」上月25日在社群宣布解散經營9年的公司。同一時間，CTWANT讀者在捷運中和新蘆線巧遇其夥伴聖元獨自搭車，神情平靜，似乎已坦然接受團隊決定。"
+      "en": "懷秋與薛仕凌自「大嘴巴」解散後，陸續轉戰戲劇圈，薛仕凌搶先發光並拿下2男主、1男配共3座金鐘獎的演技肯定，讓當時身處低潮的懷秋不諱言「心裡有點急」，如今薛仕凌深陷閃兵案，演藝路茫茫，懷秋則靠《角頭》系列的瘋癲反派翻身，星運如倒吃甘蔗，各方邀約不斷，2人的勢頭與風評出現明顯消長。 《詳全文...》",
+      "zh-TW": "懷秋與薛仕凌自「大嘴巴」解散後，陸續轉戰戲劇圈，薛仕凌搶先發光並拿下2男主、1男配共3座金鐘獎的演技肯定，讓當時身處低潮的懷秋不諱言「心裡有點急」，如今薛仕凌深陷閃兵案，演藝路茫茫，懷秋則靠《角頭》系列的瘋癲反派翻身，星運如倒吃甘蔗，各方邀約不斷，2人的勢頭與風評出現明顯消長。 《詳全文...》"
     },
     "body": {
-      "en": "What happened\nTaiwanese YouTuber Xiao Wu, known online as \"見習網美小吳\", has dissolved the team she ran for nine years, announcing the decision in a social media post on the 25th of last month. The move surprised fans who had followed the group's long run. Around the same time, a reader of the weekly CTWANT spotted her longtime partner Sheng Yuan riding Taipei's MRT Zhonghe-Xinlu line alone. ETtoday reports he appeared in public with no disguise and looked calm throughout the ride, seemingly at peace with the team's decision.\nWhy it matters\nA nine-year run is an eternity in the creator economy, and the abrupt end of a well-known Taiwanese YouTube team has fans reading the MRT sighting for clues about the split's tone — so far, the signals point to an amicable parting rather than a falling-out.\nSources agree / disagree\nETtoday and CTWANT (via LINE TODAY and Yahoo) agree on the core facts: the 9-year team is dissolved, and Sheng Yuan was seen alone on the MRT looking composed. Coverage differs only in angle — CTWANT frames it as a captured celebrity sighting; ETtoday emphasizes his unguarded, calm demeanor.\nStill uncertain\nXiao Wu has not detailed why the team was dissolved, and Sheng Yuan has not commented publicly. Whether the two will continue collaborating in some form is not yet known.",
-      "zh-TW": "發生了什麼事\nYouTuber「見習網美小吳」宣布解散經營9年的團隊，上月25日在社群平台發文投下震撼彈，讓長期追隨的粉絲相當意外。同一時間，時報周刊CTWANT讀者在捷運中和新蘆線巧遇小吳的夥伴聖元獨自搭車。ETtoday報導，他全程0偽裝現身，神情相當平靜，似乎早已坦然接受團隊的決定。\n為什麼重要\n9年在創作者經濟中是極長的壽命，知名台灣YouTube團隊突然解散，粉絲自然從聖元被拍的神情解讀分手氣氛——目前跡象指向和平分手，而非撕破臉。\n來源異同\nETtoday與CTWANT（經LINE TODAY、Yahoo轉載）對核心事實說法一致：9年團隊解散、聖元獨自搭捷運神情平靜。差異只在角度：CTWANT以「被捕獲」的直擊口吻報導，ETtoday則強調他毫不遮掩的坦然反應。\n仍不確定\n小吳未說明解散團隊的原因，聖元也未公開回應。兩人未來是否以其他形式合作，目前未知。"
+      "en": "懷秋與薛仕凌自「大嘴巴」解散後，陸續轉戰戲劇圈，薛仕凌搶先發光並拿下2男主、1男配共3座金鐘獎的演技肯定，讓當時身處低潮的懷秋不諱言「心裡有點急」，如今薛仕凌深陷閃兵案，演藝路茫茫，懷秋則靠《角頭》系列的瘋癲反派翻身，星運如倒吃甘蔗，各方邀約不斷，2人的勢頭與風評出現明顯消長。 《詳全文...》 What happened\n薛仕凌陷閃兵風波「懷秋戲約暴增」！大嘴巴解散10年…星運都出現轉折. 懷秋與薛仕凌自「大嘴巴」解散後，陸續轉戰戲劇圈，薛仕凌搶先發光並拿下2男主、1男配共3座金鐘獎的演技肯定，讓當時身處低潮的懷秋不諱言「心裡有點急」，如今薛仕凌深陷閃兵案，演藝路茫茫，懷秋則靠《角頭》系列的瘋癲反派翻身，星運如倒吃甘蔗，各方邀約不斷，2人的勢頭與風評出現明顯消長。 《詳全文...》 同團暗較勁／獨家！薛仕凌深陷閃兵風波 懷秋憑瘋癲狠勁竄出頭 mirrormedia.mg Why it matters\nThis cluster was assembled from 4 feed item(s) across 3 outlet(s) (ETtoday 影劇, Yahoo TW 娛樂, Google News TW 娛樂) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"薛仕凌陷閃兵風波「懷秋戲約暴增」！大嘴巴解散10年…星運都出現轉折\" (ETtoday 影劇); \"同團暗較勁／獨家！薛仕凌深陷閃兵風波　懷秋憑瘋癲狠勁竄出頭\" (Yahoo TW 娛樂); \"同團暗較勁／天團散夥了他坦言「不是朋友」　團員私下幾乎零聯絡\" (Yahoo TW 娛樂); \"同團暗較勁／獨家！薛仕凌深陷閃兵風波　懷秋憑瘋癲狠勁竄出頭 - mirrormedia.mg\" (Google News TW 娛樂).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): ETtoday 影劇, Yahoo TW 娛樂, Google News TW 娛樂 Additional feed context\n(1) 懷秋與薛仕凌自「大嘴巴」解散後，陸續轉戰戲劇圈，薛仕凌搶先發光並拿下2男主、1男配共3座金鐘獎的演技肯定，讓當時身處低潮的懷秋不諱言「心裡有點急」，如今薛仕凌深陷閃兵案，演藝路茫茫，懷秋則靠《角頭》系列的瘋癲反派翻身，星運如倒吃甘蔗，各方邀約不斷，2人的勢頭與風評出現明顯消長。 《詳全文...》\n(2) (3) 同團暗較勁／獨家！薛仕凌深陷閃兵風波 懷秋憑瘋癲狠勁竄出頭 mirrormedia.mg",
+      "zh-TW": "懷秋與薛仕凌自「大嘴巴」解散後，陸續轉戰戲劇圈，薛仕凌搶先發光並拿下2男主、1男配共3座金鐘獎的演技肯定，讓當時身處低潮的懷秋不諱言「心裡有點急」，如今薛仕凌深陷閃兵案，演藝路茫茫，懷秋則靠《角頭》系列的瘋癲反派翻身，星運如倒吃甘蔗，各方邀約不斷，2人的勢頭與風評出現明顯消長。 《詳全文...》 What happened\n薛仕凌陷閃兵風波「懷秋戲約暴增」！大嘴巴解散10年…星運都出現轉折. 懷秋與薛仕凌自「大嘴巴」解散後，陸續轉戰戲劇圈，薛仕凌搶先發光並拿下2男主、1男配共3座金鐘獎的演技肯定，讓當時身處低潮的懷秋不諱言「心裡有點急」，如今薛仕凌深陷閃兵案，演藝路茫茫，懷秋則靠《角頭》系列的瘋癲反派翻身，星運如倒吃甘蔗，各方邀約不斷，2人的勢頭與風評出現明顯消長。 《詳全文...》 同團暗較勁／獨家！薛仕凌深陷閃兵風波 懷秋憑瘋癲狠勁竄出頭 mirrormedia.mg Why it matters\nThis cluster was assembled from 4 feed item(s) across 3 outlet(s) (ETtoday 影劇, Yahoo TW 娛樂, Google News TW 娛樂) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"薛仕凌陷閃兵風波「懷秋戲約暴增」！大嘴巴解散10年…星運都出現轉折\" (ETtoday 影劇); \"同團暗較勁／獨家！薛仕凌深陷閃兵風波　懷秋憑瘋癲狠勁竄出頭\" (Yahoo TW 娛樂); \"同團暗較勁／天團散夥了他坦言「不是朋友」　團員私下幾乎零聯絡\" (Yahoo TW 娛樂); \"同團暗較勁／獨家！薛仕凌深陷閃兵風波　懷秋憑瘋癲狠勁竄出頭 - mirrormedia.mg\" (Google News TW 娛樂).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): ETtoday 影劇, Yahoo TW 娛樂, Google News TW 娛樂 Additional feed context\n(1) 懷秋與薛仕凌自「大嘴巴」解散後，陸續轉戰戲劇圈，薛仕凌搶先發光並拿下2男主、1男配共3座金鐘獎的演技肯定，讓當時身處低潮的懷秋不諱言「心裡有點急」，如今薛仕凌深陷閃兵案，演藝路茫茫，懷秋則靠《角頭》系列的瘋癲反派翻身，星運如倒吃甘蔗，各方邀約不斷，2人的勢頭與風評出現明顯消長。 《詳全文...》\n(2) (3) 同團暗較勁／獨家！薛仕凌深陷閃兵風波 懷秋憑瘋癲狠勁竄出頭 mirrormedia.mg"
     },
     "sources": [
       {
         "name": "ETtoday 影劇",
-        "url": "https://star.ettoday.net/news/3249077"
+        "url": "https://star.ettoday.net/news/3249681"
+      },
+      {
+        "name": "Yahoo TW 娛樂",
+        "url": "https://tw.news.yahoo.com/%E5%90%8C%E5%9C%98%E6%9A%97%E8%BC%83%E5%8B%81-%E7%8D%A8%E5%AE%B6-%E8%96%9B%E4%BB%95%E5%87%8C%E6%B7%B1%E9%99%B7%E9%96%83%E5%85%B5%E9%A2%A8%E6%B3%A2-%E6%87%B7%E7%A7%8B%E6%86%91%E7%98%8B%E7%99%B2%E7%8B%A0%E5%8B%81%E7%AB%84%E5%87%BA%E9%A0%AD-232859922.html"
       },
       {
         "name": "Google News TW 娛樂",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nWGZjeW1zVTAtRmpuczhaLU5CRTEtek1wejRaeUJIQkJCSUdQOVZjVGNoVkxWVFNzVXNXV0J0dWxSLWpZNkVCMy1IMDhYRE1DOWxhYWV3?oc=5"
-      },
-      {
-        "name": "Google News TW 娛樂",
-        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNR251ZFJoY25NTXIydnJwWjcyLS1KQi0zdzFsZ0dwOTJjM3N1Vm5kSWFteEVsRDdFYWNtTmxvV3NPd3Q1RXVqaVdIV2tWN0hoSGRQbHIyZUdmUkJMSzRPNFdqV3pRWFFLdHFpTDI0VktqNk9FZzNpWHNNN1lBWjhyTUMtN1J1Uy1qT3p2UHJQNU1XcEdHVUUtMlJJSF96OS01eU9VbXFuYTlCbFNzRGw4UnUwY3hYVU15dG40Y2ZzZWVSek91RkxHZDJmLWFiRnVPLUtEbnItTmhSa2NFelRyLUVPQkNneWVwa1NCYUZjNGVsdVZIWklwTi1nX25xUnFnNWN2dE1kelhUZ1ZhSjg4d3NINjA3bGdRRl9TamwzbXBaM3hhZHR5VV9FSDNWT2F1WnRPdm8ySGNCZEZGazh4U093R3k3ZEdXeUxnR0diNWtiSUJuUkRnRVFoV2xiZ3hZQWdESExxTlBRMTA?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCcFc4bDQ0eEhHSHdWc21yeUNYUlJqZGd5T1Jwa2JTNTJNXzlfNDB5MUc2SF9aNXhOYjVlM0NPMFFfR1NHT2l3SzZaSU1qandFYlRDZGlBRktVOU3SAWBBVV95cUxPZ09vYzI2OVBjWHNDSGNTMmp3Ukxlc0EwTmI2N3NvdDhNd3hQelRrWGtYZ09SWFdjSFNWWXNTd1NJSVc2UUd2cnlPdWhsQUNXNGpBa0JNLUoyWTZ5MzFDUlA?oc=5"
       }
     ],
     "disagreements": null,
@@ -182,273 +297,58 @@
       "live-ingest",
       "region:tw",
       "ettoday-影劇",
-      "google-news-tw-娛樂",
-      "google-news-tw-娛樂"
+      "yahoo-tw-娛樂",
+      "yahoo-tw-娛樂"
     ],
-    "region": "tw",
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "見習網美小吳",
-          "en": "Xiao Wu"
-        },
-        "blurb": {
-          "zh-TW": "台灣YouTuber；宣布解散經營9年的團隊。",
-          "en": "Taiwanese YouTuber who dissolved her 9-year production team."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "聖元",
-          "en": "Sheng Yuan"
-        },
-        "blurb": {
-          "zh-TW": "小吳的長期合作夥伴；在捷運中和新蘆線被讀者巧遇。",
-          "en": "Xiao Wu's longtime team partner, spotted alone on the Taipei MRT."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "CTWANT",
-          "en": "CTWANT"
-        },
-        "blurb": {
-          "zh-TW": "台灣週刊（時報周刊）；以娛樂獨家與直擊報導見長。",
-          "en": "Taiwanese weekly magazine known for celebrity scoops."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "ETtoday 影劇",
-          "en": "ETtoday Showbiz"
-        },
-        "blurb": {
-          "zh-TW": "ETtoday娛樂新聞版面；報導聖元捷運被拍一事。",
-          "en": "ETtoday's entertainment news section; reported Sheng Yuan's MRT sighting."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "Yahoo新聞",
-          "en": "Yahoo News Taiwan"
-        },
-        "blurb": {
-          "zh-TW": "台灣新聞入口網站；轉載CTWANT報導。",
-          "en": "Taiwanese news portal republishing the CTWANT story."
-        }
-      }
-    ]
+    "region": "tw"
   },
   {
-    "id": "live-entertainment-01-paul-mccartney-reveals-w",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": true,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-01-paul-mccartney-reveals-w.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Paul McCartney Says Taylor Swift Personally Asked Him to Play Her Wedding",
-      "zh-TW": "相關封面圖：保羅·麥卡尼（Paul McCartney）揭密泰勒絲（Taylor Swift）親邀婚禮演出"
-    },
-    "publishedAt": "2026-10-04T21:00:07.000Z",
-    "title": {
-      "en": "Paul McCartney Says Taylor Swift Personally Asked Him to Play Her Wedding",
-      "zh-TW": "保羅·麥卡尼（Paul McCartney）揭密：泰勒絲（Taylor Swift）親自邀他婚禮演出"
-    },
-    "summary": {
-      "en": "Paul McCartney has revealed he performed at Taylor Swift's wedding simply because \"she asked me to do it,\" in a new Rolling Stone interview. The Beatles legend also discussed banning Larry David from his concerts after David refused to sing \"Hey Jude\" on Jimmy Kimmel Live.",
-      "zh-TW": "保羅·麥卡尼（Paul McCartney）接受滾石（Rolling Stone）訪問，透露在泰勒絲（Taylor Swift）婚禮上演出只因「她親自開口邀請」。他也談到因賴瑞·大衛（Larry David）在吉米·基墨（Jimmy Kimmel）節目拒唱〈Hey Jude〉，將其列入演唱會黑名單。"
-    },
-    "body": {
-      "en": "What happened\nPaul McCartney has explained why he took the stage at Taylor Swift's wedding: \"She asked me to do it.\" In a new Rolling Stone interview, the former Beatle said Swift personally invited him to perform. According to earlier coverage, McCartney performed \"I Want to Hold Your Hand\" at the celebration. In the same interview, McCartney also talked about banning comedian Larry David from his concerts — reportedly after David refused to sing along to \"Hey Jude\" during an appearance on Jimmy Kimmel Live.\nWhy it matters\nWedding performances by rock royalty are usually shrouded in secrecy, so McCartney's matter-of-fact explanation is a rare direct confirmation of how the year's most talked-about celebrity wedding set came about. The Larry David anecdote, meanwhile, shows the legend still keeps a list.\nSources agree / disagree\nBillboard and Rolling Stone each carry one half of this cluster: Billboard reports Swift's \"The Life of a Showgirl\" returning to No. 1 on the Billboard 200 for a 13th nonconsecutive week after its Sept. 25 \"Encore\" reissue with four previously unreleased songs; Rolling Stone carries the McCartney wedding interview. These are two separate stories grouped by topic, and neither outlet disputes the other's facts.\nStill uncertain\nMcCartney has not said whether he will discuss the wedding performance further, and Swift's camp has not commented beyond what the interview contains. The feed summaries do not give a date for the David concert ban.",
-      "zh-TW": "發生了什麼事\n保羅·麥卡尼（Paul McCartney）揭開在泰勒絲（Taylor Swift）婚禮登台的原因：「她親自開口邀請。」這位前披頭四成員在滾石（Rolling Stone）新專訪中表示，泰勒絲親自邀他演出；據先前報導，他在婚禮上演唱了〈I Want to Hold Your Hand〉。同場訪問中，麥卡尼也談到將喜劇演員賴瑞·大衛（Larry David）列入演唱會黑名單——據傳起因是大衛在吉米·基墨（Jimmy Kimmel）節目上拒絕跟唱〈Hey Jude〉。\n為什麼重要\n搖滾傳奇的婚禮演出通常神祕低調，麥卡尼直白的說法是罕見的第一手證實，解開今年最受矚目的名人婚禮演出之謎。賴瑞·大衛的插曲則顯示，這位傳奇人物記仇記得很清楚。\n來源異同\n告示牌（Billboard）與滾石各占群組一半：告示牌報導泰勒絲〈The Life of a Showgirl〉在9月25日「Encore」加值版（收錄4首未發表曲）帶動下，以21名躍升重返告示牌200冠軍、累計13週非連續冠軍；滾石則刊出麥卡尼婚禮專訪。這是兩則因主題被歸入同組的獨立新聞，雙方事實互不衝突。\n仍不確定\n麥卡尼未說是否會再談婚禮演出，泰勒絲方面除訪問內容外也未回應。摘要中未載明大衛被禁的確切時間。"
-    },
-    "sources": [
-      {
-        "name": "Billboard",
-        "url": "https://www.billboard.com/music/chart-beat/taylor-swift-life-of-a-showgirl-no-1-encore-1236353941/"
-      },
-      {
-        "name": "Rolling Stone Music",
-        "url": "https://www.rollingstone.com/music/music-news/paul-mccartney-taylor-swift-wedding-larry-david-kimmel-1235636499/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 73,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 17,
-      "crossCorroboration": 15,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "entertainment",
-      "live-ingest",
-      "billboard",
-      "rolling-stone-music"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "保羅·麥卡尼",
-          "en": "Paul McCartney"
-        },
-        "blurb": {
-          "zh-TW": "前披頭四成員；透露泰勒絲親自邀他婚禮演出。",
-          "en": "Former Beatle; revealed Swift personally asked him to play her wedding."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "泰勒絲",
-          "en": "Taylor Swift"
-        },
-        "blurb": {
-          "zh-TW": "美國流行歌手；專輯〈The Life of a Showgirl〉重返告示牌200冠軍。",
-          "en": "American pop star; her album \"The Life of a Showgirl\" returned to No. 1 on the Billboard 200."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "賴瑞·大衛",
-          "en": "Larry David"
-        },
-        "blurb": {
-          "zh-TW": "美國喜劇演員；據傳因拒唱〈Hey Jude〉被麥卡尼列入演唱會黑名單。",
-          "en": "American comedian; reportedly banned from McCartney's concerts after refusing to sing \"Hey Jude\"."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "吉米·基墨",
-          "en": "Jimmy Kimmel"
-        },
-        "blurb": {
-          "zh-TW": "美國深夜節目主持人；拒唱事件發生在他的節目上。",
-          "en": "American late-night host; the \"Hey Jude\" incident happened on his show."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "滾石",
-          "en": "Rolling Stone"
-        },
-        "blurb": {
-          "zh-TW": "美國音樂雜誌；刊出麥卡尼專訪。",
-          "en": "US music magazine; published the McCartney interview."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "告示牌",
-          "en": "Billboard"
-        },
-        "blurb": {
-          "zh-TW": "美國音樂排行榜機構；報導泰勒絲專輯重返冠軍。",
-          "en": "US music chart publisher; reported Swift's album returning to No. 1."
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-finance-01-trump-reiterates-pledge-",
-    "category": "finance",
+    "id": "live-international-03-conservatives-propose-10",
+    "category": "international",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-finance-01-trump-reiterates-pledge-.jpg",
+    "imageUrl": "/covers/live/live-international-03-conservatives-propose-10.jpg",
     "imageAlt": {
-      "en": "Cover related to: Trump Renews $5,000 Check Pledge, Touts Smaller Payments as Midterms Near",
-      "zh-TW": "相關封面圖：川普（Trump）重申5000美元支票承諾　期中選舉逼近先推小額給付"
+      "en": "Cover related to: Conservatives propose £10bn ‘Britannia Shield’ inspired by Israel’s Iron Dome",
+      "zh-TW": "相關封面圖：受以色列鐵穹頂啟發，保守黨提議耗資 100 億英鎊的“不列顛盾牌”"
     },
-    "publishedAt": "2026-10-04T20:28:47.000Z",
+    "publishedAt": "2026-10-05T22:39:20.000Z",
     "title": {
-      "en": "Trump Renews $5,000 Check Pledge, Touts Smaller Payments as Midterms Near",
-      "zh-TW": "川普（Trump）重申發放5000美元支票　期中選舉逼近先推小額給付"
+      "en": "Conservatives propose £10bn ‘Britannia Shield’ inspired by Israel’s Iron Dome",
+      "zh-TW": "受以色列鐵穹頂啟發，保守黨提議耗資 100 億英鎊的“不列顛盾牌”"
     },
     "summary": {
-      "en": "Donald Trump is reiterating his pledge to send Americans $5,000 checks — contingent on Republicans keeping Congress — while promoting two federal payment programs already underway. The push comes as the US jobs market slows sharply a month before the midterms.",
-      "zh-TW": "唐納·川普（Donald Trump）重申發放每人5000美元支票的承諾（以共和黨保住國會為前提），同時宣傳兩項已上路的聯邦給付計畫。此時美國就業市場在期中選舉前一個月明顯降溫。"
+      "en": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
+      "zh-TW": "保守黨表示，在北約盟國警告俄羅斯無人機入侵之際，他們的計畫將保護英國。"
     },
     "body": {
-      "en": "What happened\nDonald Trump is renewing his pledge to send $5,000 checks to Americans, making the dividend contingent on Republicans retaining control of Congress. At the same time, he is promoting two federal payment programs already underway and highlighting smaller payments already being distributed. CNBC reports the renewed push comes with the midterm elections about a month away. Separately, the BBC reports the US jobs market is seeing a sharp slowdown ahead of the midterms, with unemployment rising slightly as American employers pause hiring.\nWhy it matters\nDirect-payment promises have become a recurring midterm-season tool, and tying the $5,000 pledge to a Republican Congress makes the check an explicit electoral incentive. The slowing labor market gives the pitch a receptive audience — and raises the stakes of the economic argument both parties will make in the final month.\nSources agree / disagree\nCNBC and the BBC cover different halves of the story — CNBC on the $5,000 pledge and the smaller payments, the BBC on the jobs-market slowdown — and neither contradicts the other. The feed summaries do not spell out the mechanics or eligibility of the two existing payment programs.\nStill uncertain\nWhether the $5,000 dividend has any legislative path is unclear from the summaries; it remains a campaign pledge conditioned on the election outcome. Details of the smaller payments — amounts, recipients, funding — are not specified in the available snippets.",
-      "zh-TW": "發生了什麼事\n唐納·川普（Donald Trump）重申發放每人5000美元支票的承諾，並以共和黨保住國會控制權為前提。同時他宣傳兩項已上路的聯邦給付計畫，強調已有小額款項發放中。CNBC報導，這波承諾距離期中選舉約一個月。另一方面，BBC報導美國就業市場在期中選舉前明顯降溫，雇主暫停徵才，失業率小幅上升。\n為什麼重要\n直接發錢承諾已成期中選舉季的固定戲碼，把5000美元與共和黨國會掛鉤，更讓支票成為明確的選舉誘因。疲軟的就業市場讓這套說法更有聽眾，也拉高兩黨最後一個月經濟攻防的賭注。\n來源異同\nCNBC與BBC各報導故事的一半：CNBC談5000美元承諾與小額給付，BBC談就業市場降溫，兩者互不衝突。摘要中未說明兩項現行給付計畫的運作方式與資格條件。\n仍不確定\n5000美元支票是否有立法路徑，摘要中看不出來；目前仍是附帶選舉條件的競選承諾。小額給付的金額、對象與財源，現有摘要也未載明。"
+      "en": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions. What happened\nConservatives propose £10bn ‘Britannia Shield’ inspired by Israel’s Iron Dome. The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions. Party to unveil plans for one of UK’s ‘most significant military programmes since the cold war’ The Conservatives will announce plans to build a £10bn British “Iron Dome” similar to Israel’s air and missile defence system, which the party will christen “Britannia Shield” in an announcement at conference on Tuesday. The shadow defence secretary, James Cartlidge, will say Britain needs to be ready t Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (BBC UK, The Guardian UK News) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Tories pledge £10bn 'Britannia Shield' air defence system\" (BBC UK); \"Conservatives propose £10bn ‘Britannia Shield’ inspired by Israel’s Iron Dome\" (The Guardian UK News).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC UK, The Guardian UK News",
+      "zh-TW": "保守黨表示，在北約盟國警告俄羅斯無人機入侵之際，他們的計畫將保護英國。 發生了什麼事\n受以色列鐵穹頂的啟發，保守黨提議耗資 100 億英鎊的「不列顛盾牌」。保守黨表示，在北約盟國警告俄羅斯無人機入侵之際，他們的計畫將保護英國。保守黨將公佈英國“冷戰以來最重要的軍事計劃”之一的計劃保守黨將宣布計劃建造一個耗資100億英鎊的英國“鐵穹”，類似於以色列的防空和導彈防禦系統，該黨將在周二的會議上宣布將其命名為“不列顛之盾”。影子國防部長詹姆斯卡特利奇將表示英國需要做好準備 為什麼這很重要\n該集群由國際類別中 2 個管道（英國廣播公司 (BBC UK)、英國衛報新聞 (The Guardian UK News)）的 2 個提要項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「保守黨承諾斥資 100 億英鎊『不列顛之盾』防空系統」（BBC UK）；「受以色列鐵穹頂的啟發，保守黨提出 100 億英鎊的『不列顛盾牌』」（英國衛報新聞）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（僅限媒體名稱）：英國廣播公司 (BBC UK)、英國衛報新聞 (The Guardian UK News)"
     },
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html"
+        "name": "BBC UK",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "name": "BBC Business",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss"
+        "name": "The Guardian UK News",
+        "url": "https://www.theguardian.com/politics/2026/oct/05/conservatives-britannia-shield-israel-iron-dome"
       }
     ],
     "disagreements": null,
-    "trustScore": 71,
+    "trustScore": 72,
     "trustBreakdown": {
       "sourceDiversity": 16,
-      "outletReputation": 15,
+      "outletReputation": 16,
       "crossCorroboration": 15,
       "recencyClarity": 25
     },
     "tags": [
-      "finance",
+      "international",
       "live-ingest",
-      "cnbc",
-      "bbc-business"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "唐納·川普",
-          "en": "Donald Trump"
-        },
-        "blurb": {
-          "zh-TW": "美國總統；重申5000美元支票承諾，與期中選舉掛鉤。",
-          "en": "US president; renewed the $5,000 check pledge tied to the midterms."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "CNBC",
-          "en": "CNBC"
-        },
-        "blurb": {
-          "zh-TW": "美國財經新聞網；報導5000美元承諾與小額給付。",
-          "en": "US business news network; reported the $5,000 pledge."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "BBC",
-          "en": "BBC"
-        },
-        "blurb": {
-          "zh-TW": "英國公共廣播公司；報導美國就業市場降溫。",
-          "en": "British public broadcaster; reported the US jobs slowdown."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "期中選舉",
-          "en": "Midterm elections"
-        },
-        "blurb": {
-          "zh-TW": "美國總統任期中舉行的國會選舉；約一個月後登場。",
-          "en": "US congressional elections held midway through a presidential term; about a month away."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "聯邦給付",
-          "en": "Federal payments"
-        },
-        "blurb": {
-          "zh-TW": "川普稱已上路的兩項聯邦給付計畫，細節未明。",
-          "en": "Two government payment programs Trump says are already underway; details unclear."
-        }
-      }
+      "bbc-uk",
+      "the-guardian-uk-news"
     ]
   },
   {
@@ -459,21 +359,21 @@
     "isPopular": true,
     "imageUrl": "/covers/live/live-tech-01-trump-s-crazy-ai-rebrand.jpg",
     "imageAlt": {
-      "en": "Cover related to: Trump Orders 'Super Intelligence' as New Name for AI; Tech Chiefs Fall in Line",
-      "zh-TW": "相關封面圖：川普（Trump）下令AI改稱「超級智慧」　科技巨頭配合"
+      "en": "Cover related to: Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+      "zh-TW": "相關封面圖：川普瘋狂的人工智慧品牌重塑是對科技主管的忠誠度測試——而且確實有效"
     },
     "publishedAt": "2026-10-02T15:00:00.000Z",
     "title": {
-      "en": "Trump Orders 'Super Intelligence' as New Name for AI; Tech Chiefs Fall in Line",
-      "zh-TW": "川普（Trump）下令AI改稱「超級智慧」　科技巨頭乖乖配合"
+      "en": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+      "zh-TW": "川普瘋狂的人工智慧品牌重塑是對科技主管的忠誠度測試——而且確實有效"
     },
     "summary": {
-      "en": "Donald Trump wants artificial intelligence rebranded as \"super intelligence\" — SI, the same initials as Slovenian internet domains. Wired frames the move as a loyalty test for tech executives that worked; the BBC reports \"unprecedented\" demand for Slovenian website names.",
-      "zh-TW": "唐納·川普（Donald Trump）要求將人工智慧改稱為「超級智慧」（SI），恰與斯洛維尼亞網域名縮寫相同。Wired形容這是對科技高管的忠誠度測試且奏效；BBC報導斯洛維尼亞網域名出現「前所未有」的搶註潮。"
+      "en": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "zh-TW": "總統希望人工智慧被稱為超級智慧（SI），與斯洛維尼亞網域使用的縮寫相同。"
     },
     "body": {
-      "en": "What happened\nDonald Trump wants the term \"AI\" retired in favor of \"super intelligence\" — abbreviated SI, which happens to be the same two letters used by Slovenian internet domains. Wired describes the rebrand as a loyalty test for technology executives: after years of gushing about AI, the piece says, billionaire tech chiefs \"meekly went along when Trump canceled the term.\" The BBC, meanwhile, reports the rebrand has triggered \"unprecedented\" demand for Slovenian (.si) website names as speculators and businesses rush to register domains matching the new initialism.\nWhy it matters\nPresidents have long tried to shape the language of technology, but rarely does a naming whim move a domain market overnight. The episode doubles as a read on the current power balance between Washington and Silicon Valley: public deference from executives who once set the AI agenda themselves.\nSources agree / disagree\nWired and the BBC agree on the basic fact — Trump is pushing \"super intelligence\" as the replacement term — and cover complementary angles: Wired on executive compliance, the BBC on the Slovenian domain rush. Neither outlet disputes the other's account.\nStill uncertain\nIt is unclear whether any formal directive or executive order underpins the rebrand, or whether it remains presidential rhetoric. The BBC describes domain demand as \"unprecedented,\" but no specific registration numbers appear in the feed summary.",
-      "zh-TW": "發生了什麼事\n唐納·川普（Donald Trump）希望淘汰「AI」一詞，改稱「超級智慧」（super intelligence），縮寫SI恰好與斯洛維尼亞網域名相同。Wired將此形容為對科技高管的忠誠度測試：文中稱，這些億萬富豪高管多年來對AI讚不絕口，川普一聲令下便「乖乖配合」。BBC則報導，改名已引發斯洛維尼亞（.si）網域名「前所未有」的搶註潮，投機者與企業搶著註冊符合新縮寫的網址。\n為什麼重要\n總統試圖形塑科技語言並不稀奇，但一句話一夜之間牽動網域市場實屬罕見。這起事件也是華府與矽谷權力消長的縮影：曾經主導AI議程的高管，如今公開順從。\n來源異同\nWired與BBC對基本事實說法一致——川普正推動以「超級智慧」取代AI，只是角度互補：Wired談高管配合，BBC談斯洛維尼亞網域搶註潮。雙方報導互不衝突。\n仍不確定\n改名背後是否有正式指令或行政命令，抑或僅止於總統喊話，目前不明。BBC形容網域需求「前所未有」，但摘要中未給出具體註冊數字。"
+      "en": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains. What happened\nTrump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked. The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains. For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term. Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (BBC Technology, Wired AI) in the tech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names\" (BBC Technology); \"Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked\" (Wired AI).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC Technology, Wired AI",
+      "zh-TW": "總統希望人工智慧被稱為超級智慧（SI），與斯洛維尼亞網域使用的縮寫相同。 發生了什麼事\n川普瘋狂的人工智慧品牌重塑是對科技高層的忠誠度測試——而且它奏效了。總統希望人工智慧被稱為超級智慧（SI），與斯洛維尼亞網域使用的縮寫相同。多年來，這些億萬富翁對人工智慧滔滔不絕。但當川普取消這個任期時，他們卻乖乖地同意了。 為什麼這很重要\n此集群由科技類別中 2 個管道（BBC Technology、Wired AI）的 2 個 Feed 項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「川普的人工智慧品牌重塑導致對斯洛維尼亞網站名稱的『前所未有』的需求」（BBC Technology）；「川普瘋狂的人工智慧品牌重塑是對技術高管的忠誠度測試——而且它奏效了」（連線人工智慧）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（僅限媒體名稱）：BBC Technology、Wired AI"
     },
     "sources": [
       {
@@ -486,1007 +386,475 @@
       }
     ],
     "disagreements": null,
-    "trustScore": 62,
+    "trustScore": 56,
     "trustBreakdown": {
       "sourceDiversity": 16,
       "outletReputation": 14,
       "crossCorroboration": 15,
-      "recencyClarity": 17
+      "recencyClarity": 11
     },
     "tags": [
       "tech",
       "live-ingest",
       "bbc-technology",
       "wired-ai"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "唐納·川普",
-          "en": "Donald Trump"
-        },
-        "blurb": {
-          "zh-TW": "美國總統；下令將AI改稱「超級智慧」。",
-          "en": "US president; ordered AI rebranded as \"super intelligence\"."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "超級智慧",
-          "en": "Super intelligence"
-        },
-        "blurb": {
-          "zh-TW": "川普提議取代AI的新名稱，縮寫SI。",
-          "en": "Trump's proposed replacement term for AI, abbreviated SI."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "斯洛維尼亞",
-          "en": "Slovenia"
-        },
-        "blurb": {
-          "zh-TW": "歐洲國家；其.si網域縮寫恰為SI，需求暴增。",
-          "en": "European country whose .si domains share the SI initials, now in hot demand."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "Wired",
-          "en": "Wired"
-        },
-        "blurb": {
-          "zh-TW": "美國科技雜誌；將改名形容為忠誠度測試。",
-          "en": "US technology magazine; framed the rebrand as a loyalty test."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "BBC",
-          "en": "BBC"
-        },
-        "blurb": {
-          "zh-TW": "英國公共廣播公司；報導斯洛維尼亞網域搶註潮。",
-          "en": "British public broadcaster; reported the Slovenian domain rush."
-        }
-      }
     ]
   },
   {
-    "id": "live-ai-01-documenting-the-tech-wor",
+    "id": "live-ai-01-the-nvidia-shield-tv-is-",
     "category": "ai",
     "adult": false,
     "isHeadline": false,
     "isPopular": false,
-    "imageUrl": "/covers/live/live-ai-01-documenting-the-tech-wor.jpg",
+    "imageUrl": "/covers/live/live-ai-01-the-nvidia-shield-tv-is-.jpg",
     "imageAlt": {
-      "en": "Cover related to: MIT News Documents the Tech Worker Movement, From Dot-Com Crash to Today",
-      "zh-TW": "相關封面圖：MIT新聞（MIT News）記錄科技勞工運動　從網路泡沫到今日"
+      "en": "Cover related to: The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "zh-TW": "相關封面圖：Nvidia Shield TV 已有 7 歲了。它剛剛漲價 100 美元"
     },
-    "publishedAt": "2026-10-02T17:00:00.000Z",
+    "publishedAt": "2026-10-03T18:00:00.000Z",
     "title": {
-      "en": "MIT News Documents the Tech Worker Movement, From Dot-Com Crash to Today",
-      "zh-TW": "MIT新聞（MIT News）記錄科技勞工運動　從網路泡沫到今日"
+      "en": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "zh-TW": "Nvidia Shield TV 已有 7 歲了。它剛剛漲價 100 美元"
     },
     "summary": {
-      "en": "An MIT News feature traces the tech worker movement from the 2000 dot-com crash to the present. Despite the bust, technology remained a magnet for workers who saw it as the future — and grew into a dominant force in the labor market.",
-      "zh-TW": "MIT新聞（MIT News）專題回顧科技勞工運動，從2000年網路泡沫走到今日。儘管泡沫破裂，科技業仍吸引相信科技即未來的工作者，逐漸成為勞動市場的主導力量。"
+      "en": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "zh-TW": "由於人工智慧，任何有記憶的東西的價格都在飛漲。老化的串流媒體設備也不例外。"
     },
     "body": {
-      "en": "What happened\nMIT News has published a feature documenting the tech worker movement, tracing its arc from the 2000 dot-com crash to the present day. The piece notes that even after the crash, the technology industry remained an attractive destination for workers who believed technology represented the future. The digital age — defined by global connectivity and computers — had firmly taken hold, and over time the tech industry emerged as a dominant force in the labor market, drawing engineers, designers and professionals across a wide range of high-paying roles.\nWhy it matters\nTech workers' collective action — from walkouts to union drives — has become one of the defining labor stories of the digital era, yet its history is still being written. A documented account from an institution like MIT gives the movement a historical record beyond headlines and company statements.\nSources agree / disagree\nThis is currently a single-outlet item from MIT News; no other allow-listed outlet in the feed set has picked it up, so there is no corroboration or dispute to report.\nStill uncertain\nThe feed summary excerpts only the opening of the feature; its full scope, interviews and conclusions are in the MIT News piece itself.",
-      "zh-TW": "發生了什麼事\nMIT新聞（MIT News）刊出專題，記錄科技勞工運動的發展軌跡，從2000年網路泡沫一路寫到今日。文中指出，即便泡沫破裂，科技業對相信「科技即未來」的工作者仍具吸引力。全球連網與電腦定義的數位時代已經成形，科技業逐漸成為勞動市場的主導力量，吸納工程師、設計師與各領域高薪專業人才。\n為什麼重要\n科技勞工的集體行動——從罷工到組工會——已是數位時代最具代表性的勞工故事之一，但其歷史仍在書寫。來自MIT這樣的機構的系統性記錄，讓這場運動留下超越頭條與公司聲明的歷史檔案。\n來源異同\n目前僅MIT新聞單一來源報導，群組內其他媒體尚未跟進，無從佐證也無分歧可記。\n仍不確定\n摘要僅節錄專題開頭；完整篇幅、訪談與結論請見MIT新聞原文。"
+      "en": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception. What happened\nThe Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike. The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception. Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (Wired AI) in the ai category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Wired AI Additional feed context\n(1) The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "zh-TW": "由於人工智慧，任何有記憶的東西的價格都在飛漲。老化的串流媒體設備也不例外。 發生了什麼事\nNvidia Shield TV 已有 7 歲了。它剛剛漲價 100 美元。由於人工智慧，任何有記憶的東西的價格都在飛漲。老化的串流媒體設備也不例外。 為什麼這很重要\n此集群由人工智慧類別中 1 個出口（有線人工智慧）的 1 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（僅限頻道名稱）：Wired AI 附加提要上下文\n(1) 由於人工智慧，任何有記憶的東西的價格都在飛漲。老化的串流媒體設備也不例外。"
     },
     "sources": [
       {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918"
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"
       }
     ],
     "disagreements": null,
-    "trustScore": 57,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 23,
-      "crossCorroboration": 8,
-      "recencyClarity": 18
-    },
-    "tags": [
-      "ai",
-      "live-ingest",
-      "mit-news-ai"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "MIT新聞",
-          "en": "MIT News"
-        },
-        "blurb": {
-          "zh-TW": "麻省理工學院新聞室；刊出此專題。",
-          "en": "Massachusetts Institute of Technology's news office; published the feature."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "科技勞工運動",
-          "en": "Tech worker movement"
-        },
-        "blurb": {
-          "zh-TW": "科技業員工的集體行動，從罷工到組工會。",
-          "en": "Collective organizing by technology industry employees, from walkouts to union drives."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "網路泡沫",
-          "en": "Dot-com crash"
-        },
-        "blurb": {
-          "zh-TW": "2000年網路公司估值崩盤。",
-          "en": "The 2000 collapse of internet-company valuations."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "數位時代",
-          "en": "Digital age"
-        },
-        "blurb": {
-          "zh-TW": "以全球連網與電腦為特徵的時代。",
-          "en": "Era defined by global connectivity and computers."
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-ai-02-computational-tools-for-",
-    "category": "ai",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-ai-02-computational-tools-for-.jpg",
-    "imageAlt": {
-      "en": "Cover related to: MIT Profiles Cathy Wu, Building Computational Tools for Society's Hardest Problems",
-      "zh-TW": "相關封面圖：MIT專訪凱西·吳（Cathy Wu）　用運算工具解決社會難題"
-    },
-    "publishedAt": "2026-10-02T19:30:00.000Z",
-    "title": {
-      "en": "MIT Profiles Cathy Wu, Building Computational Tools for Society's Hardest Problems",
-      "zh-TW": "MIT專訪凱西·吳（Cathy Wu）　用運算工具解決社會最棘手難題"
-    },
-    "summary": {
-      "en": "MIT News profiles Cathy Wu, class of 2012, who has spent her career building computational tools for society's most complex challenges. The daughter of Taiwanese immigrants, Wu was driven by a childhood on a tight budget with a father working long commutes.",
-      "zh-TW": "MIT新聞（MIT News）專訪2012年畢業的凱西·吳（Cathy Wu），回顧她如何打造運算工具、解決社會最複雜的難題。身為台灣移民之女，童年家境拮据、父親長途通勤，塑造了她改善人們生活的志向。"
-    },
-    "body": {
-      "en": "What happened\nMIT News has profiled Cathy Wu, class of 2012 with a master's in 2013, whose work centers on computational tools for society's most complex challenges. As far back as she can remember, Wu wanted to find ways to solve problems and improve people's lives. Her parents were Taiwanese immigrants, and her father endured a long commute that took him away from the family; on a tight budget, the rest of the family often stayed home on a street too busy for children to play outdoors, and Wu and her siblings spent much of their time playing together indoors. The profile presents her drive to improve people's lives as the throughline connecting that upbringing to her research career.\nWhy it matters\nWu's trajectory — from a frugal immigrant household to building computational approaches to societal problems — illustrates how personal background shapes research agendas. Profiles like this also put a human face on an often abstract field.\nSources agree / disagree\nThis is a single-outlet MIT News profile; no other feed source has covered it, so there is nothing to corroborate or contest.\nStill uncertain\nThe summary excerpts the profile's opening; Wu's specific projects and findings are detailed in the full MIT News piece. The excerpt also gives no sense of where her tools are being applied today — in research labs, public policy, or industry — leaving that to the full profile.",
-      "zh-TW": "發生了什麼事\nMIT新聞（MIT News）專訪凱西·吳（Cathy Wu），她2012年大學畢業、2013年取得碩士，工作重心是用運算工具解決社會最複雜的難題。吳自有記憶以來就想找到解決問題、改善人們生活的方法。父母是台灣移民，父親長途通勤、長時間不在家；家境拮据，一家人常待在家中，門前馬路車多到孩子無法在外玩耍，吳與手足多半在室內一起玩。\n為什麼重要\n吳的軌跡——從節儉的移民家庭到打造運算方法解決社會問題——說明個人背景如何形塑研究志向。這類人物專訪也讓抽象的領域有了人的面孔。\n來源異同\n目前僅MIT新聞單一來源專訪，群組內無其他媒體報導，無從佐證也無分歧。\n仍不確定\n摘要僅節錄專訪開頭；吳的具體研究項目與成果詳見MIT新聞原文。"
-    },
-    "sources": [
-      {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 57,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 23,
-      "crossCorroboration": 8,
-      "recencyClarity": 18
-    },
-    "tags": [
-      "ai",
-      "live-ingest",
-      "mit-news-ai"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "凱西·吳",
-          "en": "Cathy Wu"
-        },
-        "blurb": {
-          "zh-TW": "MIT校友（2012學士、2013碩士）；打造運算工具解決社會難題。",
-          "en": "MIT alumna (2012, MNG 2013) building computational tools for societal problems."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "麻省理工學院",
-          "en": "MIT"
-        },
-        "blurb": {
-          "zh-TW": "麻省理工學院；吳的母校與專訪刊出單位。",
-          "en": "Massachusetts Institute of Technology; Wu's alma mater and the profile's publisher."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "台灣移民",
-          "en": "Taiwanese immigrants"
-        },
-        "blurb": {
-          "zh-TW": "吳的父母；拮据的家境形塑了她的研究志向。",
-          "en": "Wu's parents; their frugal household shaped her research direction."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "運算工具",
-          "en": "Computational tools"
-        },
-        "blurb": {
-          "zh-TW": "應用於複雜社會難題的軟體與演算法方法。",
-          "en": "Software and algorithmic methods applied to complex societal challenges."
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-05-newtalk",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "publishedAt": "2026-10-02T00:28:44.000Z",
-    "title": {
-      "en": "Xi Lan Clashes With Astrologer Tang Qiyang in Profanity-Laced Livestream",
-      "zh-TW": "錫蘭直播開嗆唐綺陽　飆髒話比中指惹議　唐冷回：不隨之起舞"
-    },
-    "summary": {
-      "en": "Taiwanese creator Xi Lan sparked outrage after swearing and flashing the middle finger at astrologer Tang Qiyang during a livestream, calling astrology baseless and telling her to \"shut up.\" Tang coolly responded she would not \"dance along,\" while a lawyer defended her online.",
-      "zh-TW": "網紅錫蘭在直播中隔空開嗆占星師唐綺陽，飆髒話、比中指，批星座「沒數據」、要她「閉嘴」，引發譁然。唐綺陽冷回「不隨之起舞」；有律師發文護航，形容「天上掉下來的屎不用接」。"
-    },
-    "body": {
-      "en": "What happened\nTaiwanese internet personality Xi Lan ignited controversy after using a livestream to attack celebrity astrologer Tang Qiyang — swearing, flashing the middle finger and shouting \"shut up\" while taunting her to \"look at my PPT,\" and dismissing astrology as made-up and unsupported by data. Multiple outlets — including Newtalk, UDN, ETtoday, Mirror Media and FTV — carried the confrontation. Tang responded coolly, saying she would not \"dance along\" with the provocation; one report notes she had recently foreshadowed \"trouble falling from the sky,\" which coverage framed as an eerily accurate prediction. A lawyer publicly defended Tang, writing that unsolicited attacks are like \"shit falling from the sky\" — not worth catching. Coverage also revisited Tang's backstory of giving up a six-figure monthly salary to become an astrologer.\nWhy it matters\nThe clash pits Taiwan's creator economy against its celebrity astrology industry — two pillars of local online culture — and the \"PPT\" taunt has become its own meme. How Tang's measured non-response plays against Xi Lan's shock tactics is now the story's second act.\nSources agree / disagree\nOutlets agree on the core sequence: the livestream insults, the middle finger, Tang's \"won't dance along\" reply and the lawyer's defense. They differ only in emphasis — some frame it as part of Xi Lan's pattern of confrontational call-outs, while others focus on Tang's composure.\nStill uncertain\nWhether either party will escalate — legally or on-stream — is unknown. The feed summaries do not say whether Tang plans any formal response beyond her initial cool reply.",
-      "zh-TW": "發生了什麼事\n網紅錫蘭在直播中隔空開嗆占星師唐綺陽，飆髒話、比中指、高喊「Shut up」，還嗆「看我PPT」，批星座是瞎掰、「沒數據」，引發譁然。Newtalk、聯合報、ETtoday、鏡報、民視等多家媒體跟進報導。唐綺陽冷回「不隨之起舞」；有報導指她稍早才預告「禍從天上來」，被形容為精準命中。一名律師公開護航，寫道「天上掉下來的屎不用接」。報導也回顧唐綺陽當年放棄6位數月薪轉戰占星的心路歷程。\n為什麼重要\n這場衝突是台灣創作者經濟對上名人占星產業——兩大在地網路文化支柱的對撞，「看我PPT」更成了獨立迷因。唐綺陽的冷處理對上錫蘭的震撼戰術，後續如何發展已是故事的第二幕。\n來源異同\n各媒體對核心經過說法一致：直播飆罵、比中指、唐綺陽「不隨之起舞」的回應、律師護航。差異只在角度：部分媒體將此定位為錫蘭一貫的嗆辣開撕風格，也有的聚焦唐綺陽的沉著。\n仍不確定\n雙方是否會進一步升級——走法律途徑或再開直播對嗆——目前未知。摘要中未見唐綺陽除冷回應之外的正式動作。"
-    },
-    "sources": [
-      {
-        "name": "tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMGFLcHM3VGdpbG5oQXQ0UjB6TEVURkgyTHRydWRydmRPSHFjVl9STGdUeDlDZXJxR1JJNmhod0lGR2p0cXI4SDl2NGdWTUNRZEpUTVh3azl6azlkUGNod1FBUlppTlhnX195clYzQmRPQmZiTkNMakliQjhUZnNLeGd1TnM4amE1T2ZpaUtPRGNmMGUtZjVXYlplZVdVQ2RGbUE4eFhQRUwzWS1MU1pFOUVNV3BVa3R3TnBtZDJfMGVhNnFIOTN3N001R1FvbjlvNjQ5NW9sWlVueTc4STJwNlAyVWZPbHYzUlpoYmlXZWQtTnAtcllHRTRSdDRmcHdxNndBU1pWeW9aSlBheElNbHZZbVJvN0t2SGNqa21wWERvQUphWGE4U2lyRmNHTXBpRjZUV040WUdyNnFkU2dlMlVBaXd2Y2wzdTkzcGFISllUVUEtLWxVbXdGZU1JOVpmankwQVhydVIwcnNYa1N3?oc=5"
-      },
-      {
-        "name": "udn.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EV09ZWFhQckw1RVh4YU1YZHpzLVgyRXFOV3lJcXlOZ19FTV90cm9lWldScXFja0c2eVhfelFYVTh5NWlyOHZYdFltR1hDTmVqaG9kZXQ0LTBGZw?oc=5"
-      },
-      {
-        "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UU19NOE5rR0F6TG56akswbXMxM2UxMGZtS0xMRy1rZVJqMjZfc2dYeFRWUFljNjJVeE83WVlCTFQ0MjhWeEJlMzRwVjJxckpzZHBWSUVB?oc=5"
-      },
-      {
-        "name": "壹蘋新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd294S1o1N21LVmYxWjBYa1BEZjAxVkN5X1NUNU9fdWFIakdJcDU4N0VoYldqUkIzTl9QbkRubFNCampTZUNSTjR5bWUzeU5EaklTNzhKUmxDdHNmemJFMVhSeVIwMmlQek5WamF4c2x0R2JBQjZKUWV4STZRLWRQZS1wNUhtSVp1N3c?oc=5"
-      },
-      {
-        "name": "造咖",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6VWs3aU9RakMtam9MYmJoRFM4T0EyOFVqUmJadW1Iby0xdnBsVUl3RE43WUEycGVDOWczbFhRNEFvcXVGVHQ3MA?oc=5"
-      },
-      {
-        "name": "ettoday.net",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13aVFwRmxGNDJvUEIxTGROS0hnRllVUVlRcExOT2FTRUd5QkoxUzFFQUkwUW5iSFNiUWJIdmNPLWVzdnpMZ2NQV2NXa2ZsUdIBTEFVX3lxTFBnSWFMRU9GSTF2X3BKeU85TWRtYjlJTkJMZklMYll5UEZtMEd2YzFWSHF5ZlBJYWpoaHRhNjdwalVlaGo4WHhqaFJ5Rjk?oc=5"
-      },
-      {
-        "name": "鏡報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfaGlBWkNYck8xQzJQeWN2Wk8tZXMwdXdjMC1XQ0kzT2M3SFg1czNSdzBKSEFXTWdfX1Q1WUJYdnZDUXMxbjd0MVM1SlVMRHc5aGc?oc=5"
-      },
-      {
-        "name": "民視財經網",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oVDBSMVVCRUpPRFpfMWpqalhQbkNDUktfM0ZnNnhmdXBOV0VTTEMyWWJJODhzbUhPNUR5ZzdNYlRVZDZpbHhnbU9wNU9nUU02dDB1MFV0Y2dWVnBoemo0QUpLbXhTQQ?oc=5"
-      },
-      {
-        "name": "mirrormedia.mg",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TUHNTcHNubkVhSVlIbURpcFlrcjU3Q0NycERzYUExbnlvQmM3M3QyYXo3R1l0eVNKQ3NBXzdkSXE3TGlnc1U0S09kUHg1cEZyTXN3d3ZR?oc=5"
-      },
-      {
-        "name": "newtalk.tw",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUcElJODRsUWVkVXZYYURUQXpva3FsMHBNUXViWHdheWhLcDJ3Q3V5bXhoNUJsazd5dTRuajh2M0tFczBORFAwN21QR0JxTzRvZDR5MHh3?oc=5"
-      },
-      {
-        "name": "cts.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpVDItN1VrNlF0eTlvUDZzYnlEUmk1U1pmQTUyd3Y4dlYtNU9vQ0JRUXhickpGaTZEUUVMbXJBSlZTbVdoTlhkSmdXdFpHZ1ZIUWw5OHB3?oc=5"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 11,
-      "crossCorroboration": 25,
-      "recencyClarity": 12
-    },
-    "tags": [
-      "eastAsiaGossip",
-      "live-ingest",
-      "region:tw",
-      "gnews-tw-heat:錫蘭直播開嗆",
-      "gnews-tw-heat:錫蘭直播開嗆",
-      "gnews-tw-heat:錫蘭直播開嗆"
-    ],
-    "region": "tw",
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "錫蘭",
-          "en": "Xi Lan"
-        },
-        "blurb": {
-          "zh-TW": "台灣網紅；以直播隔空開嗆、言詞辛辣著稱。",
-          "en": "Taiwanese internet personality known for confrontational livestream call-outs."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "唐綺陽",
-          "en": "Tang Qiyang"
-        },
-        "blurb": {
-          "zh-TW": "台灣知名占星師；對錫蘭挑釁冷回「不隨之起舞」。",
-          "en": "Celebrity Taiwanese astrologer; responded coolly to Xi Lan's attack."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "國師",
-          "en": "Guoshi"
-        },
-        "blurb": {
-          "zh-TW": "唐綺陽的暱稱，意指國民級占星師。",
-          "en": "Nickname for Tang Qiyang, roughly \"national astrologer\"."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "占星",
-          "en": "Astrology"
-        },
-        "blurb": {
-          "zh-TW": "星座運勢預測；錫蘭批其「沒數據」、瞎掰。",
-          "en": "Star-sign forecasting; Xi Lan called it baseless and unsupported by data."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "Newtalk",
-          "en": "Newtalk"
-        },
-        "blurb": {
-          "zh-TW": "台灣網路媒體（新頭殼）；以此衝突為頭條。",
-          "en": "Taiwanese online news outlet that headlined the clash."
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-finance-02-g7-to-release-up-to-100m",
-    "category": "finance",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-finance-02-g7-to-release-up-to-100m.jpg",
-    "imageAlt": {
-      "en": "Cover related to: G7 to Release Up to 100 Million Barrels of Emergency Oil and Diesel",
-      "zh-TW": "相關封面圖：G7將釋出最高1億桶緊急石油與柴油儲備"
-    },
-    "publishedAt": "2026-10-03T04:38:31.000Z",
-    "title": {
-      "en": "G7 to Release Up to 100 Million Barrels of Emergency Oil and Diesel",
-      "zh-TW": "G7將釋出最高1億桶緊急石油與柴油儲備　回應川普（Trump）斷供威脅"
-    },
-    "summary": {
-      "en": "G7 leaders have agreed to release up to 100 million barrels of emergency crude and diesel reserves after Donald Trump threatened to cut off US diesel supplies. The coordinated drawdown aims to head off price spikes and avert a US diesel export ban.",
-      "zh-TW": "七大工業國（G7）領袖同意釋出最高1億桶緊急原油與柴油儲備，此前唐納·川普（Donald Trump）威脅切斷美國柴油供應。這波協調釋儲旨在抑制油價飆漲，並避免美國祭出柴油出口禁令。"
-    },
-    "body": {
-      "en": "What happened\nLeaders of the G7 nations will release up to 100 million barrels of their emergency diesel and crude oil stockpiles, after Donald Trump threatened to cut off supplies of US diesel. French President Emmanuel Macron said ministers from some of the world's largest economies had agreed to the coordinated drawdown. The release is aimed at heading off further price spikes and at avoiding a ban on US diesel exports, which the summaries frame as the scenario the release is meant to prevent.\nWhy it matters\nA coordinated G7 stockpile release is a rare, heavyweight market intervention, and deploying it pre-emptively — before any actual supply cut — shows how seriously allies are taking Trump's threat. For consumers, it is meant to cap fuel prices heading into winter; for markets, it is a signal that governments will not let diesel become a trade weapon unanswered.\nSources agree / disagree\nThe Guardian and the BBC agree on the essentials: a coordinated G7 release following Trump's threat to cut US diesel supplies. They differ on the headline figure — the Guardian cites up to 100 million barrels, while the BBC's headline says \"millions of barrels\" without the specific number.\nStill uncertain\nThe timing and tranche structure of the release are not detailed in the feed summaries, nor is whether Trump's threatened cutoff — or the US export ban it was meant to forestall — will actually materialize.",
-      "zh-TW": "發生了什麼事\n七大工業國（G7）領袖將釋出最高1億桶緊急柴油與原油儲備，此前唐納·川普（Donald Trump）威脅切斷美國柴油供應。法國總統艾曼紐·馬克宏（Emmanuel Macron）表示，全球主要經濟體的部長已同意協調釋儲。此舉旨在抑制油價進一步飆漲，並避免美國祭出柴油出口禁令——摘要將後者描述為釋儲意圖防範的情境。\n為什麼重要\nG7協調釋儲是罕見的重磅市場干預，在實際斷供發生前就搶先出手，顯示盟國對川普威脅的重視程度。對消費者而言，這是為了壓住入冬前的燃料價格；對市場而言，則是政府不會坐視柴油淪為貿易武器的信號。\n來源異同\n衛報（The Guardian）與BBC對核心事實說法一致：川普威脅切斷美國柴油供應後，G7協調釋儲。差異在標題數字：衛報稱最高1億桶，BBC標題僅寫「數百萬桶」，未載明具體數字。\n仍不確定\n釋儲的時程與分批結構在摘要中未詳述；川普威脅的斷供、以及釋儲意圖防範的美國出口禁令是否真的會發生，目前不明。"
-    },
-    "sources": [
-      {
-        "name": "BBC Business",
-        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "The Guardian Business",
-        "url": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency"
-      }
-    ],
-    "disagreements": {
-      "en": "The Guardian cites up to 100 million barrels; the BBC's headline says \"millions of barrels\" without giving the 100-million figure.",
-      "zh-TW": "衛報（The Guardian）稱最高1億桶；BBC標題僅寫「數百萬桶」，未載明1億桶數字。"
-    },
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 16,
-      "crossCorroboration": 15,
-      "recencyClarity": 18
-    },
-    "tags": [
-      "finance",
-      "live-ingest",
-      "bbc-business",
-      "the-guardian-business"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "七大工業國",
-          "en": "G7"
-        },
-        "blurb": {
-          "zh-TW": "七個主要先進經濟體組成的集團；協調此次釋儲。",
-          "en": "Group of seven major advanced economies coordinating the reserve release."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "唐納·川普",
-          "en": "Donald Trump"
-        },
-        "blurb": {
-          "zh-TW": "美國總統；威脅切斷美國柴油供應。",
-          "en": "US president; threatened to cut off US diesel supplies."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "艾曼紐·馬克宏",
-          "en": "Emmanuel Macron"
-        },
-        "blurb": {
-          "zh-TW": "法國總統；表示G7部長同意釋儲。",
-          "en": "President of France; said G7 ministers agreed to the drawdown."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "衛報",
-          "en": "The Guardian"
-        },
-        "blurb": {
-          "zh-TW": "英國報紙；報導最高1億桶數字。",
-          "en": "British newspaper; reported the up-to-100-million-barrel figure."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "BBC",
-          "en": "BBC"
-        },
-        "blurb": {
-          "zh-TW": "英國公共廣播公司；以「數百萬桶」報導釋儲。",
-          "en": "British public broadcaster; reported the release as \"millions of barrels\"."
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-international-01-brazil-elections-head-to",
-    "category": "international",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-01-brazil-elections-head-to.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Brazil Heads to Presidential Runoff as Flavio Bolsonaro Edges Lula",
-      "zh-TW": "相關封面圖：巴西總統大選進入第二輪　弗拉維奧·波索納洛（Flavio Bolsonaro）險勝盧拉（Lula）"
-    },
-    "publishedAt": "2026-10-05T01:22:42.000Z",
-    "title": {
-      "en": "Brazil Heads to Presidential Runoff as Flavio Bolsonaro Edges Lula",
-      "zh-TW": "巴西總統大選進入第二輪　弗拉維奧·波索納洛（Flavio Bolsonaro）險勝盧拉（Lula）"
-    },
-    "summary": {
-      "en": "Brazil's presidential race will go to an Oct. 25 runoff after far-right challenger Flavio Bolsonaro, son of jailed ex-president Jair Bolsonaro, edged incumbent Luiz Inacio Lula da Silva in the first round without securing an outright majority. With more than 99% of votes counted, the margin was razor-thin; Washington is watching the polarized contest closely.",
-      "zh-TW": "巴西總統大選將於10月25日舉行第二輪投票。極右派挑戰者、入獄前總統雅伊爾·波索納洛（Jair Bolsonaro）之子弗拉維奧·波索納洛（Flavio Bolsonaro）首輪險勝現任左派總統盧拉（Lula），但未過半。"
-    },
-    "body": {
-      "en": "What happened\nBrazil's presidential race will go to a second round after the first round failed to produce an outright winner. Far-right challenger Flavio Bolsonaro — son of former president Jair Bolsonaro, who is in jail — edged the incumbent left-wing president, Luiz Inacio Lula da Silva, but fell short of the majority needed to avoid a runoff. With more than 99% of votes counted, the race appeared very close, the Guardian reports. If neither candidate wins more than half the votes, they will face each other again on Oct. 25. NPR notes the first round \"failed to fully energize voters,\" setting up a more polarized contest that Washington is watching very closely.\nWhy it matters\nA Lula-versus-Bolsonaro runoff reprises Brazil's deepest political divide, now with the Bolsonaro family's legal troubles as backdrop. The closeness of the first round suggests the runoff will be fought street by street — and the result will shape Latin America's largest economy and its alignment with Washington.\nSources agree / disagree\nNPR, the Guardian and the New York Times agree on the outcome: no first-round majority, Bolsonaro ahead of Lula, runoff on Oct. 25. The outlets differ only in emphasis — NPR on voter enthusiasm and Washington's attention, the Guardian on the vote count, the Times on the tight margin.\nStill uncertain\nPolling for the runoff has not been detailed in these summaries, and with the margin this tight, the next three weeks of campaigning could swing the result either way.",
-      "zh-TW": "發生了什麼事\n巴西總統大選首輪無人過半，將進入第二輪投票。極右派挑戰者弗拉維奧·波索納洛（Flavio Bolsonaro）——入獄前總統雅伊爾·波索納洛（Jair Bolsonaro）之子——險勝現任左派總統路易斯·伊納西奧·盧拉·達席爾瓦（Luiz Inacio Lula da Silva），但未達到免除第二輪所需的過半門檻。衛報（The Guardian）報導，開票超過99%時雙方票數非常接近。若無人拿下過半選票，兩人將於10月25日再度對決。NPR指出首輪「未能充分激發選民熱情」，第二輪將是更兩極化的對決，華府正密切關注。\n為什麼重要\n盧拉對決波索納洛，是巴西最深層政治分裂的重演，如今還疊加波索納洛家族的法律麻煩。首輪票數之接近，預告第二輪將是巷戰——結果將左右拉丁美洲最大經濟體的走向及其與華府的關係。\n來源異同\nNPR、衛報、紐約時報（The New York Times）對結果說法一致：首輪無人過半、波索納洛領先盧拉、10月25日第二輪。差異只在著重點：NPR談選民熱情與華府關注，衛報談開票進度，時報談票數接近。\n仍不確定\n摘要中未載明第二輪民調；票數如此接近，未來三週的競選操作足以翻盤。"
-    },
-    "sources": [
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro"
-      },
-      {
-        "name": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
-      },
-      {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 93,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 22,
-      "crossCorroboration": 22,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "npr-world",
-      "the-guardian-world",
-      "nyt-world"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "路易斯·伊納西奧·盧拉·達席爾瓦",
-          "en": "Luiz Inacio Lula da Silva"
-        },
-        "blurb": {
-          "zh-TW": "巴西現任左派總統；將與弗拉維奧·波索納洛進入第二輪對決。",
-          "en": "Brazil's incumbent left-wing president; faces a runoff against Flavio Bolsonaro."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "弗拉維奧·波索納洛",
-          "en": "Flavio Bolsonaro"
-        },
-        "blurb": {
-          "zh-TW": "極右派挑戰者；入獄前總統雅伊爾·波索納洛之子；首輪領先。",
-          "en": "Far-right challenger; son of jailed ex-president Jair Bolsonaro; led the first round."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "雅伊爾·波索納洛",
-          "en": "Jair Bolsonaro"
-        },
-        "blurb": {
-          "zh-TW": "巴西前總統，目前入獄中；弗拉維奧之父。",
-          "en": "Former Brazilian president, currently jailed; Flavio's father."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "NPR",
-          "en": "NPR"
-        },
-        "blurb": {
-          "zh-TW": "美國公共廣播電台；報導第二輪日期與華府關注。",
-          "en": "US public radio network; reported the runoff date and Washington's attention."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "衛報",
-          "en": "The Guardian"
-        },
-        "blurb": {
-          "zh-TW": "英國報紙；報導開票近完成、票數接近。",
-          "en": "British newspaper; reported the vote count nearing completion."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "紐約時報",
-          "en": "The New York Times"
-        },
-        "blurb": {
-          "zh-TW": "美國報紙；報導首輪票數接近。",
-          "en": "US newspaper; covered the tight first-round margin."
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-tech-02-google-froze-its-open-so",
-    "category": "tech",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-tech-02-google-froze-its-open-so.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Google Freezes Open-Source Bug Bounty Amid 'Significant Rise' in AI Submissions",
-      "zh-TW": "相關封面圖：Google凍結開源漏洞懸賞計畫　AI提交暴增"
-    },
-    "publishedAt": "2026-10-04T20:31:07.000Z",
-    "title": {
-      "en": "Google Freezes Open-Source Bug Bounty Amid 'Significant Rise' in AI Submissions",
-      "zh-TW": "Google凍結開源漏洞懸賞計畫　AI提交暴增致「AI垃圾」淹沒審查"
-    },
-    "summary": {
-      "en": "Google has frozen its open-source bug bounty program, citing a \"significant rise\" in AI-generated submissions. TechCrunch reports that low-quality AI output — \"AI slop\" — is overwhelming the human review the program depends on. Google has not said how long the freeze will last or what quality bar would justify reopening.",
-      "zh-TW": "Google以AI生成提交「顯著增加」為由，凍結其開源漏洞懸賞計畫。TechCrunch報導，低品質的AI產出（「AI垃圾」）正淹沒計畫所依賴的人工審查。"
-    },
-    "body": {
-      "en": "What happened\nGoogle has frozen its open-source bug bounty program after a \"significant rise\" in AI-generated submissions, TechCrunch reports. The flood of low-quality, AI-produced reports — dubbed \"AI slop\" — appears to be overwhelming the human triage and review capacity that makes a bounty program useful. The freeze applies to the open-source program; the report does not say whether Google's other bounty programs are affected.\nWhy it matters\nBug bounties only work if reviewers can trust that reports are worth reading. If AI-generated noise can shut down even Google's program, it is a warning for every security team relying on crowdsourced vulnerability discovery: the economics of AI-assisted submission favor volume over quality, and defenses built for human reporters are buckling. The episode points to a broader shift — as AI makes it cheap to generate plausible-looking reports, every intake pipeline built on human good faith faces the same volume-versus-veracity problem.\nSources agree / disagree\nThis is a single-outlet TechCrunch item; no other feed source has corroborated or disputed it.\nStill uncertain\nIt is unclear how long the freeze will last, what threshold of submission quality would justify reopening, or whether Google will introduce AI-specific submission rules. The feed summary gives no statement from Google beyond the reported reason, nor does it say whether existing program participants were notified in advance or what will happen to reports already in the queue.",
-      "zh-TW": "發生了什麼事\nGoogle在AI生成提交「顯著增加」後，凍結了開源漏洞懸賞計畫，TechCrunch報導。被稱為「AI垃圾」的大量低品質AI產出報告，似乎已淹沒讓懸賞計畫得以運作的人工分類與審查能量。凍結範圍是開源計畫；報導未說明Google其他懸賞計畫是否受影響。\n為什麼重要\n漏洞懸賞的前提是審查者相信報告值得一讀。連Google的計畫都會被AI生成的雜訊逼停，這是對所有依賴群眾外包找漏洞的安全團隊的警告：AI輔助提交的經濟學獎勵數量而非品質，為人類回報者設計的防線正在失守。\n來源異同\n目前僅TechCrunch單一來源報導，群組內無其他媒體佐證或反駁。\n仍不確定\n凍結會持續多久、什麼樣的提交品質門檻足以重啟、Google是否會訂定針對AI的提交規則，目前不明。摘要中除報導的理由外，未載明Google的正式聲明。"
-    },
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 59,
+    "trustScore": 51,
     "trustBreakdown": {
       "sourceDiversity": 8,
       "outletReputation": 18,
+      "crossCorroboration": 8,
+      "recencyClarity": 17
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "wired-ai"
+    ]
+  },
+  {
+    "id": "live-ai-02-rural-data-centers-are-i",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-ai-02-rural-data-centers-are-i.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Rural Data Centers Are in for a Big Federal Tax Break",
+      "zh-TW": "相關封面圖：農村資料中心將享有聯邦大幅稅收減免"
+    },
+    "publishedAt": "2026-10-04T10:00:00.000Z",
+    "title": {
+      "en": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "zh-TW": "農村資料中心將享有聯邦大幅稅收減免"
+    },
+    "summary": {
+      "en": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "zh-TW": "根據《一大美麗法案》，從明年開始，農村地區的資料中心專案可能有資格獲得主要稅收優惠。一些超大規模企業似乎並不急於獲得免費現金。"
+    },
+    "body": {
+      "en": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash. What happened\nRural Data Centers Are in for a Big Federal Tax Break. Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash. Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (Wired AI) in the ai category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Wired AI Additional feed context\n(1) Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "zh-TW": "根據《一大美麗法案》，從明年開始，農村地區的資料中心專案可能有資格獲得主要稅收優惠。一些超大規模企業似乎並不急於獲得免費現金。 發生了什麼事\n农村数据中心将享受联邦大幅税收减免。根據《一大美麗法案》，從明年開始，農村地區的資料中心專案可能有資格獲得主要稅收優惠。一些超大規模企業似乎並不急於獲得免費現金。 為什麼這很重要\n此集群由人工智慧類別中 1 個出口（有線人工智慧）的 1 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（僅限頻道名稱）：Wired AI 附加提要上下文\n(1) 根据《一大美丽法案》，从明年开始，农村地区的数据中心项目可能有资格获得主要税收优惠。一些超大規模企業似乎並不急於獲得免費現金。"
+    },
+    "sources": [
+      {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 51,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 18,
+      "crossCorroboration": 8,
+      "recencyClarity": 17
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "wired-ai"
+    ]
+  },
+  {
+    "id": "live-tech-02-mcp-for-agent-to-agent-c",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-tech-02-mcp-for-agent-to-agent-c.jpg",
+    "imageAlt": {
+      "en": "Cover related to: MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "zh-TW": "相關封面圖：用於代理間通訊的 MCP 可能是您從未聽說過的風險最高的協議"
+    },
+    "publishedAt": "2026-10-05T22:26:35.000Z",
+    "title": {
+      "en": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "zh-TW": "用於代理間通訊的 MCP 可能是您從未聽說過的風險最高的協議"
+    },
+    "summary": {
+      "en": "The adoption of AI agents in millions of organizations is creating new opportunities for attackers to make them take malicious actions, such as exfiltrating database contents and sensitive business and personal inform…",
+      "zh-TW": "數以百萬計的組織採用人工智慧代理，為攻擊者創造了新的機會，使他們採取惡意行動，例如竊取資料庫內容以及敏感的業務和個人資訊…"
+    },
+    "body": {
+      "en": "The adoption of AI agents in millions of organizations is creating new opportunities for attackers to make them take malicious actions, such as exfiltrating database contents and sensitive business and personal information. In the past five months, Google and four other organizat What happened\nMCP for agent-to-agent comms may be the riskiest protocol you've never heard of. The adoption of AI agents in millions of organizations is creating new opportunities for attackers to make them take malicious actions, such as exfiltrating database contents and sensitive business and personal information. In the past five months, Google and four other organizations—with little in common except for their use of AI agents—have acknowledged vulnerabilities that exploit one agent in Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (Ars Technica) in the tech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Ars Technica",
+      "zh-TW": "數以百萬計的組織採用人工智慧代理，為攻擊者創造了新的機會，使他們採取惡意行動，例如竊取資料庫內容以及敏感的業務和個人資訊。在過去的五個月裡，Google和其他四個組織 發生了什麼事\n用於代理間通訊的 MCP 可能是您從未聽說過的風險最高的協定。數以百萬計的組織採用人工智慧代理，為攻擊者創造了新的機會，使他們採取惡意行動，例如竊取資料庫內容以及敏感的業務和個人資訊。在過去的五個月裡，Google和其他四個組織（除了使用人工智慧代理之外幾乎沒有什麼共同點）承認利用一個代理的漏洞 為什麼這很重要\n此集群由科技類別中 1 個管道 (Ars Technica) 的 1 個 Feed 項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（僅限通路名稱）：Ars Technica"
+    },
+    "sources": [
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 60,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 19,
       "crossCorroboration": 8,
       "recencyClarity": 25
     },
     "tags": [
       "tech",
       "live-ingest",
-      "techcrunch"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "Google",
-          "en": "Google"
-        },
-        "blurb": {
-          "zh-TW": "美國科技巨頭；凍結開源漏洞懸賞計畫。",
-          "en": "US tech giant; froze its open-source bug bounty program."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "漏洞懸賞",
-          "en": "Bug bounty"
-        },
-        "blurb": {
-          "zh-TW": "懸賞回報軟體漏洞的計畫。",
-          "en": "Programs paying researchers for reporting software vulnerabilities."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "AI垃圾",
-          "en": "AI slop"
-        },
-        "blurb": {
-          "zh-TW": "低品質AI生成內容；此處指灌水的懸賞提交。",
-          "en": "Low-quality AI-generated content; here, mass-produced bounty submissions."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "TechCrunch",
-          "en": "TechCrunch"
-        },
-        "blurb": {
-          "zh-TW": "美國科技新聞媒體；率先報導凍結消息。",
-          "en": "US technology news outlet; first reported the freeze."
-        }
-      }
+      "ars-technica"
     ]
   },
   {
-    "id": "live-international-02-trump-announces-super-in",
-    "category": "international",
+    "id": "live-finance-01-us-supreme-court-hears-b",
+    "category": "finance",
     "adult": false,
     "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-02-trump-announces-super-in.jpg",
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-finance-01-us-supreme-court-hears-b.jpg",
     "imageAlt": {
-      "en": "Cover related to: Trump Creates 'Super Intelligence Force' for AI Policy, Names Jay Clayton to Lead",
-      "zh-TW": "相關封面圖：川普（Trump）成立「超級智慧部隊」　任命傑伊·克萊頓（Jay Clayton）領軍"
+      "en": "Cover related to: US supreme court hears big oil’s bid to block climate damage lawsuits",
+      "zh-TW": "相關封面圖：美國最高法院聽取大型石油公司阻止氣候損害訴訟的請求"
     },
-    "publishedAt": "2026-10-05T01:33:08.000Z",
+    "publishedAt": "2026-10-05T19:57:36.000Z",
     "title": {
-      "en": "Trump Creates 'Super Intelligence Force' for AI Policy, Names Jay Clayton to Lead",
-      "zh-TW": "川普（Trump）成立「超級智慧部隊」主導AI政策　任命傑伊·克萊頓（Jay Clayton）領軍"
+      "en": "US supreme court hears big oil’s bid to block climate damage lawsuits",
+      "zh-TW": "美國最高法院聽取大型石油公司阻止氣候損害訴訟的請求"
     },
     "summary": {
-      "en": "Donald Trump has announced a \"Super Intelligence Force\" to coordinate government AI policy, naming national intelligence chief Jay Clayton to lead it. NPR dubs Clayton the new \"AI czar\" as worries over the technology grow. The task force's membership, budget and actual powers remain undisclosed.",
-      "zh-TW": "唐納·川普（Donald Trump）宣布成立「超級智慧部隊」，統籌政府AI政策，並任命國家情報首長傑伊·克萊頓（Jay Clayton）領軍。NPR稱其為新任「AI沙皇」，時值各界對AI疑慮升溫。"
+      "en": "How the court will lean is unclear amid Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state level The US supreme court began its new nine-month term hearing arguments on Monday in a major case in which bi…",
+      "zh-TW": "在森科爾能源公司和埃克森美孚公司試圖阻止州級訴訟的過程中，法院將如何傾斜尚不清楚美國最高法院週一開始新的為期九個月的聽證會辯論，該案件涉及兩起重大案件。"
     },
     "body": {
-      "en": "What happened\nDonald Trump has announced a new \"Super Intelligence Force\" to oversee AI policy and coordinate the government's engagement with artificial intelligence. Trump said his national intelligence chief, Jay Clayton, will lead the task force — NPR's headline dubs Clayton the new \"AI czar.\" The move is Trump's latest response to the intensifying debate over AI safety, TechCrunch notes, and comes as worries over the technology grow. The BBC's version of the story frames the announcement around the task force's policy-oversight role.\nWhy it matters\nPutting the intelligence chief in charge signals that Washington now treats AI primarily as a national-security question rather than a purely commercial one. A single coordinating body could streamline the government's scattered AI efforts — or concentrate power over the technology's future in one office.\nSources agree / disagree\nThe BBC, TechCrunch and NPR agree on the core facts: the \"Super Intelligence Force\" name, Clayton's leadership role, and the AI-policy coordination mission. They differ only in framing — NPR emphasizes the \"AI czar\" title, TechCrunch the unveiling moment, the BBC the oversight function.\nStill uncertain\nThe task force's membership, budget and actual powers are not detailed in the feed summaries, nor is how it will relate to existing AI-safety initiatives. Whether Congress will seek a role in overseeing it is also unknown.",
-      "zh-TW": "發生了什麼事\n唐納·川普（Donald Trump）宣布成立新的「超級智慧部隊」，督導AI政策、統籌政府與人工智慧的互動。川普表示，國家情報首長傑伊·克萊頓（Jay Clayton）將領導該部隊——NPR的標題稱其為新任「AI沙皇」。TechCrunch指出，這是川普對AI安全辯論升溫的最新回應。BBC的版本則從部隊的政策督導角色切入。\n為什麼重要\n由情報首長領軍，顯示華府如今主要把AI當成國安議題，而非純商業議題。單一統籌機構可能整合政府分散的AI工作——也可能把形塑科技未來的權力集中到一個辦公室。\n來源異同\nBBC、TechCrunch、NPR對核心事實說法一致：「超級智慧部隊」之名、克萊頓的領導角色、統籌AI政策的任務。差異只在框架：NPR強調「AI沙皇」頭銜，TechCrunch聚焦成立時刻，BBC談督導功能。\n仍不確定\n部隊的成員、預算與實際權限在摘要中未詳述，與現有AI安全倡議的關係也不明。國會是否會要求監督角色，同樣未知。"
+      "en": "How the court will lean is unclear amid Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state level The US supreme court began its new nine-month term hearing arguments on Monday in a major case in which big oil companies attempted to strike a fatal blow against lawsui What happened\nUS supreme court hears big oil’s bid to block climate damage lawsuits. How the court will lean is unclear amid Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state level The US supreme court began its new nine-month term hearing arguments on Monday in a major case in which big oil companies attempted to strike a fatal blow against lawsuits that seek to hold them accountable for the climate crisis . After the almost two-hour hearing, while it was not yet c Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (The Guardian Business) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Guardian Business",
+      "zh-TW": "森科爾能源公司和埃克森美孚公司試圖阻止州級訴訟，法院將採取何種態度尚不清楚美國最高法院週一開始新的為期九個月的聽證會，審理大型石油公司試圖對訴訟造成致命打擊的重大案件。 發生了什麼事\n美國最高法院聽取了大型石油公司阻止氣候損害訴訟的請求。森科爾能源公司和埃克森美孚公司試圖阻止州級訴訟，法院將採取何種態度尚不清楚美國最高法院週一開始新的為期九個月的聽證會，審理這起重大案件，在這起案件中，大型石油公司試圖對旨在追究其氣候危機責任的訴訟給予致命打擊。經過近兩個小時的聽證會，雖然尚未結束 為什麼這很重要\n此集群由金融類別 1 個管道（《衛報》）的 1 個提要項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（僅限媒體名稱）：衛報商業"
     },
     "sources": [
       {
-        "name": "BBC Business",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
-      },
-      {
-        "name": "NPR News",
-        "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 88,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 17,
-      "crossCorroboration": 22,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-business",
-      "techcrunch",
-      "npr-news"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "唐納·川普",
-          "en": "Donald Trump"
-        },
-        "blurb": {
-          "zh-TW": "美國總統；成立超級智慧部隊。",
-          "en": "US president; created the Super Intelligence Force."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "傑伊·克萊頓",
-          "en": "Jay Clayton"
-        },
-        "blurb": {
-          "zh-TW": "美國國家情報首長；被任命領導該部隊。",
-          "en": "US national intelligence chief; named to lead the task force."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "超級智慧部隊",
-          "en": "Super Intelligence Force"
-        },
-        "blurb": {
-          "zh-TW": "統籌美國政府AI政策的新任務小組。",
-          "en": "New task force coordinating US government AI policy."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "NPR",
-          "en": "NPR"
-        },
-        "blurb": {
-          "zh-TW": "美國公共廣播電台；稱克萊頓為新任「AI沙皇」。",
-          "en": "US public radio; called Clayton the new \"AI czar\"."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "TechCrunch",
-          "en": "TechCrunch"
-        },
-        "blurb": {
-          "zh-TW": "美國科技媒體；報導成立消息。",
-          "en": "US tech outlet; reported the unveiling."
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-entertainment-02-christa-pike-is-under-gu",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-02-christa-pike-is-under-gu.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Christa Pike May Never Fully Recover After Botched Execution, Lawyer Says",
-      "zh-TW": "相關封面圖：律師稱克麗絲塔·派克（Christa Pike）行刑失敗後恐無法完全康復"
-    },
-    "publishedAt": "2026-10-04T23:58:07.000Z",
-    "title": {
-      "en": "Christa Pike May Never Fully Recover After Botched Execution, Lawyer Says",
-      "zh-TW": "律師：克麗絲塔·派克（Christa Pike）行刑失敗後恐無法完全康復　病房戒護中"
-    },
-    "summary": {
-      "en": "Christa Pike's lawyer says she may never fully recover after surviving a botched execution, with doctors still working to clear two lethal doses of pentobarbital from her body. Attorney Stephen Ferrell told CNN's Jake Tapper her hospital room is under guard as she remains on a ventilator.",
-      "zh-TW": "律師表示，克麗絲塔·派克（Christa Pike）在行刑失敗倖存後可能無法完全康復，醫生仍在清除她體內兩劑致死量的戊巴比妥（pentobarbital）。委任律師史蒂芬·費雷爾（Stephen Ferrell）告訴CNN的傑克·塔珀（Jake Tapper），派克仍靠呼吸器維生，病房有人戒護。"
-    },
-    "body": {
-      "en": "What happened\nAn attorney for Christa Pike says his client may never fully recover from her botched execution. Stephen Ferrell told CNN's Jake Tapper that doctors are still trying to clear two lethal doses of pentobarbital from Pike's body, days after she survived two execution injections. Ferrell said Pike remains hospitalized on a ventilator and that her hospital room is under guard. The BBC reports her prognosis is still unclear, while Hollywood Life traces how she survived the failed execution.\nWhy it matters\nA survived execution is among the rarest failures in the American death-penalty system, and Pike's medical limbo raises immediate questions about the drugs, the protocol and the legal status of a prisoner the state tried — twice — to put to death. Whatever courts decide next will be watched as a precedent.\nSources agree / disagree\nThe BBC, TMZ and Hollywood Life agree on the essentials: the failed execution, the ongoing hospitalization, the ventilator and the guarded room. They differ only in angle — the BBC on the uncertain prognosis, TMZ on the lawyer's \"may not fully recover\" warning, Hollywood Life on the survival itself.\nStill uncertain\nPike's long-term prognosis remains unclear, and the summaries do not say what legal proceedings, if any, will determine her status going forward.",
-      "zh-TW": "發生了什麼事\n克麗絲塔·派克（Christa Pike）的委任律師表示，當事人可能永遠無法從行刑失敗中完全康復。史蒂芬·費雷爾（Stephen Ferrell）告訴CNN的傑克·塔珀（Jake Tapper），事發數日後，醫生仍在設法清除派克體內兩劑致死量的戊巴比妥（pentobarbital）——她此前在兩次行刑注射中倖存。費雷爾說，派克仍住院、靠呼吸器維生，病房有人戒護。BBC報導其預後仍不明；Hollywood Life則回顧她如何從行刑失敗中活下來。\n為什麼重要\n行刑失敗倖存是美國死刑制度中最罕見的失靈之一，派克的醫療僵局立刻引發對藥物、程序，以及一個國家曾兩度試圖處死的囚犯法律地位的疑問。法院接下來的任何決定都將被視為先例。\n來源異同\nBBC、TMZ、Hollywood Life對核心事實說法一致：行刑失敗、持續住院、呼吸器、病房戒護。差異只在角度：BBC談預後未明，TMZ談律師「恐無法完全康復」的警告，Hollywood Life談倖存經過。\n仍不確定\n派克的長期預後仍不明；摘要中未說明接下來有何法律程序決定她的處境。"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "TMZ",
-        "url": "https://www.tmz.com/2026/10/04/christa-pike-may-not-fully-recover-after-botched-execution/"
-      },
-      {
-        "name": "Hollywood Life",
-        "url": "https://hollywoodlife.com/2026/10/04/is-christa-pike-still-alive/"
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits"
       }
     ],
     "disagreements": null,
     "trustScore": 55,
     "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 11,
-      "crossCorroboration": 22,
+      "sourceDiversity": 8,
+      "outletReputation": 21,
+      "crossCorroboration": 8,
       "recencyClarity": 25
     },
     "tags": [
-      "entertainment",
+      "finance",
       "live-ingest",
-      "bbc-world",
-      "tmz",
-      "hollywood-life"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "zh-TW": "克麗絲塔·派克",
-          "en": "Christa Pike"
-        },
-        "blurb": {
-          "zh-TW": "美國死刑犯；行刑失敗後倖存。",
-          "en": "US death-row prisoner who survived a botched execution."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "史蒂芬·費雷爾",
-          "en": "Stephen Ferrell"
-        },
-        "blurb": {
-          "zh-TW": "派克的委任律師；表示她恐無法完全康復。",
-          "en": "Pike's attorney; said she may never fully recover."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "傑克·塔珀",
-          "en": "Jake Tapper"
-        },
-        "blurb": {
-          "zh-TW": "CNN主播；就派克病況訪問費雷爾。",
-          "en": "CNN anchor; interviewed Ferrell about Pike's condition."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "戊巴比妥",
-          "en": "Pentobarbital"
-        },
-        "blurb": {
-          "zh-TW": "鎮靜劑，用於致死注射；派克體內仍殘留兩劑。",
-          "en": "Sedative used in lethal injections; two doses remain in Pike's body."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "TMZ",
-          "en": "TMZ"
-        },
-        "blurb": {
-          "zh-TW": "美國娛樂新聞媒體；報導病房戒護。",
-          "en": "US entertainment news outlet; reported the guarded hospital room."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "BBC",
-          "en": "BBC"
-        },
-        "blurb": {
-          "zh-TW": "英國公共廣播公司；報導預後未明。",
-          "en": "British public broadcaster; reported the unclear prognosis."
-        }
-      }
+      "the-guardian-business"
     ]
   },
   {
-    "id": "live-international-03-cornell-president-breaks",
-    "category": "international",
+    "id": "live-finance-02-cnbc-s-the-china-connect",
+    "category": "finance",
     "adult": false,
     "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-03-cornell-president-breaks.jpg",
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-finance-02-cnbc-s-the-china-connect.jpg",
     "imageAlt": {
-      "en": "Cover related to: Cornell President Calls 2024 Fraternity Gang-Rape Allegations 'Deeply Disturbing'",
-      "zh-TW": "相關封面圖：康乃爾（Cornell）校長稱2024年兄弟會輪暴指控「令人深感不安」"
+      "en": "Cover related to: CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
+      "zh-TW": "相關封面圖：CNBC 的《中國連線》通訊：星巴克進軍新疆是經過深思熟慮的地緣政治風險"
     },
-    "publishedAt": "2026-10-05T00:57:11.000Z",
+    "publishedAt": "2026-10-05T23:41:11.000Z",
     "title": {
-      "en": "Cornell President Calls 2024 Fraternity Gang-Rape Allegations 'Deeply Disturbing'",
-      "zh-TW": "康乃爾（Cornell）校長打破沉默：2024年兄弟會輪暴指控「令人深感不安」"
+      "en": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
+      "zh-TW": "CNBC 的《中國連線》通訊：星巴克進軍新疆是經過深思熟慮的地緣政治風險"
     },
     "summary": {
-      "en": "Cornell president Michael I. Kotlikoff has addressed the university's handling of the alleged 2024 gang rape of a student at a fraternity house, calling it \"deeply disturbing\" and saying the school \"must do better.\" The student's attorney accuses campus police of failing to investigate.",
-      "zh-TW": "康乃爾大學（Cornell University）校長麥可·I·科特利科夫（Michael I. Kotlikoff）首度回應2024年兄弟會集體性侵案的校方處置，稱「令人深感不安」，並說學校「必須做得更好」。受害學生的律師指控校警未確實調查。"
+      "en": "Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
+      "zh-TW": "星巴克去年達成了亞洲最受關注的交易之一。現在，它對一個傾向於北京的合作夥伴所做的選擇感到頭疼。"
     },
     "body": {
-      "en": "What happened\nCornell University president Michael I. Kotlikoff has broken his silence on the school's handling of the alleged gang rape of a junior — identified as Jane Doe — at a fraternity house in 2024. In a video statement, Kotlikoff said \"what happened to Jane Doe in 2024 is deeply disturbing,\" that the university \"must do better,\" and called it \"a defining moment in Cornell's history.\" CBS News reports that Jane Doe's attorney says campus police failed to properly investigate after she reported being raped, with one CBS headline framing the allegation as a \"cover-up.\" Lilia Luciano reports from Ithaca, New York.\nWhy it matters\nA university president publicly conceding institutional failure is rare — and it puts Cornell's disciplinary and policing systems under a spotlight that will not fade quickly. The case has become a touchstone in the national debate over how campuses handle sexual-assault reports.\nSources agree / disagree\nCBS News and NPR agree on the core facts: the 2024 allegation, the president's video statement and its key lines. They differ in emphasis — CBS centers the attorney's \"cover-up\" accusation, NPR the president's \"deeply disturbing\" framing.\nStill uncertain\nWhether the university will announce specific reforms or personnel consequences is not detailed in the summaries, and the underlying criminal investigation's status is unclear from the available snippets.",
-      "zh-TW": "發生了什麼事\n康乃爾大學（Cornell University）校長麥可·I·科特利科夫（Michael I. Kotlikoff）打破沉默，回應校方對2024年兄弟會集體性侵一名大三學生（化名Jane Doe）案的處置。他在影片聲明中說：「2024年發生在Jane Doe身上的事令人深感不安」，學校「必須做得更好」，並稱這是「康乃爾歷史上的決定性時刻」。CBS新聞（CBS News）報導，Jane Doe的律師指控校警在她報案後未確實調查，CBS一篇標題更將指控定調為「掩蓋」。莉莉亞·盧西亞諾（Lilia Luciano）在紐約州綺色佳（Ithaca）現場報導。\n為什麼重要\n大學校長公開承認體制失靈並不常見——這讓康乃爾的紀律與校警體系站上鎂光燈下，短期內不會移開。本案已成為全美校園性侵通報處置辯論的指標案件。\n來源異同\nCBS新聞與NPR對核心事實說法一致：2024年指控、校長影片聲明及其關鍵語句。差異在著重點：CBS聚焦律師「掩蓋」指控，NPR聚焦校長「深感不安」的表態。\n仍不確定\n校方是否會宣布具體改革或人事處置，摘要中未詳述；相關刑事調查的進度也不明。"
+      "en": "Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing. What happened\nCNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk. Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing. Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (CNBC) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): CNBC Additional feed context\n(1) Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
+      "zh-TW": "星巴克去年達成了亞洲最受關注的交易之一。現在，它對一個傾向於北京的合作夥伴所做的選擇感到頭疼。 發生了什麼事\nCNBC 的《中國連線》電子報：星巴克進入新疆是經過深思熟慮的地緣政治風險。星巴克去年達成了亞洲最受關注的交易之一。現在，它對一個傾向於北京的合作夥伴所做的選擇感到頭疼。 為什麼這很重要\n此集群由金融類別 1 個管道 (CNBC) 的 1 個 Feed 項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（僅限媒體名稱）：CNBC 附加提要上下文\n(1) 星巴克去年達成了亞洲最受關注的交易之一。現在，它對一個傾向於北京的合作夥伴所做的選擇感到頭疼。"
     },
     "sources": [
       {
-        "name": "CBS News Crime",
-        "url": "https://www.cbsnews.com/video/cornell-president-breaks-silence-happened-jane-doe-2024-deeply-disturbing/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 60,
+    "trustBreakdown": {
+      "sourceDiversity": 8,
+      "outletReputation": 19,
+      "crossCorroboration": 8,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "cnbc"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-04-20",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-eastAsiaGossip-04-20.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 蔡康永現身沈伯洋競總掀議　郭正亮揭20年交情：他就是好奇寶寶",
+      "zh-TW": "相關封面圖：蔡康永現身沈伯洋競總掀議　郭正亮揭20年交情：他就是好奇寶寶"
+    },
+    "publishedAt": "2026-10-05T23:17:27.000Z",
+    "title": {
+      "en": "蔡康永現身沈伯洋競總掀議　郭正亮揭20年交情：他就是好奇寶寶",
+      "zh-TW": "蔡康永現身沈伯洋競總掀議　郭正亮揭20年交情：他就是好奇寶寶"
+    },
+    "summary": {
+      "en": "",
+      "zh-TW": ""
+    },
+    "body": {
+      "en": "What happened\n蔡康永現身沈伯洋競總掀議　郭正亮揭20年交情：他就是好奇寶寶. 蔡康永現身沈伯洋競總掀議 郭正亮揭20年交情：他就是好奇寶寶 tw.news.yahoo.com 蔡康永現身沈伯洋競總大會遭小粉紅出征 沈伯洋：非常不公平 蔣萬安：中國應尊重 | 自由電子報 today.line.me 蔡康永現身沈伯洋競總惹怒對岸人士他直言：這凸顯兩岸政治制度差異| 政治 Newtalk新聞 Why it matters\nThis cluster was assembled from 12 feed item(s) across 2 outlet(s) (Yahoo TW 娛樂, GNews TW heat:蔡康永現身競) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"蔡康永現身沈伯洋競總掀議　郭正亮揭20年交情：他就是好奇寶寶\" (Yahoo TW 娛樂); \"蔡康永現身競總傳遭出征沈伯洋：台灣聽政見稀鬆平常| 政治\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總大會傳遭中國企業封殺 凌濤：證明「綠共一家親」\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總掀議 郭正亮揭20年交情：他就是好奇寶寶\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總大會遭小粉紅出征 沈伯洋：非常不公平 蔣萬安：中國應尊重 | 自由電子報\" (GNews TW heat:蔡康永現身競).\nFigures differ across outlets (e.g. 20 vs 5 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Yahoo TW 娛樂, GNews TW heat:蔡康永現身競 Additional feed context\n(1) (2) 蔡康永現身沈伯洋競總掀議 郭正亮揭20年交情：他就是好奇寶寶 tw.news.yahoo.com\n(3) 蔡康永現身沈伯洋競總大會遭小粉紅出征 沈伯洋：非常不公平 蔣萬安：中國應尊重 | 自由電子報 today.line.me\n(4) 蔡康永現身沈伯洋競總惹怒對岸人士他直言：這凸顯兩岸政治制度差異| 政治 Newtalk新聞\n(5) 蔡康永現身沈伯洋競總遭陸抵制 賴苡任：高智商成人早已評估風險 tw.news.yahoo.com\n(6) 蔡康永「現身沈伯洋競總」登微博熱搜！八炯曝「中國下一步動向」 | Newtalk today.line.me",
+      "zh-TW": "What happened\n蔡康永現身沈伯洋競總掀議　郭正亮揭20年交情：他就是好奇寶寶. 蔡康永現身沈伯洋競總掀議 郭正亮揭20年交情：他就是好奇寶寶 tw.news.yahoo.com 蔡康永現身沈伯洋競總大會遭小粉紅出征 沈伯洋：非常不公平 蔣萬安：中國應尊重 | 自由電子報 today.line.me 蔡康永現身沈伯洋競總惹怒對岸人士他直言：這凸顯兩岸政治制度差異| 政治 Newtalk新聞 Why it matters\nThis cluster was assembled from 12 feed item(s) across 2 outlet(s) (Yahoo TW 娛樂, GNews TW heat:蔡康永現身競) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"蔡康永現身沈伯洋競總掀議　郭正亮揭20年交情：他就是好奇寶寶\" (Yahoo TW 娛樂); \"蔡康永現身競總傳遭出征沈伯洋：台灣聽政見稀鬆平常| 政治\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總大會傳遭中國企業封殺 凌濤：證明「綠共一家親」\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總掀議 郭正亮揭20年交情：他就是好奇寶寶\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總大會遭小粉紅出征 沈伯洋：非常不公平 蔣萬安：中國應尊重 | 自由電子報\" (GNews TW heat:蔡康永現身競).\nFigures differ across outlets (e.g. 20 vs 5 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Yahoo TW 娛樂, GNews TW heat:蔡康永現身競 Additional feed context\n(1) (2) 蔡康永現身沈伯洋競總掀議 郭正亮揭20年交情：他就是好奇寶寶 tw.news.yahoo.com\n(3) 蔡康永現身沈伯洋競總大會遭小粉紅出征 沈伯洋：非常不公平 蔣萬安：中國應尊重 | 自由電子報 today.line.me\n(4) 蔡康永現身沈伯洋競總惹怒對岸人士他直言：這凸顯兩岸政治制度差異| 政治 Newtalk新聞\n(5) 蔡康永現身沈伯洋競總遭陸抵制 賴苡任：高智商成人早已評估風險 tw.news.yahoo.com\n(6) 蔡康永「現身沈伯洋競總」登微博熱搜！八炯曝「中國下一步動向」 | Newtalk today.line.me"
+    },
+    "sources": [
+      {
+        "name": "Yahoo TW 娛樂",
+        "url": "https://tw.news.yahoo.com/%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%8F%BE%E8%BA%AB%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%AB%B6%E7%B8%BD%E6%8E%80%E8%AD%B0-%E9%83%AD%E6%AD%A3%E4%BA%AE%E6%8F%AD20%E5%B9%B4%E4%BA%A4%E6%83%85-%E4%BB%96%E5%B0%B1%E6%98%AF%E5%A5%BD%E5%A5%87%E5%AF%B6%E5%AF%B6-231727010.html"
       },
       {
-        "name": "NPR News",
-        "url": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing"
+        "name": "中央社cna",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BLWpDbzJub0lUc2dsVDBvQndTeFJZWk5tZFdtRDFqQ3V4Z1kwZF93UVRtWXhtUmR4Vld6azZQcHVfTWZ2X0lUOEtsWGdzWDJxUEFvM09aRzI4R3AyNFBn?oc=5"
+      },
+      {
+        "name": "台灣好新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNNTB5M1pCUzFrN3JKXy1PVm8zNGp0ajB4bnF5OTFzSWR0VGx3ekZLTU5Da3NvaXU0NHNDUTVtZDZHV184N1lIR1NDaXVMQW4xZUtJODhOR2dnU2VOTkE3bE14X2hoc25LNXpUX1pPZXQzR0otT0xHZXlleUF0NS1aV01XT0FxTWJOdFpIU3A0WWhZSUtjanJNSWdSQWZPWmU4ZVA5UkEyOF9ETThEcnZKcmQwOE54OUVidmNfZlhWLW5jdWRoSzFQemhtOUl1MnBfQm50SXM5d1F2djZMSzhyUXg2QXVJR3ktZkJTZ1drN1VqbzZ0TXVNVks3dGtHUTUyU01HMEVkV3ZHVjZUZ3p4NWc2ZllWNndwVVFhSHJtR2tSZ3NVQWQwZ2IxR21DTGpWVUFkdzBFbDBoVkxfQURpVlczUkFFWktvMm16TlFyX2x4Z2JsQVdWcllvNkRPX05ZUXo2bGRfeWJlenB3T0dSMEs0NUppcjFqNmJBWnBGRlNrbV9Fd1YtSmpiWWxRaXFaOEs4S041N3RxbHhXbnZjWnlsZDkxMFNicFd5VzN3Q2xUNzBOU2xwNWMzdDBhdmJjRE5nMTk1WFdzdFZoX3BvaXRR?oc=5"
+      },
+      {
+        "name": "ltn.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5laGwycVZ0OHIzVk8zWmNuOWNwaXZDZlFsOUVmbHRPUnRiSGhvQVlyMWNJYlF6Q1pVMmJJS0o1WlAyb3hRZ0J4RjRJSVB1bGNKUTdoY3RR?oc=5"
+      },
+      {
+        "name": "娛樂星聞",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0TlQwZ2ZvWGRwQ2dvZk5KcWNfNVNjZXR3ZkRtWGxOWEhLajh0cUptQlRmdk1PeW92dlVJUkJyQ1RrRU5BN0t4REdB?oc=5"
+      },
+      {
+        "name": "newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lUjZPN2xaazVRd2g5S0VtcTM3bS1mRjg4QndGam5fSTdBeGxXczJxcTFwRGdfZUEyLXlyU0V6T1Y0b2g2SkI5Z3ZRX2xFMGtzSWtqYThtOW80OEk?oc=5"
+      },
+      {
+        "name": "鏡新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xdUhHbkdRRElPczFTWVd6V0RmaGRpTWtzRlExdW5VeGFXdXB4MTlHanNJRlNsSUw2N3NCYS05NlVLc3JlczNxZktNamV5TnMxNmfSAVdBVV95cUxOODdPWjd1QXBjUGxYN0VPZ21XUGdVZDZEVVVGR0h6RmhmZWNBZE56M2ZCYTZtSnQ1Sy00TEZlSVJQY2ZUYUJJdnVKMUlhRmpmOEpMOUdNdzQ?oc=5"
+      },
+      {
+        "name": "經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lZ1V3a0JEVF9PVWZPeUQ4a2lZWEphQ3VXMFRtX0lQZ3VDYXI3SUE2Rm9WczJpQW15TzZiU2VHVUVraEUzTTVUb3ZrXzY2RG9ELWkxN3hPS19kUVZxNnhn0gFfQVVfeXFMT2VnVXdrQkRUX09VZk95RDhraVlYSmFDdVcwVG1fSVBndUNhcjdJQTZGb1ZzMmlBbXlPNmJTZUdVRWtoRTNNNVRvdmtfNjZEb0QtaTE3eE9LX2RRVnE2eGc?oc=5"
+      },
+      {
+        "name": "中天新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmam51dkpzQ09PbHplTkdwM1ZPdXZnQUlmdTJtNm1kdFdQYzBNbEpmQVpvU1M2ZmM5VGVXMWUtS1lyTndvaDBpV1ljMDQxZnlTQ1Nv?oc=5"
+      },
+      {
+        "name": "newtalk.tw",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5eUstbGJlenQ3WkZLUDF5XzFkcVJhSnN2NFh2czladGx3T24wdC1ZTkZ1MklERzNSVF9VN2NsczN5T2lRR24tenQ0S0xSNmZ2ZGdJWlFn?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 20 vs 5 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中為 20 比 5）。"
+    },
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 11,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "yahoo-tw-娛樂",
+      "gnews-tw-heat:蔡康永現身競",
+      "gnews-tw-heat:蔡康永現身競"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-eastAsiaGossip-05-top10-storm-mg",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "publishedAt": "2026-10-05T17:23:00.000Z",
+    "title": {
+      "en": "譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 - Storm.mg",
+      "zh-TW": "譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 - Storm.mg"
+    },
+    "summary": {
+      "en": "譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 Storm.mg 《蘭香如故》傳譚松韻結局變寡婦？原著走向曝光 蘭香與林錦岐結局大不同 tw.news.yahoo.com 《蘭香如故》劉學義為半裸戲戒碳水半個月，出道15年靠「拒絕內耗」走到今天 Vogue Taiwan 《蘭香如故》奪冠！9月人氣陸劇TOP10排行榜公開：《早春晴朗》第4名，魏哲鳴這部愛情劇也上榜 ELL…",
+      "zh-TW": "譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 Storm.mg 《蘭香如故》傳譚松韻結局變寡婦？原著走向曝光 蘭香與林錦岐結局大不同 tw.news.yahoo.com 《蘭香如故》劉學義為半裸戲戒碳水半個月，出道15年靠「拒絕內耗」走到今天 Vogue Taiwan 《蘭香如故》奪冠！9月人氣陸劇TOP10排行榜公開：《早春晴朗》第4名，魏哲鳴這部愛情劇也上榜 ELL…"
+    },
+    "body": {
+      "en": "譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 Storm.mg 《蘭香如故》傳譚松韻結局變寡婦？原著走向曝光 蘭香與林錦岐結局大不同 tw.news.yahoo.com 《蘭香如故》劉學義為半裸戲戒碳水半個月，出道15年靠「拒絕內耗」走到今天 Vogue Taiwan 《蘭香如故》奪冠！9月人氣陸劇TOP10排行榜公開：《早春晴朗》第4名，魏哲鳴這部愛情劇也上榜 ELLE 雷／《蘭香》劉學義綁紅線離世！譚松韻獨活80歲 1畫面粉全淚崩 NOWnews今日新聞 What happened\n譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 - Storm.mg. 譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 Storm.mg 《蘭香如故》傳譚松韻結局變寡婦？原著走向曝光 蘭香與林錦岐結局大不同 tw.news.yahoo.com 《蘭香如故》劉學義為半裸戲戒碳水半個月，出道15年靠「拒絕內耗」走到今天 Vogue Taiwan 《蘭香如故》奪冠！9月人氣陸劇TOP10排行榜公開：《早春晴朗》第4名，魏哲鳴這部愛情劇也上榜 ELLE 雷／《蘭香》劉學義綁紅線離世！譚松韻獨活80歲 1畫面粉全淚崩 NOWnews今日新聞 《蘭香如故》圓房戲花絮曝光！譚松韻、劉學義掐脖又床咚 | EBC 東森娛樂 today.line.me Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (Google News TW Entertainment, Yahoo TW 娛樂, GNews LINE TODAY TW 娛樂) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 - Storm.mg\" (Google News TW Entertainment); \"《蘭香如故》逆襲奪年度冠軍！全劇唯一吻戲成名場面　譚松韻曝拍攝內幕\" (Yahoo TW 娛樂); \"《蘭香如故》圓房戲花絮曝光！譚松韻、劉學義掐脖又床咚 | EBC 東森娛樂 - today.line.me\" (GNews LINE TODAY TW 娛樂).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Google News TW Entertainment, Yahoo TW 娛樂, GNews LINE TODAY TW 娛樂 Additional feed context\n(1) 譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 Storm.mg 《蘭香如故》傳譚松韻結局變寡婦？原著走向曝光 蘭香與林錦岐結局大不同 tw.news.yahoo.com 《蘭香如故》劉學義為半裸戲戒碳水半個月，出道15年靠「拒絕內耗」走到今天 Vogue Taiwan 《蘭香如故》奪冠！9月人氣陸劇TOP10排行榜公開：《早春晴朗》第4名，魏哲鳴這部愛情劇也上榜 ELLE 雷／《蘭香》劉學義綁紅線離世！譚松韻獨活80歲 1畫面粉全淚崩 NOWnews今日新聞\n(2) (3) 《蘭香如故》圓房戲花絮曝光！譚松韻、劉學義掐脖又床咚 | EBC 東森娛樂 today.line.me",
+      "zh-TW": "譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 Storm.mg 《蘭香如故》傳譚松韻結局變寡婦？原著走向曝光 蘭香與林錦岐結局大不同 tw.news.yahoo.com 《蘭香如故》劉學義為半裸戲戒碳水半個月，出道15年靠「拒絕內耗」走到今天 Vogue Taiwan 《蘭香如故》奪冠！9月人氣陸劇TOP10排行榜公開：《早春晴朗》第4名，魏哲鳴這部愛情劇也上榜 ELLE 雷／《蘭香》劉學義綁紅線離世！譚松韻獨活80歲 1畫面粉全淚崩 NOWnews今日新聞 What happened\n譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 - Storm.mg. 譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 Storm.mg 《蘭香如故》傳譚松韻結局變寡婦？原著走向曝光 蘭香與林錦岐結局大不同 tw.news.yahoo.com 《蘭香如故》劉學義為半裸戲戒碳水半個月，出道15年靠「拒絕內耗」走到今天 Vogue Taiwan 《蘭香如故》奪冠！9月人氣陸劇TOP10排行榜公開：《早春晴朗》第4名，魏哲鳴這部愛情劇也上榜 ELLE 雷／《蘭香》劉學義綁紅線離世！譚松韻獨活80歲 1畫面粉全淚崩 NOWnews今日新聞 《蘭香如故》圓房戲花絮曝光！譚松韻、劉學義掐脖又床咚 | EBC 東森娛樂 today.line.me Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (Google News TW Entertainment, Yahoo TW 娛樂, GNews LINE TODAY TW 娛樂) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 - Storm.mg\" (Google News TW Entertainment); \"《蘭香如故》逆襲奪年度冠軍！全劇唯一吻戲成名場面　譚松韻曝拍攝內幕\" (Yahoo TW 娛樂); \"《蘭香如故》圓房戲花絮曝光！譚松韻、劉學義掐脖又床咚 | EBC 東森娛樂 - today.line.me\" (GNews LINE TODAY TW 娛樂).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Google News TW Entertainment, Yahoo TW 娛樂, GNews LINE TODAY TW 娛樂 Additional feed context\n(1) 譚松韻劉學義《蘭香如故》輸了！最好看古裝宅鬥陸劇TOP10冠軍是他：評價力壓《九重紫》、 播出多年仍難超越 Storm.mg 《蘭香如故》傳譚松韻結局變寡婦？原著走向曝光 蘭香與林錦岐結局大不同 tw.news.yahoo.com 《蘭香如故》劉學義為半裸戲戒碳水半個月，出道15年靠「拒絕內耗」走到今天 Vogue Taiwan 《蘭香如故》奪冠！9月人氣陸劇TOP10排行榜公開：《早春晴朗》第4名，魏哲鳴這部愛情劇也上榜 ELLE 雷／《蘭香》劉學義綁紅線離世！譚松韻獨活80歲 1畫面粉全淚崩 NOWnews今日新聞\n(2) (3) 《蘭香如故》圓房戲花絮曝光！譚松韻、劉學義掐脖又床咚 | EBC 東森娛樂 today.line.me"
+    },
+    "sources": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZZGJIQlQxS29ZUndDaHJvZEYxd19FUERpSGVBNDJmcEdPRlo1MnE4OHIwUmQ0UnBmVE5CcHpBSUdBTUlsNTJoUkhHYVVlc1p2?oc=5"
+      },
+      {
+        "name": "Yahoo TW 娛樂",
+        "url": "https://tw.news.yahoo.com/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E9%80%86%E8%A5%B2%E5%A5%AA%E5%B9%B4%E5%BA%A6%E5%86%A0%E8%BB%8D-%E5%85%A8%E5%8A%87%E5%94%AF-%E5%90%BB%E6%88%B2%E6%88%90%E5%90%8D%E5%A0%B4%E9%9D%A2-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E6%9B%9D%E6%8B%8D%E6%94%9D%E5%85%A7%E5%B9%95-012300078.html"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2YzlUNlRzeHVJR2ItMWNTRmVISndlUHc5UHdSM3ktcUNpQmkzYUpQYXNydzd1bkZTTkNOUDlFdXBwOHFxc2lrMkEwNEpWWnBjNExlMEhn?oc=5"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 45,
+    "trustBreakdown": {
+      "sourceDiversity": 24,
+      "outletReputation": 12,
+      "crossCorroboration": 22,
+      "recencyClarity": 23
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "google-news-tw-entertainment",
+      "yahoo-tw-娛樂",
+      "gnews-line-today-tw-娛樂"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-entertainment-01-american-idol-contestant",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-01-american-idol-contestant.jpg",
+    "imageAlt": {
+      "en": "Cover related to: ‘American Idol’ Contestant Sentenced to Life Without Parole for Murder of Wife",
+      "zh-TW": "相關封面圖：《美國偶像》選手因謀殺妻子被判終身監禁不得假釋"
+    },
+    "publishedAt": "2026-10-06T00:02:51.000Z",
+    "title": {
+      "en": "‘American Idol’ Contestant Sentenced to Life Without Parole for Murder of Wife",
+      "zh-TW": "《美國偶像》選手因謀殺妻子被判終身監禁不得假釋"
+    },
+    "summary": {
+      "en": "\"The layers of deceit, manipulation, and cruelty that you have shown are quite honestly impossible to fathom,\" judge said to Caleb Flynn",
+      "zh-TW": "法官對凱萊布·弗林說：“你所表現出的層層欺騙、操縱和殘忍實在令人難以理解。”"
+    },
+    "body": {
+      "en": "\"The layers of deceit, manipulation, and cruelty that you have shown are quite honestly impossible to fathom,\" judge said to Caleb Flynn What happened\n‘American Idol’ Contestant Sentenced to Life Without Parole for Murder of Wife. \"The layers of deceit, manipulation, and cruelty that you have shown are quite honestly impossible to fathom,\" judge said to Caleb Flynn Caleb Flynn was found guilty of killing his wife, Ashley, and attempting to blame the murder on a break-in at their home. Former music pastor and \"American Idol\" contestant received a life sentence on Monday for the execution-style murder of his wife. But as Jericka Duncan reports, he was still claiming his innocence as he was sentenced. Why it matters\nThis cluster was assembled from 3 feed item(s) across 2 outlet(s) (Rolling Stone Music, CBS News Crime) in the entertainment category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"‘American Idol’ Contestant Sentenced to Life Without Parole for Murder of Wife\" (Rolling Stone Music); \"Ex-\"American Idol\" contestant Caleb Flynn gets life sentence\" (CBS News Crime); \"Former \"American Idol\" contestant proclaims his innocence during sentencing for wife's murder\" (CBS News Crime).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Rolling Stone Music, CBS News Crime",
+      "zh-TW": "法官對凱萊布·弗林說：“你所表現出的層層欺騙、操縱和殘忍實在令人難以理解。” 發生了什麼事\n《美國偶像》選手因謀殺妻子被判終身監禁不得假釋。法官對卡萊布·弗林 (Caleb Flynn) 表示：「你所表現出的層層欺騙、操縱和殘忍實在令人難以理解。」卡萊布·弗林 (Caleb Flynn) 被判犯有殺害妻子阿什利 (Ashley) 的罪名，並試圖將謀殺歸咎於入室盜竊。前音樂牧師和“美國偶像”選手週一因處決妻子而被判處無期徒刑。但正如傑里卡鄧肯報道的那樣，他在被判刑時仍然聲稱自己無罪。 為什麼這很重要\n此集群由娛樂類別中 2 個管道（滾石音樂、CBS 犯罪新聞）的 3 個提要項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「《美國偶像》參賽者因謀殺妻子被判終身不得假釋」（滾石音樂）； “前《美國偶像》選手凱萊布·弗林被判無期徒刑”（哥倫比亞廣播公司犯罪新聞）； “前《美國偶像》選手在因謀殺妻子而被判刑時宣稱自己無罪”（哥倫比亞廣播公司犯罪新聞）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（僅限頻道名稱）：滾石音樂、哥倫比亞廣播公司犯罪新聞"
+    },
+    "sources": [
+      {
+        "name": "Rolling Stone Music",
+        "url": "https://www.rollingstone.com/music/music-news/american-idol-contestant-sentenced-life-prison-murder-wife-1235636930/"
+      },
+      {
+        "name": "CBS News Crime",
+        "url": "https://www.cbsnews.com/news/caleb-flynn-sentenced-american-idol-contestant/"
       }
     ],
     "disagreements": null,
     "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 16,
-      "outletReputation": 22,
+      "outletReputation": 19,
       "crossCorroboration": 15,
       "recencyClarity": 25
     },
     "tags": [
-      "international",
+      "entertainment",
       "live-ingest",
+      "rolling-stone-music",
       "cbs-news-crime",
-      "cbs-news-crime",
-      "npr-news"
-    ],
-    "glossary": [
+      "cbs-news-crime"
+    ]
+  },
+  {
+    "id": "live-entertainment-02-hayley-williams-has-a-bl",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-02-hayley-williams-has-a-bl.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Hayley Williams Has a Blunt Message for DHS After ‘F–k ICE’ Concert Remark: ‘And May I Suggest…’",
+      "zh-TW": "相關封面圖：海莉威廉斯 (Hayley Williams) 在“F–k ICE”演唱會後向國土安全部直言不諱：“我可以建議…”"
+    },
+    "publishedAt": "2026-10-06T01:32:52.000Z",
+    "title": {
+      "en": "Hayley Williams Has a Blunt Message for DHS After ‘F–k ICE’ Concert Remark: ‘And May I Suggest…’",
+      "zh-TW": "海莉威廉斯 (Hayley Williams) 在“F–k ICE”演唱會後向國土安全部直言不諱：“我可以建議…”"
+    },
+    "summary": {
+      "en": "Hayley Williams isn&#8217;t backing down on her beliefs. The Paramore frontwoman had a simple message for the Department of Homeland Security after she shouted &#8220;F&#8211;k ICE&#8221; and &#8220;Free Palestine&#82…",
+      "zh-TW": "海莉威廉斯並沒有放棄她的信念。這位帕拉莫爾女主唱在高喊“F–k ICE”和“自由巴勒斯坦…”後，向國土安全部傳達了一條簡單的信息。"
+    },
+    "body": {
+      "en": "Hayley Williams isn&#8217;t backing down on her beliefs. The Paramore frontwoman had a simple message for the Department of Homeland Security after she shouted &#8220;F&#8211;k ICE&#8221; and &#8220;Free Palestine&#8221; during her recent concert in Chula Vista, California. DHS r What happened\nHayley Williams Has a Blunt Message for DHS After ‘F–k ICE’ Concert Remark: ‘And May I Suggest…’. Hayley Williams isn&#8217;t backing down on her beliefs. The Paramore frontwoman had a simple message for the Department of Homeland Security after she shouted &#8220;F&#8211;k ICE&#8221; and &#8220;Free Palestine&#8221; during her recent concert in Chula Vista, California. DHS responded to the singer&#8217;s remarks through a statement to Fox News, saying that Americans should be grateful for fed During a recent show in California, the singer yelled \"Fuck ICE\" and \"Free Palestine\" Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (Billboard, Rolling Stone Music) in the entertainment category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Hayley Williams Has a Blunt Message for DHS After ‘F–k ICE’ Concert Remark: ‘And May I Suggest…’\" (Billboard); \"Hayley Williams Responds to DHS’ Suggestion to Thank Officers After ICE Comments: ‘Nazi Bitches’\" (Rolling Stone Music).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Billboard, Rolling Stone Music",
+      "zh-TW": "海莉威廉斯並沒有放棄她的信念。這位帕拉摩爾主唱最近在加州丘拉維斯塔舉行的音樂會上高喊“F–k ICE”和“自由巴勒斯坦”後，向國土安全部傳達了一條簡單的信息。國土安全部 發生了什麼事\n海莉威廉斯 (Hayley Williams) 在“F–k ICE”演唱會後向國土安全部直言不諱：“我可以建議…”。海莉威廉斯並沒有放棄她的信念。這位帕拉摩爾主唱最近在加州丘拉維斯塔舉行的音樂會上高喊“F–k ICE”和“自由巴勒斯坦”後，向國土安全部傳達了一條簡單的信息。國土安全部透過福克斯新聞的聲明回應了這位歌手的言論，稱美國人應該感謝聯準會。最近在加州的一場演出中，這位歌手大喊“Fuck ICE”和“Free Palestine” 為什麼這很重要\n此集群由娛樂類別中 2 個頻道（公告牌、滾石音樂）的 2 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：“海莉·威廉姆斯在‘F–k ICE’音樂會言論後向國土安全部發出了直言不諱的信息：‘我可以建議……’”（公告牌）；“海莉·威廉姆斯回應國土安全部在 ICE 評論後感謝官員的建議：“納粹母狗””（滾石音樂）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢查的保證。 連結來源（僅限頻道名稱）：公告牌、滾石音樂"
+    },
+    "sources": [
       {
-        "term": {
-          "zh-TW": "麥可·I·科特利科夫",
-          "en": "Michael I. Kotlikoff"
-        },
-        "blurb": {
-          "zh-TW": "康乃爾大學校長；首度回應2024年案件。",
-          "en": "President of Cornell University; broke silence on the 2024 case."
-        }
+        "name": "Billboard",
+        "url": "https://www.billboard.com/music/music-news/hayley-williams-dhs-response-ice-concert-1236354758/"
       },
       {
-        "term": {
-          "zh-TW": "康乃爾大學",
-          "en": "Cornell University"
-        },
-        "blurb": {
-          "zh-TW": "位於紐約州綺色佳的常春藤盟校。",
-          "en": "Ivy League university in Ithaca, New York."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "莉莉亞·盧西亞諾",
-          "en": "Lilia Luciano"
-        },
-        "blurb": {
-          "zh-TW": "CBS新聞記者；在綺色佳現場報導。",
-          "en": "CBS News correspondent reporting from Ithaca."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "CBS新聞",
-          "en": "CBS News"
-        },
-        "blurb": {
-          "zh-TW": "美國電視網；報導律師「掩蓋」指控。",
-          "en": "US broadcaster; reported the attorney's \"cover-up\" accusation."
-        }
-      },
-      {
-        "term": {
-          "zh-TW": "NPR",
-          "en": "NPR"
-        },
-        "blurb": {
-          "zh-TW": "美國公共廣播電台；報導校長聲明。",
-          "en": "US public radio; covered the president's statement."
-        }
+        "name": "Rolling Stone Music",
+        "url": "https://www.rollingstone.com/music/music-news/hayley-williams-dhs-ice-comments-onstage-1235637280/"
       }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 16,
+      "outletReputation": 17,
+      "crossCorroboration": 15,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "billboard",
+      "rolling-stone-music"
     ]
   }
 ]

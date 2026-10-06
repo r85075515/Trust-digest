@@ -1,19 +1,19 @@
 {
-  "ingestedAt": "2026-10-05T01:43:48.471Z",
+  "ingestedAt": "2026-10-06T01:41:24.098Z",
   "feedOk": 48,
   "feedTotal": 52,
   "rawItems": 525,
-  "mainStories": 14,
+  "mainStories": 16,
   "byCategory": {
-    "eastAsiaGossip": 3,
-    "entertainment": 2,
-    "finance": 2,
+    "international": 3,
+    "eastAsiaGossip": 5,
     "tech": 2,
     "ai": 2,
-    "international": 3
+    "finance": 2,
+    "entertainment": 2
   },
   "eastAsiaByRegion": {
-    "tw": 3
+    "tw": 5
   },
   "heatSourcesShipped": [
     "ptt",
@@ -21,16 +21,14 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "唐綺陽",
-    "歐洲熱吻放閃",
-    "錫蘭直播開嗆",
-    "網路論戰你挺"
+    "直播自揭",
+    "八點檔男星",
+    "祖籍雲南",
+    "蔡康永現身競"
   ],
-  "heatNewsInjected": 22,
+  "heatNewsInjected": 23,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat",
-  "rewrittenAt": "2026-10-05T02:06:29.000Z",
-  "rewrittenBy": "bebo"
+  "mode": "extractive+translate+rss+heat"
 }
