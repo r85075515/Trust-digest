@@ -30,5 +30,7 @@
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat"
+  "mode": "extractive+translate+rss+heat",
+  "rewrittenAt": "2026-10-06T02:08:38.000Z",
+  "rewrittenBy": "bebo"
 }
