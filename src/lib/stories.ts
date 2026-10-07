@@ -18,11 +18,9 @@ export function getAllStories(): Story[] {
   return stories;
 }
 
-/** Main home feed — exclude society & beauty (still in JSON via getAllStories / getStoryById). */
+/** Main home feed — exclude society (still in JSON via getAllStories / getStoryById). */
 export function getMainStories(): Story[] {
-  return stories.filter(
-    (s) => s.category !== "society" && s.category !== "beauty"
-  );
+  return stories.filter((s) => s.category !== "society");
 }
 
 export function getStoryById(id: string): Story | undefined {
@@ -69,4 +67,5 @@ export const CATEGORY_LABELS: Record<
   eastAsiaGossip: { en: "East Asia gossip", "zh-TW": "東亞八卦" },
   society: { en: "Society", "zh-TW": "社會" },
   beauty: { en: "Beauty", "zh-TW": "美妝" },
+  shopping: { en: "Shopping", "zh-TW": "購物" },
 };

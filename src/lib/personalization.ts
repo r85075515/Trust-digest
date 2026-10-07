@@ -22,6 +22,7 @@ export const DEFAULT_WEIGHTS: PreferenceWeights = {
   eastAsiaGossip: 1,
   society: 1,
   beauty: 1,
+  shopping: 1,
 };
 
 export const DEFAULT_STATE: PersonalizationState = {

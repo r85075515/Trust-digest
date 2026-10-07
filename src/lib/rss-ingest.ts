@@ -20,7 +20,7 @@ export interface FeedSource {
 /**
  * Curated allow-list (verified HTTP 200).
  * Entertainment = hot verifiable celebrity gossip (標驗證／多源) — NOT Broadway reviews or film-festival academia.
- * Society feeds remapped to international; beauty skipped. Main chips: intl/finance/tech/AI/Western gossip/East Asia gossip.
+ * Society feeds remapped to international. Main chips: intl/finance/tech/AI/semiconductor/taiwan/us/energy/biotech/Western gossip/East Asia gossip/beauty/shopping.
  */
 export const ALLOWED_FEEDS: FeedSource[] = [
   // International
@@ -952,6 +952,47 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     language: "en",
     domain: "fashionista.com",
   },
+  {
+    id: "vogue-tw",
+    name: "Vogue Taiwan",
+    url: "https://www.vogue.com.tw/feed/rss",
+    category: "beauty",
+    language: "zh-TW",
+    domain: "vogue.com.tw",
+  },
+  {
+    id: "refinery29",
+    name: "Refinery29",
+    url: "https://www.refinery29.com/en-us/feed.xml",
+    category: "beauty",
+    language: "en",
+    domain: "refinery29.com",
+  },
+  // Shopping — deals & buying guides
+  {
+    id: "9to5toys",
+    name: "9to5Toys",
+    url: "https://9to5toys.com/feed/",
+    category: "shopping",
+    language: "en",
+    domain: "9to5toys.com",
+  },
+  {
+    id: "slickdeals",
+    name: "Slickdeals Frontpage",
+    url: "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
+    category: "shopping",
+    language: "en",
+    domain: "slickdeals.net",
+  },
+  {
+    id: "cnet-deals",
+    name: "CNET Deals",
+    url: "https://www.cnet.com/rss/deals/",
+    category: "shopping",
+    language: "en",
+    domain: "cnet.com",
+  },
 ];
 
 /** Domain → reputation prior (0–25). Heuristic only. */
@@ -1151,11 +1192,6 @@ export function resolveCategory(
 ): Category | null {
   const text = `${title} ${description}`.toLowerCase();
   const rawText = `${title} ${description}`;
-
-  // Beauty unused for now — skip
-  if (feedCategory === "beauty") {
-    return null;
-  }
 
   // East Asia gossip feeds stay in their lane (do not fold into Western entertainment)
   if (feedCategory === "eastAsiaGossip") {
@@ -1430,6 +1466,7 @@ const CATEGORY_STRENGTH: Record<string, number> = {
   eastAsiaGossip: 18,
   entertainment: 20,
   beauty: 5,
+  shopping: 15,
 };
 
 export function preferCategory(cats: Category[]): Category {
@@ -1449,7 +1486,7 @@ export function preferCategory(cats: Category[]): Category {
   );
   if (
     hard.length &&
-    cats.some((c) => c === "entertainment" || c === "eastAsiaGossip" || c === "beauty")
+    cats.some((c) => c === "entertainment" || c === "eastAsiaGossip" || c === "beauty" || c === "shopping")
   ) {
     return preferCategory(hard);
   }
@@ -2149,7 +2186,8 @@ export function pickBalancedClusters(
     entertainment: 2,
     eastAsiaGossip: 5,
     society: 0,
-    beauty: 0,
+    beauty: 2,
+    shopping: 2,
   };
 
   const CELEB_DOMAINS = new Set([
@@ -2282,7 +2320,7 @@ export function pickBalancedClusters(
 
   const tryPick = (c: StoryCluster, forceEaTw = false): boolean => {
     if (pickedSet.has(c)) return false;
-    if (c.category === "society" || c.category === "beauty") return false;
+    if (c.category === "society") return false;
     const n = counts[c.category] ?? 0;
     if (n >= (perCatTarget[c.category] ?? 3)) return false;
     if (c.category === "entertainment") {
@@ -2329,7 +2367,7 @@ export function pickBalancedClusters(
   if (picked.length < targetMin) {
     for (const { c } of scored) {
       if (pickedSet.has(c)) continue;
-      if (c.category === "society" || c.category === "beauty") continue;
+      if (c.category === "society") continue;
       picked.push(c);
       pickedSet.add(c);
       if (picked.length >= targetMin) break;

@@ -11,7 +11,8 @@ export type Category =
   | "entertainment"
   | "eastAsiaGossip"
   | "society"
-  | "beauty";
+  | "beauty"
+  | "shopping";
 
 /** East Asia gossip regional tag (TW / JP / KR / CN). */
 export type EastAsiaRegion = "tw" | "jp" | "kr" | "cn";
@@ -88,6 +89,7 @@ export interface PreferenceWeights {
   eastAsiaGossip: number;
   society: number;
   beauty: number;
+  shopping: number;
 }
 
 export interface PersonalizationState {
