@@ -4,7 +4,7 @@
  */
 
 import type { Category, EastAsiaRegion, Story, TrustBreakdown } from "./types";
-import { computeTrustScore, isDeathRumorText } from "./trust";
+import { computeTrustScore, isDeathRumorText, buildTrustBreakdownV2 } from "./trust";
 
 export interface FeedSource {
   id: string;
@@ -170,6 +170,491 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     category: "ai",
     language: "en",
     domain: "blog.google",
+  },
+  // Semiconductor — 003 task feeds (13; dedup applied, see result file)
+  {
+    id: "eetimes",
+    name: "EE Times",
+    url: "https://www.eetimes.com/feed/",
+    category: "semiconductor",
+    language: "en",
+    domain: "eetimes.com",
+  },
+  {
+    id: "semiconductor-engineering",
+    name: "Semiconductor Engineering",
+    url: "https://semiengineering.com/feed/",
+    category: "semiconductor",
+    language: "en",
+    domain: "semiengineering.com",
+  },
+  {
+    id: "next-platform",
+    name: "The Next Platform",
+    url: "https://www.nextplatform.com/feed/",
+    category: "semiconductor",
+    language: "en",
+    domain: "nextplatform.com",
+  },
+  {
+    id: "hpcwire",
+    name: "HPCwire",
+    url: "https://www.hpcwire.com/feed/",
+    category: "semiconductor",
+    language: "en",
+    domain: "hpcwire.com",
+  },
+  {
+    id: "chips-and-cheese",
+    name: "Chips and Cheese",
+    url: "https://chipsandcheese.com/feed",
+    category: "semiconductor",
+    language: "en",
+    domain: "chipsandcheese.com",
+  },
+  {
+    id: "toms-hardware",
+    name: "Tom's Hardware",
+    url: "https://www.tomshardware.com/feeds/all",
+    category: "semiconductor",
+    language: "en",
+    domain: "tomshardware.com",
+  },
+  {
+    id: "digitimes",
+    name: "DigiTimes",
+    url: "https://www.digitimes.com/rss/daily.xml",
+    category: "semiconductor",
+    language: "en",
+    domain: "digitimes.com",
+  },
+  {
+    id: "the-register",
+    name: "The Register",
+    url: "https://www.theregister.com/headlines.atom",
+    category: "semiconductor",
+    language: "en",
+    domain: "theregister.com",
+  },
+  {
+    id: "ieee-spectrum",
+    name: "IEEE Spectrum",
+    url: "https://spectrum.ieee.org/feeds/feed.rss",
+    category: "semiconductor",
+    language: "en",
+    domain: "spectrum.ieee.org",
+  },
+  {
+    id: "technews",
+    name: "TechNews 科技新報",
+    url: "https://technews.tw/feed/",
+    category: "semiconductor",
+    language: "zh-TW",
+    domain: "technews.tw",
+  },
+  {
+    id: "semiwiki",
+    name: "SemiWiki",
+    url: "https://semiwiki.com/feed/",
+    category: "semiconductor",
+    language: "en",
+    domain: "semiwiki.com",
+  },
+  {
+    id: "eetimes-asia",
+    name: "EE Times Asia",
+    url: "https://www.eetasia.com/feed/",
+    category: "semiconductor",
+    language: "en",
+    domain: "eetasia.com",
+  },
+  {
+    id: "eet-taiwan",
+    name: "EET Taiwan 電子工程專輯",
+    url: "https://www.eettaiwan.com/feed/",
+    category: "semiconductor",
+    language: "zh-TW",
+    domain: "eettaiwan.com",
+  },
+  // Taiwan — 003 task feeds (10; dedup applied, see result file)
+  {
+    id: "cna-politics",
+    name: "中央社-政治",
+    url: "https://feeds.feedburner.com/rsscna/politics",
+    category: "taiwan",
+    language: "zh-TW",
+    domain: "cna.com.tw",
+  },
+  {
+    id: "cna-finance",
+    name: "中央社-產經證券",
+    url: "https://feeds.feedburner.com/rsscna/finance",
+    category: "taiwan",
+    language: "zh-TW",
+    domain: "cna.com.tw",
+  },
+  {
+    id: "cna-crossstrait",
+    name: "中央社-兩岸",
+    url: "https://feeds.feedburner.com/rsscna/mainland",
+    category: "taiwan",
+    language: "zh-TW",
+    domain: "cna.com.tw",
+  },
+  {
+    id: "cna-tech",
+    name: "中央社-科技",
+    url: "https://feeds.feedburner.com/rsscna/technology",
+    category: "taiwan",
+    language: "zh-TW",
+    domain: "cna.com.tw",
+  },
+  {
+    id: "cna-intl",
+    name: "中央社-國際",
+    url: "https://feeds.feedburner.com/rsscna/intworld",
+    category: "taiwan",
+    language: "zh-TW",
+    domain: "cna.com.tw",
+  },
+  {
+    id: "twreporter",
+    name: "報導者",
+    url: "https://public.twreporter.org/rss/twreporter-rss.xml",
+    category: "taiwan",
+    language: "zh-TW",
+    domain: "twreporter.org",
+  },
+  {
+    id: "udn-intl",
+    name: "經濟日報-國際焦點",
+    url: "https://money.udn.com/rssfeed/news/1001/5588/10511?ch=money",
+    category: "taiwan",
+    language: "zh-TW",
+    domain: "money.udn.com",
+  },
+  {
+    id: "pts-news",
+    name: "公視新聞網",
+    url: "https://news.pts.org.tw/xml/newsfeed.xml",
+    category: "taiwan",
+    language: "zh-TW",
+    domain: "news.pts.org.tw",
+  },
+  {
+    id: "bbc-asia",
+    name: "BBC News-Asia",
+    url: "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+    category: "taiwan",
+    language: "en",
+    domain: "bbc.com",
+  },
+  {
+    id: "bloomberg-markets",
+    name: "Bloomberg Markets",
+    url: "https://feeds.bloomberg.com/markets/news.rss",
+    category: "taiwan",
+    language: "en",
+    domain: "bloomberg.com",
+  },
+  // US — 003 task feeds (12; dedup applied, see result file)
+  {
+    id: "pbs-newshour",
+    name: "PBS NewsHour",
+    url: "https://www.pbs.org/newshour/feeds/rss/headlines",
+    category: "us",
+    language: "en",
+    domain: "pbs.org",
+  },
+  {
+    id: "the-hill",
+    name: "The Hill",
+    url: "https://thehill.com/homenews/feed/",
+    category: "us",
+    language: "en",
+    domain: "thehill.com",
+  },
+  {
+    id: "axios",
+    name: "Axios",
+    url: "https://api.axios.com/feed/",
+    category: "us",
+    language: "en",
+    domain: "axios.com",
+  },
+  {
+    id: "propublica",
+    name: "ProPublica",
+    url: "https://www.propublica.org/feeds/propublica/main",
+    category: "us",
+    language: "en",
+    domain: "propublica.org",
+  },
+  {
+    id: "bloomberg-news",
+    name: "Bloomberg News",
+    url: "https://www.bloomberg.com/feeds/news.rss",
+    category: "us",
+    language: "en",
+    domain: "bloomberg.com",
+  },
+  {
+    id: "bloomberg-markets-www",
+    name: "Bloomberg Markets",
+    url: "https://www.bloomberg.com/feeds/markets/news.rss",
+    category: "us",
+    language: "en",
+    domain: "bloomberg.com",
+  },
+  {
+    id: "cnbc-economy",
+    name: "CNBC Economy",
+    url: "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+    category: "us",
+    language: "en",
+    domain: "cnbc.com",
+  },
+  {
+    id: "financial-times",
+    name: "Financial Times",
+    url: "https://www.ft.com/?format=rss",
+    category: "us",
+    language: "en",
+    domain: "ft.com",
+  },
+  {
+    id: "nyt-economy",
+    name: "NYT Economy",
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+    category: "us",
+    language: "en",
+    domain: "nytimes.com",
+  },
+  {
+    id: "al-jazeera",
+    name: "Al Jazeera",
+    url: "https://www.aljazeera.com/xml/rss/all.xml",
+    category: "us",
+    language: "en",
+    domain: "aljazeera.com",
+  },
+  {
+    id: "ltn-all",
+    name: "自由時報",
+    url: "https://news.ltn.com.tw/rss/all.xml",
+    category: "us",
+    language: "zh-TW",
+    domain: "news.ltn.com.tw",
+  },
+  {
+    id: "udn-intl-gnews",
+    name: "經濟日報國際（Google News 代理）",
+    url: "https://news.google.com/rss/search?q=when:3d+site:money.udn.com&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    category: "us",
+    language: "zh-TW",
+    domain: "news.google.com",
+  },
+  // Energy — 003 task feeds (13; dedup applied, see result file)
+  {
+    id: "grist",
+    name: "Grist",
+    url: "https://grist.org/feed/",
+    category: "energy",
+    language: "en",
+    domain: "grist.org",
+  },
+  {
+    id: "inside-climate-news",
+    name: "Inside Climate News",
+    url: "https://insideclimatenews.org/feed/",
+    category: "energy",
+    language: "en",
+    domain: "insideclimatenews.org",
+  },
+  {
+    id: "carbon-brief",
+    name: "Carbon Brief",
+    url: "https://www.carbonbrief.org/feed/",
+    category: "energy",
+    language: "en",
+    domain: "carbonbrief.org",
+  },
+  {
+    id: "pv-magazine-usa",
+    name: "PV Magazine USA",
+    url: "https://www.pv-magazine-usa.com/feed/",
+    category: "energy",
+    language: "en",
+    domain: "pv-magazine-usa.com",
+  },
+  {
+    id: "pv-magazine",
+    name: "PV Magazine Global",
+    url: "https://www.pv-magazine.com/feed/",
+    category: "energy",
+    language: "en",
+    domain: "pv-magazine.com",
+  },
+  {
+    id: "trellis",
+    name: "Trellis",
+    url: "https://trellis.net/feed/",
+    category: "energy",
+    language: "en",
+    domain: "trellis.net",
+  },
+  {
+    id: "utility-dive",
+    name: "Utility Dive",
+    url: "https://www.utilitydive.com/feeds/news/",
+    category: "energy",
+    language: "en",
+    domain: "utilitydive.com",
+  },
+  {
+    id: "esg-dive",
+    name: "ESG Dive",
+    url: "https://www.esgdive.com/feeds/news/",
+    category: "energy",
+    language: "en",
+    domain: "esgdive.com",
+  },
+  {
+    id: "guardian-environment",
+    name: "The Guardian Environment",
+    url: "https://www.theguardian.com/environment/rss",
+    category: "energy",
+    language: "en",
+    domain: "theguardian.com",
+  },
+  {
+    id: "guardian-climate",
+    name: "The Guardian Climate Crisis",
+    url: "https://www.theguardian.com/environment/climate-crisis/rss",
+    category: "energy",
+    language: "en",
+    domain: "theguardian.com",
+  },
+  {
+    id: "mongabay",
+    name: "Mongabay",
+    url: "https://news.mongabay.com/feed/",
+    category: "energy",
+    language: "en",
+    domain: "news.mongabay.com",
+  },
+  {
+    id: "solar-power-world",
+    name: "Solar Power World",
+    url: "https://www.solarpowerworldonline.com/feed/",
+    category: "energy",
+    language: "en",
+    domain: "solarpowerworldonline.com",
+  },
+  {
+    id: "gcaa",
+    name: "綠色公民行動聯盟",
+    url: "https://www.gcaa.org.tw/feed",
+    category: "energy",
+    language: "zh-TW",
+    domain: "gcaa.org.tw",
+  },
+  // Biotech — 003 task feeds (12; dedup applied, see result file)
+  {
+    id: "geneonline",
+    name: "基因線上 GeneOnline",
+    url: "https://geneonline.news/feed/",
+    category: "biotech",
+    language: "zh-TW",
+    domain: "geneonline.news",
+  },
+  {
+    id: "heho",
+    name: "Heho 健康",
+    url: "https://heho.com.tw/feed/",
+    category: "biotech",
+    language: "zh-TW",
+    domain: "heho.com.tw",
+  },
+  {
+    id: "stat-biotech",
+    name: "STAT News 生技版",
+    url: "https://www.statnews.com/topic/biotech/feed/",
+    category: "biotech",
+    language: "en",
+    domain: "statnews.com",
+  },
+  {
+    id: "endpoints",
+    name: "Endpoints News",
+    url: "https://endpts.com/feed/",
+    category: "biotech",
+    language: "en",
+    domain: "endpts.com",
+  },
+  {
+    id: "biopharma-dive",
+    name: "BioPharma Dive",
+    url: "https://www.biopharmadive.com/feeds/news/",
+    category: "biotech",
+    language: "en",
+    domain: "biopharmadive.com",
+  },
+  {
+    id: "gen",
+    name: "GEN 基因工程新聞",
+    url: "https://www.genengnews.com/rss/",
+    category: "biotech",
+    language: "en",
+    domain: "genengnews.com",
+  },
+  {
+    id: "fda-press",
+    name: "FDA 新聞稿",
+    url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+    category: "biotech",
+    language: "en",
+    domain: "fda.gov",
+  },
+  {
+    id: "fda-medwatch",
+    name: "FDA MedWatch 安全警訊",
+    url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml",
+    category: "biotech",
+    language: "en",
+    domain: "fda.gov",
+  },
+  {
+    id: "science-news",
+    name: "Science 科學新聞",
+    url: "https://www.science.org/rss/news_current.xml",
+    category: "biotech",
+    language: "en",
+    domain: "science.org",
+  },
+  {
+    id: "sciencedaily-health",
+    name: "ScienceDaily 健康醫學",
+    url: "https://www.sciencedaily.com/rss/health_medicine.xml",
+    category: "biotech",
+    language: "en",
+    domain: "sciencedaily.com",
+  },
+  {
+    id: "pharmavoice",
+    name: "PharmaVOICE",
+    url: "https://www.pharmavoice.com/feeds/news",
+    category: "biotech",
+    language: "en",
+    domain: "pharmavoice.com",
+  },
+  {
+    id: "et-pharma",
+    name: "ET Pharma",
+    url: "https://pharma.economictimes.indiatimes.com/rss/topstories",
+    category: "biotech",
+    language: "en",
+    domain: "pharma.economictimes.indiatimes.com",
   },
   // Entertainment — Western/global verifiable celebrity gossip (NOT East Asia lane)
   {
@@ -700,7 +1185,16 @@ export function resolveCategory(
 
   // Strong East Asia celeb signals from other feeds → eastAsiaGossip (not entertainment)
   if (eastAsiaGossipSignal(rawText)) {
-    if (feedCategory === "finance" || feedCategory === "tech" || feedCategory === "ai") {
+    if (
+      feedCategory === "finance" ||
+      feedCategory === "tech" ||
+      feedCategory === "ai" ||
+      feedCategory === "semiconductor" ||
+      feedCategory === "taiwan" ||
+      feedCategory === "us" ||
+      feedCategory === "energy" ||
+      feedCategory === "biotech"
+    ) {
       return feedCategory;
     }
     return "eastAsiaGossip";
@@ -708,7 +1202,16 @@ export function resolveCategory(
 
   // Strong Western celebrity signals from other feeds → entertainment
   if (includesAny(text, ENTERTAINMENT_POSITIVE)) {
-    if (feedCategory === "finance" || feedCategory === "tech" || feedCategory === "ai") {
+    if (
+      feedCategory === "finance" ||
+      feedCategory === "tech" ||
+      feedCategory === "ai" ||
+      feedCategory === "semiconductor" ||
+      feedCategory === "taiwan" ||
+      feedCategory === "us" ||
+      feedCategory === "energy" ||
+      feedCategory === "biotech"
+    ) {
       return feedCategory; // don't steal product/market news
     }
     return "entertainment";
@@ -918,6 +1421,11 @@ const CATEGORY_STRENGTH: Record<string, number> = {
   finance: 48,
   tech: 46,
   ai: 46,
+  semiconductor: 47,
+  taiwan: 46,
+  us: 46,
+  energy: 44,
+  biotech: 44,
   society: 30,
   eastAsiaGossip: 18,
   entertainment: 20,
@@ -937,7 +1445,7 @@ export function preferCategory(cats: Category[]): Category {
   }
   // If mix includes entertainment + hard news → hard news
   const hard = cats.filter((c) =>
-    ["international", "finance", "tech", "ai"].includes(c)
+    ["international", "finance", "tech", "ai", "semiconductor", "taiwan", "us", "energy", "biotech"].includes(c)
   );
   if (
     hard.length &&
@@ -1331,43 +1839,28 @@ export function reputationForDomain(domain: string): number {
 }
 
 export function buildTrustBreakdown(cluster: StoryCluster): TrustBreakdown {
-  // Count unique publisher domains (not GNews wrapper rows)
-  const uniqueDomains = uniquePublisherDomains(cluster);
-  const sourceDiversity = Math.min(25, Math.round(uniqueDomains.size * 8));
-
-  const reps = [...uniqueDomains].map((d) => reputationForDomain(d));
-  const outletReputation = Math.min(
-    25,
-    Math.round(reps.reduce((a, b) => a + b, 0) / Math.max(1, reps.length))
-  );
-
-  const size = uniqueDomains.size; // honest multi-source = unique publishers
-  let crossCorroboration = Math.min(25, 8 + (size - 1) * 7);
-  if (cluster.disagreementHint) {
-    crossCorroboration = Math.max(6, crossCorroboration - 8);
-  }
-
-  const ageMs = Date.now() - Date.parse(cluster.publishedAt);
-  const ageHours = Number.isNaN(ageMs) ? 72 : ageMs / 36e5;
-  let recency = 25;
-  if (ageHours > 6) recency -= 3;
-  if (ageHours > 24) recency -= 5;
-  if (ageHours > 72) recency -= 6;
-  if (ageHours > 168) recency -= 6;
-  const descLen = cluster.members.reduce(
+  // v2: multi-source cross-verification weighting (see trust.ts).
+  const outlets = cluster.members.map((m) => ({
+    domain: resolvePublisherDomain(m.link, m.title, m.domain)
+      .replace(/^www\./, "")
+      .toLowerCase(),
+    title: m.title,
+    description: m.description ?? "",
+  }));
+  const descriptionLength = cluster.members.reduce(
     (n, m) => n + (m.description?.length ?? 0) + m.title.length,
     0
   );
-  if (descLen < 80) recency -= 4;
-  if (descLen > 400) recency += 1;
-  const recencyClarity = Math.max(0, Math.min(25, recency));
-
-  return {
-    sourceDiversity,
-    outletReputation,
-    crossCorroboration,
-    recencyClarity,
-  };
+  const v2 = buildTrustBreakdownV2({
+    outlets,
+    publishedAt: cluster.publishedAt,
+    descriptionLength,
+    disagreementHint: cluster.disagreementHint,
+  });
+  // Return exactly the TrustBreakdown shape (UI depends on it); v2 diagnostics
+  // stay available via v2BreakdownDetail in trust.ts.
+  const { sourceDiversity, outletReputation, crossCorroboration, recencyClarity } = v2;
+  return { sourceDiversity, outletReputation, crossCorroboration, recencyClarity };
 }
 
 const TRENDING_KEYWORDS = [

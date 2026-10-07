@@ -3,6 +3,11 @@ export type Category =
   | "finance"
   | "tech"
   | "ai"
+  | "semiconductor"
+  | "taiwan"
+  | "us"
+  | "energy"
+  | "biotech"
   | "entertainment"
   | "eastAsiaGossip"
   | "society"
@@ -74,6 +79,11 @@ export interface PreferenceWeights {
   finance: number;
   tech: number;
   ai: number;
+  semiconductor: number;
+  taiwan: number;
+  us: number;
+  energy: number;
+  biotech: number;
   entertainment: number;
   eastAsiaGossip: number;
   society: number;

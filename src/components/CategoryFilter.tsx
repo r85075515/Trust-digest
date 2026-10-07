@@ -10,6 +10,11 @@ const MAIN: Array<Category | "all"> = [
   "finance",
   "tech",
   "ai",
+  "semiconductor",
+  "taiwan",
+  "us",
+  "energy",
+  "biotech",
   "entertainment",
   "eastAsiaGossip",
 ];
