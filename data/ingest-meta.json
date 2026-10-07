@@ -1,19 +1,19 @@
 {
-  "ingestedAt": "2026-10-06T01:41:24.098Z",
-  "feedOk": 48,
+  "ingestedAt": "2026-10-07T01:44:00.867Z",
+  "feedOk": 47,
   "feedTotal": 52,
-  "rawItems": 525,
-  "mainStories": 16,
+  "rawItems": 542,
+  "mainStories": 15,
   "byCategory": {
     "international": 3,
-    "eastAsiaGossip": 5,
-    "tech": 2,
+    "eastAsiaGossip": 4,
     "ai": 2,
     "finance": 2,
+    "tech": 2,
     "entertainment": 2
   },
   "eastAsiaByRegion": {
-    "tw": 5
+    "tw": 4
   },
   "heatSourcesShipped": [
     "ptt",
@@ -21,16 +21,14 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "直播自揭",
-    "八點檔男星",
-    "祖籍雲南",
-    "蔡康永現身競"
+    "蔡康永現身競",
+    "藝人參與政治",
+    "你怎麼看",
+    "錫蘭直播開嗆"
   ],
-  "heatNewsInjected": 23,
+  "heatNewsInjected": 47,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat",
-  "rewrittenAt": "2026-10-06T02:08:38.000Z",
-  "rewrittenBy": "bebo"
+  "mode": "extractive+translate+rss+heat"
 }
