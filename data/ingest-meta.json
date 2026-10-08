@@ -1,5 +1,5 @@
 {
-  "ingestedAt": "2026-10-07T01:44:00.867Z",
+  "ingestedAt": "2026-10-08T01:45:33.773Z",
   "feedOk": 47,
   "feedTotal": 52,
   "rawItems": 542,
@@ -31,6 +31,6 @@
   "llmProvider": null,
   "llmModel": null,
   "mode": "extractive+translate+rss+heat",
-  "rewrittenAt": "2026-10-07T14:58:15.000Z",
-  "rewrittenBy": "bebo"
+  "rewrittenAt": "2026-10-08T15:04:31.695Z",
+  "rewrittenBy": "fleet-worker"
 }
