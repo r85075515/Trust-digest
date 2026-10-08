@@ -1,21 +1,19 @@
 {
-  "ingestedAt": "2026-10-08T01:45:33.773Z",
-  "feedOk": 113,
-  "feedTotal": 117,
-  "rawItems": 1000,
-  "mainStories": 14,
+  "ingestedAt": "2026-10-07T01:44:00.867Z",
+  "feedOk": 47,
+  "feedTotal": 52,
+  "rawItems": 542,
+  "mainStories": 15,
   "byCategory": {
-    "eastAsiaGossip": 3,
-    "energy": 1,
-    "semiconductor": 1,
-    "finance": 1,
-    "taiwan": 2,
-    "us": 1,
     "international": 3,
+    "eastAsiaGossip": 4,
+    "ai": 2,
+    "finance": 2,
+    "tech": 2,
     "entertainment": 2
   },
   "eastAsiaByRegion": {
-    "tw": 3
+    "tw": 4
   },
   "heatSourcesShipped": [
     "ptt",
@@ -23,14 +21,16 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "好萊塢明星不",
-    "怕將來被",
-    "取代嗎",
-    "蔡康永現身競"
+    "蔡康永現身競",
+    "藝人參與政治",
+    "你怎麼看",
+    "錫蘭直播開嗆"
   ],
-  "heatNewsInjected": 48,
+  "heatNewsInjected": 47,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat"
+  "mode": "extractive+translate+rss+heat",
+  "rewrittenAt": "2026-10-07T14:58:15.000Z",
+  "rewrittenBy": "bebo"
 }
