@@ -74,14 +74,6 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     domain: "marketwatch.com",
   },
   {
-    id: "yahoo-finance",
-    name: "Yahoo Finance",
-    url: "https://finance.yahoo.com/news/rssindex",
-    category: "finance",
-    language: "en",
-    domain: "finance.yahoo.com",
-  },
-  {
     id: "bbc-business",
     name: "BBC Business",
     url: "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -92,7 +84,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
   {
     id: "guardian-business",
     name: "The Guardian Business",
-    url: "https://www.theguardian.com/business/rss",
+    url: "https://www.theguardian.com/us/business/rss",
     category: "finance",
     language: "en",
     domain: "theguardian.com",
@@ -215,7 +207,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
   {
     id: "toms-hardware",
     name: "Tom's Hardware",
-    url: "https://www.tomshardware.com/feeds/all",
+    url: "https://www.tomshardware.com/feeds.xml",
     category: "semiconductor",
     language: "en",
     domain: "tomshardware.com",
@@ -472,22 +464,6 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     domain: "insideclimatenews.org",
   },
   {
-    id: "carbon-brief",
-    name: "Carbon Brief",
-    url: "https://www.carbonbrief.org/feed/",
-    category: "energy",
-    language: "en",
-    domain: "carbonbrief.org",
-  },
-  {
-    id: "pv-magazine-usa",
-    name: "PV Magazine USA",
-    url: "https://www.pv-magazine-usa.com/feed/",
-    category: "energy",
-    language: "en",
-    domain: "pv-magazine-usa.com",
-  },
-  {
     id: "pv-magazine",
     name: "PV Magazine Global",
     url: "https://www.pv-magazine.com/feed/",
@@ -522,7 +498,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
   {
     id: "guardian-environment",
     name: "The Guardian Environment",
-    url: "https://www.theguardian.com/environment/rss",
+    url: "https://www.theguardian.com/us/environment/rss",
     category: "energy",
     language: "en",
     domain: "theguardian.com",
@@ -585,28 +561,12 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     domain: "statnews.com",
   },
   {
-    id: "endpoints",
-    name: "Endpoints News",
-    url: "https://endpts.com/feed/",
-    category: "biotech",
-    language: "en",
-    domain: "endpts.com",
-  },
-  {
     id: "biopharma-dive",
     name: "BioPharma Dive",
     url: "https://www.biopharmadive.com/feeds/news/",
     category: "biotech",
     language: "en",
     domain: "biopharmadive.com",
-  },
-  {
-    id: "gen",
-    name: "GEN 基因工程新聞",
-    url: "https://www.genengnews.com/rss/",
-    category: "biotech",
-    language: "en",
-    domain: "genengnews.com",
   },
   {
     id: "fda-press",
