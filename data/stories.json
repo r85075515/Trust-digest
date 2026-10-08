@@ -1,910 +1,470 @@
 [
   {
-    "id": "live-international-01-man-arrested-in-connecti",
-    "category": "international",
-    "adult": false,
-    "isHeadline": true,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-01-man-arrested-in-connecti.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
-      "zh-TW": "相關封面圖：男子因與英國皇家空軍費爾福德空軍基地事件有關而被捕"
-    },
-    "publishedAt": "2026-10-06T18:13:44.000Z",
-    "title": {
-      "en": "RAF Fairford Probe: Seventh Terror-Arrest Made in London as Threat Investigation Widens",
-      "zh-TW": "皇家空軍費爾福德基地（RAF Fairford）威脅調查擴大：倫敦再逮第七人涉恐怖罪名"
-    },
-    "summary": {
-      "en": "Counter-terrorism police arrested a 22-year-old British national in Westminster, London — the seventh arrest tied to threats against RAF Fairford. He was detained on suspicion of preparing terrorist acts under section 5 of the UK's terrorism legislation, as the investigation into the 27 September incident near the base continues to widen.",
-      "zh-TW": "倫敦反恐警察在西敏寺逮捕一名 22 歲英國籍男子，涉嫌依反恐法第五條準備恐怖行為，成為與皇家空軍費爾福德基地威脅案相關的第七名被捕者。案件源於 9 月 27 日基地周邊的事件，調查仍在擴大中。"
-    },
-    "body": {
-      "en": "What happened\nA 22-year-old British national was arrested in Westminster, central London, on suspicion of preparation of terrorist acts under section 5 of the UK's terrorism legislation, police said. He is the seventh person detained as part of the counter-terrorism investigation into threats against RAF Fairford, following an incident close to the Gloucestershire airbase on 27 September. The arrest was carried out by counter-terrorism officers in the capital, days after earlier detentions connected to the same inquiry.\n\nWhy it matters\nRAF Fairford is one of the few British bases able to host US heavy bombers on forward deployment in Europe, so any credible threat against it carries strategic weight. A seventh arrest suggests investigators are widening the net rather than narrowing it, and the string of detentions points to an organized, ongoing inquiry rather than a single isolated suspect.\n\nSources agree / disagree\nNYT World, Sky News UK, BBC UK and The Guardian UK News all report the same core facts: the 22-year-old's arrest in London, the seventh-arrest count, and the link to the RAF Fairford investigation. None of the four outlets disputes the basic sequence of events.\n\nStill uncertain\nPolice have not disclosed what the 27 September incident involved or what evidence links the seventh suspect to it. Feed descriptions can omit context, updates, or corrections; click through to the linked outlets for the latest full reporting.",
-      "zh-TW": "發生了什麼事\n警方表示，一名 22 歲英國籍男子在倫敦市中心的西敏寺被捕，涉嫌違反反恐法第五條、準備從事恐怖行為。他是皇家空軍費爾福德基地威脅案調查中第七名被拘留者；該案源於 9 月 27 日格洛斯特郡這座空軍基地周邊發生的事件。這次逮捕由首都的反恐警官執行，距離同案先前的幾波拘留僅數日。\n\n為什麼重要\n費爾福德是少數能接待美軍重型轟炸機前進部署的英國基地，任何針對它的可信威脅都具戰略分量。第七人落網顯示調查範圍正在擴大而非收斂，一連串拘留也指向這是一場有組織、持續進行的調查，而非單一孤立嫌犯。\n\n來源異同\n《紐約時報》世界版、英國天空新聞、英國廣播公司（BBC）與衛報（The Guardian）四家媒體報導的核心事實一致：22 歲男子在倫敦被捕、第七次逮捕的數字，以及與費爾福德調查的關聯。四家都沒有質疑事件的基本順序。\n\n仍不確定\n警方尚未說明 9 月 27 日的事件具體內容，也未透露第七名嫌犯與該案的關聯證據。提要描述可能省略背景、更新或更正，請點進連結的媒體看最新完整報導。"
-    },
-    "sources": [
-      {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html"
-      },
-      {
-        "name": "Sky News UK",
-        "url": "https://news.sky.com/story/police-make-further-arrest-over-raf-fairford-incident-13595771"
-      },
-      {
-        "name": "BBC UK",
-        "url": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "The Guardian UK News",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/06/british-man-arrested-over-suspected-raf-fairford-terrorism-plot"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 83,
-    "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 18,
-      "crossCorroboration": 17,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "nyt-world",
-      "sky-news-uk",
-      "bbc-uk"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "RAF Fairford",
-          "zh-TW": "皇家空軍費爾福德基地"
-        },
-        "blurb": {
-          "en": "Forward operating base in Gloucestershire, England, used for US heavy bomber deployments.",
-          "zh-TW": "位於英格蘭格洛斯特郡的前進部署基地，供美軍重型轟炸機使用。"
-        }
-      },
-      {
-        "term": {
-          "en": "Counter-terrorism police",
-          "zh-TW": "反恐警察"
-        },
-        "blurb": {
-          "en": "UK specialist police units investigating terrorism offences and threats.",
-          "zh-TW": "英國專責調查恐怖主義犯罪與威脅的警務單位。"
-        }
-      },
-      {
-        "term": {
-          "en": "Westminster",
-          "zh-TW": "西敏寺區"
-        },
-        "blurb": {
-          "en": "Central London district housing Parliament and major government buildings.",
-          "zh-TW": "倫敦市中心區域，國會與主要政府機關所在地。"
-        }
-      },
-      {
-        "term": {
-          "en": "Section 5, Terrorism Act",
-          "zh-TW": "反恐法第五條"
-        },
-        "blurb": {
-          "en": "UK terrorism-law provision covering preparation of terrorist acts.",
-          "zh-TW": "英國反恐法規中關於「準備恐怖行為」罪名的條款。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-01-social-run",
+    "id": "live-eastAsiaGossip-02-ai-2-56",
     "category": "eastAsiaGossip",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "publishedAt": "2026-09-11T07:00:00.000Z",
+    "publishedAt": "2026-10-01T12:00:40.000Z",
     "title": {
-      "en": "Xinyi District 'Social Run' Draws Online Debate in Taipei",
-      "zh-TW": "台北信義區「Social Run」跑步活動引發網路論戰"
+      "en": "你怕被 AI 取代嗎？上班族估2.56年內工作將被改變",
+      "zh-TW": "你怕被 AI 取代嗎？上班族估2.56年內工作將被改變"
     },
     "summary": {
-      "en": "A community running event in Taipei's Xinyi District, billed as a 'Social Run,' has drawn online debate, according to Taiwan heat-based news feeds. Details remain thin in the available snippets: several outlets picked up the story under the 'what do you think?' discussion thread, without a settled account of what sparked the dispute.",
-      "zh-TW": "一場在台北信義區舉行的「Social Run」社群跑步活動引發網路爭議，消息來自台灣的熱度新聞推播。現有提要提供的細節有限，多家媒體將此事收在「你怎麼看」的討論串中，爭議的確切起因尚無定論。"
+      "en": "你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民 民視新聞網",
+      "zh-TW": "你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民 民視新聞網"
     },
     "body": {
-      "en": "What happened\nA 'Social Run' community running event in Taipei's Xinyi District has become a topic of online debate, according to Taiwan heat-based news feeds. The story surfaced under the 'what do you think?' (你怎麼看) discussion label, where readers are invited to weigh in on the controversy. The available feed snippets do not spell out what exactly drew criticism — whether it was noise, road use, crowd behavior, or something else.\n\nWhy it matters\nNeighborhood fitness events sit at the intersection of public space, resident comfort, and social-media virality: a local run can become a citywide argument overnight. The thin sourcing here is itself the point — heat-driven feeds can amplify a dispute before basic facts are established.\n\nSources agree / disagree\nThe cluster mixes the Social Run item with unrelated '你怎麼看' debate prompts, so only the headline itself is consistent across the feeds: a Xinyi District Social Run drew controversy. No outlet in the snippets offers a fuller account, and there are no clear numeric or name conflicts to resolve.\n\nStill uncertain\nWhat specifically sparked the backlash, who organized the run, and whether any official response followed are all unclear from the snippets. Click through to the linked outlets for any fuller reporting.",
-      "zh-TW": "發生了什麼事\n一場在台北信義區舉行的「Social Run」社群跑步活動成為網路論戰話題，消息來自台灣的熱度新聞推播。此事被收在「你怎麼看」的討論標籤下，邀請讀者對爭議表態。但現有提要並未說清批評的具體內容——是噪音、佔用道路、群眾行為，還是其他原因，都不得而知。\n\n為什麼重要\n社區健身活動正好卡在公共空間、居民感受與社群病毒傳播的交會點：一場地方路跑一夜之間就能變成全市爭論。這裡的稀薄來源本身就是重點——熱度推播可能在基本事實確立之前，就先把爭議放大。\n\n來源異同\n這個群組把 Social Run 的消息和其他不相關的「你怎麼看」討論串混在一起，因此各推播一致的只有標題本身：信義區 Social Run 引發爭議。提要中沒有任何一家媒體提供更完整的說法，也沒有需要釐清的數字或人名衝突。\n\n仍不確定\n爭議的具體導火線、活動主辦方是誰、有無官方回應，提要都沒有交代。請點進連結的媒體看是否有更完整的報導。"
+      "en": "你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民 民視新聞網 What happened\n你怕被 AI 取代嗎？上班族估2.56年內工作將被改變. 你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民 民視新聞網 人類會被AI取代嗎？比起追逐技能，AI領袖談那些「無法被取代的軟實力」 Marie Claire 美麗佳人 工程師會被 AI 取代嗎？AI 世代必備 3 大核心實力公開！ PChome Online新聞 Why it matters\nThis cluster was assembled from 8 feed item(s) across 1 outlet(s) (GNews TW heat:取代嗎) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"工作將被AI取代？外媒點名「6大危險職業」近7成人恐失業\" (GNews TW heat:取代嗎); \"你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民\" (GNews TW heat:取代嗎); \"工作會被AI取代嗎？醫揭「新型職場焦慮」失眠、自我懷疑都可能出現\" (GNews TW heat:取代嗎); \"你的工作會被AI取代嗎？哪些職位受到的影響最大\" (GNews TW heat:取代嗎); \"作家的創意會被AI取代嗎？ 根本分不出來！殘忍調查公布\" (GNews TW heat:取代嗎).\nFigures differ across outlets (e.g. 6 vs 2.56 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews TW heat:取代嗎 Additional feed context\n(1) 你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民 民視新聞網\n(2) 人類會被AI取代嗎？比起追逐技能，AI領袖談那些「無法被取代的軟實力」 Marie Claire 美麗佳人\n(3) 工程師會被 AI 取代嗎？AI 世代必備 3 大核心實力公開！ PChome Online新聞",
+      "zh-TW": "你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民 民視新聞網 What happened\n你怕被 AI 取代嗎？上班族估2.56年內工作將被改變. 你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民 民視新聞網 人類會被AI取代嗎？比起追逐技能，AI領袖談那些「無法被取代的軟實力」 Marie Claire 美麗佳人 工程師會被 AI 取代嗎？AI 世代必備 3 大核心實力公開！ PChome Online新聞 Why it matters\nThis cluster was assembled from 8 feed item(s) across 1 outlet(s) (GNews TW heat:取代嗎) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"工作將被AI取代？外媒點名「6大危險職業」近7成人恐失業\" (GNews TW heat:取代嗎); \"你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民\" (GNews TW heat:取代嗎); \"工作會被AI取代嗎？醫揭「新型職場焦慮」失眠、自我懷疑都可能出現\" (GNews TW heat:取代嗎); \"你的工作會被AI取代嗎？哪些職位受到的影響最大\" (GNews TW heat:取代嗎); \"作家的創意會被AI取代嗎？ 根本分不出來！殘忍調查公布\" (GNews TW heat:取代嗎).\nFigures differ across outlets (e.g. 6 vs 2.56 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews TW heat:取代嗎 Additional feed context\n(1) 你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民 民視新聞網\n(2) 人類會被AI取代嗎？比起追逐技能，AI領袖談那些「無法被取代的軟實力」 Marie Claire 美麗佳人\n(3) 工程師會被 AI 取代嗎？AI 世代必備 3 大核心實力公開！ PChome Online新聞"
     },
     "sources": [
-      {
-        "name": "peopo公民新聞",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXYTIyVWYwb2l0LUUzSWJSYTJhTm9KWjFrbUFlVjFCV1B5NVprNVExYmNtallGalBIOHAwdXh1MWlXcElhZWFJdA?oc=5"
-      },
-      {
-        "name": "你的公共電視",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVUpWb1cyc1JVM3dQSzRTMm1FYmhjTTR6eGVEelJsTU1yVmpqN3k0VHF6eXBXX1VZMXNHM01zMkI4SEFMSm5Lek9aOA?oc=5"
-      },
-      {
-        "name": "don1don動一動",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaWwzTXR5eVFWTEhoTlI4bkxKOF8yQXhuM2FJNmpMVjR6MkY4YlRjRWExa0QtYlFXNjEtSFYtaGt5RmtyRmJJaUhRa2trRXFKN0lOWFlQMjVvQ3hEWGlQc2dva09JazhlZEY4WFdFVE54ajA0QTdGVkJiVWxNdnR1NC1SbDBtUzhOLXcycG1Oc0V4aUpuYW5vVUJrbDdHdkNrT0pleFNVVlVXSDRLb3FyNmJSRW1KMUI0c2hRc3lKcEtWVkloV2NHaWhibzBWdThyNXRETU1JN2VYeW90ZXhxOTJzZVp5bzQ?oc=5"
-      },
       {
         "name": "tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPQ3AteTFreDNWS3RBQnNhWVVxR2FBSFlPV0g4X0dHUWV4NXd6azJlZThXVUNialZSMmdmd2xSb2t3U0xyX2F4Umt1VUhvaEc0Rk9CbTRNYy1uUTBBM0hKQWtuZVZXX25CY3Rid2dVeW14d0xaeDl2QXZObUNVckRDMUQ1SDR6QkZSWTBKMUhBYWVRajdjeGNrWlV1bV9KcnBVSmlWUllYb0xTZ2dTaUx0NEQtZTlmQkxUdEFOWThlU25LMmxpRkdtblhwbTlxQ21tOUFrdU9aVTJBbmF3RDBWdzhBbGI0bVA5eDBja3AtTHJRRndFS0RmSEhVdEFUMF9xTU9IY1Q2SzdSelEwQjdGQTZZN09IdURCa0JNYVMxWVdjQ196VEM4Uy13dmNsOWZmR2N4ZmFHMG9uUTBLOU9fVW1ScUh6eEw5aXUyNUlfeFhFRUg1M29JTTkxeDY1RnduN3ZYR1pKQ0xsQUg0?oc=5"
-      },
-      {
-        "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGMW0wNEJ4Y2RQUGRhaTlYVUZWUWxPVkhNbmFzTGdUSk9VM0NuLTRabVVWZkd0UzN0Nk80TFJrM3k4UEFFN2tYN2JKQW9rZ0p5eFE?oc=5"
-      },
-      {
-        "name": "chinatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DX3JrYXQzSGd4VkI4Ymk5d3hpNGo0eldKaGJ4MEc5R05zcmJSN2xfT0RDU1pNN0c4S2RBRFN2bUEtSk9leWlsRGtOSmlWamlMUWdXdVp0akl0M0E4eS1PQ19kLXlvVi13aXRoZ0tR?oc=5"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 67,
-    "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 11,
-      "crossCorroboration": 25,
-      "recencyClarity": 6
-    },
-    "tags": [
-      "eastAsiaGossip",
-      "live-ingest",
-      "region:tw",
-      "gnews-tw-heat:你怎麼看",
-      "gnews-tw-heat:你怎麼看",
-      "gnews-tw-heat:你怎麼看"
-    ],
-    "region": "tw",
-    "glossary": [
-      {
-        "term": {
-          "en": "Xinyi District",
-          "zh-TW": "信義區"
-        },
-        "blurb": {
-          "en": "Downtown Taipei district known for shopping malls, offices, and nightlife.",
-          "zh-TW": "台北市中心商業區，以百貨、辦公大樓與夜生活聞名。"
-        }
-      },
-      {
-        "term": {
-          "en": "Social Run",
-          "zh-TW": "社群跑步活動"
-        },
-        "blurb": {
-          "en": "Casual group running events organized through social or online communities.",
-          "zh-TW": "透過社群或網路揪團的輕鬆慢跑活動。"
-        }
-      },
-      {
-        "term": {
-          "en": "News heat feed",
-          "zh-TW": "熱度新聞推播"
-        },
-        "blurb": {
-          "en": "Algorithmic feed surfacing stories by social-media heat rather than editorial selection.",
-          "zh-TW": "依社群熱度而非編輯篩選浮現新聞的演算法推播。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-international-02-ex-spy-chief-is-arrested",
-    "category": "international",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-02-ex-spy-chief-is-arrested.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
-      "zh-TW": "相關封面圖：前間諜頭子因涉嫌交易國家機密和叛國罪在德國被捕"
-    },
-    "publishedAt": "2026-10-06T11:31:48.000Z",
-    "title": {
-      "en": "August Hanning, Former German Spy Chief, Arrested on Suspicion of Treason",
-      "zh-TW": "德國前情報首長奧古斯特·哈寧（August Hanning）涉叛國被捕"
-    },
-    "summary": {
-      "en": "Germany's federal prosecutor's office announced the arrest of former foreign intelligence chief August Hanning on suspicion of passing state secrets to a foreign intelligence service. He is accused of obtaining classified information for a foreign power — a rare treason case against a former spy chief.",
-      "zh-TW": "德國聯邦檢察署宣布逮捕前對外情報首長奧古斯特·哈寧（August Hanning），涉嫌將國家機密交給外國情報機關。檢方指控他為外國勢力取得機密資訊，這是德國罕見的前情報首長涉諜叛國案。"
-    },
-    "body": {
-      "en": "What happened\nGermany's federal prosecutor's office said a former head of the country's foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service. August Hanning is accused of obtaining classified information for a foreign power. The arrest marks one of the most senior espionage cases in recent German history: a man who once ran the country's overseas spying apparatus now stands accused of betraying it.\n\nWhy it matters\nTreason charges against a former intelligence chief are extraordinarily rare and strike at the credibility of the service he once led. The case will test Germany's counter-intelligence defenses and is likely to strain whatever diplomatic relationship involves the unnamed foreign power.\n\nSources agree / disagree\nBBC World and NPR World report the same core facts: Hanning's former role, the arrest, and the accusation of passing state secrets to a foreign intelligence service. Neither outlet names the foreign power or details the secrets involved.\n\nStill uncertain\nWhich foreign intelligence service allegedly received the secrets, what the classified information covered, and when the alleged handover took place have not been disclosed in the feed snippets. Click through to the linked outlets for the latest full reporting.",
-      "zh-TW": "發生了什麼事\n德國聯邦檢察署表示，一名前對外情報機關首長因涉嫌將國家機密交給外國情報機關而被捕。奧古斯特·哈寧（August Hanning）被控為外國勢力取得機密資訊。這是德國近年層級最高的間諜案之一：曾經掌管國家海外情報機器的男人，如今被控背叛了它。\n\n為什麼重要\n對前情報首長提起叛國指控極為罕見，直接衝擊他曾領導的機關的公信力。此案將考驗德國的反情報防線，也可能影響涉及那個未具名外國勢力的外交關係。\n\n來源異同\n英國廣播公司（BBC）世界版與美國國家公共電台（NPR）世界版報導的核心事實一致：哈寧的前職務、被捕，以及將國家機密交給外國情報機關的指控。兩家都沒有指明外國勢力是誰，也未說明機密內容。\n\n仍不確定\n提要未揭露涉嫌接收機密的是哪國情報機關、機密資訊的內容為何，以及所謂的交付發生在何時。請點進連結的媒體看最新完整報導。"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 71,
-    "trustBreakdown": {
-      "sourceDiversity": 16,
-      "outletReputation": 17,
-      "crossCorroboration": 15,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "international",
-      "live-ingest",
-      "bbc-world",
-      "npr-world"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "August Hanning",
-          "zh-TW": "奧古斯特·哈寧"
-        },
-        "blurb": {
-          "en": "Former head of Germany's foreign intelligence service, now arrested on treason suspicions.",
-          "zh-TW": "德國前對外情報機關首長，現因叛國嫌疑被捕。"
-        }
-      },
-      {
-        "term": {
-          "en": "BND",
-          "zh-TW": "德國聯邦情報局"
-        },
-        "blurb": {
-          "en": "Germany's foreign intelligence service, which Hanning once led.",
-          "zh-TW": "德國的對外情報機關，哈寧曾任首長。"
-        }
-      },
-      {
-        "term": {
-          "en": "Federal Prosecutor's Office",
-          "zh-TW": "聯邦檢察署"
-        },
-        "blurb": {
-          "en": "Germany's federal prosecution authority handling treason and espionage cases.",
-          "zh-TW": "德國聯邦檢察機關，負責叛國與間諜案件。"
-        }
-      },
-      {
-        "term": {
-          "en": "Treason",
-          "zh-TW": "叛國罪"
-        },
-        "blurb": {
-          "en": "Criminal charge for betraying one's country, including spying for a foreign power.",
-          "zh-TW": "背叛國家的刑事罪名，包括為外國勢力從事間諜行為。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-ai-01-chris-bourg-named-vice-p",
-    "category": "ai",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-ai-01-chris-bourg-named-vice-p.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
-      "zh-TW": "相關封面圖：Chris Bourg 被任命為麻省理工學院圖書館副教務長和 Barbara K. Ostrom (1978) 館長"
-    },
-    "publishedAt": "2026-10-06T17:00:00.000Z",
-    "title": {
-      "en": "MIT Names Chris Bourg Vice Provost and Ostrom Director of Libraries",
-      "zh-TW": "麻省理工學院（MIT）任命克里斯·布爾（Chris Bourg）為副教務長兼圖書館館長"
-    },
-    "summary": {
-      "en": "MIT Provost Anantha Chandrakasan has named Chris Bourg, director of the MIT Libraries since 2015, as vice provost and Barbara K. Ostrom (1978) Director of the Libraries. Chandrakasan said the 'vice provost' title signals the enduring importance of the libraries in the digital age.",
-      "zh-TW": "麻省理工學院教務長阿南塔·錢德拉卡桑（Anantha Chandrakasan）宣布，2015 年起擔任圖書館館長的克里斯·布爾（Chris Bourg）升任副教務長，並兼任芭芭拉·K·奧斯壯（Barbara K. Ostrom，1978 級）冠名圖書館館長。校方表示，「副教務長」頭銜彰顯圖書館在數位時代的持續重要性。"
-    },
-    "body": {
-      "en": "What happened\nMIT Provost Anantha Chandrakasan announced that Chris Bourg, who has served as director of the MIT Libraries since 2015, has been named vice provost and Barbara K. Ostrom (1978) Director of the Libraries. 'The title \"vice provost\" signals the enduring importance of the MIT Libraries in the digital age,' Chandrakasan said, adding that while the ways the libraries meet community needs keep evolving, their central role has not diminished.\n\nWhy it matters\nElevating the library director to vice provost rank puts the libraries at the senior leadership table at one of the world's top research universities. It is a public bet that libraries — as stewards of open knowledge, research data, and scholarly publishing — matter more, not less, as AI reshapes how information is produced and consumed.\n\nSources agree / disagree\nThis is currently a single-outlet story from MIT News; no other allow-listed outlet in the feed cluster has picked it up yet, so there is nothing to cross-check against.\n\nStill uncertain\nThe announcement snippet does not say when the new title takes effect or what, if anything, changes about Bourg's responsibilities. Click through to the linked outlet for the full announcement.",
-      "zh-TW": "發生了什麼事\n麻省理工學院教務長阿南塔·錢德拉卡桑宣布，2015 年起擔任圖書館館長的克里斯·布爾升任副教務長，並兼任芭芭拉·K·奧斯壯（1978 級）冠名圖書館館長。「『副教務長』這個頭銜，彰顯了麻省理工學院圖書館在數位時代的持續重要性，」錢德拉卡桑表示，並說圖書館服務社群的方式雖不斷演變，其核心角色並未減弱。\n\n為什麼重要\n把圖書館館長升到副教務長層級，等於讓圖書館坐上這所世界頂尖研究型大學的高層決策桌。這是一次公開表態：在 AI 重塑資訊生產與消費方式的時代，圖書館作為開放知識、研究資料與學術出版的守護者，重要性只增不減。\n\n來源異同\n目前這是麻省理工學院新聞（MIT News）的單一來源報導，群組內尚無其他白名單媒體跟進，無從交叉比對。\n\n仍不確定\n公告提要未說明新頭銜何時生效，布爾的職責是否有實質變動也不明。請點進連結的媒體看完整公告。"
-    },
-    "sources": [
-      {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 62,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 23,
-      "crossCorroboration": 8,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "ai",
-      "live-ingest",
-      "mit-news-ai"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "Chris Bourg",
-          "zh-TW": "克里斯·布爾"
-        },
-        "blurb": {
-          "en": "MIT Libraries director since 2015, now named vice provost.",
-          "zh-TW": "2015 年起擔任麻省理工學院圖書館館長，現升任副教務長。"
-        }
-      },
-      {
-        "term": {
-          "en": "MIT Libraries",
-          "zh-TW": "麻省理工學院圖書館"
-        },
-        "blurb": {
-          "en": "The library system of the Massachusetts Institute of Technology.",
-          "zh-TW": "麻省理工學院的圖書館體系。"
-        }
-      },
-      {
-        "term": {
-          "en": "Vice provost",
-          "zh-TW": "副教務長"
-        },
-        "blurb": {
-          "en": "Senior university administrator rank, just below the provost.",
-          "zh-TW": "大學高層行政職級，僅次於教務長。"
-        }
-      },
-      {
-        "term": {
-          "en": "Barbara K. Ostrom (1978)",
-          "zh-TW": "芭芭拉·K·奧斯壯（1978 級）"
-        },
-        "blurb": {
-          "en": "Named endowed directorship of the MIT Libraries, honoring a 1978 alumna.",
-          "zh-TW": "麻省理工學院圖書館的冠名館長職位，以 1978 級校友命名。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-ai-02-supercomputing-researche",
-    "category": "ai",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-ai-02-supercomputing-researche.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Supercomputing researchers document evolution of AI hardware",
-      "zh-TW": "相關封面圖：超級運算研究人員記錄人工智慧硬體的演變"
-    },
-    "publishedAt": "2026-10-06T20:55:00.000Z",
-    "title": {
-      "en": "MIT Supercomputing Team Charts a Decade of AI Accelerator Progress",
-      "zh-TW": "麻省理工學院（MIT）超級運算團隊整理十年 AI 加速器發展史"
-    },
-    "summary": {
-      "en": "As AI reshapes industries and national security, a supercomputing research team has documented the evolution of AI hardware. The work traces nearly a decade of AI accelerators — specialized systems for neural networks and deep learning — with a team from MIT's Lincoln Laboratory charting the progress made since 2018.",
-      "zh-TW": "隨著 AI 重塑產業與國家安全，一支超級運算研究團隊整理了 AI 硬體的發展歷程。研究回顧近十年 AI 加速器的進展——這類專為神經網路與深度學習設計的專用系統，並由麻省理工學院林肯實驗室的團隊記錄自 2018 年以來的技術演變。"
-    },
-    "body": {
-      "en": "What happened\nSupercomputing researchers have documented the evolution of AI hardware, tracing nearly a decade of development in AI accelerators — specialized systems designed to speed up neural networks, deep learning, and machine learning. A team from MIT's Lincoln Laboratory has charted the progress since 2018. The work arrives as artificial intelligence transforms industries and national security, making it important, the researchers argue, to understand current hardware capabilities in order to maintain technological advantage.\n\nWhy it matters\nAI capability is ultimately a hardware story: the models that dominate headlines only exist because accelerators made training them feasible. A systematic record of how that hardware evolved gives policymakers, researchers, and industry a shared baseline for judging where the next leaps — and bottlenecks — are likely to come from.\n\nSources agree / disagree\nThis is currently a single-outlet story from MIT News; no other allow-listed outlet in the feed cluster has picked it up yet, so there is nothing to cross-check against.\n\nStill uncertain\nThe feed snippet does not detail the metrics, datasets, or methods the team used to chart the evolution. Click through to the linked outlet for the full study.",
-      "zh-TW": "發生了什麼事\n超級運算研究人員記錄了 AI 硬體的發展歷程，回顧近十年 AI 加速器的進展——這類專為加速神經網路、深度學習與機器學習而設計的專用系統。麻省理工學院林肯實驗室的團隊整理了自 2018 年以來的技術演變。研究團隊指出，在 AI 重塑產業與國家安全的當下，理解最新硬體能力對維持技術優勢至關重要。\n\n為什麼重要\nAI 的能力終究是硬體的故事：佔據頭條的模型之所以存在，是因為加速器讓訓練變得可行。一份系統性的硬體演進紀錄，能讓政策制定者、研究人員與產業界有共同基準，判斷下一次躍進（與瓶頸）可能來自何方。\n\n來源異同\n目前這是麻省理工學院新聞（MIT News）的單一來源報導，群組內尚無其他白名單媒體跟進，無從交叉比對。\n\n仍不確定\n提要未說明團隊用來描繪演進曲線的指標、資料集或方法。請點進連結的媒體看完整研究。"
-    },
-    "sources": [
-      {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 64,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 23,
-      "crossCorroboration": 8,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "ai",
-      "live-ingest",
-      "mit-news-ai"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "AI accelerators",
-          "zh-TW": "AI 加速器"
-        },
-        "blurb": {
-          "en": "Specialized hardware designed to speed up AI workloads like neural networks.",
-          "zh-TW": "專為加速神經網路等 AI 運算而設計的專用硬體。"
-        }
-      },
-      {
-        "term": {
-          "en": "Neural networks",
-          "zh-TW": "神經網路"
-        },
-        "blurb": {
-          "en": "Computing models loosely inspired by the brain, the basis of deep learning.",
-          "zh-TW": "模仿大腦運作的計算模型，是深度學習的基礎。"
-        }
-      },
-      {
-        "term": {
-          "en": "Lincoln Laboratory",
-          "zh-TW": "林肯實驗室"
-        },
-        "blurb": {
-          "en": "MIT's federally funded research center, home to the supercomputing team.",
-          "zh-TW": "麻省理工學院的聯邦資助研究中心，該超級運算團隊所屬機構。"
-        }
-      },
-      {
-        "term": {
-          "en": "Deep learning",
-          "zh-TW": "深度學習"
-        },
-        "blurb": {
-          "en": "Machine-learning approach using multi-layer neural networks.",
-          "zh-TW": "使用多層神經網路的機器學習方法。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-03-6",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "publishedAt": "2026-10-03T07:00:00.000Z",
-    "title": {
-      "en": "Ceylan's Livestream Tirade at Astrologer Jess Tang Ignites Taiwan Internet Feud",
-      "zh-TW": "錫蘭（Ceylan）直播對唐綺陽比中指開嗆，引爆台灣網路論戰"
-    },
-    "summary": {
-      "en": "YouTuber Ceylan sparked outrage in Taiwan after flipping the middle finger and shouting profanities at astrologer Jess Tang during a livestream, dismissing astrology as baseless and demanding she 'look at my PPT.' Tang, who had just warned of trouble 'falling from the sky,' responded calmly, telling fans not to worry — while lawyers and netizens took sides.",
-      "zh-TW": "網紅錫蘭（Ceylan）在直播中對占星師唐綺陽比中指、飆罵髒話，痛批星座沒有數據依據，要求對方「看我 PPT」。唐綺陽稍早才預言「禍從天上來」，事後淡定回應「不要擔心我」。多家台媒跟進報導，有律師公開聲援唐綺陽，網友則分成兩派。"
-    },
-    "body": {
-      "en": "What happened\nYouTuber Ceylan went after astrologer Jess Tang in a livestream, flipping the middle finger, shouting 'shut up' and a profanity-laced insult, and attacking astrology for lacking data — at one point demanding that Tang 'look at my PPT.' The outburst came shortly after Tang posted a forecast warning that trouble would 'fall from the sky,' which coverage framed as an eerily precise hit. Tang later responded in her own livestream, telling supporters: don't worry about me. A lawyer publicly defended her, and outlets including Mirror Media, ETtoday, FTV News and CTS covered the fallout. Coverage also revisited Tang's backstory: she once gave up a six-figure monthly salary to switch careers into astrology.\n\nWhy it matters\nThe clash is the latest flare-up in Taiwan's long-running culture war between science-minded skeptics and the hugely popular astrology industry. It also tests the norms of livestream confrontation: when does debunking become harassment, and who gets to decide?\n\nSources agree / disagree\nTaiwan outlets agree on the core sequence — the livestream, the middle finger, the profanity, Tang's calm response — and differ only in framing: some play up the 'precise prediction' angle, others focus on the rudeness debate. Netizens are split on whose side to take.\n\nStill uncertain\nWhether Tang or her team will take any legal action is unclear, and the full context of Ceylan's 'PPT' challenge has not been detailed in the snippets. Click through to the linked outlets for fuller reporting.",
-      "zh-TW": "發生了什麼事\n網紅錫蘭在直播中隔空開撕占星師唐綺陽：比中指、飆罵「Shut up」等髒話，痛批星座沒有數據依據，一度要求唐綺陽「看我 PPT」。這場開嗆發生在唐綺陽發文預言「禍從天上來」之後不久，媒體形容是「精準命中」。唐綺陽隨後在直播中首度發聲，要大家「不要擔心我」。有律師公開霸氣護航，鏡週刊、ETtoday、民視、華視等多家媒體跟進報導。報導也回顧唐綺陽的心路歷程：她當年放棄 6 位數月薪，轉行投入占星。\n\n為什麼重要\n這場衝突是台灣「科學派 vs 星座產業」長期文化戰的最新引爆點，也考驗直播嗆聲的界線：打假什麼時候變成騷擾，誰說了算？\n\n來源異同\n各台媒對核心經過的描述一致——直播、中指、髒話、唐綺陽的淡定回應，差別只在敘事角度：有的強調「預言精準命中」，有的聚焦「太沒水準」的禮貌之爭。網友則分成挺錫蘭、挺唐綺陽兩派。\n\n仍不確定\n唐綺陽方面是否會採取法律行動不明，錫蘭所謂「PPT」挑戰的完整內容提要也未詳述。請點進連結的媒體看更完整的報導。"
-    },
-    "sources": [
-      {
-        "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16YTNQQzhtQTN5MjdWbjZWeDBWcXY0NWE3WU5GU1dZdThNMUo3Skd0UExSbllFNUVsSzB1MFBqTVRoZEdrTWsyVms0RzI3VXV2aGc?oc=5"
-      },
-      {
-        "name": "噓！星聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EV09ZWFhQckw1RVh4YU1YZHpzLVgyRXFOV3lJcXlOZ19FTV90cm9lWldScXFja0c2eVhfelFYVTh5NWlyOHZYdFltR1hDTmVqaG9kZXQ0LTBGZ9IBX0FVX3lxTFBRMTlKNFJlb0RQZWp3Mkw2N2RqZGF0V1o5SnY2NWxzZVJTUmJPTTJsMWpyWF9vR0pSWkZiLWFJQWw0Mm1YZ0JSM3UzOXNBM19BZ3RHUnN0bHZZcHg3UDlV?oc=5"
-      },
-      {
-        "name": "mirrormedia.mg",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ERWVCem1PZHVGLUk5ZHRzNzB3Q1lFV21MWVhaZHhHcXdPNzlpZ0c5RmVLMHlQcjRRVzg0dlZhYXl2bzJBVFg5ekY0NnFhS0tocDZNS3ZJeV81cUXSAWBBVV95cUxNdTdDS3FjOVFkMmMtcVhkNWY2ZGZNZVdWTW5KUFo5MVJxNEpQS2JiZFFhM1dHTlNmaEliX0w1Mk5MdWZHVnIwNWlEczJPUDhTd0lyVnpvSHlXSWlBdS1Rbkk?oc=5"
-      },
-      {
-        "name": "造咖",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6VWs3aU9RakMtam9MYmJoRFM4T0EyOFVqUmJadW1Iby0xdnBsVUl3RE43WUEycGVDOWczbFhRNEFvcXVGVHQ3MA?oc=5"
-      },
-      {
-        "name": "中天新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55RDg2TUFnQVpPd05QeldvTnE3QjZRZFNidWpVbXp3ZThRWU1BOU9sNEE2d2xEMFNxbEFnMTRJbTBRNlhkSFZndUN6YUVzWlNZOUY4?oc=5"
-      },
-      {
-        "name": "壹蘋新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd294S1o1N21LVmYxWjBYa1BEZjAxVkN5X1NUNU9fdWFIakdJcDU4N0VoYldqUkIzTl9QbkRubFNCampTZUNSTjR5bWUzeU5EaklTNzhKUmxDdHNmemJFMVhSeVIwMmlQek5WamF4c2x0R2JBQjZKUWV4STZRLWRQZS1wNUhtSVp1N3c?oc=5"
-      },
-      {
-        "name": "ettoday.net",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13aVFwRmxGNDJvUEIxTGROS0hnRllVUVlRcExOT2FTRUd5QkoxUzFFQUkwUW5iSFNiUWJIdmNPLWVzdnpMZ2NQV2NXa2ZsUdIBTEFVX3lxTFBnSWFMRU9GSTF2X3BKeU85TWRtYjlJTkJMZklMYll5UEZtMEd2YzFWSHF5ZlBJYWpoaHRhNjdwalVlaGo4WHhqaFJ5Rjk?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeEpNZUw3WDgtYi1ER29VSTFQM2NsaXlRNzJpOHdQUGM3Z1RaZTlRclN1LVRlYXJ4cG9ZVl9nc3J6MUVpV1JZUmhPY2N6QTFGb3pvT044NHh0RWg4MGlUWEJGdUpXYXA3cXNyNGUzdmJSZHJEaHp1cENUcjJ6SXF3X1B0ZWhoN1ZmckpRR0RxX2tWaE1pdXg2WHl0N1V2djRDc291X2VIbGxWUnR5N2Nxb3lXSWV1bVlORzZ6YkMxV0J4NWUtdDFJdTZ2MElyMF9RNnhyaXg0MEZHV0F2S29zZ1pwTEkwZE96RXVNdkZnaTRRWDVVUlN0ZjBIWjBHNndEQWxYTDZDWWFhZUYwTktFTW00ZTdXQlJENDRpYVY2SDRuZ1RZdkY0UzNhNnJSV2VWMFFKa0tRV2djbmxZMkROLXk5RkRyOFVhUHNPaWsxbFpaMEZYc0pKNg?oc=5"
       },
       {
         "name": "民視新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxRGc1Zi1YTnVoQXNIOUN3UGtSbjU2SEwxdlpsVG5MSlZWZTBvYnR4anA5cFFwOUJtV2hkZDlkdkR1X1J5NE5YemlYSERXSVpUM2ZlWnRnVzBuOExIeHNZMQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yeXc3bVkyUkNfcGFFeV92MVdjUkprSUR2VVViTXl0ay03bjNYQlNGbTQ0ZWc4RFJjWmJtZkt3U1lFdi1Td3cxUzA1dmN5WEZadjU4c0FadjRvX2FxeWo4LQ?oc=5"
       },
       {
-        "name": "cts.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpVDItN1VrNlF0eTlvUDZzYnlEUmk1U1pmQTUyd3Y4dlYtNU9vQ0JRUXhickpGaTZEUUVMbXJBSlZTbVdoTlhkSmdXdFpHZ1ZIUWw5OHB3?oc=5"
+        "name": "健康醫療網",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01MzJhZGdPWFliU0tVUW1nMGp5V2tqZkU2cnRLeEhjS3BlV29kU1pGMVROUkJhQVJ1RklDc0R3TTdLSWRYV3kxWXpxRnpERVNoMFRvNTV3?oc=5"
+      },
+      {
+        "name": "bbc",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5YTF1TFhCRmdMZm9jb3ltZ2FlM1k5Ym5zRmladnZZczVHcXNqemN0V3Myd0JqMGlsSWJ3RER0Q3RURUhSa0NIc2xYOGgzcTJ0ai1tRFRnUU92Si1rMUk1ZVhaMDhlQdIBa0FVX3lxTE1YdjN0YjdzbUl4emRrU3cwYzhaVDVuRzlZY1RITmxhdmZHWDd5R0hOS1ZManhsTlQ2NlV0ZWM1NEtoN0F5bGdVWlUxQXo0d2h6SU1zY2FRRFR5eHNFRnp6aDMzbHBEUjczVXFj?oc=5"
+      },
+      {
+        "name": "壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd01hOWl3UkR4RWMzZW5tRlFtNTRkN1dLSUNHNzRoUFJLc0V5UXJBOEd0Rl82Y2RaRjRLSzBuTVRBZmI2TzdIMzNXUnMzc1prcjNLbldLN2xuMVVYMDV0Z21yMjczendpckFvVW1HZzFSVEZoa0tXNmJ4UHl5RjR5TnJUR0JJb054RXc?oc=5"
+      },
+      {
+        "name": "marieclaire美麗佳人",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96am5FWGw2Y2ZPOU9kOElRbm0xcG9DLXZ0TW5FOUxGbDFKZWpvWGNDN0IwcTdfTk41ZjJyLUlYbm5ialhKM1dxb0dvcnk1RnItSmZQS1dkTlhTemFXMTc1VA?oc=5"
+      },
+      {
+        "name": "udn.com",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mU2toWklRUzNJTGtZamM1aUR3M3JwRnZXU2Q3akJpVXZaQlkzbUpEREhSeUJzR3RaMGQ3QTlkY2puQXFPTFhZRlZvRU9xQkJk0gFWQVVfeXFMT3l2dlQyZXYxclNJOU5hVDdaZTFMOG9XZlNXZTZTdXYxTC15cGxpN0tBemR1ZHNaV1NJY21FYzFpcUpVa2w3NUUyV1lRYUdJbTE0a0RMU0E?oc=5"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnpzZTA5WThVUElEVEs2UC1nY3dibW9XVTVKREpSLWhnX3BwMkp3OHFYMWR1NlQydG1WUk1ocTI4MnZESElZLWFwSEJ6aHVHbHJkVldCZ0ZiRHhDSThMMHJhRU1NSUVyUkdNaWdwVEpNb0R1eE1aYzlqa3VQLVE4SFZieFpGY2JvaVh3?oc=5"
       }
     ],
-    "disagreements": null,
-    "trustScore": 55,
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 6 vs 2.56 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 6 比 2.56）。"
+    },
+    "trustScore": 73,
     "trustBreakdown": {
       "sourceDiversity": 25,
-      "outletReputation": 10,
+      "outletReputation": 16,
       "crossCorroboration": 17,
-      "recencyClarity": 12
+      "recencyClarity": 15
     },
     "tags": [
       "eastAsiaGossip",
       "live-ingest",
       "region:tw",
-      "gnews-tw-heat:錫蘭直播開嗆",
-      "gnews-tw-heat:錫蘭直播開嗆",
-      "gnews-tw-heat:錫蘭直播開嗆"
+      "gnews-tw-heat:取代嗎",
+      "gnews-tw-heat:取代嗎",
+      "gnews-tw-heat:取代嗎"
     ],
-    "region": "tw",
-    "glossary": [
-      {
-        "term": {
-          "en": "Ceylan",
-          "zh-TW": "錫蘭"
-        },
-        "blurb": {
-          "en": "Taiwan-based YouTuber known for blunt commentary and debunking content.",
-          "zh-TW": "在台網紅，以直言評論與打假內容聞名。"
-        }
-      },
-      {
-        "term": {
-          "en": "Jess Tang",
-          "zh-TW": "唐綺陽"
-        },
-        "blurb": {
-          "en": "Taiwan's best-known astrologer, famous for annual horoscope forecasts.",
-          "zh-TW": "台灣最知名的占星師，以年度運勢預測聞名。"
-        }
-      },
-      {
-        "term": {
-          "en": "Astrology",
-          "zh-TW": "占星"
-        },
-        "blurb": {
-          "en": "Belief system linking celestial positions to human affairs; popular entertainment in Taiwan.",
-          "zh-TW": "將天體位置與人事相連的信仰體系，在台灣是熱門娛樂內容。"
-        }
-      },
-      {
-        "term": {
-          "en": "Livestreamer",
-          "zh-TW": "直播主"
-        },
-        "blurb": {
-          "en": "Creator who broadcasts live video and interacts with viewers in real time.",
-          "zh-TW": "以即時影像開播、與觀眾互動的創作者。"
-        }
-      }
-    ]
+    "region": "tw"
   },
   {
-    "id": "live-finance-01-disney-accuses-trump-off",
-    "category": "finance",
+    "id": "live-energy-01-world-s-largest-penguin-",
+    "category": "energy",
     "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-finance-01-disney-accuses-trump-off.jpg",
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-energy-01-world-s-largest-penguin-.jpg",
     "imageAlt": {
-      "en": "Cover related to: Disney accuses Trump officials of ‘blatant violations’ of constitution amid FCC battle",
-      "zh-TW": "相關封面圖：迪士尼指責川普官員在聯邦通訊委員會之爭中「公然違反」憲法"
+      "en": "Cover related to: World’s largest penguin colony suffers ‘enormous population crash’",
+      "zh-TW": "相關封面圖：世界上最大的企鵝棲息地遭受“巨大的人口崩潰”"
     },
-    "publishedAt": "2026-10-06T20:12:20.000Z",
+    "publishedAt": "2026-10-07T15:00:53.000Z",
     "title": {
-      "en": "Disney Accuses Trump Officials of 'Blatant' Constitutional Violations in FCC Fight",
-      "zh-TW": "迪士尼（Disney）指控川普政府在聯邦通訊委員會（FCC）執照戰中「公然違憲」"
+      "en": "World’s largest penguin colony suffers ‘enormous population crash’",
+      "zh-TW": "世界上最大的企鵝棲息地遭受“巨大的人口崩潰”"
     },
     "summary": {
-      "en": "Disney lawyers told a judge on Tuesday that the Trump administration committed 'blatant violations of the US constitution' and censorship, in the first court hearing over the FCC's early review of the company's eight local TV station licenses. The lawyers argued ABC is being unfairly targeted as the regulator moves to review the network's licenses.",
-      "zh-TW": "迪士尼律師週二在首場庭審中告訴法官，川普政府犯下「公然違反美國憲法」的行為並涉及審查制度。此案源於聯邦通訊委員會提前審查迪士尼旗下 8 家地方電視台執照，律師主張美國廣播公司（ABC）遭到不公平針對。"
+      "en": "Chinstrap penguins on Zavodovski Island in Antarctica down by two-thirds since 2011, probably due to climate crisis The world’s largest penguin colony has declined by two-thirds since 2011, most likely because of the …",
+      "zh-TW": "自 2011 年以來，南極洲扎沃多夫斯基島上的帽帶企鵝數量減少了三分之二，可能是由於氣候危機 自 2011 年以來，世界上最大的企鵝棲息地數量已減少了三分之二，很可能是因為…"
     },
     "body": {
-      "en": "What happened\nLawyers for Disney accused the Trump administration of 'blatant violations of the US constitution' and censorship on Tuesday, in the first court hearing over the Federal Communications Commission's early review of the media giant's eight local television station licenses. Disney's lawyers told the judge that ABC is being unfairly targeted as the regulator seeks to review the network's local TV station licenses — framing the review as punishment dressed up as procedure.\n\nWhy it matters\nBroadcast licenses are among the most powerful levers a government holds over media companies: threatening them can chill coverage without a single word being censored. If a court agrees the review is retaliatory, it would set a major precedent limiting how regulators can wield licensing power against disfavored outlets.\n\nSources agree / disagree\nThis is currently a single-outlet story from The Guardian's business desk; no other allow-listed outlet in the feed cluster has picked it up yet, so there is nothing to cross-check against.\n\nStill uncertain\nThe snippet does not say how the judge responded or when a ruling might come, nor what triggered the FCC's early review in the first place. Click through to the linked outlet for fuller reporting.",
-      "zh-TW": "發生了什麼事\n迪士尼的律師週二在首場庭審中指控川普政府「公然違反美國憲法」並實施審查制度。此案源於聯邦通訊委員會提前審查這家媒體巨頭旗下 8 家地方電視台的執照。迪士尼律師向法官表示，隨著監管機關啟動審查，美國廣播公司（ABC）正遭到不公平針對——把這次審查定調為「披著程序外衣的報復」。\n\n為什麼重要\n廣播執照是政府握有的最強大媒體槓桿之一：威脅執照就能讓媒體自我審查，一個字都不必刪。如果法院認定這次審查具報復性質，將成為限制監管機關拿執照權對付不順眼媒體的重要判例。\n\n來源異同\n目前這是衛報（The Guardian）商業版的單一來源報導，群組內尚無其他白名單媒體跟進，無從交叉比對。\n\n仍不確定\n提要未說明法官如何回應、何時會有裁定，也沒交代聯邦通訊委員會為何提前啟動審查。請點進連結的媒體看更完整的報導。"
+      "en": "Chinstrap penguins on Zavodovski Island in Antarctica down by two-thirds since 2011, probably due to climate crisis The world’s largest penguin colony has declined by two-thirds since 2011, most likely because of the climate crisis, a study has revealed. Scientists said the rapid What happened\nWorld’s largest penguin colony suffers ‘enormous population crash’. Chinstrap penguins on Zavodovski Island in Antarctica down by two-thirds since 2011, probably due to climate crisis The world’s largest penguin colony has declined by two-thirds since 2011, most likely because of the climate crisis, a study has revealed. Scientists said the rapid demise of chinstrap penguins on Zavodovski, the northernmost of the South Sandwich Islands in Antarctica, increased the Climate change appears to have made food scarce for chinstrap penguins, which had numbered more than 1 million on a remote South Atlantic island Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (The Guardian Climate Crisis, Science 科學新聞) in the energy category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"World’s largest penguin colony suffers ‘enormous population crash’\" (The Guardian Climate Crisis); \"World’s once-largest penguin colony is in perilous decline\" (Science 科學新聞).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Guardian Climate Crisis, Science 科學新聞",
+      "zh-TW": "南極洲扎沃多夫斯基島上的帽帶企鵝數量自 2011 年以來減少了三分之二，可能是由於氣候危機 一項研究顯示，自 2011 年以來，世界上最大的企鵝棲息地數量已減少了三分之二，很可能是由於氣候危機。科學家表示，快速 發生了什麼事\n世界上最大的企鵝棲息地遭受「巨大的人口崩潰」。南極洲扎沃多夫斯基島上的帽帶企鵝數量自 2011 年以來減少了三分之二，可能是由於氣候危機 一項研究顯示，自 2011 年以來，世界上最大的企鵝棲息地數量已減少了三分之二，很可能是由於氣候危機。科學家表示，南極洲南桑威奇群島最北端的紮沃多夫斯基島上帽帶企鵝的迅速死亡，加劇了氣候變遷似乎導致帽帶企鵝食物短缺，在南大西洋一個偏遠島嶼上，帽帶企鵝的數量已超過 100 萬隻。 為什麼這很重要\n此集群由能源類別中 2 個管道（《衛報》氣候危機、《科學》科學新聞）的 2 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「世界上最大的企鵝棲息地遭受『巨大的人口崩潰』」（衛報氣候危機）；「世界上曾經最大的企鵝群正處於危險的衰退之中」（科學新聞）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（限媒體名稱）：《衛報》氣候危機、《科學》科學新聞"
     },
     "sources": [
       {
-        "name": "The Guardian Business",
-        "url": "https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc"
+        "name": "The Guardian Climate Crisis",
+        "url": "https://www.theguardian.com/environment/2026/oct/07/penguin-colony-population-crash-zavodovski-island-antarctica"
+      },
+      {
+        "name": "Science 科學新聞",
+        "url": "https://www.science.org/content/article/world-s-once-largest-penguin-colony-perilous-decline"
       }
     ],
     "disagreements": null,
-    "trustScore": 62,
+    "trustScore": 72,
     "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 21,
-      "crossCorroboration": 8,
+      "sourceDiversity": 14,
+      "outletReputation": 19,
+      "crossCorroboration": 14,
       "recencyClarity": 25
     },
     "tags": [
-      "finance",
+      "energy",
       "live-ingest",
-      "the-guardian-business"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "Disney",
-          "zh-TW": "迪士尼"
-        },
-        "blurb": {
-          "en": "US entertainment giant; owner of the ABC television network.",
-          "zh-TW": "美國娛樂巨頭，美國廣播公司（ABC）的母公司。"
-        }
-      },
-      {
-        "term": {
-          "en": "ABC",
-          "zh-TW": "美國廣播公司"
-        },
-        "blurb": {
-          "en": "Major US broadcast TV network owned by Disney.",
-          "zh-TW": "迪士尼旗下的美國主要無線電視網。"
-        }
-      },
-      {
-        "term": {
-          "en": "FCC",
-          "zh-TW": "美國聯邦通訊委員會"
-        },
-        "blurb": {
-          "en": "US regulator overseeing broadcast licenses and communications.",
-          "zh-TW": "負責廣播執照與通訊事務的美國監管機關。"
-        }
-      },
-      {
-        "term": {
-          "en": "Trump administration",
-          "zh-TW": "川普政府"
-        },
-        "blurb": {
-          "en": "The US federal administration under President Donald Trump.",
-          "zh-TW": "唐納·川普總統領導的美國聯邦政府。"
-        }
-      }
+      "the-guardian-climate-crisis",
+      "science-科學新聞"
     ]
   },
   {
-    "id": "live-finance-02-s-p-500-and-nasdaq-surge",
+    "id": "live-semiconductor-01-pre-orders-are-live-on-n",
+    "category": "semiconductor",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-semiconductor-01-pre-orders-are-live-on-n.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Pre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599",
+      "zh-TW": "相關封面圖：Nvidia RTX Spark 設備已開始預訂，請在此處預訂 Surface Laptop Ultra 或其他 RTX Spark 筆記型電腦 - 起價為 2,599 美元"
+    },
+    "publishedAt": "2026-10-07T22:52:39.000Z",
+    "title": {
+      "en": "Pre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599",
+      "zh-TW": "Nvidia RTX Spark 設備已開始預訂，請在此處預訂 Surface Laptop Ultra 或其他 RTX Spark 筆記型電腦 - 起價為 2,599 美元"
+    },
+    "summary": {
+      "en": "The 15-inch Surface Laptop Ultra starts at $2,599. | Photo by Tom Warren / The Verge The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've g…",
+      "zh-TW": "15 吋 Surface Laptop Ultra 起售價為 2,599 美元。 |攝影：Tom Warren / The Verge 第一批搭載 Nvidia 全新 RTX Spark 晶片的筆記型電腦旨在與高階 MacBook Pro 競爭 - 並且它們已經..."
+    },
+    "body": {
+      "en": "The 15-inch Surface Laptop Ultra starts at $2,599. | Photo by Tom Warren / The Verge The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop U What happened\nPre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599. The 15-inch Surface Laptop Ultra starts at $2,599. | Photo by Tom Warren / The Verge The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell , Lenovo , MSI , HP, and Asus start as low as $2,599 for configurations with an 18- Honestly, a bit like an oversized Lego brick. It ships in November, if you can afford it. Yes, it's just a premium laptop. But it sure looks pretty. Why it matters\nThis cluster was assembled from 6 feed item(s) across 4 outlet(s) (The Verge, Engadget, Tom's Hardware, The Register) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"The first Nvidia RTX Spark laptops cost up to $7,000\" (The Verge); \"Here's what the $6,000 Surface RTX Spark Dev Box looks like\" (Engadget); \"Microsoft's Surface RTX Spark Dev Box costs an eye-watering $6,000\" (Engadget); \"Surface Laptop Ultra hands-on: A beautiful beast powered by NVIDIA's RTX Spark\" (Engadget); \"Pre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599\" (Tom's Hardware).\nFigures differ across outlets (e.g. 7 vs 6 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Verge, Engadget, Tom's Hardware, The Register",
+      "zh-TW": "15 吋 Surface Laptop Ultra 起售價為 2,599 美元。 |攝影：Tom Warren / The Verge 第一批搭載 Nvidia 全新 RTX Spark 晶片的筆記型電腦旨在與高階 MacBook Pro 競爭，而且它們的高階價格也與之相匹配。旗艦 Surface 筆記型電腦 U 發生了什麼事\nNvidia RTX Spark 設備現已接受預訂，Surface Laptop Ultra 或其他 RTX Spark 筆記型電腦起價為 2,599 美元。 15 吋 Surface Laptop Ultra 起售價為 2,599 美元。 |攝影：Tom Warren / The Verge 第一批搭載 Nvidia 全新 RTX Spark 晶片的筆記型電腦旨在與高階 MacBook Pro 競爭，而且它們的高階價格也與之相匹配。戴爾、聯想、微星、惠普和華碩的旗艦 Surface Laptop Ultra 和 RTX Spark 筆記型電腦起價低至 2,599 美元，配置為 18 吋老實說，有點像超大的樂高積木。如果你能負擔得起的話，它會在 11 月發貨。是的，這只是一台高級筆記型電腦。但它看起來確實很漂亮。 為什麼這很重要\n此集群由半導體類別中 4 個頻道（The Verge、Engadget、Tom's Hardware、The Register）的 6 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「第一批 Nvidia RTX Spark 筆記型電腦售價高達 7,000 美元」（The Verge）；「這是價值 6,000 美元的 Surface RTX Spark Dev Box 的樣子」（Engadget）；「微軟的 Surface RTX Spark Box 售價高達 6,000 美元；提供支援的美麗野獸」（Engadget）； “Nvidia RTX Spark 設備已開始預訂，Surface Laptop Ultra 或其他 RTX Spark 筆記型電腦可在此處預訂 - 起價 2,599 美元”（Tom's Hardware）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 7 比 6）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限頻道名稱）：The Verge、Engadget、Tom's Hardware、The Register"
+    },
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2280568/heres-what-the-dollar6000-surface-rtx-spark-dev-box-looks-like/"
+      },
+      {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/laptops/pre-orders-are-live-on-nvidia-rtx-spark-devices-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptop-starting-at-usd2-599-pricing-and-availability-revealed-on-several-models"
+      },
+      {
+        "name": "The Register",
+        "url": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 7 vs 6 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 7 比 6）。"
+    },
+    "trustScore": 83,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 16,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "semiconductor",
+      "live-ingest",
+      "the-verge",
+      "engadget",
+      "engadget"
+    ]
+  },
+  {
+    "id": "live-finance-01-microsoft-releases-new-n",
     "category": "finance",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-finance-02-s-p-500-and-nasdaq-surge.jpg",
+    "imageUrl": "/covers/live/live-finance-01-microsoft-releases-new-n.jpg",
     "imageAlt": {
-      "en": "Cover related to: S&P 500 and Nasdaq surge to record highs after AI chipmaker rally",
-      "zh-TW": "相關封面圖：人工智慧晶片製造商上漲後，標準普爾 500 指數和那斯達克指數飆升至歷史新高"
+      "en": "Cover related to: Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "zh-TW": "相關封面圖：微軟發表新的 Nvidia 晶片 AI PC，搭載改良的 Windows 11"
     },
-    "publishedAt": "2026-10-06T20:28:42.000Z",
+    "publishedAt": "2026-10-07T20:22:37.000Z",
     "title": {
-      "en": "S&P 500 Tops 7,800 for First Time as AI Chip Rally Lifts Markets",
-      "zh-TW": "標準普爾 500 指數（S&P 500）首度突破 7800 點，AI 晶片股帶動美股創新高"
+      "en": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "zh-TW": "微軟發表新的 Nvidia 晶片 AI PC，搭載改良的 Windows 11"
     },
     "summary": {
-      "en": "The S&P 500 closed above 7,800 for the first time in history, up 0.58%, while the Nasdaq rose 0.45% to its own record. The rally centered on AI chipmakers and a dip in Treasury yields, even as investors weighed signs of instability in the US economy. The Dow finished slightly below its record.",
-      "zh-TW": "標準普爾 500 指數收盤上漲 0.58%，史上首度站上 7800 點；那斯達克指數上漲 0.45%，同創歷史新高。漲勢由 AI 晶片股帶動，加上美債殖利率下滑，儘管美國經濟仍有不穩跡象，投資人情緒依然樂觀。道瓊指數則略低於歷史高點。"
+      "en": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
+      "zh-TW": "最新的 Windows 筆記型電腦由 Nvidia 的 RTX Spark 晶片提供支持，旨在直接在設備上運行人工智慧模型和工作負載。"
     },
     "body": {
-      "en": "What happened\nThe S&P 500 and Nasdaq closed at record highs after a rally around AI chipmakers and a dip in US Treasury yields. At the closing bell, the S&P 500 was up 0.58%, topping 7,800 for the first time in its history, while the tech-heavy Nasdaq index rose 0.45%. The Dow finished slightly below its own record. Investors stayed optimistic despite signs of instability in the US economy, betting that AI-driven earnings growth and softer borrowing costs can keep the rally alive.\n\nWhy it matters\nThe 7,800 milestone shows how completely AI hardware stocks now drive the broader market: a handful of chipmakers can lift the entire index. But records built on narrow leadership are fragile — if AI earnings disappoint or yields rebound, the same concentration works in reverse.\n\nSources agree / disagree\nThis is currently a single-outlet story from The Guardian's business desk; no other allow-listed outlet in the feed cluster has picked it up yet, so there is nothing to cross-check against.\n\nStill uncertain\nWhether the rally extends or fades on the next round of economic data is unknowable from a single session. Click through to the linked outlet for fuller market coverage.",
-      "zh-TW": "發生了什麼事\n標準普爾 500 指數與那斯達克指數在 AI 晶片股漲勢與美債殖利率下滑的帶動下，雙雙收在歷史新高。收盤時標準普爾 500 指數上漲 0.58%，史上首度突破 7800 點；科技股為主的那斯達克指數上漲 0.45%。道瓊指數則略低於歷史高點。儘管美國經濟仍有不穩跡象，投資人依然樂觀，押注 AI 帶動的獲利成長與較低的借貸成本能延續漲勢。\n\n為什麼重要\n7800 點的里程碑顯示 AI 硬體股如今已完全主導大盤：少數幾家晶片商就能抬升整個指數。但建立在狹窄領漲族群上的新高很脆弱——一旦 AI 獲利不如預期或殖利率反彈，同樣的集中度會反向作用。\n\n來源異同\n目前這是衛報（The Guardian）商業版的單一來源報導，群組內尚無其他白名單媒體跟進，無從交叉比對。\n\n仍不確定\n漲勢會在下一輪經濟數據公布後延續還是熄火，單一交易日看不出來。請點進連結的媒體看更完整的市場報導。"
+      "en": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device. What happened\nMicrosoft releases new Nvidia-chip AI PCs with revamped Windows 11. Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device. Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents. Microsoft on Wednesday unveiled a new class of Nvidia-powered Windows laptops, its latest effort to tie the operating system more closely to the AI boom. Why it matters: Microsoft is trying to carve out a high-end laptop category for people who want to run demanding AI workloads locally, rather than rely entirely on the cloud. Driving the news: Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (MarketWatch, TechCrunch, Axios) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Microsoft and Nvidia are teaming up on a supercharged AI laptop\" (MarketWatch); \"Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11\" (TechCrunch); \"Microsoft looks to reboot the AI PC with Nvidia\" (Axios).\nFigures differ across outlets (e.g. 11 vs 2 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): MarketWatch, TechCrunch, Axios",
+      "zh-TW": "最新的 Windows 筆記型電腦由 Nvidia 的 RTX Spark 晶片提供支持，旨在直接在設備上運行人工智慧模型和工作負載。 發生了什麼事\n微軟發表了搭載改良版 Windows 11 的新型 Nvidia 晶片 AI 電腦。最新的 Windows 筆記型電腦由 Nvidia 的 RTX Spark 晶片提供支持，旨在直接在設備上運行 AI 模型和工作負載。微軟公佈了 Surface Laptop Ultra 的規格和價格，這是一款運行在 Nvidia 晶片上的人工智慧 PC，這些晶片旨在運行人工智慧模型和代理。微軟週三推出了一款新型 Nvidia 驅動的 Windows 筆記型電腦，這是其將作業系統與人工智慧熱潮更緊密地聯繫起來的最新努力。為什麼重要：微軟正試圖為那些想要在本地運行要求嚴格的人工智慧工作負載而不是完全依賴雲端的人們開闢一個高階筆記型電腦類別。推動新聞：微軟執行長薩蒂亞‧納德拉 (Satya Nadella)、英偉達執行長黃仁勳 (Jensen Huang) 為什麼這很重要\n此集群由金融類別中 3 個管道（MarketWatch、TechCrunch、Axios）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「微軟和 Nvidia 正在聯手開發一款強大的人工智慧筆記型電腦」（MarketWatch）；「微軟發布了搭載改進版 Windows 11 的新型 Nvidia 晶片 AI PC」（TechCrunch）； 「微軟希望透過 Nvidia 重啟 AI PC」（Axios）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 11 比 2）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限頻道名稱）：MarketWatch、TechCrunch、Axios"
     },
     "sources": [
       {
-        "name": "The Guardian Business",
-        "url": "https://www.theguardian.com/business/2026/oct/06/sp-500-nasdaq-stocks-ai-chipmakers"
+        "name": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/10/07/microsoft-looks-to-reboot-the-ai-pc-with-nvidia"
       }
     ],
-    "disagreements": null,
-    "trustScore": 62,
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 11 vs 2 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 11 比 2）。"
+    },
+    "trustScore": 75,
     "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 21,
-      "crossCorroboration": 8,
+      "sourceDiversity": 20,
+      "outletReputation": 16,
+      "crossCorroboration": 14,
       "recencyClarity": 25
     },
     "tags": [
       "finance",
       "live-ingest",
-      "the-guardian-business"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "S&P 500",
-          "zh-TW": "標準普爾 500 指數"
-        },
-        "blurb": {
-          "en": "US stock index tracking 500 large listed companies.",
-          "zh-TW": "追蹤美國 500 家大型上市公司的股價指數。"
-        }
-      },
-      {
-        "term": {
-          "en": "Nasdaq",
-          "zh-TW": "那斯達克指數"
-        },
-        "blurb": {
-          "en": "US index heavy in technology stocks.",
-          "zh-TW": "以科技股為主的美國股價指數。"
-        }
-      },
-      {
-        "term": {
-          "en": "Dow Jones Industrial Average",
-          "zh-TW": "道瓊工業指數"
-        },
-        "blurb": {
-          "en": "US index of 30 large industrial companies.",
-          "zh-TW": "由 30 家大型工業股組成的美國指數。"
-        }
-      },
-      {
-        "term": {
-          "en": "AI chipmakers",
-          "zh-TW": "AI 晶片股"
-        },
-        "blurb": {
-          "en": "Companies making chips that power AI training and inference.",
-          "zh-TW": "生產 AI 訓練與推論用晶片的公司。"
-        }
-      },
-      {
-        "term": {
-          "en": "Treasury yields",
-          "zh-TW": "美債殖利率"
-        },
-        "blurb": {
-          "en": "Returns on US government bonds; falling yields tend to lift stocks.",
-          "zh-TW": "美國公債的報酬率；殖利率下滑通常有利股市。"
-        }
-      }
+      "marketwatch",
+      "techcrunch",
+      "axios"
     ]
   },
   {
-    "id": "live-eastAsiaGossip-04-jyp-zion-t-tvbs",
+    "id": "live-taiwan-01-500",
+    "category": "taiwan",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-taiwan-01-500.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - 經濟日報",
+      "zh-TW": "相關封面圖：荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - 經濟日報"
+    },
+    "publishedAt": "2026-10-08T00:21:41.000Z",
+    "title": {
+      "en": "荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - 經濟日報",
+      "zh-TW": "荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - 經濟日報"
+    },
+    "summary": {
+      "en": "（中央社記者張建中台北8日電）美股主要指數全面收低，與台股關聯性高的費半指數下跌151.67點，跌幅逾1%。法人表示，台股7日小跌16.18點，收在49806.37點，台指期夜盤下挫375點，加上國慶連假即將來臨，台股今天可能維持高檔震盪。",
+      "zh-TW": "（中央社記者張建中台北8日電）美股主要指數全面收低，與台股關聯性高的費半指數下跌151.67點，跌幅逾1%。法人表示，台股7日小跌16.18點，收在49806.37點，台指期夜盤下挫375點，加上國慶連假即將來臨，台股今天可能維持高檔震盪。"
+    },
+    "body": {
+      "en": "（中央社記者張建中台北8日電）美股主要指數全面收低，與台股關聯性高的費半指數下跌151.67點，跌幅逾1%。法人表示，台股7日小跌16.18點，收在49806.37點，台指期夜盤下挫375點，加上國慶連假即將來臨，台股今天可能維持高檔震盪。 What happened\n荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - 經濟日報. （中央社記者張建中台北8日電）美股主要指數全面收低，與台股關聯性高的費半指數下跌151.67點，跌幅逾1%。法人表示，台股7日小跌16.18點，收在49806.37點，台指期夜盤下挫375點，加上國慶連假即將來臨，台股今天可能維持高檔震盪。 （中央社紐約7日綜合外電報導）美國長天期國債殖利率重新走高，再度引發市場對通膨及債務攀升的擔憂，美股主要指數今天全線收黑。 Why it matters\nThis cluster was assembled from 3 feed item(s) across 2 outlet(s) (中央社-產經證券, 經濟日報國際（Google News 代理）) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"台指期夜盤下跌　法人：台股可能高檔震盪\" (中央社-產經證券); \"荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - 經濟日報\" (經濟日報國際（Google News 代理）); \"美債殖利率再走高　美股全線收黑\" (中央社-產經證券).\nFigures differ across outlets (e.g. 8 vs 500 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 中央社-產經證券, 經濟日報國際（Google News 代理） Additional feed context\n(1) （中央社記者張建中台北8日電）美股主要指數全面收低，與台股關聯性高的費半指數下跌151.67點，跌幅逾1%。法人表示，台股7日小跌16.18點，收在49806.37點，台指期夜盤下挫375點，加上國慶連假即將來臨，台股今天可能維持高檔震盪。\n(2) （中央社紐約7日綜合外電報導）美國長天期國債殖利率重新走高，再度引發市場對通膨及債務攀升的擔憂，美股主要指數今天全線收黑。",
+      "zh-TW": "（中央社記者張建中台北8日電）美股主要指數全面收低，與台股關聯性高的費半指數下跌151.67點，跌幅逾1%。法人表示，台股7日小跌16.18點，收在49806.37點，台指期夜盤下挫375點，加上國慶連假即將來臨，台股今天可能維持高檔震盪。 What happened\n荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - 經濟日報. （中央社記者張建中台北8日電）美股主要指數全面收低，與台股關聯性高的費半指數下跌151.67點，跌幅逾1%。法人表示，台股7日小跌16.18點，收在49806.37點，台指期夜盤下挫375點，加上國慶連假即將來臨，台股今天可能維持高檔震盪。 （中央社紐約7日綜合外電報導）美國長天期國債殖利率重新走高，再度引發市場對通膨及債務攀升的擔憂，美股主要指數今天全線收黑。 Why it matters\nThis cluster was assembled from 3 feed item(s) across 2 outlet(s) (中央社-產經證券, 經濟日報國際（Google News 代理）) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"台指期夜盤下跌　法人：台股可能高檔震盪\" (中央社-產經證券); \"荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - 經濟日報\" (經濟日報國際（Google News 代理）); \"美債殖利率再走高　美股全線收黑\" (中央社-產經證券).\nFigures differ across outlets (e.g. 8 vs 500 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 中央社-產經證券, 經濟日報國際（Google News 代理） Additional feed context\n(1) （中央社記者張建中台北8日電）美股主要指數全面收低，與台股關聯性高的費半指數下跌151.67點，跌幅逾1%。法人表示，台股7日小跌16.18點，收在49806.37點，台指期夜盤下挫375點，加上國慶連假即將來臨，台股今天可能維持高檔震盪。\n(2) （中央社紐約7日綜合外電報導）美國長天期國債殖利率重新走高，再度引發市場對通膨及債務攀升的擔憂，美股主要指數今天全線收黑。"
+    },
+    "sources": [
+      {
+        "name": "中央社-產經證券",
+        "url": "https://www.cna.com.tw/news/afe/202610080025.aspx"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaS3BqaDVOd1BDZzFFZ3RsdUdtY250Q1E5RkhDQXVaR1NpaVBPandSZzVaa25rYkROQVFWcHV4OF9ST3RaY29LMVQxQ3BMYjVHTXlaNnR6U2dKOGPSAWBBVV95cUxQLUpPSjhocVNFMjg3MmM0aG9RM05YZWhUbm0zTGY3Wi1XbHllaHBkUG9TT3RBUjN1NGxaSXBWTy1SeDdnUk5uS3NkT1FvbjU4dElmREtkNnN3dWJWZWVLT18?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 8 vs 500 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 8 與 500）。"
+    },
+    "trustScore": 74,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 21,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "taiwan",
+      "live-ingest",
+      "中央社-產經證券",
+      "經濟日報國際（google-news-代理）",
+      "中央社-產經證券"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-04-story",
     "category": "eastAsiaGossip",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-04-jyp-zion-t-tvbs.jpg",
-    "imageAlt": {
-      "en": "Cover related to: 昨宣布離開JYP…彩瑛今爆分手Zion.T！ 雙方公司火速發聲明揚言開告 - TVBS新聞網",
-      "zh-TW": "相關封面圖：昨宣布離開JYP…彩瑛今爆分手Zion.T！ 雙方公司火速發聲明揚言開告 - TVBS新聞網"
-    },
-    "publishedAt": "2026-10-06T16:59:00.000Z",
+    "publishedAt": "2026-10-07T17:50:20.000Z",
     "title": {
-      "en": "TWICE's Chaeyoung Breakup Rumor With Zion.T Denied by Both Agencies",
-      "zh-TW": "TWICE 彩瑛（Chaeyoung）爆與 Zion.T 分手？雙方公司火速否認並揚言提告"
+      "en": "專訪／蔡康永現身沈伯洋造勢 蔣萬安邀坐競總搖滾區 陳敏鳳：考驗蔣萬安",
+      "zh-TW": "專訪／蔡康永現身沈伯洋造勢 蔣萬安邀坐競總搖滾區 陳敏鳳：考驗蔣萬安"
     },
     "summary": {
-      "en": "A day after TWICE member Chaeyoung announced her departure from JYP Entertainment, Korean media reported she had split with singer-producer Zion.T, said to be ten years her senior and drifting apart from busy schedules. Both companies swiftly denied the breakup, insisting the couple is still dating, and threatened legal action over the reports.",
-      "zh-TW": "TWICE 成員彩瑛宣布離開 JYP 娛樂隔天，韓媒爆料她與大 10 歲的歌手兼製作人 Zion.T 分手，原因是「忙到疏遠」。雙方公司火速發聲明否認，強調兩人仍在甜蜜交往，並揚言對不實報導提告。"
+      "en": "蔡康永現身沈伯洋競總 中國軍方帳號首發聲批「不容在大陸與台獨騎牆搖擺」 Yahoo新聞",
+      "zh-TW": "蔡康永現身沈伯洋競總 中國軍方帳號首發聲批「不容在大陸與台獨騎牆搖擺」 Yahoo新聞"
     },
     "body": {
-      "en": "What happened\nTWICE member Chaeyoung announced her departure from JYP Entertainment — and a day later, Korean media reported that she had broken up with singer-producer Zion.T, ten years her senior, with the pair said to have drifted apart under busy schedules. Both companies moved fast: they issued statements denying the split, insisting the two are still in a sweet relationship, and threatened to sue over the false reports. The denial landed within hours of the rumor, a sign of how seriously the agencies take dating-news management.\n\nWhy it matters\nIn K-pop, a dating rumor can move fandoms, endorsements, and stock prices; agencies therefore deny first and verify later. The whiplash here — breakup report in the morning, furious denial by afternoon — shows how the rumor economy now outruns the official channels meant to contain it.\n\nSources agree / disagree\nOutlets agree on the sequence: the JYP exit announcement, the breakup report naming Zion.T, and the swift joint denial with legal threats. What they do not agree on is the underlying fact — the reports say the couple split; the companies say they are still dating.\n\nStill uncertain\nThe real status of the relationship is unknowable from competing claims, and it is unclear whether the threatened lawsuits will actually be filed. Note the feed cluster also swept in unrelated breakup headlines (including a '400 days of zero interaction' item about a different celebrity couple), which are not about Chaeyoung and Zion.T.",
-      "zh-TW": "發生了什麼事\nTWICE 成員彩瑛宣布離開 JYP 娛樂——隔天韓媒就爆料，她與大 10 歲的歌手兼製作人 Zion.T 分手，傳因各自忙碌而漸行漸遠。雙方公司動作極快：火速發聲明否認分手，強調兩人「仍在甜蜜交往」，並揚言對不實報導提告。否認聲明在爆料數小時內就發出，顯示經紀公司對戀情新聞的危機處理有多重視。\n\n為什麼重要\n在韓流圈，一則戀情傳聞足以牽動粉絲、代言與股價，經紀公司向來先否認再說。這次的急轉彎——早上爆分手、下午就強烈否認——顯示爆料經濟的傳播速度，已經超過官方滅火管道能應付的範圍。\n\n來源異同\n各媒體對事件順序的描述一致：離開 JYP 的宣布、點名 Zion.T 的分手爆料，以及雙方火速否認並揚言提告。但對最根本的事實說法分歧：爆料稱兩人已分手，公司稱仍在交往。\n\n仍不確定\n兩人真實的感情狀態從互相矛盾的說法中無從得知，揚言的提告是否真的會提出也不明。另請注意，這個推播群組還混入了不相關的分手新聞（包括一則關於另一對明星「400 天零互動」的標題），與彩瑛和 Zion.T 無關。"
+      "en": "蔡康永現身沈伯洋競總 中國軍方帳號首發聲批「不容在大陸與台獨騎牆搖擺」 Yahoo新聞 What happened\n專訪／蔡康永現身沈伯洋造勢 蔣萬安邀坐競總搖滾區 陳敏鳳：考驗蔣萬安. 蔡康永現身沈伯洋競總 中國軍方帳號首發聲批「不容在大陸與台獨騎牆搖擺」 Yahoo新聞 蔡康永現身競總遭中國抵制 沈伯洋嘆：他只是想聽不同聲音 | 鏡新聞 LINE TODAY 蔡康永現身競總遭中國網友出征 沈伯洋嘆可惜：只是想聽不同聲音 ETtoday新聞雲 Why it matters\nThis cluster was assembled from 10 feed item(s) across 1 outlet(s) (GNews TW heat:蔡康永現身競) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"蔡康永現身競總傳遭出征沈伯洋：台灣聽政見稀鬆平常| 政治\" (GNews TW heat:蔡康永現身競); \"【禁聞】蔡康永現身沈伯洋競總遭切割 中共紅線再移\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總 中國軍方帳號首發聲批「不容在大陸與台獨騎牆搖擺」\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總被陸網友出征 蔣萬安：不認同干預選擇自由\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總成立大會 共軍帳號「鈞正平」表態！\" (GNews TW heat:蔡康永現身競).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews TW heat:蔡康永現身競 Additional feed context\n(1) 蔡康永現身沈伯洋競總 中國軍方帳號首發聲批「不容在大陸與台獨騎牆搖擺」 Yahoo新聞\n(2) 蔡康永現身競總遭中國抵制 沈伯洋嘆：他只是想聽不同聲音 | 鏡新聞 LINE TODAY\n(3) 蔡康永現身競總遭中國網友出征 沈伯洋嘆可惜：只是想聽不同聲音 ETtoday新聞雲",
+      "zh-TW": "蔡康永現身沈伯洋競總 中國軍方帳號首發聲批「不容在大陸與台獨騎牆搖擺」 Yahoo新聞 What happened\n專訪／蔡康永現身沈伯洋造勢 蔣萬安邀坐競總搖滾區 陳敏鳳：考驗蔣萬安. 蔡康永現身沈伯洋競總 中國軍方帳號首發聲批「不容在大陸與台獨騎牆搖擺」 Yahoo新聞 蔡康永現身競總遭中國抵制 沈伯洋嘆：他只是想聽不同聲音 | 鏡新聞 LINE TODAY 蔡康永現身競總遭中國網友出征 沈伯洋嘆可惜：只是想聽不同聲音 ETtoday新聞雲 Why it matters\nThis cluster was assembled from 10 feed item(s) across 1 outlet(s) (GNews TW heat:蔡康永現身競) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"蔡康永現身競總傳遭出征沈伯洋：台灣聽政見稀鬆平常| 政治\" (GNews TW heat:蔡康永現身競); \"【禁聞】蔡康永現身沈伯洋競總遭切割 中共紅線再移\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總 中國軍方帳號首發聲批「不容在大陸與台獨騎牆搖擺」\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總被陸網友出征 蔣萬安：不認同干預選擇自由\" (GNews TW heat:蔡康永現身競); \"蔡康永現身沈伯洋競總成立大會 共軍帳號「鈞正平」表態！\" (GNews TW heat:蔡康永現身競).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews TW heat:蔡康永現身競 Additional feed context\n(1) 蔡康永現身沈伯洋競總 中國軍方帳號首發聲批「不容在大陸與台獨騎牆搖擺」 Yahoo新聞\n(2) 蔡康永現身競總遭中國抵制 沈伯洋嘆：他只是想聽不同聲音 | 鏡新聞 LINE TODAY\n(3) 蔡康永現身競總遭中國網友出征 沈伯洋嘆可惜：只是想聽不同聲音 ETtoday新聞雲"
     },
     "sources": [
       {
-        "name": "Yahoo TW 娛樂",
-        "url": "https://tw.news.yahoo.com/%E9%9F%93%E5%81%B6%E5%83%8F-%E5%8F%A5-%E5%8F%B0%E7%81%A3%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF%E4%B8%AD%E5%9C%8B%E7%9A%84-%E5%BC%95%E7%88%86%E7%88%AD%E8%AD%B0-%E5%85%AC%E5%8F%B8%E9%81%93%E6%AD%89%E4%BA%86-005900400.html"
+        "name": "中央社cna",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BLWpDbzJub0lUc2dsVDBvQndTeFJZWk5tZFdtRDFqQ3V4Z1kwZF93UVRtWXhtUmR4Vld6azZQcHVfTWZ2X0lUOEtsWGdzWDJxUEFvM09aRzI4R3AyNFBn?oc=5"
+      },
+      {
+        "name": "新唐人電視台",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80T1ZYc1BnWEhUY2FRVzh6ano3LUQtcEhTcFdUbVo5TU51cEVJLXNUTEx4aWtQZE9tcUZPZms4anQzeXpBR29SdW1mR0hXSTNUSzhYemdSZTJ6d01pdlRnQ9IBZkFVX3lxTE9kbVJUM05IaVd5VHBld09ZcWRSeV81b2NiaFJLbFp5WVlzcThMNDVPbVRJb2FRWExFZWxlc1VlWGZfMGc0UHJ3NVFDaTlEdUVnQlZzbDJxQlhHWDU5T0tGSjB0dXhDUQ?oc=5"
+      },
+      {
+        "name": "tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQWXdhOWpORHpQZ1ZTckdOMmVHUGNGSjlCMjc0WDNQWng0TnpBR19RS0JndUphWFg1d1VWRWQyZmhLSklUc1V2Y1p2REtxYUtva0RlOF93TWFBdXBIaDMwMlo5eDFIS0hzWXVjMmZHTFJYcWRudGQ4ZFdXdjdxbzV3c1hoWGpnSV9nQjdNZzZKUE0yQ1J0WlRNRWFhNzhfUWpIQ29UZlprY1dRWG0wOUxFUGpzZlRMc2NhTEVtUFQ5QXExVnh5aXhZei1rOUlaVVFzaVVIWm8tNWVlSDNnTzRXbk1YWU5MMG55WHJQa3VFcFJMWmpianZ0aUlhUnBwNEpEWlBXdS1ZV2IxLWdURERxRXp0QmktNlVGOWRTUlNfUF85QVRYXzJSM1Y5V29FSlJiVjVlbmlwX0xlMmJUQXJZZkh1R0x5c1FwdkVScWRJOTl1ZGtwaU1ROXhWeWJsQ05rV0VqZXNxNll4TEJ0SG5uQkczOXRtdHNvTzg0Y2hGTEdYTWhPXzYxLXlUZjBmaEdNMzM0bGl0MVlBV1ZTaDdvRWhtT0pBQzNHYzlJRXIzVVlfR2NBbE9vY21BM254N3NCdEQ0UkYzNENTLWJvMTA1N2VBVDlpZw?oc=5"
+      },
+      {
+        "name": "udn.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81MlVMYkFqM1N5UzZ3Nk1yaGZtWDNpRmJRV2xDcFpLQm5qZWFwdTZrT1lkZzZ2QU90bjdzbnNtYlA3MTdJY2ZmdzF1T21ESVoxVno40gFYQVVfeXFMTm1QbktCVjktUjh6Rm14Y1JfQWluTl9aZFdILVpKVmRLRXZuSzhRNU5raXgwd1VzaGZCOTRtWlpKLXBjVWVadmhMV3l1VjRuS3owb1djVVAxdQ?oc=5"
+      },
+      {
+        "name": "鉅亨網",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nTXBWaGEtQk1IRW9MVV9qTUFWYUl3bWswQmdVTlJoWllRYWJsOEl1TUdhZTV1cjNWQmt0ZHQza0MwQk13X0tjRUhSQl9QRjA?oc=5"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV1l6V3RlU2M3YS1QYl83MHY5MEVuODQ4Qi1OOVZZWFRLOUVnY0NubHFhTnNFSU5NTDJzNm82SFY4WFlDVXRQYVdOVEZaS3J2Q0I5TlZRWU1QTlFRcU9wOGlmSHVDd29WTkJGZm5NdmtVSFRjdm1fSjZnOHFheVJCNTYwU3BNX2R1ZVE?oc=5"
+      },
+      {
+        "name": "chinatimes.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZUVuMmFZbXFIQXhwSVBHRm1HY3ZwRWV1bFhZd0s4eFBZUmJuUkVUeVczYnVtQ21RSXhCaUJOWTVkTmNhdVdPYmR3dWF6QThabGl4R004VGQydHVDbE1INV8xRTM1N2VBM284QkZn?oc=5"
       },
       {
         "name": "ettoday.net",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TM3ZZTHc2b2IzUVVWT1ROSUJvQkUza21QWmxObzBIdGJacjdkVlJrLTJrYWlPdG0xOUd0N1BHR29XbmlodWczWTF6ZGpwZ9IBTEFVX3lxTE9sdUVaS2JSMmpzMHp2UE1NVFZmc09xTmJBX1J1Y185N0JPdTVHNkRPR1JDdFplLWFLSVJsSHFOc1dXMVJ1WWhZU3A3Smo?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mRU9QeHdTYU5GVkxJMmNOdDlEU3VuTVJmVXFUQWtKRVBjaU5TVnJ6QnlLOTFGVGRuM19PRjJrNU9sTjFtay1FN3p5UHhQV0JRX0h4MFRZVUVkSy1iYlHSAUtBVV95cUxOYXZVQU5EbHMwMFNOVklELVZack16blIyN2FBdTdZX1F0Q195cS1rWVA1aHJDY2NQR254emd6aDJHVF9LVzZnUHBacTg?oc=5"
       },
       {
-        "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdVhmS2JyZ1lENTZHYUhrSlhnRzk0bWlKMXE1em1wSEQtRHlrVnkxV2RPVFRyWU4tVlVZRTVBQUlQRi0yZzRkc3E3ZktUemlwUjRQN1VDbDJtb0dLUzMyNlF0NXBFWmI4TEhhSUFaYU40WmRzeXA4dkNTd2otMWN3U0txc2l3Zw?oc=5"
+        "name": "震傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MRmI4WlpMTnd2bVd1NG9sS1RkRjZXQ1hjWlN1c2dZT29xaEdwdC1iSVF5aUdEb2dSVWxHYzFuMmI0UVRnQUEwck54OGJwVTI1TWxlSlpWQ2dGVVk?oc=5"
       },
       {
-        "name": "tvbs.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iLWdvSENfYmFXYUlXVTZKTklVakc1em9NU1FkMEwxSXNHR3BwU0lpRWlVNVVCb0E4WnB2cmlCcFgwWGl4WU02VlVpMll5RnowY09KWjMzQTd4OHZHb3Y2b0xNSQ?oc=5"
-      }
-    ],
-    "disagreements": {
-      "en": "Breakup reports say Chaeyoung and Zion.T have split, while both companies' statements deny the breakup and insist the couple is still dating.",
-      "zh-TW": "爆料媒體稱彩瑛與 Zion.T 已分手，但雙方公司發聲明否認分手、表示兩人仍在交往，說法互相矛盾。"
-    },
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 13,
-      "crossCorroboration": 17,
-      "recencyClarity": 23
-    },
-    "tags": [
-      "eastAsiaGossip",
-      "live-ingest",
-      "region:tw",
-      "yahoo-tw-娛樂",
-      "gnews-tw-分手+藝人/明星",
-      "gnews-tw-分手+藝人/明星"
-    ],
-    "region": "tw",
-    "glossary": [
-      {
-        "term": {
-          "en": "Chaeyoung",
-          "zh-TW": "彩瑛"
-        },
-        "blurb": {
-          "en": "Member of K-pop girl group TWICE; just announced her JYP departure.",
-          "zh-TW": "韓國女團 TWICE 成員，剛宣布離開 JYP 娛樂。"
-        }
-      },
-      {
-        "term": {
-          "en": "Zion.T",
-          "zh-TW": "Zion.T"
-        },
-        "blurb": {
-          "en": "South Korean R&B singer and producer, reportedly Chaeyoung's boyfriend.",
-          "zh-TW": "韓國 R&B 歌手兼製作人，傳為彩瑛男友。"
-        }
-      },
-      {
-        "term": {
-          "en": "JYP Entertainment",
-          "zh-TW": "JYP 娛樂"
-        },
-        "blurb": {
-          "en": "Major South Korean entertainment agency behind TWICE.",
-          "zh-TW": "TWICE 所屬的韓國大型經紀公司。"
-        }
-      },
-      {
-        "term": {
-          "en": "TWICE",
-          "zh-TW": "TWICE"
-        },
-        "blurb": {
-          "en": "Nine-member K-pop girl group that debuted in 2015.",
-          "zh-TW": "2015 年出道的九人韓國女子團體。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-international-03-kenya-records-ebola-case",
-    "category": "international",
-    "adult": false,
-    "isHeadline": true,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-international-03-kenya-records-ebola-case.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Kenya Records Ebola Case for First Time",
-      "zh-TW": "相關封面圖：肯亞首次記錄伊波拉病例"
-    },
-    "publishedAt": "2026-10-06T21:02:07.000Z",
-    "title": {
-      "en": "Kenya Reports First Ebola Case as DRC Outbreak Surges",
-      "zh-TW": "肯亞（Kenya）出現首例伊波拉病例，剛果（金）疫情升溫"
-    },
-    "summary": {
-      "en": "Kenya's health minister announced the country's first-ever Ebola case on Tuesday: a citizen who arrived from the Democratic Republic of Congo on Saturday and later died. Authorities identified 28 contacts and said measures are underway to prevent spread, as the DRC outbreak — the country's 17th, announced in May — surges through the northeast.",
-      "zh-TW": "肯亞衛生部長週二宣布該國首例伊波拉病例：患者為自剛果民主共和國返國的公民，週六入境後不治。當局已匡列 28 名接觸者，並採取措施防止擴散。剛果（金）這波 5 月宣布的疫情為該國第 17 次爆發，正在東北部快速蔓延。"
-    },
-    "body": {
-      "en": "What happened\nKenya has reported its first-ever Ebola case, the health minister announced on Tuesday. The patient had been living in the Democratic Republic of Congo, arrived back in Kenya on Saturday, and later died. Health authorities said 28 contacts had been identified and that measures were being taken to prevent any spread. The case is linked to the DRC outbreak announced in May — the country's 17th outbreak of the highly infectious, often deadly virus — which continues to spread rapidly through the northeast. Feed summaries report that more than 4,000 people have died from the disease in the DRC this year.\n\nWhy it matters\nA first-ever case in a new country is exactly how regional outbreaks become international emergencies: the virus has now crossed a border via a traveler. Kenya's response in the next two weeks — contact tracing, isolation, surveillance — will determine whether this stays a single imported case.\n\nSources agree / disagree\nBBC World, The Guardian World and NYT World all report the same core facts: Kenya's first case, the DRC link, the Saturday arrival, and the 28 identified contacts. None of the three outlets disputes the basic sequence.\n\nStill uncertain\nWhether any of the 28 contacts test positive, and the patient's exact travel route and exposures in the DRC, have not been detailed in the snippets. Click through to the linked outlets for the latest full reporting.",
-      "zh-TW": "發生了什麼事\n肯亞衛生部長週二宣布該國首例伊波拉病例。患者長期居住在剛果民主共和國，週六返抵肯亞後不治。衛生當局表示已匡列 28 名接觸者，並正採取措施防止擴散。此病例與剛果（金）5 月宣布的疫情有關——那是該國第 17 次爆發這種高傳染性、常致命的病毒，目前仍在東北部快速蔓延。提要稱，剛果（金）今年已有逾 4000 人死於此病。\n\n為什麼重要\n在新國家出現首例，正是區域疫情升級為國際緊急事件的典型路徑：病毒已隨著旅客跨越國界。肯亞未來兩週的應對——接觸者追蹤、隔離、監測——將決定這是單一境外移入病例，還是更大爆發的開端。\n\n來源異同\n英國廣播公司（BBC）世界版、衛報（The Guardian）世界版與《紐約時報》世界版報導的核心事實一致：肯亞首例、剛果（金）關聯、週六入境、28 名接觸者。三家都沒有質疑事件的基本順序。\n\n仍不確定\n28 名接觸者中是否有人確診、患者在剛果（金）的確切行程與接觸史，提要都未詳述。請點進連結的媒體看最新完整報導。"
-    },
-    "sources": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "name": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc"
-      },
-      {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html"
+        "name": "鏡報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rMmVkaGVEcjFRQ3FQTnEzcUhzc1Q4T1k4MnM2eU9jZFBfamNhcVZfaW5qSzIwTzFkcUdzWk9QQXozTURNcnUwUlhobjdJYjBza1E?oc=5"
       }
     ],
     "disagreements": null,
     "trustScore": 55,
     "trustBreakdown": {
-      "sourceDiversity": 24,
+      "sourceDiversity": 25,
+      "outletReputation": 16,
+      "crossCorroboration": 25,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "gnews-tw-heat:蔡康永現身競",
+      "gnews-tw-heat:蔡康永現身競",
+      "gnews-tw-heat:蔡康永現身競"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-us-01-adding-low-fidelity-data",
+    "category": "us",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "publishedAt": "2026-10-08T01:23:06.000Z",
+    "title": {
+      "en": "Adding Low-Fidelity Data to ML Training Sets Could Yield Better Process Models",
+      "zh-TW": "將低保真數據添加到機器學習訓練集中可以產生更好的過程模型"
+    },
+    "summary": {
+      "en": "A bidding war for TDK Corp.’s hard-disk drive parts business could determine the prospects of Japanese corporate icon Toshiba Corp. as well as who controls an increasingly lucrative AI data center storage market.",
+      "zh-TW": "TDK公司硬碟零件業務的競購戰可能決定日本企業偶像東芝公司的前景，以及誰控制著利潤日益豐厚的人工智慧資料中心儲存市場。"
+    },
+    "body": {
+      "en": "A bidding war for TDK Corp.’s hard-disk drive parts business could determine the prospects of Japanese corporate icon Toshiba Corp. as well as who controls an increasingly lucrative AI data center storage market. What happened\nAdding Low-Fidelity Data to ML Training Sets Could Yield Better Process Models. A bidding war for TDK Corp.’s hard-disk drive parts business could determine the prospects of Japanese corporate icon Toshiba Corp. as well as who controls an increasingly lucrative AI data center storage market. The new rules require more public disclosure on data center projects but still allow large projects to be approved without a vote. By Dennis Pillion MONTGOMERY, Ala.—The Alabama Public Service Commission approved a new set of rules for future data center projects Tuesday that require more transparency and disclosure from data center companies and public votes by the PSC for data center approval. B Combining trend information with high-fidelity experimentally-derived data could improve the accuracy of machine learning-based process models, according to researchers. Machine learning models have the potential to make biopharmaceutical process development faster and more efficient by, in theory, allowing scientists to predict the impact of changes to parameters ahead of time. The problem, accor Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (Bloomberg News, Inside Climate News, GEN 基因工程新聞) in the us category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"AI Data Center Boom Ignites Bidding War for Critical TDK Unit\" (Bloomberg News); \"Alabama Sets Stricter Data Center Rules. But There’s a Loophole.\" (Inside Climate News); \"Adding Low-Fidelity Data to ML Training Sets Could Yield Better Process Models\" (GEN 基因工程新聞).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Bloomberg News, Inside Climate News, GEN 基因工程新聞",
+      "zh-TW": "TDK公司硬碟零件業務的競購戰可能決定日本企業偶像東芝公司的前景，以及誰控制著利潤日益豐厚的人工智慧資料中心儲存市場。 發生了什麼事\n將低保真度資料加入機器學習訓練集中可以產生更好的流程模型。 TDK公司硬碟零件業務的競購戰可能決定日本企業偶像東芝公司的前景，以及誰控制著利潤日益豐厚的人工智慧資料中心儲存市場。新規則要求對資料中心專案進行更多公開揭露，但仍允許大型專案無需投票即可獲得批准。作者：丹尼斯·皮利恩 (Dennis Pillion) 阿拉巴馬州蒙哥馬利——週二，阿拉巴馬州公共服務委員會批准了一套針對未來數據中心項目的新規則，要求數據中心公司提高透明度和披露信息，並要求 PSC 進行公眾投票以批准數據中心。研究人員表示，將趨勢資訊與高保真實驗數據結合可以提高基於機器學習的過程模型的準確性。理論上，機器學習模型可以讓科學家提前預測參數變化的影響，使生物製藥製程開發更快、更有效率。問題，根據 為什麼這很重要\n此集群由美國類別中 3 個管道（彭博新聞、內部氣候新聞、GEN 基因工程新聞）的 3 個飼料項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「人工智慧資料中心的繁榮引發了關鍵 TDK 部門的競購戰」（彭博新聞）；「阿拉巴馬州制定了更嚴格的資料中心規則。但存在漏洞。」（氣候新聞內部）；「向 ML 訓練集添加低保真數據可以產生更好的過程模型」（GEN 基因工程新聞內部）；「向 ML 訓練集添加低保真數據可以產生更好的過程模型」（GEN 基因工程新聞）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：彭博新聞、內部氣候新聞、GEN 基因工程新聞"
+    },
+    "sources": [
+      {
+        "name": "Bloomberg News",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-data-center-boom-ignites-bidding-war-for-critical-tdk-unit"
+      },
+      {
+        "name": "Inside Climate News",
+        "url": "https://insideclimatenews.org/news/07102026/alabama-data-center-rules-loophole/"
+      },
+      {
+        "name": "GEN 基因工程新聞",
+        "url": "https://www.genengnews.com/topics/bioprocessing/adding-low-fidelity-data-to-ml-training-sets-could-yield-better-process-models/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 85,
+    "trustBreakdown": {
+      "sourceDiversity": 20,
       "outletReputation": 18,
-      "crossCorroboration": 14,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "us",
+      "live-ingest",
+      "bloomberg-news",
+      "inside-climate-news",
+      "gen-基因工程新聞"
+    ]
+  },
+  {
+    "id": "live-international-01-canada-halts-plan-to-all",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-01-canada-halts-plan-to-all.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
+      "zh-TW": "相關封面圖：加拿大停止允許精神病患進行醫療協助死亡的計劃"
+    },
+    "publishedAt": "2026-10-07T19:57:21.000Z",
+    "title": {
+      "en": "Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
+      "zh-TW": "加拿大停止允許精神病患進行醫療協助死亡的計劃"
+    },
+    "summary": {
+      "en": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "zh-TW": "2027 年 3 月，加拿大僅患有精神疾病的人就有資格接受安樂死，但現在已無限期暫停。"
+    },
+    "body": {
+      "en": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely. What happened\nCanada Halts Plan to Allow Medically Assisted Death for the Mentally Ill. People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely. Legislation is an effort by ruling Liberals to address growing clash over who has access to doctor-assisted death Canada ’s federal government said on Wednesday it would advance legislation to prevent people whose sole health condition is mental illness from accessing euthanasia, an effort by the ruling Liberal party to address a clash in the country over who has access to physician-assisted death People who have mental illness alone will not qualify for assisted death, but patients who have other conditions and expect to have a cognitive decline can make an advanced request. Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (BBC World, The Guardian World, NYT World) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Canada suspends plans to expand assisted dying to people with mental illness\" (BBC World); \"Canada to indefinitely bar mental illness as sole reason for access to euthanasia\" (The Guardian World); \"Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill\" (NYT World).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC World, The Guardian World, NYT World",
+      "zh-TW": "2027 年 3 月，加拿大僅患有精神疾病的人就有資格接受安樂死，但現在已無限期暫停。 發生了什麼事\n加拿大暫停允許精神疾病患者進行醫療輔助死亡的計畫。 2027 年 3 月，在加拿大，只有精神疾病患者才有資格獲得輔助死亡，但現在已無限期暫停。加拿大聯邦政府週三表示，將推動立法，防止唯一的健康狀況是精神疾病的人獲得安樂死，這是執政黨自由黨為解決國內關於誰可以獲得醫生協助死亡的衝突而做出的努力。僅患有精神疾病的人沒有資格獲得協助死亡，但患有其他疾病並預計認知能力下降的患者可以提前提出要求。 為什麼這很重要\n此集群由國際類別中 3 個管道（BBC World、The Guardian World、NYT World）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「加拿大暫停了向精神疾病患者提供輔助死亡的計劃」（BBC World）；「加拿大無限期禁止將精神疾病作為獲得安樂死的唯一理由」（《衛報世界》）； “加拿大停止允許精神病患者接受醫療輔助死亡的計劃”（紐約時報世界）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC World、The Guardian World、NYT World"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness"
+      },
+      {
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/10/07/world/canada/canada-medically-assisted-death-mental-illness.html"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 20,
+      "outletReputation": 21,
+      "crossCorroboration": 22,
       "recencyClarity": 25
     },
     "tags": [
@@ -913,511 +473,219 @@
       "bbc-world",
       "the-guardian-world",
       "nyt-world"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "Ebola",
-          "zh-TW": "伊波拉病毒"
-        },
-        "blurb": {
-          "en": "Highly infectious, often fatal virus spread through bodily fluids.",
-          "zh-TW": "經體液傳播的高傳染性、常致命病毒。"
-        }
-      },
-      {
-        "term": {
-          "en": "Democratic Republic of Congo",
-          "zh-TW": "剛果民主共和國"
-        },
-        "blurb": {
-          "en": "Central African country; site of the ongoing 17th Ebola outbreak.",
-          "zh-TW": "中非國家，現正爆發第 17 波伊波拉疫情。"
-        }
-      },
-      {
-        "term": {
-          "en": "Kenya Ministry of Health",
-          "zh-TW": "肯亞衛生部"
-        },
-        "blurb": {
-          "en": "Kenya's health authority leading the contact-tracing response.",
-          "zh-TW": "主導接觸者追蹤應對的肯亞衛生主管機關。"
-        }
-      },
-      {
-        "term": {
-          "en": "Contact tracing",
-          "zh-TW": "接觸者追蹤"
-        },
-        "blurb": {
-          "en": "Identifying and monitoring people exposed to an infected patient.",
-          "zh-TW": "找出並監測曾接觸確診者的相關人員。"
-        }
-      }
     ]
   },
   {
-    "id": "live-tech-01-how-to-find-out-if-amazo",
-    "category": "tech",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": false,
-    "imageUrl": "/covers/live/live-tech-01-how-to-find-out-if-amazo.jpg",
-    "imageAlt": {
-      "en": "Cover related to: How to find out if Amazon thinks you have ‘flat buttocks’",
-      "zh-TW": "相關封面圖：如何確定亞馬遜是否認為您有“平坦臀部”"
-    },
-    "publishedAt": "2026-10-06T22:55:39.000Z",
-    "title": {
-      "en": "Amazon's Ad-Profile Page Shows Shoppers What It Assumes About Them",
-      "zh-TW": "亞馬遜（Amazon）廣告偏好頁曝光：連「臀部扁平」都猜得到"
-    },
-    "summary": {
-      "en": "A Threads post went viral after a shopper discovered Amazon's advertising-preferences page, which lists the assumptions the retailer has inferred from purchase history — down to body-shape guesses like 'flat buttocks.' TechCrunch walks through how to find the page and see what Amazon thinks it knows about you.",
-      "zh-TW": "一名網友在 Threads 發文，發現亞馬遜的廣告偏好頁面會列出平台根據購買紀錄對消費者的各種推測，連「臀部扁平」這種身材假設都有，讓她直呼傻眼。科技媒體 TechCrunch 整理了查看方式，教大家查亞馬遜怎麼看你。"
-    },
-    "body": {
-      "en": "What happened\n'I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I'm literally speechless,' one shopper wrote on Threads. The page — Amazon's advertising preferences — lists the inferences the retailer draws from your order history for ad targeting, and the guesses can get uncomfortably personal: in this case, down to a body-shape assumption of 'flat buttocks.' TechCrunch published a how-to explaining where to find the page and what the entries mean.\n\nWhy it matters\nMost shoppers know they are tracked; few have seen the actual dossier. Pages like this make abstract 'data collection' concrete — and concrete is what finally makes people care about ad profiling, opt-outs, and what 'personalized ads' really costs.\n\nSources agree / disagree\nThis is currently a single-outlet story from TechCrunch, built around one viral Threads post; no other allow-listed outlet in the feed cluster has picked it up yet, so there is nothing to cross-check against.\n\nStill uncertain\nHow accurate or comprehensive Amazon's inferences are for any given shopper, and how much of the profile feeds actual ad targeting versus internal analytics, is not detailed in the snippet. Click through to the linked outlet for the full how-to.",
-      "zh-TW": "發生了什麼事\n「我偶然發現一個頁面，上面列著亞馬遜根據我的購買紀錄對我做的各種假設，我真的傻眼，」一名網友在 Threads 上寫道。這個頁面是亞馬遜的廣告偏好設定，列出平台從你的訂單紀錄推斷出的資訊、用於廣告投放，而這些推測可以私密到讓人不舒服：這次的例子連「臀部扁平」這種身材假設都有。TechCrunch 發布了教學，說明去哪裡找到這個頁面、每個項目是什麼意思。\n\n為什麼重要\n多數消費者都知道自己被追蹤，但很少人真的看過這份「檔案」。這類頁面把抽象的「資料蒐集」變得具體——而具體，才是讓人真正開始在意廣告畫像、退出選項，以及「個人化廣告」代價的關鍵。\n\n來源異同\n目前這是科技媒體 TechCrunch 的單一來源報導，圍繞一則爆紅的 Threads 貼文展開，群組內尚無其他白名單媒體跟進，無從交叉比對。\n\n仍不確定\n亞馬遜的推測對個別消費者有多準確、多全面，以及這些畫像有多少真正用於廣告投放、多少只供內部分析，提要都未詳述。請點進連結的媒體看完整教學。"
-    },
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 59,
-    "trustBreakdown": {
-      "sourceDiversity": 8,
-      "outletReputation": 18,
-      "crossCorroboration": 8,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "tech",
-      "live-ingest",
-      "techcrunch"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "Amazon",
-          "zh-TW": "亞馬遜"
-        },
-        "blurb": {
-          "en": "US e-commerce and cloud giant; runs a major ad business.",
-          "zh-TW": "美國電商與雲端巨頭，同時經營龐大的廣告業務。"
-        }
-      },
-      {
-        "term": {
-          "en": "Threads",
-          "zh-TW": "Threads"
-        },
-        "blurb": {
-          "en": "Meta's text-based social app, where the viral post appeared.",
-          "zh-TW": "Meta 旗下的文字社群 App，爆紅貼文的出處。"
-        }
-      },
-      {
-        "term": {
-          "en": "TechCrunch",
-          "zh-TW": "TechCrunch"
-        },
-        "blurb": {
-          "en": "US technology news outlet that published the how-to.",
-          "zh-TW": "發布這篇教學的美國科技新聞媒體。"
-        }
-      },
-      {
-        "term": {
-          "en": "Advertising preferences",
-          "zh-TW": "廣告偏好設定"
-        },
-        "blurb": {
-          "en": "Account page showing the ad-targeting inferences a platform holds about you.",
-          "zh-TW": "顯示平台對你的廣告投放推測的帳號頁面。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-tech-02-apple-is-reportedly-part",
-    "category": "tech",
+    "id": "live-international-02-trump-doesn-t-think-russ",
+    "category": "international",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-tech-02-apple-is-reportedly-part.jpg",
+    "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3744/live/6325d7d0-c18d-11f1-83c7-97e75190a976.png",
     "imageAlt": {
-      "en": "Cover related to: Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "zh-TW": "相關封面圖：據報道，蘋果正與 LG 合作推出智慧鎖、恆溫器和門鈴"
+      "en": "Cover related to: Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+      "zh-TW": "相關封面圖：川普不認為俄羅斯鼠疫事件是生物武器，並計劃週三與普丁通話"
     },
-    "publishedAt": "2026-10-06T22:53:09.000Z",
+    "publishedAt": "2026-10-07T22:20:13.000Z",
     "title": {
-      "en": "Apple and LG Team Up on Smart Home Gear, Starting With Lock, Doorbell, Thermostat",
-      "zh-TW": "蘋果（Apple）攜手樂金（LG）進軍智慧家庭：門鎖、門鈴、恆溫器先行"
+      "en": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+      "zh-TW": "川普不認為俄羅斯鼠疫事件是生物武器，並計劃週三與普丁通話"
     },
     "summary": {
-      "en": "Apple is collaborating with LG on a new smart home lineup — a video doorbell, smart lock, thermostat and indoor camera — per a Bloomberg report cited by TechCrunch, The Verge and Engadget. The LG-branded products will reportedly integrate with Apple's rumored smart home hub, expected at an October 13 event, and could be announced next week.",
-      "zh-TW": "據彭博社報導，蘋果正與樂金合作開發智慧家庭產品線，包括影像門鈴、智慧門鎖、恆溫器與室內攝影機。產品將掛 LG 品牌，同時整合蘋果傳聞中的智慧家庭中樞，預計在 10 月 13 日的發表會亮相，最快下週就會公布。"
+      "en": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "zh-TW": "由於擔心死亡可能是由肺鼠疫引起，人們呼籲俄羅斯提高透明度。"
     },
     "body": {
-      "en": "What happened\nApple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, smart lock, thermostat, and indoor camera, according to a Bloomberg report. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub, which is expected to launch during an event on October 13th. TechCrunch, The Verge and Engadget all carried the story, with The Verge noting the doorbell, cameras, thermostats and more could be announced as soon as next week.\n\nWhy it matters\nApple has long been the missing giant in smart-home hardware: it owns the platform (HomeKit) but barely sells the devices. Partnering with LG — an established appliance maker — lets Apple enter the category fast without building a hardware supply chain from scratch, and gives LG a premium software story it has lacked.\n\nSources agree / disagree\nTechCrunch, The Verge and Engadget all trace the story to the same Bloomberg report and agree on the core details: the LG collaboration, the device lineup, LG branding with Apple hub integration, and the October 13 event timing. None disputes the basic account.\n\nStill uncertain\nPricing, exact launch dates, and whether the smart home hub itself appears at the October 13 event are not in the snippets — 'reportedly' does a lot of work here. Click through to the linked outlets for the latest reporting.",
-      "zh-TW": "發生了什麼事\n據彭博社報導，蘋果正與樂金合作開發一系列智慧家庭裝置，包括影像門鈴、智慧門鎖、恆溫器與室內攝影機。產品將掛 LG 品牌，但會整合蘋果傳聞中的智慧家庭中樞，預計在 10 月 13 日的發表會上亮相。TechCrunch、The Verge 與 Engadget 都跟進了這則消息，The Verge 指出門鈴、攝影機、恆溫器等產品最快下週就會公布。\n\n為什麼重要\n蘋果一直是智慧家庭硬體領域缺席的巨頭：它擁有平台（HomeKit），卻幾乎不賣裝置。與老牌家電廠樂金合作，讓蘋果不必從零建立硬體供應鏈就能快速切入，也給了樂金一個它一直欠缺的高端軟體故事。\n\n來源異同\nTechCrunch、The Verge 與 Engadget 都引述同一篇彭博社報導，核心細節一致：與 LG 的合作、產品陣容、LG 品牌＋蘋果中樞整合，以及 10 月 13 日發表會的時間點。三家都沒有質疑基本說法。\n\n仍不確定\n售價、確切上市日期，以及智慧家庭中樞本身是否會在 10 月 13 日亮相，提要都沒說——「據報導」在這裡承擔了很多。請點進連結的媒體看最新報導。"
-    },
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/"
-      },
-      {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc"
-      },
-      {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2279541/apple-reportedly-worked-with-lg-on-gadgets-for-its-upcoming-smart-home-push/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 17,
-      "crossCorroboration": 22,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "tech",
-      "live-ingest",
-      "techcrunch",
-      "the-verge",
-      "engadget"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "Apple",
-          "zh-TW": "蘋果"
-        },
-        "blurb": {
-          "en": "US tech giant behind the iPhone; pushing into smart-home hardware.",
-          "zh-TW": "iPhone 背後的美國科技巨頭，正進軍智慧家庭硬體。"
-        }
-      },
-      {
-        "term": {
-          "en": "LG",
-          "zh-TW": "樂金"
-        },
-        "blurb": {
-          "en": "South Korean electronics and appliance maker; Apple's hardware partner here.",
-          "zh-TW": "韓國電子與家電大廠，本次蘋果的硬體合作夥伴。"
-        }
-      },
-      {
-        "term": {
-          "en": "Smart home hub",
-          "zh-TW": "智慧家庭中樞"
-        },
-        "blurb": {
-          "en": "Rumored Apple control center tying its smart-home devices together.",
-          "zh-TW": "傳聞中蘋果用來串連智慧家庭裝置的控制中樞。"
-        }
-      },
-      {
-        "term": {
-          "en": "Bloomberg",
-          "zh-TW": "彭博社"
-        },
-        "blurb": {
-          "en": "Financial news agency that broke the collaboration story.",
-          "zh-TW": "率先披露這次合作消息的財經新聞社。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-entertainment-01-jack-white-criticizes-tr",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-01-jack-white-criticizes-tr.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Jack White Criticizes Trump After Iran Remarks About L.A. & San Diego: ‘The Worst American of All Time’",
-      "zh-TW": "相關封面圖：傑克懷特在伊朗有關洛杉磯和聖地亞哥的言論後批評川普：“有史以來最糟糕的美國人”"
-    },
-    "publishedAt": "2026-10-07T00:19:41.000Z",
-    "title": {
-      "en": "Jack White Calls Trump 'Worst American of All Time' Over Iran-L.A. Remarks",
-      "zh-TW": "傑克·懷特（Jack White）批川普伊朗言論：「史上最糟的美國人」"
-    },
-    "summary": {
-      "en": "White Stripes co-founder Jack White blasted Donald Trump in an Instagram post on Tuesday (Oct. 6), after the president suggested at a Nebraska rally that Iran could 'take out' Los Angeles and San Diego. White addressed Republicans and conservatives in the two cities directly; California leaders also condemned the remarks, while the White House dismissed the backlash as a 'media freakout.'",
-      "zh-TW": "白線條樂團共同創辦人傑克·懷特週二（10 月 6 日）在 Instagram 發文痛批唐納·川普（Donald Trump），起因是川普在內布拉斯加造勢場合暗示伊朗可能「拿下」洛杉磯與聖地牙哥。懷特直接向兩市的共和黨人喊話；加州政界領袖也譴責此言論，白宮則稱這是「媒體大驚小怪」。"
-    },
-    "body": {
-      "en": "What happened\nJack White is speaking out after President Donald Trump made controversial remarks about Los Angeles and San Diego during a campaign rally in Nebraska. In an Instagram post on Tuesday (Oct. 6), the White Stripes co-founder directly addressed Republicans and conservatives living in the two Southern California cities, asking how they felt about Trump supposedly suggesting that Iran could attack them — calling the president 'the worst American of all time.' California officials also reacted furiously to Trump targeting San Diego and L.A., while the White House claimed the uproar was a 'media freakout.'\n\nWhy it matters\nWhen a president muses about American cities being attacked by a foreign adversary, it lands differently than ordinary campaign rhetoric — it sounds like a threat assessment. Celebrity pushback like White's amplifies the story beyond political media, forcing the White House to answer audiences it would rather ignore.\n\nSources agree / disagree\nBillboard, Rolling Stone Music and the LA Times all report the same core facts: the Nebraska rally remarks, White's Tuesday Instagram post, and the 'worst American of all time' line. None of the three outlets disputes the basic sequence.\n\nStill uncertain\nWhether the White House offers any fuller explanation of what Trump meant, and whether the remarks draw any formal response from California officials beyond condemnation, is unclear from the snippets. Click through to the linked outlets for the latest reporting.",
-      "zh-TW": "發生了什麼事\n唐納·川普總統在內布拉斯加造勢場合對洛杉磯與聖地牙哥發表爭議言論後，傑克·懷特發聲了。這位白線條樂團共同創辦人週二（10 月 6 日）在 Instagram 發文，直接向居住在南加州這兩座城市的共和黨人與保守派喊話，問他們對川普暗示伊朗可能攻擊他們有何感想，並稱川普是「史上最糟的美國人」。加州官員也對川普點名聖地牙哥與洛杉磯表達強烈不滿，白宮則聲稱這場軒然大波是「媒體大驚小怪」。\n\n為什麼重要\n當總統談論美國城市可能遭外國對手攻擊，聽起來不像一般的競選語言，而像威脅評估。懷特這類名人的反擊把事件放大到政治媒體之外，迫使白宮回應它寧可忽視的受眾。\n\n來源異同\n告示牌（Billboard）、滾石（Rolling Stone）音樂版與洛杉磯時報（LA Times）報導的核心事實一致：內布拉斯加造勢言論、懷特週二的 Instagram 貼文，以及「史上最糟的美國人」這句話。三家都沒有質疑基本經過。\n\n仍不確定\n白宮是否會進一步說明川普的原意，加州官員除了譴責外是否會有正式回應，提要都未交代。請點進連結的媒體看最新報導。"
-    },
-    "sources": [
-      {
-        "name": "Billboard",
-        "url": "https://www.billboard.com/music/rock/jack-white-trump-iran-remarks-la-san-diego-1236355782/"
-      },
-      {
-        "name": "Rolling Stone Music",
-        "url": "https://www.rollingstone.com/music/music-news/jack-white-slams-trump-iran-take-out-los-angeles-san-diego-1235638306/"
-      },
-      {
-        "name": "LA Times California",
-        "url": "https://www.latimes.com/california/story/2026-10-06/take-out-la-or-san-diego-this-buffoon-thinks-trump-was-way-out-of-line"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 17,
-      "crossCorroboration": 22,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "entertainment",
-      "live-ingest",
-      "billboard",
-      "rolling-stone-music",
-      "la-times-california"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "Jack White",
-          "zh-TW": "傑克·懷特"
-        },
-        "blurb": {
-          "en": "US rock musician; co-founder of The White Stripes.",
-          "zh-TW": "美國搖滾音樂人，白線條樂團共同創辦人。"
-        }
-      },
-      {
-        "term": {
-          "en": "The White Stripes",
-          "zh-TW": "白線條樂團"
-        },
-        "blurb": {
-          "en": "Influential American garage-rock duo fronted by Jack White.",
-          "zh-TW": "由傑克·懷特領軍的美國車庫搖滾雙人組。"
-        }
-      },
-      {
-        "term": {
-          "en": "Donald Trump",
-          "zh-TW": "唐納·川普"
-        },
-        "blurb": {
-          "en": "President of the United States; made the Iran remarks at a Nebraska rally.",
-          "zh-TW": "美國總統，在內布拉斯加造勢場合發表伊朗言論。"
-        }
-      },
-      {
-        "term": {
-          "en": "Instagram",
-          "zh-TW": "Instagram"
-        },
-        "blurb": {
-          "en": "Photo- and video-sharing social platform where White posted.",
-          "zh-TW": "懷特發文的照片與影音社群平台。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-entertainment-02-is-christa-pike-still-al",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-02-is-christa-pike-still-al.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Is Christa Pike Still Alive? How She Survived the Failed Execution",
-      "zh-TW": "相關封面圖：克里斯塔·派克還活著嗎？她如何在失敗的處決中倖存下來"
-    },
-    "publishedAt": "2026-10-07T00:56:59.000Z",
-    "title": {
-      "en": "Christa Pike Conscious and Speaking After Surviving Two Lethal Injections",
-      "zh-TW": "克莉絲塔·派克（Christa Pike）在兩次注射死刑失敗後恢復意識並能說話"
-    },
-    "summary": {
-      "en": "Death row inmate Christa Pike is conscious and speaking days after surviving two lethal injections in Tennessee last week, her lawyers say. Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection. She remains hospitalized.",
-      "zh-TW": "死囚克莉絲塔·派克（Christa Pike）上週在田納西州兩度接受注射死刑未果，律師表示她目前已恢復意識並能說話，仍在住院。專家與律師稱這種「復活」前所未見，相信她是已知唯一從注射死刑中存活的人。"
-    },
-    "body": {
-      "en": "What happened\nChrista Pike, the convicted killer on Tennessee's death row, survived two lethal injections last week and is now conscious and speaking, according to her lawyers. She remains hospitalized days after the failed execution. Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.\n\nWhy it matters\nA failed execution is a legal and ethical earthquake: it raises immediate questions about the drugs, the protocol, and the qualifications of the execution team — and about what the state is permitted to do next to a prisoner it has already tried, twice, to kill.\n\nSources agree / disagree\nBBC World, Hollywood Life and CBS News Crime all report the same core facts: the two failed injections in Tennessee last week, Pike's current conscious-and-speaking condition per her lawyers, and the 'only known survivor' assessment. None of the three outlets disputes the basic account.\n\nStill uncertain\nWhy the injections failed, what happens to Pike's death sentence now, and whether the state will attempt another execution are not detailed in the snippets. Click through to the linked outlets for the latest reporting.",
-      "zh-TW": "發生了什麼事\n田納西州死囚、被定罪的殺人犯克莉絲塔·派克上週在兩次注射死刑中存活，律師表示她目前已恢復意識並能說話。行刑失敗數日後，她仍在住院。專家與律師稱這種明顯的「復活」前所未見，並指出她相信是已知唯一從注射死刑中存活的人。\n\n為什麼重要\n行刑失敗是法律與倫理上的大地震：它立刻引發對藥物、程序、行刑團隊資格的質疑——以及對一個州政府接下來能對一名它已兩度試圖處決的囚犯做什麼的疑問。\n\n來源異同\n英國廣播公司（BBC）世界版、Hollywood Life 與哥倫比亞廣播公司（CBS）新聞犯罪版報導的核心事實一致：上週在田納西州的兩次注射失敗、律師所述派克目前清醒能說話的狀態，以及「已知唯一倖存者」的評估。三家都沒有質疑基本說法。\n\n仍不確定\n注射為何失敗、派克的死刑判決接下來會如何、州政府是否會再次行刑，提要都未詳述。請點進連結的媒體看最新報導。"
+      "en": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia. What happened\nTrump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday. Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia. Nearly 200 people were placed under medical observation earlier this week in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague. Retiring Sen. Thom Tillis (R-N.C.) on Wednesday condemned a report that two consultants to President Trump received a large profit from their work advising a pro-Russian government in the Balkans during the U.S. midterm elections cycle. The senator, who serves as co-chair of the Senate NATO Observer Group, called Republika Srpska a “destabilizing force” during... President says Chris LaCivita and James Blair guiding pro-Russian government less than a month before midterms could be a ‘conflict’ Why it matters\nThis cluster was assembled from 4 feed item(s) across 4 outlet(s) (BBC World, CNBC, The Hill, Financial Times) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump to speak to Putin about plague lab worker's death in Russia\" (BBC World); \"Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday\" (CNBC); \"Tillis criticizes Trump advisers for work with Russia-aligned Bosnia group\" (The Hill); \"Trump considers ‘terminating’ campaign advisers after Balkans trip\" (Financial Times).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC World, CNBC, The Hill, Financial Times",
+      "zh-TW": "由於擔心死亡可能是由肺鼠疫引起，人們呼籲俄羅斯提高透明度。 發生了什麼事\n普丁週三計畫與川普通話，川普不認為俄羅斯鼠疫事件是生物武器。由於擔心死亡可能是由肺鼠疫引起，人們呼籲俄羅斯提高透明度。本週早些時候，俄羅斯東西伯利亞伊爾庫茨克地區有近200人因疑似感染鼠疫而接受醫學觀察。即將退休的參議員托姆·蒂利斯（北卡羅來納州共和黨人）週三譴責了一份報告，該報告稱川普總統的兩名顧問在美國中期選舉週期為巴爾幹半島的親俄羅斯政府提供建議，從而獲得了巨額利潤。這位擔任參議院北約觀察員小組聯合主席的參議員稱斯普斯卡共和國是……總統稱克里斯·拉西維塔和詹姆斯·布萊爾在中期選舉前不到一個月指導親俄羅斯政府可能是一場“衝突” 為什麼這很重要\n該集群由 4 個國際頻道（BBC World、CNBC、The Hill、Financial Times）的 4 個提要項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「川普將與普丁談論俄羅斯鼠疫實驗室工作人員的死亡」（BBC World）；「川普不認為俄羅斯鼠疫事件是生物武器，計畫週三與普丁談論俄羅斯鼠疫實驗室工作人員的死亡」（BBC World）；「川普不認為俄羅斯鼠疫事件是生物武器，計畫週三與普丁通話」（CNBC）；「蒂利斯批評川普顧問與俄羅斯結盟的波斯尼亞組織合作」（The Hill）； 「川普考慮在巴爾幹半島之行後「終止」顧問（The Hill）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC World、CNBC、The Hill、Financial Times"
     },
     "sources": [
       {
         "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "name": "Hollywood Life",
-        "url": "https://hollywoodlife.com/2026/10/06/is-christa-pike-still-alive/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html"
       },
       {
-        "name": "CBS News Crime",
-        "url": "https://www.cbsnews.com/video/tennessee-woman-conscious-speaking-execution-attempt-lawyers-say/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 24,
-      "outletReputation": 14,
-      "crossCorroboration": 22,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "entertainment",
-      "live-ingest",
-      "bbc-world",
-      "hollywood-life",
-      "cbs-news-crime"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "Christa Pike",
-          "zh-TW": "克莉絲塔·派克"
-        },
-        "blurb": {
-          "en": "Tennessee death row inmate; survived two lethal injections.",
-          "zh-TW": "田納西州死囚，在兩次注射死刑中存活。"
-        }
+        "name": "The Hill",
+        "url": "https://thehill.com/homenews/senate/6135213-tillis-condemns-trump-consultants/"
       },
       {
-        "term": {
-          "en": "Lethal injection",
-          "zh-TW": "注射死刑"
-        },
-        "blurb": {
-          "en": "Execution method using injected drugs; failed twice in this case.",
-          "zh-TW": "以注射藥物執行的死刑方式，本案兩度失敗。"
-        }
-      },
-      {
-        "term": {
-          "en": "Tennessee",
-          "zh-TW": "田納西州"
-        },
-        "blurb": {
-          "en": "US state where the execution was attempted.",
-          "zh-TW": "執行死刑所在的美國州份。"
-        }
-      },
-      {
-        "term": {
-          "en": "Death row",
-          "zh-TW": "死囚"
-        },
-        "blurb": {
-          "en": "Prisoners held while awaiting execution of a death sentence.",
-          "zh-TW": "等待執行死刑判決的在監囚犯。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-05-ebc-line-today",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-05-ebc-line-today.jpg",
-    "imageAlt": {
-      "en": "Cover related to: 蔡康永現身沈伯洋造勢！唐綺陽力挺喊「民主珍貴」不排斥同台 | EBC 東森娛樂 - LINE TODAY",
-      "zh-TW": "相關封面圖：蔡康永現身沈伯洋造勢！唐綺陽力挺喊「民主珍貴」不排斥同台 | EBC 東森娛樂 - LINE TODAY"
-    },
-    "publishedAt": "2026-10-07T01:23:13.000Z",
-    "title": {
-      "en": "Kevin Tsai's Appearance at Puma Shen Rally Sparks Cross-Strait Backlash",
-      "zh-TW": "蔡康永（Kevin Tsai）現身沈伯洋造勢引發兩岸風波，陶晶瑩緩頰、唐綺陽力挺"
-    },
-    "summary": {
-      "en": "Host Kevin Tsai's appearance at Puma Shen's campaign launch drew fierce backlash from mainland netizens, with endorsements reportedly pulled. Matilda Tao said on a radio show on the 6th that Tsai is thoughtful and urged restraint. Astrologer Jess Tang voiced support, calling democracy precious, while producers say a 'Kangxi' reunion with Dee Hsu will take longer than expected.",
-      "zh-TW": "主持人蔡康永現身沈伯洋競選總部成立大會，引發中國大陸網友強烈反彈，傳出代言遭撤。陶晶瑩 6 日在廣播節目中緩頰，稱蔡康永處事充滿智慧、相信他深思熟慮，呼籲外界別過度揣測。唐綺陽公開力挺，稱「民主珍貴」；製作人則透露，與小 S 的《康熙》合體節目進度沒那麼快。"
-    },
-    "body": {
-      "en": "What happened\nHost Kevin Tsai appeared at the launch rally for Puma Shen's campaign headquarters, setting off a political storm: mainland Chinese netizens reacted fiercely and endorsement deals were reportedly pulled. On the 6th, singer-host Matilda Tao addressed the controversy on her radio show, calling Tsai a master of wisdom and tact who thinks everything through, and urging the public not to over-speculate. Astrologer Jess Tang voiced support, calling democracy precious and saying she would not rule out sharing a stage. Meanwhile, the long-awaited 'Kangxi' reunion between Tsai and Dee Hsu may be delayed by the fallout — producers say the new show's timeline is 'not that soon,' with one noting next year at the earliest and contact already made. A heat-feed headline also noted commentary from the PLA-linked account 'Junzhengping.'\n\nWhy it matters\nTaiwanese entertainers who work both sides of the strait walk a tightrope: one political appearance can cost mainland endorsements overnight. The episode is a fresh case study in how quickly commercial consequences follow political signaling — and in how the island's entertainment circle closes ranks, or doesn't.\n\nSources agree / disagree\nTaiwan outlets agree on the core sequence — Tsai's appearance, the mainland backlash, the pulled endorsements, Tao's on-air defense, and Tang's support. They differ on the 'Kangxi' reunion timeline, with producers giving varying answers from 'not that soon' to early next year.\n\nStill uncertain\nWhether the endorsements were actually pulled or merely rumored, what Shen's campaign makes of the celebrity boost, and when the Tsai–Hsu reunion truly lands are all unclear from the snippets. Click through to the linked outlets for fuller reporting.",
-      "zh-TW": "發生了什麼事\n主持人蔡康永現身沈伯洋競選總部成立大會，引爆政治風暴：中國大陸網友強烈反彈，傳出代言遭撤。6 日，歌手兼主持人陶晶瑩在廣播節目中談及此事，稱蔡康永是充滿智慧與處事藝術的高手，相信他做任何事「都是深思熟慮過」，呼籲外界不要過多揣測。占星師唐綺陽公開力挺，稱「民主珍貴」，不排斥同台。與此同時，蔡康永與小 S 備受期待的《康熙》合體可能受風波影響延期——製作人透露新節目「播出時間沒那麼快」，有人說最快明年初，也證實雙方「有接觸」。熱度新聞標題還提到，共軍背景帳號「鈞正平」也對此表態。\n\n為什麼重要\n在兩岸都有工作的台灣藝人走的是鋼索：一場政治站台，一夜之間就可能丟掉大陸代言。這起事件是商業後果如何緊跟政治表態的最新案例，也看得出台灣演藝圈在風波中如何抱團（或不抱團）。\n\n來源異同\n各台媒對核心經過的描述一致：蔡康永現身、大陸網友炎上、代言遭撤、陶晶瑩節目緩頰、唐綺陽力挺。分歧在《康熙》合體的時間表，製作人說法不一，從「沒那麼快」到明年初都有。\n\n仍不確定\n代言是真的被撤還是傳聞、沈伯洋陣營如何看待這波明星效應、《康熙》合體究竟何時落地，提要都未交代。請點進連結的媒體看更完整的報導。"
-    },
-    "sources": [
-      {
-        "name": "ETtoday 影劇",
-        "url": "https://star.ettoday.net/news/3250278"
-      },
-      {
-        "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VcmVpM0hReDY4a3ltR0VsUWV6VmowcHl1WnJ1UkFfai05YmJ2V1hkVlYya0F4N2NuenMyLUVEVE95MkRORnU2YVZSQTE1QnkwZDA3WW5USXNMc0V4WjNPWVFrNWNfTlJNMmJF0gFfQVVfeXFMTWZaeWxWVExiR2szVWdSbzk5Q1pkVHJjSU1fSWVyYl9TcHYtZE16RDcyOHp2Y1JtQ3dJX2lOOVN1dVU0V3UyYW52eTB0LVpSMWNLVkRpUHJOT1BZVTQ5dVE?oc=5"
-      },
-      {
-        "name": "Yahoo TW 娛樂",
-        "url": "https://tw.news.yahoo.com/%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%8F%BE%E8%BA%AB%E6%B2%88%E4%BC%AF%E6%B4%8B%E9%80%A0%E5%8B%A2%E9%81%AD%E4%B8%AD%E5%9C%8B%E7%82%8E%E4%B8%8A-%E9%99%B6%E6%99%B6%E7%91%A9%E7%99%BC%E8%81%B2-%E4%BB%96%E6%87%89%E8%A9%B2%E6%B7%B1%E6%80%9D%E7%86%9F%E6%85%AE%E9%81%8E-002200735.html"
-      },
-      {
-        "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtLTNaRW9iWmNjU2w2OFJCdE9mU0FOSU55N3dsNjBXNDRXQlktcDZwT29ZZWNWSHRic24ycEFWWkYyYkpBRTBDX21HNTJtbDUySVVMbzVB?oc=5"
-      },
-      {
-        "name": "鉅亨網",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nTXBWaGEtQk1IRW9MVV9qTUFWYUl3bWswQmdVTlJoWllRYWJsOEl1TUdhZTV1cjNWQmt0ZHQza0MwQk13X0tjRUhSQl9QRjA?oc=5"
-      },
-      {
-        "name": "中央社cna",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BLWpDbzJub0lUc2dsVDBvQndTeFJZWk5tZFdtRDFqQ3V4Z1kwZF93UVRtWXhtUmR4Vld6azZQcHVfTWZ2X0lUOEtsWGdzWDJxUEFvM09aRzI4R3AyNFBn?oc=5"
-      },
-      {
-        "name": "震傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MRmI4WlpMTnd2bVd1NG9sS1RkRjZXQ1hjWlN1c2dZT29xaEdwdC1iSVF5aUdEb2dSVWxHYzFuMmI0UVRnQUEwck54OGJwVTI1TWxlSlpWQ2dGVVk?oc=5"
-      },
-      {
-        "name": "setn.com",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RSG5ZTm02TzU1LVF6Tjc0NWZBRmJTZHBoS3JiTG5Bd0t0MzhvOUg3OHZVUXJzWmRVUG5oWWZsWGFETWdPcl9EMXBtN2I?oc=5"
-      },
-      {
-        "name": "udn.com",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81MlVMYkFqM1N5UzZ3Nk1yaGZtWDNpRmJRV2xDcFpLQm5qZWFwdTZrT1lkZzZ2QU90bjdzbnNtYlA3MTdJY2ZmdzF1T21ESVoxVno40gFYQVVfeXFMTm1QbktCVjktUjh6Rm14Y1JfQWluTl9aZFdILVpKVmRLRXZuSzhRNU5raXgwd1VzaGZCOTRtWlpKLXBjVWVadmhMV3l1VjRuS3owb1djVVAxdQ?oc=5"
-      },
-      {
-        "name": "鏡報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rMmVkaGVEcjFRQ3FQTnEzcUhzc1Q4T1k4MnM2eU9jZFBfamNhcVZfaW5qSzIwTzFkcUdzWk9QQXozTURNcnUwUlhobjdJYjBza1E?oc=5"
-      },
-      {
-        "name": "台灣好新聞",
-        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNNTB5M1pCUzFrN3JKXy1PVm8zNGp0ajB4bnF5OTFzSWR0VGx3ekZLTU5Da3NvaXU0NHNDUTVtZDZHV184N1lIR1NDaXVMQW4xZUtJODhOR2dnU2VOTkE3bE14X2hoc25LNXpUX1pPZXQzR0otT0xHZXlleUF0NS1aV01XT0FxTWJOdFpIU3A0WWhZSUtjanJNSWdSQWZPWmU4ZVA5UkEyOF9ETThEcnZKcmQwOE54OUVidmNfZlhWLW5jdWRoSzFQemhtOUl1MnBfQm50SXM5d1F2djZMSzhyUXg2QXVJR3ktZkJTZ1drN1VqbzZ0TXVNVks3dGtHUTUyU01HMEVkV3ZHVjZUZ3p4NWc2ZllWNndwVVFhSHJtR2tSZ3NVQWQwZ2IxR21DTGpWVUFkdzBFbDBoVkxfQURpVlczUkFFWktvMm16TlFyX2x4Z2JsQVdWcllvNkRPX05ZUXo2bGRfeWJlenB3T0dSMEs0NUppcjFqNmJBWnBGRlNrbV9Fd1YtSmpiWWxRaXFaOEs4S041N3RxbHhXbnZjWnlsZDkxMFNicFd5VzN3Q2xUNzBOU2xwNWMzdDBhdmJjRE5nMTk1WFdzdFZoX3BvaXRR?oc=5"
-      },
-      {
-        "name": "民視新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5cWx5bTNGQk1lcGRNcE02MkhSMW5malpqQnBaeUxxM0JCSHEzN1cwNE1nRF9jZlRDUE5SV0pVOG8tWnBfV3FEV084aUgtUVJDc0lCX3ZYaXhjUF9sRjBhQw?oc=5"
-      },
-      {
-        "name": "nownews.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGUzT2JJUndXMmo0UHdLbDFOWThOY282LWQyUUlnSkd6M192TjIyd3FxNElHaFk5aWIyN2FJVWR3NmhocWFuaFZxVTUtUmVXMnRMY3ZjLWsyLVNhcHBvX0VYek1SWDdsMkVvdHl5LTVaV09fVXFHa0FyUFd0dWVyd3NXS24?oc=5"
-      },
-      {
-        "name": "newtalk.tw",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ydGVHZ3ZKTW9DeEM5aG1ERHVnX0gwZDZma1lYUFBCdGxkUFpUQV9zUm9YTkNWWk1rdUJMTkR0Rm1iZ2VwY2w3RVhPN3hINnQxUjNLc25n?oc=5"
+        "name": "Financial Times",
+        "url": "https://www.ft.com/content/ea58254a-947e-4e87-86d2-95ffbd8a1c9d?syn-25a6b1a6=1"
       }
     ],
     "disagreements": null,
     "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 25,
-      "outletReputation": 11,
+      "outletReputation": 18,
+      "crossCorroboration": 25,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "cnbc",
+      "the-hill"
+    ]
+  },
+  {
+    "id": "live-international-03-i-ve-covered-death-row-c",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-03-i-ve-covered-death-row-c.jpg",
+    "imageAlt": {
+      "en": "Cover related to: I’ve Covered Death Row Cases for Nearly a Decade. What Happened to Christa Pike Wasn’t an Anomaly.",
+      "zh-TW": "相關封面圖：我報道死囚案件近十年了。克里斯塔·派克的遭遇並非異常。"
+    },
+    "publishedAt": "2026-10-07T23:43:23.000Z",
+    "title": {
+      "en": "I’ve Covered Death Row Cases for Nearly a Decade. What Happened to Christa Pike Wasn’t an Anomaly.",
+      "zh-TW": "我報道死囚案件近十年了。克里斯塔·派克的遭遇並非異常。"
+    },
+    "summary": {
+      "en": "In our news wrap Wednesday, Christa Pike's lawyers say she is \"angry and confused\" after regaining consciousness following her botched execution, a congressional candidate in Arizona says she was raped while trying to…",
+      "zh-TW": "在我們週三的新聞報導中，克里斯塔·派克的律師表示，她在被處決失敗後恢復知覺後感到“憤怒和困惑”，亞利桑那州的一名國會候選人表示，她在試圖……時被強姦。"
+    },
+    "body": {
+      "en": "In our news wrap Wednesday, Christa Pike's lawyers say she is \"angry and confused\" after regaining consciousness following her botched execution, a congressional candidate in Arizona says she was raped while trying to repair campaign signs and Tropical Storm Isaias is expected to What happened\nI’ve Covered Death Row Cases for Nearly a Decade. What Happened to Christa Pike Wasn’t an Anomaly.. In our news wrap Wednesday, Christa Pike's lawyers say she is \"angry and confused\" after regaining consciousness following her botched execution, a congressional candidate in Arizona says she was raped while trying to repair campaign signs and Tropical Storm Isaias is expected to strengthen into the first hurricane of the 2026 Atlantic season. The death chamber in Huntsville, Texas Joe Raedle/Getty Images Over the course of two hours, witnesses watched and listened as Christa Pike cried, whimpered and snored through Tennessee’s attempt to execute her. By the end of it, executioners had given her two doses of the state’s lethal injection drugs. Her arms were swollen and blistered, and one had turned purple, her attorneys said. And she wa Christa Pike's attorneys accuse Tennessee prison officials of delaying access to their client for over two hours after she regained consciousness on Tuesday following a failed execution attempt. Skyler Henry has more. A week after the failed execution, Pike is awake but is said to be angry and confused. Her lawyers said Wednesday's hearing was about \"transparency.\" (Image credit: George Walker IV) Why it matters\nThis cluster was assembled from 4 feed item(s) across 4 outlet(s) (PBS NewsHour, ProPublica, CBS News Crime, NPR News) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"News Wrap: Lawyer says Christa Pike 'angry and confused' following botched execution\" (PBS NewsHour); \"I’ve Covered Death Row Cases for Nearly a Decade. What Happened to Christa Pike Wasn’t an Anomaly.\" (ProPublica); \"What Christa Pike asked when she woke up from failed execution\" (CBS News Crime); \"Judge orders that Christa Pike execution evidence be preserved\" (NPR News).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): PBS NewsHour, ProPublica, CBS News Crime, NPR News",
+      "zh-TW": "在我們週三的新聞報道中，克里斯塔·派克的律師表示，她在被處決失敗後恢復意識後感到“憤怒和困惑”，亞利桑那州的一名國會候選人表示，她在試圖修復競選標誌時被強姦，熱帶風暴伊薩亞斯預計將 發生了什麼事\n我報道死囚案件近十年了。克里斯塔·派克 (Christa Pike) 身上發生的事情並非異常……在我們週三的新聞報道中，克里斯塔·派克 (Christa Pike) 身上發生的事情並非異常……在我們週三的新聞報道中，克里斯塔·派克 (Christa Pike) 身上發生的事情並非異常……在我們週三的新聞報道中，克里斯塔·派克 (Christa Pike) 身上發生的事情並非異常……在我們週三的新聞報道中，克里斯塔·派克 (Christa Pike) 的律師表示，她在被處決失敗後恢復意識後感到“憤怒和困惑”，亞利桑那州的一名國會候選人表示，她在試圖修復競選標誌時被強姦，熱帶風暴伊薩亞斯預計將增強為 2026 年。德克薩斯州亨茨維爾的死刑室 Joe Raedle/Getty Images 在兩個小時的時間裡，目擊者目睹並聆聽田納西州試圖處決克里斯塔·派克時的哭泣、嗚咽和打鼾。到最後，劊子手給她注射了兩劑該州注射死刑的藥物。她的律師說，她的手臂腫脹、起水泡，其中一隻已經變成紫色。克里斯塔·派克(Christa Pike)的律師指控田納西州監獄官員在她週二恢復知覺後，推遲了兩個多小時的探視。斯凱勒·亨利還有更多。處決失敗一周後，派克醒了，但據說感到憤怒和困惑。她的律師表示，週三的聽證會是關於「透明度」的。 （圖片來源：喬治·沃克四世） 為什麼這很重要\n該集群由國際類別中 4 個媒體（PBS NewsHour、ProPublica、CBS News Crime、NPR News）的 4 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報道了密切相關的頭條新聞：“新聞報道：律師稱克里斯塔·派克在處決失敗後‘憤怒且困惑’”（PBS NewsHour）；“我報道死囚案件近十年了。克里斯塔·派克的遭遇並非異常。” （ProPublica）； “克里斯塔·派克新聞）從失敗的處決中要求“律師”（R NPR ”）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：PBS NewsHour、ProPublica、CBS 新聞犯罪、NPR 新聞"
+    },
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-lawyer-says-christa-pike-angry-and-confused-following-botched-execution"
+      },
+      {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/christa-pike-tennessee-execution-lethal-injection-failure"
+      },
+      {
+        "name": "CBS News Crime",
+        "url": "https://www.cbsnews.com/video/what-christa-pike-asked-woke-up-failed-execution/"
+      },
+      {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 20,
+      "crossCorroboration": 25,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "pbs-newshour",
+      "propublica",
+      "cbs-news-crime"
+    ]
+  },
+  {
+    "id": "live-taiwan-02-asian-wheat-buyers-cut-f",
+    "category": "taiwan",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "publishedAt": "2026-10-08T00:31:40.000Z",
+    "title": {
+      "en": "Asian Wheat Buyers Cut Forward Purchases as War Whipsaws Markets",
+      "zh-TW": "戰爭衝擊市場，亞洲小麥買家減少採購"
+    },
+    "summary": {
+      "en": "Asian stocks declined, tracking moves on Wall Street, as elevated oil prices stoked inflation concerns and technology shares came under renewed pressure.",
+      "zh-TW": "亞洲股市跟隨華爾街走勢下跌，因油價上漲引發通膨擔憂，科技股再次承壓。"
+    },
+    "body": {
+      "en": "Asian stocks declined, tracking moves on Wall Street, as elevated oil prices stoked inflation concerns and technology shares came under renewed pressure. What happened\nAsian Wheat Buyers Cut Forward Purchases as War Whipsaws Markets. Asian stocks declined, tracking moves on Wall Street, as elevated oil prices stoked inflation concerns and technology shares came under renewed pressure. Asian wheat millers are cutting forward commitments as prices soar, with Black Sea disruptions choking supplies from one of the world’s top exporting regions. Japanese stocks fell for a second day, tracking a Wall Street selloff as persistently high oil prices revived inflation concerns and weighed on equities near record highs. Why it matters\nThis cluster was assembled from 3 feed item(s) across 1 outlet(s) (Bloomberg Markets) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Asian Stocks Drop as Oil Stokes Inflation Worries: Markets Wrap\" (Bloomberg Markets); \"Asian Wheat Buyers Cut Forward Purchases as War Whipsaws Markets\" (Bloomberg Markets); \"Japanese Stocks Fall as Inflation Fears Hit Cyclical Shares\" (Bloomberg Markets).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Bloomberg Markets",
+      "zh-TW": "亞洲股市跟隨華爾街走勢下跌，因油價上漲引發通膨擔憂，科技股再次承壓。 發生了什麼事\n由於戰爭衝擊市場，亞洲小麥買家減少採購。亞洲股市跟隨華爾街走勢下跌，因油價上漲引發通膨擔憂，科技股再次承壓。隨著價格飆升，亞洲小麥磨坊主正在削減承諾，黑海擾亂導致世界最大出口地區之一的供應受到阻礙。日本股市連續第二天下跌，追隨華爾街的拋售，因持續高企的油價重燃通膨擔憂，並打壓股市接近歷史高點。 為什麼這很重要\n此集群由台灣類別 1 個銷售點（彭博市場）的 3 個飼料項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「由於石油引發通膨擔憂，亞洲股市下跌：市場結束」（彭博市場）；「亞洲小麥買家削減購買量，因為戰爭導致市場受到衝擊」（彭博市場）； 「由於通膨擔憂打擊週期性股票，日本股市下跌」（彭博市場）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：彭博市場"
+    },
+    "sources": [
+      {
+        "name": "Bloomberg Markets",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 59,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 22,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "taiwan",
+      "live-ingest",
+      "bloomberg-markets",
+      "bloomberg-markets",
+      "bloomberg-markets"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-05-7-4-ettoday-ettoday",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-eastAsiaGossip-05-7-4-ettoday-ettoday.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday星光雲| ETtoday新聞雲",
+      "zh-TW": "相關封面圖：7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday星光雲| ETtoday新聞雲"
+    },
+    "publishedAt": "2026-10-08T01:02:00.000Z",
+    "title": {
+      "en": "7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday星光雲| ETtoday新聞雲",
+      "zh-TW": "7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday星光雲| ETtoday新聞雲"
+    },
+    "summary": {
+      "en": "南韓戀愛實境秀《換乘戀愛》捧紅無數素人情侶檔，第4季的情侶檔鄭元奎、朴智賢選擇復合，離開節目後透過YouTube頻道放閃，情侶倆也坦承有結婚意願，智賢於7月才剛親口證實即將結婚，怎料，7日卻傳來分手消息，她透過影片證實「我們絕對不再交往了，雖然分手了，我希望元奎哥哥之後過得好也過得幸福」，令大批粉絲震撼不已。 《詳全文...》",
+      "zh-TW": "南韓戀愛實境秀《換乘戀愛》捧紅無數素人情侶檔，第4季的情侶檔鄭元奎、朴智賢選擇復合，離開節目後透過YouTube頻道放閃，情侶倆也坦承有結婚意願，智賢於7月才剛親口證實即將結婚，怎料，7日卻傳來分手消息，她透過影片證實「我們絕對不再交往了，雖然分手了，我希望元奎哥哥之後過得好也過得幸福」，令大批粉絲震撼不已。 《詳全文...》"
+    },
+    "body": {
+      "en": "南韓戀愛實境秀《換乘戀愛》捧紅無數素人情侶檔，第4季的情侶檔鄭元奎、朴智賢選擇復合，離開節目後透過YouTube頻道放閃，情侶倆也坦承有結婚意願，智賢於7月才剛親口證實即將結婚，怎料，7日卻傳來分手消息，她透過影片證實「我們絕對不再交往了，雖然分手了，我希望元奎哥哥之後過得好也過得幸福」，令大批粉絲震撼不已。 《詳全文...》 What happened\n7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday星光雲| ETtoday新聞雲. 南韓戀愛實境秀《換乘戀愛》捧紅無數素人情侶檔，第4季的情侶檔鄭元奎、朴智賢選擇復合，離開節目後透過YouTube頻道放閃，情侶倆也坦承有結婚意願，智賢於7月才剛親口證實即將結婚，怎料，7日卻傳來分手消息，她透過影片證實「我們絕對不再交往了，雖然分手了，我希望元奎哥哥之後過得好也過得幸福」，令大批粉絲震撼不已。 《詳全文...》 7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 ETtoday星光雲| ETtoday新聞雲 從論及婚嫁到分手僅3個月！朴智賢心碎發聲：希望元奎哥哥幸福 Yahoo新聞 《換乘戀愛4》智賢證實分手元奎！7月才說要結婚 哽咽祝他能幸福 NOWnews今日新聞 7月才喊結婚！《換乘4》智賢鏡頭前哽咽落淚認分手：我們不再交往了 TVBS新聞網 才喊「快了」卻分手！《換乘4》元奎、智賢復合又破局 她忍淚告白：原本想著不能哭 鏡週刊Mirror Media Why it matters\nThis cluster was assembled from 6 feed item(s) across 6 outlet(s) (ETtoday 影劇, Google News TW Entertainment, Yahoo TW 娛樂, Google News TW 娛樂, GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福\" (ETtoday 影劇); \"7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday星光雲| ETtoday新聞雲\" (Google News TW Entertainment); \"才喊「快了」卻分手！《換乘4》元奎、智賢復合又破局　她忍淚告白：原本想著不能哭\" (Yahoo TW 娛樂); \"7月才喊結婚！《換乘4》智賢鏡頭前哽咽落淚認分手：我們不再交往了 - TVBS新聞網\" (Google News TW 娛樂); \"7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday新聞雲\" (GNews site:ettoday 分手/復合/婚).\nFigures differ across outlets (e.g. 7 vs 3 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): ETtoday 影劇, Google News TW Entertainment, Yahoo TW 娛樂, Google News TW 娛樂, GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚 Additional feed context\n(1) 南韓戀愛實境秀《換乘戀愛》捧紅無數素人情侶檔，第4季的情侶檔鄭元奎、朴智賢選擇復合，離開節目後透過YouTube頻道放閃，情侶倆也坦承有結婚意願，智賢於7月才剛親口證實即將結婚，怎料，7日卻傳來分手消息，她透過影片證實「我們絕對不再交往了，雖然分手了，我希望元奎哥哥之後過得好也過得幸福」，令大批粉絲震撼不已。 《詳全文...》\n(2) 7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 ETtoday星光雲| ETtoday新聞雲 從論及婚嫁到分手僅3個月！朴智賢心碎發聲：希望元奎哥哥幸福 Yahoo新聞 《換乘戀愛4》智賢證實分手元奎！7月才說要結婚 哽咽祝他能幸福 NOWnews今日新聞 7月才喊結婚！《換乘4》智賢鏡頭前哽咽落淚認分手：我們不再交往了 TVBS新聞網 才喊「快了」卻分手！《換乘4》元奎、智賢復合又破局 她忍淚告白：原本想著不能哭 鏡週刊Mirror Media\n(3)",
+      "zh-TW": "南韓戀愛實境秀《換乘戀愛》捧紅無數素人情侶檔，第4季的情侶檔鄭元奎、朴智賢選擇復合，離開節目後透過YouTube頻道放閃，情侶倆也坦承有結婚意願，智賢於7月才剛親口證實即將結婚，怎料，7日卻傳來分手消息，她透過影片證實「我們絕對不再交往了，雖然分手了，我希望元奎哥哥之後過得好也過得幸福」，令大批粉絲震撼不已。 《詳全文...》 What happened\n7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday星光雲| ETtoday新聞雲. 南韓戀愛實境秀《換乘戀愛》捧紅無數素人情侶檔，第4季的情侶檔鄭元奎、朴智賢選擇復合，離開節目後透過YouTube頻道放閃，情侶倆也坦承有結婚意願，智賢於7月才剛親口證實即將結婚，怎料，7日卻傳來分手消息，她透過影片證實「我們絕對不再交往了，雖然分手了，我希望元奎哥哥之後過得好也過得幸福」，令大批粉絲震撼不已。 《詳全文...》 7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 ETtoday星光雲| ETtoday新聞雲 從論及婚嫁到分手僅3個月！朴智賢心碎發聲：希望元奎哥哥幸福 Yahoo新聞 《換乘戀愛4》智賢證實分手元奎！7月才說要結婚 哽咽祝他能幸福 NOWnews今日新聞 7月才喊結婚！《換乘4》智賢鏡頭前哽咽落淚認分手：我們不再交往了 TVBS新聞網 才喊「快了」卻分手！《換乘4》元奎、智賢復合又破局 她忍淚告白：原本想著不能哭 鏡週刊Mirror Media Why it matters\nThis cluster was assembled from 6 feed item(s) across 6 outlet(s) (ETtoday 影劇, Google News TW Entertainment, Yahoo TW 娛樂, Google News TW 娛樂, GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福\" (ETtoday 影劇); \"7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday星光雲| ETtoday新聞雲\" (Google News TW Entertainment); \"才喊「快了」卻分手！《換乘4》元奎、智賢復合又破局　她忍淚告白：原本想著不能哭\" (Yahoo TW 娛樂); \"7月才喊結婚！《換乘4》智賢鏡頭前哽咽落淚認分手：我們不再交往了 - TVBS新聞網\" (Google News TW 娛樂); \"7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday新聞雲\" (GNews site:ettoday 分手/復合/婚).\nFigures differ across outlets (e.g. 7 vs 3 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): ETtoday 影劇, Google News TW Entertainment, Yahoo TW 娛樂, Google News TW 娛樂, GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚 Additional feed context\n(1) 南韓戀愛實境秀《換乘戀愛》捧紅無數素人情侶檔，第4季的情侶檔鄭元奎、朴智賢選擇復合，離開節目後透過YouTube頻道放閃，情侶倆也坦承有結婚意願，智賢於7月才剛親口證實即將結婚，怎料，7日卻傳來分手消息，她透過影片證實「我們絕對不再交往了，雖然分手了，我希望元奎哥哥之後過得好也過得幸福」，令大批粉絲震撼不已。 《詳全文...》\n(2) 7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 ETtoday星光雲| ETtoday新聞雲 從論及婚嫁到分手僅3個月！朴智賢心碎發聲：希望元奎哥哥幸福 Yahoo新聞 《換乘戀愛4》智賢證實分手元奎！7月才說要結婚 哽咽祝他能幸福 NOWnews今日新聞 7月才喊結婚！《換乘4》智賢鏡頭前哽咽落淚認分手：我們不再交往了 TVBS新聞網 才喊「快了」卻分手！《換乘4》元奎、智賢復合又破局 她忍淚告白：原本想著不能哭 鏡週刊Mirror Media\n(3)"
+    },
+    "sources": [
+      {
+        "name": "ETtoday 影劇",
+        "url": "https://star.ettoday.net/news/3250983"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Zd1U3VFdnZjBTVEU3SW9iWFFEUzJYME5keVlfVlhURmZMSkdhLThxallKaFJOeXVOaS1NZDFUSVRSTlJlMFpJUjRtT3BPZ9IBTEFVX3lxTFBFUlhXZjNKWEtsemNwR29HZ0RxajA3X0tOM2RtM3p3Mm55NmJ1Q3RxRXk0UXJiLUdKUjFVQmVZQ2JlS3BIdUgwSmF1a3A?oc=5"
+      },
+      {
+        "name": "Yahoo TW 娛樂",
+        "url": "https://tw.news.yahoo.com/%E6%89%8D%E5%96%8A-%E5%BF%AB%E4%BA%86-%E5%8D%BB%E5%88%86%E6%89%8B-%E6%8F%9B%E4%B9%984-%E5%85%83%E5%A5%8E-231600148.html"
+      },
+      {
+        "name": "Google News TW 娛樂",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82TWc2VnBkTzFqWEhTNmhWajVRTzY4ZUtfOVQ2ZVlTY1dKSkJJZ0h6YzBEU2NXRjVUSmRwcThHYkZPbjBZUE5jUzR1bVN6T2kyUTlOZS1Tc2hMNkF1ZlVLNUtYbw?oc=5"
+      },
+      {
+        "name": "setn.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFRWhxdnktb0NRRGlXcHFmVlBRV3hkZUp4NUhfX2luUGNyZDJVdWpKQmNZOHU5TVBsNWdtOEFFRkpfMDBpeWJ2aNIBTEFVX3lxTE1FZktxNVI3NTJYWkEtb1paMWJHMGlzU3RIdlZDNEl0N3EtdnZvc0pHMjB5N2NpdHFfdV9aRVg0VjhpNDZPS2ktZlphSzk?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 7 vs 3 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 7 比 3）。"
+    },
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 17,
       "crossCorroboration": 17,
       "recencyClarity": 25
     },
@@ -1429,58 +697,149 @@
       "google-news-tw-entertainment",
       "yahoo-tw-娛樂"
     ],
-    "region": "tw",
-    "glossary": [
+    "region": "tw"
+  },
+  {
+    "id": "live-entertainment-01-we-re-all-jane-doe-how-t",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-01-we-re-all-jane-doe-how-t.jpg",
+    "imageAlt": {
+      "en": "Cover related to: We’re All Jane Doe: How To Center Survivors When Talking About The Cornell 7 Rape Case",
+      "zh-TW": "相關封面圖：我們都是無名氏：在談論康乃爾大學 7 號強暴案時如何讓倖存者居中"
+    },
+    "publishedAt": "2026-10-07T23:36:23.000Z",
+    "title": {
+      "en": "We’re All Jane Doe: How To Center Survivors When Talking About The Cornell 7 Rape Case",
+      "zh-TW": "我們都是無名氏：在談論康乃爾大學 7 號強暴案時如何讓倖存者居中"
+    },
+    "summary": {
+      "en": "The woman at the center of an alleged gang rape at Cornell University has been facing threats to her family home, according to her attorney. Lilia Luciano reports from Ithaca, New York.",
+      "zh-TW": "據她的律師稱，康奈爾大學涉嫌輪姦案中的這名婦女的家一直面臨威脅。莉莉亞·盧西亞諾從紐約伊薩卡報道。"
+    },
+    "body": {
+      "en": "The woman at the center of an alleged gang rape at Cornell University has been facing threats to her family home, according to her attorney. Lilia Luciano reports from Ithaca, New York. What happened\nWe’re All Jane Doe: How To Center Survivors When Talking About The Cornell 7 Rape Case. The woman at the center of an alleged gang rape at Cornell University has been facing threats to her family home, according to her attorney. Lilia Luciano reports from Ithaca, New York. An attorney for one of the men accused in the Cornell 7 rape case is asking a judge to officially block New York Attorney General Letitia James from running the criminal investigation ... claiming her public comments create an appearance of bias.&hellip; Content warning: This article contains descriptions of or allusions to rape and sexual abuse. This is an op-ed by Farrah Khan, a consent educator, gender justice advocate for sexual assault survivors and survivor herself. By now, you’ve probably seen the headlines. It’s the most talked-about court case in the world: About a week after a fraternity party at Cornell in October 2024, Jane Doe was scr Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (CBS News Crime, TMZ, Refinery29) in the entertainment category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Jane Doe in Cornell case facing multiple threats, attorney says\" (CBS News Crime); \"Cornell Rape Case Defendant's Lawyer Moves to Block Letitia James From Running Investigation\" (TMZ); \"We’re All Jane Doe: How To Center Survivors When Talking About The Cornell 7 Rape Case\" (Refinery29).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): CBS News Crime, TMZ, Refinery29",
+      "zh-TW": "據她的律師稱，康奈爾大學涉嫌輪姦案中的這名婦女的家一直面臨威脅。莉莉亞·盧西亞諾從紐約伊薩卡報道。 發生了什麼事\n我們都是無名氏：在談論康乃爾大學 7 號強暴案時如何讓倖存者居中。據她的律師稱，康奈爾大學涉嫌輪姦案中的這名婦女的家一直面臨威脅。莉莉亞·盧西亞諾從紐約伊薩卡報道。康奈爾七號強姦案中一名被告的律師要求法官正式阻止紐約總檢察長利蒂西亞·詹姆斯開展刑事調查……聲稱她的公開評論造成了偏見……內容警告：本文包含對強姦和性虐待的描述或暗示。這是法拉汗 (Farrah Khan) 的一篇專欄文章，她是一名同意教育者、性侵犯倖存者的性別正義倡導者和倖存者本人。到目前為止，您可能已經看到了頭條新聞。這是世界上最受關注的法庭案件：2024 年 10 月在康奈爾大學舉行的兄弟會聚會後大約一周，簡·多伊 (Jane Doe) 被法庭審訊。 為什麼這很重要\n此集群由娛樂類別中 3 個頻道（CBS News Crime、TMZ、Refinery29）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多個媒體報導了密切相關的頭條新聞：「律師聲稱，康奈爾大學案件中的無名氏面臨多重威脅」（哥倫比亞廣播公司犯罪新聞）；「康奈爾強奸案被告的律師採取行動阻止利蒂西亞·詹姆斯進行調查」（TMZ）；「我們都是無名氏：在談論康奈爾大學 7 號強姦案時如何以倖存者為中心」（Refinery29）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：CBS News Crime、TMZ、Refinery29"
+    },
+    "sources": [
       {
-        "term": {
-          "en": "Kevin Tsai",
-          "zh-TW": "蔡康永"
-        },
-        "blurb": {
-          "en": "Taiwanese TV host; his rally appearance sparked the controversy.",
-          "zh-TW": "台灣主持人，現身造勢引發風波的主角。"
-        }
+        "name": "CBS News Crime",
+        "url": "https://www.cbsnews.com/video/jane-doe-cornell-case-facing-multiple-threats-attorney-says/"
       },
       {
-        "term": {
-          "en": "Puma Shen",
-          "zh-TW": "沈伯洋"
-        },
-        "blurb": {
-          "en": "Taiwanese politician whose campaign launch Tsai attended.",
-          "zh-TW": "台灣政治人物，蔡康永出席其競選總部成立大會。"
-        }
+        "name": "TMZ",
+        "url": "https://www.tmz.com/2026/10/07/gillio-lopes-wants-letitia-james-removed-from-cornell-investigation/"
       },
       {
-        "term": {
-          "en": "Matilda Tao",
-          "zh-TW": "陶晶瑩"
-        },
-        "blurb": {
-          "en": "Taiwanese singer-host who defended Tsai on her radio show.",
-          "zh-TW": "在廣播節目中為蔡康永緩頰的台灣歌手兼主持人。"
-        }
-      },
-      {
-        "term": {
-          "en": "Jess Tang",
-          "zh-TW": "唐綺陽"
-        },
-        "blurb": {
-          "en": "Taiwan astrologer who voiced support, calling democracy precious.",
-          "zh-TW": "公開力挺、稱「民主珍貴」的台灣占星師。"
-        }
-      },
-      {
-        "term": {
-          "en": "Kangxi Lai Le",
-          "zh-TW": "《康熙來了》"
-        },
-        "blurb": {
-          "en": "Classic variety show co-hosted by Tsai and Dee Hsu; a reunion is planned.",
-          "zh-TW": "蔡康永與小 S 共同主持的經典綜藝，傳將合體復出。"
-        }
+        "name": "Refinery29",
+        "url": "https://www.refinery29.com/en-us/help-survivors-the-cornell-7-rape-case?utm_source=feed&utm_medium=rss"
       }
+    ],
+    "disagreements": null,
+    "trustScore": 45,
+    "trustBreakdown": {
+      "sourceDiversity": 21,
+      "outletReputation": 17,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "cbs-news-crime",
+      "tmz",
+      "refinery29"
+    ]
+  },
+  {
+    "id": "live-entertainment-02-charlotte-tilbury-is-on-",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-02-charlotte-tilbury-is-on-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Charlotte Tilbury Is On Sale For Prime Big Deal Days – Here’s What A Beauty Editor Would Buy",
+      "zh-TW": "相關封面圖：Charlotte Tilbury 在 Prime Big Deal Day 期間打折——這是美容編輯會買的東西"
+    },
+    "publishedAt": "2026-10-08T01:39:00.000Z",
+    "title": {
+      "en": "Charlotte Tilbury Is On Sale For Prime Big Deal Days – Here’s What A Beauty Editor Would Buy",
+      "zh-TW": "Charlotte Tilbury 在 Prime Big Deal Day 期間打折——這是美容編輯會買的東西"
+    },
+    "summary": {
+      "en": "Anker’s 45W charger is less than $50 during Amazon’s October sale. In fact, you can get two for under $50. Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfu…",
+      "zh-TW": "Anker 的 45W 充電器在亞馬遜 10 月促銷期間售價不到 50 美元。事實上，您可以花不到 50 美元購買兩個。參加 Prime Day 活動並不一定會導致錢包空空。就在我們發現了幾手的時候…"
+    },
+    "body": {
+      "en": "Anker’s 45W charger is less than $50 during Amazon’s October sale. In fact, you can get two for under $50. Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25 , there are plenty of deals du What happened\nCharlotte Tilbury Is On Sale For Prime Big Deal Days – Here’s What A Beauty Editor Would Buy. Anker’s 45W charger is less than $50 during Amazon’s October sale. In fact, you can get two for under $50. Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25 , there are plenty of deals during Amazon’s October sale that are $50 or less, many of which offer a lot of practical value. Everything from chargers Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day . The 55-inch Pro Series OLED is $699.99 at Amazon , which is 30 percent off its list price. The 65-inch model is $799.99, which is $400 off its list price, also at Amazon . Both models support a native Building a PC is a great experience. We sit there with a spreadsheet and multiple browser tabs, pouring over the best CPUs, the best GPUs , PC cases , motherboards , RAM deals, and many more components. The package arrives, and we are excitedly tearing into the boxes, putting the parts on the table, and we are ready to build! We reach into the toolkit and dig out the rusty old screwdriver we used AI may be taking our jobs, our RAM, and our storage... but there's always a light at the end of the tunnel. Amazon's Prime Day invariably triggers a rash of discounts at other retailers, and we just found the best SSD deal you'll come across until Black Friday at the earliest. The Teamgroup T-Force G50 Evo is a 4 TB solid-state drive with a PCIe 4.0 NVMe interface that can be yours for only $399.9 Why it matters\nThis cluster was assembled from 35 feed item(s) across 11 outlet(s) (The Verge, Tom's Hardware, Billboard, TMZ, Hollywood Life, Just Jared, Allure, Fashionista, Refinery29, 9to5Toys, CNET Deals) in the entertainment category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"We found some great October Prime Day deals under $50\" (The Verge); \"Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700\" (The Verge); \"These are the best Prime Day deals I've found on tools I use to maintain my PC\" (Tom's Hardware); \"This is the cheapest 4TB SSD for Prime Day at only 10 cents per gigabyte\" (Tom's Hardware); \"These Popular Kids’ Halloween Costumes Are Over 60% Off This October Prime Day, From ‘Wicked’ to ‘Descendants’\" (Billboard).\nFigures differ across outlets (e.g. 50 vs 400 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Verge, Tom's Hardware, Billboard, TMZ, Hollywood Life, Just Jared, Allure, Fashionista, Refinery29, 9to5Toys, CNET Deals",
+      "zh-TW": "Anker 的 45W 充電器在亞馬遜 10 月促銷期間售價不到 50 美元。事實上，您可以花不到 50 美元購買兩個。參加 Prime Day 活動並不一定會導致錢包空空。正如我們發現了一些低於 25 美元的好東西一樣，還有很多優惠活動 發生了什麼事\nCharlotte Tilbury 將於 Prime Big Deal Day 促銷——以下是美容編輯會購買的產品。 Anker 的 45W 充電器在亞馬遜 10 月促銷期間售價不到 50 美元。事實上，您可以花不到 50 美元購買兩個。參加 Prime Day 活動並不一定會導致錢包空空。正如我們發現了一些低於 25 美元的好東西一樣，亞馬遜 10 月促銷期間也有很多 50 美元或以下的優惠，其中許多都具有很大的實用價值。就在一週前，我們在亞馬遜報導了一項促銷活動，Roku 的新款（也是首款）OLED 電視降價約 30%。該優惠已過期，但已在 10 月 Prime Day 的最後一天恢復。 55 吋 Pro 系列 OLED 在亞馬遜的售價為 699.99 美元，比標價低 30%。 65 吋型號的售價為 799.99 美元，比亞馬遜的價格低 400 美元。兩種型號都支援本機構建造 PC 是一種很棒的體驗。我們坐在那裡，拿著電子表格和多個瀏覽器選項卡，瀏覽最好的 CPU、最好的 GPU、PC 機箱、主機板、RAM 交易以及更多組件。包裹到達，我們興奮地撕開盒子，將零件放在桌子上，我們就可以開始建造了！我們把手伸進工具箱，挖出我們使用的生鏽的舊螺絲刀，人工智慧可能會奪走我們的工作、我們的記憶體和我們的儲存…但隧道盡頭總有一線光明。亞馬遜的 Prime Day 總是會引發其他零售商的大量折扣，我們剛剛找到了最早在黑色星期五之前您會遇到的最佳 SSD 優惠。 Teamgroup T-Force G50 Evo 是一款 4 TB 固態硬碟，配備 PCIe 4.0 NVMe 接口，只需 399.9 美元 為什麼這很重要\n該集群由娛樂類別中 11 個頻道（The Verge、Tom's Hardware、Billboard、TMZ、Hollywood Life、Just Jared、Allure、Fashionista、Refinery29、9to5Toys、CNET Deals）的 35 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「我們發現一些低於 50 美元的 10 月 Prime 會員日優惠」（The Verge）；「Roku 的 OLED 電視在 Prime Day 期間最高可優惠 400 美元，起價為 700 美元」（The Verge）； 「這些是我在維護 PC 的最便宜」的工具上找到 PC 最便宜的 Prime； SSD，每 GB 僅需 10 美分」（Tom's Hardware）； 「這些受歡迎的兒童萬聖節服裝在今年 10 月 Prime Day 折扣超過 60%，從『邪惡』到『後裔』」（公告牌）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 50 與 400）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限頻道名稱）：The Verge、Tom's Hardware、Billboard、TMZ、Hollywood Life、Just Jared、Allure、Fashionista、Refinery29、9to5Toys、CNET Deals"
+    },
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50"
+      },
+      {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/desktops/pc-building/these-are-the-best-prime-day-deals-ive-found-on-tools-i-use-to-maintain-my-pc-from-screwdrivers-to-air-blowers-these-tools-will-keep-your-pc-in-tip-top-shape"
+      },
+      {
+        "name": "Billboard",
+        "url": "https://www.billboard.com/culture/product-recommendations/kids-halloween-costumes-prime-big-deal-days-2026-shop-sales-1236356596/"
+      },
+      {
+        "name": "TMZ",
+        "url": "https://www.tmz.com/2026/10/07/october-prime-day-deals-fall-fashion/"
+      },
+      {
+        "name": "Hollywood Life",
+        "url": "https://hollywoodlife.com/feature/carrie-tv-series-cast-5561741/"
+      },
+      {
+        "name": "Just Jared",
+        "url": "https://www.justjared.com/2026/10/07/minka-kelly-dating-history-full-list-of-famous-ex-boyfriends-timeline-revealed/"
+      },
+      {
+        "name": "Allure",
+        "url": "https://www.allure.com/story/best-amazon-prime-day-mature-beauty-deals-10-07-26"
+      },
+      {
+        "name": "Fashionista",
+        "url": "https://fashionista.com/2026/10/laifen-prime-day-sale"
+      },
+      {
+        "name": "Refinery29",
+        "url": "https://www.refinery29.com/en-us/best-amazon-prime-day-beauty-deals?utm_source=feed&utm_medium=rss"
+      },
+      {
+        "name": "9to5Toys",
+        "url": "https://9to5toys.com/2026/10/07/last-call-only-hours-remain-on-the-2026-amazon-fall-prime-day-event/"
+      },
+      {
+        "name": "CNET Deals",
+        "url": "https://www.cnet.com/deals/tcl-tablets-phones-prime-day-deals/"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 50 vs 400 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 50 與 400）。"
+    },
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 14,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "the-verge",
+      "the-verge",
+      "tom's-hardware"
     ]
   }
 ]
