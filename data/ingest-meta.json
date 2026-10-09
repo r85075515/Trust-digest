@@ -1,19 +1,21 @@
 {
-  "ingestedAt": "2026-10-08T01:45:33.773Z",
-  "feedOk": 47,
-  "feedTotal": 52,
-  "rawItems": 542,
-  "mainStories": 15,
+  "ingestedAt": "2026-10-09T01:47:11.907Z",
+  "feedOk": 110,
+  "feedTotal": 112,
+  "rawItems": 977,
+  "mainStories": 14,
   "byCategory": {
     "international": 3,
-    "eastAsiaGossip": 4,
-    "ai": 2,
-    "finance": 2,
     "tech": 2,
-    "entertainment": 2
+    "eastAsiaGossip": 3,
+    "taiwan": 1,
+    "energy": 1,
+    "entertainment": 2,
+    "semiconductor": 1,
+    "finance": 1
   },
   "eastAsiaByRegion": {
-    "tw": 4
+    "tw": 3
   },
   "heatSourcesShipped": [
     "ptt",
@@ -21,16 +23,14 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
+    "美國將直播死",
+    "刑槍決過程",
     "蔡康永現身競",
-    "藝人參與政治",
-    "你怎麼看",
-    "錫蘭直播開嗆"
+    "藝人參與政治"
   ],
-  "heatNewsInjected": 47,
+  "heatNewsInjected": 46,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat",
-  "rewrittenAt": "2026-10-08T15:04:31.695Z",
-  "rewrittenBy": "fleet-worker"
+  "mode": "extractive+translate+rss+heat"
 }
