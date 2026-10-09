@@ -1,176 +1,603 @@
 [
   {
-    "id": "live-eastAsiaGossip-02-ai-2-56",
-    "category": "eastAsiaGossip",
+    "id": "live-international-01-2-latvians-arrested-afte",
+    "category": "international",
     "adult": false,
-    "isHeadline": false,
+    "isHeadline": true,
     "isPopular": true,
-    "publishedAt": "2026-10-01T12:00:40.000Z",
+    "imageUrl": "/covers/live/live-international-01-2-latvians-arrested-afte.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
+      "zh-TW": "相關封面圖：2 名拉脫維亞人在突破美國使用的英國皇家空軍莫爾斯沃思空軍基地的邊界後被捕"
+    },
+    "publishedAt": "2026-10-08T21:27:17.000Z",
     "title": {
-      "en": "AI Job Fears Grip Taiwan: Survey Says Workers Expect Roles to Change Within 2.56 Years",
-      "zh-TW": "「你怕被 AI 取代嗎」上班族估 2.56 年內工作將被改變：外媒點名 6 大高危險職業"
+      "en": "Two Latvians Arrested Inside RAF Molesworth Perimeter, a UK Base Used by the US",
+      "zh-TW": "2 名拉脫維亞人闖入美軍使用的英國皇家空軍莫爾斯沃思（RAF Molesworth）基地被捕"
     },
     "summary": {
-      "en": "Taiwanese media are amplifying a foreign report naming six occupations most at risk from AI, claiming nearly 70% of people could face joblessness, while a separate survey finds office workers expect their jobs to change within 2.56 years — fueling workplace anxiety and a wave of advice on irreplaceable soft skills.",
-      "zh-TW": "台媒熱議外媒點名「6 大高危險職業」、近 7 成人恐失業；另有調查指上班族估 2.56 年內工作將被改變。AI 領袖與專家建議與其追逐技能，不如培養無法被取代的軟實力；工程師也需具備 AI 世代 3 大核心實力。"
+      "en": "Counterterrorism police arrested two Latvian men inside the perimeter of RAF Molesworth in Cambridgeshire, a British base used by the United States and NATO military intelligence, after they breached the fence around 02:00 BST. The incident renewed scrutiny of security at the installation.",
+      "zh-TW": "反恐警察在英國劍橋郡皇家空軍莫爾斯沃思（RAF Molesworth）基地邊界內逮捕兩名拉脫維亞人；該基地供美國與北約軍事情報使用。兩人於英國夏令時間凌晨約 2 點突破圍欄，事件引發外界對基地安全的關注。"
     },
     "body": {
-      "en": "What happened\nTaiwan outlets including FTV News, UDN, Next Apple News, Marie Claire Taiwan, and PChome Online news are running a cluster of stories about AI replacing jobs. A foreign media report names six high-risk occupations and warns that nearly 70% of people could face unemployment. A separate survey finds office workers estimate their jobs will be changed by AI within 2.56 years. Doctors describe a new form of workplace anxiety, with insomnia and self-doubt among the symptoms. AI leaders argue that instead of chasing skills, workers should develop soft skills that cannot be replaced, while a guide for engineers lists three core competencies needed in the AI era, and commentators ask which roles face the biggest impact — even writers' creativity is put to the test.\nWhy it matters\nThe stories tap into genuine fear among white-collar workers in Taiwan as generative AI spreads through offices and newsrooms. The advice pieces reframe the threat as an adaptation problem: judgment, communication, and human connection are presented as defenses that machines cannot easily copy, and the medical angle gives the anxiety a name.\nSources agree / disagree\nAll items come from a single heat-aggregation feed, so this is one aggregated topic rather than independently corroborated reporting across separate newsrooms. The figures come from different items: “6 occupations” and “2.56 years” are separate statistics from separate reports, not one shared number, so they do not directly conflict. Trust label: single aggregated source — treat as unconfirmed.\nStill uncertain\nThe feed snippets give no methodology for the worker survey or for the “nearly 70%” unemployment claim. Click through to the linked outlets for the full reporting before quoting any figure.",
-      "zh-TW": "發生了什麼事\n民視新聞網、聯合報系、壹蘋新聞網、美麗佳人（Marie Claire）、PChome Online 新聞等台媒，正熱議一波「AI 取代工作」話題：外媒報導點名 6 大高危險職業，稱近 7 成人恐成無業遊民；另有調查指上班族估計 2.56 年內工作將被 AI 改變。醫師指出出現新型職場焦慮，失眠、自我懷疑都可能上身；AI 領袖則主張與其追逐技能，不如培養那些「無法被取代的軟實力」；也有專文公開 AI 世代工程師必備的 3 大核心實力，並探討哪些職位受衝擊最大——連作家的創意都被拿來與 AI 對決。\n為什麼重要\n這波報導打中台灣白領對生成式 AI 走進辦公室的真實焦慮。建議類文章把威脅重新定義為適應問題：判斷力、溝通與人際連結被視為機器難以複製的防線；醫療角度則給這種焦慮一個名字，讓討論從恐慌轉向應對。\n來源異同\n所有素材來自單一熱榜聚合來源，屬於同一聚合話題，而非多家新聞室各自獨立查證的報導。「6 大職業」與「2.56 年」是不同報導的各自統計，並非同一數字的分歧。信任標籤：僅 1 源聚合／未確認。\n仍不確定\n摘要未提供上班族調查的方法學，也沒交代「近 7 成」失業說法的計算基礎。引用任何數字前，請點進原文連結查閱完整報導。"
+      "en": "Two Latvian men were arrested by counterterrorism police inside the perimeter of RAF Molesworth in Cambridgeshire after breaching the fence at about 02:00 BST, according to headlines from British and US outlets. The base is used by the United States, and police said the men were apprehended on suspicion of breaching the perimeter fence of an installation used by NATO and US military intelligence.\nWhat happened\nMultiple outlets describe the same core incident: two Latvian nationals were found inside the perimeter of the Cambridgeshire RAF base and detained on suspicion of trespass. The New York Times describes the base as a UK air base used by the US; Sky News and The Guardian identify the men as Latvian nationals or Latvian men; the BBC reports two men arrested on suspicion of trespass at the RAF base in Cambridgeshire. Police said the pair were apprehended at about 02:00 BST.\nWhy it matters\nA perimeter breach at a base used by NATO and US military intelligence raises immediate questions about physical security at a sensitive installation. Counterterrorism police, rather than ordinary officers, making the arrests underscores how seriously the intrusion was treated, and the incident is likely to prompt reviews of how the fence line is monitored.\nSources agree / disagree\nFour of the five outlets — the New York Times, Sky News, the BBC, and The Guardian — describe the same RAF Molesworth incident and agree on the essentials: two Latvian men, inside the perimeter, arrested on suspicion of trespass or breaching the fence. The Los Angeles Times item bundled into this card is a different event — a passenger arrested after breaching a gate and stealing a vehicle at John Wayne Airport in California — and should not be read as part of the Molesworth story. Trust label: four outlets consistent on core facts; one unrelated item mixed in by the feed.\nStill uncertain\nThe short feed snippets give no motive, no identities beyond nationality, and no indication of how the men crossed the fence. Click through to the linked outlets for the latest full reporting before quoting details.",
+      "zh-TW": "兩名拉脫維亞人於英國夏令時間凌晨約 2 點突破圍欄，隨後在劍橋郡英國皇家空軍莫爾斯沃思（RAF Molesworth）基地邊界內被反恐警察逮捕。該基地供美國使用，警方表示兩人涉嫌突破北約與美國軍事情報單位使用的設施圍欄。\n發生了什麼事\n多家英美媒體報導同一事件：《紐約時報》（The New York Times）稱該基地是美國使用的英國空軍基地；《天空新聞》（Sky News）與《衛報》（The Guardian）確認被捕者為拉脫維亞人；英國廣播公司（BBC）則報導兩名男子在劍橋郡的皇家空軍基地因涉嫌侵入被捕。警方表示，兩人於凌晨約 2 點在邊界內被制伏。\n為什麼重要\n莫爾斯沃思基地供北約與美國軍事情報使用，圍欄被突破立刻引發對敏感設施實體安全的質疑。由反恐警察而非一般警員執行逮捕，顯示當局對此入侵的重視程度；事件也可能促使基地重新檢視圍欄監控方式。\n來源異同\n五家來源中有四家——《紐約時報》、《天空新聞》、英國廣播公司與《衛報》——報導的是同一宗莫爾斯沃思事件，核心事實一致：兩名拉脫維亞男子、在基地邊界內、涉嫌侵入或突破圍欄被捕。被同一批次抓取的《洛杉磯時報》（Los Angeles Times）報導則是另一件事：加州約翰韋恩機場（John Wayne Airport）一名乘客闖入閘門並偷車被捕，不應與本案混為一談。信任標籤：四家來源核心事實一致，另混入一則無關報導。\n仍不確定\n摘要未說明兩人動機、除國籍外的身分，也未交代他們如何越過圍欄。引用細節前，請點進原文連結查閱完整報導。"
     },
     "sources": [
       {
-        "name": "tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeEpNZUw3WDgtYi1ER29VSTFQM2NsaXlRNzJpOHdQUGM3Z1RaZTlRclN1LVRlYXJ4cG9ZVl9nc3J6MUVpV1JZUmhPY2N6QTFGb3pvT044NHh0RWg4MGlUWEJGdUpXYXA3cXNyNGUzdmJSZHJEaHp1cENUcjJ6SXF3X1B0ZWhoN1ZmckpRR0RxX2tWaE1pdXg2WHl0N1V2djRDc291X2VIbGxWUnR5N2Nxb3lXSWV1bVlORzZ6YkMxV0J4NWUtdDFJdTZ2MElyMF9RNnhyaXg0MEZHV0F2S29zZ1pwTEkwZE96RXVNdkZnaTRRWDVVUlN0ZjBIWjBHNndEQWxYTDZDWWFhZUYwTktFTW00ZTdXQlJENDRpYVY2SDRuZ1RZdkY0UzNhNnJSV2VWMFFKa0tRV2djbmxZMkROLXk5RkRyOFVhUHNPaWsxbFpaMEZYc0pKNg?oc=5"
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/10/08/world/europe/latvian-men-arrested-raf-molesworth-uk.html"
       },
       {
-        "name": "民視新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yeXc3bVkyUkNfcGFFeV92MVdjUkprSUR2VVViTXl0ay03bjNYQlNGbTQ0ZWc4RFJjWmJtZkt3U1lFdi1Td3cxUzA1dmN5WEZadjU4c0FadjRvX2FxeWo4LQ?oc=5"
+        "name": "Sky News UK",
+        "url": "https://news.sky.com/story/two-latvian-nationals-arrested-on-suspicion-of-trespass-offences-at-raf-base-13596565"
       },
       {
-        "name": "健康醫療網",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01MzJhZGdPWFliU0tVUW1nMGp5V2tqZkU2cnRLeEhjS3BlV29kU1pGMVROUkJhQVJ1RklDc0R3TTdLSWRYV3kxWXpxRnpERVNoMFRvNTV3?oc=5"
+        "name": "BBC UK",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "name": "bbc",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5YTF1TFhCRmdMZm9jb3ltZ2FlM1k5Ym5zRmladnZZczVHcXNqemN0V3Myd0JqMGlsSWJ3RER0Q3RURUhSa0NIc2xYOGgzcTJ0ai1tRFRnUU92Si1rMUk1ZVhaMDhlQdIBa0FVX3lxTE1YdjN0YjdzbUl4emRrU3cwYzhaVDVuRzlZY1RITmxhdmZHWDd5R0hOS1ZManhsTlQ2NlV0ZWM1NEtoN0F5bGdVWlUxQXo0d2h6SU1zY2FRRFR5eHNFRnp6aDMzbHBEUjczVXFj?oc=5"
+        "name": "LA Times California",
+        "url": "https://www.latimes.com/california/story/2026-10-08/passenger-arrested-after-breaching-gate-stealing-vehicle-at-john-wayne-airport-airfield"
       },
       {
-        "name": "壹蘋新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd01hOWl3UkR4RWMzZW5tRlFtNTRkN1dLSUNHNzRoUFJLc0V5UXJBOEd0Rl82Y2RaRjRLSzBuTVRBZmI2TzdIMzNXUnMzc1prcjNLbldLN2xuMVVYMDV0Z21yMjczendpckFvVW1HZzFSVEZoa0tXNmJ4UHl5RjR5TnJUR0JJb054RXc?oc=5"
-      },
-      {
-        "name": "marieclaire美麗佳人",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96am5FWGw2Y2ZPOU9kOElRbm0xcG9DLXZ0TW5FOUxGbDFKZWpvWGNDN0IwcTdfTk41ZjJyLUlYbm5ialhKM1dxb0dvcnk1RnItSmZQS1dkTlhTemFXMTc1VA?oc=5"
-      },
-      {
-        "name": "udn.com",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mU2toWklRUzNJTGtZamM1aUR3M3JwRnZXU2Q3akJpVXZaQlkzbUpEREhSeUJzR3RaMGQ3QTlkY2puQXFPTFhZRlZvRU9xQkJk0gFWQVVfeXFMT3l2dlQyZXYxclNJOU5hVDdaZTFMOG9XZlNXZTZTdXYxTC15cGxpN0tBemR1ZHNaV1NJY21FYzFpcUpVa2w3NUUyV1lRYUdJbTE0a0RMU0E?oc=5"
-      },
-      {
-        "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnpzZTA5WThVUElEVEs2UC1nY3dibW9XVTVKREpSLWhnX3BwMkp3OHFYMWR1NlQydG1WUk1ocTI4MnZESElZLWFwSEJ6aHVHbHJkVldCZ0ZiRHhDSThMMHJhRU1NSUVyUkdNaWdwVEpNb0R1eE1aYzlqa3VQLVE4SFZieFpGY2JvaVh3?oc=5"
+        "name": "The Guardian UK News",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/08/two-latvian-men-arrested-raf-molesworth-cambridgeshire-us-nato"
       }
     ],
     "disagreements": {
-      "en": "Different outlets cite different figures — “six high-risk occupations” in the foreign report versus “2.56 years” in a worker survey — but these come from separate items, not a single shared statistic.",
-      "zh-TW": "不同報導引用的數字來自不同來源：「6 大高危險職業」出自外媒報導，「2.56 年」出自上班族調查，並非同一統計口徑的衝突。"
+      "en": "No real numeric conflict: the ‘02’ in snippets refers to the time of arrest (02:00 BST), not a different headcount. The substantive issue is that the LA Times item about a vehicle theft at John Wayne Airport is a separate, unrelated event bundled into this card by the feed.",
+      "zh-TW": "數字並無實質衝突：摘要中的「02」指的是逮捕時間（英國夏令時間凌晨 2 點），而非不同的人數。真正的問題是《洛杉磯時報》關於約翰韋恩機場偷車案的報導是另一宗無關事件，被抓取程式混進了同一張卡片。"
     },
-    "trustScore": 73,
+    "trustScore": 88,
     "trustBreakdown": {
       "sourceDiversity": 25,
-      "outletReputation": 16,
+      "outletReputation": 21,
       "crossCorroboration": 17,
-      "recencyClarity": 15
+      "recencyClarity": 25
     },
     "tags": [
-      "eastAsiaGossip",
+      "international",
       "live-ingest",
-      "region:tw",
-      "gnews-tw-heat:取代嗎",
-      "gnews-tw-heat:取代嗎",
-      "gnews-tw-heat:取代嗎"
+      "nyt-world",
+      "sky-news-uk",
+      "bbc-uk"
     ],
-    "region": "tw",
     "glossary": [
       {
         "term": {
-          "en": "artificial intelligence",
-          "zh-TW": "人工智慧"
+          "en": "RAF Molesworth",
+          "zh-TW": "莫爾斯沃思空軍基地"
         },
         "blurb": {
-          "en": "Technology that performs tasks typically requiring human intelligence, now spreading through offices and newsrooms.",
-          "zh-TW": "能執行通常需要人類智慧的任務的技術，正走進辦公室與新聞室。"
+          "en": "UK Royal Air Force base in Cambridgeshire used by the United States and NATO military intelligence.",
+          "zh-TW": "英國皇家空軍在劍橋郡的基地，供美國與北約軍事情報使用。"
         }
       },
       {
         "term": {
-          "en": "soft skills",
-          "zh-TW": "軟實力"
+          "en": "counterterrorism police",
+          "zh-TW": "反恐警察"
         },
         "blurb": {
-          "en": "Non-technical abilities such as judgment, communication, and adaptability that AI leaders say are hard to replace.",
-          "zh-TW": "判斷力、溝通、適應力等非技術能力，AI 領袖認為難以被取代。"
+          "en": "Specialist police officers who made the arrests; their involvement signals the incident was treated as a security threat.",
+          "zh-TW": "執行逮捕的專責警力，其介入顯示當局將事件視為安全威脅。"
         }
       },
       {
         "term": {
-          "en": "FTV News",
-          "zh-TW": "民視新聞網"
+          "en": "NATO",
+          "zh-TW": "北大西洋公約組織"
         },
         "blurb": {
-          "en": "Taiwanese television news outlet cited in the cluster.",
-          "zh-TW": "本話題中被引用的台灣電視新聞媒體。"
+          "en": "Military alliance whose intelligence services use the Molesworth base.",
+          "zh-TW": "軍事同盟，其情報單位使用莫爾斯沃思基地。"
         }
       },
       {
         "term": {
-          "en": "Marie Claire",
-          "zh-TW": "美麗佳人"
+          "en": "BST",
+          "zh-TW": "英國夏令時間"
         },
         "blurb": {
-          "en": "Fashion and lifestyle magazine whose Taiwan edition ran the soft-skills interview.",
-          "zh-TW": "時尚生活雜誌，其台灣版刊出軟實力專訪。"
+          "en": "British Summer Time, the local time zone in which the 02:00 arrest time was reported.",
+          "zh-TW": "英國夏令時間，報導中凌晨 2 點逮捕時間所採用的當地時區。"
         }
       },
       {
         "term": {
-          "en": "PChome Online",
-          "zh-TW": "PChome Online"
+          "en": "John Wayne Airport",
+          "zh-TW": "約翰韋恩機場"
         },
         "blurb": {
-          "en": "Taiwanese e-commerce and news portal that published the engineers' core-skills guide.",
-          "zh-TW": "台灣電商與新聞入口網站，刊出工程師核心實力指南。"
-        }
-      },
-      {
-        "term": {
-          "en": "office workers",
-          "zh-TW": "上班族"
-        },
-        "blurb": {
-          "en": "Salaried employees whose survey responses produced the 2.56-year estimate.",
-          "zh-TW": "受薪階級，其調查回答得出 2.56 年的估計。"
+          "en": "California airport in a separate, unrelated story about a gate breach and vehicle theft.",
+          "zh-TW": "加州機場，另一宗無關的闖閘偷車案發生地。"
         }
       }
     ]
   },
   {
-    "id": "live-energy-01-world-s-largest-penguin-",
-    "category": "energy",
+    "id": "live-tech-01-watch-the-winning-traile",
+    "category": "tech",
     "adult": false,
-    "isHeadline": true,
+    "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-energy-01-world-s-largest-penguin-.jpg",
+    "imageUrl": "/covers/live/live-tech-01-watch-the-winning-traile.png",
     "imageAlt": {
-      "en": "Cover related to: World’s largest penguin colony suffers ‘enormous population crash’",
-      "zh-TW": "相關封面圖：世界上最大的企鵝棲息地遭受“巨大的人口崩潰”"
+      "en": "Cover related to: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "zh-TW": "相關封面圖：觀看 Future Vision XPRIZE 的獲獎預告片《天才》。"
     },
-    "publishedAt": "2026-10-07T15:00:53.000Z",
+    "publishedAt": "2026-10-08T18:30:00.000Z",
     "title": {
-      "en": "Zavodovski Island's Chinstrap Penguins Crash by Two-Thirds Since 2011 in 'Enormous' Decline",
-      "zh-TW": "南極扎沃多夫斯基島帽帶企鵝 15 年銳減三分之二：氣候危機疑為主因"
+      "en": "Netflix’s ‘The Altruists’ to Bring Fictionalized Sam Bankman-Fried to TV Screens on November 19",
+      "zh-TW": "奈飛（Netflix）新劇《利他主義者》（The Altruists）講 FTX 事件（FTX）：薩姆·班克曼-弗里德（Sam Bankman-Fried）虛構形象 11 月 19 日登場"
     },
     "summary": {
-      "en": "The world's largest penguin colony — chinstrap penguins on Zavodovski Island in Antarctica, once numbering over a million in the remote South Atlantic — has declined by two-thirds since 2011, a study finds, most likely because the climate crisis has made food scarce.",
-      "zh-TW": "研究發現，曾逾百萬隻的南極扎沃多夫斯基島帽帶企鵝群——全球最大企鵝棲息地——自 2011 年以來銳減三分之二，主因很可能是氣候危機導致食物短缺。"
+      "en": "TechCrunch reports that Netflix’s ‘The Altruists,’ a drama about the FTX scandal, has released a trailer for its fictionalized portrayal of Sam Bankman-Fried, with the show coming to TV screens on November 19. A separate Google AI Blog item covers the winning trailer from the Future Vision XPRIZE, ‘The Gifted.’",
+      "zh-TW": "科技新聞網站（TechCrunch）報導，奈飛（Netflix）以 FTX 事件（FTX）為題材的影集《利他主義者》（The Altruists）釋出預告，虛構版的薩姆·班克曼-弗里德（Sam Bankman-Fried）將於 11 月 19 日登上螢幕。另一則 Google AI 部落格（Google AI Blog）報導則介紹未來願景 XPRIZE（Future Vision XPRIZE）的獲獎預告片《The Gifted》。"
     },
     "body": {
-      "en": "What happened\nThe world's largest penguin colony has suffered what scientists call an enormous population crash. Chinstrap penguins on Zavodovski Island — the northernmost of the South Sandwich Islands in Antarctica, in the remote South Atlantic — are down by two-thirds since 2011, according to a study reported by The Guardian and Science. The colony had numbered more than one million birds. Scientists say the rapid demise is most likely linked to the climate crisis, which appears to have made food scarce for the penguins.\nWhy it matters\nPenguins are indicator species for the Southern Ocean: a crash of this scale signals disruption deep in the marine food web, most plausibly in krill availability driven by warming waters and changing sea ice. The loss of the planet's largest colony is also a stark, countable measure of how fast polar ecosystems are changing.\nSources agree / disagree\nThe Guardian and Science agree on the core facts — a two-thirds decline since 2011 on Zavodovski Island, with the climate crisis the leading explanation — and no numeric or naming conflicts appear in the snippets. Trust label: multiple sources agree.\nStill uncertain\nThe precise mechanism linking warming to food scarcity, and whether the decline is still accelerating, requires the full study. Feed descriptions can omit context or corrections, so verify details on the publisher pages.",
-      "zh-TW": "發生了什麼事\n全球最大的企鵝棲息地出現科學家口中的「巨大族群崩潰」。據《衛報》與《科學》報導的研究，南極南桑威奇群島最北端的扎沃多夫斯基島——位於偏遠南大西洋——帽帶企鵝自 2011 年以來減少了三分之二，該群落曾逾百萬隻。科學家表示，企鵝數量急遽下滑最可能與氣候危機有關，暖化似乎讓企鵝的食物變得稀少。\n為什麼重要\n企鵝是南大洋的指標物種：如此規模的崩跌，意味海洋食物網深處出現擾動，最可能是暖化與海冰變化衝擊磷蝦供應。地球最大企鵝群落的消失，也是極地生態系變化速度之快的一個具體而殘酷的量尺。\n來源異同\n《衛報》與《科學》在核心事實上一致——扎沃多夫斯基島自 2011 年減少三分之二，氣候危機為主要解釋——摘要中未見數字或名稱衝突。信任標籤：多源一致。\n仍不確定\n暖化導致食物短缺的精確機制、以及族群是否仍在加速下滑，有待完整研究確認。摘要可能省略脈絡或更正，細節請以原文為準。"
+      "en": "Two unrelated entertainment items were bundled into this card: TechCrunch’s coverage of the trailer for Netflix’s ‘The Altruists,’ a show about the FTX scandal featuring a fictionalized Sam Bankman-Fried, and the Google AI Blog’s post about the winning trailer from the Future Vision XPRIZE, a short film titled ‘The Gifted.’\nWhat happened\nAccording to TechCrunch, Netflix’s ‘The Altruists’ dramatizes the FTX scandal, and a fictionalized Sam Bankman-Fried is set to appear on television screens on November 19. Separately, the Google AI Blog highlighted the winning trailer from the Future Vision XPRIZE — a piece titled ‘The Gifted’ — with no stated connection to the Netflix series or to FTX.\nWhy it matters\nThe Netflix series keeps the FTX collapse in the cultural spotlight, turning one of the most prominent crypto scandals into mainstream drama. The XPRIZE item points in a different direction: an AI-themed film competition recognizing ‘The Gifted,’ suggesting continued interest in storytelling about emerging technology.\nSources agree / disagree\nThe two items do not corroborate each other — they are separate stories that the feed clustered together. Trust label: two single items from two outlets, no independent corroboration of either; treat details as unconfirmed.\nStill uncertain\nThe snippets give no plot details, cast, or clarity on whether November 19 is a premiere date or a trailer date for ‘The Altruists,’ and no context on the Future Vision XPRIZE beyond its name. Click through to the linked outlets for the full posts.",
+      "zh-TW": "本卡把兩則無關的娛樂報導湊在一起：科技新聞網站（TechCrunch）報導奈飛影集《利他主義者》（The Altruists）的預告——該劇以 FTX 事件為題材，出現虛構版的薩姆·班克曼-弗里德；以及 Google AI 部落格介紹未來願景 XPRIZE 的獲獎預告片《The Gifted》。\n發生了什麼事\n據科技新聞網站報導，奈飛的《利他主義者》把 FTX 事件戲劇化，虛構版的薩姆·班克曼-弗里德將於 11 月 19 日登上電視螢幕。另一則來自 Google AI 部落格的報導則介紹未來願景 XPRIZE 的獲獎預告片《The Gifted》，與奈飛影集及 FTX 均無關聯。\n為什麼重要\n奈飛影集讓 FTX 崩盤事件持續留在大眾文化的聚光燈下，把這起最受矚目的加密貨幣醜聞改編為主流戲劇。XPRIZE 的項目則指向另一個方向：以人工智慧為主題的影片競賽選出《The Gifted》，顯示外界對新興科技敘事的持續興趣。\n來源異同\n兩則報導並未互相印證——它們是被抓取程式湊在同一張卡片的兩件獨立事件。信任標籤：兩個媒體各一則報導，均無獨立查證，細節視為未確認。\n仍不確定\n摘要未提供《利他主義者》的劇情、卡司，也沒說明 11 月 19 日是首播日還是預告上線日；未來願景 XPRIZE 除了名稱也無更多背景。請點進原文連結查閱完整內容。"
     },
     "sources": [
       {
-        "name": "The Guardian Climate Crisis",
-        "url": "https://www.theguardian.com/environment/2026/oct/07/penguin-colony-population-crash-zavodovski-island-antarctica"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/"
       },
       {
-        "name": "Science 科學新聞",
-        "url": "https://www.science.org/content/article/world-s-once-largest-penguin-colony-perilous-decline"
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+      }
+    ],
+    "disagreements": {
+      "en": "The two source items describe different events — a Netflix drama about the FTX scandal versus an XPRIZE-winning trailer — bundled together by the feed. There is no factual conflict between them because they are not about the same thing.",
+      "zh-TW": "兩則來源報導的是不同事件——一部關於 FTX 事件的奈飛戲劇，以及一支 XPRIZE 獲獎預告片——被抓取程式湊在一起。兩者並非同一件事，因此不存在事實衝突。"
+    },
+    "trustScore": 69,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 16,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "tech",
+      "live-ingest",
+      "techcrunch",
+      "google-ai-blog"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Sam Bankman-Fried",
+          "zh-TW": "薩姆·班克曼-弗里德"
+        },
+        "blurb": {
+          "en": "Founder of the FTX crypto exchange, portrayed in fictionalized form in Netflix’s ‘The Altruists.’",
+          "zh-TW": "FTX 加密貨幣交易所創辦人，在奈飛影集《利他主義者》中以虛構形象登場。"
+        }
+      },
+      {
+        "term": {
+          "en": "FTX",
+          "zh-TW": "FTX 事件"
+        },
+        "blurb": {
+          "en": "Cryptocurrency exchange whose collapse is the subject of the Netflix drama.",
+          "zh-TW": "加密貨幣交易所，其崩盤事件是奈飛影集的題材。"
+        }
+      },
+      {
+        "term": {
+          "en": "Netflix",
+          "zh-TW": "奈飛"
+        },
+        "blurb": {
+          "en": "Streaming service behind ‘The Altruists.’",
+          "zh-TW": "推出《利他主義者》的串流影音服務。"
+        }
+      },
+      {
+        "term": {
+          "en": "Future Vision XPRIZE",
+          "zh-TW": "未來願景 XPRIZE"
+        },
+        "blurb": {
+          "en": "Film competition whose winning trailer is titled ‘The Gifted.’",
+          "zh-TW": "影片競賽，其獲獎預告片名為《The Gifted》。"
+        }
+      },
+      {
+        "term": {
+          "en": "TechCrunch",
+          "zh-TW": "TechCrunch"
+        },
+        "blurb": {
+          "en": "Technology news outlet that covered the Netflix trailer.",
+          "zh-TW": "報導奈飛預告的科技新聞媒體。"
+        }
+      }
+    ]
+  },
+  {
+    "id": "live-international-02-long-deployed-uss-abraha",
+    "category": "international",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-long-deployed-uss-abraha.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Long-deployed USS Abraham Lincoln returns home to San Diego Bay",
+      "zh-TW": "相關封面圖：長期部署的亞伯拉罕·林肯號航空母艦返回聖地牙哥灣"
+    },
+    "publishedAt": "2026-10-09T00:57:45.000Z",
+    "title": {
+      "en": "USS Abraham Lincoln Returns to San Diego After Record Deployment Supporting the Iran War",
+      "zh-TW": "亞伯拉罕·林肯號（USS Abraham Lincoln）航艦返抵聖地牙哥灣：破紀錄部署支援伊朗戰爭"
+    },
+    "summary": {
+      "en": "The USS Abraham Lincoln aircraft carrier has returned home to San Diego after a record-setting deployment supporting the Iran war, drawing attention after reports of crew stress, supply shortages, and deteriorating mental health on board. Emotional reunions followed for families who described crying and losing sleep during the long months at sea.",
+      "zh-TW": "亞伯拉罕·林肯號（USS Abraham Lincoln）航空母艦在支援伊朗戰爭的破紀錄部署後返抵聖地牙哥。此前報導指出船上出現船員壓力、補給短缺與心理健康惡化，引發關注；家屬形容部署期間以淚洗面、徹夜難眠，返航時場面動容。"
+    },
+    "body": {
+      "en": "The USS Abraham Lincoln aircraft carrier has returned home to San Diego Bay after a record-setting deployment supporting the Iran war, ending months at sea that drew public attention over reports of crew stress, supply shortages, and deteriorating mental health among the crew.\nWhat happened\nOutlets including NPR, PBS NewsHour, Al Jazeera, and the Los Angeles Times report the carrier’s return to San Diego after what they describe as a record-breaking deployment. Feed descriptions say the extended time at sea drew attention following reports of supply shortages and deteriorating mental health among the crew. Families described an emotional rollercoaster, crying and losing sleep during the deployment, and embraced their loved ones as the ship came home. One report credits its photography to Gregory Bull.\nWhy it matters\nA record-length deployment strains both the crew and the families left behind, and the reported shortages and mental-health toll raise questions about the human cost of sustaining long naval operations. The return also marks the end of a high-profile deployment tied to the Iran war, which had made the ship a symbol of extended American naval commitment in the region.\nSources agree / disagree\nFive outlets describe the same homecoming and agree that the deployment set records and strained the crew. The figures differ — 265 uninterrupted days at sea in some items, more than 300 days at sea in others, and a 321-day deployment in the Los Angeles Times headline — but the snippets do not make clear whether these measure the same thing (for example, uninterrupted days at sea versus total deployment length). Trust label: multiple outlets consistent on the story; figures appear to use different metrics — verify before quoting.\nStill uncertain\nThe feed snippets give no official Navy statement, no precise definition of the ‘record,’ and no detail on the supply shortages beyond the families’ accounts. Click through to the linked outlets for the latest full reporting.",
+      "zh-TW": "亞伯拉罕·林肯號（USS Abraham Lincoln）航空母艦在支援伊朗戰爭的破紀錄部署後返抵聖地牙哥灣，結束了數個月的海上部署；此前船員壓力、補給短缺與心理健康惡化的報導已引發公眾關注。\n發生了什麼事\n包括美國公共廣播電台（NPR）、公共電視新聞一小時（PBS NewsHour）、半島電視台（Al Jazeera）與《洛杉磯時報》（Los Angeles Times）在內的多家媒體，報導林肯號航空母艦返抵聖地牙哥，形容這是一次破紀錄的部署。摘要指出，漫長的海上部署因補給短缺與船員心理健康惡化的報導而受到關注；家屬形容期間情緒起伏劇烈、以淚洗面、徹夜難眠，軍艦返航時與親人相擁。\n為什麼重要\n破紀錄的部署長度同時考驗船員與留守家屬的身心，報導中的補給與心理健康問題，讓外界關注維持長期海上行動的人力代價。這次返航也為與伊朗戰爭相關的高調部署畫下句點，該艦已成為美國在該區域長期海軍承諾的象徵。\n來源異同\n五家媒體報導的是同一場返航，均同意部署創下紀錄且船員承受重壓。數字有差異——有的寫海上不間斷 265 天，有的寫超過 300 天，《洛杉磯時報》標題則是 321 天——但摘要未說明這些數字是否衡量同一區間（例如不間斷海上日數與總部署天數可能不同）。信任標籤：多家來源對事件本身一致；數字疑似採用不同口徑，引用前請查證。\n仍不確定\n摘要未提供美國海軍的官方說法，也沒定義「紀錄」的具體內涵，補給短缺的細節僅來自家屬說法。請點進原文連結查閱最新完整報導。"
+    },
+    "sources": [
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/nation/long-deployed-uss-abraham-lincoln-returns-home-to-san-diego-bay"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss"
+      },
+      {
+        "name": "LA Times California",
+        "url": "https://www.latimes.com/california/story/2026-10-08/uss-abraham-returns-san-diego-ending-record-breaking-iran-war-deployment"
+      }
+    ],
+    "disagreements": {
+      "en": "Outlets cite different figures — 265 uninterrupted days at sea, more than 300 days at sea, and a 321-day deployment (LA Times). The snippets do not clarify whether these measure the same period, so they may be different metrics rather than a true conflict.",
+      "zh-TW": "各家引用數字不同——海上不間斷 265 天、超過 300 天、《洛杉磯時報》的 321 天部署。摘要未說明這些數字是否衡量同一區間，可能是不同口徑而非真正的衝突。"
+    },
+    "trustScore": 84,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 20,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "npr-world",
+      "pbs-newshour",
+      "al-jazeera"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "USS Abraham Lincoln",
+          "zh-TW": "亞伯拉罕·林肯號"
+        },
+        "blurb": {
+          "en": "US Navy aircraft carrier that returned to San Diego after a record-setting deployment.",
+          "zh-TW": "美國海軍航空母艦，在破紀錄部署後返抵聖地牙哥。"
+        }
+      },
+      {
+        "term": {
+          "en": "San Diego Bay",
+          "zh-TW": "聖地牙哥灣"
+        },
+        "blurb": {
+          "en": "Home port area where the carrier’s homecoming took place.",
+          "zh-TW": "航艦返航儀式舉行的母港所在灣區。"
+        }
+      },
+      {
+        "term": {
+          "en": "NPR",
+          "zh-TW": "美國公共廣播電台"
+        },
+        "blurb": {
+          "en": "US public broadcaster covering the homecoming.",
+          "zh-TW": "報導返航的美國公共廣播機構。"
+        }
+      },
+      {
+        "term": {
+          "en": "PBS NewsHour",
+          "zh-TW": "公共電視新聞一小時"
+        },
+        "blurb": {
+          "en": "US public television news program covering the return.",
+          "zh-TW": "報導返航的美國公共電視新聞節目。"
+        }
+      },
+      {
+        "term": {
+          "en": "Al Jazeera",
+          "zh-TW": "半島電視台"
+        },
+        "blurb": {
+          "en": "Qatar-based news network reporting the record-breaking deployment.",
+          "zh-TW": "報導破紀錄部署的卡達新聞網。"
+        }
+      },
+      {
+        "term": {
+          "en": "Iran war",
+          "zh-TW": "伊朗戰爭"
+        },
+        "blurb": {
+          "en": "The conflict the deployment was described as supporting.",
+          "zh-TW": "報導中指此次部署所支援的戰事。"
+        }
+      }
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-03-5-ettoday-ettoday",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-eastAsiaGossip-03-5-ettoday-ettoday.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 麥克道格拉斯出自傳　為凱薩琳麗塔瓊斯與5個女人分手 - ETtoday星光雲| ETtoday新聞雲",
+      "zh-TW": "相關封面圖：麥克道格拉斯出自傳　為凱薩琳麗塔瓊斯與5個女人分手 - ETtoday星光雲| ETtoday新聞雲"
+    },
+    "publishedAt": "2026-10-08T11:02:29.000Z",
+    "title": {
+      "en": "Michael Douglas Says He Dumped Five Women in One Night to Win Catherine Zeta-Jones",
+      "zh-TW": "麥克道格拉斯（Michael Douglas）出自傳：為娶凱薩琳麗塔瓊絲（Catherine Zeta-Jones）一夜打 5 通分手電話"
+    },
+    "summary": {
+      "en": "Michael Douglas, promoting his memoir ‘One Helluva Ride,’ told Britain’s The Times that his wife Catherine Zeta-Jones — 25 years his junior — demanded an exclusive, monogamous relationship early in their romance, so he spent that evening personally calling five other women to end things. The couple married in 2000 and have been together for more than 25 years.",
+      "zh-TW": "麥克道格拉斯（Michael Douglas）為宣傳回憶錄《One Helluva Ride》接受英國《泰晤士報》（The Times）專訪，透露小他 25 歲的妻子凱薩琳麗塔瓊絲（Catherine Zeta-Jones）當年交往初期要求一對一的專一關係，他當晚便親自打電話給另外 5 名約會對象分手。兩人 2000 年結婚，攜手超過 25 年。"
+    },
+    "body": {
+      "en": "Hollywood veteran Michael Douglas is promoting his memoir ‘One Helluva Ride’ with a candid story about the early days of his romance with Catherine Zeta-Jones: when she demanded a monogamous, one-on-one relationship, he spent that very evening calling five other women to break things off.\nWhat happened\nIn an interview with Britain’s The Times tied to the memoir’s release, Douglas — known for films including ‘Wall Street’ — recounted that Zeta-Jones, who is 25 years younger, insisted on exclusivity early in their courtship. He told the paper he personally called the other women he had been seeing that same night to end the ambiguous relationships. The couple married in 2000 and have now been together for more than 25 years. Taiwanese outlets including ETtoday, SETN’s entertainment news, and Vogue Taiwan all picked up the interview.\nWhy it matters\nCelebrity memoirs live or die on revealing anecdotes, and this one reframes Douglas’s well-known playboy past as a love story about choosing commitment. It also shows how a single British newspaper interview can ripple across Taiwanese entertainment media within a day.\nSources agree / disagree\nAll three outlets report the same interview and agree on the essentials — the memoir, The Times interview, the five phone calls, the 2000 marriage. Trust label: consistent retelling of one interview across three outlets; no independent reporting beyond the original.\nStill uncertain\nThe snippets are secondhand retellings of the Times interview, not the full text. Click through to the linked outlets — or the original Times interview — for Douglas’s exact words.",
+      "zh-TW": "好萊塢資深演員麥克道格拉斯為宣傳回憶錄《One Helluva Ride》，在專訪中坦承當年追求凱薩琳麗塔瓊絲時的往事：當她要求一對一的專一關係，他當晚就打了 5 通電話，與其他約會對象一一分手。\n發生了什麼事\n配合回憶錄出版，麥克道格拉斯接受英國《泰晤士報》專訪，談起與小他 25 歲的妻子凱薩琳麗塔瓊絲的感情故事。兩人交往初期，妻子要求他維持一對一的專一關係，他當晚便親自打電話給其他約會對象，結束所有曖昧關係。兩人於 2000 年結婚，至今攜手超過 25 年。台灣的 ETtoday 新聞雲、三立新聞網（SETN）娛樂星聞與台灣版《Vogue》都轉載了這段專訪。\n為什麼重要\n明星回憶錄靠的就是這種坦率軼事，這段故事把道格拉斯過往的風流形象，重新包裝成「為愛選擇專一」的愛情故事。這也顯示一篇英國報紙專訪，如何在一天之內擴散到台灣娛樂媒體。\n來源異同\n三家媒體報導的是同一篇專訪，核心內容一致——回憶錄、《泰晤士報》專訪、5 通分手電話、2000 年結婚。信任標籤：三家對同一專訪的轉述一致，但沒有超出原文的獨立查證。\n仍不確定\n摘要都是對《泰晤士報》專訪的二手轉述，並非全文。想看道格拉斯的原話，請點進原文連結或原始專訪。"
+    },
+    "sources": [
+      {
+        "name": "ettoday.net",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HbUxQZEd3Y1dPM2VxaW4xd2dJZEh5MXBYQjlwSzljWVIxWEN3TFZhNDNsMHEzdWZCWGZRc3ZXazFEZHUtc0pubHpmVkxkQdIBTEFVX3lxTE5odVVrejVsUERVNVIyWDBLY0tpZmh0UGZldS1ZUFE5MDdKXzlNX2lDQWN6Ykgzak5lNG8zaTJldzVBTlNYZC1BS2pNYlc?oc=5"
+      },
+      {
+        "name": "setn.com",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LVVRqTXRXenFqM1BFZDRNelBWT0t6ODlQZFhPWExoQTZXcWVrVVlRZ09vSldsY1ZwdURnbml2UDBmVk9FNzN6Sjln?oc=5"
+      },
+      {
+        "name": "Vogue Taiwan",
+        "url": "https://www.vogue.com.tw/article/michael-douglass-catherine-zeta-jones-ultimatum"
       }
     ],
     "disagreements": null,
-    "trustScore": 72,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 21,
+      "outletReputation": 16,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "gnews-site:ettoday-分手/復合/婚",
+      "gnews-site:setn-分手/婚",
+      "vogue-taiwan"
+    ],
+    "region": "tw",
+    "glossary": [
+      {
+        "term": {
+          "en": "Michael Douglas",
+          "zh-TW": "麥克道格拉斯"
+        },
+        "blurb": {
+          "en": "Oscar-winning actor promoting his memoir ‘One Helluva Ride.’",
+          "zh-TW": "奧斯卡影帝，正為回憶錄《One Helluva Ride》宣傳。"
+        }
+      },
+      {
+        "term": {
+          "en": "Catherine Zeta-Jones",
+          "zh-TW": "凱薩琳麗塔瓊絲"
+        },
+        "blurb": {
+          "en": "Actress and Douglas’s wife since 2000, 25 years his junior.",
+          "zh-TW": "演員，2000 年起為道格拉斯之妻，小他 25 歲。"
+        }
+      },
+      {
+        "term": {
+          "en": "The Times",
+          "zh-TW": "泰晤士報"
+        },
+        "blurb": {
+          "en": "British newspaper that ran the memoir-promotion interview.",
+          "zh-TW": "刊出回憶錄宣傳專訪的英國報紙。"
+        }
+      },
+      {
+        "term": {
+          "en": "One Helluva Ride",
+          "zh-TW": "《One Helluva Ride》"
+        },
+        "blurb": {
+          "en": "Douglas’s memoir being promoted through the interview.",
+          "zh-TW": "道格拉斯透過專訪宣傳的回憶錄。"
+        }
+      },
+      {
+        "term": {
+          "en": "ETtoday",
+          "zh-TW": "ETtoday 新聞雲"
+        },
+        "blurb": {
+          "en": "Taiwanese news outlet that picked up the story.",
+          "zh-TW": "轉載此報導的台灣新聞媒體。"
+        }
+      },
+      {
+        "term": {
+          "en": "Vogue Taiwan",
+          "zh-TW": "台灣版 Vogue"
+        },
+        "blurb": {
+          "en": "Taiwan edition of the fashion magazine that ran its own take on the story.",
+          "zh-TW": "以自身角度報導此事的時尚雜誌台灣版。"
+        }
+      }
+    ]
+  },
+  {
+    "id": "live-taiwan-01-story",
+    "category": "taiwan",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-taiwan-01-story.webp",
+    "imageAlt": {
+      "en": "Cover related to: 最懂災民心情的公務員，陪受災戶找回農地生機【獨立特派員】",
+      "zh-TW": "相關封面圖：最懂災民心情的公務員，陪受災戶找回農地生機【獨立特派員】"
+    },
+    "publishedAt": "2026-10-08T13:55:35.000Z",
+    "title": {
+      "en": "PTS ‘Independent Correspondent’: Hualien Farmland Recovery, Migrant-Worker Loopholes, and a Flood Anniversary",
+      "zh-TW": "公視《獨立特派員》：花蓮農地復耕、移工引進漏洞與堰塞湖週年"
+    },
+    "summary": {
+      "en": "Public Television Service’s ‘Independent Correspondent’ program bundles three Taiwan stories: farmland recovery in Hualien’s Guangfu and Fenglin after a 2025 barrier-lake dam failure buried 773 hectares of fields in mud; loopholes letting employers force migrant workers into ‘AB contracts’; and the first anniversary of the Mataian Creek dam failure that closed a half-century-old hardware store.",
+      "zh-TW": "公視《獨立特派員》一次推出三則台灣報導：2025 年堰塞湖溢流潰壩後，花蓮光復與鳳林 773 公頃農地遭泥流掩埋的復耕之路；雇主逼移工簽「AB 合約」的引進漏洞；以及馬太鞍溪堰塞湖潰壩滿一週年，帶走當地最後一間半世紀五金行。"
+    },
+    "body": {
+      "en": "This card bundles three separate stories from Taiwan’s Public Television Service (PTS) ‘Independent Correspondent’ program: farmland recovery in Hualien after a devastating 2025 barrier-lake dam failure, loopholes in Taiwan’s migrant-worker recruitment system, and the first anniversary of the Mataian Creek dam failure.\nWhat happened\nFirst, Hualien’s Guangfu and Fenglin townships were hit in September 2025 when a barrier lake overflowed and its dam failed, burying 773 hectares of farmland in mud and devastating the local production system. Officials aim to restore 380 hectares of cultivation by the end of 2027, a task testing both administrative resources and grassroots teams balancing anxiety with regulations. Second, an Indonesian worker injured on the job early this year exposed dark corners of cross-border recruitment: a multinational recruited professionals abroad with salaries near NT$50,000, then forced contract swaps on arrival, paid below the legal hourly wage, and assigned white-collar hires to high-risk blue-collar work — exposing review loopholes in Taiwan’s hiring system. Third, one year after the Mataian Creek barrier-lake dam failure devastated Guangfu, the town’s last traditional hardware store — open for more than half a century — closed permanently, while its 77-year-old owner chose to stay, renovate his old house, and start anew with social workers’ and friends’ support.\nWhy it matters\nThe three stories share a theme of recovery and systemic gaps: disaster-hit farmland that will take years to reclaim, migrant workers falling through regulatory cracks, and a community still rebuilding a year after the flood. Together they illustrate the long tail of disaster recovery in rural Taiwan.\nSources agree / disagree\nAll three items come from a single outlet, PTS, so this is one newsroom’s programming lineup rather than independently corroborated reporting. Trust label: single aggregated source — treat as unconfirmed.\nStill uncertain\nThe snippets give no independent verification of the farmland figures, the recruitment case details, or the restoration timeline. Click through to the PTS links for the full reports.",
+      "zh-TW": "本卡收錄台灣公視《獨立特派員》的三則獨立報導：2025 年堰塞湖潰壩後花蓮農地的復耕之路、台灣移工招募制度的漏洞，以及馬太鞍溪堰塞湖潰壩滿一週年。\n發生了什麼事\n第一則：2025 年 9 月堰塞湖溢流潰壩，花蓮光復與鳳林 773 公頃農地遭泥流掩埋，生產體系受到毀滅性打擊；官方目標在 2027 年底前完成 380 公頃復耕，考驗行政資源調度，也考驗基層團隊在焦慮與規範間的平衡。第二則：今年初一名因公受傷的印尼籍勞工求助，揭開跨境人力市場的暗角——跨國企業以近 5 萬元高薪在海外招募專業人員，入境後卻強迫換約、以低於法定標準的時薪計酬，甚至讓白領勞工從事高風險藍領工作，凸顯聘僱審查漏洞。第三則：馬太鞍溪堰塞湖潰壩滿一週年，重創花蓮光復鄉；當地最後一間營業逾半世紀的傳統五金行永久歇業，但 77 歲的老闆選擇留在故里重新裝潢老屋，在社工與親友陪伴下展開新生活。\n為什麼重要\n三則報導共享同一主題：復原與制度缺口——需要多年才能收復的災區農地、掉進法規裂縫的移工，以及洪災一年後仍在重建的社區，共同勾勒出台灣鄉村災後復原的漫長尾巴。\n來源異同\n三則都來自同一家媒體公視，屬於同一新聞室的節目組合，而非多家獨立查證的報導。信任標籤：僅 1 源聚合／未確認。\n仍不確定\n摘要未提供農地面積數字的獨立查證、招募個案的細節，也沒有復耕時程的依據。請點進公視連結查閱完整報導。"
+    },
+    "sources": [
+      {
+        "name": "公視新聞網",
+        "url": "https://news.pts.org.tw/article/830568"
+      }
+    ],
+    "disagreements": {
+      "en": "This card bundles three unrelated stories from one outlet — farmland recovery, migrant-worker contract loopholes, and a flood anniversary — under a single digest entry. They share a broad Taiwan-recovery theme but are separate reports, not one story.",
+      "zh-TW": "本卡把同一家媒體的三則無關報導——農地復耕、移工合約漏洞、洪災週年——包成一則摘要。它們共享廣義的台灣復原主題，但各自是獨立報導，並非同一件事。"
+    },
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 21,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "taiwan",
+      "live-ingest",
+      "公視新聞網",
+      "公視新聞網",
+      "公視新聞網"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Public Television Service",
+          "zh-TW": "公視"
+        },
+        "blurb": {
+          "en": "Taiwan’s public broadcaster behind the ‘Independent Correspondent’ program.",
+          "zh-TW": "《獨立特派員》節目背後的台灣公共電視台。"
+        }
+      },
+      {
+        "term": {
+          "en": "Hualien",
+          "zh-TW": "花蓮"
+        },
+        "blurb": {
+          "en": "Eastern Taiwan county where Guangfu and Fenglin townships were hit by the 2025 dam failure.",
+          "zh-TW": "台灣東部縣市，光復與鳳林兩鄉鎮在 2025 年潰壩中受創。"
+        }
+      },
+      {
+        "term": {
+          "en": "barrier lake",
+          "zh-TW": "堰塞湖"
+        },
+        "blurb": {
+          "en": "Lake formed when a landslide blocks a river; its dam failure caused the Hualien flooding.",
+          "zh-TW": "山崩堵塞河道形成的湖泊；其潰壩造成花蓮洪災。"
+        }
+      },
+      {
+        "term": {
+          "en": "migrant worker",
+          "zh-TW": "移工"
+        },
+        "blurb": {
+          "en": "Foreign laborers at the center of the contract-loophole report.",
+          "zh-TW": "合約漏洞報導中處於核心的外籍勞工。"
+        }
+      },
+      {
+        "term": {
+          "en": "AB contract",
+          "zh-TW": "AB 合約"
+        },
+        "blurb": {
+          "en": "Two-tier contract practice described in the report: workers sign one contract abroad and are forced to switch to a worse one after arrival.",
+          "zh-TW": "報導中的雙合約手法：勞工在海外簽一份，入境後被迫換成條件更差的一份。"
+        }
+      }
+    ]
+  },
+  {
+    "id": "live-energy-01-supreme-court-hears-argu",
+    "category": "energy",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-energy-01-supreme-court-hears-argu.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Supreme Court hears arguments in Boulder County, Colorado, climate case",
+      "zh-TW": "相關封面圖：最高法院聽取科羅拉多州博爾德縣氣候案件的辯論"
+    },
+    "publishedAt": "2026-10-08T15:58:00.000Z",
+    "title": {
+      "en": "Supreme Court Weighs Whether Cities Can Sue Big Oil in State Courts Over Climate Damage",
+      "zh-TW": "美國最高法院（U.S. Supreme Court）審理博爾德縣氣候案：各市縣能否在州法院向石油巨頭求償"
+    },
+    "summary": {
+      "en": "In a case that could affect dozens of similar lawsuits nationwide, the US Supreme Court has heard arguments on whether cities and counties can use state courts to seek damages from fossil fuel companies. Suncor Energy and ExxonMobil are trying to stop the lawsuits at the state level; after a nearly two-hour hearing, the court’s lean remained unclear.",
+      "zh-TW": "一起可能影響全美數十起類似訴訟的案件中，美國最高法院已開庭辯論：各市與縣能否利用州法院向化石燃料公司求償。森科爾能源（Suncor Energy）與埃克森美孚（ExxonMobil）正試圖把訴訟擋在州法院之外；近兩小時的辯論結束後，法院的傾向仍不明朗。"
+    },
+    "body": {
+      "en": "The US Supreme Court has begun its new nine-month term by hearing arguments in a major climate case out of Boulder County, Colorado, in which fossil fuel companies are seeking to stop cities and counties from suing them in state courts over climate damage.\nWhat happened\nAccording to ESG Dive and The Guardian, the justices heard nearly two hours of arguments on whether local governments can use state courts to seek damages from fossil fuel companies. Suncor Energy and ExxonMobil are attempting to block the lawsuits at the state level, in what The Guardian describes as a bid to strike a fatal blow against litigation holding big oil accountable for the climate crisis. The case could affect dozens of similar lawsuits across the country. After the hearing, it was not yet clear how the court would lean.\nWhy it matters\nThe ruling could decide the venue — and the viability — of a wave of climate liability suits. If the companies succeed in pushing the cases out of state courts, dozens of local efforts to recover climate-related costs could stall; if the localities prevail, state courts become a live front in climate accountability.\nSources agree / disagree\nBoth outlets describe the same hearing and the same stakes with no conflicts in the snippets. Trust label: two outlets consistent on the core facts; details beyond the snippets remain unconfirmed.\nStill uncertain\nThe snippets cut off before any analysis of the justices’ questions, and no ruling or timeline is given. Click through to the linked outlets for full coverage of the arguments.",
+      "zh-TW": "美國最高法院在新開議的九個月會期之初，開庭審理來自科羅拉多州博爾德縣的重大氣候案件：化石燃料公司正試圖阻止各市與縣在州法院就氣候損害對其提告求償。\n發生了什麼事\n據能源媒體（ESG Dive）與《衛報》（The Guardian）報導，大法官們花了近兩小時辯論：地方政府能否利用州法院向化石燃料公司求償。森科爾能源與埃克森美孚試圖把訴訟擋在州法院層級之外，《衛報》形容這是石油巨頭試圖對追究氣候責任的訴訟給予致命一擊。此案可能影響全美數十起類似訴訟；辯論結束後，法院的傾向尚不明朗。\n為什麼重要\n裁決將決定這波氣候求償訴訟的戰場與存續。若石油公司成功把案件推出州法院，數十起地方求償行動可能停擺；若地方政府勝出，州法院將成為氣候究責的新戰線。\n來源異同\n兩家媒體描述的是同一場辯論與同樣的利害關係，摘要中沒有衝突。信任標籤：兩家來源核心事實一致；摘要之外的細節仍未確認。\n仍不確定\n摘要在大法官提問的分析前就中斷，也未提供裁決或時程。請點進原文連結查閱完整的辯論報導。"
+    },
+    "sources": [
+      {
+        "name": "ESG Dive",
+        "url": "https://www.esgdive.com/news/supreme-court-hears-arguments-in-boulder-county-colorado-climate-case/832503/"
+      },
+      {
+        "name": "The Guardian Environment",
+        "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 14,
       "outletReputation": 19,
@@ -180,284 +607,169 @@
     "tags": [
       "energy",
       "live-ingest",
-      "the-guardian-climate-crisis",
-      "science-科學新聞"
+      "esg-dive",
+      "the-guardian-environment"
     ],
     "glossary": [
       {
         "term": {
-          "en": "chinstrap penguin",
-          "zh-TW": "帽帶企鵝"
+          "en": "U.S. Supreme Court",
+          "zh-TW": "美國最高法院"
         },
         "blurb": {
-          "en": "A penguin species named for the thin black band under its head, once over a million strong on Zavodovski Island.",
-          "zh-TW": "下巴有一圈黑色細線而得名的企鵝，曾在扎沃多夫斯基島逾百萬隻。"
+          "en": "Highest US court hearing the Boulder County climate case in its new nine-month term.",
+          "zh-TW": "美國最高法院，在新開議的九個月會期中審理博爾德縣氣候案。"
         }
       },
       {
         "term": {
-          "en": "Zavodovski Island",
-          "zh-TW": "扎沃多夫斯基島"
+          "en": "Boulder County",
+          "zh-TW": "博爾德縣"
         },
         "blurb": {
-          "en": "A remote volcanic island in the South Atlantic, home to the world's largest penguin colony.",
-          "zh-TW": "南大西洋偏遠火山島，全球最大企鵝群落所在地。"
+          "en": "Colorado county at the center of the climate-damage lawsuit.",
+          "zh-TW": "氣候損害訴訟核心的科羅拉多州郡。"
         }
       },
       {
         "term": {
-          "en": "South Sandwich Islands",
-          "zh-TW": "南桑威奇群島"
+          "en": "Suncor Energy",
+          "zh-TW": "森科爾能源"
         },
         "blurb": {
-          "en": "An island chain in the southern Atlantic Ocean; Zavodovski is its northernmost island.",
-          "zh-TW": "南大西洋島鏈，扎沃多夫斯基島為其最北端。"
+          "en": "Fossil fuel company seeking to block the state-level lawsuits.",
+          "zh-TW": "試圖阻擋州層級訴訟的化石燃料公司。"
         }
       },
       {
         "term": {
-          "en": "climate crisis",
-          "zh-TW": "氣候危機"
+          "en": "ExxonMobil",
+          "zh-TW": "埃克森美孚"
         },
         "blurb": {
-          "en": "Long-term warming driven by greenhouse gases, blamed here for making penguin food scarce.",
-          "zh-TW": "溫室氣體導致的長期暖化，被認為是企鵝食物短缺的主因。"
+          "en": "Oil major also seeking to stop the climate lawsuits at the state level.",
+          "zh-TW": "同樣試圖在州層級擋下氣候訴訟的石油巨頭。"
+        }
+      },
+      {
+        "term": {
+          "en": "ESG Dive",
+          "zh-TW": "ESG Dive"
+        },
+        "blurb": {
+          "en": "News outlet covering the Supreme Court arguments.",
+          "zh-TW": "報導最高法院辯論的新聞媒體。"
         }
       },
       {
         "term": {
           "en": "The Guardian",
-          "zh-TW": "《衛報》"
+          "zh-TW": "衛報"
         },
         "blurb": {
-          "en": "British newspaper whose climate desk reported the study.",
-          "zh-TW": "報導該研究的英國報紙氣候線。"
-        }
-      },
-      {
-        "term": {
-          "en": "Science",
-          "zh-TW": "《科學》"
-        },
-        "blurb": {
-          "en": "Leading peer-reviewed science journal that covered the colony's decline.",
-          "zh-TW": "報導群落衰退的權威同行評審科學期刊。"
+          "en": "British newspaper whose environment desk covered big oil’s bid to block the suits.",
+          "zh-TW": "其環境版報導石油巨頭阻擋訴訟企圖的英國報紙。"
         }
       }
     ]
   },
   {
-    "id": "live-semiconductor-01-pre-orders-are-live-on-n",
-    "category": "semiconductor",
+    "id": "live-international-03-more-than-500-u-s-citize",
+    "category": "international",
     "adult": false,
-    "isHeadline": true,
+    "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-semiconductor-01-pre-orders-are-live-on-n.jpg",
+    "imageUrl": "/covers/live/live-international-03-more-than-500-u-s-citize.jpg",
     "imageAlt": {
-      "en": "Cover related to: Pre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599",
-      "zh-TW": "相關封面圖：Nvidia RTX Spark 設備已開始預訂，請在此處預訂 Surface Laptop Ultra 或其他 RTX Spark 筆記型電腦 - 起價為 2,599 美元"
+      "en": "Cover related to: More Than 500 U.S. Citizens Have Been Detained, Including Handcuffed or Held at Gunpoint, in Trump’s Immigration Crackdown",
+      "zh-TW": "相關封面圖：在川普的移民鎮壓中，超過 500 名美國公民被拘留，包括被戴上手銬或被槍指著"
     },
-    "publishedAt": "2026-10-07T22:52:39.000Z",
+    "publishedAt": "2026-10-08T21:37:35.000Z",
     "title": {
-      "en": "Nvidia RTX Spark Laptops Open for Pre-order: Surface Laptop Ultra Starts at $2,599",
-      "zh-TW": "輝達 RTX Spark 筆電開放預購：Surface Laptop Ultra 15 吋 2,599 美元起"
+      "en": "White House Blocks Microsoft and Adobe From PERM Green-Card Program Over Alleged Fraud",
+      "zh-TW": "白宮擋下微軟（Microsoft）與奧多比（Adobe）參與勞工認證計畫（PERM）：涉詐欺疑雲，外籍專業人士工作簽證（H-1B）員工綠卡路徑遭暫停"
     },
     "summary": {
-      "en": "Pre-orders are live for the first laptops powered by Nvidia's RTX Spark chip, positioned against high-end MacBook Pros. Microsoft's 15-inch Surface Laptop Ultra starts at $2,599, with a $6,000 Surface RTX Spark Dev Box also offered; machines from Dell, Lenovo, MSI, HP, and Asus ship in November.",
-      "zh-TW": "首批搭載輝達 RTX Spark 晶片的筆電開放預購，對標高階 MacBook Pro。微軟 15 吋 Surface Laptop Ultra 2,599 美元起，另有 6,000 美元的 Surface RTX Spark 開發機；戴爾、聯想、微星、惠普、華碩機種 11 月出貨。"
+      "en": "Vice President JD Vance announced Thursday that Microsoft and Adobe are blocked from the PERM program — a path for H-1B workers to obtain green cards — over alleged fraud and abuse. IT outsourcing firms including Cognizant, Infosys, and Tata Consultancy are also caught in the suspension, escalating the administration’s crackdown on immigrant labor.",
+      "zh-TW": "副總統范斯（JD Vance）週四宣布，微軟與奧多比（Adobe）因涉嫌詐欺與濫用，被排除在勞工認證計畫（PERM）之外——該計畫是外籍專業人士工作簽證（H-1B）員工取得綠卡的途徑之一。包括高知特（Cognizant）、印孚瑟斯（Infosys）、塔塔諮詢（Tata Consultancy）在內的資訊科技外包公司也被納入暫停範圍，川普政府對移民勞工的打壓再升級。"
     },
     "body": {
-      "en": "What happened\nPre-orders have opened for the first wave of laptops powered by Nvidia's new RTX Spark chip. The flagship is Microsoft's 15-inch Surface Laptop Ultra, starting at $2,599, joined by RTX Spark machines from Dell, Lenovo, MSI, HP, and Asus, with shipments expected in November. Engadget also details a $6,000 Surface RTX Spark Dev Box — described as resembling an oversized Lego brick — aimed at developers. The Verge notes some configurations reach up to $7,000, and The Register frames the launch as Microsoft sidelining Intel in favor of Nvidia silicon.\nWhy it matters\nThis is Nvidia's most direct assault yet on the high-end laptop market long dominated by Apple silicon and Intel: RTX Spark machines are pitched at buyers who want to run demanding AI workloads locally rather than in the cloud. If the performance claims hold, it redraws the premium Windows laptop map and deepens the Microsoft–Nvidia alliance.\nSources agree / disagree\nThe Verge, Engadget, Tom's Hardware, and The Register agree on the essentials — pre-orders live, $2,599 starting price for the Surface Laptop Ultra, November shipping, and a $6,000 dev box. The varying figures ($2,599, $6,000, up to $7,000) refer to different products and configurations, not conflicting reports. Trust label: multiple sources agree.\nStill uncertain\nIndependent performance testing, battery life, and real-world availability are not yet established. Prices and ship dates come from launch announcements; verify before ordering.",
-      "zh-TW": "發生了什麼事\n首批搭載輝達新款 RTX Spark 晶片的筆電開放預購。旗艦機是微軟 15 吋 Surface Laptop Ultra，2,599 美元起跳，戴爾、聯想、微星、惠普、華碩也推出 RTX Spark 機種，預計 11 月出貨。Engadget 另介紹 6,000 美元的 Surface RTX Spark 開發機——外型被形容像放大的樂高積木——主攻開發者；The Verge 指出高階配置上看 7,000 美元，The Register 則解讀為微軟揚棄英特爾、轉投輝達懷抱。\n為什麼重要\n這是輝達迄今對高階筆電市場最直接的一次進攻，挑戰蘋果晶片與英特爾長期主導的版圖：RTX Spark 主打在本地端運行高負載 AI 工作，而非依賴雲端。若效能宣稱屬實，將重繪高階 Windows 筆電版圖，也深化微軟與輝達的結盟。\n來源異同\n四家媒體在要點上一致：預購開跑、Surface Laptop Ultra 2,599 美元起、11 月出貨、6,000 美元開發機。數字差異（2,599／6,000／上看 7,000）指的是不同產品與配置，並非報導衝突。信任標籤：多源一致。\n仍不確定\n獨立效能測試、續航力與實際供貨狀況尚未確認。價格與出貨時程來自發表公告，下單前請再查證。"
+      "en": "The Trump administration is suspending Microsoft’s, Adobe’s, and several other IT firms’ ability to hire foreign-born workers for US permanent residency, Vice President JD Vance announced Thursday, citing alleged fraud and abuse in the PERM labor certification program.\nWhat happened\nAccording to BBC Business, Tom’s Hardware, and Axios, Microsoft and Adobe are now blocked from the PERM program — one of the possible paths for the firms’ H-1B workers to eventually obtain green card status. Vance said the move was triggered by alleged fraud and abuse. IT outsourcing firms including Cognizant, Infosys, Tata Consultancy, Wipro, HCL, and Capgemini are also caught in the crackdown, and one feed item says the move will affect hundreds of companies tied to the tech giant. The PERM program has for years allowed US tech companies to hire highly skilled workers from abroad.\nWhy it matters\nBlocking household names like Microsoft and Adobe from the green-card pipeline escalates the administration’s crackdown on immigrant labor and could disrupt hiring plans across the tech sector, where H-1B workers have long been a core part of the workforce.\nSources agree / disagree\nBBC Business, Tom’s Hardware, and Axios agree on the core story: the PERM suspension, the named companies, and the alleged-fraud rationale. The feed also bundled two unrelated items — a ProPublica investigation finding more than 500 US citizens detained in the immigration crackdown, and an Axios item on Trump calling anyone who says ‘AI’ instead of ‘super intelligence’ ‘the enemy’ — plus listings from the Financial Times and NPR News with no headline detail in the snippets. Those are separate stories, not corroboration of the PERM move. Trust label: three outlets consistent on the PERM story; other bundled items are unrelated — treat separately.\nStill uncertain\nThe snippets give no detail on what the alleged fraud involved, no full list of affected firms, and no timeline for the suspension. Click through to the linked outlets for the full reporting before quoting.",
+      "zh-TW": "副總統范斯週四宣布，川普政府將暫停微軟、奧多比（Adobe）與其他數家資訊科技公司為外籍出生勞工申請美國永久居留的能力，理由是勞工認證計畫（PERM）涉嫌詐欺與濫用。\n發生了什麼事\n據 BBC 商業版（BBC Business）、科技媒體（Tom’s Hardware）與新聞網站（Axios）報導，微軟與奧多比現已被排除在勞工認證計畫之外——該計畫是這些公司外籍專業人士工作簽證員工最終取得綠卡身分的途徑之一。范斯表示，此舉是因涉嫌詐欺與濫用而觸發。高知特、印孚瑟斯、塔塔諮詢（Tata Consultancy）、威普羅（Wipro）、HCL 科技（HCL）與凱捷（Capgemini）等資訊科技外包公司也被納入這波打壓；其中一則摘要稱，此舉將影響這家科技巨頭旗下的數百家公司。多年來，勞工認證計畫讓美國科技公司得以聘用海外高技能人才。\n為什麼重要\n把微軟、奧多比這種家喻戶曉的企業擋在綠卡管道之外，讓川普政府對移民勞工的打壓再升級，也可能打亂科技業的招聘計畫——外籍專業人士工作簽證員工長期是科技業勞動力的重要組成。\n來源異同\nBBC 商業版、科技媒體與新聞網站對核心事件一致：勞工認證計畫暫停、被點名的公司、以及涉嫌詐欺的理由。同一批次還混入兩則無關報導——非營利新聞室（ProPublica）調查指超過 500 名美國公民在移民打壓中被拘留，以及新聞網站報導川普稱說「AI」而非「超級智慧」的人是「敵人」——另有《金融時報》（Financial Times）與美國公共廣播電台（NPR）的來源列表，但摘要中沒有標題細節。這些是不同事件，不是勞工認證計畫政策的佐證。信任標籤：三家來源對勞工認證計畫事件一致；其他混入項目無關，應分開看待。\n仍不確定\n摘要未說明涉嫌詐欺的具體內容，也沒有完整的受影響公司名單與暫停時程。引用前請點進原文連結查閱完整報導。"
     },
     "sources": [
       {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000"
-      },
-      {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2280568/heres-what-the-dollar6000-surface-rtx-spark-dev-box-looks-like/"
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss"
       },
       {
         "name": "Tom's Hardware",
-        "url": "https://www.tomshardware.com/laptops/pre-orders-are-live-on-nvidia-rtx-spark-devices-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptop-starting-at-usd2-599-pricing-and-availability-revealed-on-several-models"
+        "url": "https://www.tomshardware.com/tech-industry/policy/u-s-suspends-green-card-path-for-h-1b-workers-at-microsoft-and-adobe-labor-certification-program-blocked-due-to-alleged-fraud"
       },
       {
-        "name": "The Register",
-        "url": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722"
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house"
+      },
+      {
+        "name": "ProPublica",
+        "url": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1"
+      },
+      {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack"
       }
     ],
-    "disagreements": null,
-    "trustScore": 83,
+    "disagreements": {
+      "en": "This card mixes at least three different stories: the PERM suspension for Microsoft/Adobe (BBC, Tom’s Hardware, Axios), a ProPublica investigation on 500+ detained US citizens, and an Axios item on Trump’s ‘AI’ vs ‘super intelligence’ remark. The headline about detained citizens does not describe the PERM story that most items cover — they should not be read as one event.",
+      "zh-TW": "本卡混入至少三件不同事件：微軟／奧多比的勞工認證計畫暫停（BBC、Tom’s Hardware、Axios）、非營利新聞室關於 500 多名美國公民被拘留的調查，以及新聞網站報導川普「AI」對「超級智慧」的言論。關於公民被拘留的標題描述的並非多數報導涵蓋的勞工認證計畫事件，不應視為同一件事。"
+    },
+    "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 25,
-      "outletReputation": 16,
+      "outletReputation": 19,
       "crossCorroboration": 17,
       "recencyClarity": 25
     },
     "tags": [
-      "semiconductor",
+      "international",
       "live-ingest",
-      "the-verge",
-      "engadget",
-      "engadget"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "RTX Spark",
-          "zh-TW": "RTX Spark"
-        },
-        "blurb": {
-          "en": "Nvidia's new chip for premium laptops, designed to run demanding AI workloads locally.",
-          "zh-TW": "輝達新款高階筆電晶片，主打在本地端運行高負載 AI 工作。"
-        }
-      },
-      {
-        "term": {
-          "en": "Surface Laptop Ultra",
-          "zh-TW": "Surface Laptop Ultra"
-        },
-        "blurb": {
-          "en": "Microsoft's flagship 15-inch RTX Spark laptop, starting at $2,599.",
-          "zh-TW": "微軟旗艦 15 吋 RTX Spark 筆電，2,599 美元起。"
-        }
-      },
-      {
-        "term": {
-          "en": "Dev Box",
-          "zh-TW": "開發機"
-        },
-        "blurb": {
-          "en": "A desktop-style developer machine; the Surface RTX Spark Dev Box costs $6,000.",
-          "zh-TW": "桌機型開發者主機，Surface RTX Spark 開發機要價 6,000 美元。"
-        }
-      },
-      {
-        "term": {
-          "en": "The Verge",
-          "zh-TW": "The Verge"
-        },
-        "blurb": {
-          "en": "US tech publication covering the launch and pricing.",
-          "zh-TW": "報導發表與售價的美國科技媒體。"
-        }
-      },
-      {
-        "term": {
-          "en": "Tom's Hardware",
-          "zh-TW": "Tom's Hardware"
-        },
-        "blurb": {
-          "en": "Hardware-focused outlet tracking the pre-orders.",
-          "zh-TW": "追蹤預購動態的硬體專業媒體。"
-        }
-      },
-      {
-        "term": {
-          "en": "Engadget",
-          "zh-TW": "Engadget"
-        },
-        "blurb": {
-          "en": "Tech outlet that went hands-on with the Surface RTX Spark Dev Box.",
-          "zh-TW": "實際上手開發機的科技媒體。"
-        }
-      },
-      {
-        "term": {
-          "en": "MacBook Pro",
-          "zh-TW": "MacBook Pro"
-        },
-        "blurb": {
-          "en": "Apple's high-end laptop line that RTX Spark machines are positioned against.",
-          "zh-TW": "RTX Spark 筆電對標的蘋果高階筆電系列。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-finance-01-microsoft-releases-new-n",
-    "category": "finance",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-finance-01-microsoft-releases-new-n.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "zh-TW": "相關封面圖：微軟發表新的 Nvidia 晶片 AI PC，搭載改良的 Windows 11"
-    },
-    "publishedAt": "2026-10-07T20:22:37.000Z",
-    "title": {
-      "en": "Microsoft Unveils Nvidia-Powered AI PCs With Revamped Windows 11",
-      "zh-TW": "微軟發表輝達晶片 AI 筆電：Windows 11 大改版，拚本地端 AI 算力"
-    },
-    "summary": {
-      "en": "Microsoft unveiled a new class of Windows laptops powered by Nvidia's RTX Spark chip and a revamped Windows 11, designed to run AI models and agents directly on the device. CEO Satya Nadella and Nvidia CEO Jensen Huang fronted the push to tie Windows more closely to the AI boom.",
-      "zh-TW": "微軟發表搭載輝達 RTX Spark 晶片的新一代 Windows 筆電與改版 Windows 11，主打在裝置端直接運行 AI 模型與代理。執行長薩蒂亞·納德拉（Satya Nadella）與輝達執行長黃仁勳（Jensen Huang）聯手造勢，深化 Windows 與 AI 熱潮的連結。"
-    },
-    "body": {
-      "en": "What happened\nMicrosoft on Wednesday unveiled a new class of Nvidia-powered Windows laptops alongside a revamped Windows 11, its latest effort to tie the operating system more closely to the AI boom. The machines run on Nvidia's RTX Spark chips and are designed to run AI models and agents locally on the device rather than relying entirely on the cloud. Microsoft revealed specs and pricing for its Surface Laptop Ultra, with MarketWatch describing the Microsoft–Nvidia tie-up as a supercharged AI laptop play, TechCrunch covering the new AI PCs, and Axios framing it as Microsoft's attempt to reboot the AI PC category.\nWhy it matters\nMicrosoft is trying to carve out a high-end laptop category for people who want serious on-device AI — a bet that the next Windows upgrade cycle will be driven by local model performance, not just cloud services. With Nadella and Huang appearing together, the launch also signals how central Nvidia silicon has become to Microsoft's hardware story.\nSources agree / disagree\nMarketWatch, TechCrunch, and Axios agree on the core news — Nvidia-chip AI PCs, revamped Windows 11, local AI workloads — with no numeric or naming conflicts in the snippets. Trust label: multiple sources agree.\nStill uncertain\nPricing beyond the headline models, exact ship dates, and how the revamped Windows 11's AI features will work in practice remain to be detailed. Verify on the publishers' pages.",
-      "zh-TW": "發生了什麼事\n微軟週三發表新一代搭載輝達晶片的 Windows 筆電與改版 Windows 11，是讓作業系統與 AI 熱潮更緊密連結的最新布局。這些筆電採用輝達 RTX Spark 晶片，主打在裝置端直接運行 AI 模型與代理，而非完全依賴雲端。微軟同時公布 Surface Laptop Ultra 的規格與售價；MarketWatch 稱此為微軟–輝達聯手的超級 AI 筆電，TechCrunch 聚焦新款 AI PC，Axios 則解讀為微軟重振 AI PC 品類的一搏。\n為什麼重要\n微軟試圖為想在本地端跑重度 AI 的用戶開闢高階筆電新品類，賭的是下一波 Windows 換機潮將由裝置端模型效能、而不只是雲端服務來驅動。納德拉與黃仁勳同台，也顯示輝達晶片在微軟硬體敘事中的核心地位。\n來源異同\n三家媒體在核心消息上一致——輝達晶片 AI PC、改版 Windows 11、本地端 AI 負載——摘要中無數字或名稱衝突。信任標籤：多源一致。\n仍不確定\n旗艦機之外的定價、確切出貨時程，以及改版 Windows 11 的 AI 功能實際運作方式，仍待公布。細節請查閱原文。"
-    },
-    "sources": [
-      {
-        "name": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories"
-      },
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-      },
-      {
-        "name": "Axios",
-        "url": "https://www.axios.com/2026/10/07/microsoft-looks-to-reboot-the-ai-pc-with-nvidia"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 75,
-    "trustBreakdown": {
-      "sourceDiversity": 20,
-      "outletReputation": 16,
-      "crossCorroboration": 14,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "finance",
-      "live-ingest",
-      "marketwatch",
-      "techcrunch",
+      "bbc-business",
+      "tom's-hardware",
       "axios"
     ],
     "glossary": [
       {
         "term": {
-          "en": "AI PC",
-          "zh-TW": "AI PC"
+          "en": "PERM",
+          "zh-TW": "勞工認證計畫"
         },
         "blurb": {
-          "en": "A category of personal computers designed to run AI workloads locally.",
-          "zh-TW": "主打在本地端運行 AI 工作的個人電腦品類。"
+          "en": "US labor certification program; one path for H-1B workers to obtain green cards.",
+          "zh-TW": "美國勞工認證計畫；外籍專業人士工作簽證員工取得綠卡的途徑之一。"
         }
       },
       {
         "term": {
-          "en": "Windows 11",
-          "zh-TW": "Windows 11"
+          "en": "H-1B",
+          "zh-TW": "外籍專業人士工作簽證"
         },
         "blurb": {
-          "en": "Microsoft's operating system, now revamped to tie in more closely with AI features.",
-          "zh-TW": "微軟作業系統，本次改版深化與 AI 功能的整合。"
+          "en": "US visa category for highly skilled foreign workers.",
+          "zh-TW": "美國高技能外籍勞工的簽證類別。"
         }
       },
       {
         "term": {
-          "en": "Nvidia",
-          "zh-TW": "輝達"
+          "en": "JD Vance",
+          "zh-TW": "范斯"
         },
         "blurb": {
-          "en": "US chipmaker whose RTX Spark silicon powers the new machines.",
-          "zh-TW": "新機採用的 RTX Spark 晶片製造商，美國晶片大廠。"
+          "en": "US vice president who announced the suspension on Thursday.",
+          "zh-TW": "週四宣布暫停措施的美國副總統。"
         }
       },
       {
@@ -466,721 +778,659 @@
           "zh-TW": "微軟"
         },
         "blurb": {
-          "en": "US software giant launching the new AI PC lineup.",
-          "zh-TW": "發表新 AI PC 陣容的美國軟體巨擘。"
+          "en": "Tech company blocked from the PERM program over alleged fraud.",
+          "zh-TW": "因涉嫌詐欺被排除在勞工認證計畫之外的科技公司。"
         }
       },
       {
         "term": {
-          "en": "Satya Nadella",
-          "zh-TW": "薩蒂亞·納德拉"
+          "en": "Adobe",
+          "zh-TW": "奧多比"
         },
         "blurb": {
-          "en": "CEO of Microsoft, who fronted the launch.",
-          "zh-TW": "微軟執行長，親自為發表站台。"
+          "en": "Software company also blocked from the PERM program.",
+          "zh-TW": "同樣被排除在勞工認證計畫之外的軟體公司。"
         }
       },
       {
         "term": {
-          "en": "Jensen Huang",
-          "zh-TW": "黃仁勳"
+          "en": "ProPublica",
+          "zh-TW": "ProPublica"
         },
         "blurb": {
-          "en": "CEO of Nvidia, appearing alongside Nadella.",
-          "zh-TW": "輝達執行長，與納德拉同台。"
+          "en": "Nonprofit newsroom whose separate investigation on detained US citizens was bundled into this card.",
+          "zh-TW": "非營利新聞室，其關於美國公民被拘留的獨立調查被混入本卡。"
         }
       }
     ]
   },
   {
-    "id": "live-taiwan-01-500",
-    "category": "taiwan",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-taiwan-01-500.jpg",
-    "imageAlt": {
-      "en": "Cover related to: 荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - 經濟日報",
-      "zh-TW": "相關封面圖：荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - 經濟日報"
-    },
-    "publishedAt": "2026-10-08T00:21:41.000Z",
-    "title": {
-      "en": "TAIFEX Night Session Tumbles as Hormuz Tensions and Rising Treasury Yields Rattle Markets",
-      "zh-TW": "荷莫茲海峽緊張、美債殖利率走高衝擊：台指期夜盤重挫，法人估高檔震盪"
-    },
-    "summary": {
-      "en": "Taiwan stock index futures plunged in the night session as U.S. long-term Treasury yields climbed again and Hormuz tensions weighed on sentiment. U.S. indexes closed broadly lower, with the Philadelphia Semiconductor Index down 151.67 points, over 1%; the Taiex slipped 16.18 points to 49,806.37 on Oct 7 ahead of the National Day holiday.",
-      "zh-TW": "美國長天期公債殖利率再走高、荷莫茲海峽情勢緊張，美股主要指數全面收黑，費半指數跌 151.67 點、跌幅逾 1%。台股 7 日小跌 16.18 點收 49,806.37 點，台指期夜盤重挫；國慶連假將至，法人估台股維持高檔震盪。"
-    },
-    "body": {
-      "en": "What happened\nU.S. long-term Treasury yields moved higher again, reviving market worries about inflation and rising debt, and major U.S. indexes closed broadly lower, reports CNA. The Philadelphia Semiconductor Index — closely correlated with Taiwan stocks — fell 151.67 points, more than 1%. The Taiex slipped 16.18 points on Oct 7 to close at 49,806.37, and TAIFEX night-session futures tumbled, with the Economic Daily's headline putting the drop at 500 points and citing Strait of Hormuz tensions plus the Treasury-yield shock. With the National Day holiday approaching, dealers expect the Taiex to stay in high-level consolidation.\nWhy it matters\nThe combination of geopolitical risk in the Hormuz Strait and renewed upward pressure on U.S. yields is a double hit for Taiwan's export- and chip-heavy market: higher yields pressure valuations while energy-route risk stokes inflation fears. A holiday-thinned session ahead means any overnight move can be amplified.\nSources agree / disagree\nCNA and the Economic Daily agree on direction and drivers — U.S. weakness, yields, Hormuz — but disagree on the size of the night-session drop: the Economic Daily headline says 500 points while CNA's text says 375. Trust label: narrative diverges on figures.\nStill uncertain\nThe final night-session print and how much of the move carries into the cash session after the holiday are not yet known. Verify figures on the publishers' pages before quoting.",
-      "zh-TW": "發生了什麼事\n據中央社報導，美國長天期公債殖利率重新走高，再度引發市場對通膨及債務攀升的擔憂，美股主要指數全面收黑。與台股關聯性高的費城半導體指數下跌 151.67 點，跌幅逾 1%；台股 7 日小跌 16.18 點，收在 49,806.37 點，台指期夜盤重挫——《經濟日報》標題稱下跌 500 點，點名荷莫茲海峽情勢與美債殖利率衝擊。國慶連假即將來臨，法人預估台股維持高檔震盪。\n為什麼重要\n荷莫茲海峽地緣風險疊加美債殖利率走高，對出口與晶片權重高的台股是雙重打擊：殖利率壓抑評價，能源航道風險則助長通膨疑慮。連假前交投清淡，夜盤的波動容易被放大。\n來源異同\n中央社與《經濟日報》在方向與成因上一致——美股走弱、殖利率、荷莫茲海峽——但對夜盤跌幅數字不一：《經濟日報》標題寫 500 點，中央社內文為 375 點。信任標籤：敘述有分歧。\n仍不確定\n夜盤最終跌點、以及連假後現貨開盤會承接多少跌幅，目前未知。引用數字前請以原文查證。"
-    },
-    "sources": [
-      {
-        "name": "中央社-產經證券",
-        "url": "https://www.cna.com.tw/news/afe/202610080025.aspx"
-      },
-      {
-        "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaS3BqaDVOd1BDZzFFZ3RsdUdtY250Q1E5RkhDQXVaR1NpaVBPandSZzVaa25rYkROQVFWcHV4OF9ST3RaY29LMVQxQ3BMYjVHTXlaNnR6U2dKOGPSAWBBVV95cUxQLUpPSjhocVNFMjg3MmM0aG9RM05YZWhUbm0zTGY3Wi1XbHllaHBkUG9TT3RBUjN1NGxaSXBWTy1SeDdnUk5uS3NkT1FvbjU4dElmREtkNnN3dWJWZWVLT18?oc=5"
-      }
-    ],
-    "disagreements": {
-      "en": "The Economic Daily's headline puts the night-session drop at 500 points, while CNA's report text says the night session fell 375 points.",
-      "zh-TW": "《經濟日報》標題稱台指期夜盤下跌 500 點，中央社內文則寫夜盤下挫 375 點，數字不一。"
-    },
-    "trustScore": 74,
-    "trustBreakdown": {
-      "sourceDiversity": 14,
-      "outletReputation": 21,
-      "crossCorroboration": 14,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "taiwan",
-      "live-ingest",
-      "中央社-產經證券",
-      "經濟日報國際（google-news-代理）",
-      "中央社-產經證券"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "TAIFEX futures",
-          "zh-TW": "台指期"
-        },
-        "blurb": {
-          "en": "Taiwan stock index futures, which also trade in an after-hours night session.",
-          "zh-TW": "台灣股價指數期貨，另有夜盤交易時段。"
-        }
-      },
-      {
-        "term": {
-          "en": "night session",
-          "zh-TW": "夜盤"
-        },
-        "blurb": {
-          "en": "After-hours futures trading in Taiwan, often reacting to U.S. market moves.",
-          "zh-TW": "台灣期貨盤後交易時段，常反應美股走勢。"
-        }
-      },
-      {
-        "term": {
-          "en": "Philadelphia Semiconductor Index",
-          "zh-TW": "費城半導體指數"
-        },
-        "blurb": {
-          "en": "U.S. chip-stock benchmark closely correlated with Taiwan equities.",
-          "zh-TW": "與台股連動密切的美國半導體股指標。"
-        }
-      },
-      {
-        "term": {
-          "en": "U.S. Treasury yields",
-          "zh-TW": "美債殖利率"
-        },
-        "blurb": {
-          "en": "Returns on U.S. government bonds; rising long-term yields pressure stocks.",
-          "zh-TW": "美國公債報酬率；長天期殖利率走高會壓抑股市。"
-        }
-      },
-      {
-        "term": {
-          "en": "Strait of Hormuz",
-          "zh-TW": "荷莫茲海峽"
-        },
-        "blurb": {
-          "en": "Key oil-shipping chokepoint; tensions there stoke energy and inflation fears.",
-          "zh-TW": "重要石油運輸咽喉，情勢緊張助長能源與通膨疑慮。"
-        }
-      },
-      {
-        "term": {
-          "en": "Central News Agency",
-          "zh-TW": "中央社"
-        },
-        "blurb": {
-          "en": "Taiwan's national news agency, source of the market report.",
-          "zh-TW": "台灣的國家通訊社，本則市場報導的來源。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-04-story",
+    "id": "live-eastAsiaGossip-04-nownews",
     "category": "eastAsiaGossip",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "publishedAt": "2026-10-07T17:50:20.000Z",
+    "imageUrl": "/covers/live/live-eastAsiaGossip-04-nownews.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 蔡康永遭中國網友不滿 蔣萬安：尊重台灣 | NOWNEWS今日新聞",
+      "zh-TW": "相關封面圖：蔡康永遭中國網友不滿 蔣萬安：尊重台灣 | NOWNEWS今日新聞"
+    },
+    "publishedAt": "2026-10-09T01:37:32.000Z",
     "title": {
-      "en": "Tsai Kang-yung's Appearance at Shen Poyu Rally Draws Beijing Backlash",
-      "zh-TW": "蔡康永現身沈伯洋競總引發對岸抨擊：共軍帳號首發聲批「騎牆搖擺」"
+      "en": "TVBS Poll Shows Chiang Wan-an Leading Puma Shen 49% to 41% in Taipei Mayoral Race",
+      "zh-TW": "TVBS 最新民調：蔣萬安（Chiang Wan-an）49%、沈伯洋（Puma Shen）41%，蔡康永（Kevin Tsai）現身競總引中國網友不滿"
     },
     "summary": {
-      "en": "TV host Tsai Kang-yung appeared at legislative candidate Shen Poyu's campaign headquarters event, prompting criticism from mainland netizens and a first-ever commentary from the PLA-affiliated “Junzhengping” account warning against “fence-sitting between the mainland and Taiwan independence.” Shen said Tsai simply wanted to hear different voices; Taipei Mayor Chiang Wan-an said he disapproves of interfering with freedom of choice.",
-      "zh-TW": "主持人蔡康永現身沈伯洋競選總部成立大會，引發中國網友出征抵制，共軍帳號「鈞正平」首度發聲，批評「不容在大陸與台獨之間騎牆搖擺」。沈伯洋嘆蔡康永「只是想聽不同聲音」；台北市長蔣萬安表示不認同干預選擇自由。另有專訪指蔣萬安邀蔡康永坐鎮競總「搖滾區」，評論員陳敏鳳稱此舉考驗蔣萬安。"
+      "en": "A TVBS poll published October 8 shows Taipei Mayor Chiang Wan-an leading DPP challenger Puma Shen 49% to 41%, with 11% undecided, prompting debate as commentators say undecided voters are now key. Meanwhile, TV host Kevin Tsai's appearance at Shen's campaign office drew criticism from Chinese netizens and a Chinese military account, while Chiang said Taiwan must be respected.",
+      "zh-TW": "TVBS 8 日公布的台北市長民調顯示，蔣萬安（Chiang Wan-an）以 49% 領先民進黨參選人沈伯洋（Puma Shen）的 41%，未決定選民占 11%，差距拉近至個位數，引發熱議。同時，主持人蔡康永（Kevin Tsai）現身沈伯洋競選總部活動，遭中國網友批評，蔣萬安則回應應尊重台灣。"
     },
     "body": {
-      "en": "What happened\nTV host Tsai Kang-yung showed up at a campaign headquarters event for legislative candidate Shen Poyu, and the appearance quickly became a cross-strait flashpoint. Mainland netizens launched a boycott campaign against Tsai, and the PLA-affiliated commentary account “Junzhengping” issued its first statement on the matter, warning that no one will be allowed to “fence-sit and waver between the mainland and Taiwan independence.” Shen Poyu responded with regret, saying Tsai had simply wanted to hear different voices and that attending a rally is unremarkable in Taiwan. Taipei Mayor Chiang Wan-an said he does not condone interfering with people's freedom of choice. A separate interview notes Chiang invited Tsai to sit in the VIP “rock zone” at his own campaign headquarters, which commentator Chen Min-feng described as a test for Chiang.\nWhy it matters\nTaiwanese entertainers with mainland careers walk an increasingly narrow line: a single public appearance can trigger organized boycotts and official commentary from across the strait. The episode also shows how campaign-season symbolism — who sits where, who shows up — becomes political news in its own right.\nSources agree / disagree\nTen feed items from one heat-aggregation feed tell a consistent story — the appearance, the boycott, the Junzhengping post, and the responses from Shen and Chiang — with no numeric or naming conflicts in the snippets. Trust label: single aggregated source, internally consistent.\nStill uncertain\nWhether the boycott will affect Tsai's mainland work, and the full context of the Chiang interview, are not in the snippets. Verify on the publishers' pages.",
-      "zh-TW": "發生了什麼事\n主持人蔡康永現身立委參選人沈伯洋的競選總部成立大會，迅速成為兩岸焦點。中國網友發起抵制出征，共軍評論帳號「鈞正平」首度就此發聲，警告「不容在大陸與台獨之間騎牆搖擺」。沈伯洋表示惋惜，稱蔡康永「只是想聽不同聲音」，在台灣聽政見稀鬆平常；台北市長蔣萬安則說，不認同干預人民的選擇自由。另有專訪指出，蔣萬安邀蔡康永坐鎮自己競總的「搖滾區」，評論員陳敏鳳形容此舉是對蔣萬安的考驗。\n為什麼重要\n在中國有事業版圖的台灣藝人，走的鋼索越來越細：一次公開現身就可能引發有組織的抵制與對岸官方評論。此事也顯示選戰季節的象徵政治——誰現身、坐哪裡——本身就是新聞。\n來源異同\n10 則素材來自單一熱榜聚合，說法一致：現身、抵制、「鈞正平」發文、沈伯洋與蔣萬安的回應，摘要中無數字或名稱衝突。信任標籤：僅 1 源聚合，內部一致。\n仍不確定\n抵制是否影響蔡康永在中國的工作、蔣萬安專訪的完整脈絡，摘要中沒有。請以原文查證。"
+      "en": "Taipei's mayoral race is heating up on several fronts at once: a new TVBS poll shows incumbent Chiang Wan-an's lead over DPP challenger Puma Shen has narrowed to single digits, while Shen's campaign is generating a separate wave of online chatter — from a viral face-mask story to a cross-strait flare-up over TV host Kevin Tsai's appearance at Shen's campaign office.\nWhat happened\nTVBS published its latest Taipei mayoral poll on October 8: Chiang Wan-an stands at 49%, Puma Shen at 41%, with 11% of voters still undecided. Writer Chao Hsiao-hui said Chiang's loyal base appears nearly maxed out and the undecided 11% will be decisive. Shen also gave an interview to veteran media host Chou Yu-kou, whose second half aired today, answering questions about why Chiang should be replaced after just one term. Separately, Shen's skincare routine went viral after he mentioned wearing a face mask for three hours and sleeping in it, saying his forehead looked radiant the next morning — netizens hunted down the product, making \"Puma Shen mask\" a trending search term, and ETtoday's fashion section even had a doctor explain the correct way to use such masks. In another thread, Kevin Tsai's appearance at the launch of Shen's campaign headquarters drew criticism from Chinese netizens, and a Chinese military social-media account weighed in, saying it would not tolerate \"sitting on the fence between the mainland and Taiwan independence.\" Shen called the backlash regrettable, saying he only wanted to hear different voices; MAC official Liang Wen-chieh said supporting any candidate in Taiwan is easy and free; and Chiang responded that Taiwan deserves respect.\nWhy it matters\nThe poll is the first hard data point of this campaign cycle showing the race tightening: with Chiang's support apparently flat and one in nine voters undecided, both camps now face a genuine persuasion battle rather than a coronation. The Kevin Tsai episode shows how quickly entertainment figures get pulled into cross-strait political theater, and the mask story shows how much of this race is being fought on lifestyle and personality terrain as well as policy.\nSources agree / disagree\nFourteen named sources are attached, but this is not one corroborated story — the feed bundles four separate reporting threads: the TVBS poll (Liberty Times, TVBS-affiliated outlets), the Chou Yu-kou interview, the viral face-mask item (ETtoday Fashion), and the Kevin Tsai cross-strait incident (various Taiwan outlets). Within the poll thread, the figures are consistent across snippets: 49% for Chiang, 41% for Shen, 11% undecided — the raw-feed note about figures \"differing\" (\"41 vs 4\") appears to be garbled aggregation text, not a real conflict. Trust label: multi-source but fragmented across separate threads — treat each thread's claims separately; single aggregated heat feed, unconfirmed.\nStill uncertain\nThe snippets give no poll methodology, sample size, or margin of error, and quote only truncated reactions. The details of the Chinese military account's statement and the exact remarks by Chiang, Shen, and Liang are available only in abbreviated feed text. Click through to the linked outlets before quoting any figure or quote.",
+      "zh-TW": "台北市長選戰同時在多條戰線升溫：TVBS 最新民調顯示現任市長蔣萬安對民進黨參選人沈伯洋的領先已縮小到個位數；沈伯洋陣營也接連創造話題——從爆紅的面膜到主持人蔡康永現身競總引發的兩岸口水戰。\n發生了什麼事\nTVBS 8 日公布最新台北市長民調：蔣萬安（Chiang Wan-an）49%、沈伯洋（Puma Shen）41%，未決定選民占 11%。作家趙曉慧表示，蔣萬安的死忠基本盤差不多榨乾了，剩下的 11% 未決定選民將是關鍵。沈伯洋另接受資深媒體人周玉蔻專訪，下集於今日播出，回應「為何要換掉只做一任的蔣萬安」等提問。此外，沈伯洋的保養日常意外爆紅：他提到一款要敷 3 小時的面膜，自己通常敷完直接睡覺，隔天起床額頭特別亮；網友瘋找同款，「沈伯洋面膜」成為熱搜關鍵字，壹蘋時尚（ETtoday 時尚）還請醫師說明正確敷法。另一條支線是蔡康永（Kevin Tsai）現身沈伯洋競選總部成立活動，遭中國網友出征，中國軍方帳號也首度發聲，稱「不容在大陸與台獨之間騎牆搖擺」。沈伯洋嘆可惜，說只是想聽不同聲音；陸委會副主委梁文傑聲援，指在台灣支持哪個候選人都很輕鬆；蔣萬安則回應應尊重台灣。\n為什麼重要\n這是本屆選戰第一個顯示選情拉近的硬數據：蔣萬安支持度似已停滯，近一成選民未定，雙方進入真正的說服戰，而非一面倒的保衛戰。蔡康永事件顯示娛樂人物多快會被捲入兩岸政治劇場；面膜話題則顯示這場選戰除了政策，也在生活風格與個人魅力上開打。\n來源異同\n名單上有 14 個具名來源，但這不是一篇被交叉查證的單一報導——熱榜把四條不同支線綁在一起：TVBS 民調（自由時報等）、周玉蔻專訪、面膜爆紅（壹蘋時尚）、蔡康永兩岸爭議（多家台媒）。在民調支線內，數字各摘要一致：蔣萬安 49%、沈伯洋 41%、未定 11%；原始摘要裡「41 比 4」之類的分歧註記疑似聚合文字錯亂，並非真實衝突。信任標籤：多源但碎片化——各支線分開看待；單一熱榜聚合，未確認。\n仍不確定\n摘要未提供民調方法學、樣本數或誤差範圍，引用的評論也都是截斷片段。中國軍方帳號聲明的完整內容，以及蔣萬安、沈伯洋、梁文傑發言的確切用字，都只見於簡短摘要。引用任何數字或引言前，請點進原文連結查閱完整報導。"
     },
     "sources": [
       {
-        "name": "中央社cna",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BLWpDbzJub0lUc2dsVDBvQndTeFJZWk5tZFdtRDFqQ3V4Z1kwZF93UVRtWXhtUmR4Vld6azZQcHVfTWZ2X0lUOEtsWGdzWDJxUEFvM09aRzI4R3AyNFBn?oc=5"
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/politics/breakingnews/5600517"
       },
       {
-        "name": "新唐人電視台",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80T1ZYc1BnWEhUY2FRVzh6ano3LUQtcEhTcFdUbVo5TU51cEVJLXNUTEx4aWtQZE9tcUZPZms4anQzeXpBR29SdW1mR0hXSTNUSzhYemdSZTJ6d01pdlRnQ9IBZkFVX3lxTE9kbVJUM05IaVd5VHBld09ZcWRSeV81b2NiaFJLbFp5WVlzcThMNDVPbVRJb2FRWExFZWxlc1VlWGZfMGc0UHJ3NVFDaTlEdUVnQlZzbDJxQlhHWDU5T0tGSjB0dXhDUQ?oc=5"
+        "name": "ETtoday 時尚",
+        "url": "https://fashion.ettoday.net/news/3251444"
       },
       {
-        "name": "tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQWXdhOWpORHpQZ1ZTckdOMmVHUGNGSjlCMjc0WDNQWng0TnpBR19RS0JndUphWFg1d1VWRWQyZmhLSklUc1V2Y1p2REtxYUtva0RlOF93TWFBdXBIaDMwMlo5eDFIS0hzWXVjMmZHTFJYcWRudGQ4ZFdXdjdxbzV3c1hoWGpnSV9nQjdNZzZKUE0yQ1J0WlRNRWFhNzhfUWpIQ29UZlprY1dRWG0wOUxFUGpzZlRMc2NhTEVtUFQ5QXExVnh5aXhZei1rOUlaVVFzaVVIWm8tNWVlSDNnTzRXbk1YWU5MMG55WHJQa3VFcFJMWmpianZ0aUlhUnBwNEpEWlBXdS1ZV2IxLWdURERxRXp0QmktNlVGOWRTUlNfUF85QVRYXzJSM1Y5V29FSlJiVjVlbmlwX0xlMmJUQXJZZkh1R0x5c1FwdkVScWRJOTl1ZGtwaU1ROXhWeWJsQ05rV0VqZXNxNll4TEJ0SG5uQkczOXRtdHNvTzg0Y2hGTEdYTWhPXzYxLXlUZjBmaEdNMzM0bGl0MVlBV1ZTaDdvRWhtT0pBQzNHYzlJRXIzVVlfR2NBbE9vY21BM254N3NCdEQ0UkYzNENTLWJvMTA1N2VBVDlpZw?oc=5"
+        "name": "setn.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VanNqanRRSmVTTHRfaGNxMnl5M00zemRwU3ZidkpJSmhSTGRuU1pDRnVjd21yeDJ1bVNnR21WY1FoR3pKaldNVtIBTEFVX3lxTE52ajR1U083dS1UbWZrZl9FNlNWX1kwYXV4YjZrdFBHd21iOWpXV0haUEg1MGtydXlack1vcUVLQnVrTU5Hc0dPb2xFY0Y?oc=5"
+      },
+      {
+        "name": "鏡報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTXpfaXpJclQ4UDQ3T2RrOVJ1ejZBRlZWVmktUUVOaExWQTEtMHRrQjlkN0hMSmx0dVNMcHJCX1ZqaXFRbmxZbGJWbGhJYU5DTUE?oc=5"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MV1VpMHlBckxrOEVYWlNUTjVya2RVNjBwblJPdTVfWVRPaWpCejl0ZEJ6d2FUdFRxX05kNTZtZWNtTm00eF9WYWg2djR1NlF2Ym5ndTl3?oc=5"
+      },
+      {
+        "name": "chinatimes.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoUTNubGpPM2tMWjYxbTFXeTNWM29zYjZXaEJIMVJsLVJUTlYtYXVEWEZtYk04MDUxT0w5SVNkWjJqSDRmTDRYVG9uemh4Vy1aOG9oSWFvcHFlb1hwY0V4Nkl3REdXMlVGNmhMem9B?oc=5"
       },
       {
         "name": "udn.com",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81MlVMYkFqM1N5UzZ3Nk1yaGZtWDNpRmJRV2xDcFpLQm5qZWFwdTZrT1lkZzZ2QU90bjdzbnNtYlA3MTdJY2ZmdzF1T21ESVoxVno40gFYQVVfeXFMTm1QbktCVjktUjh6Rm14Y1JfQWluTl9aZFdILVpKVmRLRXZuSzhRNU5raXgwd1VzaGZCOTRtWlpKLXBjVWVadmhMV3l1VjRuS3owb1djVVAxdQ?oc=5"
       },
       {
+        "name": "tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQWXdhOWpORHpQZ1ZTckdOMmVHUGNGSjlCMjc0WDNQWng0TnpBR19RS0JndUphWFg1d1VWRWQyZmhLSklUc1V2Y1p2REtxYUtva0RlOF93TWFBdXBIaDMwMlo5eDFIS0hzWXVjMmZHTFJYcWRudGQ4ZFdXdjdxbzV3c1hoWGpnSV9nQjdNZzZKUE0yQ1J0WlRNRWFhNzhfUWpIQ29UZlprY1dRWG0wOUxFUGpzZlRMc2NhTEVtUFQ5QXExVnh5aXhZei1rOUlaVVFzaVVIWm8tNWVlSDNnTzRXbk1YWU5MMG55WHJQa3VFcFJMWmpianZ0aUlhUnBwNEpEWlBXdS1ZV2IxLWdURERxRXp0QmktNlVGOWRTUlNfUF85QVRYXzJSM1Y5V29FSlJiVjVlbmlwX0xlMmJUQXJZZkh1R0x5c1FwdkVScWRJOTl1ZGtwaU1ROXhWeWJsQ05rV0VqZXNxNll4TEJ0SG5uQkczOXRtdHNvTzg0Y2hGTEdYTWhPXzYxLXlUZjBmaEdNMzM0bGl0MVlBV1ZTaDdvRWhtT0pBQzNHYzlJRXIzVVlfR2NBbE9vY21BM254N3NCdEQ0UkYzNENTLWJvMTA1N2VBVDlpZw?oc=5"
+      },
+      {
         "name": "鉅亨網",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nTXBWaGEtQk1IRW9MVV9qTUFWYUl3bWswQmdVTlJoWllRYWJsOEl1TUdhZTV1cjNWQmt0ZHQza0MwQk13X0tjRUhSQl9QRjA?oc=5"
       },
       {
-        "name": "today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV1l6V3RlU2M3YS1QYl83MHY5MEVuODQ4Qi1OOVZZWFRLOUVnY0NubHFhTnNFSU5NTDJzNm82SFY4WFlDVXRQYVdOVEZaS3J2Q0I5TlZRWU1QTlFRcU9wOGlmSHVDd29WTkJGZm5NdmtVSFRjdm1fSjZnOHFheVJCNTYwU3BNX2R1ZVE?oc=5"
+        "name": "中央社cna",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05Q3cxclBFSnRwVVRuQXQySjQ2UDV4d3R0RzhYMmRIUEN0VTdfMlIzYlhERnYxeGFPRlVPZWluZ0dQUTN0TFZRcnY2VVloRXhDOGs1LU9oNTFzdGdLTVE?oc=5"
       },
       {
-        "name": "chinatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZUVuMmFZbXFIQXhwSVBHRm1HY3ZwRWV1bFhZd0s4eFBZUmJuUkVUeVczYnVtQ21RSXhCaUJOWTVkTmNhdVdPYmR3dWF6QThabGl4R004VGQydHVDbE1INV8xRTM1N2VBM284QkZn?oc=5"
+        "name": "nownews.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QWVJldHlmbldMTGx1UDNOY2paWWw4NGxPd19OdmRxMEgtWHBQS253dmZJSjhtUEcwU1lIek1BcS1mMzNvczJVWGhTb2EzbXAxOVl4MGln?oc=5"
       },
       {
-        "name": "ettoday.net",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mRU9QeHdTYU5GVkxJMmNOdDlEU3VuTVJmVXFUQWtKRVBjaU5TVnJ6QnlLOTFGVGRuM19PRjJrNU9sTjFtay1FN3p5UHhQV0JRX0h4MFRZVUVkSy1iYlHSAUtBVV95cUxOYXZVQU5EbHMwMFNOVklELVZack16blIyN2FBdTdZX1F0Q195cS1rWVA1aHJDY2NQR254emd6aDJHVF9LVzZnUHBacTg?oc=5"
+        "name": "newtalk.tw",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CdEVnaTZYY1FETlVRdzJHb2YxM3Q1RFczU2hZZWlZYkpWTUNpZFZQVkl1a0JRbFlvaENlb1ZrOUdyOE5JdHQyR1NVWl9HYllEZkhrZTJ3?oc=5"
       },
       {
-        "name": "震傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MRmI4WlpMTnd2bVd1NG9sS1RkRjZXQ1hjWlN1c2dZT29xaEdwdC1iSVF5aUdEb2dSVWxHYzFuMmI0UVRnQUEwck54OGJwVTI1TWxlSlpWQ2dGVVk?oc=5"
+        "name": "mirrormedia.mg",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5bXZZZUtrVjI3bGtwRmdmMktaMDI0OEpLUm43bXZvR2lnVGJQTDFIcDlYbWg4cFgyS0dUenk2ekZQUTFwaTQ1Snc1RU8tS1lneEZ0YVV3?oc=5"
       },
       {
-        "name": "鏡報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rMmVkaGVEcjFRQ3FQTnEzcUhzc1Q4T1k4MnM2eU9jZFBfamNhcVZfaW5qSzIwTzFkcUdzWk9QQXozTURNcnUwUlhobjdJYjBza1E?oc=5"
+        "name": "cts.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jMFc1V0tmblZ2aFk4dGNuQmJnbzJjTVhMRWNwTWNZWGt4czBKLW9xVDk1N19SQ1RWaS1lN1RNYWhmVXUzOTJXc2xRZ1JpbFY3VHo1WEFR?oc=5"
       }
     ],
-    "disagreements": null,
-    "trustScore": 55,
+    "disagreements": {
+      "en": "No real numeric conflict was found: the 49%/41%/11% poll figures are consistent across the snippets that cite them. The raw feed's \"41 vs 4\" disagreement note appears to be garbled aggregation text. The actual honesty issue is structural — this cluster bundles four separate reporting threads (poll, interview, face-mask item, Kevin Tsai incident), not one corroborated story.",
+      "zh-TW": "未發現真實數字衝突：民調數字 49%、41%、未定 11% 在各摘要中一致。原始摘要裡「41 比 4」的分歧註記疑似聚合文字錯亂。真正的問題是結構性的——這個聚合把四條不同支線（民調、專訪、面膜、蔡康永事件）綁在一起，並非一篇被交叉查證的單一報導。"
+    },
+    "trustScore": 84,
     "trustBreakdown": {
       "sourceDiversity": 25,
-      "outletReputation": 16,
-      "crossCorroboration": 25,
+      "outletReputation": 17,
+      "crossCorroboration": 17,
       "recencyClarity": 25
     },
     "tags": [
       "eastAsiaGossip",
       "live-ingest",
       "region:tw",
-      "gnews-tw-heat:蔡康永現身競",
-      "gnews-tw-heat:蔡康永現身競",
-      "gnews-tw-heat:蔡康永現身競"
+      "自由時報",
+      "自由時報",
+      "ettoday-時尚"
     ],
     "region": "tw",
     "glossary": [
-      {
-        "term": {
-          "en": "Tsai Kang-yung",
-          "zh-TW": "蔡康永"
-        },
-        "blurb": {
-          "en": "Taiwanese television host whose rally appearance sparked the controversy.",
-          "zh-TW": "現身造勢場合引發爭議的台灣主持人。"
-        }
-      },
-      {
-        "term": {
-          "en": "Shen Poyu",
-          "zh-TW": "沈伯洋"
-        },
-        "blurb": {
-          "en": "Legislative candidate whose campaign headquarters event Tsai attended.",
-          "zh-TW": "蔡康永出席其競選總部活動的立委參選人。"
-        }
-      },
       {
         "term": {
           "en": "Chiang Wan-an",
           "zh-TW": "蔣萬安"
         },
         "blurb": {
-          "en": "Mayor of Taipei, who said he disapproves of interfering with freedom of choice.",
-          "zh-TW": "台北市長，表示不認同干預選擇自由。"
+          "en": "Incumbent mayor of Taipei seeking re-election.",
+          "zh-TW": "現任台北市長，尋求連任。"
         }
       },
       {
         "term": {
-          "en": "Junzhengping",
-          "zh-TW": "鈞正平"
+          "en": "Puma Shen",
+          "zh-TW": "沈伯洋"
         },
         "blurb": {
-          "en": "PLA-affiliated commentary account that issued its first statement criticizing “fence-sitting.”",
-          "zh-TW": "首度發聲批評「騎牆搖擺」的共軍評論帳號。"
+          "en": "DPP candidate running for Taipei mayor.",
+          "zh-TW": "民進黨台北市長參選人。"
         }
       },
       {
         "term": {
-          "en": "campaign headquarters",
-          "zh-TW": "競選總部"
+          "en": "Kevin Tsai",
+          "zh-TW": "蔡康永"
         },
         "blurb": {
-          "en": "A candidate's campaign base; the venue of the rally Tsai attended.",
-          "zh-TW": "參選人的競選基地，蔡康永出席活動的場地。"
+          "en": "Taiwanese TV host whose appearance at Shen's campaign event drew criticism from Chinese netizens.",
+          "zh-TW": "台灣主持人，現身沈伯洋競選總部活動後遭中國網友批評。"
         }
       },
       {
         "term": {
-          "en": "Chen Min-feng",
-          "zh-TW": "陳敏鳳"
+          "en": "TVBS",
+          "zh-TW": "TVBS"
         },
         "blurb": {
-          "en": "Political commentator who called Chiang's VIP invitation a test for the mayor.",
-          "zh-TW": "稱蔣萬安邀約是對市長考驗的時事評論員。"
+          "en": "Taiwanese broadcaster that published the October 8 Taipei mayoral poll.",
+          "zh-TW": "台灣電視台，公布 10 月 8 日台北市長民調。"
+        }
+      },
+      {
+        "term": {
+          "en": "Democratic Progressive Party",
+          "zh-TW": "民主進步黨"
+        },
+        "blurb": {
+          "en": "Taiwan's ruling party, fielding Puma Shen for Taipei mayor.",
+          "zh-TW": "台灣執政黨，提名沈伯洋參選台北市長。"
+        }
+      },
+      {
+        "term": {
+          "en": "Chou Yu-kou",
+          "zh-TW": "周玉蔻"
+        },
+        "blurb": {
+          "en": "Veteran Taiwanese media host who interviewed Puma Shen.",
+          "zh-TW": "資深媒體人，主持專訪沈伯洋的節目。"
         }
       }
     ]
   },
   {
-    "id": "live-us-01-adding-low-fidelity-data",
-    "category": "us",
+    "id": "live-entertainment-01-charlotte-tilbury-is-on-",
+    "category": "entertainment",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "publishedAt": "2026-10-08T01:23:06.000Z",
+    "imageUrl": "/covers/live/live-entertainment-01-charlotte-tilbury-is-on-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Charlotte Tilbury Is On Sale For Prime Big Deal Days – Here’s What A Beauty Editor Would Buy",
+      "zh-TW": "相關封面圖：Charlotte Tilbury 在 Prime Big Deal Day 期間打折——這是美容編輯會買的東西"
+    },
+    "publishedAt": "2026-10-07T21:37:00.000Z",
     "title": {
-      "en": "Adding Low-Fidelity Data to ML Training Sets Could Yield Better Bioprocess Models",
-      "zh-TW": "機器學習訓練混入低保真數據：生醫製程模型有望更精準"
+      "en": "Charlotte Tilbury and Other Beauty Favorites Are on Sale for Prime Big Deal Days",
+      "zh-TW": "夏洛特·蒂貝莉（Charlotte Tilbury）等美妝品牌 Prime 大促降價"
     },
     "summary": {
-      "en": "Combining low-fidelity trend information with high-fidelity experimental data could improve the accuracy of machine-learning process models, researchers say — potentially making biopharmaceutical process development faster and cheaper by predicting the impact of parameter changes before costly lab experiments are run.",
-      "zh-TW": "研究指出，將低保真度的趨勢資訊與高保真的實驗數據結合，可望提升機器學習製程模型的準確度，讓生技製藥製程開發提前預測參數變動的影響、更加快速高效。"
+      "en": "Amazon Prime Big Deal Days brings markdowns on editor-loved beauty: Charlotte Tilbury, Estee Lauder, Sulwhasoo and Lancome favorites are discounted up to 54% on skincare, makeup and hair care, per Allure and Refinery29 roundups — with one day left in the sale.",
+      "zh-TW": "亞馬遜（Amazon）Prime 大促最後一天：夏洛特·蒂貝莉（Charlotte Tilbury）、雅詩蘭黛（Estée Lauder）、雪花秀（Sulwhasoo）、蘭蔻（Lancôme）等品牌護膚、彩妝、護髮產品最高降價 54%，美妝編輯精選一次看。"
     },
     "body": {
-      "en": "What happened\nResearchers report that mixing low-fidelity data — rough trend information — into machine-learning training sets alongside high-fidelity, experimentally derived data could produce more accurate process models. In theory, such models would let scientists predict how changes to process parameters will play out before running costly experiments, making biopharmaceutical process development faster and more efficient. The finding was covered by GEN's bioprocessing desk. Note: this feed cluster also contains two unrelated stories — a Bloomberg report on a bidding war for TDK's hard-disk-drive parts business and its implications for Toshiba and AI data-center storage, and an Inside Climate News report on new Alabama data-center approval rules — which are not part of this card's event.\nWhy it matters\nBiopharma process development is slow and expensive; if cheaper low-fidelity data can stretch the value of hard-won experimental data, it could shorten development cycles and lower costs across drug manufacturing. The approach also illustrates a broader ML lesson: more data is not always better — the right mix matters.\nSources agree / disagree\nThe three outlets in this cluster each cover a different story, so there is no cross-outlet corroboration of the ML finding itself; the GEN item stands alone. Trust label: single source on this event — treat as unconfirmed.\nStill uncertain\nThe snippets give no study details, sample sizes, or limits of the claimed improvement. Verify against the original research before citing the result.",
-      "zh-TW": "發生了什麼事\n研究指出，在機器學習訓練集中混入低保真數據——粗略的趨勢資訊——搭配高保真的實驗數據，可望得到更精準的製程模型。理論上，這類模型能讓科學家在動手做昂貴實驗前，先預測製程參數變動的影響，使生技製藥的製程開發更快、更有效率。此發現由 GEN 生醫製程線報導。注意：本素材串另含兩則不相關報導——彭博關於 TDK 硬碟零件事業競購戰及其對東芝與 AI 資料中心儲存市場的影響，以及 Inside Climate News 關於阿拉巴馬州資料中心審批新規——皆非本卡事件。\n為什麼重要\n生技製藥製程開發又慢又貴；若便宜的低保真數據能放大得來不易的實驗數據價值，可望縮短開發週期、降低藥品製造成本。這也呼應一個更廣的機器學習啟示：數據不是越多越好，配比對了才重要。\n來源異同\n本串三家媒體各報不同事件，機器學習這則發現並無跨媒體佐證，僅 GEN 一家報導。信任標籤：僅 1 源／未確認。\n仍不確定\n摘要未提供研究細節、樣本規模與改善幅度的限制。引用結論前請查閱原始研究。"
+      "en": "Amazon's fall sale is back: Prime Big Deal Days is running its biggest markdowns of the season on beauty, with Allure and Refinery29 editors rounding up the discounts they would actually buy — and the clock nearly out.\nWhat happened\nCharlotte Tilbury, Estee Lauder, Sulwhasoo and Lancome are among the luxury beauty brands discounted for Prime Big Deal Days. Allure's editors compiled several roundups — including \"53 Best Amazon Prime Day Mature Beauty Deals,\" \"57 Best Amazon Prime Day Beauty Deals 2026,\" and \"56 Best Amazon Prime Day K-Beauty Deals 2026\" — while Refinery29 ran its own lists, such as \"52 Beauty Products On Sale During Amazon Prime Big Deal Days\" and \"30 Reader-Favorite Products To Buy From Prime Big Deal Days ASAP.\" Discounts reach up to 54% off skincare, makeup, and hair care. The feeds describe it as Amazon's favorite shopping event of the year and note that only one day remained in the sale when the items were published.\nWhy it matters\nPrime Day has become one of the year's biggest retail moments, and beauty is one of the categories where brand-name products rarely go this deep on discount. For shoppers, the value here is curation: editors did the digging across dozens of deals, so readers get a short list of vetted products instead of scrolling the entire sale.\nSources agree / disagree\nThree named sources are attached. Allure and Refinery29 are running closely related deal roundups with the same theme — big beauty markdowns for the sale — though their list counts differ (53, 57, 56, 52, 30), which is expected since they are separate lists, not conflicting claims about one fact. The CNET Deals item looks off-topic: its listed link concerns a Chefman pizza-oven deal, not beauty. Trust label: shopping coverage, 2 sources consistent on the topic — deal details should be verified on the retailer pages before buying.\nStill uncertain\nFeed snippets carry no actual prices, discount percentages per product, or stock status, and sale prices can change or expire quickly. The exact sale end time is not stated. Click through to the linked outlets and the retailer listings for current prices.",
+      "zh-TW": "亞馬遜（Amazon）秋季大促回來了：Prime Big Deal Days 美妝品類迎來本季最大降價，Allure 與 Refinery29 的編輯整理出他們真正會買的優惠清單——促銷已近尾聲。\n發生了什麼事\n夏洛特·蒂貝莉（Charlotte Tilbury）、雅詩蘭黛（Estée Lauder）、雪花秀（Sulwhasoo）、蘭蔻（Lancôme）等奢華美妝品牌都在 Prime Big Deal Days 降價。Allure 編輯整理多份清單，包括「53 款最佳 Prime Day 熟齡美妝優惠」「2026 年 57 款最佳 Prime Day 美妝優惠」「2026 年 56 款最佳 Prime Day 韓系美妝優惠」；Refinery29 也有自己的榜單，如「Prime Big Deal Days 52 款美妝優惠」「30 款讀者最愛、要買趁快」。護膚、彩妝、護髮最高降價 54%。摘要稱這是亞馬遜一年中最受歡迎的購物活動，發文時促銷只剩最後一天。\n為什麼重要\nPrime Day 已是一年中最大的購物檔期之一，而美妝正是品牌正貨很少打到這麼低的品類。對消費者而言，價值在於「篩選」：編輯已從數十個優惠中挖好，讀者拿到的是精挑過的短清單，不用自己滑完整場促銷。\n來源異同\n名單上有 3 個具名來源。Allure 與 Refinery29 的優惠清單主題一致——都是大促期間的美妝降價；清單數量不同（53、57、56、52、30）是因為各自榜單不同，並非對同一事實的衝突說法。CNET Deals 那條看似跑題：其連結指向的是一台 Chefman 披薩烤箱優惠，與美妝無關。信任標籤：購物報導，2 源主題一致——下單前請到零售商頁面確認即時價格。\n仍不確定\n摘要沒有實際售價、各品項折扣或庫存狀態，且促銷價可能隨時變動或結束；確切的促銷截止時間也未說明。請點進原文連結與零售商頁面確認最新價格。"
     },
     "sources": [
       {
-        "name": "Bloomberg News",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-data-center-boom-ignites-bidding-war-for-critical-tdk-unit"
+        "name": "Allure",
+        "url": "https://www.allure.com/story/best-amazon-prime-day-mature-beauty-deals-10-07-26"
       },
       {
-        "name": "Inside Climate News",
-        "url": "https://insideclimatenews.org/news/07102026/alabama-data-center-rules-loophole/"
+        "name": "Refinery29",
+        "url": "https://www.refinery29.com/en-us/best-amazon-prime-day-beauty-deals?utm_source=feed&utm_medium=rss"
       },
       {
-        "name": "GEN 基因工程新聞",
-        "url": "https://www.genengnews.com/topics/bioprocessing/adding-low-fidelity-data-to-ml-training-sets-could-yield-better-process-models/"
+        "name": "CNET Deals",
+        "url": "https://www.cnet.com/deals/chefman-everything-maker-and-pizza-oven-deal/"
       }
     ],
-    "disagreements": null,
-    "trustScore": 85,
+    "disagreements": {
+      "en": "The differing list counts (53, 57, 56, 52, 30) are separate roundup lists from different editors, not conflicting claims about one fact. One source looks off-topic: the CNET Deals item links to a Chefman pizza-oven deal rather than beauty products.",
+      "zh-TW": "不同的清單數量（53、57、56、52、30）是不同編輯各自的榜單，並非對同一事實的衝突說法。有一條來源看似跑題：CNET Deals 的連結指向 Chefman 披薩烤箱優惠，而非美妝產品。"
+    },
+    "trustScore": 45,
     "trustBreakdown": {
-      "sourceDiversity": 20,
-      "outletReputation": 18,
-      "crossCorroboration": 22,
-      "recencyClarity": 25
+      "sourceDiversity": 19,
+      "outletReputation": 10,
+      "crossCorroboration": 14,
+      "recencyClarity": 20
     },
     "tags": [
-      "us",
+      "entertainment",
       "live-ingest",
-      "bloomberg-news",
-      "inside-climate-news",
-      "gen-基因工程新聞"
+      "allure",
+      "allure",
+      "allure"
     ],
     "glossary": [
       {
         "term": {
-          "en": "machine learning",
-          "zh-TW": "機器學習"
+          "en": "Charlotte Tilbury",
+          "zh-TW": "夏洛特·蒂貝莉"
         },
         "blurb": {
-          "en": "AI techniques that learn patterns from data to make predictions.",
-          "zh-TW": "從數據學習規律以進行預測的 AI 技術。"
+          "en": "British luxury beauty brand featured in the sale roundups.",
+          "zh-TW": "英國奢華美妝品牌，本次促銷清單主角之一。"
         }
       },
       {
         "term": {
-          "en": "low-fidelity data",
-          "zh-TW": "低保真數據"
+          "en": "Estee Lauder",
+          "zh-TW": "雅詩蘭黛"
         },
         "blurb": {
-          "en": "Rough, approximate trend information — cheaper to obtain than precise measurements.",
-          "zh-TW": "粗略近似的趨勢資訊，取得成本低於精確量測。"
+          "en": "Global cosmetics company whose products are discounted in the roundups.",
+          "zh-TW": "國際化妝品集團，產品出現在優惠清單中。"
         }
       },
       {
         "term": {
-          "en": "high-fidelity data",
-          "zh-TW": "高保真數據"
+          "en": "Sulwhasoo",
+          "zh-TW": "雪花秀"
         },
         "blurb": {
-          "en": "Precise, experimentally derived measurements used as ground truth.",
-          "zh-TW": "由實驗取得的精確量測數據，作為基準真相。"
+          "en": "Korean luxury skincare brand included in the K-beauty deals.",
+          "zh-TW": "韓國高端保養品牌，列入韓系美妝優惠。"
         }
       },
       {
         "term": {
-          "en": "bioprocessing",
-          "zh-TW": "生物製程"
+          "en": "Lancome",
+          "zh-TW": "蘭蔻"
         },
         "blurb": {
-          "en": "Manufacturing processes for biopharmaceutical products such as drugs made in living cells.",
-          "zh-TW": "生技藥品的製造流程，如以活細胞生產藥物。"
+          "en": "Luxury beauty brand whose products are discounted in the roundups.",
+          "zh-TW": "奢華美妝品牌，產品出現在優惠清單中。"
         }
       },
       {
         "term": {
-          "en": "process parameters",
-          "zh-TW": "製程參數"
+          "en": "Prime Big Deal Days",
+          "zh-TW": "Prime 大促"
         },
         "blurb": {
-          "en": "Controllable settings in a manufacturing process whose effects the model predicts.",
-          "zh-TW": "製程中可調控的條件，模型用來預測其變動的影響。"
+          "en": "Amazon's fall sale event with site-wide markdowns.",
+          "zh-TW": "亞馬遜的秋季促銷活動，全站降價。"
         }
       },
       {
         "term": {
-          "en": "GEN",
-          "zh-TW": "GEN"
+          "en": "Allure",
+          "zh-TW": "Allure"
         },
         "blurb": {
-          "en": "Genetic Engineering News, the outlet whose bioprocessing desk covered the finding.",
-          "zh-TW": "報導此發現的基因工程新聞生醫製程線。"
+          "en": "US beauty magazine that published several deal roundups.",
+          "zh-TW": "美國美妝雜誌，發布多份優惠清單。"
+        }
+      },
+      {
+        "term": {
+          "en": "Refinery29",
+          "zh-TW": "Refinery29"
+        },
+        "blurb": {
+          "en": "US fashion and lifestyle outlet that published its own deal lists.",
+          "zh-TW": "美國時尚生活媒體，發布自己的優惠榜單。"
         }
       }
     ]
   },
   {
-    "id": "live-international-01-canada-halts-plan-to-all",
-    "category": "international",
+    "id": "live-tech-02-apple-reportedly-plans-t",
+    "category": "tech",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-international-01-canada-halts-plan-to-all.jpg",
+    "imageUrl": "/covers/live/live-tech-02-apple-reportedly-plans-t.jpg",
     "imageAlt": {
-      "en": "Cover related to: Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
-      "zh-TW": "相關封面圖：加拿大停止允許精神病患進行醫療協助死亡的計劃"
+      "en": "Cover related to: Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month",
+      "zh-TW": "相關封面圖：根據報道，蘋果計劃本月推出觸控螢幕 MacBook 和 iPad Mini"
     },
-    "publishedAt": "2026-10-07T19:57:21.000Z",
+    "publishedAt": "2026-10-08T23:26:35.000Z",
     "title": {
-      "en": "Canada Indefinitely Halts Plan to Extend Assisted Dying to Mental Illness Alone",
-      "zh-TW": "加拿大無限期暫停：精神疾病單獨不再符合醫助死亡資格"
+      "en": "Apple May Debut Touchscreen MacBook Pro and New iPad Mini Around October 27, Bloomberg Reports",
+      "zh-TW": "蘋果（Apple）傳 10 月 27 日前後發表觸控螢幕 MacBook Pro 與新款 iPad Mini"
     },
     "summary": {
-      "en": "People whose sole health condition is mental illness were to become eligible for medical assistance in dying in Canada in March 2027, but the federal government has now paused the expansion indefinitely and will legislate to bar it. Patients with other conditions who expect cognitive decline may still make an advanced request.",
-      "zh-TW": "原定 2027 年 3 月起、僅患精神疾病者也可申請醫助死亡，加拿大聯邦政府現已無限期暫停該計畫，並將立法禁止。執政自由黨此舉意在回應社會對醫助死亡適用對象的爭議；若患者另有其他病況且預期認知功能退化，仍可預立要求。"
+      "en": "Bloomberg reports Apple will introduce a touchscreen MacBook Pro and an updated iPad Mini \"on or around\" October 27, just two weeks after its October 13 event, which is rumored to focus on smart-home products. The late-October event will reportedly include an online video presentation and an in-person component.",
+      "zh-TW": "彭博社（Bloomberg）報導，蘋果（Apple）將於 10 月 27 日前後發表觸控螢幕 MacBook Pro 與更新版 iPad Mini，距離傳聞主打智慧家庭的 10 月 13 日發表會僅兩週，屆時將有線上影片與實體環節。"
     },
     "body": {
-      "en": "What happened\nCanada's federal government said on Wednesday it would advance legislation to prevent people whose sole health condition is mental illness from accessing medical assistance in dying, pausing indefinitely an expansion that was to take effect in March 2027. The move by the ruling Liberal party is an effort to address a growing national clash over who should have access to doctor-assisted death. Under the plan, people with mental illness alone will not qualify, but patients who have other conditions and expect cognitive decline can make an advanced request for assisted dying.\nWhy it matters\nCanada has one of the world's most permissive assisted-dying regimes, and extending it to mental illness alone was among its most contested frontiers — raising questions about irremediability, consent, and suicide prevention that split clinicians, advocates, and lawmakers. Halting it indefinitely effectively closes that frontier for the foreseeable future and will shape similar debates worldwide.\nSources agree / disagree\nBBC World, The Guardian World, and the NYT World desk agree on the core facts — the indefinite pause, the March 2027 date that will not take effect, the planned legislation, and the advanced-request carve-out — with no conflicts in the snippets. Trust label: multiple sources agree.\nStill uncertain\nThe legislative timeline, the precise legal wording, and how the advanced-request provision will work in practice are not yet detailed. Verify on the publishers' pages.",
-      "zh-TW": "發生了什麼事\n加拿大聯邦政府週三表示，將推動立法禁止僅患精神疾病者申請醫助死亡，無限期暫停原定 2027 年 3 月生效的擴大適用計畫。執政自由黨此舉意在回應國內對醫助死亡適用對象日益激烈的爭議。依規劃，單獨患精神疾病者將不符合資格；但若患者另有其他病況、且預期會出現認知退化，則可預立醫助死亡的要求。\n為什麼重要\n加拿大的醫助死亡制度名列全球最寬鬆之列，而將其擴及單純精神疾病是最具爭議的前線之一——牽涉疾病不可逆性、知情同意與自殺防治等難題，讓醫界、倡議者與立法者嚴重分歧。無限期喊停等於在可預見的未來關上這扇門，也將牽動全球類似辯論。\n來源異同\nBBC、《衛報》與《紐約時報》國際線在核心事實上一致——無限期暫停、不會生效的 2027 年 3 月時程、立法禁止的方向，以及預立要求的例外——摘要中無衝突。信任標籤：多源一致。\n仍不確定\n立法時程、法律條文的精確用字，以及預立要求在實務上如何運作，尚未公布。細節請查閱原文。"
+      "en": "Apple is reportedly about to end a long-standing holdout: its first touchscreen MacBook could arrive before the month is out, according to Bloomberg reporting picked up by The Verge and Engadget.\nWhat happened\nBloomberg reports that Apple will introduce a new MacBook Pro with a touchscreen display and an updated iPad Mini \"on or around\" October 27. If the timing holds, the launch would come just two weeks after the October 13 event Apple announced — an event rumored to focus on smart-home products. Bloomberg adds that the late-October event will feature an \"online video presentation\" and an \"in-person component,\" per the feed snippets. The Verge framed it as Apple's first touchscreen MacBook debuting in about three weeks; Engadget's version of the story carries the same date and product lineup.\nWhy it matters\nA touchscreen Mac would be a major strategic reversal: Apple has long argued that touch belongs on the iPad, not the Mac, while Windows rivals have offered touchscreens for years. If Bloomberg's report is right, it signals Apple is finally willing to blur the line between its two product families — and a refreshed iPad Mini would sweeten an unusually packed October.\nSources agree / disagree\nTwo named outlets — The Verge and Engadget — are reporting the same Bloomberg-sourced rumor with matching dates (\"on or around\" October 27) and the same two products, with no numeric or name conflicts in the snippets. This is one rumor carried by two outlets, not two independent confirmations. Trust label: 2 sources consistent, single underlying source (Bloomberg) — treat as rumor, not confirmation.\nStill uncertain\nEverything here is reported, not announced: Apple has confirmed nothing, and the snippets are truncated before detailing what the \"in-person component\" entails or which smart-home products the October 13 event will cover. Wait for Apple's official word before treating dates or specs as final.",
+      "zh-TW": "蘋果（Apple）傳出將打破長年堅持：根據彭博社（Bloomberg）報導、經 The Verge 與 Engadget 轉述，蘋果首款觸控螢幕 MacBook 可能在本月底前亮相。\n發生了什麼事\n彭博社報導，蘋果將於 10 月 27 日前後發表搭載觸控螢幕的新款 MacBook Pro，以及更新版 iPad Mini。若時間屬實，這場發表會距離蘋果已宣布的 10 月 13 日活動僅兩週，後者傳聞主打智慧家庭產品。彭博社另稱，10 月下旬的活動將包含「線上影片發表」與「實體環節」。The Verge 將其定調為蘋果首款觸控 MacBook 將在約三週後登場；Engadget 的版本日期與產品陣容相同。\n為什麼重要\n觸控 Mac 將是重大的策略轉向：蘋果長年主張觸控屬於 iPad、不屬於 Mac，而 Windows 陣營早已標配觸控螢幕。若報導屬實，代表蘋果終於願意模糊兩大產品線的界線；加上更新版 iPad Mini，這個 10 月將異常熱鬧。\n來源異同\n兩個具名來源——The Verge 與 Engadget——轉述的是同一則彭博社消息，日期（10 月 27 日前後）與產品陣容一致，摘要中無數字或名稱衝突。這是一則傳聞被兩家轉述，而非兩家獨立查證。信任標籤：2 源一致、但同源（彭博社）——視為傳聞，非定案。\n仍不確定\n目前一切都是「報導」而非「宣布」：蘋果官方尚未證實任何內容，摘要也在「實體環節」細節與 10 月 13 日智慧家庭產品陣容之前就截斷。把日期與規格當定案之前，請等蘋果官方說法。"
     },
     "sources": [
       {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss"
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor"
       },
       {
-        "name": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness"
-      },
-      {
-        "name": "NYT World",
-        "url": "https://www.nytimes.com/2026/10/07/world/canada/canada-medically-assisted-death-mental-illness.html"
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2281839/apple-reportedly-plans-touchscreen-macbook-and-ipad-mini-launch-for-this-month/"
       }
     ],
     "disagreements": null,
     "trustScore": 55,
     "trustBreakdown": {
-      "sourceDiversity": 20,
-      "outletReputation": 21,
-      "crossCorroboration": 22,
+      "sourceDiversity": 14,
+      "outletReputation": 17,
+      "crossCorroboration": 14,
       "recencyClarity": 25
     },
     "tags": [
-      "international",
+      "tech",
       "live-ingest",
-      "bbc-world",
-      "the-guardian-world",
-      "nyt-world"
+      "the-verge",
+      "engadget"
     ],
     "glossary": [
       {
         "term": {
-          "en": "medical assistance in dying",
-          "zh-TW": "醫助死亡"
+          "en": "Apple",
+          "zh-TW": "蘋果"
         },
         "blurb": {
-          "en": "A legal framework allowing eligible patients to end their lives with medical help; Canada's is among the world's broadest.",
-          "zh-TW": "容許符合資格病患在醫療協助下結束生命的法制，加拿大名列全球最寬鬆。"
+          "en": "US technology company behind the MacBook and iPad.",
+          "zh-TW": "美國科技公司，MacBook 與 iPad 的製造商。"
         }
       },
       {
         "term": {
-          "en": "mental illness",
-          "zh-TW": "精神疾病"
+          "en": "MacBook Pro",
+          "zh-TW": "MacBook Pro"
         },
         "blurb": {
-          "en": "The sole qualifying condition at issue in the now-paused expansion.",
-          "zh-TW": "本次暫停的擴大計畫中具爭議的單獨適用條件。"
+          "en": "Apple's professional laptop line, reportedly getting a touchscreen.",
+          "zh-TW": "蘋果專業筆電產品線，傳聞將搭載觸控螢幕。"
         }
       },
       {
         "term": {
-          "en": "euthanasia",
-          "zh-TW": "安樂死"
+          "en": "iPad Mini",
+          "zh-TW": "iPad Mini"
         },
         "blurb": {
-          "en": "The practice of intentionally ending life to relieve suffering; related to assisted dying debates.",
-          "zh-TW": "為解除痛苦而刻意結束生命的做法，與醫助死亡辯論相關。"
+          "en": "Apple's compact tablet, reportedly due for a refresh.",
+          "zh-TW": "蘋果的小尺寸平板，傳聞將推出更新版。"
         }
       },
       {
         "term": {
-          "en": "Liberal Party",
-          "zh-TW": "自由黨"
+          "en": "Bloomberg",
+          "zh-TW": "彭博社"
         },
         "blurb": {
-          "en": "Canada's ruling party, advancing the legislation to bar the expansion.",
-          "zh-TW": "加拿大執政黨，正推動立法禁止該擴大適用。"
+          "en": "Financial news organization behind the original report.",
+          "zh-TW": "財經新聞機構，本次報導的原始消息來源。"
         }
       },
       {
         "term": {
-          "en": "advanced request",
-          "zh-TW": "預立要求"
+          "en": "The Verge",
+          "zh-TW": "The Verge"
         },
         "blurb": {
-          "en": "A request made in advance for assisted dying, allowed for patients expecting cognitive decline.",
-          "zh-TW": "預先提出的醫助死亡要求，開放給預期認知退化的病患。"
+          "en": "US technology news outlet that covered the rumor.",
+          "zh-TW": "美國科技新聞媒體，轉述本傳聞。"
         }
       },
       {
         "term": {
-          "en": "cognitive decline",
-          "zh-TW": "認知退化"
+          "en": "Engadget",
+          "zh-TW": "Engadget"
         },
         "blurb": {
-          "en": "Loss of memory and thinking abilities expected in some patients with other conditions.",
-          "zh-TW": "部分另患他疾的病患預期會出現的記憶與思考能力退化。"
+          "en": "US technology news outlet that covered the rumor.",
+          "zh-TW": "美國科技新聞媒體，轉述本傳聞。"
         }
       }
     ]
   },
   {
-    "id": "live-international-02-trump-doesn-t-think-russ",
-    "category": "international",
+    "id": "live-semiconductor-01-finding-critical-defects",
+    "category": "semiconductor",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3744/live/6325d7d0-c18d-11f1-83c7-97e75190a976.png",
+    "imageUrl": "/covers/live/live-semiconductor-01-finding-critical-defects.jpg",
     "imageAlt": {
-      "en": "Cover related to: Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
-      "zh-TW": "相關封面圖：川普不認為俄羅斯鼠疫事件是生物武器，並計劃週三與普丁通話"
+      "en": "Cover related to: Finding Critical Defects Before They Become Costly Failures: Process Control For Hybrid Bonding And Advanced Packaging",
+      "zh-TW": "相關封面圖：在關鍵缺陷變成代價高昂的故障之前發現它們：混合鍵合和先進封裝的製程控制"
     },
-    "publishedAt": "2026-10-07T22:20:13.000Z",
+    "publishedAt": "2026-10-08T23:46:21.000Z",
     "title": {
-      "en": "Trump Says Russia Plague Incident Is Not a Bioweapon, Plans Wednesday Call With Putin",
-      "zh-TW": "川普：俄羅斯鼠疫事件非生物武器，週三將與普丁通話"
+      "en": "Advanced Packaging Defect Control: Catching Flaws in Hybrid Bonding Before Costly Failures",
+      "zh-TW": "半導體先進封裝：混合鍵合（Hybrid Bonding）製程控制，在缺陷變成高成本故障前攔截"
     },
     "summary": {
-      "en": "Nearly 200 people were placed under medical observation in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague after a death feared to involve pneumonic plague. President Trump said he does not believe the incident was a bioweapon and plans to speak with Vladimir Putin on Wednesday; the case has prompted calls for more transparency from Russia.",
-      "zh-TW": "俄羅斯西伯利亞東部伊爾庫茨克地區一名死者疑似感染肺鼠疫，近 200 人接受醫學觀察。美國總統川普（Donald Trump）表示不認為此事是生物武器，並計畫週三與普丁（Vladimir Putin）通話；事件已引發外界要求俄羅斯提高透明度的呼聲。"
+      "en": "Semiconductor Engineering articles argue that in advanced packaging — chiplets, high-bandwidth memory stacks and hybrid-bonded devices — value accrues layer by layer, so catching defects early through purpose-built process control is critical. A separate, unrelated feed item reports the US Army released a May report identifying systemic failures behind the DC midair collision.",
+      "zh-TW": "半導體工程（Semiconductor Engineering）系列文章指出，先進封裝中價值逐層累積，須靠專門的製程控制及早攔截缺陷。同一個聚合另有一則無關內容：美國陸軍公開 5 月完成的報告，點名華盛頓特區（DC）空難背後的系統性失靈。"
     },
     "body": {
-      "en": "What happened\nNearly 200 people were placed under medical observation earlier this week in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague, after fears that a death may have been caused by pneumonic plague. U.S. President Donald Trump said he does not think the incident was a bioweapon and plans to speak with Russian President Vladimir Putin about the plague lab worker's death on Wednesday. The case has prompted calls for greater transparency from Russia about what happened.\nWhy it matters\nAny suspected plague death near a Russian lab instantly raises bioweapon anxieties, and a direct Trump–Putin call makes it a diplomatic issue as well as a public-health one. How transparent Moscow is about the investigation will shape whether the episode calms down or feeds wider suspicion.\nSources agree / disagree\nBBC World and CNBC agree on the core facts — the Irkutsk medical observation, Trump's no-bioweapon assessment, and the planned Wednesday call. This cluster also contains a separate, unrelated story about Senator Thom Tillis criticizing Trump advisers over Balkans work, which is not part of this card's event. No conflicts on the plague story itself. Trust label: multiple sources agree on the core event.\nStill uncertain\nThe cause of death is not confirmed, and details of the lab worker's work remain undisclosed. Verify developments on the publishers' pages.",
-      "zh-TW": "發生了什麼事\n俄羅斯西伯利亞東部伊爾庫茨克地區本週稍早有近 200 人因疑似接觸鼠疫而接受醫學觀察，起因是一名死者疑似死於肺鼠疫。美國總統川普（Donald Trump）表示，他不認為這起事件是生物武器，並計畫週三與俄羅斯總統普丁（Vladimir Putin）通話，討論這名鼠疫實驗室人員之死。事件已引發外界要求俄羅斯提高透明度的呼聲。\n為什麼重要\n俄羅斯實驗室周邊若出現疑似鼠疫死亡，必然引發生物武器的疑慮；川普與普丁直接通話，更讓此事同時成為外交與公衛議題。莫斯科對調查的透明程度，將決定事件是平息還是助長更廣泛的猜疑。\n來源異同\nBBC 與 CNBC 在核心事實上一致——伊爾庫茨克的醫學觀察、川普「非生物武器」的判斷、週三通話計畫。本素材串另含一則不相關報導（參議員湯姆·提利斯批評川普顧問的巴爾幹行程），非本卡事件。鼠疫事件本身無衝突。信任標籤：核心事件多源一致。\n仍不確定\n死因尚未確認，該實驗室人員的工作細節也未公開。後續發展請查閱原文。"
+      "en": "Two unrelated stories were bundled into one feed cluster: a set of industry-technical pieces on process control for hybrid bonding and advanced packaging, plus a PBS report on a US Army investigation into the DC midair collision. They share no topic, outlet, or facts.\nWhat happened\nSemiconductor Engineering ran a series of articles on process control for hybrid bonding and advanced packaging. Their argument: in advanced packaging, value accumulates layer by layer, component by component, and process step by process step — by the time chiplets, high-bandwidth memory stacks, or hybrid-bonded devices reach assembly, manufacturers have already invested substantial material and processing resources, so an undetected defect at that stage can jeopardize the whole larger assembly. The pieces note that the explosive growth of heterogeneous integration — from 2.5D interposers and CoWoS to hybrid bonding and 3D stacking — is redefining what it means to \"ramp a process,\" and that advanced packaging shows yield sensitivities and defect mechanisms fundamentally different from front-end logic, while the industry still lacks purpose-built metrology and characterization. They add that AI, high-performance computing, advanced smartphones, automotive electronics, and next-generation networking increasingly depend on advanced packaging for bandwidth, power efficiency, and functionality.\nWhy it matters\nThe technical pieces describe an industry inflection point: packaging innovation is becoming as important as transistor scaling for delivering AI and HPC performance. Catching defects early is framed not as quality theater but as economics — the later a flaw is found, the more expensive it is. (No significance can be drawn from the second item's pairing here; it is a separate news event.)\nSources agree / disagree\nThere is no agreement or disagreement to evaluate between the two items because they are different stories. Item one: three Semiconductor Engineering articles on advanced-packaging process control. Item two: a PBS NewsHour piece headlined \"Army calls for safety fixes after finding systemic failures behind DC midair collision,\" whose snippet says the Army report — completed in May and released publicly on a Thursday after months of pressure from victims' families — identified failures involving air traffic control, helicopter routes, training, and safety practices. The raw feed's \"2 vs 1\" figure note is garbled aggregation text, not a real conflict. Trust label: two separate single-source items forcibly clustered — do not read them as corroborating each other.\nStill uncertain\nOnly titles and short snippets are available; the technical articles' data and the Army report's full findings are not included. Read the linked publisher pages for anything beyond these outlines.",
+      "zh-TW": "一個聚合把兩則無關的新聞綁在一起：一組關於混合鍵合與先進封裝製程控制的產業技術文章，以及 PBS 關於美國陸軍調查華盛頓空難的報導。兩者主題、媒體、事實皆無關聯。\n發生了什麼事\n半導體工程（Semiconductor Engineering）刊出一系列關於混合鍵合（Hybrid Bonding）與先進封裝製程控制的文章。核心論點：在先進封裝中，價值逐層、逐個元件、逐步累積——當小晶片、高頻寬記憶體堆疊或混合鍵合元件進入組裝階段，製造商已投入大量材料與製程資源，此時未被偵測到的缺陷可能危及整個大組裝件。文章指出，從 2.5D 中介層、CoWoS 到混合鍵合與 3D 堆疊，異質整合的爆發式成長正在重新定義「拉升製程」的含義；先進封裝的良率敏感度與缺陷機制和前端邏輯根本不同，但產業仍缺乏專門打造的量測與特性分析工具。文章另提到，人工智慧、高效能運算、先進智慧手機、汽車電子與次世代網路平台，越來越依賴先進封裝提供頻寬、能效與功能。\n為什麼重要\n這組技術文章描述的是產業轉折點：封裝創新對 AI 與高效能運算的重要性，已不亞於電晶體微縮。及早攔截缺陷被定位為經濟學問題，而非品管口號——越晚發現，代價越高。（第二則是獨立新聞事件，與此無關，不宜連帶解讀。）\n來源異同\n兩則之間無所謂異同，因為根本是不同新聞。第一則：三篇半導體工程關於先進封裝製程控制的文章。第二則：PBS 新聞一小時（PBS NewsHour）報導「陸軍點名華盛頓空難背後系統性失靈、要求安全整改」，摘要稱該報告 5 月完成、在罹難者家屬數月施壓後於某個週四公開，點名飛航管制、直升機航線、訓練與安全實務的問題。原始摘要「2 比 1」的數字註記是聚合文字錯亂，並非真實衝突。信任標籤：兩則各自單源、被硬綁在一起——請勿視為互相佐證。\n仍不確定\n目前只有標題與簡短摘要；技術文章的數據與陸軍報告的完整結論都未收錄。超出上述輪廓的內容，請點進原文連結查閱。"
     },
     "sources": [
       {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss"
+        "name": "Semiconductor Engineering",
+        "url": "https://semiengineering.com/finding-critical-defects-before-they-become-costly-failures-process-control-for-hybrid-bonding-and-advanced-packaging/"
       },
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html"
-      },
-      {
-        "name": "The Hill",
-        "url": "https://thehill.com/homenews/senate/6135213-tillis-condemns-trump-consultants/"
-      },
-      {
-        "name": "Financial Times",
-        "url": "https://www.ft.com/content/ea58254a-947e-4e87-86d2-95ffbd8a1c9d?syn-25a6b1a6=1"
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/nation/army-calls-for-safety-fixes-after-finding-systemic-failures-behind-dc-midair-collision"
       }
     ],
-    "disagreements": null,
-    "trustScore": 55,
+    "disagreements": {
+      "en": "This is not a disagreement but a structural problem: the cluster bundles two unrelated stories (Semiconductor Engineering's advanced-packaging process-control articles and PBS NewsHour's Army/DC midair-collision report). The raw feed's \"2 vs 1\" figure note is garbled aggregation text, not a real conflict. They neither agree nor disagree — they are about different things.",
+      "zh-TW": "這不是分歧，而是結構問題：這個聚合把兩則無關新聞硬綁在一起（半導體工程的先進封裝製程控制文章，與 PBS 新聞一小時的陸軍／華盛頓空難報導）。原始摘要「2 比 1」的數字註記是聚合文字錯亂，並非真實衝突。兩者既不相符也不衝突——講的是不同的事。"
+    },
+    "trustScore": 54,
     "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 18,
-      "crossCorroboration": 25,
+      "sourceDiversity": 13,
+      "outletReputation": 10,
+      "crossCorroboration": 6,
       "recencyClarity": 25
     },
     "tags": [
-      "international",
+      "semiconductor",
       "live-ingest",
-      "bbc-world",
-      "cnbc",
-      "the-hill"
+      "semiconductor-engineering",
+      "semiconductor-engineering",
+      "semiconductor-engineering"
     ],
     "glossary": [
       {
         "term": {
-          "en": "pneumonic plague",
-          "zh-TW": "肺鼠疫"
+          "en": "hybrid bonding",
+          "zh-TW": "混合鍵合"
         },
         "blurb": {
-          "en": "A severe lung infection caused by plague bacteria; the suspected cause of the death.",
-          "zh-TW": "鼠疫桿菌引起的嚴重肺部感染，本案疑似死因。"
+          "en": "A chip-packaging technique that bonds dies directly, copper to copper.",
+          "zh-TW": "直接以銅對銅鍵合晶粒的封裝技術。"
         }
       },
       {
         "term": {
-          "en": "Irkutsk",
-          "zh-TW": "伊爾庫茨克"
+          "en": "advanced packaging",
+          "zh-TW": "先進封裝"
         },
         "blurb": {
-          "en": "A region in eastern Siberia, Russia, where the incident occurred.",
-          "zh-TW": "事件發生地，俄羅斯西伯利亞東部地區。"
+          "en": "Chip-packaging technologies beyond traditional methods, including 3D stacking and chiplets.",
+          "zh-TW": "超越傳統方式的晶片封裝技術，包括 3D 堆疊與小晶片。"
         }
       },
       {
         "term": {
-          "en": "medical observation",
-          "zh-TW": "醫學觀察"
+          "en": "chiplet",
+          "zh-TW": "小晶片"
         },
         "blurb": {
-          "en": "Monitoring of people possibly exposed to disease, applied here to nearly 200 people.",
-          "zh-TW": "對可能接觸疾病者進行監測，本案近 200 人接受觀察。"
+          "en": "A small modular die combined with others in a single package.",
+          "zh-TW": "與其他晶粒組合在同一封裝內的小型模組化晶片。"
         }
       },
       {
         "term": {
-          "en": "bioweapon",
-          "zh-TW": "生物武器"
+          "en": "CoWoS",
+          "zh-TW": "CoWoS"
         },
         "blurb": {
-          "en": "A weapon using disease-causing agents; Trump said he does not believe this was one.",
-          "zh-TW": "利用致病原的武器，川普表示不認為本案屬此類。"
+          "en": "An advanced chip-packaging technology for stacking chips on a silicon interposer.",
+          "zh-TW": "將晶片堆疊在矽中介層上的先進封裝技術。"
         }
       },
       {
         "term": {
-          "en": "Donald Trump",
-          "zh-TW": "川普"
+          "en": "2.5D interposer",
+          "zh-TW": "2.5D 中介層"
         },
         "blurb": {
-          "en": "President of the United States, planning a Wednesday call with Putin.",
-          "zh-TW": "美國總統，計畫週三與普丁通話。"
+          "en": "A silicon layer that connects multiple chips side by side in one package.",
+          "zh-TW": "在同一封裝內並排連接多顆晶片的矽層。"
         }
       },
       {
         "term": {
-          "en": "Vladimir Putin",
-          "zh-TW": "普丁"
+          "en": "Semiconductor Engineering",
+          "zh-TW": "半導體工程"
         },
         "blurb": {
-          "en": "President of Russia, Trump's planned call counterpart.",
-          "zh-TW": "俄羅斯總統，川普預定通話的對象。"
+          "en": "Industry trade publication covering chip design and manufacturing.",
+          "zh-TW": "報導晶片設計與製造的產業專業媒體。"
+        }
+      },
+      {
+        "term": {
+          "en": "PBS NewsHour",
+          "zh-TW": "PBS 新聞一小時"
+        },
+        "blurb": {
+          "en": "US public-television nightly news program.",
+          "zh-TW": "美國公共電視的晚間新聞節目。"
+        }
+      },
+      {
+        "term": {
+          "en": "DC midair collision",
+          "zh-TW": "華盛頓空難"
+        },
+        "blurb": {
+          "en": "The midair collision over Washington, DC investigated in the Army report.",
+          "zh-TW": "陸軍報告調查的華盛頓特區上空空中相撞事故。"
         }
       }
     ]
   },
   {
-    "id": "live-international-03-i-ve-covered-death-row-c",
-    "category": "international",
+    "id": "live-entertainment-02-i-ve-covered-death-row-c",
+    "category": "entertainment",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "imageUrl": "/covers/live/live-international-03-i-ve-covered-death-row-c.jpg",
+    "imageUrl": "/covers/live/live-entertainment-02-i-ve-covered-death-row-c.jpg",
     "imageAlt": {
       "en": "Cover related to: I’ve Covered Death Row Cases for Nearly a Decade. What Happened to Christa Pike Wasn’t an Anomaly.",
       "zh-TW": "相關封面圖：我報道死囚案件近十年了。克里斯塔·派克的遭遇並非異常。"
     },
-    "publishedAt": "2026-10-07T23:43:23.000Z",
+    "publishedAt": "2026-10-09T00:35:13.000Z",
     "title": {
-      "en": "Christa Pike 'Angry and Confused' After Botched Tennessee Execution, Lawyers Say",
-      "zh-TW": "田納西州死刑執行失敗：克里斯塔·派克甦醒後「憤怒困惑」，律師指控延誤會見"
+      "en": "Christa Pike Walking and Eating a Week After Surviving Tennessee's Failed Execution, Attorneys Say",
+      "zh-TW": "律師：派克（Christa Pike）在田納西州（Tennessee）死刑執行失敗一週後已能行走進食"
     },
     "summary": {
-      "en": "Christa Pike regained consciousness after Tennessee's attempt to execute her, and her lawyers say she is “angry and confused.” Witnesses described a two-hour ordeal with two doses of lethal-injection drugs; her arms were swollen, blistered, and one turned purple. Her attorneys accuse prison officials of delaying their access for over two hours, and a judge has ordered execution evidence preserved.",
-      "zh-TW": "田納西州對克里斯塔·派克（Christa Pike）執行死刑失敗，她恢復意識後律師稱其「憤怒且困惑」。目擊者描述約兩小時的過程中施打了兩劑注射藥物，她的手臂腫脹起水泡、一隻發紫。律師指控監獄官員在她甦醒後延誤會見逾兩小時；法官已下令保存執行相關證據。"
+      "en": "Christa Pike has begun walking and eating again at a hospital a week after surviving Tennessee's attempt to execute her with lethal drugs, her attorneys said Thursday, while a judge ordered the failed execution's evidence preserved. A separate, unrelated thread covers Hurricane Isaias, now a Category 2 storm, as the Gulf Coast prepares for landfall.",
+      "zh-TW": "派克（Christa Pike）的律師週四表示，派克在田納西州（Tennessee）以藥物注射執行死刑失敗一週後，已在醫院重新行走、進食；法官已下令保存執行失敗的相關證據。同聚合另有一條無關支線：颶風伊薩亞斯（Isaias）增強為 2 級颶風，墨西哥灣沿岸戒備登陸。"
     },
     "body": {
-      "en": "What happened\nOver the course of about two hours, witnesses watched as Christa Pike cried, whimpered, and snored through Tennessee's attempt to execute her; by the end, executioners had administered two doses of the state's lethal-injection drugs. Her arms were swollen and blistered, and one had turned purple, her attorneys said. Pike regained consciousness on Tuesday following the failed execution, and her lawyers say she is now awake but “angry and confused.” Her attorneys accuse Tennessee prison officials of delaying their access to Pike for over two hours after she regained consciousness. A judge has ordered that evidence from the execution be preserved, and a hearing centered on transparency was held Wednesday. ProPublica frames the case as no anomaly, arguing it reflects long-standing problems in death-row cases.\nWhy it matters\nA botched execution followed by restricted lawyer access strikes at the legal safeguards around capital punishment: the state's account and the defense's account now diverge sharply, and the preserved evidence will determine which one holds. The case is reviving national scrutiny of lethal-injection practice.\nSources agree / disagree\nPBS NewsHour, ProPublica, CBS News, and NPR agree on the core sequence — the failed execution, Pike regaining consciousness, the lawyers' “angry and confused” description, and the preservation order. The prison system's own account is not represented in the snippets, so the official-versus-defense narrative is unconfirmed on one side. Trust label: narrative contested — official account missing.\nStill uncertain\nWhat exactly went wrong in the chamber, why access was delayed, and whether a second execution will be attempted are unresolved. Follow the publishers for updates.",
-      "zh-TW": "發生了什麼事\n約兩小時的過程中，目擊者看著克里斯塔·派克（Christa Pike）在田納西州的死刑執行中哭泣、嗚咽、打鼾；結束時，執行人員已施打兩劑該州注射死刑藥物。律師稱她的手臂腫脹起水泡，其中一隻發紫。派克在週二執行失敗後恢復意識，律師表示她現已清醒，但「憤怒且困惑」。律師指控田納西州監獄官員在她恢復意識後，延誤律師會見逾兩小時。法官已下令保存執行相關證據，週三舉行的聽證聚焦透明度。ProPublica 將本案定調為「並非個案」，認為它反映死刑案件長期存在的問題。\n為什麼重要\n執行失敗加上律師會見受阻，直接衝擊死刑的法律保障：官方說法與辯方說法如今嚴重分歧，被保存的證據將決定孰是孰非。本案也讓注射死刑的執行實務重新受到全國檢視。\n來源異同\nPBS、ProPublica、CBS、NPR 在核心經過上一致——執行失敗、派克恢復意識、律師「憤怒困惑」的描述、證據保存令。摘要中沒有監獄系統的說法，官方與辯方的敘述有一方缺席。信任標籤：敘述有分歧／未確認。\n仍不確定\n行刑室內究竟出了什麼問題、為何延誤會見、是否會再次執行，目前都無答案。後續請追蹤原文報導。"
+      "en": "A Tennessee death-row case and an Atlantic hurricane were bundled into one feed cluster. The death-penalty story is the substantive thread: multiple outlets report on Christa Pike's condition after the state failed to execute her.\nWhat happened\nChrista Pike has begun walking and eating again at a hospital a week after surviving Tennessee's attempt to execute her with lethal drugs, her attorneys said Thursday. One report says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections. A judge has ordered that evidence from Pike's failed execution be preserved. A ProPublica reporter who has covered death-row cases for nearly a decade argues that what happened to Pike was not an anomaly. TMZ's item describes Pike as traumatized after the botched execution. In the separate, unrelated thread, Hurricane Isaias intensified into a Category 2 storm — the first hurricane of the Atlantic season — with the Gulf Coast preparing for landfall this weekend; forecasters warn of heavy rain, damaging winds, flooding, storm surge, and possible tornadoes, and National Hurricane Center Director Michael Brennan discussed the latest with Amna Nawaz.\nWhy it matters\nA failed execution is an extraordinary event with legal and human stakes: preserved evidence will matter for the inevitable court battles over what went wrong, and the ProPublica angle frames Pike's case as part of a pattern rather than a one-off. (The hurricane thread is a separate weather emergency for Gulf Coast residents and should be read on its own.)\nSources agree / disagree\nOn the Pike thread, the named outlets (BBC World, PBS NewsHour, ProPublica, TMZ, NPR World) tell a consistent story: failed lethal injection, Pike recovering in hospital, evidence-preservation order. There is no real numeric or name conflict — the raw feed's \"2 vs 14\" figure note is garbled aggregation text. The Isaias items (NPR, PBS, Grist) form their own consistent thread about a Category 2 landfall threat. The honesty issue is structural: these are two different news events bundled by the aggregator, not one corroborated story. Trust label: multi-source but two separate threads — treat each on its own; still developing.\nStill uncertain\nSnippets do not say what exactly failed during the execution attempt, what the preserved evidence includes, or what legal steps come next. On Isaias, the snippets give no landfall time or location beyond \"the Gulf Coast this weekend.\" Follow the linked outlets for updates.",
+      "zh-TW": "一個聚合把田納西州（Tennessee）死囚案和大西洋颶風綁在一起。死刑那條是實質支線：多家媒體報導派克（Christa Pike）在州政府執行死刑失敗後的近況。\n發生了什麼事\n派克的律師週四表示，派克在田納西州以致命藥物執行死刑失敗一週後，已在醫院重新開始行走與進食。另有報導稱，殺害科琳·斯萊默（Colleen Slemmer）的兇手在兩次藥物注射死刑後倖存，目前正在病房內走動。法官已下令保存派克執行失敗的相關證據。一名報導死囚案件近十年的 ProPublica 記者認為，派克的遭遇並非異常。TMZ 的報導則稱派克在執行失敗後受到創傷。另一條無關支線是颶風伊薩亞斯（Isaias）增強為 2 級颶風——本年大西洋盆地首場颶風，墨西哥灣沿岸正為本週末登陸做準備；預報員警告大雨、破壞性強風、洪水、風暴潮與可能的龍捲風，國家颶風中心主任麥可·布倫南（Michael Brennan）與阿姆娜·納瓦茲（Amna Nawaz）討論最新情況。\n為什麼重要\n執行死刑失敗是極不尋常的事件，法律與人道代價都很高：保存的證據將是後續必然開打的法庭攻防關鍵；ProPublica 的角度則把派克案定位為模式的一部分，而非單一意外。（颶風支線是墨西哥灣居民面對的另一場天災，應獨立看待。）\n來源異同\n在派克支線，多家具名媒體（BBC、PBS 新聞一小時、ProPublica、TMZ、NPR）說法一致：藥物注射執行失敗、派克在醫院康復、證據保存令。沒有真實的數字或人名衝突——原始摘要「2 比 14」的數字註記是聚合文字錯亂。伊薩亞斯支線（NPR、PBS、Grist）自成一致的 2 級颶風登陸威脅報導。真正的問題是結構性的：這是聚合器綁在一起的兩則不同新聞，並非一篇被交叉查證的報導。信任標籤：多源但兩條支線——各自看待；事件仍在發展。\n仍不確定\n摘要未說明執行過程到底哪個環節失敗、保存的證據包括什麼、接下來法律程序為何。伊薩亞斯部分，摘要只說「本週末墨西哥灣沿岸」，沒有登陸時間地點。請追蹤原文連結取得更新。"
     },
     "sources": [
       {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico"
+      },
+      {
         "name": "PBS NewsHour",
-        "url": "https://www.pbs.org/newshour/show/news-wrap-lawyer-says-christa-pike-angry-and-confused-following-botched-execution"
+        "url": "https://www.pbs.org/newshour/nation/christa-pikes-attorneys-say-she-is-walking-with-help-and-eating-after-failed-execution-attempt"
       },
       {
         "name": "ProPublica",
         "url": "https://www.propublica.org/article/christa-pike-tennessee-execution-lethal-injection-failure"
       },
       {
-        "name": "CBS News Crime",
-        "url": "https://www.cbsnews.com/video/what-christa-pike-asked-woke-up-failed-execution/"
+        "name": "Grist",
+        "url": "https://grist.org/extreme-weather/hurricane-isaias-is-a-typical-storm-but-its-also-astounding/"
       },
       {
-        "name": "NPR News",
-        "url": "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved"
+        "name": "TMZ",
+        "url": "https://www.tmz.com/2026/10/08/christa-pike-traumatized-after-botched-execution/"
       }
     ],
-    "disagreements": null,
+    "disagreements": {
+      "en": "This is not a disagreement but a structural problem: the cluster bundles two unrelated news events (Christa Pike's failed execution and Hurricane Isaias). The raw feed's \"2 vs 14\" figure note is garbled aggregation text, not a real conflict — the Pike-thread outlets agree with each other and the Isaias-thread outlets agree with each other.",
+      "zh-TW": "這不是分歧，而是結構問題：這個聚合把兩則無關新聞硬綁在一起（派克死刑執行失敗與颶風伊薩亞斯）。原始摘要「2 比 14」的數字註記是聚合文字錯亂，並非真實衝突——派克支線的各媒體彼此一致，颶風支線的各媒體也彼此一致。"
+    },
     "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 25,
-      "outletReputation": 20,
-      "crossCorroboration": 25,
+      "outletReputation": 18,
+      "crossCorroboration": 17,
       "recencyClarity": 25
     },
     "tags": [
-      "international",
+      "entertainment",
       "live-ingest",
-      "pbs-newshour",
-      "propublica",
-      "cbs-news-crime"
+      "bbc-world",
+      "npr-world",
+      "pbs-newshour"
     ],
     "glossary": [
       {
         "term": {
-          "en": "death penalty",
-          "zh-TW": "死刑"
+          "en": "Christa Pike",
+          "zh-TW": "克里斯塔·派克"
         },
         "blurb": {
-          "en": "Capital punishment; Pike was on Tennessee's death row.",
-          "zh-TW": "極刑；派克是田納西州死刑犯。"
+          "en": "Tennessee death-row inmate whose lethal-injection execution attempt failed.",
+          "zh-TW": "田納西州死囚，藥物注射執行死刑失敗的當事人。"
         }
       },
       {
         "term": {
-          "en": "lethal injection",
-          "zh-TW": "注射死刑"
+          "en": "Colleen Slemmer",
+          "zh-TW": "科琳·斯萊默"
         },
         "blurb": {
-          "en": "Execution by injected drugs; two doses were administered here.",
-          "zh-TW": "以注射藥物執行死刑，本案施打了兩劑。"
-        }
-      },
-      {
-        "term": {
-          "en": "botched execution",
-          "zh-TW": "執行失敗"
-        },
-        "blurb": {
-          "en": "An execution that goes wrong, as in Pike regaining consciousness.",
-          "zh-TW": "出差錯的死刑執行，如派克恢復意識。"
+          "en": "The murder victim in Pike's case.",
+          "zh-TW": "派克案中的遇害者。"
         }
       },
       {
@@ -1189,524 +1439,317 @@
           "zh-TW": "田納西州"
         },
         "blurb": {
-          "en": "The U.S. state that attempted the execution.",
-          "zh-TW": "執行死刑的美國州。"
+          "en": "US state where the failed execution was attempted.",
+          "zh-TW": "執行死刑失敗所在的美國州。"
         }
       },
       {
         "term": {
-          "en": "attorney",
-          "zh-TW": "律師"
+          "en": "lethal injection",
+          "zh-TW": "藥物注射死刑"
         },
         "blurb": {
-          "en": "Pike's lawyers, who describe her as “angry and confused” and accuse officials of delay.",
-          "zh-TW": "派克的律師，稱其「憤怒困惑」並指控官方延誤。"
+          "en": "Execution method using lethal drugs.",
+          "zh-TW": "以致命藥物執行的死刑方式。"
         }
       },
       {
         "term": {
-          "en": "evidence preservation",
-          "zh-TW": "證據保存"
+          "en": "BBC",
+          "zh-TW": "英國廣播公司"
         },
         "blurb": {
-          "en": "The judge's order to preserve materials from the failed execution.",
-          "zh-TW": "法官下令保存執行失敗相關證據。"
+          "en": "British public broadcaster that reported Pike is walking again.",
+          "zh-TW": "英國公共廣播機構，報導派克已能行走。"
+        }
+      },
+      {
+        "term": {
+          "en": "ProPublica",
+          "zh-TW": "ProPublica"
+        },
+        "blurb": {
+          "en": "US nonprofit investigative newsroom covering the death-row case.",
+          "zh-TW": "美國非營利調查新聞機構，報導本死囚案。"
+        }
+      },
+      {
+        "term": {
+          "en": "Hurricane Isaias",
+          "zh-TW": "颶風伊薩亞斯"
+        },
+        "blurb": {
+          "en": "Category 2 Atlantic hurricane threatening the Gulf Coast.",
+          "zh-TW": "威脅墨西哥灣沿岸的 2 級大西洋颶風。"
+        }
+      },
+      {
+        "term": {
+          "en": "Michael Brennan",
+          "zh-TW": "麥可·布倫南"
+        },
+        "blurb": {
+          "en": "Director of the US National Hurricane Center.",
+          "zh-TW": "美國國家颶風中心主任。"
         }
       }
     ]
   },
   {
-    "id": "live-taiwan-02-asian-wheat-buyers-cut-f",
-    "category": "taiwan",
+    "id": "live-finance-01-bloomberg-daybreak-asia-",
+    "category": "finance",
     "adult": false,
     "isHeadline": false,
     "isPopular": true,
-    "publishedAt": "2026-10-08T00:31:40.000Z",
-    "title": {
-      "en": "Asian Wheat Buyers Cut Forward Purchases as Black Sea War Whipsaws Markets",
-      "zh-TW": "戰爭攪動市場：亞洲小麥買家縮減遠期採購，黑海供應受阻"
-    },
-    "summary": {
-      "en": "Asian wheat millers are cutting forward commitments as prices soar, with Black Sea disruptions choking supplies from one of the world's top exporting regions. The move comes as Asian stocks fell, tracking Wall Street, with elevated oil prices stoking inflation concerns.",
-      "zh-TW": "黑海地區供應受戰爭干擾、價格飆漲，亞洲小麥加工業者正縮減遠期採購承諾。與此同時亞洲股市跟隨美股走低，油價高企引發通膨疑慮，科技股再度承壓。"
-    },
-    "body": {
-      "en": "What happened\nAsian wheat millers are cutting forward purchases as wheat prices soar, Bloomberg reports, with disruptions in the Black Sea choking supplies from one of the world's top exporting regions. The pullback in forward commitments signals buyers bracing for prolonged volatility. In the same markets wrap, Asian stocks declined, tracking moves on Wall Street, as elevated oil prices stoked inflation concerns and technology shares came under renewed pressure; Japanese stocks fell for a second day as persistently high oil prices weighed on equities near record highs.\nWhy it matters\nThe Black Sea is one of the world's breadbaskets, and when its exports seize up, import-dependent Asian economies feel it first in flour and food prices. Buyers cutting forward cover is both a symptom of the disruption and a potential amplifier: thinner forward buying can make spot markets more volatile, feeding the very inflation worries pressuring Asian equities.\nSources agree / disagree\nAll three items in this cluster come from a single outlet, Bloomberg Markets, covering the wheat pullback and the broader Asian selloff; there is no second newsroom corroborating either thread in the snippets. Trust label: single source — treat as unconfirmed.\nStill uncertain\nHow long the Black Sea disruption lasts, and how much of the wheat price spike passes through to consumer food prices, are not addressed in the snippets. Verify on the publisher's page.",
-      "zh-TW": "發生了什麼事\n據彭博報導，小麥價格飆漲之際，亞洲小麥加工業者正縮減遠期採購，黑海地區的供應中斷扼住了全球主要出口區之一的出貨。遠期承諾縮手，顯示買方正為長期波動做準備。同篇市場綜述指出，亞洲股市跟隨美股走低，油價高企助長通膨疑慮、科技股再度承壓；日股連跌第二天，高油價讓逼近歷史高點的股市承壓。\n為什麼重要\n黑海是世界糧倉之一，其出口一旦卡住，依賴進口的亞洲經濟體最先在麵粉與食品價格上感受到。買方縮減遠期避險既是干擾的症狀，也可能是放大器：遠期買盤變薄會讓現貨市場更波動，反過來助長壓抑亞洲股市的通膨擔憂。\n來源異同\n本串三則素材皆出自單一媒體彭博市場線，分述小麥縮手與亞洲股市走弱；摘要中無第二家新聞室佐證任一主線。信任標籤：僅 1 源／未確認。\n仍不確定\n黑海干擾會持續多久、小麥漲價多少會傳導到終端食品價格，摘要中沒有。請以原文查證。"
-    },
-    "sources": [
-      {
-        "name": "Bloomberg Markets",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 59,
-    "trustBreakdown": {
-      "sourceDiversity": 6,
-      "outletReputation": 22,
-      "crossCorroboration": 6,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "taiwan",
-      "live-ingest",
-      "bloomberg-markets",
-      "bloomberg-markets",
-      "bloomberg-markets"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "wheat",
-          "zh-TW": "小麥"
-        },
-        "blurb": {
-          "en": "A staple grain; Asian millers are cutting forward purchases as prices soar.",
-          "zh-TW": "主食穀物；價格飆漲之際亞洲加工業者縮減遠期採購。"
-        }
-      },
-      {
-        "term": {
-          "en": "forward purchases",
-          "zh-TW": "遠期採購"
-        },
-        "blurb": {
-          "en": "Commitments to buy a commodity for future delivery; buyers are trimming them.",
-          "zh-TW": "約定未來交割的採購承諾，買方正在縮減。"
-        }
-      },
-      {
-        "term": {
-          "en": "Black Sea",
-          "zh-TW": "黑海"
-        },
-        "blurb": {
-          "en": "A region including top wheat exporters; disruptions there choke global supply.",
-          "zh-TW": "涵蓋主要小麥出口國的區域，干擾會扼住全球供應。"
-        }
-      },
-      {
-        "term": {
-          "en": "inflation",
-          "zh-TW": "通膨"
-        },
-        "blurb": {
-          "en": "Rising prices; elevated oil is reviving inflation concerns in Asia.",
-          "zh-TW": "物價上漲；高油價讓亞洲通膨疑慮再起。"
-        }
-      },
-      {
-        "term": {
-          "en": "Bloomberg",
-          "zh-TW": "彭博"
-        },
-        "blurb": {
-          "en": "Financial news outlet and the sole source in this cluster.",
-          "zh-TW": "財經新聞媒體，本串唯一的來源。"
-        }
-      },
-      {
-        "term": {
-          "en": "millers",
-          "zh-TW": "加工業者"
-        },
-        "blurb": {
-          "en": "Companies that mill wheat into flour; the Asian buyers in this story.",
-          "zh-TW": "將小麥磨成麵粉的業者，即本案的亞洲買方。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-eastAsiaGossip-05-7-4-ettoday-ettoday",
-    "category": "eastAsiaGossip",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-eastAsiaGossip-05-7-4-ettoday-ettoday.jpg",
+    "imageUrl": "/covers/live/live-finance-01-bloomberg-daybreak-asia-.jpg",
     "imageAlt": {
-      "en": "Cover related to: 7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday星光雲| ETtoday新聞雲",
-      "zh-TW": "相關封面圖：7月剛宣布婚訊！《換乘4》智賢哽咽證實分手了：希望他幸福 - ETtoday星光雲| ETtoday新聞雲"
+      "en": "Cover related to: Bloomberg Daybreak Asia: OpenAI Revenue Report (Podcast)",
+      "zh-TW": "相關封面圖：彭博社 Daybreak Asia：OpenAI 收入報告（播客）"
     },
-    "publishedAt": "2026-10-08T01:02:00.000Z",
+    "publishedAt": "2026-10-09T01:16:01.000Z",
     "title": {
-      "en": "Transit Love 4's Park Ji-hyun Confirms Split From Jung Won-gyu Months After Wedding News",
-      "zh-TW": "7 月才宣布婚訊！《換乘戀愛 4》朴智賢哽咽證實與鄭元奎分手：希望他幸福"
+      "en": "OpenAI Told Investors It Hit $50B in Annualized Revenue; AI Stocks Fell, CNBC Confirms",
+      "zh-TW": "OpenAI 告訴投資人年化營收約 500 億美元，輝達（Nvidia）等 AI 股下跌"
     },
     "summary": {
-      "en": "Park Ji-hyun of the Korean dating show “Transit Love 4” tearfully confirmed that she and Jung Won-gyu — who reconciled on the show and announced wedding plans in July — have broken up: “We will absolutely not date again... I hope Won-gyu will be well and happy.” Outlets note the turn from engagement talk to split took about three months.",
-      "zh-TW": "韓國戀愛實境秀《換乘戀愛 4》情侶檔朴智賢、鄭元奎分手。兩人在節目中復合、7 月才親口證實有結婚意願，智賢 7 日透過影片哽咽證實：「我們絕對不再交往了，雖然分手了，我希望元奎哥哥之後過得好也過得幸福」。從論及婚嫁到分手僅約 3 個月，粉絲譁然。"
+      "en": "OpenAI told investors it reached roughly $50 billion in annualized revenue at the end of September, CNBC confirmed — about $20 billion below the previously reported $70 billion figure, which analysts attribute to reporting differences rather than weak AI demand. AI stocks including Nvidia, Oracle, CoreWeave and Micron fell on the news.",
+      "zh-TW": "OpenAI 告訴投資人，9 月底年化營收約 500 億美元，經 CNBC 證實——比先前傳出的 700 億美元少約 200 億；分析師認為是統計方式差異，而非 AI 需求疲軟。輝達（Nvidia）、甲骨文（Oracle）、CoreWeave、美光（Micron）等 AI 股應聲下跌。"
     },
     "body": {
-      "en": "What happened\nPark Ji-hyun, who rose to fame with Jung Won-gyu as the reconciled couple of the Korean dating reality show “Transit Love 4,” confirmed in a video on Oct 7 that the two have broken up. The pair had left the show together, flaunted their relationship on a YouTube channel, and admitted they intended to marry — Ji-hyun personally confirmed the upcoming wedding in July. Tearfully, she told viewers: “We will absolutely not date again. Although we broke up, I hope Won-gyu will be well and happy afterwards.” ETtoday, Yahoo Taiwan, NOWnews, TVBS, and Mirror Media all carried the news, with Yahoo noting the arc from engagement talk to breakup spanned only about three months.\nWhy it matters\n“Transit Love” has minted a string of beloved civilian couples, and its stars' off-screen romances are followed like serial dramas across Taiwan, Hong Kong, and Southeast Asia. A wedding-to-breakup reversal in three months is exactly the kind of whiplash that drives the show's gossip economy — and a reminder of how fast reality-TV narratives can collapse.\nSources agree / disagree\nFive-plus outlets agree on the core facts — the July wedding news, the Oct 7 video confirmation, and Ji-hyun's quoted wish for Won-gyu's happiness. Wording differs slightly: ETtoday frames July as a wedding announcement while Yahoo describes wedding plans, but both agree the couple discussed marriage. Trust label: multiple sources agree.\nStill uncertain\nThe reason for the split was not disclosed in the snippets. Verify quotes against the video and outlet pages.",
-      "zh-TW": "發生了什麼事\n韓國戀愛實境秀《換乘戀愛 4》以復合情侶檔走紅的朴智賢與鄭元奎，分手了。兩人離開節目後透過 YouTube 頻道放閃，也坦承有結婚意願，智賢 7 月才親口證實即將結婚；7 日她透過影片哽咽證實：「我們絕對不再交往了，雖然分手了，我希望元奎哥哥之後過得好也過得幸福」。ETtoday、Yahoo 奇摩、NOWnews、TVBS、鏡週刊皆報導此事，Yahoo 指出從論及婚嫁到分手僅約 3 個月。\n為什麼重要\n《換乘戀愛》捧紅無數素人情侶檔，明星們螢幕外的感情在台港東南亞被當連續劇追。3 個月內從婚訊到分手的急轉彎，正是驅動這套八卦經濟的題材——也提醒觀眾，實境秀的敘事崩塌可以多快。\n來源異同\n五家以上媒體在核心事實上一致：7 月的結婚消息、10 月 7 日的影片證實、智賢祝福元奎幸福的原話。用字略有差異：ETtoday 稱「宣布婚訊」，Yahoo 寫「喊結婚／有結婚意願」，但都指向兩人曾談及結婚。信任標籤：多源一致。\n仍不確定\n分手原因在摘要中未揭露。引言請對照影片與原文查證。"
+      "en": "OpenAI's revenue numbers are moving markets: the AI lab told investors it hit roughly $50 billion in annualized revenue at the end of September — a figure that came in well below earlier reports — and AI-linked stocks dropped on the news.\nWhat happened\nOpenAI told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed. The figure fell short of expectations: it had previously been reported that the AI lab's annualized revenue was some $70 billion, and TechCrunch's headline puts the gap at about $20 billion less than previously projected. Analysts quoted in the coverage say the shortfall reflects differences in how the figure is reported, not weakness in AI demand. The market reaction was swift: CNBC reports Nvidia, Oracle, CoreWeave and other AI stocks sank on the revenue report, while MarketWatch reports Micron, Nvidia and AI chip stocks fell as the report caused what it calls \"undue concern.\" Bloomberg News also covered the story on its Daybreak Asia podcast.\nWhy it matters\nOpenAI's revenue trajectory is the market's proxy for the entire AI trade: when its numbers disappoint, the selloff spreads to chipmakers, cloud providers, and the broader AI supply chain within hours. The analyst pushback — that this is a reporting-methodology quirk, not demand weakness — is the key question investors must resolve before deciding whether the dip is a buying opportunity or a warning.\nSources agree / disagree\nFour named outlets — CNBC, MarketWatch, TechCrunch, and Bloomberg News — are covering the same core facts: ~$50B annualized revenue at end of September, previously reported ~$70B, AI stocks down. There is no real conflict: the raw feed's \"50 vs 20\" figure note misreads the story — $20 billion is the size of the shortfall versus $70 billion, not an alternative revenue figure. Trust label: 4 sources consistent on the core facts — but all are reporting the same investor-disclosure story, and the $50B figure itself is unaudited and reported second-hand.\nStill uncertain\nThe snippets do not explain how \"annualized revenue\" was calculated, which reporting differences the analysts are referring to, or the exact size of the stock moves. For the precise methodology and market data, read the linked publisher pages.",
+      "zh-TW": "OpenAI 的營收數字正在牽動市場：這家 AI 實驗室告訴投資人，9 月底年化營收約 500 億美元——遠低於先前傳出的數字，AI 相關股票應聲下跌。\n發生了什麼事\nOpenAI 告訴投資人，9 月底年化營收達到約 500 億美元，經 CNBC 證實。這個數字未達預期：先前曾傳出該實驗室年化營收約 700 億美元，TechCrunch 的標題則寫比先前預測少約 200 億美元。報導引述分析師說法，落差反映的是統計方式差異，而非 AI 需求疲軟。市場反應迅速：CNBC 報導輝達（Nvidia）、甲骨文（Oracle）、CoreWeave 等 AI 股因這份營收報告下跌；MarketWatch 報導美光（Micron）、輝達與 AI 晶片股下跌，稱報告引發「過度擔憂」。彭博新聞（Bloomberg News）也在 Daybreak Asia 播客談及此事。\n為什麼重要\nOpenAI 的營收軌跡是市場衡量整個 AI 題材的代理指標：數字一讓人失望，拋售幾小時內就擴散到晶片商、雲端業者與整條 AI 供應鏈。分析師的反駁——這是統計口徑問題而非需求疲軟——正是投資人必須先釐清的關鍵：這波下跌是買點還是警訊。\n來源異同\n四個具名來源——CNBC、MarketWatch、TechCrunch、彭博新聞——核心事實一致：9 月底年化營收約 500 億美元、先前傳出約 700 億、AI 股下跌。沒有真實衝突：原始摘要「50 比 20」的數字註記誤讀了新聞——200 億美元是相對於 700 億的落差，不是另一個營收數字。信任標籤：4 源核心事實一致——但都是轉述同一份投資人說法，且 500 億美元本身未經審計、屬二手轉述。\n仍不確定\n摘要未說明「年化營收」如何計算、分析師所指的統計差異是什麼，也沒給股價跌幅的確切數字。精確的方法學與市場數據，請查閱原文連結。"
     },
     "sources": [
       {
-        "name": "ETtoday 影劇",
-        "url": "https://star.ettoday.net/news/3250983"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
       },
       {
-        "name": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Zd1U3VFdnZjBTVEU3SW9iWFFEUzJYME5keVlfVlhURmZMSkdhLThxallKaFJOeXVOaS1NZDFUSVRSTlJlMFpJUjRtT3BPZ9IBTEFVX3lxTFBFUlhXZjNKWEtsemNwR29HZ0RxajA3X0tOM2RtM3p3Mm55NmJ1Q3RxRXk0UXJiLUdKUjFVQmVZQ2JlS3BIdUgwSmF1a3A?oc=5"
+        "name": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories"
       },
       {
-        "name": "Yahoo TW 娛樂",
-        "url": "https://tw.news.yahoo.com/%E6%89%8D%E5%96%8A-%E5%BF%AB%E4%BA%86-%E5%8D%BB%E5%88%86%E6%89%8B-%E6%8F%9B%E4%B9%984-%E5%85%83%E5%A5%8E-231600148.html"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
       },
       {
-        "name": "Google News TW 娛樂",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82TWc2VnBkTzFqWEhTNmhWajVRTzY4ZUtfOVQ2ZVlTY1dKSkJJZ0h6YzBEU2NXRjVUSmRwcThHYkZPbjBZUE5jUzR1bVN6T2kyUTlOZS1Tc2hMNkF1ZlVLNUtYbw?oc=5"
-      },
-      {
-        "name": "setn.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFRWhxdnktb0NRRGlXcHFmVlBRV3hkZUp4NUhfX2luUGNyZDJVdWpKQmNZOHU5TVBsNWdtOEFFRkpfMDBpeWJ2aNIBTEFVX3lxTE1FZktxNVI3NTJYWkEtb1paMWJHMGlzU3RIdlZDNEl0N3EtdnZvc0pHMjB5N2NpdHFfdV9aRVg0VjhpNDZPS2ktZlphSzk?oc=5"
+        "name": "Bloomberg News",
+        "url": "https://www.bloomberg.com/news/audio/2026-10-09/bloomberg-daybreak-asia-openai-revenue-report-podcast"
       }
     ],
     "disagreements": {
-      "en": "Outlets phrase July's news slightly differently — ETtoday calls it a wedding announcement while Yahoo describes wedding plans — but all agree the couple discussed marriage.",
-      "zh-TW": "各家對 7 月消息的表述略有差異：ETtoday 稱「宣布婚訊」，Yahoo 寫「喊結婚／有結婚意願」，但都指向兩人曾談及結婚。"
+      "en": "No real conflict: the raw feed's \"50 vs 20\" note misreads the story. $50 billion is the reported annualized revenue; $20 billion is the size of the shortfall versus the previously reported $70 billion. All four outlets agree on these numbers.",
+      "zh-TW": "沒有真實衝突：原始摘要「50 比 20」的註記誤讀了新聞。500 億美元是報導中的年化營收；200 億美元是相對於先前 700 億美元的落差。四家媒體對這些數字說法一致。"
     },
     "trustScore": 55,
     "trustBreakdown": {
       "sourceDiversity": 25,
-      "outletReputation": 17,
+      "outletReputation": 19,
       "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "cnbc",
+      "marketwatch",
+      "techcrunch"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "OpenAI",
+          "zh-TW": "OpenAI"
+        },
+        "blurb": {
+          "en": "AI research lab behind ChatGPT; told investors of the revenue figure.",
+          "zh-TW": "ChatGPT 背後的 AI 實驗室，向投資人公布營收數字。"
+        }
+      },
+      {
+        "term": {
+          "en": "annualized revenue",
+          "zh-TW": "年化營收"
+        },
+        "blurb": {
+          "en": "Revenue extrapolated to a full-year rate from a shorter period.",
+          "zh-TW": "由較短期間推算的全年化營收水準。"
+        }
+      },
+      {
+        "term": {
+          "en": "Nvidia",
+          "zh-TW": "輝達"
+        },
+        "blurb": {
+          "en": "US chipmaker central to AI infrastructure; its stock fell on the news.",
+          "zh-TW": "美國晶片大廠，AI 基礎設施核心；消息後股價下跌。"
+        }
+      },
+      {
+        "term": {
+          "en": "Oracle",
+          "zh-TW": "甲骨文"
+        },
+        "blurb": {
+          "en": "US enterprise software and cloud company; its stock fell on the news.",
+          "zh-TW": "美國企業軟體與雲端公司；消息後股價下跌。"
+        }
+      },
+      {
+        "term": {
+          "en": "CoreWeave",
+          "zh-TW": "CoreWeave"
+        },
+        "blurb": {
+          "en": "AI-focused cloud computing provider; its stock fell on the news.",
+          "zh-TW": "專注 AI 的雲端運算業者；消息後股價下跌。"
+        }
+      },
+      {
+        "term": {
+          "en": "Micron",
+          "zh-TW": "美光"
+        },
+        "blurb": {
+          "en": "US memory-chip maker; its stock fell on the news.",
+          "zh-TW": "美國記憶體晶片大廠；消息後股價下跌。"
+        }
+      },
+      {
+        "term": {
+          "en": "CNBC",
+          "zh-TW": "CNBC"
+        },
+        "blurb": {
+          "en": "US business news network that confirmed the revenue figure.",
+          "zh-TW": "美國財經新聞網，證實營收數字。"
+        }
+      },
+      {
+        "term": {
+          "en": "Bloomberg News",
+          "zh-TW": "彭博新聞"
+        },
+        "blurb": {
+          "en": "Financial news organization that covered the story on its podcast.",
+          "zh-TW": "財經新聞機構，在播客節目談及此事。"
+        }
+      }
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-05-13-32-ctwant",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "publishedAt": "2026-10-09T01:39:13.000Z",
+    "title": {
+      "en": "Taiwan Outlets Report Pentagon Confirmed Full Livestream of Fort Hood Gunman's Execution",
+      "zh-TW": "胡德堡槍擊案凶嫌將遭槍決，台媒稱美國防部證實全程直播"
+    },
+    "summary": {
+      "en": "Taiwanese outlets report the US military will execute the Fort Hood gunman from the shooting that killed 13 and wounded 32, with the Pentagon confirming the execution will be fully livestreamed, and describe it as the military's first execution since World War II, reportedly set for December 3.",
+      "zh-TW": "台媒報導，美軍將槍決釀成 13 死 32 傷的胡德堡槍擊案凶嫌；美國防部官員證實將全程直播，稱是美軍二戰後首度槍決，日期為 12/3。"
+    },
+    "body": {
+      "en": "Taiwanese outlets are reporting an extraordinary claim about US military justice: the gunman in the Fort Hood shooting — which killed 13 and wounded 32 — is to be executed by firing squad, and the Pentagon has confirmed the execution will be livestreamed in full.\nWhat happened\nAccording to the Taiwan outlets, the US military will execute the Fort Hood gunman, and Pentagon officials confirmed the execution will be livestreamed in full. CTWANT's headline notes the original shooting killed 13 and wounded 32. One headline describes the case as the US military's first execution since World War II, and gives the execution date as December 3. The named sources are FTV News (via LINE TODAY), CTWANT, and ltn.com.tw (Liberty Times), all carried through a Google News heat feed.\nWhy it matters\nIf confirmed, a publicly livestreamed military execution — described as the first since World War II — would be a historic and highly controversial event, raising questions about transparency, deterrence, and the treatment of victims' families. The story is currently circulating as Taiwan-media reporting citing Pentagon confirmation; its significance depends entirely on that confirmation being real.\nSources agree / disagree\nThree named sources — today.line.me (carrying FTV News), ctwant, and ltn.com.tw — carry closely related headlines with the same core claims: execution by firing squad, full livestream, Pentagon confirmation. There is no real numeric conflict: the raw feed's \"13 vs 12\" note misreads the headlines — 13 is the death toll of the original shooting, while \"12/3\" is the reported execution date. Trust label: 3 named sources consistent, but all are second-hand Taiwan-media items via a single heat feed — the Pentagon confirmation claim is unverified; treat as unconfirmed.\nStill uncertain\nOnly headlines and one-line summaries are available; no statement from the Pentagon itself, no named Pentagon official, and no independent US-media confirmation appear in the snippets. The year of the December 3 date is not stated. Do not treat the livestream claim as confirmed without reading the linked outlets and checking for primary-source confirmation.",
+      "zh-TW": "台媒正在報導一則關於美軍司法的驚人消息：釀成 13 死 32 傷的胡德堡槍擊案凶嫌將遭槍決，且美國防部已證實將全程直播槍決過程。\n發生了什麼事\n根據台媒報導，美軍將槍決胡德堡槍擊案凶嫌，美國防部官員證實將全程直播。CTWANT 的標題提到原案造成 13 死 32 傷；另有一則標題稱這是美軍二戰後首度槍決，執行日期為 12/3。具名來源為民視新聞網（經 LINE TODAY 刊登）、CTWANT，以及 ltn.com.tw（自由時報），皆經由 Google 新聞熱榜聚合。\n為什麼重要\n若屬實，一場公開直播的軍事槍決——被稱為二戰後首度——將是歷史性且高度爭議的事件，牽涉透明度、嚇阻效果與罹難者家屬感受等問題。但目前這只是台媒引述「國防部證實」的報導，其重要性完全取決於該證實是否為真。\n來源異同\n三個具名來源——today.line.me（刊登民視新聞網）、ctwant、ltn.com.tw——標題高度相關，核心說法一致：槍決、全程直播、國防部證實。沒有真實數字衝突：原始摘要「13 比 12」的註記誤讀了標題——13 是原案死亡人數，12/3 是報導中的執行日期。信任標籤：3 個具名來源說法一致，但都是經單一熱榜聚合的二手台媒報導——「國防部證實」的說法未經核實，視為未確認。\n仍不確定\n目前只有標題與一句話摘要；摘要中沒有國防部本身的聲明、沒有具名官員，也沒有美國本土媒體的獨立證實。12/3 的年份也未說明。在查閱原文連結並找到第一手證實之前，請勿把直播說法當成定案。"
+    },
+    "sources": [
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YbmhocEgxSVExbHRIUmJBdzhjdXpmMDhUcWVKOVlNVUpicEFWQTY0N1hwN0JhY0Y3a1lMNXlHLU4wQk9kQkRXeVV5VkZsc1ZhcjEtWXV3?oc=5"
+      },
+      {
+        "name": "ctwant",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WMGJjNVRxY0lBMW5VWTFsa3hiM0k3WWpUWk1OeXgtLTNRNWV3VDFqQjk1a0JsSjR1S1BQWmNRMy1EU25hOUFvWjNnYklwdlXSAVRBVV95cUxQalBCUF95OEliRTdSNHUyLXhBdGNIam9GMzNxMEd4UFhNX21WZUhRVU1QS3Q5Q01tLXIzTWdkZVkzb0txWGkxSXZjQnFUeF9NaU1LRkc?oc=5"
+      },
+      {
+        "name": "ltn.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xb3dtazhUT0l3LXhJcVNtRnJqTHhuR0ExWWJoVkx6dGlXb1dNZ2lBbUUzdV82a2FYTkNVQnUtc3RwbE16Z0FwdDlQQmtfVVNULVBlbnREbGhoQmIzZ1BEOTJBb3F1QdIBa0FVX3lxTE1RMTNoSmh6OFlDNjdpX3FFQkpKZFFhRUg4NHBBWnJyem9ZY2l1WVVtOGQtTk5HS29sMlk1V1dSdjNxblpkUUtpWGdXd3BsTWx1YllIX0d1YlFjNW5OWm9IY0dobEZ2TlVab3Zj?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "No real conflict: the raw feed's \"13 vs 12\" note misreads the headlines — 13 is the death toll of the Fort Hood shooting, while \"12/3\" is the reported execution date. All three named sources agree on the core claims.",
+      "zh-TW": "沒有真實衝突：原始摘要「13 比 12」的註記誤讀了標題——13 是胡德堡槍擊案死亡人數，12/3 是報導中的執行日期。三個具名來源對核心說法一致。"
+    },
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 21,
+      "outletReputation": 16,
+      "crossCorroboration": 14,
       "recencyClarity": 25
     },
     "tags": [
       "eastAsiaGossip",
       "live-ingest",
       "region:tw",
-      "ettoday-影劇",
-      "google-news-tw-entertainment",
-      "yahoo-tw-娛樂"
+      "gnews-tw-heat:美國將直播死",
+      "gnews-tw-heat:美國將直播死",
+      "gnews-tw-heat:美國將直播死"
     ],
     "region": "tw",
     "glossary": [
       {
         "term": {
-          "en": "Transit Love",
-          "zh-TW": "《換乘戀愛》"
+          "en": "Fort Hood",
+          "zh-TW": "胡德堡"
         },
         "blurb": {
-          "en": "Korean dating reality show whose fourth season made Park and Jung a beloved couple.",
-          "zh-TW": "韓國戀愛實境秀，第四季捧紅朴智賢與鄭元奎這對情侶。"
+          "en": "US Army base in Texas, site of the shooting.",
+          "zh-TW": "美國陸軍基地，位於德州，槍擊案發生地。"
         }
       },
       {
         "term": {
-          "en": "reconciliation",
-          "zh-TW": "復合"
+          "en": "US Department of Defense",
+          "zh-TW": "美國國防部"
         },
         "blurb": {
-          "en": "The couple's decision to get back together on the show.",
-          "zh-TW": "兩人在節目中選擇重新在一起。"
+          "en": "US federal department reported to have confirmed the livestream.",
+          "zh-TW": "被報導證實直播消息的美國聯邦部門。"
         }
       },
       {
         "term": {
-          "en": "ETtoday",
-          "zh-TW": "ETtoday星光雲"
+          "en": "firing squad",
+          "zh-TW": "槍決"
         },
         "blurb": {
-          "en": "Taiwanese entertainment news outlet that broke the story.",
-          "zh-TW": "率先報導此事的台灣娛樂新聞媒體。"
+          "en": "Execution carried out by shooting.",
+          "zh-TW": "以射擊執行的死刑方式。"
         }
       },
       {
         "term": {
-          "en": "YouTube",
-          "zh-TW": "YouTube"
+          "en": "CTWANT",
+          "zh-TW": "CTWANT"
         },
         "blurb": {
-          "en": "The video platform where the couple showed their relationship and Ji-hyun confirmed the split.",
-          "zh-TW": "兩人放閃、智賢證實分手的影音平台。"
+          "en": "Taiwanese online news outlet covering the story.",
+          "zh-TW": "報導本案的台灣網路新聞媒體。"
         }
       },
       {
         "term": {
-          "en": "reality show",
-          "zh-TW": "實境秀"
+          "en": "FTV News",
+          "zh-TW": "民視新聞網"
         },
         "blurb": {
-          "en": "Unscripted television genre; the format of Transit Love.",
-          "zh-TW": "非劇本電視類型，《換乘戀愛》的節目形式。"
+          "en": "Taiwanese television news outlet, carried via LINE TODAY.",
+          "zh-TW": "台灣電視新聞媒體，經 LINE TODAY 刊登。"
         }
       },
       {
         "term": {
-          "en": "wedding announcement",
-          "zh-TW": "婚訊"
+          "en": "Liberty Times",
+          "zh-TW": "自由時報"
         },
         "blurb": {
-          "en": "News of an upcoming marriage; what July's reports described.",
-          "zh-TW": "即將結婚的消息，即 7 月報導的內容。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-entertainment-01-we-re-all-jane-doe-how-t",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-01-we-re-all-jane-doe-how-t.jpg",
-    "imageAlt": {
-      "en": "Cover related to: We’re All Jane Doe: How To Center Survivors When Talking About The Cornell 7 Rape Case",
-      "zh-TW": "相關封面圖：我們都是無名氏：在談論康乃爾大學 7 號強暴案時如何讓倖存者居中"
-    },
-    "publishedAt": "2026-10-07T23:36:23.000Z",
-    "title": {
-      "en": "Cornell 'Jane Doe' Faces Threats as Defense Seeks to Block AG James From Rape Case",
-      "zh-TW": "康乃爾「珍·多伊」案：受害者遭威脅，被告律師要求檢察長詹姆斯迴避"
-    },
-    "summary": {
-      "en": "The woman at the center of the alleged Cornell University gang-rape case — known as Jane Doe — has faced threats to her family home, her attorney says. Meanwhile a defense lawyer is asking a judge to block New York Attorney General Letitia James from running the investigation, claiming her public comments create an appearance of bias.",
-      "zh-TW": "康奈爾大學（Cornell University）集體性侵案核心受害者「珍·多伊」（Jane Doe）據其律師表示，家人住處遭到威脅。另一方面，被告律師聲請法官禁止紐約州檢察長蕾蒂西亞·詹姆斯（Letitia James）主導調查，稱其公開發言有偏頗之嫌。評論者呼籲討論本案時以倖存者為中心。"
-    },
-    "body": {
-      "en": "What happened\nContent warning: this card discusses sexual violence. The woman at the center of an alleged gang rape at Cornell University — identified publicly only as Jane Doe — has been facing threats to her family home, according to her attorney; CBS News' Lilia Luciano reports from Ithaca, New York. Separately, TMZ reports that an attorney for one of the accused men is asking a judge to officially block New York Attorney General Letitia James from running the criminal investigation, claiming her public comments create an appearance of bias. And in a Refinery29 op-ed, consent educator and survivor advocate Farrah Khan argues for centering survivors when talking about what she calls the most talked-about court case in the world, describing an alleged assault about a week after a Cornell fraternity party in October 2024.\nWhy it matters\nThe case sits at the intersection of campus sexual assault, high-profile prosecution politics, and media ethics: threats against a complainant's family chill reporting, a recusal fight over the state's top prosecutor tests public confidence in the investigation, and Khan's essay pushes back against coverage that treats the survivor as a plot device.\nSources agree / disagree\nCBS News, TMZ, and Refinery29 each cover a different angle — the threats, the recusal motion, the survivor-centered commentary — and none contradicts another in the snippets. Trust label: multiple angles, no conflicts, but each thread is single-sourced.\nStill uncertain\nThe status of the threats and of the recusal motion, and the underlying investigation's timeline, are not in the snippets. Verify on the publishers' pages; allegations remain allegations until adjudicated.",
-      "zh-TW": "發生了什麼事\n內容提醒：本卡涉及性暴力。據其律師表示，康奈爾大學集體性侵案核心受害者——公開僅以「珍·多伊」（Jane Doe）稱之——家人住處遭到威脅；CBS 記者麗莉亞·盧西亞諾（Lilia Luciano）自紐約州伊薩卡（Ithaca）報導。另據 TMZ，一名被告的律師聲請法官正式禁止紐約州檢察長蕾蒂西亞·詹姆斯（Letitia James）主導刑事調查，稱其公開發言有偏頗之嫌。Refinery29 刊出性同意教育者、倖存者權益倡議者法拉·可汗（Farrah Khan）的評論，主張談論這起「全球最受矚目的案件」時應以倖存者為中心；案情指向 2024 年 10 月康奈爾兄弟會派對約一週後發生的疑似侵害。\n為什麼重要\n本案位在校園性侵、高調檢控政治與媒體倫理的交會點：針對告訴人家庭的威脅會讓人不敢報案；對州最高檢察官的迴避聲請考驗公眾對調查的信任；可汗的文章則反擊把倖存者當劇情道具的報導方式。\n來源異同\nCBS、TMZ、Refinery29 各報不同角度——威脅、迴避聲請、以倖存者為中心的評論——摘要中互不矛盾。信任標籤：多角度、無衝突，但每條線索皆為單一來源。\n仍不確定\n威脅事件與迴避聲請的進度、調查本身的時程，摘要中沒有。請查閱原文；指控在判決前都只是指控。"
-    },
-    "sources": [
-      {
-        "name": "CBS News Crime",
-        "url": "https://www.cbsnews.com/video/jane-doe-cornell-case-facing-multiple-threats-attorney-says/"
-      },
-      {
-        "name": "TMZ",
-        "url": "https://www.tmz.com/2026/10/07/gillio-lopes-wants-letitia-james-removed-from-cornell-investigation/"
-      },
-      {
-        "name": "Refinery29",
-        "url": "https://www.refinery29.com/en-us/help-survivors-the-cornell-7-rape-case?utm_source=feed&utm_medium=rss"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 45,
-    "trustBreakdown": {
-      "sourceDiversity": 21,
-      "outletReputation": 17,
-      "crossCorroboration": 22,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "entertainment",
-      "live-ingest",
-      "cbs-news-crime",
-      "tmz",
-      "refinery29"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "Cornell University",
-          "zh-TW": "康奈爾大學"
-        },
-        "blurb": {
-          "en": "Ivy League university in Ithaca, New York, where the alleged assault occurred.",
-          "zh-TW": "紐約州伊薩卡的長春藤名校，疑似侵害發生地。"
-        }
-      },
-      {
-        "term": {
-          "en": "Jane Doe",
-          "zh-TW": "珍·多伊"
-        },
-        "blurb": {
-          "en": "The pseudonym for the woman at the center of the case.",
-          "zh-TW": "本案核心受害者的化名。"
-        }
-      },
-      {
-        "term": {
-          "en": "sexual assault survivor",
-          "zh-TW": "性侵害倖存者"
-        },
-        "blurb": {
-          "en": "A person who has experienced sexual violence; Khan urges centering survivors in coverage.",
-          "zh-TW": "曾遭受性暴力者；可汗主張報導應以倖存者為中心。"
-        }
-      },
-      {
-        "term": {
-          "en": "New York Attorney General",
-          "zh-TW": "紐約州檢察長"
-        },
-        "blurb": {
-          "en": "The state's top prosecutor; the defense seeks to block her from the investigation.",
-          "zh-TW": "紐約州最高檢察官，被告方要求其迴避調查。"
-        }
-      },
-      {
-        "term": {
-          "en": "Letitia James",
-          "zh-TW": "蕾蒂西亞·詹姆斯"
-        },
-        "blurb": {
-          "en": "New York's attorney general, accused by the defense of apparent bias.",
-          "zh-TW": "紐約州檢察長，被告方指其有偏頗之嫌。"
-        }
-      },
-      {
-        "term": {
-          "en": "Farrah Khan",
-          "zh-TW": "法拉·可汗"
-        },
-        "blurb": {
-          "en": "Consent educator and survivor advocate who wrote the Refinery29 op-ed.",
-          "zh-TW": "撰寫 Refinery29 評論的性同意教育者與倖存者權益倡議者。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "live-entertainment-02-charlotte-tilbury-is-on-",
-    "category": "entertainment",
-    "adult": false,
-    "isHeadline": false,
-    "isPopular": true,
-    "imageUrl": "/covers/live/live-entertainment-02-charlotte-tilbury-is-on-.jpg",
-    "imageAlt": {
-      "en": "Cover related to: Charlotte Tilbury Is On Sale For Prime Big Deal Days – Here’s What A Beauty Editor Would Buy",
-      "zh-TW": "相關封面圖：Charlotte Tilbury 在 Prime Big Deal Day 期間打折——這是美容編輯會買的東西"
-    },
-    "publishedAt": "2026-10-08T01:39:00.000Z",
-    "title": {
-      "en": "Amazon Prime Big Deal Days: Charlotte Tilbury Sale Tops a Beauty Editor's Picks",
-      "zh-TW": "亞馬遜秋季會員日：夏洛特·蒂伯里特賣登美容編輯推薦清單"
-    },
-    "summary": {
-      "en": "Amazon's October Prime Big Deal Days brought a flood of deals coverage: Allure flags a Charlotte Tilbury sale with a beauty editor's picks, while other outlets highlight an Anker 45W charger under $50 (two for under $50), Roku Pro Series OLED TVs from $699.99, a 4TB Teamgroup SSD at $399.90, and kids' Halloween costumes over 60% off.",
-      "zh-TW": "亞馬遜 10 月 Prime Big Deal Days 優惠齊發：Allure 推薦夏洛特·蒂伯里（Charlotte Tilbury）特賣的美妝編輯選品；其他媒體點名安克（Anker）45W 充電器不到 50 美元（兩顆不到 50 美元）、Roku Pro 系列 OLED 電視 699.99 美元起、十銓（Teamgroup）4TB SSD 399.9 美元，以及兒童萬聖節服裝下殺逾 6 折。"
-    },
-    "body": {
-      "en": "What happened\nAmazon's October Prime Big Deal Days sale drew wall-to-wall deals coverage from eleven outlets. Allure's beauty desk highlights a Charlotte Tilbury sale with a beauty editor's picks of what to buy. The Verge rounds up October Prime Day deals under $50, including Anker's 45W charger for less than $50 — two for under $50 — and notes Roku's new Pro Series OLED TVs are back on sale for the event's final day: the 55-inch at $699.99 (30% off list) and the 65-inch at $799.99 ($400 off). Tom's Hardware flags PC-building deals including a 4TB Teamgroup T-Force G50 Evo PCIe 4.0 NVMe SSD at $399.90, while Billboard covers kids' Halloween costumes at over 60% off and 9to5Toys, CNET, Fashionista, Refinery29, TMZ, Just Jared, and Hollywood Life add fashion, beauty, and tech picks.\nWhy it matters\nThe October sale has become Amazon's holiday-season kickoff, and the sheer breadth of coverage — from chargers to OLED TVs to Halloween costumes — shows how deal journalism now shapes early holiday shopping. For readers, the practical signal is narrow: the standout doorbusters are the sub-$50 essentials, the Roku OLEDs, and the 4TB SSD, while most “deals” are ordinary discounts dressed up.\nSources agree / disagree\nEleven outlets produced 35 items of deal roundups; each outlet's picks differ, and the varying figures ($50, $400, $699.99, $399.90) attach to different products rather than conflicting with each other. Trust label: deal roundups — prices are time-sensitive, verify at checkout.\nStill uncertain\nPrices change by the hour during the event and the sale's end timing varies by item. Confirm any price on Amazon before buying; expired deals are common in roundup coverage.",
-      "zh-TW": "發生了什麼事\n亞馬遜 10 月 Prime Big Deal Days 引來 11 家媒體的優惠總整理。Allure 美妝線推薦夏洛特·蒂伯里（Charlotte Tilbury）特賣，列出美容編輯會買的品項；The Verge 整理 50 美元以下的 Prime Day 好物，包括安克（Anker）45W 充電器不到 50 美元——兩顆不到 50 美元——並指出 Roku 首款 Pro 系列 OLED 電視在活動最後一天重新特價：55 吋 699.99 美元（定價 7 折）、65 吋 799.99 美元（現省 400 美元）。Tom's Hardware 點名組電腦好物，含十銓（Teamgroup）T-Force G50 Evo 4TB PCIe 4.0 NVMe SSD 399.9 美元；Billboard 報兒童萬聖節服裝下殺逾 6 折；9to5Toys、CNET、Fashionista、Refinery29、TMZ、Just Jared、Hollywood Life 另有服飾美妝與 3C 選品。\n為什麼重要\n10 月檔已成為亞馬遜 holiday 季的開鑼戰，從充電器到 OLED 電視再到萬聖節服裝的報導廣度，顯示優惠新聞如何左右年底購物季。對讀者而言，真正值得記的是幾個亮點：50 美元內的實用小物、Roku OLED、4TB SSD，其餘多半是包裝成「優惠」的日常折扣。\n來源異同\n11 家媒體產出 35 則優惠整理，各家選品不同；數字差異（50／400／699.99／399.9）分屬不同商品，並非互相衝突。信任標籤：優惠整理——價格具時效性，結帳前請再確認。\n仍不確定\n活動期間價格以小時計變動，各品項結束時間不一。下單前請到亞馬遜確認即時價格；整理文常見過期優惠。"
-    },
-    "sources": [
-      {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50"
-      },
-      {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshardware.com/desktops/pc-building/these-are-the-best-prime-day-deals-ive-found-on-tools-i-use-to-maintain-my-pc-from-screwdrivers-to-air-blowers-these-tools-will-keep-your-pc-in-tip-top-shape"
-      },
-      {
-        "name": "Billboard",
-        "url": "https://www.billboard.com/culture/product-recommendations/kids-halloween-costumes-prime-big-deal-days-2026-shop-sales-1236356596/"
-      },
-      {
-        "name": "TMZ",
-        "url": "https://www.tmz.com/2026/10/07/october-prime-day-deals-fall-fashion/"
-      },
-      {
-        "name": "Hollywood Life",
-        "url": "https://hollywoodlife.com/feature/carrie-tv-series-cast-5561741/"
-      },
-      {
-        "name": "Just Jared",
-        "url": "https://www.justjared.com/2026/10/07/minka-kelly-dating-history-full-list-of-famous-ex-boyfriends-timeline-revealed/"
-      },
-      {
-        "name": "Allure",
-        "url": "https://www.allure.com/story/best-amazon-prime-day-mature-beauty-deals-10-07-26"
-      },
-      {
-        "name": "Fashionista",
-        "url": "https://fashionista.com/2026/10/laifen-prime-day-sale"
-      },
-      {
-        "name": "Refinery29",
-        "url": "https://www.refinery29.com/en-us/best-amazon-prime-day-beauty-deals?utm_source=feed&utm_medium=rss"
-      },
-      {
-        "name": "9to5Toys",
-        "url": "https://9to5toys.com/2026/10/07/last-call-only-hours-remain-on-the-2026-amazon-fall-prime-day-event/"
-      },
-      {
-        "name": "CNET Deals",
-        "url": "https://www.cnet.com/deals/tcl-tablets-phones-prime-day-deals/"
-      }
-    ],
-    "disagreements": null,
-    "trustScore": 55,
-    "trustBreakdown": {
-      "sourceDiversity": 25,
-      "outletReputation": 14,
-      "crossCorroboration": 17,
-      "recencyClarity": 25
-    },
-    "tags": [
-      "entertainment",
-      "live-ingest",
-      "the-verge",
-      "the-verge",
-      "tom's-hardware"
-    ],
-    "glossary": [
-      {
-        "term": {
-          "en": "Prime Big Deal Days",
-          "zh-TW": "Prime Big Deal Days"
-        },
-        "blurb": {
-          "en": "Amazon's October sale event, a holiday-season kickoff.",
-          "zh-TW": "亞馬遜 10 月促銷活動，年底購物季的開鑼戰。"
-        }
-      },
-      {
-        "term": {
-          "en": "Charlotte Tilbury",
-          "zh-TW": "夏洛特·蒂伯里"
-        },
-        "blurb": {
-          "en": "British beauty brand on sale; Allure's beauty editor picks her favorites.",
-          "zh-TW": "英國美妝品牌，特賣登上 Allure 美容編輯推薦。"
-        }
-      },
-      {
-        "term": {
-          "en": "Anker",
-          "zh-TW": "安克"
-        },
-        "blurb": {
-          "en": "Accessories brand whose 45W charger sells for under $50 in the sale.",
-          "zh-TW": "配件品牌，其 45W 充電器特價不到 50 美元。"
-        }
-      },
-      {
-        "term": {
-          "en": "Roku",
-          "zh-TW": "Roku"
-        },
-        "blurb": {
-          "en": "Streaming-device maker whose Pro Series OLED TVs are discounted.",
-          "zh-TW": "串流裝置廠商，Pro 系列 OLED 電視特價中。"
-        }
-      },
-      {
-        "term": {
-          "en": "Teamgroup",
-          "zh-TW": "十銓"
-        },
-        "blurb": {
-          "en": "Memory brand whose 4TB T-Force G50 Evo SSD is $399.90.",
-          "zh-TW": "記憶體品牌，其 4TB SSD 特價 399.9 美元。"
-        }
-      },
-      {
-        "term": {
-          "en": "SSD",
-          "zh-TW": "固態硬碟"
-        },
-        "blurb": {
-          "en": "Solid-state drive; the highlighted model is a 4TB PCIe 4.0 NVMe unit.",
-          "zh-TW": "固態硬碟；本次亮點為 4TB PCIe 4.0 NVMe 機種。"
+          "en": "Taiwanese newspaper (ltn.com.tw) carrying the story.",
+          "zh-TW": "台灣報紙（ltn.com.tw），刊登本報導。"
         }
       }
     ]

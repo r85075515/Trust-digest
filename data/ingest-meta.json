@@ -31,6 +31,6 @@
   "llmProvider": null,
   "llmModel": null,
   "mode": "extractive+translate+rss+heat",
-  "rewrittenAt": "2026-10-08T15:04:31.695Z",
+  "rewrittenAt": "2026-10-09T15:03:42.000Z",
   "rewrittenBy": "fleet-worker"
 }
