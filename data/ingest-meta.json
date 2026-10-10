@@ -1,15 +1,17 @@
 {
-  "ingestedAt": "2026-10-09T01:47:11.000Z",
-  "feedOk": 47,
-  "feedTotal": 52,
-  "rawItems": 542,
+  "ingestedAt": "2026-10-10T01:45:11.545Z",
+  "feedOk": 110,
+  "feedTotal": 112,
+  "rawItems": 977,
   "mainStories": 15,
   "byCategory": {
-    "international": 3,
     "eastAsiaGossip": 4,
-    "ai": 2,
-    "finance": 2,
+    "international": 3,
+    "finance": 1,
     "tech": 2,
+    "taiwan": 1,
+    "energy": 1,
+    "semiconductor": 1,
     "entertainment": 2
   },
   "eastAsiaByRegion": {
@@ -21,16 +23,14 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "蔡康永現身競",
-    "藝人參與政治",
-    "你怎麼看",
-    "錫蘭直播開嗆"
+    "長輩迷過的歌",
+    "仔戲明星是",
+    "阿嬤追的",
+    "看板分類"
   ],
-  "heatNewsInjected": 47,
+  "heatNewsInjected": 46,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat",
-  "rewrittenAt": "2026-10-09T15:03:42.000Z",
-  "rewrittenBy": "fleet-worker"
+  "mode": "extractive+translate+rss+heat"
 }
