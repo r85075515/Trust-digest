@@ -98,4 +98,6 @@ export interface PersonalizationState {
   savedIds: string[];
   notInterestedIds: string[];
   openedIds: string[];
+  /** ISO timestamp of the last user interaction; drives weight decay (v2). */
+  lastActiveAt?: string;
 }

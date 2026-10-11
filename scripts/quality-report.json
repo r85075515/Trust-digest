@@ -1,0 +1,96 @@
+{
+  "checkedAt": "2026-10-11T13:33:09.405Z",
+  "total": 16,
+  "checks": [
+    {
+      "name": "無 boilerplate",
+      "passed": 16,
+      "failed": 0,
+      "failedIds": [],
+      "warnings": []
+    },
+    {
+      "name": "glossary 數量與欄位",
+      "passed": 0,
+      "failed": 16,
+      "failedIds": [
+        "live-finance-01-microsoft-s-satya-nadell",
+        "live-semiconductor-01-elon-musk-intensifies-at",
+        "live-taiwan-01-kinnik-is-hiring-a-freel",
+        "live-eastAsiaGossip-01-86-1",
+        "live-eastAsiaGossip-02-90-17-mirror-media",
+        "live-taiwan-02-story",
+        "live-eastAsiaGossip-03-1-4-mirror-media",
+        "live-finance-02-ken-paxton-s-security-fo",
+        "live-eastAsiaGossip-04-101-14",
+        "live-international-01-house-republican-invokin",
+        "live-entertainment-01-will-christa-pike-be-rel",
+        "live-shopping-01-9to5toys-battlestation-w",
+        "live-international-02-at-least-2-deaths-attrib",
+        "live-eastAsiaGossip-05-yahoo",
+        "live-entertainment-02-why-was-shane-gillis-was",
+        "live-international-03-trump-says-ukraine-needs"
+      ],
+      "warnings": []
+    },
+    {
+      "name": "disagreements 語義",
+      "passed": 16,
+      "failed": 0,
+      "failedIds": [],
+      "warnings": []
+    },
+    {
+      "name": "URL 位置",
+      "passed": 16,
+      "failed": 0,
+      "failedIds": [],
+      "warnings": []
+    },
+    {
+      "name": "章節結構",
+      "passed": 0,
+      "failed": 16,
+      "failedIds": [
+        "live-finance-01-microsoft-s-satya-nadell",
+        "live-semiconductor-01-elon-musk-intensifies-at",
+        "live-taiwan-01-kinnik-is-hiring-a-freel",
+        "live-eastAsiaGossip-01-86-1",
+        "live-eastAsiaGossip-02-90-17-mirror-media",
+        "live-taiwan-02-story",
+        "live-eastAsiaGossip-03-1-4-mirror-media",
+        "live-finance-02-ken-paxton-s-security-fo",
+        "live-eastAsiaGossip-04-101-14",
+        "live-international-01-house-republican-invokin",
+        "live-entertainment-01-will-christa-pike-be-rel",
+        "live-shopping-01-9to5toys-battlestation-w",
+        "live-international-02-at-least-2-deaths-attrib",
+        "live-eastAsiaGossip-05-yahoo",
+        "live-entertainment-02-why-was-shane-gillis-was",
+        "live-international-03-trump-says-ukraine-needs"
+      ],
+      "warnings": []
+    },
+    {
+      "name": "雙語完整",
+      "passed": 16,
+      "failed": 0,
+      "failedIds": [],
+      "warnings": []
+    },
+    {
+      "name": "信任分範圍",
+      "passed": 16,
+      "failed": 0,
+      "failedIds": [],
+      "warnings": []
+    },
+    {
+      "name": "caps 抽查（傷亡／謠傳關鍵字，warning only）",
+      "passed": 16,
+      "failed": 0,
+      "failedIds": [],
+      "warnings": []
+    }
+  ]
+}
