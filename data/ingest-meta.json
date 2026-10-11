@@ -1,20 +1,21 @@
 {
-  "ingestedAt": "2026-10-11T01:45:27.383Z",
+  "ingestedAt": "2026-10-10T01:45:11.545Z",
   "feedOk": 110,
   "feedTotal": 112,
-  "rawItems": 974,
-  "mainStories": 16,
+  "rawItems": 977,
+  "mainStories": 15,
   "byCategory": {
-    "finance": 2,
-    "semiconductor": 1,
-    "taiwan": 2,
-    "eastAsiaGossip": 5,
+    "eastAsiaGossip": 4,
     "international": 3,
-    "entertainment": 2,
-    "shopping": 1
+    "finance": 1,
+    "tech": 2,
+    "taiwan": 1,
+    "energy": 1,
+    "semiconductor": 1,
+    "entertainment": 2
   },
   "eastAsiaByRegion": {
-    "tw": 5
+    "tw": 4
   },
   "heatSourcesShipped": [
     "ptt",
@@ -27,9 +28,11 @@
     "阿嬤追的",
     "看板分類"
   ],
-  "heatNewsInjected": 43,
+  "heatNewsInjected": 46,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat"
+  "mode": "extractive+translate+rss+heat",
+  "rewrittenAt": "2026-10-10T15:04:18.000Z",
+  "rewrittenBy": "fleet-worker"
 }
