@@ -1,24 +1,20 @@
 {
-  "ingestedAt": "2026-10-12T15:28:01.361Z",
-  "feedOk": 120,
-  "feedTotal": 128,
-  "rawItems": 1043,
-  "mainStories": 32,
+  "ingestedAt": "2026-10-11T01:45:27.383Z",
+  "feedOk": 110,
+  "feedTotal": 112,
+  "rawItems": 974,
+  "mainStories": 16,
   "byCategory": {
-    "finance": 4,
-    "semiconductor": 3,
-    "taiwan": 4,
-    "eastAsiaGossip": 7,
-    "international": 5,
-    "entertainment": 3,
-    "shopping": 1,
-    "biotech": 1,
-    "energy": 1,
-    "us": 1,
-    "tech": 2
+    "finance": 2,
+    "semiconductor": 1,
+    "taiwan": 2,
+    "eastAsiaGossip": 5,
+    "international": 3,
+    "entertainment": 2,
+    "shopping": 1
   },
   "eastAsiaByRegion": {
-    "tw": 7
+    "tw": 5
   },
   "heatSourcesShipped": [
     "ptt",
@@ -29,11 +25,13 @@
     "長輩迷過的歌",
     "仔戲明星是",
     "阿嬤追的",
-    "歐巴歐膩接連"
+    "看板分類"
   ],
-  "heatNewsInjected": 44,
+  "heatNewsInjected": 43,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat"
+  "mode": "extractive+translate+rss+heat",
+  "rewrittenAt": "2026-10-11T15:02:05.000Z",
+  "rewrittenBy": "fleet-worker"
 }
