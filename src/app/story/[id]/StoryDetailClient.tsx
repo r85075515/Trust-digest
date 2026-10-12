@@ -13,6 +13,7 @@ import type { Language } from "@/lib/types";
 import { assetUrl } from "@/lib/paths";
 import { useLanguage } from "@/hooks/useLanguage";
 import { usePersonalization } from "@/hooks/usePersonalization";
+import { Comments } from "@/components/Comments";
 
 // Section headings used by the digest body, per language. Rendered with
 // distinct styling so sections don't blur into one blob of text.
@@ -244,6 +245,12 @@ export default function StoryDetailClient({ story }: { story: Story }) {
         <TrustBreakdownPanel
           breakdown={story.trustBreakdown}
           score={story.trustScore}
+          lang={lang}
+        />
+
+        <Comments
+          storyId={story.id}
+          storyTitle={story.title[lang]}
           lang={lang}
         />
 
