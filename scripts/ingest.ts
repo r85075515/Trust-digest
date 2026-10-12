@@ -610,6 +610,22 @@ async function main() {
   const stories: Story[] = [];
   const catCounts: Record<string, number> = {};
 
+  // 保留舊新聞：先讀現有的 stories.json，新卡片 append 而非覆蓋（2026-10-12 修復）
+  const existingIds = new Set<string>();
+  try {
+    const existingRaw = fs.readFileSync(OUT_STORIES, "utf8");
+    const existing = JSON.parse(existingRaw) as Story[];
+    for (const s of existing) {
+      if (s && typeof s.id === "string") {
+        existingIds.add(s.id);
+        stories.push(s);
+      }
+    }
+    console.info(`[ingest] loaded ${existingIds.size} existing stor(ies) from stories.json`);
+  } catch {
+    console.info("[ingest] no existing stories.json, starting fresh");
+  }
+
   for (let i = 0; i < scored.length; i++) {
     const { c, tb, trustScore } = scored[i];
     // Belt-and-suspenders: never ship eastAsiaGossip without EA feed members / region
@@ -687,7 +703,11 @@ async function main() {
       ],
       region: category === "eastAsiaGossip" ? c.region : undefined,
     };
-    stories.push(story);
+    // 同 ID 已存在（舊新聞）則跳過，避免重複
+    if (!existingIds.has(story.id)) {
+      stories.push(story);
+      existingIds.add(story.id);
+    }
     await sleep(150);
   }
 
