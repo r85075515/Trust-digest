@@ -10,9 +10,11 @@ export type Category =
   | "biotech"
   | "entertainment"
   | "eastAsiaGossip"
-  | "society"
   | "beauty"
-  | "shopping";
+  | "shopping"
+  | "accountability"
+  | "publicFigures"
+  | "science";
 
 /** East Asia gossip regional tag (TW / JP / KR / CN). */
 export type EastAsiaRegion = "tw" | "jp" | "kr" | "cn";
@@ -87,9 +89,11 @@ export interface PreferenceWeights {
   biotech: number;
   entertainment: number;
   eastAsiaGossip: number;
-  society: number;
   beauty: number;
   shopping: number;
+  accountability: number;
+  publicFigures: number;
+  science: number;
 }
 
 export interface PersonalizationState {

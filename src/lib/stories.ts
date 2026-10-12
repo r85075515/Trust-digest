@@ -18,9 +18,9 @@ export function getAllStories(): Story[] {
   return stories;
 }
 
-/** Main home feed — exclude society (still in JSON via getAllStories / getStoryById). */
+/** Main home feed — all stories (society 分類已刪除）. */
 export function getMainStories(): Story[] {
-  return stories.filter((s) => s.category !== "society");
+  return stories;
 }
 
 export function getStoryById(id: string): Story | undefined {
@@ -65,7 +65,9 @@ export const CATEGORY_LABELS: Record<
   biotech: { en: "Biotech & Health", "zh-TW": "生技醫療" },
   entertainment: { en: "Hot gossip (verifiable)", "zh-TW": "熱門八卦（可驗證）" },
   eastAsiaGossip: { en: "East Asia gossip", "zh-TW": "東亞八卦" },
-  society: { en: "Society", "zh-TW": "社會" },
   beauty: { en: "Beauty", "zh-TW": "美妝" },
   shopping: { en: "Shopping", "zh-TW": "購物" },
+  accountability: { en: "Accountability", "zh-TW": "問責監督" },
+  publicFigures: { en: "Public Figures", "zh-TW": "名人動態" },
+  science: { en: "Science", "zh-TW": "科學" },
 };

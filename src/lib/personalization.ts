@@ -21,9 +21,11 @@ export const DEFAULT_WEIGHTS: PreferenceWeights = {
   biotech: 1,
   entertainment: 1,
   eastAsiaGossip: 1,
-  society: 1,
   beauty: 1,
   shopping: 1,
+  accountability: 1,
+  publicFigures: 1,
+  science: 1,
 };
 
 export const DEFAULT_STATE: PersonalizationState = {

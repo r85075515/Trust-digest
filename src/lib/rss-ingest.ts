@@ -89,6 +89,30 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     language: "en",
     domain: "theguardian.com",
   },
+  {
+    id: "bloomberg",
+    name: "Bloomberg",
+    url: "https://feeds.bloomberg.com/markets/news.rss",
+    category: "finance",
+    language: "en",
+    domain: "bloomberg.com",
+  },
+  {
+    id: "ft-markets",
+    name: "Financial Times Markets",
+    url: "https://www.ft.com/rss/markets",
+    category: "finance",
+    language: "en",
+    domain: "ft.com",
+  },
+  {
+    id: "udn-money",
+    name: "經濟日報",
+    url: "https://money.udn.com/rssfeed/news/1001/5591/5591",
+    category: "finance",
+    language: "zh-TW",
+    domain: "money.udn.com",
+  },
   // Tech
   {
     id: "techcrunch",
@@ -162,6 +186,22 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     category: "ai",
     language: "en",
     domain: "blog.google",
+  },
+  {
+    id: "the-decoder",
+    name: "The Decoder",
+    url: "https://the-decoder.com/feed/",
+    category: "ai",
+    language: "en",
+    domain: "the-decoder.com",
+  },
+  {
+    id: "venturebeat-ai",
+    name: "VentureBeat AI",
+    url: "https://venturebeat.com/category/ai/feed/",
+    category: "ai",
+    language: "en",
+    domain: "venturebeat.com",
   },
   // Semiconductor — 003 task feeds (13; dedup applied, see result file)
   {
@@ -851,7 +891,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     id: "cbs-crime",
     name: "CBS News Crime",
     url: "https://www.cbsnews.com/latest/rss/crime",
-    category: "society",
+    category: "international",
     language: "en",
     domain: "cbsnews.com",
   },
@@ -859,7 +899,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     id: "sky-uk",
     name: "Sky News UK",
     url: "https://feeds.skynews.com/feeds/rss/uk.xml",
-    category: "society",
+    category: "international",
     language: "en",
     domain: "news.sky.com",
   },
@@ -867,7 +907,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     id: "bbc-uk",
     name: "BBC UK",
     url: "https://feeds.bbci.co.uk/news/uk/rss.xml",
-    category: "society",
+    category: "international",
     language: "en",
     domain: "bbc.com",
   },
@@ -875,7 +915,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     id: "latimes-california",
     name: "LA Times California",
     url: "https://www.latimes.com/california/rss2.0.xml",
-    category: "society",
+    category: "international",
     language: "en",
     domain: "latimes.com",
   },
@@ -883,7 +923,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     id: "guardian-uk-news",
     name: "The Guardian UK News",
     url: "https://www.theguardian.com/uk-news/rss",
-    category: "society",
+    category: "international",
     language: "en",
     domain: "theguardian.com",
   },
@@ -891,7 +931,7 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     id: "npr-news",
     name: "NPR News",
     url: "https://feeds.npr.org/1001/rss.xml",
-    category: "society",
+    category: "international",
     language: "en",
     domain: "npr.org",
   },
@@ -952,6 +992,97 @@ export const ALLOWED_FEEDS: FeedSource[] = [
     category: "shopping",
     language: "en",
     domain: "cnet.com",
+  },
+  // Accountability — 問責監督（貪腐／浪費／調查報導）
+  {
+    id: "propublica",
+    name: "ProPublica",
+    url: "https://www.propublica.org/feeds/propublica/main",
+    category: "accountability",
+    language: "en",
+    domain: "propublica.org",
+  },
+  {
+    id: "icij",
+    name: "ICIJ",
+    url: "https://www.icij.org/rss/",
+    category: "accountability",
+    language: "en",
+    domain: "icij.org",
+  },
+  {
+    id: "twreporter",
+    name: "報導者",
+    url: "https://www.twreporter.org/rss",
+    category: "accountability",
+    language: "zh-TW",
+    domain: "twreporter.org",
+  },
+  {
+    id: "reuters-investigates",
+    name: "Reuters Investigates",
+    url: "https://www.reuters.com/investigates/rss",
+    category: "accountability",
+    language: "en",
+    domain: "reuters.com",
+  },
+  // Public Figures — 名人動態（公開發言／聽證／專訪）
+  {
+    id: "cspan",
+    name: "C-SPAN",
+    url: "https://www.c-span.org/rss/",
+    category: "publicFigures",
+    language: "en",
+    domain: "c-span.org",
+  },
+  {
+    id: "whitehouse-briefings",
+    name: "White House Briefings",
+    url: "https://www.whitehouse.gov/feed/",
+    category: "publicFigures",
+    language: "en",
+    domain: "whitehouse.gov",
+  },
+  {
+    id: "politico",
+    name: "Politico",
+    url: "https://www.politico.com/rss/politicopicks.xml",
+    category: "publicFigures",
+    language: "en",
+    domain: "politico.com",
+  },
+  // Science — 科學（期刊新聞／重大突破）
+  {
+    id: "nature-news",
+    name: "Nature News",
+    url: "https://www.nature.com/nature.rss",
+    category: "science",
+    language: "en",
+    domain: "nature.com",
+  },
+  {
+    id: "science-mag-news",
+    name: "Science Magazine News",
+    url: "https://www.science.org/rss/news_current.xml",
+    category: "science",
+    language: "en",
+    domain: "science.org",
+  },
+  {
+    id: "quanta",
+    name: "Quanta Magazine",
+    url: "https://www.quantamagazine.org/feed/",
+    category: "science",
+    language: "en",
+    domain: "quantamagazine.org",
+  },
+  {
+    id: "mit-tech-review",
+    name: "MIT Technology Review",
+    url: "https://www.technologyreview.com/feed/",
+    category: "science",
+    language: "en",
+    domain: "technologyreview.com",
   },
 ];
 
@@ -1213,10 +1344,7 @@ export function resolveCategory(
     return "entertainment";
   }
 
-  // Society feeds: map hard news into international (society hidden from main feed)
-  if (feedCategory === "society") {
-    return "international";
-  }
+  // (society 分類已刪除，此處保留空殼避免誤判)
 
   return feedCategory;
 }
@@ -2139,15 +2267,22 @@ export function pickBalancedClusters(
 ): StoryCluster[] {
   const heatKeywords = opts.heatKeywords ?? [];
   const perCatTarget: Record<string, number> = {
-    international: 3,
+    international: 2,
     finance: 2,
     tech: 2,
     ai: 2,
-    entertainment: 2,
-    eastAsiaGossip: 5,
-    society: 0,
-    beauty: 2,
-    shopping: 2,
+    semiconductor: 2,
+    taiwan: 2,
+    us: 1,
+    energy: 1,
+    biotech: 1,
+    entertainment: 1,
+    eastAsiaGossip: 2,
+    beauty: 1,
+    shopping: 1,
+    accountability: 2,
+    publicFigures: 2,
+    science: 1,
   };
 
   const CELEB_DOMAINS = new Set([
@@ -2251,20 +2386,7 @@ export function pickBalancedClusters(
     ) {
       score += 12;
     }
-    // Prefer clear crime/accident society clusters
-    if (c.category === "society") {
-      const t = `${c.primaryTitle}`.toLowerCase();
-      if (
-        /murder|kill|arrest|crash|shoot|stab|crime|disaster|flood|earthquake|fire|jailed|suspect/.test(
-          t
-        )
-      ) {
-        score += 12;
-      }
-      if (/school dinner|crypto donations|party donations|human rights ai/.test(t)) {
-        score -= 10;
-      }
-    }
+    // (society 分類已刪除)
     return { c, score, tb };
   });
 
@@ -2280,7 +2402,6 @@ export function pickBalancedClusters(
 
   const tryPick = (c: StoryCluster, forceEaTw = false): boolean => {
     if (pickedSet.has(c)) return false;
-    if (c.category === "society") return false;
     const n = counts[c.category] ?? 0;
     if (n >= (perCatTarget[c.category] ?? 3)) return false;
     if (c.category === "entertainment") {
@@ -2327,7 +2448,6 @@ export function pickBalancedClusters(
   if (picked.length < targetMin) {
     for (const { c } of scored) {
       if (pickedSet.has(c)) continue;
-      if (c.category === "society") continue;
       picked.push(c);
       pickedSet.add(c);
       if (picked.length >= targetMin) break;
