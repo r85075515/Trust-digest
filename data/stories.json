@@ -6339,5 +6339,702 @@
         }
       }
     ]
+  },
+  {
+    "id": "live-international-01-the-social-security-cola",
+    "category": "international",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-01-the-social-security-cola.jpg",
+    "imageAlt": {
+      "en": "Cover related to: The Social Security COLA for 2027 is set. Here's what experts say you need to know",
+      "zh-TW": "相關封面圖：2027 年社會保障 COLA 已確定。專家說您需要了解以下內容"
+    },
+    "publishedAt": "2026-10-14T22:31:37.000Z",
+    "title": {
+      "en": "The Social Security COLA for 2027 is set. Here's what experts say you need to know",
+      "zh-TW": "2027 年社會保障 COLA 已確定。專家說您需要了解以下內容"
+    },
+    "summary": {
+      "en": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+      "zh-TW": "2027 年 3.6% 的可樂旨在幫助超過 6,800 萬名受益者跟上生活成本的步伐"
+    },
+    "body": {
+      "en": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living What happened\nThe Social Security COLA for 2027 is set. Here's what experts say you need to know. The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living This year's increase is 3.6%, based on inflation data, amounting to a little more than $900 next year. Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living. (Image credit: Isabelle Souriment/Hans Lucas) Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (MarketWatch, PBS NewsHour, NPR News) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?\" (MarketWatch); \"The Social Security COLA for 2027 is set. Here's what experts say you need to know\" (PBS NewsHour); \"Inflation sizzled in September — and Social Security benefits will get a boost\" (NPR News).\nFigures differ across outlets (e.g. 75 vs 900 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): MarketWatch, PBS NewsHour, NPR News",
+      "zh-TW": "2027 年 3.6% 的可樂旨在幫助超過 6,800 萬名受益者跟上生活成本的步伐 發生了什麼事\n2027 年社會保障 COLA 已確定。以下是專家所說您需要了解的內容。 2027 年 COLA 的增幅為 3.6%，旨在幫助超過 6,800 萬名受益者跟上生活成本的步伐。根據通膨數據，今年的增幅為 3.6%，明年的增幅略高於 900 美元。 9月份居民消費價格較去年同期上漲3.7%。社會安全管理局表示，明年福利將增加，以幫助跟上生活成本上漲的腳步。 （圖片來源：Isabelle Souriment/Hans Lucas） 為什麼這很重要\n此集群由國際類別中 3 個管道（MarketWatch、PBS NewsHour、NPR News）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報道了密切相關的頭條新聞：“你的社會安全支票將平均每月上漲 75 美元——它能跟上通貨膨脹嗎？” （市場觀察）；“2027 年社會安全 COLA 已經確定。以下是專家所說的您需要了解的內容”（PBS NewsHour）；“9 月份通貨膨脹，社會安全福利將得到通貨膨脹提升”（NPR 新聞）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 75 比 900）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：MarketWatch、PBS NewsHour、NPR 新聞"
+    },
+    "sources": [
+      {
+        "name": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/economy/what-is-the-social-security-cola-for-2027-heres-how-it-could-affect-you"
+      },
+      {
+        "name": "NPR News",
+        "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 75 vs 900 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 75 比 900）。"
+    },
+    "trustScore": 78,
+    "trustBreakdown": {
+      "sourceDiversity": 20,
+      "outletReputation": 19,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "marketwatch",
+      "pbs-newshour",
+      "npr-news"
+    ]
+  },
+  {
+    "id": "live-ai-01-gemini-4-argon-built-to-",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-ai-01-gemini-4-argon-built-to-.png",
+    "imageAlt": {
+      "en": "Cover related to: Gemini 4 Argon: Built to solve your hardest problems",
+      "zh-TW": "相關封面圖：Gemini 4 Argon：專為解決您最棘手的問題而打造"
+    },
+    "publishedAt": "2026-10-13T16:00:00.000Z",
+    "title": {
+      "en": "Gemini 4 Argon: Built to solve your hardest problems",
+      "zh-TW": "Gemini 4 Argon：專為解決您最棘手的問題而打造"
+    },
+    "summary": {
+      "en": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "zh-TW": "我們為開發者、企業、科學家和消費者提供了使用我們最新前沿模型 Gemini 4 Argon 的機會。"
+    },
+    "body": {
+      "en": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. What happened\nGemini 4 Argon: Built to solve your hardest problems. We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. Huge OpenAI release contains “exciting” progress on a puzzle about prime numbers Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (Google AI Blog, Science 科學新聞) in the ai category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Gemini 4 Argon: Built to solve your hardest problems\" (Google AI Blog); \"AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems\" (Science 科學新聞).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Google AI Blog, Science 科學新聞 Additional feed context\n(1) We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.\n(2) Huge OpenAI release contains “exciting” progress on a puzzle about prime numbers",
+      "zh-TW": "我們為開發者、企業、科學家和消費者提供了使用我們最新前沿模型 Gemini 4 Argon 的機會。 發生了什麼事\nGemini 4 Argon：專為解決您最棘手的問題而設計。我們為開發者、企業、科學家和消費者提供了使用我們最新前沿模型 Gemini 4 Argon 的機會。 OpenAI 的重大發布包含素數難題的「令人興奮」的進展 為什麼這很重要\n此叢集由人工智慧類別中 2 個管道（Google AI 部落格、Science 科學新聞）的 2 個 feed 專案組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「Gemini 4 Argon：專為解決您最棘手的問題而打造」（Google AI 部落格）；「人工智慧更接近解決黎曼假設，這是數學最難的問題之一」（Science 科學新聞）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（限媒體名稱）：Google AI 部落格、Science 科學新聞 附加提要上下文\n(1) 我們為開發者、企業、科學家和消費者提供了使用我們最新前沿模型 Gemini 4 Argon 的機會。\n(2) OpenAI 的重大發布包含素數難題的「令人興奮」的進展"
+    },
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      },
+      {
+        "name": "Science 科學新聞",
+        "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 57,
+    "trustBreakdown": {
+      "sourceDiversity": 13,
+      "outletReputation": 10,
+      "crossCorroboration": 14,
+      "recencyClarity": 20
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "google-ai-blog",
+      "science-科學新聞"
+    ]
+  },
+  {
+    "id": "live-us-01-surging-inflation-compli",
+    "category": "us",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-us-01-surging-inflation-compli.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy",
+      "zh-TW": "相關封面圖：通膨飆升使川普最後一次向選民推銷強勁經濟的努力變得更加複雜"
+    },
+    "publishedAt": "2026-10-14T18:42:14.000Z",
+    "title": {
+      "en": "Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy",
+      "zh-TW": "通膨飆升使川普最後一次向選民推銷強勁經濟的努力變得更加複雜"
+    },
+    "summary": {
+      "en": "The final inflation report before the 2026 election — showing price increases and stagnant wages — spelled bad political news for the White House.",
+      "zh-TW": "2026 年大選前的最終通膨報告顯示物價上漲和薪資停滯，這給白宮帶來了壞政治消息。"
+    },
+    "body": {
+      "en": "The final inflation report before the 2026 election — showing price increases and stagnant wages — spelled bad political news for the White House. What happened\nSurging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy. The final inflation report before the 2026 election — showing price increases and stagnant wages — spelled bad political news for the White House. Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (NYT Economy) in the us category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): NYT Economy Additional feed context\n(1) The final inflation report before the 2026 election — showing price increases and stagnant wages — spelled bad political news for the White House.",
+      "zh-TW": "2026 年大選前的最終通膨報告顯示物價上漲和薪資停滯，這給白宮帶來了壞政治消息。 發生了什麼事\n通膨飆升使川普最後一次向選民推銷強勁經濟的努力變得更加複雜。 2026 年大選前的最終通膨報告顯示物價上漲和薪資停滯，這給白宮帶來了壞政治消息。 為什麼這很重要\n此集群由美國類別中 1 個銷售點（《紐約時報經濟》）的 1 個飼料項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限通路名稱）：《紐約時報經濟》 附加提要上下文\n(1) 2026 年大選前的最終通膨報告顯示物價上漲和薪資停滯，這給白宮帶來了壞政治消息。"
+    },
+    "sources": [
+      {
+        "name": "NYT Economy",
+        "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 60,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 23,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "us",
+      "live-ingest",
+      "nyt-economy"
+    ]
+  },
+  {
+    "id": "live-energy-01-for-the-future-of-green-",
+    "category": "energy",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-energy-01-for-the-future-of-green-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: For the future of green politics, look beyond the Green party | Zoe Williams",
+      "zh-TW": "相關封面圖：對於綠色政治的未來，要超越綠黨|佐伊·威廉斯"
+    },
+    "publishedAt": "2026-10-14T17:15:25.000Z",
+    "title": {
+      "en": "For the future of green politics, look beyond the Green party | Zoe Williams",
+      "zh-TW": "對於綠色政治的未來，要超越綠黨|佐伊·威廉斯"
+    },
+    "summary": {
+      "en": "Environmentalists of all political hues must find the language and ideas that turn passion for climate action into impetus The future of Green politics is under constant discussion after the Holborn and St Pancras bye…",
+      "zh-TW": "（中文譯文待補／translation pending） Environmentalists of all political hues must find the language and ideas that turn passion for climate action into impetus The future of Green politics is under constant discussion after the Holborn and St Pancras bye…"
+    },
+    "body": {
+      "en": "Environmentalists of all political hues must find the language and ideas that turn passion for climate action into impetus The future of Green politics is under constant discussion after the Holborn and St Pancras byelection , but a much heavier clash – in meaning, symbolism and What happened\nFor the future of green politics, look beyond the Green party | Zoe Williams. Environmentalists of all political hues must find the language and ideas that turn passion for climate action into impetus The future of Green politics is under constant discussion after the Holborn and St Pancras byelection , but a much heavier clash – in meaning, symbolism and portent – happened earlier this summer, in King’s Lynn and West Norfolk. The council declared a climate emergency in 202 Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (The Guardian Climate Crisis) in the energy category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Guardian Climate Crisis",
+      "zh-TW": "各種政治色彩的環保人士必須找到將氣候行動的熱情轉化為動力的語言和想法。霍爾本和聖潘克拉斯補選後，綠色政治的未來一直在討論中，但衝突更加嚴重——在意義、象徵意義和 發生了什麼事\n對於綠色政治的未來，要超越綠黨|佐伊·威廉斯。各種政治色彩的環保人士必須找到將氣候行動的熱情轉化為推動力的語言和想法。霍爾本和聖潘克拉斯補選後，人們不斷討論綠色政治的未來，但今年夏天早些時候，在金斯林和西諾福克發生了一場更嚴重的衝突——無論是在意義、象徵意義還是預兆上。该委员会于202年宣布气候紧急状态 為什麼這很重要\n此集群由 1 個能源類別中 1 個管道（《衛報氣候危機》）的飼料項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：衛報氣候危機"
+    },
+    "sources": [
+      {
+        "name": "The Guardian Climate Crisis",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/14/green-politics-environmentalists-action"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 59,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 22,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "energy",
+      "live-ingest",
+      "the-guardian-climate-crisis"
+    ]
+  },
+  {
+    "id": "live-ai-02-an-openai-employee-alleg",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-ai-02-an-openai-employee-alleg.jpg",
+    "imageAlt": {
+      "en": "Cover related to: An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "zh-TW": "相關封面圖：一名 OpenAI 員工據稱使用聊天機器人在辦公室安裝錄音設備"
+    },
+    "publishedAt": "2026-10-14T12:37:05.000Z",
+    "title": {
+      "en": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "zh-TW": "一名 OpenAI 員工據稱使用聊天機器人在辦公室安裝錄音設備"
+    },
+    "summary": {
+      "en": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "zh-TW": "（中文譯文待補／translation pending） Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives."
+    },
+    "body": {
+      "en": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives. What happened\nAn OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office. Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives. A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convicted, he faces up to five years in prison. The article Alleged OpenAI spy vibe-coded a surveillance device using his wife Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (Wired AI, The Decoder) in the ai category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office\" (Wired AI); \"Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account\" (The Decoder).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Wired AI, The Decoder",
+      "zh-TW": "聊天機器人提示揭示了該工程師據稱試圖設置一個秘密監聽設備，幾天前在高級管理人員使用的會議室中發現了一個秘密監聽設備。 發生了什麼事\n據稱，一名 OpenAI 員工使用聊天機器人在辦公室安裝錄音設備。聊天機器人提示揭示了該工程師據稱試圖設置一個秘密監聽設備，幾天前在高級管理人員使用的會議室中發現了一個秘密監聽設備。一名在 OpenAI 擔任工程師的沙烏地阿拉伯公民因涉嫌在公司高管會議室放置用衛生紙包裹的錄音設備而被捕。根據起訴書，他透過使用聊天機器人進行振動編碼來建立間諜工具。如果罪名成立，他將面臨最高五年的監禁。文章稱 OpenAI 間諜利用他的妻子對監控設備進行了振動編碼 為什麼這很重要\n該集群由人工智慧類別中 2 個出口（Wired AI、The Decoder）的 2 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「一名 OpenAI 員工據稱使用聊天機器人幫助在辦公室安裝錄音設備」（Wired AI）；「據稱 OpenAI 間諜使用他妻子的聊天機器人帳戶對監控設備進行了振動編碼」（解碼器）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限通路名稱）：Wired AI、The Decoder"
+    },
+    "sources": [
+      {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/"
+      },
+      {
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 16,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "wired-ai",
+      "the-decoder"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-02-16-la-ettoday-ettoday",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-eastAsiaGossip-02-16-la-ettoday-ettoday.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 分手16年罕見同框！王柏傑赴LA曬超狂大合照　網眼尖認出「柯佳嬿也在其中」 - ETtoday星光雲| ETtoday新聞雲",
+      "zh-TW": "相關封面圖：分手16年罕見同框！王柏傑赴LA曬超狂大合照　網眼尖認出「柯佳嬿也在其中」 - ETtoday星光雲| ETtoday新聞雲"
+    },
+    "publishedAt": "2026-10-14T21:12:00.000Z",
+    "title": {
+      "en": "分手16年罕見同框！王柏傑赴LA曬超狂大合照　網眼尖認出「柯佳嬿也在其中」 - ETtoday星光雲| ETtoday新聞雲",
+      "zh-TW": "分手16年罕見同框！王柏傑赴LA曬超狂大合照　網眼尖認出「柯佳嬿也在其中」 - ETtoday星光雲| ETtoday新聞雲"
+    },
+    "summary": {
+      "en": "",
+      "zh-TW": ""
+    },
+    "body": {
+      "en": "What happened\n分手16年罕見同框！王柏傑赴LA曬超狂大合照　網眼尖認出「柯佳嬿也在其中」 - ETtoday星光雲| ETtoday新聞雲. 分手16年罕見同框！王柏傑赴LA曬超狂大合照 網眼尖認出「柯佳嬿也在其中」 ETtoday星光雲| ETtoday新聞雲 新聞傳真／分手後擋數百萬商品授權 陳子強與女總裁爆感情糾紛 鏡週刊Mirror Media 謝欣穎認了「分手王柏傑」親破復合傳言！ 金鐘獎情斷愛侶恐碰頭 ETtoday星光雲| ETtoday新聞雲 Why it matters\nThis cluster was assembled from 6 feed item(s) across 4 outlet(s) (Yahoo TW 娛樂, GNews site:setn 分手/婚, GNews TW 分手+藝人/明星, GNews site:ettoday 分手/復合/婚) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"60歲性感女神單身10年「不想再愛」！與舊愛糾纏30年　感情現況曝光\" (Yahoo TW 娛樂); \"分手王柏傑一年多！謝欣穎認了已沒聯絡「不可能復合」　感情現況曝光 - 三立新聞\" (GNews site:setn 分手/婚); \"分手王柏傑一年多！謝欣穎認了已沒聯絡「不可能復合」　感情現況曝光 - 娛樂星聞\" (GNews site:setn 分手/婚); \"分手16年罕見同框！王柏傑赴LA曬超狂大合照　網眼尖認出「柯佳嬿也在其中」 - ETtoday星光雲| ETtoday新聞雲\" (GNews TW 分手+藝人/明星); \"新聞傳真／分手後擋數百萬商品授權　陳子強與女總裁爆感情糾紛 - 鏡週刊Mirror Media\" (GNews TW 分手+藝人/明星).\nFigures differ across outlets (e.g. 60 vs 16 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Yahoo TW 娛樂, GNews site:setn 分手/婚, GNews TW 分手+藝人/明星, GNews site:ettoday 分手/復合/婚 Additional feed context\n(1) (2) 分手16年罕見同框！王柏傑赴LA曬超狂大合照 網眼尖認出「柯佳嬿也在其中」 ETtoday星光雲| ETtoday新聞雲\n(3) 新聞傳真／分手後擋數百萬商品授權 陳子強與女總裁爆感情糾紛 鏡週刊Mirror Media\n(4) 謝欣穎認了「分手王柏傑」親破復合傳言！ 金鐘獎情斷愛侶恐碰頭 ETtoday星光雲| ETtoday新聞雲",
+      "zh-TW": "What happened\n分手16年罕見同框！王柏傑赴LA曬超狂大合照　網眼尖認出「柯佳嬿也在其中」 - ETtoday星光雲| ETtoday新聞雲. 分手16年罕見同框！王柏傑赴LA曬超狂大合照 網眼尖認出「柯佳嬿也在其中」 ETtoday星光雲| ETtoday新聞雲 新聞傳真／分手後擋數百萬商品授權 陳子強與女總裁爆感情糾紛 鏡週刊Mirror Media 謝欣穎認了「分手王柏傑」親破復合傳言！ 金鐘獎情斷愛侶恐碰頭 ETtoday星光雲| ETtoday新聞雲 Why it matters\nThis cluster was assembled from 6 feed item(s) across 4 outlet(s) (Yahoo TW 娛樂, GNews site:setn 分手/婚, GNews TW 分手+藝人/明星, GNews site:ettoday 分手/復合/婚) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"60歲性感女神單身10年「不想再愛」！與舊愛糾纏30年　感情現況曝光\" (Yahoo TW 娛樂); \"分手王柏傑一年多！謝欣穎認了已沒聯絡「不可能復合」　感情現況曝光 - 三立新聞\" (GNews site:setn 分手/婚); \"分手王柏傑一年多！謝欣穎認了已沒聯絡「不可能復合」　感情現況曝光 - 娛樂星聞\" (GNews site:setn 分手/婚); \"分手16年罕見同框！王柏傑赴LA曬超狂大合照　網眼尖認出「柯佳嬿也在其中」 - ETtoday星光雲| ETtoday新聞雲\" (GNews TW 分手+藝人/明星); \"新聞傳真／分手後擋數百萬商品授權　陳子強與女總裁爆感情糾紛 - 鏡週刊Mirror Media\" (GNews TW 分手+藝人/明星).\nFigures differ across outlets (e.g. 60 vs 16 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Yahoo TW 娛樂, GNews site:setn 分手/婚, GNews TW 分手+藝人/明星, GNews site:ettoday 分手/復合/婚 Additional feed context\n(1) (2) 分手16年罕見同框！王柏傑赴LA曬超狂大合照 網眼尖認出「柯佳嬿也在其中」 ETtoday星光雲| ETtoday新聞雲\n(3) 新聞傳真／分手後擋數百萬商品授權 陳子強與女總裁爆感情糾紛 鏡週刊Mirror Media\n(4) 謝欣穎認了「分手王柏傑」親破復合傳言！ 金鐘獎情斷愛侶恐碰頭 ETtoday星光雲| ETtoday新聞雲"
+    },
+    "sources": [
+      {
+        "name": "Yahoo TW 娛樂",
+        "url": "https://tw.news.yahoo.com/60%E6%AD%B2%E6%80%A7%E6%84%9F%E5%A5%B3%E7%A5%9E%E5%96%AE%E8%BA%AB10%E5%B9%B4-%E4%B8%8D%E6%83%B3%E5%86%8D%E6%84%9B-%E8%88%87%E8%88%8A%E6%84%9B%E7%B3%BE%E7%BA%8F30%E5%B9%B4-%E6%84%9F%E6%83%85%E7%8F%BE%E6%B3%81%E6%9B%9D%E5%85%89-051200315.html"
+      },
+      {
+        "name": "setn.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42WTNoUHVidHJOOW1leFBtSGc3TkFad1JLVmlTS1FuRmpSR1c2SjhlX010ZWNJOGZadXdIQVVKZEtzRDNLZ3pWONIBTEFVX3lxTE51c1o3ZTZnR0pBUFlOd09fZVZ0RFNHd3RrcklBb1VFeGM2ZS1PaHZqNDlnX1MzbDhUTUo4ekZMTEw5TWd2UmN1MmlJR00?oc=5"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlbTgwOW5FWjAzMUtyOHJzbzJGdGdGLTAyZ3ZHbFprYW1pZ1JuTWxtZnhwdW53VDFWcDdLWVNYYlJfc3drQnBDSDBvVFlSUdIBTEFVX3lxTFBNTTVhaG5RaDhjUzFzdEpFRjVmZ0tZUnlZT0daMkxBaTZsWWg5TlRfM191UDkteVVfOG9uQVdiSWRqWlRwRjQ2YW1uTkQ?oc=5"
+      },
+      {
+        "name": "mirrormedia.mg",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yMUhneVhBaFdZSG1RVXhVT0hLbHM0cHhQSHRuX2RLaUlwcWg5cno2US1Ea3JfT0FyZXhHLVN5d21JTWNYaWpHckRGaU1TNm9ya005LTdaSFBNTTjSAWBBVV95cUxOREJFM1o0QVhDWnQwTnJuQVdud1VlZ2hVWlpVeFJHRGtRR1lWLTV4ZUxOeklGU1l4ckg0aGdzYjVPbUZvRy1nbE1ILXdGUGdlem9ORTE1bTJuOExqWmJNczY?oc=5"
+      },
+      {
+        "name": "ettoday.net",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEREp3U2F6SGZyYzlDQUNycjRXdVMtS1ZtcWVvTTFyZV81M04zbXpoaTYxbVNxekFCLTRWTkp4R3BBV05GR1ZFdDhpSURNUdIBTEFVX3lxTFA1dlJYNy1RcGI0cVhwWEhjTjRjNGJzTWJfY0lBakFEZ0o4VkxXVjU0cmRYNG94OFN0dHhfQTJkdjZSWk1lekVvZExETjg?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 60 vs 16 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 60 比 16）。"
+    },
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 16,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "yahoo-tw-娛樂",
+      "gnews-site:setn-分手/婚",
+      "gnews-site:setn-分手/婚"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-finance-01-anthropic-boosts-3q26-re",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-01-anthropic-boosts-3q26-re.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Anthropic boosts 3Q26 revenue by 45% and stays profitable as IPO approaches",
+      "zh-TW": "相關封面圖：Anthropic 2026 年第 3 季營收成長 45%，並在 IPO 臨近之際保持獲利"
+    },
+    "publishedAt": "2026-10-15T05:55:29.000Z",
+    "title": {
+      "en": "Anthropic boosts 3Q26 revenue by 45% and stays profitable as IPO approaches",
+      "zh-TW": "Anthropic 2026 年第 3 季營收成長 45%，並在 IPO 臨近之際保持獲利"
+    },
+    "summary": {
+      "en": "Anthropic reports third-quarter stands at $16.8 billion ahead of its IPO.",
+      "zh-TW": "Anthropic 報告稱，其第三季的 IPO 規模為 168 億美元。"
+    },
+    "body": {
+      "en": "Anthropic reports third-quarter stands at $16.8 billion ahead of its IPO. What happened\nAnthropic boosts 3Q26 revenue by 45% and stays profitable as IPO approaches. Anthropic reports third-quarter stands at $16.8 billion ahead of its IPO. Anthropic's third-quarter revenue surged 45% from the previous quarter and has been profitable on an adjusted basis for the last two quarters, the AI lab told prospective investors. As the company nears a record-setting IPO, it is also serving as a gauge of whether the frontier lab business model of heavy compute spending preceding profitability can be successful. Rapid growth is slower than some anticipated as fears about AI trade rattle markets It comes as some investors have become concerned about the amount of money being spent on AI infrastructure. Why it matters\nThis cluster was assembled from 4 feed item(s) across 4 outlet(s) (CNBC, DigiTimes, Financial Times, BBC Business) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO\" (CNBC); \"Anthropic boosts 3Q26 revenue by 45% and stays profitable as IPO approaches\" (DigiTimes); \"Anthropic tells investors its quarterly revenue jumped 50%\" (Financial Times); \"Anthropic flags revenue surge to investors ahead of stock market debut\" (BBC Business).\nFigures differ across outlets (e.g. 16.8 vs 45 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): CNBC, DigiTimes, Financial Times, BBC Business",
+      "zh-TW": "Anthropic 報告稱，其第三季的 IPO 規模為 168 億美元。 發生了什麼事\n隨著 IPO 的臨近，Anthropic 將 2026 年第三季營收提高了 45%，並保持獲利。 Anthropic 報告稱，其第三季的 IPO 規模為 168 億美元。 AI 實驗室告訴潛在投資者，Anthropic 第三季營收較上一季飆升 45%，並且在過去兩季調整後已獲利。隨著該公司接近創紀錄的首次公開募股，它也成為衡量大量運算支出先於獲利的前沿實驗室商業模式能否成功的衡量標準。由於對人工智慧貿易的擔憂擾亂了市場，快速成長速度低於一些人的預期。一些投資者開始擔心人工智慧基礎設施上花費的資金量。 為什麼這很重要\n此集群由金融類別中 4 個管道（CNBC、DigiTimes、Financial Times、BBC Business）的 4 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「據說 Anthropic 在 IPO 前第三季度收入達到 168 億美元」（CNBC）；「Anthropic 將 2026 年第 3 季收入提高了 45%，並隨著 IPO 的臨近保持盈利」（DigiTimes）；「Anthropics)；在股市首次亮相之前向投資者發出收入激增的信號」（BBC Business）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 16.8 比 45）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：CNBC、DigiTimes、Financial Times、BBC Business"
+    },
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"
+      },
+      {
+        "name": "DigiTimes",
+        "url": "https://www.digitimes.com/news/a20261015VL214/anthropic-ipo-ai-business-revenue.html"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1"
+      },
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 16.8 vs 45 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 16.8 比 45）。"
+    },
+    "trustScore": 85,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 18,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "cnbc",
+      "digitimes",
+      "financial-times"
+    ]
+  },
+  {
+    "id": "live-international-02-judge-extends-white-hous",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-judge-extends-white-hous.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Judge extends White House access to banned media outlets CNN, MS Now and Politico",
+      "zh-TW": "相關封面圖：（譯文待補）Judge extends White House access to banned media outlets CNN, MS Now and Politico"
+    },
+    "publishedAt": "2026-10-15T03:03:16.000Z",
+    "title": {
+      "en": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
+      "zh-TW": "（譯文待補）Judge extends White House access to banned media outlets CNN, MS Now and Politico"
+    },
+    "summary": {
+      "en": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "zh-TW": "凱蒂·扎卡里亞 (Katie Zacharia) 似乎沒有在她居住過的任何州的律師協會註冊。"
+    },
+    "body": {
+      "en": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived. What happened\nJudge extends White House access to banned media outlets CNN, MS Now and Politico. Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived. District court judge Timothy Kelly was ruling after Trump administration blocked access to three outlets last month A federal judge ordered the White House on Tuesday to continue allowing journalists from CNN, MS Now and Politico to access the building as the media coalition’s lawsuit against the Trump administration plays out. Timothy Kelly, a district court judge, had on 24 September granted a 1 A federal judge has once again ordered the White House to restore access for three news organizations President Trump banned last month over their coverage of his administration. The judge ordered full access for CNN, MS NOW and Politico while their legal challenge moves forward. Geoff Bennett discussed more with Ted Boutrous, the attorney representing the three outlets. President Trump has directed his White House counsel to examine explosive allegations dropped on him Friday in the Oval Office: Former Trump attorney Alina Habba told the president that another one of his top advisers — former Kennedy Center leader Ric Grenell — failed to deposit a multimillion-dollar donation that her billionaire husband made to the center a year ago, according to four senior adm Why it matters\nThis cluster was assembled from 4 feed item(s) across 4 outlet(s) (BBC World, The Guardian Business, PBS NewsHour, Axios) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"White House defends new press secretary amid questions about her legal credentials\" (BBC World); \"Judge extends White House access to banned media outlets CNN, MS Now and Politico\" (The Guardian Business); \"Attorney for banned outlets on legal fight over White House press access\" (PBS NewsHour); \"Exclusive: White House probes claims of missing Kennedy Center money in \"MAGA blood feud\"\" (Axios).\nFigures differ across outlets (e.g. 24 vs 6 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC World, The Guardian Business, PBS NewsHour, Axios",
+      "zh-TW": "凱蒂·扎卡里亞 (Katie Zacharia) 似乎沒有在她居住過的任何州的律師協會註冊。 發生了什麼事\n法官擴大了白宮對被禁媒體 CNN、MS Now 和 Politico 的訪問範圍。凱蒂·扎卡里亞 (Katie Zacharia) 似乎沒有在她居住過的任何州的律師協會註冊。地方法院法官蒂莫西凱利 (Timothy Kelly) 在川普政府上個月封鎖三個媒體後做出裁決。隨著媒體聯盟針對川普政府的訴訟結束，聯邦法官週二下令白宮繼續允許 CNN、MS Now 和 Politico 的記者進入大樓。地區法院法官蒂莫西凱利 (Timothy Kelly) 於 9 月 24 日批准了一項聯邦法官再次下令白宮恢復川普總統上個月因報道其政府而被禁止的三個新聞機構的訪問權限。法官下令 CNN、MS NOW 和 Politico 完全進入，同時他們的法律挑戰仍在繼續。傑夫貝內特 (Geoff Bennett) 與代表這三個媒體的律師泰德布特魯斯 (Ted Boutrous) 進行了更多討論。川普總統已指示他的白宮律師調查週五在橢圓形辦公室對他提出的爆炸性指控：據四位高級顧問稱，前川普律師阿麗娜·哈巴告訴總統，他的另一位高級顧問——前甘迺迪中心領導人里克·格雷內爾——未能存入她的億萬富翁丈夫一年前向該中心提供的數百萬美元捐款。 為什麼這很重要\n此集群由國際類別中 4 個管道（BBC World、The Guardian Business、PBS NewsHour、Axios）的 4 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「白宮在新任新聞秘書的法律資格受到質疑時為其辯護」（BBC World）； “法官擴大了白宮對被禁媒體 CNN、MS Now 和 Politico 的訪問範圍”（衛報商業版）； “被禁媒體的律師就白宮媒體訪問權展開法律鬥爭”（PBSiosHourios”；\n不同媒體的數字有所不同（例如，標題/摘要中為 24 比 6）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC World、The Guardian Business、PBS NewsHour、Axios"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/10/14/trump-kennedy-center-donation-maga-feud"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 24 vs 6 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中為 24 比 6）。"
+    },
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 18,
+      "crossCorroboration": 17,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "the-guardian-business",
+      "pbs-newshour"
+    ]
+  },
+  {
+    "id": "live-entertainment-01-donald-trump-jr-and-kimb",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-entertainment-01-donald-trump-jr-and-kimb.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Donald Trump Jr. and Kimberly Guilfoyle Haven't Spoken Since 2024 Split",
+      "zh-TW": "相關封面圖：小唐納德·川普和金伯利·吉爾福伊爾自 2024 年分手以來就沒有說過話"
+    },
+    "publishedAt": "2026-10-15T04:00:39.000Z",
+    "title": {
+      "en": "Donald Trump Jr. and Kimberly Guilfoyle Haven't Spoken Since 2024 Split",
+      "zh-TW": "小唐納德·川普和金伯利·吉爾福伊爾自 2024 年分手以來就沒有說過話"
+    },
+    "summary": {
+      "en": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
+      "zh-TW": "在俄羅斯全面入侵接近五年之際，烏克蘭總統弗拉基米爾·澤倫斯基接受了美國國家公共廣播電台的訪問。而且，教宗良十四世被診斷出患有肺癌。"
+    },
+    "body": {
+      "en": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer. What happened\nDonald Trump Jr. and Kimberly Guilfoyle Haven't Spoken Since 2024 Split. Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer. Ukrainian President Volodymyr Zelenskyy sat down for an interview with NPR at a time of renewed tensions with the White House. (Image credit: Svet Jacqueline for NPR) A watchdog group in a lawsuit on Wednesday challenged the legality of Jared Kushner’s role in his father-in-law’s administration. “Primarily, this suit seeks to bar Kushner from occupying his government position and exercising government authority in violation of the Appointments Clause,” the lawsuit, from Citizens for Responsibility and Ethics in Washington (CREW), reads. “If not... Ukrainian president expresses anger in FT interview at ‘dangerous’ withdrawal of US intelligence sharing and weakening of Starlink satellite internet service Why it matters\nThis cluster was assembled from 9 feed item(s) across 6 outlet(s) (NPR World, The Hill, Financial Times, STAT News 生技版, The Guardian UK News, TMZ) in the entertainment category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer\" (NPR World); \"The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR\" (NPR World); \"Watchdog group challenges legality of Kushner’s role in Trump administration\" (The Hill); \"Ukraine to resume strikes on Russian refineries, Zelenskyy says\" (Financial Times); \"US floats unfreezing some Russian assets to restart Ukraine peace talks\" (Financial Times).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): NPR World, The Hill, Financial Times, STAT News 生技版, The Guardian UK News, TMZ",
+      "zh-TW": "在俄羅斯全面入侵接近五年之際，烏克蘭總統弗拉基米爾·澤倫斯基接受了美國國家公共廣播電台的訪問。而且，教宗良十四世被診斷出患有肺癌。 發生了什麼事\n小唐納德·川普和金伯利·吉爾福伊爾自 2024 年分手以來就沒有說過話。在俄羅斯全面入侵接近五年之際，烏克蘭總統弗拉基米爾·澤倫斯基接受了美國國家公共廣播電台的訪問。而且，教宗良十四世被診斷出患有肺癌。在與白宮關係再度緊張之際，烏克蘭總統澤倫斯基接受了美國國家公共廣播電台 (NPR) 的採訪。 （圖片來源：Svet Jacqueline for NPR）週三，一個監督組織在一場訴訟中質疑賈里德·庫許納在其岳父政府中所扮演角色的合法性。華盛頓公民責任與道德組織 (CREW) 的訴訟寫道：「這起訴訟的主要目的是阻止庫許納擔任政府職位並違反任命條款行使政府權力。」「如果不是…烏克蘭總統在英國《金融時報》採訪中對美國情報共享的「危險」撤回和星鏈衛星網路服務的削弱表示憤怒 為什麼這很重要\n該集群由娛樂類別中 6 個渠道（NPR World、The Hill、Financial Times、STAT News 生物技術版、The Guardian UK News、TMZ）的 9 個提要項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「澤倫斯基與 NPR 坐下來。而且，教宗利奧被診斷為肺癌」（NPR World）；「澤連斯基告訴 NPR，川普政府警告烏克蘭可能會切斷情報」（NPR World）；「監督組織挑戰庫許納在川普政府中所扮演角色的合法性」（The Hill）；「澤連斯基表示，烏克蘭將恢復對俄羅斯煉油廠的打擊（《金融時報》）；《美國金融時報》）；《美國金融時報》（俄羅斯\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：NPR World、The Hill、Financial Times、STAT News 生物技術版、英國衛報新聞、TMZ"
+    },
+    "sources": [
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/regulation/court-battles/6149653-crew-sues-jared-kushner/"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1"
+      },
+      {
+        "name": "STAT News 生技版",
+        "url": "https://www.statnews.com/2026/10/01/health-news-trump-administration-appeals-ruling-blocking-student-visa-limits/?utm_campaign=rss"
+      },
+      {
+        "name": "The Guardian UK News",
+        "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access"
+      },
+      {
+        "name": "TMZ",
+        "url": "https://www.tmz.com/2026/10/14/donald-trump-jr-and-kimberly-guilfoyle-are-not-on-speaking-terms/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 21,
+      "crossCorroboration": 25,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "npr-world",
+      "npr-world",
+      "the-hill"
+    ]
+  },
+  {
+    "id": "live-taiwan-02-9-403-22",
+    "category": "taiwan",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-taiwan-02-9-403-22.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 9月訪港旅客403萬人次 升22%",
+      "zh-TW": "相關封面圖：9月訪港旅客403萬人次 升22%"
+    },
+    "publishedAt": "2026-10-15T04:54:49.000Z",
+    "title": {
+      "en": "9月訪港旅客403萬人次 升22%",
+      "zh-TW": "9月訪港旅客403萬人次 升22%"
+    },
+    "summary": {
+      "en": "（中央社記者張謙香港15日電）據公布，受惠於中秋節假期及多項節慶活動，9月訪港旅客有403萬人次，較去年同期上升22%。此外，今年頭9個月訪港旅客累計有4070萬人次，上升12%。",
+      "zh-TW": "（中央社記者張謙香港15日電）據公布，受惠於中秋節假期及多項節慶活動，9月訪港旅客有403萬人次，較去年同期上升22%。此外，今年頭9個月訪港旅客累計有4070萬人次，上升12%。"
+    },
+    "body": {
+      "en": "（中央社記者張謙香港15日電）據公布，受惠於中秋節假期及多項節慶活動，9月訪港旅客有403萬人次，較去年同期上升22%。此外，今年頭9個月訪港旅客累計有4070萬人次，上升12%。 What happened\n9月訪港旅客403萬人次 升22%. （中央社記者張謙香港15日電）據公布，受惠於中秋節假期及多項節慶活動，9月訪港旅客有403萬人次，較去年同期上升22%。此外，今年頭9個月訪港旅客累計有4070萬人次，上升12%。 Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (中央社-兩岸) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 中央社-兩岸 Additional feed context\n(1) （中央社記者張謙香港15日電）據公布，受惠於中秋節假期及多項節慶活動，9月訪港旅客有403萬人次，較去年同期上升22%。此外，今年頭9個月訪港旅客累計有4070萬人次，上升12%。",
+      "zh-TW": "（中央社記者張謙香港15日電）據公布，受惠於中秋節假期及多項節慶活動，9月訪港旅客有403萬人次，較去年同期上升22%。此外，今年頭9個月訪港旅客累計有4070萬人次，上升12%。 What happened\n9月訪港旅客403萬人次 升22%. （中央社記者張謙香港15日電）據公布，受惠於中秋節假期及多項節慶活動，9月訪港旅客有403萬人次，較去年同期上升22%。此外，今年頭9個月訪港旅客累計有4070萬人次，上升12%。 Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (中央社-兩岸) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 中央社-兩岸 Additional feed context\n(1) （中央社記者張謙香港15日電）據公布，受惠於中秋節假期及多項節慶活動，9月訪港旅客有403萬人次，較去年同期上升22%。此外，今年頭9個月訪港旅客累計有4070萬人次，上升12%。"
+    },
+    "sources": [
+      {
+        "name": "中央社-兩岸",
+        "url": "https://www.cna.com.tw/news/acn/202610150103.aspx"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 59,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 22,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "taiwan",
+      "live-ingest",
+      "中央社-兩岸"
+    ]
+  },
+  {
+    "id": "live-biotech-01-story",
+    "category": "biotech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-biotech-01-story.png",
+    "imageAlt": {
+      "en": "Cover related to: 蘭斯生物科技青春之泉礦物防曬乳完成美國官方產品資訊更新",
+      "zh-TW": "相關封面圖：蘭斯生物科技青春之泉礦物防曬乳完成美國官方產品資訊更新"
+    },
+    "publishedAt": "2026-10-15T01:21:43.000Z",
+    "title": {
+      "en": "蘭斯生物科技青春之泉礦物防曬乳完成美國官方產品資訊更新",
+      "zh-TW": "蘭斯生物科技青春之泉礦物防曬乳完成美國官方產品資訊更新"
+    },
+    "summary": {
+      "en": "根據美國國家醫學圖書館（National Library of Medicine, NLM）旗下資料庫 Dai Read More",
+      "zh-TW": "根據美國國家醫學圖書館（National Library of Medicine, NLM）旗下資料庫 Dai Read More"
+    },
+    "body": {
+      "en": "根據美國國家醫學圖書館（National Library of Medicine, NLM）旗下資料庫 Dai Read More What happened\n蘭斯生物科技青春之泉礦物防曬乳完成美國官方產品資訊更新. 根據美國國家醫學圖書館（National Library of Medicine, NLM）旗下資料庫 Dai Read More 針對近期市場關注的防曬產品安全與規範議題，美國國家醫學圖書館（National Library of Medi Read More Why it matters\nThis cluster was assembled from 3 feed item(s) across 1 outlet(s) (基因線上 GeneOnline) in the biotech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"蘭斯生物科技青春之泉礦物防曬乳完成美國官方產品資訊更新\" (基因線上 GeneOnline); \"蘭斯生物科技防曬噴霧更新產品資訊與安全使用建議\" (基因線上 GeneOnline); \"青春之泉礦物防曬乳完成美國DailyMed產品資訊更新\" (基因線上 GeneOnline).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 基因線上 GeneOnline Additional feed context\n(1) 根據美國國家醫學圖書館（National Library of Medicine, NLM）旗下資料庫 Dai Read More\n(2) 針對近期市場關注的防曬產品安全與規範議題，美國國家醫學圖書館（National Library of Medi Read More",
+      "zh-TW": "根據美國國家醫學圖書館（National Library of Medicine, NLM）旗下資料庫 Dai Read More What happened\n蘭斯生物科技青春之泉礦物防曬乳完成美國官方產品資訊更新. 根據美國國家醫學圖書館（National Library of Medicine, NLM）旗下資料庫 Dai Read More 針對近期市場關注的防曬產品安全與規範議題，美國國家醫學圖書館（National Library of Medi Read More Why it matters\nThis cluster was assembled from 3 feed item(s) across 1 outlet(s) (基因線上 GeneOnline) in the biotech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"蘭斯生物科技青春之泉礦物防曬乳完成美國官方產品資訊更新\" (基因線上 GeneOnline); \"蘭斯生物科技防曬噴霧更新產品資訊與安全使用建議\" (基因線上 GeneOnline); \"青春之泉礦物防曬乳完成美國DailyMed產品資訊更新\" (基因線上 GeneOnline).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 基因線上 GeneOnline Additional feed context\n(1) 根據美國國家醫學圖書館（National Library of Medicine, NLM）旗下資料庫 Dai Read More\n(2) 針對近期市場關注的防曬產品安全與規範議題，美國國家醫學圖書館（National Library of Medi Read More"
+    },
+    "sources": [
+      {
+        "name": "基因線上 GeneOnline",
+        "url": "https://geneonline.news/%E8%98%AD%E6%96%AF%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E9%9D%92%E6%98%A5%E4%B9%8B%E6%B3%89%E7%A4%A6%E7%89%A9%E9%98%B2%E6%9B%AC%E4%B9%B3%E5%AE%8C%E6%88%90%E7%BE%8E%E5%9C%8B%E5%AE%98%E6%96%B9%E7%94%A2/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 47,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 10,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "biotech",
+      "live-ingest",
+      "基因線上-geneonline",
+      "基因線上-geneonline",
+      "基因線上-geneonline"
+    ]
+  },
+  {
+    "id": "live-semiconductor-01-kospi-kosdaq",
+    "category": "semiconductor",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-semiconductor-01-kospi-kosdaq.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 韓股重挫　KOSPI、KOSDAQ雙雙觸發熔斷",
+      "zh-TW": "相關封面圖：韓股重挫　KOSPI、KOSDAQ雙雙觸發熔斷"
+    },
+    "publishedAt": "2026-10-15T05:50:03.000Z",
+    "title": {
+      "en": "韓股重挫　KOSPI、KOSDAQ雙雙觸發熔斷",
+      "zh-TW": "韓股重挫　KOSPI、KOSDAQ雙雙觸發熔斷"
+    },
+    "summary": {
+      "en": "韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ [&#8230;]",
+      "zh-TW": "韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ […]"
+    },
+    "body": {
+      "en": "韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ [&#8230;] What happened\n韓股重挫　KOSPI、KOSDAQ雙雙觸發熔斷. 韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ [&#8230;] （中央社首爾15日綜合外電報導）韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ）接連觸發第一階段熔斷機制。 Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (TechNews 科技新報, 中央社-產經證券) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"韓股重挫，KOSPI、KOSDAQ 雙雙觸發熔斷\" (TechNews 科技新報); \"韓股重挫　KOSPI、KOSDAQ雙雙觸發熔斷\" (中央社-產經證券).\nFigures differ across outlets (e.g. 8230 vs 15 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechNews 科技新報, 中央社-產經證券 Additional feed context\n(1) 韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ [&#8230;]\n(2) （中央社首爾15日綜合外電報導）韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ）接連觸發第一階段熔斷機制。",
+      "zh-TW": "韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ […] What happened\n韓股重挫　KOSPI、KOSDAQ雙雙觸發熔斷. 韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ […] （中央社首爾15日綜合外電報導）韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ）接連觸發第一階段熔斷機制。 Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (TechNews 科技新報, 中央社-產經證券) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"韓股重挫，KOSPI、KOSDAQ 雙雙觸發熔斷\" (TechNews 科技新報); \"韓股重挫　KOSPI、KOSDAQ雙雙觸發熔斷\" (中央社-產經證券).\nFigures differ across outlets (e.g. 8230 vs 15 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechNews 科技新報, 中央社-產經證券 Additional feed context\n(1) 韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ […]\n(2) （中央社首爾15日綜合外電報導）韓國股市今天暴跌，韓國綜合股價指數（KOSPI）與以科技、生技等中小型成長企業為主的韓國創業板指（KOSDAQ）接連觸發第一階段熔斷機制。"
+    },
+    "sources": [
+      {
+        "name": "TechNews 科技新報",
+        "url": "https://finance.technews.tw/2026/10/15/korean-stocks-plunge-kospi-kosdaq-trigger-circuit-breakers/"
+      },
+      {
+        "name": "中央社-產經證券",
+        "url": "https://www.cna.com.tw/news/afe/202610150090.aspx"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 8230 vs 15 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 8230 與 15）。"
+    },
+    "trustScore": 64,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 19,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "semiconductor",
+      "live-ingest",
+      "technews-科技新報",
+      "中央社-產經證券"
+    ]
+  },
+  {
+    "id": "live-finance-02-democrats-blame-trump-af",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-02-democrats-blame-trump-af.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation",
+      "zh-TW": "相關封面圖：CPI報告顯示能源價格推高通膨後民主黨人指責川普"
+    },
+    "publishedAt": "2026-10-15T05:36:37.000Z",
+    "title": {
+      "en": "Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation",
+      "zh-TW": "CPI報告顯示能源價格推高通膨後民主黨人指責川普"
+    },
+    "summary": {
+      "en": "Australians are pulling back at the pump as fuel prices surge, with sales of diesel dropping in August by the most since 2022 and the decline in petrol sales deepening.",
+      "zh-TW": "隨著燃油價格飆升，澳洲人正在減少汽油銷量，8 月柴油銷量出現 2022 年以來最大跌幅，汽油銷量跌幅加深。"
+    },
+    "body": {
+      "en": "Australians are pulling back at the pump as fuel prices surge, with sales of diesel dropping in August by the most since 2022 and the decline in petrol sales deepening. What happened\nDemocrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation. Australians are pulling back at the pump as fuel prices surge, with sales of diesel dropping in August by the most since 2022 and the decline in petrol sales deepening. Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US. September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures. Inflation and economic frustrations have expanded the map of competitive midterm election districts deep into Republican territory. Why it matters\nThis cluster was assembled from 5 feed item(s) across 3 outlet(s) (Bloomberg, BBC Business, NYT Economy) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Australians Cut Fuel Purchases as Iran War Drives Prices Higher\" (Bloomberg); \"How backlash against data centres could shape the US midterm elections\" (BBC Business); \"Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections\" (NYT Economy); \"Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation\" (NYT Economy); \"Gas Prices Are Up 34% From a Year Ago, Adding to Inflation Pressures\" (NYT Economy).\nFigures differ across outlets (e.g. 3.7 vs 34 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Bloomberg, BBC Business, NYT Economy",
+      "zh-TW": "隨著燃油價格飆升，澳洲人正在減少汽油銷量，8 月柴油銷量出現 2022 年以來最大跌幅，汽油銷量跌幅加深。 發生了什麼事\n消費者物價指數報告顯示能源價格推高通膨後，民主黨人指責川普。隨著燃油價格飆升，澳洲人正在減少汽油銷量，8 月柴油銷量出現 2022 年以來最大跌幅，汽油銷量跌幅加深。隨著美國各地的強烈反對，民主黨人和共和黨人都站出來反對資料中心的開發。九月份的消費者物價指數報告將繼續對川普總統和聯準會施加壓力，要求其緩解日益加劇的價格壓力。通貨膨脹和經濟低迷已將競爭激烈的中期選舉選區版圖擴大到共和黨的版圖。 為什麼這很重要\n此集群由金融類別中 3 個管道（彭博、BBC 商業、紐約時報經濟）的 5 個提要項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：“伊朗戰爭推高價格，澳大利亞人削減燃料採購”（彭博社）； “對數據中心的強烈反對如何影響美國中期選舉”（BBC Business）； “能源價格上漲導緻美國中期選舉前通脹率高達 3.7%”（紐約時報經濟）； “消費者物價指數報告顯示能源價格比率上漲後，” 34%，增加了通膨壓力」（紐約時報經濟）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 3.7 比 34）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：彭博社、BBC 商業頻道、紐約時報經濟"
+    },
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-15/australians-cut-fuel-purchases-as-iran-war-drives-prices-higher"
+      },
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "NYT Economy",
+        "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 3.7 vs 34 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 3.7 比 34）。"
+    },
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 20,
+      "outletReputation": 22,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "bloomberg",
+      "bbc-business",
+      "nyt-economy"
+    ]
   }
 ]

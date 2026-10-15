@@ -1,25 +1,25 @@
 {
-  "ingestedAt": "2026-10-14T06:30:51.877Z",
+  "ingestedAt": "2026-10-15T06:11:06.427Z",
   "feedOk": 120,
   "feedTotal": 128,
   "rawItems": 1034,
-  "mainStories": 60,
+  "mainStories": 73,
   "byCategory": {
-    "finance": 8,
-    "semiconductor": 7,
-    "taiwan": 6,
-    "eastAsiaGossip": 11,
-    "international": 9,
-    "entertainment": 5,
+    "finance": 10,
+    "semiconductor": 8,
+    "taiwan": 7,
+    "eastAsiaGossip": 12,
+    "international": 11,
+    "entertainment": 6,
     "shopping": 1,
-    "biotech": 3,
-    "energy": 1,
-    "us": 2,
+    "biotech": 4,
+    "energy": 2,
+    "us": 3,
     "tech": 6,
-    "ai": 1
+    "ai": 3
   },
   "eastAsiaByRegion": {
-    "tw": 11
+    "tw": 12
   },
   "heatSourcesShipped": [
     "ptt",
@@ -36,7 +36,5 @@
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat",
-  "rewrittenAt": "2026-10-14T15:12:47Z",
-  "rewrittenBy": "bebo-backup"
+  "mode": "extractive+translate+rss+heat"
 }
