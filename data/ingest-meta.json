@@ -1,40 +1,42 @@
 {
-  "ingestedAt": "2026-10-15T06:11:06.427Z",
-  "feedOk": 120,
-  "feedTotal": 128,
-  "rawItems": 1034,
-  "mainStories": 73,
-  "byCategory": {
-    "finance": 10,
-    "semiconductor": 8,
-    "taiwan": 7,
-    "eastAsiaGossip": 12,
-    "international": 11,
-    "entertainment": 6,
-    "shopping": 1,
-    "biotech": 4,
-    "energy": 2,
-    "us": 3,
-    "tech": 6,
-    "ai": 3
-  },
-  "eastAsiaByRegion": {
-    "tw": 12
-  },
-  "heatSourcesShipped": [
-    "ptt",
-    "gnews-dcard",
-    "line-today"
-  ],
-  "heatVerifiedKeywords": [
-    "lemonway",
-    "行銷網頁提升",
-    "高品質粉絲追",
-    "長輩迷過的歌"
-  ],
-  "heatNewsInjected": 36,
-  "llmUsed": false,
-  "llmProvider": null,
-  "llmModel": null,
-  "mode": "extractive+translate+rss+heat"
+ "ingestedAt": "2026-10-15T06:11:06.427Z",
+ "feedOk": 120,
+ "feedTotal": 128,
+ "rawItems": 1034,
+ "mainStories": 73,
+ "byCategory": {
+  "finance": 10,
+  "semiconductor": 8,
+  "taiwan": 7,
+  "eastAsiaGossip": 12,
+  "international": 11,
+  "entertainment": 6,
+  "shopping": 1,
+  "biotech": 4,
+  "energy": 2,
+  "us": 3,
+  "tech": 6,
+  "ai": 3
+ },
+ "eastAsiaByRegion": {
+  "tw": 12
+ },
+ "heatSourcesShipped": [
+  "ptt",
+  "gnews-dcard",
+  "line-today"
+ ],
+ "heatVerifiedKeywords": [
+  "lemonway",
+  "行銷網頁提升",
+  "高品質粉絲追",
+  "長輩迷過的歌"
+ ],
+ "heatNewsInjected": 36,
+ "llmUsed": false,
+ "llmProvider": null,
+ "llmModel": null,
+ "mode": "extractive+translate+rss+heat",
+ "rewrittenAt": "2026-10-15T15:12:49.379183+00:00",
+ "rewrittenBy": "bebo-backup"
 }
