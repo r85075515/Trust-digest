@@ -7742,5 +7742,1208 @@
     }
    }
   ]
+ },
+ {
+  "id": "live-international-01-zelensky-says-ukraine-wi",
+  "category": "international",
+  "adult": false,
+  "isHeadline": true,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-international-01-zelensky-says-ukraine-wi.jpg",
+  "imageAlt": {
+   "en": "Cover related to: Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+   "zh-TW": "相關封面圖：澤倫斯基稱烏克蘭將恢復俄羅斯煉油廠罷工，無視川普"
+  },
+  "publishedAt": "2026-10-16T02:48:41.000Z",
+  "title": {
+   "en": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying U.S. Pressure",
+   "zh-TW": "澤倫斯基（Volodymyr Zelensky）：烏克蘭將恢復打擊俄羅斯煉油廠，不再理會美國要求"
+  },
+  "summary": {
+   "en": "In a Financial Times interview, Volodymyr Zelensky said Ukraine will resume strikes on Russian refineries after fresh Russian attacks, ending a pause he had kept at Washington's request. Moscow accused Kyiv of already hitting an oil refinery.",
+   "zh-TW": "澤倫斯基（Volodymyr Zelensky）接受《金融時報》（Financial Times）專訪時表示，在俄羅斯發動新一輪攻擊後，烏克蘭將恢復打擊俄羅斯煉油廠，結束應美國要求維持的暫停。莫斯科則指控基輔已襲擊一座煉油廠。"
+  },
+  "body": {
+   "en": "Volodymyr Zelensky told the Financial Times that Ukraine is done pausing strikes on Russian energy sites: after fresh Russian attacks on Ukrainian cities, Kyiv will resume hitting refineries, ending a moratorium he had observed at Washington's request.\nWhat happened\nZelensky expressed open frustration with the United States in the interview, saying he had paused the strikes to comply with an American demand. The NYT reports Moscow is \"not winning on the battlefield\" but seizing an opening to inflict suffering on Ukrainian cities this winter, while the FT notes a White House eager to lower fuel costs ahead of the U.S. midterms is weighing easing restrictions on Russian and Iranian \"shadow fleet\" tankers. Russia has accused Ukraine of already attacking an oil refinery since Zelensky's remarks.\nWhy it matters\nThe verdict is blunt: Kyiv is openly choosing battlefield leverage over Washington's preferences, and saying so on the record. If refinery strikes resume at scale, the immediate question is whether fuel prices — and the White House's midterm calculus — move against the administration that asked for the pause.\nSources agree / disagree\nBBC, NYT, FT, PBS NewsHour and NPR all report the same core claim — strikes to resume — with consistent quotes from the FT interview. Trust label: N源一致 on the resumption; the \"defying Trump\" framing comes from NYT's headline characterization. No numeric conflicts in the snippets.\nStill uncertain\nNo timetable or target list has been disclosed, and the White House has not publicly responded to Zelensky's remarks. Verify operational details on the publisher pages; feed snippets omit context and updates.",
+   "zh-TW": "澤倫斯基（Volodymyr Zelensky）告訴《金融時報》：烏克蘭不再暫停打擊俄羅斯能源設施。在俄羅斯對烏克蘭城市發動新一輪攻擊後，基輔將恢復打擊煉油廠，結束應美國要求維持的暫停。\n發生了什麼事\n澤倫斯基在專訪中公開表達對美國的不滿，稱暫停打擊是為了配合美方要求。《紐約時報》報導，莫斯科在戰場上並未獲勝，而是趁冬季來臨之際加大對烏克蘭城市的轟炸；《金融時報》則指出，急於在期中選舉前壓低油價的白宮，正考慮放寬對俄羅斯與伊朗「影子艦隊」油輪的限制。俄羅斯已指控烏克蘭在澤倫斯基發言後襲擊了一座煉油廠。\n為什麼重要\n結論很直接：基輔公開把戰場籌碼放在華府的意願之上，而且是白紙黑字講出來的。如果煉油廠打擊大規模恢復，下一個問題就是油價會不會走高——以及當初要求暫停的白宮，期中選舉算盤會不會被打亂。\n來源異同\nBBC、《紐約時報》、《金融時報》、PBS NewsHour、NPR 五家報導的核心主張一致——打擊將恢復，引言皆出自同一場《金融時報》專訪。信任標籤：N源一致；「無視川普」的定性出自《紐約時報》標題。摘要中無數字衝突。\n仍不確定\n恢復打擊的具體時間表與目標清單尚未公布，白宮也未公開回應澤倫斯基的發言。作戰細節請查閱各媒體完整報導；來源摘要可能省略背景與後續更新。"
+  },
+  "sources": [
+   {
+    "name": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "name": "NYT World",
+    "url": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html"
+   },
+   {
+    "name": "Financial Times Markets",
+    "url": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1"
+   },
+   {
+    "name": "PBS NewsHour",
+    "url": "https://www.pbs.org/newshour/show/ukraine-resumes-strikes-on-energy-targets-saying-russia-never-stopped-its-attacks"
+   },
+   {
+    "name": "NPR News",
+    "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 96,
+  "trustBreakdown": {
+   "sourceDiversity": 25,
+   "outletReputation": 21,
+   "crossCorroboration": 25,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "international",
+   "live-ingest",
+   "bbc-world",
+   "nyt-world",
+   "nyt-world"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "Volodymyr Zelensky",
+     "zh-TW": "澤倫斯基"
+    },
+    "blurb": {
+     "en": "President of Ukraine, interviewed by the Financial Times about resuming refinery strikes.",
+     "zh-TW": "烏克蘭總統，接受《金融時報》專訪談恢復打擊煉油廠。"
+    }
+   },
+   {
+    "term": {
+     "en": "Financial Times",
+     "zh-TW": "金融時報"
+    },
+    "blurb": {
+     "en": "British business newspaper that conducted the Zelensky interview.",
+     "zh-TW": "專訪澤倫斯基的英國財經報紙。"
+    }
+   },
+   {
+    "term": {
+     "en": "BBC World",
+     "zh-TW": "BBC 國際"
+    },
+    "blurb": {
+     "en": "British public broadcaster covering Russia's accusation of a refinery attack.",
+     "zh-TW": "報導俄羅斯指控煉油廠遇襲的英國公共廣播公司。"
+    }
+   },
+   {
+    "term": {
+     "en": "NYT World",
+     "zh-TW": "紐約時報國際"
+    },
+    "blurb": {
+     "en": "US newspaper reporting on Russia's winter bombing campaign and the strike resumption.",
+     "zh-TW": "報導俄羅斯冬季轟炸與打擊恢復的美國報紙。"
+    }
+   },
+   {
+    "term": {
+     "en": "PBS NewsHour",
+     "zh-TW": "PBS 新聞一小時"
+    },
+    "blurb": {
+     "en": "US public television news program covering Ukraine's resumed energy strikes.",
+     "zh-TW": "報導烏克蘭恢復能源打擊的美國公共電視新聞節目。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-ai-01-google-wants-gemini-4-ar",
+  "category": "ai",
+  "adult": false,
+  "isHeadline": true,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-ai-01-google-wants-gemini-4-ar.png",
+  "imageAlt": {
+   "en": "Cover related to: Google wants Gemini 4 Argon to be the only AI model robots need",
+   "zh-TW": "相關封面圖：Google希望 Gemini 4 Argon 成為機器人唯一需要的 AI 模型"
+  },
+  "publishedAt": "2026-10-15T16:35:47.000Z",
+  "title": {
+   "en": "Google's Gemini 4 Argon Aims to Be the Only AI Model Robots Need",
+   "zh-TW": "Google（Google）推出 Gemini 4 Argon：想當機器人唯一需要的 AI 模型"
+  },
+  "summary": {
+   "en": "Google announced Gemini 4 Argon, a frontier model that controls robots, generates simulations from photos or sketches, and evaluates training videos. It scores 87% on Google's ERQA benchmark, though demo prompts still show heavy human guidance.",
+   "zh-TW": "Google（Google）發表前沿模型 Gemini 4 Argon，可操控機器人、從照片或草圖生成模擬、評估訓練影片，在自家 ERQA 基準拿下 87 分，但展示用的提示詞顯示實際操作仍需大量人工引導。"
+  },
+  "body": {
+   "en": "Google is pitching Gemini 4 Argon as the single model for robotics: announced on the Google AI Blog, it controls robots, generates simulations from photos or sketches, and evaluates training videos, scoring 87 percent on Google's own ERQA benchmark.\nWhat happened\nThe Decoder reports Google wants Argon to be \"the only AI model robots need.\" The model is being opened to developers, enterprises, scientists, and consumers. But the published example prompts suggest the demos still lean heavily on human guidance — the autonomy story is ahead of the evidence so far.\nWhy it matters\nThe judgment call is simple: whoever owns the default robot brain owns the next platform. Google is moving first with an all-in-one pitch, but the gap between the benchmark score and the hand-held demos is where competitors will attack.\nSources agree / disagree\nGoogle AI Blog (the announcement) and The Decoder (the analysis) agree on the capabilities and the 87% ERQA figure. Trust label: 僅1源 on independent verification — ERQA is Google's own benchmark. The Science item on the Riemann hypothesis in this cluster is unrelated noise.\nStill uncertain\nReal-world deployment performance is unverified, and pricing/availability details are thin. Treat the \"only model you need\" claim as marketing until third-party evaluations land.",
+   "zh-TW": "Google 把 Gemini 4 Argon 定位成機器人的單一模型：在 Google AI Blog 公布，可操控機器人、從照片或草圖生成模擬、評估訓練影片，在自家 ERQA 基準拿下 87%。\n發生了什麼事\nThe Decoder 報導，Google 希望 Argon 成為「機器人唯一需要的 AI 模型」，已開放給開發者、企業、科學家與消費者使用。但公布的示範提示詞顯示，展示過程仍高度依賴人工引導——自主能力的宣傳目前跑在證據前面。\n為什麼重要\n判斷很簡單：誰拿下機器人的預設大腦，誰就拿下下一個平台。Google 先喊出 all-in-one，但基準分數和實際展示之間的落差，就是競爭對手會進攻的地方。\n來源異同\nGoogle AI Blog（官方公告）與 The Decoder（分析報導）對功能描述和 87% ERQA 分數一致。信任標籤：僅1源能獨立驗證——ERQA 是 Google 自家基準。同一集群裡 Science 關於黎曼猜想的報導是不相關的混入。\n仍不確定\n實際部署效能未經第三方驗證，定價與供貨細節也很少。「唯一需要的模型」先當行銷話術，第三方評測出來再說。"
+  },
+  "sources": [
+   {
+    "name": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+   },
+   {
+    "name": "The Decoder",
+    "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/"
+   },
+   {
+    "name": "Science 科學新聞",
+    "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 76,
+  "trustBreakdown": {
+   "sourceDiversity": 19,
+   "outletReputation": 10,
+   "crossCorroboration": 22,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "ai",
+   "live-ingest",
+   "google-ai-blog",
+   "the-decoder",
+   "science-科學新聞"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "Google",
+     "zh-TW": "Google"
+    },
+    "blurb": {
+     "en": "US technology company that announced the Gemini 4 Argon model.",
+     "zh-TW": "發表 Gemini 4 Argon 模型的美國科技公司。"
+    }
+   },
+   {
+    "term": {
+     "en": "Gemini 4 Argon",
+     "zh-TW": "Gemini 4 Argon"
+    },
+    "blurb": {
+     "en": "Google's latest frontier AI model pitched for robotics use.",
+     "zh-TW": "Google 主打機器人應用的最新前沿 AI 模型。"
+    }
+   },
+   {
+    "term": {
+     "en": "The Decoder",
+     "zh-TW": "The Decoder"
+    },
+    "blurb": {
+     "en": "AI news outlet that analyzed Google's robotics pitch.",
+     "zh-TW": "分析 Google 機器人布局的 AI 新聞媒體。"
+    }
+   },
+   {
+    "term": {
+     "en": "ERQA",
+     "zh-TW": "ERQA"
+    },
+    "blurb": {
+     "en": "Google's own benchmark on which Argon scores 87 percent.",
+     "zh-TW": "Argon 拿下 87 分的 Google 自家評測基準。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-entertainment-01-i-m-not-allowed-to-drive",
+  "category": "entertainment",
+  "adult": false,
+  "isHeadline": false,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-entertainment-01-i-m-not-allowed-to-drive.jpg",
+  "imageAlt": {
+   "en": "Cover related to: ‘I’m Not Allowed to Drive’: Billy Joel Shares Health Update as He Prepares to Sell Vintage Motorcycles",
+   "zh-TW": "相關封面圖：「我不被允許開車」：比利喬爾在準備出售老式摩托車時分享健康狀況更新"
+  },
+  "publishedAt": "2026-10-16T02:03:52.000Z",
+  "title": {
+   "en": "Billy Joel Says He May Never Perform Again After Brain Surgery",
+   "zh-TW": "比利·喬（Billy Joel）：腦部手術後可能再也無法演出，連開車都被禁"
+  },
+  "summary": {
+   "en": "In a rare Hollywood Reporter interview, 76-year-old 'Piano Man' legend Billy Joel said he may never perform again after brain surgery for normal pressure hydrocephalus. His neurologist has barred him from driving and performing as he prepares to sell his vintage motorcycles.",
+   "zh-TW": "76 歲的「鋼琴人」傳奇比利·喬（Billy Joel）罕見接受《好萊塢報導》（Hollywood Reporter）專訪，坦言腦部手術後可能再也無法演出；神經科醫師已禁止他開車和表演，他正準備出售收藏的老爺機車。"
+  },
+  "body": {
+   "en": "Billy Joel is giving a rare health update, and it is grim: the \"Piano Man\" singer told The Hollywood Reporter he may never perform again after undergoing brain surgery for normal pressure hydrocephalus, the brain disorder diagnosed last year that forced him off the stage.\nWhat happened\nJoel, 76, said his neurologist has told him he is \"not allowed to drive\" or perform. Rolling Stone's headline frames the news around the interview and his plan to sell vintage motorcycles; TMZ's version stresses the neurologist's orders; Hollywood Life recaps the normal pressure hydrocephalus diagnosis. All three draw on the same Hollywood Reporter interview.\nWhy it matters\nThe takeaway is not gossip — it is the likely end of a six-decade live career. Joel's camp has not announced a formal retirement, but \"may never perform again\" from the artist himself is as close as it gets. The motorcycle sale reads as a man putting his affairs in order.\nSources agree / disagree\nRolling Stone, TMZ, and Hollywood Life report the same interview with consistent facts: the diagnosis, the surgery, the driving and performing ban. Trust label: N源一致 — three outlets, one source interview, no conflicts.\nStill uncertain\nRecovery trajectory is unknown; \"may never\" leaves the door ajar. Whether a formal farewell or retirement announcement follows is still to be seen.",
+   "zh-TW": "比利·喬（Billy Joel）罕見談起健康狀況，消息並不樂觀：這位「鋼琴人」歌手告訴《好萊塢報導》，在因常壓性水腦症接受腦部手術後，他可能再也無法演出。去年確診的腦部疾病已迫使他離開舞台。\n發生了什麼事\n76 歲的喬表示，神經科醫師已告知他「不准開車」、也不准表演。Rolling Stone 的標題聚焦專訪與他出售老爺機車的計畫；TMZ 強調醫師的禁令；Hollywood Life 回顧常壓性水腦症的診斷經過。三家都引用同一場《好萊塢報導》專訪。\n為什麼重要\n重點不是八卦，而是一個長達六十年的現場演出涯可能就此結束。團隊尚未宣布正式退休，但歌手親口說出「可能再也無法演出」，意思已經很明白。出售機車收藏，更像是一個人在安排身後事。\n來源異同\nRolling Stone、TMZ、Hollywood Life 三家報導同一場專訪，事實一致：診斷、手術、開車與表演禁令。信任標籤：N源一致——三家媒體、單一專訪來源，無衝突。\n仍不確定\n復原進展未知，「可能再也無法」留了一線空間。會不會有正式的告別或退休聲明，還要再看。"
+  },
+  "sources": [
+   {
+    "name": "Rolling Stone Music",
+    "url": "https://www.rollingstone.com/music/music-news/billy-joel-health-update-vintage-motorcycle-auction-1235643682/"
+   },
+   {
+    "name": "TMZ",
+    "url": "https://www.tmz.com/2026/10/15/billy-joel-unable-to-drive-and-perform/"
+   },
+   {
+    "name": "Hollywood Life",
+    "url": "https://hollywoodlife.com/feature/billy-joel-health-5419555/"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 82,
+  "trustBreakdown": {
+   "sourceDiversity": 20,
+   "outletReputation": 15,
+   "crossCorroboration": 22,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "entertainment",
+   "live-ingest",
+   "rolling-stone-music",
+   "tmz",
+   "hollywood-life"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "Billy Joel",
+     "zh-TW": "比利·喬"
+    },
+    "blurb": {
+     "en": "76-year-old American singer-songwriter known as the 'Piano Man.'",
+     "zh-TW": "76 歲美國創作歌手，有「鋼琴人」之稱。"
+    }
+   },
+   {
+    "term": {
+     "en": "Normal pressure hydrocephalus",
+     "zh-TW": "常壓性水腦症"
+    },
+    "blurb": {
+     "en": "The brain disorder Joel was diagnosed with last year, requiring brain surgery.",
+     "zh-TW": "喬去年確診的腦部疾病，需接受腦部手術。"
+    }
+   },
+   {
+    "term": {
+     "en": "The Hollywood Reporter",
+     "zh-TW": "好萊塢報導"
+    },
+    "blurb": {
+     "en": "US entertainment trade publication that conducted the Joel interview.",
+     "zh-TW": "專訪喬的美國娛樂產業刊物。"
+    }
+   },
+   {
+    "term": {
+     "en": "Rolling Stone",
+     "zh-TW": "滾石"
+    },
+    "blurb": {
+     "en": "US music magazine covering Joel's health update.",
+     "zh-TW": "報導喬健康近況的美國音樂雜誌。"
+    }
+   },
+   {
+    "term": {
+     "en": "TMZ",
+     "zh-TW": "TMZ"
+    },
+    "blurb": {
+     "en": "US celebrity news outlet reporting the neurologist's orders.",
+     "zh-TW": "報導醫師禁令的美國名人新聞媒體。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-energy-01-now-is-the-time-to-snag-",
+  "category": "energy",
+  "adult": false,
+  "isHeadline": false,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-energy-01-now-is-the-time-to-snag-.jpg",
+  "imageAlt": {
+   "en": "Cover related to: Now Is the Time to Snag a New Google Chromebook. Save Up to $230 at Best Buy",
+   "zh-TW": "相關封面圖：現在是時候入手一台新的 Google Chromebook 了。 Best Buy 最高可省 230 美元"
+  },
+  "publishedAt": "2026-10-15T18:36:28.000Z",
+  "title": {
+   "en": "Best Buy Pilots Battery-Powered Yard Trucks at California Sites",
+   "zh-TW": "百思買（Best Buy）在加州配送中心試行電動場內車"
+  },
+  "summary": {
+   "en": "Best Buy has deployed electric yard switchers at California distribution sites to cut emissions and will assess wider rollout across its supply chain, Utility Dive and ESG Dive report.",
+   "zh-TW": "百思買（Best Buy）已在加州配送中心部署電動場內拖車以減少碳排，並將評估擴大到整個供應鏈，Utility Dive 與 ESG Dive 報導。"
+  },
+  "body": {
+   "en": "Best Buy is testing battery power where customers never look: the retailer has deployed electric yard switchers at California distribution sites as part of its emissions-cutting effort and will gauge future deployment potential across its supply chain.\nWhat happened\nUtility Dive and ESG Dive report the same pilot — electric yard trucks replacing diesel at California distribution centers. The company says it will evaluate the results before deciding on a broader rollout.\nWhy it matters\nThe judgment: yard trucks are the unglamorous, high-idle workhorses of logistics — they spend much of their operating life idling between trailer moves — and electrifying them is one of the cheapest per-ton emissions cuts a retailer can make. Diesel yard switchers are also concentrated pollution sources in warehouse-adjacent communities, which gives the pilot a regulatory tailwind in California. If Best Buy's numbers work, expect peers like Walmart and Target to follow quickly; fleet electrification at distribution centers is the next obvious domino after delivery vans.\nSources agree / disagree\nUtility Dive and ESG Dive describe the identical pilot with consistent details. Trust label: N源一致 on the pilot's existence. The CNET Chromebook deal headline in this cluster is unrelated shopping content swept in by the feed.\nStill uncertain\nPilot scale, cost figures, and the timeline for a wider rollout have not been disclosed.",
+   "zh-TW": "百思買（Best Buy）把電動化試驗放在顧客看不到的地方：已在加州配送中心部署電動場內拖車，作為減排計畫一環，並將評估擴大到整個供應鏈的可行性。\n發生了什麼事\nUtility Dive 與 ESG Dive 報導的是同一個試行計畫——以電動場內車取代加州配送中心的柴油車。公司表示會先評估試行結果，再決定是否擴大。\n為什麼重要\n判斷很簡單：場內拖車是物流業裡不起眼但怠速時間長的吃油怪，電動化是零售商單位減排成本最低的手段之一。試行數字好看的話，同業很快就會跟進。\n來源異同\nUtility Dive 與 ESG Dive 描述的是同一個試行計畫，細節一致。信任標籤：N源一致。同一集群裡 CNET 的 Chromebook 促銷是不相關的購物內容。\n仍不確定\n試行規模、成本數字與擴大時間表都尚未公布。"
+  },
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/best-buy-pilots-battery-powered-vehicles-at-california-distribution-sites/833125/"
+   },
+   {
+    "name": "ESG Dive",
+    "url": "https://www.esgdive.com/news/best-buy-pilots-battery-powered-vehicles-at-california-distribution-sites/833103/"
+   },
+   {
+    "name": "CNET Deals",
+    "url": "https://www.cnet.com/deals/google-chromebook-at-best-buy-deal/"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 68,
+  "trustBreakdown": {
+   "sourceDiversity": 19,
+   "outletReputation": 10,
+   "crossCorroboration": 14,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "energy",
+   "live-ingest",
+   "utility-dive",
+   "esg-dive",
+   "cnet-deals"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "Best Buy",
+     "zh-TW": "百思買"
+    },
+    "blurb": {
+     "en": "US electronics retailer piloting electric yard trucks.",
+     "zh-TW": "試行電動場內車的美國電子零售商。"
+    }
+   },
+   {
+    "term": {
+     "en": "Utility Dive",
+     "zh-TW": "Utility Dive"
+    },
+    "blurb": {
+     "en": "US energy industry news outlet covering the pilot.",
+     "zh-TW": "報導試行計畫的美國能源產業媒體。"
+    }
+   },
+   {
+    "term": {
+     "en": "ESG Dive",
+     "zh-TW": "ESG Dive"
+    },
+    "blurb": {
+     "en": "Sustainability news outlet covering the same pilot.",
+     "zh-TW": "報導同一試行計畫的永續新聞媒體。"
+    }
+   },
+   {
+    "term": {
+     "en": "Yard switcher",
+     "zh-TW": "場內拖車"
+    },
+    "blurb": {
+     "en": "Truck used to move trailers within distribution centers.",
+     "zh-TW": "在配送中心內拖運貨櫃的專用車輛。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-international-02-los-angeles-city-employe",
+  "category": "international",
+  "adult": false,
+  "isHeadline": false,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-international-02-los-angeles-city-employe.jpg",
+  "imageAlt": {
+   "en": "Cover related to: Los Angeles city employee among four charged in downtown graffiti spree",
+   "zh-TW": "相關封面圖：洛杉磯市員工等四人因市中心塗鴉狂潮被指控"
+  },
+  "publishedAt": "2026-10-16T01:24:58.000Z",
+  "title": {
+   "en": "Los Angeles DWP Employee Among Four Charged in $170,000 Graffiti Spree",
+   "zh-TW": "洛杉磯水電局（LADWP）員工涉入市中心塗鴉案，四人被控造成 17 萬美元損失"
+  },
+  "summary": {
+   "en": "Prosecutors charged four men — including a Los Angeles Department of Water and Power employee — with causing more than $170,000 in graffiti damage to downtown buildings, the LA Times reports.",
+   "zh-TW": "檢方起訴四名男子，其中包括一名洛杉磯水電局（LADWP）員工，指控他們在市中心建築物塗鴉，造成超過 17 萬美元損失，《洛杉磯時報》報導。"
+  },
+  "body": {
+   "en": "A city employee is among four men charged in a downtown Los Angeles graffiti spree: prosecutors say a Los Angeles Department of Water and Power employee was one of four who caused more than $170,000 in damage to downtown buildings.\nWhat happened\nThe LA Times reports the four were charged over the graffiti spree targeting downtown buildings. The DWP employee's involvement raises the question of whether public position or resources played any role — a detail the current reporting does not yet establish.\nWhy it matters\nThe takeaway for accountability: a public utility employee charged in a vandalism case invites scrutiny of hiring, oversight, and whether the job enabled the crime — access to city facilities, vehicles, or schedules could all matter. The $170,000 damage figure also signals this was organized and sustained over time, not a one-night impulse. For DWP, which answers to ratepayers, the reputational cost of an employee moonlighting as a vandal may exceed the legal one.\nSources agree / disagree\nOnly the LA Times covers the graffiti case in this cluster (single-outlet). Trust label: 僅1源 — the charge and damage figure come from prosecutors via one paper. The Guardian's mosquito/West Nile story is a different Los Angeles story swept into the same cluster.\nStill uncertain\nCharging documents' details, the employee's role, and whether DWP resources were involved remain undisclosed. Plea or trial outcomes are pending.",
+   "zh-TW": "一名市府員工涉入洛杉磯市中心塗鴉案：檢方表示，洛杉磯水電局（LADWP）一名員工是四名被告之一，四人對市中心建築物塗鴉，造成超過 17 萬美元損失。\n發生了什麼事\n《洛杉磯時報》報導，四人因針對市中心建築物的塗鴉案被起訴。水電局員工涉案，引發公職身分或資源是否助長犯行的疑問——目前報導尚未釐清這一點。\n為什麼重要\n問責角度的重點：公用事業員工被控破壞公物， hiring 與監督機制必然被檢視，工作是否助長犯行也要查。17 萬美元的損失也說明這是有組織、長期犯案，不是臨時起意的一夜塗鴉。\n來源異同\n這個集群裡只有《洛杉磯時報》報導塗鴉案。信任標籤：僅1源——起訴與損失金額出自檢方經由單一報紙披露。《衛報》的蚊子／西尼羅病毒報導是另一個洛杉磯故事，被掃進同一集群。\n仍不確定\n起訴書細節、該員工扮演的角色、水電局資源是否涉入，都尚未公開。認罪或審判結果待定。"
+  },
+  "sources": [
+   {
+    "name": "The Guardian Environment",
+    "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino"
+   },
+   {
+    "name": "LA Times California",
+    "url": "https://www.latimes.com/california/story/2026-10-15/ladwp-city-employee-among-four-charged-in-downtown-graffiti-spree"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 74,
+  "trustBreakdown": {
+   "sourceDiversity": 14,
+   "outletReputation": 21,
+   "crossCorroboration": 14,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "international",
+   "live-ingest",
+   "the-guardian-environment",
+   "la-times-california"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "Los Angeles Department of Water and Power",
+     "zh-TW": "洛杉磯水電局"
+    },
+    "blurb": {
+     "en": "LA's public utility; one of its employees was charged in the graffiti case.",
+     "zh-TW": "洛杉磯公用事業機構，一名員工在塗鴉案中被起訴。"
+    }
+   },
+   {
+    "term": {
+     "en": "LA Times",
+     "zh-TW": "洛杉磯時報"
+    },
+    "blurb": {
+     "en": "US newspaper that reported the graffiti charges.",
+     "zh-TW": "報導塗鴉案起訴的美國報紙。"
+    }
+   },
+   {
+    "term": {
+     "en": "The Guardian",
+     "zh-TW": "衛報"
+    },
+    "blurb": {
+     "en": "British newspaper whose mosquito story was swept into this cluster.",
+     "zh-TW": "蚊子報導被掃進同一集群的英國報紙。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-us-01-as-trump-s-wall-closes-i",
+  "category": "us",
+  "adult": false,
+  "isHeadline": false,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-us-01-as-trump-s-wall-closes-i.jpg",
+  "imageAlt": {
+   "en": "Cover related to: As Trump’s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones",
+   "zh-TW": "相關封面圖：隨著川普的隔離牆關閉，國土安全部透過監視、蒙面特工和無人機恐嚇邊境部落"
+  },
+  "publishedAt": "2026-10-16T00:20:56.000Z",
+  "title": {
+   "en": "DHS Pressures Tohono O'odham Nation Over 62-Mile Border Wall Plan",
+   "zh-TW": "國土安全部（DHS）施壓托霍諾奧德姆族（Tohono O'odham Nation），計畫築 62 英里邊境牆"
+  },
+  "summary": {
+   "en": "The Border Patrol told Tohono O'odham Nation chairman Verlon Jose that contractors were en route for soil tests on a 62-mile wall, as DHS deploys surveillance, masked agents and drones near tribal land. Separately, Trump is preemptively blaming Cornyn and Rove if Paxton loses the Texas Senate race.",
+   "zh-TW": "邊境巡邏隊通知托霍諾奧德姆族（Tohono O'odham Nation）主席佛隆·喬（Verlon Jose），承包商正前往進行 62 英里邊境牆的土壤測試，國土安全部並在部落土地周邊部署監控、蒙面幹員與無人機。另一方面，川普（Trump）已先發制人，把德州參議員選舉若敗選的責任推給柯寧（Cornyn）與羅夫（Rove）。"
+  },
+  "body": {
+   "en": "The wall is closing in on the Tohono O'odham Nation: at 4:59 a.m. on Aug. 25, tribal chairman Verlon Jose received an email from the head of the Border Patrol's Tucson Sector — government contractors were en route to conduct soil tests for a 62-mile wall along the nation's land, as DHS intimidates the border tribe with surveillance, masked agents and drones.\nWhat happened\nReporting describes DHS pressure tactics on the tribe — surveillance, masked agents, drones — alongside the wall plan. In parallel, ProPublica reports Texas Gov. Greg Abbott renewed his \"border security disaster\" proclamation, repeating a five-year claim that illegal crossings pose an \"ongoing and imminent threat.\" And Axios reports Trump is preemptively blaming Sen. John Cornyn and Karl Rove for \"doing everything possible to make it hard for Ken Paxton\" to win the Texas Senate race — public spin ahead of a potential GOP disaster, since Texas hasn't elected a Democratic senator since 1988.\nWhy it matters\nThe accountability question: a 62-mile wall on tribal land raises sovereignty, consultation, and funding questions the reporting has not yet answered. The DHS tactics described — pre-dawn emails, masked agents — suggest a pressure campaign rather than a negotiation. The Texas Senate subplot shows Trump managing expectations before election night.\nSources agree / disagree\nThree distinct threads from three outlets: tribal wall pressure (tribal/border reporting), Abbott's disaster proclamation (ProPublica), and Trump's Paxton blame game (Axios). Trust label: 敘述有分歧 — related but separate stories clustered together; each thread is single-outlet. No direct contradictions between them.\nStill uncertain\nWhether the tribe will sue, how the wall is funded, and whether federal-tribal consultation occurred are all undisclosed. The Texas race outcome remains months out.",
+   "zh-TW": "邊境牆正逼近托霍諾奧德姆族（Tohono O'odham Nation）：8 月 25 日凌晨 4 點 59 分，部落主席佛隆·喬（Verlon Jose）收到邊境巡邏隊土桑分區主管的電子郵件——政府承包商正前往對部落土地沿線 62 英里的牆體計畫進行土壤測試；國土安全部並以監控、蒙面幹員、無人機對這個邊境部落施壓。\n發生了什麼事\n報導描述國土安全部對部落的施壓手段——監控、蒙面幹員、無人機——以及牆體計畫。同時間，ProPublica 報導德州州長艾伯特（Greg Abbott）再度發布「邊境安全災難」宣告，重申五年來的主張：非法越境構成「持續且迫在眉睫的威脅」。Axios 則報導，川普已先發制人，把德州參議員選舉若敗選的責任推給參議員柯寧（John Cornyn）與羅夫（Karl Rove）——「盡一切可能讓派克斯頓（Ken Paxton）難選」；這是選舉夜可能慘敗前的公開卸責，畢竟德州自 1988 年就沒選出過民主黨參議員。\n為什麼重要\n問責角度：62 英里的牆蓋在部落土地上，主權、諮商程序、經費來源的問題，報導都還沒回答。凌晨郵件、蒙面幹員這些手段，看起來像施壓而非協商。德州參議員選舉的支線，則是川普在選舉夜前先打預防針。\n來源異同\n三家媒體、三條不同支線：部落牆體施壓（邊境報導）、艾伯特災難宣告（ProPublica）、川普怪罪柯寧（Axios）。信任標籤：敘述有分歧——相關但各自獨立的事件被併入同一集群；每條支線都是單一來源。彼此無直接矛盾。\n仍不確定\n部落是否提告、牆的經費從哪來、聯邦與部落有無諮商程序，都尚未揭露。德州選舉結果還要幾個月才知道。"
+  },
+  "sources": [
+   {
+    "name": "Axios",
+    "url": "https://www.axios.com/2026/10/16/trump-texas-paxton-cornyn-rove-talarico"
+   },
+   {
+    "name": "ProPublica",
+    "url": "https://www.propublica.org/article/greg-abbott-border-security-disaster-proclamation"
+   },
+   {
+    "name": "Inside Climate News",
+    "url": "https://insideclimatenews.org/news/15102026/texas-land-commissioner-big-bend-border-wall/"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 68,
+  "trustBreakdown": {
+   "sourceDiversity": 19,
+   "outletReputation": 10,
+   "crossCorroboration": 14,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "us",
+   "live-ingest",
+   "axios",
+   "propublica",
+   "inside-climate-news"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "Tohono O'odham Nation",
+     "zh-TW": "托霍諾奧德姆族"
+    },
+    "blurb": {
+     "en": "Native American tribe in southern Arizona facing a 62-mile wall plan on its land.",
+     "zh-TW": "面臨 62 英里邊境牆計畫的亞利桑那南部原住民族。"
+    }
+   },
+   {
+    "term": {
+     "en": "Verlon Jose",
+     "zh-TW": "佛隆·喬"
+    },
+    "blurb": {
+     "en": "Chairman of the Tohono O'odham Nation who received the Border Patrol email.",
+     "zh-TW": "收到邊境巡邏隊郵件的托霍諾奧德姆族主席。"
+    }
+   },
+   {
+    "term": {
+     "en": "Department of Homeland Security",
+     "zh-TW": "國土安全部"
+    },
+    "blurb": {
+     "en": "US agency deploying surveillance and agents near tribal land.",
+     "zh-TW": "在部落土地周邊部署監控與幹員的美國機構。"
+    }
+   },
+   {
+    "term": {
+     "en": "Ken Paxton",
+     "zh-TW": "派克斯頓"
+    },
+    "blurb": {
+     "en": "Texas attorney general running for US Senate; Trump preemptively defends him.",
+     "zh-TW": "競選聯邦參議員的德州檢察長，川普先發制人替他卸責。"
+    }
+   },
+   {
+    "term": {
+     "en": "John Cornyn",
+     "zh-TW": "柯寧"
+    },
+    "blurb": {
+     "en": "US senator from Texas whom Trump blames for Paxton's difficulties.",
+     "zh-TW": "被川普怪罪的德州聯邦參議員。"
+    }
+   },
+   {
+    "term": {
+     "en": "ProPublica",
+     "zh-TW": "ProPublica"
+    },
+    "blurb": {
+     "en": "Nonprofit investigative outlet reporting Abbott's disaster proclamation.",
+     "zh-TW": "報導艾伯特災難宣告的非營利調查媒體。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-finance-01-stocks-futures-rise-as-f",
+  "category": "finance",
+  "adult": false,
+  "isHeadline": false,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-finance-01-stocks-futures-rise-as-f.jpg",
+  "imageAlt": {
+   "en": "Cover related to: Stocks, Futures Rise as Fed Bets Ease After Warsh: Markets Wrap",
+   "zh-TW": "相關封面圖：戰爭結束後，隨著聯準會押注減少，股票和期貨上漲：市場結束"
+  },
+  "publishedAt": "2026-10-16T05:25:54.000Z",
+  "title": {
+   "en": "Fed Chair Warsh Declines to Signal October Rate Hike, Stocks Rally",
+   "zh-TW": "聯準會（Fed）主席沃什（Kevin Warsh）：不暗示 10 月升息，股市應聲上漲"
+  },
+  "summary": {
+   "en": "At IMF meetings, Fed Chair Kevin Warsh declined to signal an October rate hike, citing 'synchronous tightening' by global central banks. Stocks extended gains as traders pared hike bets; the dollar edged lower.",
+   "zh-TW": "聯準會（Fed）主席沃什（Kevin Warsh）在 IMF 會議上拒絕暗示 10 月升息，稱全球央行正「同步緊縮」。交易員下調升息押注，股市擴大漲幅，美元走弱。"
+  },
+  "body": {
+   "en": "Fed Chair Kevin Warsh just gave markets the signal they wanted: speaking at IMF meetings, he refrained from signaling an October rate hike and praised \"synchronous tightening\" by central banks fighting inflation — \"no free riders,\" in his phrase — even after hotter-than-expected inflation data had raised bets on back-to-back rises.\nWhat happened\nCNBC's headline: Warsh withholds the Fed rate signal. Bloomberg's markets wrap: stocks and futures rose as traders pared bets on a hike. The FT: the dollar weakened as Warsh declined to hint at October tightening. All three describe the same appearance with consistent quotes.\nWhy it matters\nThe judgment is market-mechanical: a Fed chair who won't validate hike bets after hot inflation data is telling traders the bar for October is high. The rally is the market repricing odds, not new easing — don't confuse relief with a pivot.\nSources agree / disagree\nCNBC, Bloomberg, and FT report the same IMF appearance with matching quotes and market moves. Trust label: N源一致 — three established outlets, no conflicts.\nStill uncertain\nWhether October actually brings no hike depends on incoming data; Warsh's non-signal is not a promise, and the hotter-than-expected inflation print that preceded these remarks hasn't gone away. If the next CPI surprises to the upside again, the \"synchronous tightening\" rhetoric could flip quickly. Watch the next inflation prints and any Fed speaker walk-backs.",
+   "zh-TW": "聯準會主席沃什（Kevin Warsh）給了市場想要的訊號：在 IMF 會議上發言，他拒絕暗示 10 月升息，並稱讚各國央行在對抗通膨上「同步緊縮」——用他的話說，「沒有搭便車的人」。此前高於預期的通膨數據一度讓市場押注連續升息。\n發生了什麼事\nCNBC 的標題：沃什不給升息訊號。Bloomberg 的市場綜述：交易員下調升息押注，股市與期貨上漲。《金融時報》：美元走弱，因沃什不暗示 10 月緊縮。三家描述的是同一場公開發言，引言一致。\n為什麼重要\n判斷是市場機制面的：通膨數據火熱後還不願為升息背書的主席，等於告訴交易員 10 月升息的門檻很高。這波漲勢是市場重估機率，不是新的寬鬆——別把鬆口氣當成轉向。\n來源異同\nCNBC、Bloomberg、《金融時報》三家報導同一場 IMF 發言，引言與市場走勢一致。信任標籤：N源一致——三家主流媒體，無衝突。\n仍不確定\n10 月到底升不升息還要看後續數據；沃什的不表態不是承諾。盯著下一次通膨數據。"
+  },
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html"
+   },
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates"
+   },
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 87,
+  "trustBreakdown": {
+   "sourceDiversity": 20,
+   "outletReputation": 20,
+   "crossCorroboration": 22,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "finance",
+   "live-ingest",
+   "cnbc",
+   "bloomberg",
+   "financial-times"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "Kevin Warsh",
+     "zh-TW": "沃什"
+    },
+    "blurb": {
+     "en": "Chair of the US Federal Reserve, speaking at IMF meetings.",
+     "zh-TW": "在 IMF 會議發言的美國聯準會主席。"
+    }
+   },
+   {
+    "term": {
+     "en": "Federal Reserve",
+     "zh-TW": "聯準會"
+    },
+    "blurb": {
+     "en": "US central bank whose rate path markets are repricing.",
+     "zh-TW": "市場正在重估其利率路徑的美國央行。"
+    }
+   },
+   {
+    "term": {
+     "en": "IMF",
+     "zh-TW": "IMF"
+    },
+    "blurb": {
+     "en": "International Monetary Fund, host of the meetings where Warsh spoke.",
+     "zh-TW": "沃什發言場合的主辦單位，國際貨幣基金。"
+    }
+   },
+   {
+    "term": {
+     "en": "Bloomberg",
+     "zh-TW": "彭博"
+    },
+    "blurb": {
+     "en": "Financial news outlet reporting the markets rally.",
+     "zh-TW": "報導市場上漲的財經媒體。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-tech-01-the-tesla-roadster-flew-",
+  "category": "tech",
+  "adult": false,
+  "isHeadline": false,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-tech-01-the-tesla-roadster-flew-.jpg",
+  "imageAlt": {
+   "en": "Cover related to: The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+   "zh-TW": "相關封面圖：Tesla Roadster 飛行、倒置並在一秒鐘內達到 60 英里/小時"
+  },
+  "publishedAt": "2026-10-16T01:28:27.000Z",
+  "title": {
+   "en": "Tesla Demos SpaceX-Thruster Roadster That Flies and Hits 60 mph in Under a Second",
+   "zh-TW": "特斯拉（Tesla）展示 SpaceX 推進器 Roadster：會飛、能倒著開，零百加速不到 1 秒"
+  },
+  "summary": {
+   "en": "At a Waco, Texas demo, Tesla's next-gen Roadster drove upside down, briefly flew using SpaceX thrusters over five Tesla vehicles, and hit 60 mph in under a second, TechCrunch and The Verge report.",
+   "zh-TW": "特斯拉（Tesla）在德州韋科（Waco）展示新一代 Roadster：倒著開、用 SpaceX 推進器短暫飛越五輛特斯拉車款，零百加速不到 1 秒，TechCrunch 與 The Verge 報導。"
+  },
+  "body": {
+   "en": "Elon Musk promised a flying car, and the Roadster delivered — briefly: Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y and Model 3, and accelerated to 60 mph in under a second.\nWhat happened\nTechCrunch's headline emphasizes the SpaceX-powered flight; The Verge's stresses the full stunt list — flying, upside-down driving, sub-second 0–60. Both note the heavy caveats: a production version would face serious restrictions, if it ever ships.\nWhy it matters\nThe takeaway is two-layered: as engineering theater it is unmatched — no rival can stage this demo. As a product, the thruster package's legality, safety certification, and price remain entirely open. Treat it as a halo project, not a lineup addition.\nSources agree / disagree\nTechCrunch and The Verge describe the same Waco demo with consistent stunt details. Trust label: N源一致 on what was shown. Figures like \"3 vs 30\" flagged in snippets appear to be headline artifacts, not real conflicts.\nStill uncertain\nProduction timeline, pricing, and regulatory approval are all undisclosed — and cold-gas thrusters on a street car face obvious safety-certification hurdles no automaker has cleared before. The Roadster program has already slipped years past its original targets. Demo stunts do not equal a shipping car, and Musk's timelines have a long record of optimism.",
+   "zh-TW": "馬斯克（Elon Musk）承諾過會飛的車，Roadster 短暫兌現了：特斯拉在德州韋科（Waco）活動上展示新一代 Roadster，電動超跑倒著開、用推進器飛越 Cybercab、Cybertruck、Tesla Semi、Model Y 與 Model 3 五輛車，零百加速不到 1 秒。\n發生了什麼事\nTechCrunch 的標題強調 SpaceX 推進器的飛行；The Verge 強調完整特技清單——飛行、倒著開、1 秒內破百。兩家都指出但書很重：量產版將面臨嚴格限制，如果真的量產的話。\n為什麼重要\n重點分兩層：作為工程秀，無人能及——沒有對手辦得出這種展示。作為產品，推進器套件的合法性、安全認證、售價完全未知。把它當光環計畫，別當產品線新成員。\n來源異同\nTechCrunch 與 The Verge 描述同一場韋科展示，特技細節一致。信任標籤：N源一致。摘要中「3 vs 30」這類數字差異應是標題產物，非實質衝突。\n仍不確定\n量產時間、售價、法規核准都未公布。展示特技不等於交車。"
+  },
+  "sources": [
+   {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
+   },
+   {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 62,
+  "trustBreakdown": {
+   "sourceDiversity": 13,
+   "outletReputation": 18,
+   "crossCorroboration": 6,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "tech",
+   "live-ingest",
+   "techcrunch",
+   "the-verge"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "Tesla",
+     "zh-TW": "特斯拉"
+    },
+    "blurb": {
+     "en": "US electric vehicle maker that demonstrated the next-gen Roadster.",
+     "zh-TW": "展示新一代 Roadster 的美國電動車廠。"
+    }
+   },
+   {
+    "term": {
+     "en": "Elon Musk",
+     "zh-TW": "馬斯克"
+    },
+    "blurb": {
+     "en": "CEO of Tesla and SpaceX, who promised the flying car.",
+     "zh-TW": "承諾會飛的車的特斯拉與 SpaceX 執行長。"
+    }
+   },
+   {
+    "term": {
+     "en": "Roadster",
+     "zh-TW": "Roadster"
+    },
+    "blurb": {
+     "en": "Tesla's next-generation electric supercar with SpaceX thrusters.",
+     "zh-TW": "搭載 SpaceX 推進器的特斯拉新一代電動超跑。"
+    }
+   },
+   {
+    "term": {
+     "en": "SpaceX",
+     "zh-TW": "SpaceX"
+    },
+    "blurb": {
+     "en": "Musk's rocket company supplying the thruster technology.",
+     "zh-TW": "提供推進器技術的馬斯克火箭公司。"
+    }
+   },
+   {
+    "term": {
+     "en": "TechCrunch",
+     "zh-TW": "TechCrunch"
+    },
+    "blurb": {
+     "en": "Technology news outlet covering the Waco demo.",
+     "zh-TW": "報導韋科展示的科技媒體。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-biotech-01-fda-launches-the-rare-di",
+  "category": "biotech",
+  "adult": false,
+  "isHeadline": false,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-biotech-01-fda-launches-the-rare-di.webp",
+  "imageAlt": {
+   "en": "Cover related to: FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
+   "zh-TW": "相關封面圖：FDA 啟動罕見疾病框架計劃，為罕見疾病藥物開發制定全面、適合目的的框架"
+  },
+  "publishedAt": "2026-10-15T15:23:00.000Z",
+  "title": {
+   "en": "FDA Launches Rare Disease Framework Initiative to Overhaul Drug Reviews",
+   "zh-TW": "美國食藥署（FDA）啟動罕病藥物審查框架改革"
+  },
+  "summary": {
+   "en": "The FDA announced the Rare Disease Framework Initiative to reimagine development of drugs and biologics for rare diseases. One analyst said a revamped framework could reduce the investor 'guessing game' on approval odds, BioPharma Dive reports.",
+   "zh-TW": "美國食藥署（FDA）宣布啟動「罕病框架倡議」，重新構想罕見疾病藥物與生物製劑的開發審查。一名分析師表示，改革後的框架可望減少投資人押注核准機率時的「猜謎遊戲」，BioPharma Dive 報導。"
+  },
+  "body": {
+   "en": "The FDA is resetting rare-disease drug reviews: the agency announced the Rare Disease Framework Initiative to develop a \"holistic, fit-for-purpose framework\" for rare disease drug development, continuing what BioPharma Dive calls the FDA \"reset.\"\nWhat happened\nThe announcement, carried in an FDA press release, aims to reimagine how drugs and biologics for rare diseases are developed. BioPharma Dive quotes one analyst saying a revamped framework may give investors less of a \"guessing game\" as they weigh approval chances. The FDA also announced a nationwide effort to broaden advisory committee expertise and, separately, federal charges against two Indian nationals over counterfeit drug distribution.\nWhy it matters\nThe judgment: rare-disease developers live and die on regulatory predictability, and a \"fit-for-purpose\" framework — if real — lowers the cost of capital for the entire category. The investor \"guessing game\" quote is the tell: this is being read as a de-risking signal, not just process tweaks.\nSources agree / disagree\nBioPharma Dive and the FDA press release agree on the initiative's existence and framing. Trust label: N源一致 on the announcement; the analyst quote is single-source. The advisory-committee and counterfeit-drug items are separate FDA news swept into the cluster.\nStill uncertain\nConcrete review standards and timelines are undisclosed; \"framework\" announcements often take years to become guidance. Verify details in the FDA release.",
+   "zh-TW": "FDA 正在重設罕病藥物審查：宣布啟動「罕病框架倡議」（Rare Disease Framework Initiative），為罕病藥物開發打造「整全、適配的框架」，延續 BioPharma Dive 所稱的 FDA「重設」。\n發生了什麼事\nFDA 新聞稿宣布這項倡議，目標是重新構想罕病藥物與生物製劑的開發方式。BioPharma Dive 引述一名分析師說，改革後的框架可望減少投資人評估核准機率時的「猜謎遊戲」。FDA 另宣布擴大諮詢委員會專家組成的全國計畫，以及兩名印度籍人士涉假藥案被聯邦起訴。\n為什麼重要\n判斷很直接：罕病藥廠的生死繫於法規可預測性；「適配框架」若是玩真的，整個類別的資金成本都會下降。分析師那句「猜謎遊戲」是關鍵：市場把這解讀為降風險訊號，不只是流程微調。\n來源異同\nBioPharma Dive 與 FDA 新聞稿對倡議的存在與定性一致。信任標籤：N源一致；分析師引言為單一來源。諮詢委員會與假藥案是另兩則 FDA 新聞，被掃進同一集群。\n仍不確定\n具體審查標準與時間表未公布；「框架」類宣示往往要數年才變成正式指引。細節請查 FDA 公告原文。"
+  },
+  "sources": [
+   {
+    "name": "BioPharma Dive",
+    "url": "https://www.biopharmadive.com/news/fda-rare-disease-framework-initiative-drug-development/833080/"
+   },
+   {
+    "name": "FDA 新聞稿",
+    "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 55,
+  "trustBreakdown": {
+   "sourceDiversity": 13,
+   "outletReputation": 10,
+   "crossCorroboration": 14,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "biotech",
+   "live-ingest",
+   "biopharma-dive",
+   "fda-新聞稿",
+   "fda-新聞稿"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "FDA",
+     "zh-TW": "FDA"
+    },
+    "blurb": {
+     "en": "US Food and Drug Administration, announcing the rare disease initiative.",
+     "zh-TW": "宣布罕病倡議的美國食品藥物管理署。"
+    }
+   },
+   {
+    "term": {
+     "en": "BioPharma Dive",
+     "zh-TW": "BioPharma Dive"
+    },
+    "blurb": {
+     "en": "Biopharma industry news outlet covering the FDA reset.",
+     "zh-TW": "報導 FDA 重設的生物製藥產業媒體。"
+    }
+   },
+   {
+    "term": {
+     "en": "Rare Disease Framework Initiative",
+     "zh-TW": "罕病框架倡議"
+    },
+    "blurb": {
+     "en": "FDA's new initiative to overhaul rare disease drug development.",
+     "zh-TW": "FDA 改革罕病藥物開發的新倡議。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-finance-02-judge-extends-white-hous",
+  "category": "finance",
+  "adult": false,
+  "isHeadline": false,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-finance-02-judge-extends-white-hous.jpg",
+  "imageAlt": {
+   "en": "Cover related to: Judge extends White House access to banned media outlets CNN, MS Now and Politico",
+   "zh-TW": "相關封面圖：法官允許白宮訪問被禁媒體 CNN、MS Now 和 Politico"
+  },
+  "publishedAt": "2026-10-15T23:50:02.000Z",
+  "title": {
+   "en": "Judge Extends White House Access for CNN, MS Now and Politico",
+   "zh-TW": "聯邦法官凱利（Timothy Kelly）延長 CNN 等三家媒體白宮採訪權"
+  },
+  "summary": {
+   "en": "District Judge Timothy Kelly ordered the White House to keep admitting CNN, MS Now and Politico journalists while the media coalition's lawsuit against the Trump administration proceeds, extending his September 24 order.",
+   "zh-TW": "聯邦地區法官凱利（Timothy Kelly）裁定，白宮在媒體聯盟對川普政府的訴訟進行期間，必須繼續放行 CNN、MS Now 與 Politico 記者，延長他 9 月 24 日的命令。"
+  },
+  "body": {
+   "en": "A federal judge is keeping the White House doors open: District Judge Timothy Kelly ordered the administration to continue allowing journalists from CNN, MS Now and Politico into the building while the media coalition's lawsuit against the Trump administration plays out, extending his September 24 order.\nWhat happened\nThe Guardian reports Kelly ruled Tuesday after the Trump administration blocked the three outlets' access last month. The order preserves the status quo — continued access — for the duration of the litigation.\nWhy it matters\nThe takeaway is procedural but pointed: courts are treating press access as a right that can't be revoked mid-lawsuit by executive fiat. The ruling doesn't decide the underlying case, but it denies the administration the leverage of exclusion while it proceeds — and signals how judges view the merits. For the three outlets, continued access preserves sourcing and beats that would otherwise go dark for months.\nSources agree / disagree\nThe Guardian's account of the ruling is the core of this cluster (single-outlet on the legal details). Trust label: 僅1源 on the order's specifics. The Verge's Trump AI-photo item and The Hill's RFK Jr. peptide story are unrelated stories swept into the cluster.\nStill uncertain\nThe underlying lawsuit's outcome and any appeal of this order remain pending.",
+   "zh-TW": "聯邦法官讓白宮大門繼續開著：地區法官凱利（Timothy Kelly）裁定，在媒體聯盟對川普政府的訴訟進行期間，白宮必須繼續放行 CNN、MS Now 與 Politico 三家記者，延長他 9 月 24 日的命令。\n發生了什麼事\n《衛報》報導，凱利週二做出裁決；此前川普政府上個月封殺了這三家媒體的採訪權。這道命令維持現狀——訴訟期間採訪權不變。\n為什麼重要\n重點在程序，但意思很明白：法院把採訪權當成行政命令不能在訴訟中途收回的權利。這項裁決不等於本案勝負，但在訴訟進行期間，剝奪了政府用「排除」當籌碼的空間。\n來源異同\n這個集群的核心是《衛報》對裁決的報導（法律細節為單一來源）。信任標籤：僅1源。The Verge 的川普 AI 照片、The Hill 的 RFK 胜肽報導是不相關事件，被掃進同一集群。\n仍不確定\n本案最終結果與這道命令是否會被上訴，都還待定。"
+  },
+  "sources": [
+   {
+    "name": "The Guardian Business",
+    "url": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico"
+   },
+   {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"
+   },
+   {
+    "name": "The Hill",
+    "url": "https://thehill.com/newsletters/healthcare/6152770-rfk-jr-fda-peptides-white-house/"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 55,
+  "trustBreakdown": {
+   "sourceDiversity": 21,
+   "outletReputation": 19,
+   "crossCorroboration": 22,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "finance",
+   "live-ingest",
+   "the-guardian-business",
+   "the-verge",
+   "the-hill"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "Timothy Kelly",
+     "zh-TW": "凱利"
+    },
+    "blurb": {
+     "en": "US district judge who extended the media access order.",
+     "zh-TW": "延長媒體採訪權命令的美國聯邦地區法官。"
+    }
+   },
+   {
+    "term": {
+     "en": "CNN",
+     "zh-TW": "CNN"
+    },
+    "blurb": {
+     "en": "US news network whose White House access was preserved.",
+     "zh-TW": "白宮採訪權獲得保留的美國新聞網。"
+    }
+   },
+   {
+    "term": {
+     "en": "Politico",
+     "zh-TW": "Politico"
+    },
+    "blurb": {
+     "en": "US political news outlet covered by the access order.",
+     "zh-TW": "採訪權命令涵蓋的美國政治新聞媒體。"
+    }
+   },
+   {
+    "term": {
+     "en": "The Guardian",
+     "zh-TW": "衛報"
+    },
+    "blurb": {
+     "en": "British newspaper reporting the court ruling.",
+     "zh-TW": "報導法院裁決的英國報紙。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-semiconductor-01-semicon-west-2026-semi-f",
+  "category": "semiconductor",
+  "adult": false,
+  "isHeadline": false,
+  "isPopular": true,
+  "imageUrl": "https://www.eetasia.com/wp-content/uploads/sites/2/2026/10/TrendForce-14Oct26.jpg?w=1080",
+  "imageAlt": {
+   "en": "Cover related to: SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029",
+   "zh-TW": "相關封面圖：SEMICON West 2026：SEMI 預測 2029 年 300mm 晶圓廠設備支出將達到 $227B"
+  },
+  "publishedAt": "2026-10-15T02:43:59.000Z",
+  "title": {
+   "en": "SEMI Forecasts 300mm Fab Equipment Spending to Hit $227B by 2029",
+   "zh-TW": "國際半導體產業協會（SEMI）預測：300mm 晶圓廠設備支出 2029 年達 2270 億美元"
+  },
+  "summary": {
+   "en": "Global 300mm fab equipment spending will reach $149B in 2026, up 31% from 2025, and grow at double-digit rates to $227B by 2029, SEMI's Clark Tseng said at SEMICON West 2026. TrendForce separately forecasts VCSEL demand hitting 650M units by 2031 on AI data-center demand.",
+   "zh-TW": "國際半導體產業協會（SEMI）產業研究總監曾瑞榆（Clark Tseng）在 SEMICON West 2026 表示，全球 300mm 晶圓廠設備支出 2026 年將達 1490 億美元、年增 31%，並以雙位數成長至 2029 年的 2270 億美元。TrendForce 另預測，受 AI 資料中心需求帶動，VCSEL 需求 2031 年達 6.5 億顆。"
+  },
+  "body": {
+   "en": "The chip equipment boom has a number: global spending on 300mm front-end fab equipment will hit $149 billion in 2026, up 31% from 2025, and keep climbing at double-digit rates to $227 billion by 2029, SEMI's Clark Tseng told the SEMICON West 2026 Market Symposium.\nWhat happened\nTseng, SEMI's Director of Industry Research and Statistics, presented the 300mm Fab Outlook showing sustained double-digit investment growth through 2029. In related show news, TrendForce projects VCSEL demand — lasers used in near-packaged optics for AI data-center interconnects — reaching 650 million units by 2031, and NVIDIA expanded its CUDA-X portfolio with the new cuPotential library for GPU-accelerated chip design simulation.\nWhy it matters\nThe judgment: $227B by 2029 is the industry's formal bet that AI capex is a multi-year cycle, not a spike. Equipment makers' order books are the earliest confirmation — or the earliest warning if the forecast breaks.\nSources agree / disagree\nSingle-outlet cluster (EE Times Asia) carrying SEMI and TrendForce figures. Trust label: 僅1源 — the numbers come from industry presentations via one outlet. No conflicts between the SEMI and TrendForce figures; they measure different things.\nStill uncertain\nForecasts are not orders; a 2029 number depends on AI demand holding for three more years. Verify against actual equipment bookings.",
+   "zh-TW": "晶片設備榮景有了一個數字：SEMI 產業研究暨統計總監曾瑞榆（Clark Tseng）在 SEMICON West 2026 市場研討會表示，全球 300mm 前段晶圓廠設備支出 2026 年將達 1490 億美元、年增 31%，並以雙位數成長一路攀升至 2029 年的 2270 億美元。\n發生了什麼事\n曾瑞榆發表 300mm 晶圓廠展望，顯示投資將以雙位數成長持續到 2029 年。同場相關消息：TrendForce 預測，用於 AI 資料中心近封裝光學互連的 VCSEL（垂直共振腔面射型雷射）需求，2031 年將達 6.5 億顆；NVIDIA 擴充 CUDA-X 軟體組合，新增 cuPotential 函式庫，以 GPU 加速晶片設計模擬。\n為什麼重要\n判斷很直接：2029 年 2270 億美元，是產業界正式押注 AI 資本支出是多年週期而非曇花一現。設備商的訂單是最初的確認訊號——如果預測失準，也會是最早的警訊。\n來源異同\n單一媒體集群（EE Times Asia），承載 SEMI 與 TrendForce 數字。信任標籤：僅1源——數字出自產業發表會經由單一媒體轉述。SEMI 與 TrendForce 的數字衡量的是不同東西，彼此無衝突。\n仍不確定\n預測不是訂單；2029 年的數字取決於 AI 需求再撐三年。請對照實際設備訂單驗證。"
+  },
+  "sources": [
+   {
+    "name": "EE Times Asia",
+    "url": "https://www.eetasia.com/trendforce-forecasts-vcsel-demand-to-reach-650-million-units-by-2031/"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 50,
+  "trustBreakdown": {
+   "sourceDiversity": 6,
+   "outletReputation": 10,
+   "crossCorroboration": 14,
+   "recencyClarity": 20
+  },
+  "tags": [
+   "semiconductor",
+   "live-ingest",
+   "ee-times-asia",
+   "ee-times-asia",
+   "ee-times-asia"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "SEMI",
+     "zh-TW": "SEMI"
+    },
+    "blurb": {
+     "en": "Global semiconductor industry association forecasting fab equipment spending.",
+     "zh-TW": "預測晶圓廠設備支出的全球半導體產業協會。"
+    }
+   },
+   {
+    "term": {
+     "en": "Clark Tseng",
+     "zh-TW": "曾瑞榆"
+    },
+    "blurb": {
+     "en": "SEMI Director of Industry Research and Statistics who presented the forecast.",
+     "zh-TW": "發表預測的 SEMI 產業研究暨統計總監。"
+    }
+   },
+   {
+    "term": {
+     "en": "TrendForce",
+     "zh-TW": "TrendForce"
+    },
+    "blurb": {
+     "en": "Market research firm forecasting VCSEL demand to 650M units by 2031.",
+     "zh-TW": "預測 VCSEL 需求 2031 年達 6.5 億顆的市調機構。"
+    }
+   },
+   {
+    "term": {
+     "en": "VCSEL",
+     "zh-TW": "VCSEL"
+    },
+    "blurb": {
+     "en": "Vertical-cavity surface-emitting laser used in AI data-center optical interconnects.",
+     "zh-TW": "用於 AI 資料中心光學互連的垂直共振腔面射型雷射。"
+    }
+   },
+   {
+    "term": {
+     "en": "NVIDIA",
+     "zh-TW": "輝達"
+    },
+    "blurb": {
+     "en": "US chipmaker expanding CUDA-X software for AI-driven chip design.",
+     "zh-TW": "擴充 CUDA-X 軟體支援 AI 晶片設計的美國晶片商。"
+    }
+   },
+   {
+    "term": {
+     "en": "EE Times Asia",
+     "zh-TW": "EE Times Asia"
+    },
+    "blurb": {
+     "en": "Electronics industry outlet carrying the SEMICON West coverage.",
+     "zh-TW": "報導 SEMICON West 的電子產業媒體。"
+    }
+   }
+  ]
+ },
+ {
+  "id": "live-semiconductor-02-zeus-gpu",
+  "category": "semiconductor",
+  "adult": false,
+  "isHeadline": false,
+  "isPopular": true,
+  "imageUrl": "/covers/live/live-semiconductor-02-zeus-gpu.png",
+  "imageAlt": {
+   "en": "Cover related to: 矽谷晶片新創布局科學運算　Zeus GPU將採台積電製程",
+   "zh-TW": "相關封面圖：矽谷晶片新創布局科學運算　Zeus GPU將採台積電製程"
+  },
+  "publishedAt": "2026-10-16T06:00:03.000Z",
+  "title": {
+   "en": "Bolt Graphics Seeks $100M at $700M Valuation for Zeus GPU on TSMC Process",
+   "zh-TW": "Bolt Graphics 募資 1 億美元、估值 7 億美元，Zeus GPU 將採台積電（TSMC）製程"
+  },
+  "summary": {
+   "en": "Silicon Valley startup Bolt Graphics is seeking about $100M at a roughly $700M valuation to build graphics chips rivaling Nvidia and AMD, CNA and TechNews report. Its Zeus GPU architecture has completed first-round testing and will use TSMC manufacturing, targeting scientific computing.",
+   "zh-TW": "矽谷晶片新創 Bolt Graphics 正尋求募資約 1 億美元、公司估值約 7 億美元，目標打造能與輝達（Nvidia）及超微（AMD）競爭的圖形處理晶片，中央社與科技新報報導。其 Zeus GPU 架構已完成首輪測試，將採台積電（TSMC）製程，主攻科學運算。"
+  },
+  "body": {
+   "en": "Another challenger is lining up against Nvidia: Silicon Valley chip startup Bolt Graphics is seeking about $100 million at a roughly $700 million valuation to develop graphics chips competitive with Nvidia and AMD, with its Zeus GPU architecture already through first-round testing and slated for TSMC manufacturing.\nWhat happened\nCNA (Taipei, Oct. 15) and TechNews report the same fundraising details from unnamed sources: ~$100M raise, ~$700M valuation, Zeus architecture aimed at scientific computing. Both outlets agree the chip will be built on TSMC process technology.\nWhy it matters\nThe judgment: $700M for a pre-revenue GPU startup is the market pricing in a simple bet — that AI-adjacent compute demand leaves room for a third player. TSMC as the foundry choice is the credibility anchor; without it, the valuation math doesn't work.\nSources agree / disagree\nCNA and TechNews report identical figures ($100M / $700M) and the same TSMC detail. Trust label: N源一致 on the numbers — two outlets, same sourced story, no conflicts.\nStill uncertain\nThe raise is not confirmed closed, Zeus's actual performance is unverified, and \"sources say\" fundraising stories sometimes describe aspirations rather than signed term sheets. Even funded, the road from first-round architecture tests to a shipping chip that competes with Nvidia typically takes years and burns far more than $100M. Watch for a confirmed close and named lead investors.",
+   "zh-TW": "又一家挑戰者排隊挑戰輝達：矽谷晶片新創 Bolt Graphics 正尋求募資約 1 億美元，公司估值約 7 億美元，目標開發能與輝達（Nvidia）及超微（AMD）競爭的圖形處理晶片；Zeus GPU 架構已完成首輪測試，將採台積電（TSMC）製程生產。\n發生了什麼事\n中央社（台北，10 月 15 日）與科技新報引述知情人士，報導相同的募資細節：募資約 1 億美元、估值約 7 億美元，Zeus 架構主攻科學運算。兩家都確認晶片將採台積電製程。\n為什麼重要\n判斷很簡單：還沒營收的 GPU 新創值 7 億美元，是市場在為一個簡單的押注定價——AI 相關算力需求容得下第三家玩家。選台積電代工是可信度的錨；沒有這一點，估值就撐不起來。\n來源異同\n中央社與科技新報數字完全一致（1 億美元／7 億美元），台積電細節也相同。信任標籤：N源一致——兩家媒體、同一消息來源故事，無衝突。\n仍不確定\n募資尚未確認完成，Zeus 實際效能未經證實；「知情人士」式的募資報導，有時描述的是期望而非已簽的投資條件書。"
+  },
+  "sources": [
+   {
+    "name": "TechNews 科技新報",
+    "url": "https://technews.tw/2026/10/16/silicon-valley-chip-startup-focuses-scientific-computing-zeus-gpu-utilize-tsmc-process/"
+   },
+   {
+    "name": "中央社-國際",
+    "url": "https://www.cna.com.tw/news/aopl/202610160087.aspx"
+   }
+  ],
+  "disagreements": null,
+  "trustScore": 64,
+  "trustBreakdown": {
+   "sourceDiversity": 14,
+   "outletReputation": 19,
+   "crossCorroboration": 6,
+   "recencyClarity": 25
+  },
+  "tags": [
+   "semiconductor",
+   "live-ingest",
+   "technews-科技新報",
+   "中央社-國際"
+  ],
+  "glossary": [
+   {
+    "term": {
+     "en": "Bolt Graphics",
+     "zh-TW": "Bolt Graphics"
+    },
+    "blurb": {
+     "en": "Silicon Valley chip startup developing the Zeus GPU.",
+     "zh-TW": "開發 Zeus GPU 的矽谷晶片新創。"
+    }
+   },
+   {
+    "term": {
+     "en": "Zeus GPU",
+     "zh-TW": "Zeus GPU"
+    },
+    "blurb": {
+     "en": "Bolt Graphics' graphics processor architecture for scientific computing.",
+     "zh-TW": "Bolt Graphics 主攻科學運算的圖形處理器架構。"
+    }
+   },
+   {
+    "term": {
+     "en": "TSMC",
+     "zh-TW": "台積電"
+    },
+    "blurb": {
+     "en": "Taiwanese foundry slated to manufacture the Zeus chip.",
+     "zh-TW": "將代工生產 Zeus 晶片的台灣晶圓廠。"
+    }
+   },
+   {
+    "term": {
+     "en": "Nvidia",
+     "zh-TW": "輝達"
+    },
+    "blurb": {
+     "en": "US chipmaker whose graphics chips Zeus aims to rival.",
+     "zh-TW": "Zeus 目標競爭的美國晶片商。"
+    }
+   },
+   {
+    "term": {
+     "en": "中央社",
+     "zh-TW": "中央社"
+    },
+    "blurb": {
+     "en": "Taiwan's national news agency reporting the fundraising.",
+     "zh-TW": "報導募資消息的台灣國家通訊社。"
+    }
+   },
+   {
+    "term": {
+     "en": "科技新報",
+     "zh-TW": "科技新報"
+    },
+    "blurb": {
+     "en": "Taiwanese tech news outlet reporting the same story.",
+     "zh-TW": "報導同一消息的台灣科技媒體。"
+    }
+   }
+  ]
  }
 ]
