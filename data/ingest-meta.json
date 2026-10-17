@@ -1,25 +1,25 @@
 {
-  "ingestedAt": "2026-10-17T05:54:04.438Z",
+  "ingestedAt": "2026-10-16T06:08:00Z",
   "feedOk": 120,
   "feedTotal": 128,
-  "rawItems": 1035,
-  "mainStories": 98,
+  "rawItems": 1034,
+  "mainStories": 73,
   "byCategory": {
-    "finance": 14,
-    "semiconductor": 12,
+    "finance": 10,
+    "semiconductor": 8,
     "taiwan": 7,
-    "eastAsiaGossip": 13,
-    "international": 15,
-    "entertainment": 8,
+    "eastAsiaGossip": 12,
+    "international": 11,
+    "entertainment": 6,
     "shopping": 1,
-    "biotech": 6,
-    "energy": 4,
-    "us": 5,
-    "tech": 7,
-    "ai": 6
+    "biotech": 4,
+    "energy": 2,
+    "us": 3,
+    "tech": 6,
+    "ai": 3
   },
   "eastAsiaByRegion": {
-    "tw": 13
+    "tw": 12
   },
   "heatSourcesShipped": [
     "ptt",
@@ -32,9 +32,11 @@
     "高品質粉絲追",
     "長輩迷過的歌"
   ],
-  "heatNewsInjected": 34,
+  "heatNewsInjected": 36,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat"
+  "mode": "extractive+translate+rss+heat",
+  "rewrittenAt": "2026-10-16T16:15:00Z",
+  "rewrittenBy": "bebo-backup-manual"
 }
