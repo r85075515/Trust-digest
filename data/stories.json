@@ -10325,16 +10325,16 @@
     },
     "publishedAt": "2026-10-17T21:31:32.000Z",
     "title": {
-      "en": "Meta removes language that raised scraping and AI training concerns",
-      "zh-TW": "Meta 刪除了引起抓取和人工智慧訓練問題的語言"
+      "en": "Meta Walks Back Terms Language That Suggested It Could Scrape Sites for AI Training",
+      "zh-TW": "Meta（Meta）收回條款用語：曾暗示可抓取網站內容訓練 AI"
     },
     "summary": {
-      "en": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "zh-TW": "Meta 發言人堅稱，更新的條款並不反映 Meta 抓取網路方式的變化。"
+      "en": "Meta is revising its commercial terms again to remove language suggesting it could scrape content from websites, including news sites, to train its AI. The company insists the change does not reflect a shift in how it crawls the web, but businesses using Facebook commercially may want to rethink what they share online.",
+      "zh-TW": "Meta 再次修改商業條款，刪除暗示可從網站（含新聞網站）抓取內容來訓練 AI 的用語。公司堅稱這不代表網路爬取方式有變，但把臉書當生意工具的企業，恐怕得重新想想自己在網路上分享了什麼。"
     },
     "body": {
-      "en": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web. What happened\nMeta removes language that raised scraping and AI training concerns. A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web. After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page : … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of, the Meta Comp Businesses using Facebook commercially may want to think twice about what information they share online. At the end of the month, Meta plans to introduce terms that would authorize it to collect content from websites associated with its business customers and use it to train AI models or otherwise improve its products. The ad biz has revised its commercial terms of service, and the new contractual Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (TechCrunch, The Verge, The Register) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Meta removes language that raised scraping and AI training concerns\" (TechCrunch); \"Meta removes language that may have allowed it to scrape news sites\" (The Verge); \"Meta grants itself right to scrape content from business customers for model training\" (The Register).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechCrunch, The Verge, The Register",
-      "zh-TW": "Meta 發言人堅稱，更新的條款並不反映 Meta 抓取網路方式的變化。 發生了什麼事\nMeta 刪除了引起抓取和人工智慧訓練問題的語言。 Meta 發言人堅稱，更新的條款並不反映 Meta 抓取網路方式的變化。在強烈反對之後，Meta 再次更新了其條款，刪除了暗示它可以從包括新聞網站在內的網站上抓取內容來訓練人工智慧的語言。具體來說，以下語言不再出現在商業條款頁面上：…Meta 可以使用此類網域、網頁或 URL 中的任何內容來提供、開發、改進、研究、培訓和維護 Meta Comp 的完整性。使用 Facebook 進行商業用途的企業可能需要三思而行，考慮他們在線上分享哪些資訊。 Meta 計劃在本月底引入條款，授權其從與其商業客戶相關的網站收集內容，並用其來訓練人工智慧模型或以其他方式改進其產品。廣告業修改了其商業服務條款，新的合同 為什麼這很重要\n此集群由半導體類別中 3 個管道（TechCrunch、The Verge、The Register）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「Meta 刪除了引起抓取和人工智慧培訓問題的語言」（TechCrunch）；「Meta 刪除了可能允許其抓取新聞網站的語言」（The Verge）； 「Meta 授予自己從商業客戶那裡獲取內容以進行模型訓練的權利」（The Register）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（限媒體名稱）：TechCrunch、The Verge、The Register"
+      "en": "Meta is rewriting its commercial terms for the second time in a matter of weeks, this time to strip out language that appeared to give it the right to scrape content from websites — including news sites — and use it to train its AI models.\nWhat happened\nTechCrunch, The Verge and The Register all describe the same sequence. The disputed wording sat on Meta's commercial terms page and suggested that ‘Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of’ its business products. After the backlash, Meta is removing that language. A company spokesperson insisted the update does not reflect any change in how Meta crawls the web. The Register had earlier framed the original wording as Meta granting itself the right to scrape content from its business customers for model training, and reported that Meta plans to introduce new terms at the end of the month authorizing it to collect content from websites associated with its business customers to train AI models or otherwise improve its products.\nWhy it matters\nThe episode shows how sensitive the legal fine print around AI training data has become: a single terms-of-service clause — real or perceived — can trigger a backlash the moment it touches publishers' content. For businesses that depend on Facebook commercially, the practical lesson is caution: think twice about what information ends up online when the platform's rules keep shifting.\nSources agree / disagree\nAll three outlets describe the same events in the same order, with no factual conflicts. Trust label: N源一致 — three tech outlets agree on the terms change and the company's response.\nStill uncertain\nThe snippets cover the disputed wording, not the full text of the new terms Meta plans to introduce at month's end. What those terms will actually authorize remains unknown; verify details in the full reporting before quoting specifics.",
+      "zh-TW": "Meta 再次動手修改商業條款：不久前才寫進去的文字，因為暗示公司可以從網站（含新聞網站）抓取內容來訓練 AI，引發反彈後，現在又要被刪掉了。\n發生了什麼事\nTechCrunch、The Verge、The Register 三家都報導了同一件事。爭議的文字出現在 Meta 的商業條款頁面上，大意是：Meta 可以使用這類網域、網頁或連結中的任何內容，來提供、開發、改善、研究、訓練自家商業產品並維護其完整性。反彈出現後，Meta 決定把這段文字拿掉。一位 Meta 發言人堅稱，條款更新不代表公司抓取網路的方式有任何改變。The Register 早前的報導則把原始文字解讀為 Meta 授權自己從商業客戶的網站抓取內容做模型訓練，並指出 Meta 計畫在月底推出新條款，授權從商業客戶相關網站蒐集內容來訓練 AI 模型或改善產品。\n為什麼重要\n連服務條款裡的一句話都會引爆反彈，說明 AI 訓練資料的法律邊界現在有多敏感。對把臉書當生意工具的企業來說，實際的教訓很直接：在平台規則不斷變動的情況下，分享到網路上的資訊要三思。\n來源異同\n三家科技媒體描述的事件順序一致：爭議文字出現、引發反彈、Meta 刪除，沒有事實衝突。信任標籤：N源一致——三家對條款變動與公司回應的報導一致。\n仍不確定\n摘要只呈現了條款文字的爭議，沒有月底新條款的完整內容。Meta 到底會推出什麼樣的新授權條款，目前未知；引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -10364,6 +10364,58 @@
       "techcrunch",
       "the-verge",
       "the-register"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Meta",
+          "zh-TW": "Meta"
+        },
+        "blurb": {
+          "en": "US tech company and parent of Facebook, revising its commercial terms.",
+          "zh-TW": "美國科技公司，臉書母公司，本次修改商業條款者。"
+        }
+      },
+      {
+        "term": {
+          "en": "Facebook",
+          "zh-TW": "臉書"
+        },
+        "blurb": {
+          "en": "Meta's social platform used commercially by businesses.",
+          "zh-TW": "Meta 旗下的社群平台，被企業當生意工具使用。"
+        }
+      },
+      {
+        "term": {
+          "en": "TechCrunch",
+          "zh-TW": "TechCrunch"
+        },
+        "blurb": {
+          "en": "US technology news outlet covering the terms change.",
+          "zh-TW": "美國科技新聞媒體，報導本次條款變動。"
+        }
+      },
+      {
+        "term": {
+          "en": "The Verge",
+          "zh-TW": "The Verge"
+        },
+        "blurb": {
+          "en": "US technology news outlet covering the terms change.",
+          "zh-TW": "美國科技新聞媒體，報導本次條款變動。"
+        }
+      },
+      {
+        "term": {
+          "en": "The Register",
+          "zh-TW": "The Register"
+        },
+        "blurb": {
+          "en": "UK technology news outlet covering the terms change.",
+          "zh-TW": "英國科技新聞媒體，報導本次條款變動。"
+        }
+      }
     ]
   },
   {
@@ -10379,16 +10431,16 @@
     },
     "publishedAt": "2026-10-17T16:39:44.000Z",
     "title": {
-      "en": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
-      "zh-TW": "5 個中期資金要點：民主黨擁有候選人現金。共和黨人有伊隆·馬斯克"
+      "en": "Elon Musk Anchors the Midterm Money Map: Democrats Outraise GOP Candidates",
+      "zh-TW": "馬斯克（Elon Musk）主導期中選舉金流：民主黨候選人募款勝過共和黨"
     },
     "summary": {
-      "en": "Democrats outraise Republicans in key Congress races as Elon Musk funds Ken Paxton in Texas and GOP groups aligned with Trump.",
-      "zh-TW": "隨著馬斯克（Elon Musk）資助德克薩斯州的肯·帕克斯頓（Ken Paxton）和與川普結盟的共和黨團體，民主黨在關鍵的國會競選中擊敗了共和黨。"
+      "en": "Democrats are outraising Republicans in key congressional races, while Elon Musk is bankrolling Ken Paxton in Texas and Trump-aligned GOP groups. Separately, Musk has settled lawsuits over his 2024 promise to give $1 million a day to swing-state voters — though the settlement terms were not disclosed.",
+      "zh-TW": "民主黨在關鍵國會選區的募款勝過共和黨，而馬斯克則資助德州的帕克斯頓（Ken Paxton）與親川普的共和黨團體。另一方面，馬斯克已就 2024 年「每天送 100 萬美元給搖擺州選民」的承諾相關訴訟達成和解，和解條件未公開。"
     },
     "body": {
-      "en": "Democrats outraise Republicans in key Congress races as Elon Musk funds Ken Paxton in Texas and GOP groups aligned with Trump. What happened\n5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk. Democrats outraise Republicans in key Congress races as Elon Musk funds Ken Paxton in Texas and GOP groups aligned with Trump. In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in Austin, Texas, though the details of the settlement have not been made public. T Polls show that Democrats and Republicans in battleground states want to hear more from candidates about the climate crisis Most Americans feel unease or alarm about the climate crisis and, in both red and blue states, want to know how political leaders are going to fix it. But in midterm election campaigns across the US, candidates have responded to this desire with near silence. People in the US Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (CNBC, The Verge, The Guardian Environment) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk\" (CNBC); \"Elon Musk settles lawsuits over $1 million voter giveaway\" (The Verge); \"US voters want more action on global heating. Why are Democrats and Republicans staying silent?\" (The Guardian Environment).\nFigures differ across outlets (e.g. 5 vs 1 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): CNBC, The Verge, The Guardian Environment",
-      "zh-TW": "隨著馬斯克（Elon Musk）資助德克薩斯州的肯·帕克斯頓（Ken Paxton）和與川普結盟的共和黨團體，民主黨在關鍵的國會競選中擊敗了共和黨。 發生了什麼事\n5 個中期資金要點：民主黨擁有候選人現金。共和黨有伊隆·馬斯克。隨著馬斯克（Elon Musk）資助德克薩斯州的肯·帕克斯頓（Ken Paxton）和與川普結盟的共和黨團體，民主黨在關鍵的國會競選中擊敗了共和黨。 2024 年，馬斯克承諾每天向搖擺州隨機選擇的登記選民捐贈 100 萬美元。這引發了法律挑戰，引發了對其合法性的質疑，並引起了兩名亞利桑那州居民的訴訟，聲稱該彩票是欺詐行為。馬斯克現已同意和解在德克薩斯州奧斯汀提起的兩起訴訟，但和解細節尚未公開。 T 民調顯示，戰場州的民主黨人和共和黨人希望聽到候選人更多地談論氣候危機。大多數美國人對氣候危機感到不安或震驚，無論是紅州還是藍州，都想知道政治領導人將如何解決這個問題。但在美國各地的中期選舉活動中，候選人對這項願望的回應近乎沉默。在美國的人 為什麼這很重要\n此集群由金融類別中 3 個媒體（CNBC、The Verge、The Guardian Environment）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：“中期選舉的 5 個要點：民主黨有候選人現金。共和黨有埃隆·馬斯克”(CNBC)；“埃隆·馬斯克就 100 萬美元選民贈品訴訟達成和解”（The Verge）； “美國選民希望對全球變暖採取更多行動。為什麼民主黨和共和黨保持沉默？” （衛報環境？” （為什麼民主黨衛報）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 5 比 1）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：CNBC、The Verge、The Guardian Environment"
+      "en": "Midterm money is being reshuffled: Democratic candidates are outraising Republicans in the key races, but the GOP side has the country's richest donor — Elon Musk — writing the big checks.\nWhat happened\nCNBC's five midterm-money takeaways show Democrats outraising Republicans in key congressional contests, while Musk funds Ken Paxton in Texas and Trump-aligned GOP groups. The Verge reports on a separate Musk money saga: his 2024 promise to give $1 million a day to a randomly selected registered voter in a swing state, which drew legal challenges and lawsuits from two Arizona residents who called the lottery a fraud. Musk has now agreed to settle those two suits in Austin, Texas, though the settlement details were not made public. The Guardian's environment desk takes a different angle on the campaign season: polls show voters in red and blue states alike want to hear more from candidates about the climate crisis, but midterm candidates across the country have answered that demand with near-total silence.\nWhy it matters\nWhere the money flows shapes how campaigns are fought. Democrats are leaning on their candidates' own fundraising machines, while Republicans increasingly depend on a single mega-donor — giving one man's priorities outsized influence over the race. Meanwhile, the issue voters say alarms them most is missing from the campaign trail, a gap between donor priorities and voter anxieties worth watching.\nSources agree / disagree\nThe three outlets cover different storylines — CNBC on the overall money map, The Verge on Musk's settled lawsuits, the Guardian on climate silence — with no factual conflicts but no cross-confirmation either. Trust label: 主題拼盤 — same midterm theme, different storylines, details not cross-verified.\nStill uncertain\nThe settlement terms were not disclosed, and Musk's total midterm spending is unknown. The full climate-poll data is also absent from the snippets; verify details in the full reporting before quoting specifics.",
+      "zh-TW": "期中選舉的錢正在重新洗牌：民主黨候選人在關鍵選區的募款壓過共和黨，但共和黨那一邊有全美最有錢的金主——馬斯克在開大額支票。\n發生了什麼事\nCNBC 整理了五個期中選舉金流要點：民主黨在關鍵國會選戰中募款勝出；馬斯克則把錢砸向德州的帕克斯頓（Ken Paxton）以及與川普結盟的共和黨團體。The Verge 報導了另一條跟馬斯克有關的金流舊案：2024 年他承諾每天隨機送 100 萬美元給搖擺州的登記選民，引發法律挑戰，兩名亞利桑那州居民提告指控這場抽獎是詐欺；馬斯克現已同意在德州奧斯汀和解這兩起訴訟，但和解細節沒有公開。衛報環境線則從另一個角度切入選戰：民調顯示紅藍州選民都想聽到候選人多談氣候危機，但全美中期選戰的候選人對此幾乎集體沉默。\n為什麼重要\n錢的流向決定選戰的打法。民主黨靠候選人本身的募款機器，共和黨則越來越依賴馬斯克這種超級金主個人——這讓單一金主的意志可以直接左右選戰議題。同時，選民最焦慮的氣候議題在選戰中缺席，說明金流和議題設定之間出現了落差。\n來源異同\n三家報導分屬不同的事件線：CNBC 談整體金流版圖，The Verge 談馬斯克舊訴訟和解，衛報談氣候議題在選戰中的沉默；彼此沒有事實衝突，但細節也沒有互相印證。信任標籤：主題拼盤——同屬期中選舉話題，但各自聚焦不同事件線。\n仍不確定\n和解金額與條件都沒有公開，馬斯克在這次期中選舉的實際總投入也未知。氣候民調的完整數據同樣不在摘要中；引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -10421,6 +10473,68 @@
       "cnbc",
       "the-verge",
       "the-guardian-environment"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Elon Musk",
+          "zh-TW": "馬斯克"
+        },
+        "blurb": {
+          "en": "Tesla and SpaceX chief executive, the GOP side's mega-donor this cycle.",
+          "zh-TW": "特斯拉與 SpaceX 執行長，本次選舉共和黨陣營的主要金主。"
+        }
+      },
+      {
+        "term": {
+          "en": "Ken Paxton",
+          "zh-TW": "肯·帕克斯頓"
+        },
+        "blurb": {
+          "en": "Texas politician backed by Musk's money.",
+          "zh-TW": "德州政治人物，獲馬斯克資助。"
+        }
+      },
+      {
+        "term": {
+          "en": "Donald Trump",
+          "zh-TW": "川普"
+        },
+        "blurb": {
+          "en": "US president; GOP groups aligned with him receive Musk funding.",
+          "zh-TW": "美國總統；親川普的共和黨團體獲馬斯克資助。"
+        }
+      },
+      {
+        "term": {
+          "en": "CNBC",
+          "zh-TW": "CNBC"
+        },
+        "blurb": {
+          "en": "US financial news outlet behind the five money takeaways.",
+          "zh-TW": "美國財經新聞媒體，五個金流要點的出處。"
+        }
+      },
+      {
+        "term": {
+          "en": "The Verge",
+          "zh-TW": "The Verge"
+        },
+        "blurb": {
+          "en": "US tech news outlet reporting the Musk lawsuit settlement.",
+          "zh-TW": "美國科技新聞媒體，報導馬斯克訴訟和解。"
+        }
+      },
+      {
+        "term": {
+          "en": "The Guardian",
+          "zh-TW": "衛報"
+        },
+        "blurb": {
+          "en": "UK newspaper; its environment desk covered climate silence on the trail.",
+          "zh-TW": "英國主流報紙；其環境線報導選戰中的氣候沉默。"
+        }
+      }
     ]
   },
   {
@@ -10436,16 +10550,16 @@
     },
     "publishedAt": "2026-10-17T23:40:11.000Z",
     "title": {
-      "en": "Arizona Joins Lawsuit Challenging the Federal Government’s Plan for the Colorado River",
-      "zh-TW": "亞利桑那州加入訴訟，挑戰聯邦政府的科羅拉多河計劃"
+      "en": "Arizona Joins Nevada in Suing Over Federal Colorado River Water Cuts",
+      "zh-TW": "亞利桑那州（Arizona）加入內華達州：為科羅拉多河減水計畫槓上聯邦政府"
     },
     "summary": {
-      "en": "Arizona alleges that a plan for Lower Colorado River Basin states to shoulder water cuts would devastate its economy. By Wyatt Myskow The Arizona Department of Water Resources filed a motion Friday to join in a lawsui…",
-      "zh-TW": "亞利桑那州聲稱，科羅拉多河流域下游各州承擔減水計畫將摧毀該州的經濟。作者：Wyatt Myskow 亞利桑那州水資源部週五提出一項動議，要求加入訴訟…"
+      "en": "Arizona's water department has moved to join a lawsuit against the federal government's plan for Colorado River operations over the next decade, arguing that forcing Lower Basin states to absorb the water cuts would devastate the state's economy. The state is joining Nevada's legal battle against the Trump administration's proposed cuts.",
+      "zh-TW": "亞利桑那州水資源部已提出動議，要加入針對聯邦政府科羅拉多河十年營運計畫的訴訟，主張要下游各州承擔減水會摧毀該州經濟。該州加入了內華達州對川普政府減水提案的法律戰。"
     },
     "body": {
-      "en": "Arizona alleges that a plan for Lower Colorado River Basin states to shoulder water cuts would devastate its economy. By Wyatt Myskow The Arizona Department of Water Resources filed a motion Friday to join in a lawsuit against the federal government’s plan for Colorado River oper What happened\nArizona Joins Lawsuit Challenging the Federal Government’s Plan for the Colorado River. Arizona alleges that a plan for Lower Colorado River Basin states to shoulder water cuts would devastate its economy. By Wyatt Myskow The Arizona Department of Water Resources filed a motion Friday to join in a lawsuit against the federal government’s plan for Colorado River operations over the next 10 years. Move comes after Trump administration announced restrictions that could slash water supplies Arizona has joined Nevada in its legal battle against the Trump administration’s proposed cuts to their shares of the shrinking Colorado River. The move comes after the interior department announced restrictions this summer that could slash the water supplied to lower basin states – Arizona, California and Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (Inside Climate News, The Guardian Environment) in the energy category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Arizona Joins Lawsuit Challenging the Federal Government’s Plan for the Colorado River\" (Inside Climate News); \"Arizona joins Nevada to fight proposed cuts to their shares of Colorado River\" (The Guardian Environment).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Inside Climate News, The Guardian Environment",
-      "zh-TW": "亞利桑那州聲稱，科羅拉多河流域下游各州承擔減水計畫將摧毀該州的經濟。亞利桑那州水資源部週五提出一項動議，要求加入針對聯邦政府科羅拉多河運營計劃的訴訟 發生了什麼事\n亞利桑那州加入訴訟，挑戰聯邦政府的科羅拉多河計畫。亞利桑那州聲稱，科羅拉多河流域下游各州承擔減水計畫將摧毀該州的經濟。作者：Wyatt Myskow 亞利桑那州水資源部週五提出一項動議，要求加入聯邦政府未來 10 年科羅拉多河運營計劃的訴訟。在此之前，川普政府宣布了可能削減供水的限制措施，亞利桑那州已加入內華達州的行列，對川普政府削減其在不斷萎縮的科羅拉多河份額的提議進行法律訴訟。在此之前，內政部今年夏天宣布了限制措施，可能會削減流域下游州（亞利桑那州、加利福尼亞州和加利福尼亞州）的供水量。 為什麼這很重要\n此集群由能源類別中 2 個管道（《內部氣候新聞》、《衛報環境》）的 2 個飼料項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「亞利桑那州加入訴訟，挑戰聯邦政府的科羅拉多河計劃」（《氣候新聞內部》）； “亞利桑那州與內華達州一起反對削減科羅拉多河份額的提議”（衛報環境報）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（限媒體名稱）：氣候新聞內部、衛報環境"
+      "en": "The water war in the American Southwest is heading to court: Arizona has formally moved to join a lawsuit challenging the federal plan to make Lower Basin states absorb cuts to Colorado River water.\nWhat happened\nThe Arizona Department of Water Resources filed a motion Friday to join litigation against the federal government's plan for Colorado River operations over the next 10 years, reports Inside Climate News journalist Wyatt Myskow. Arizona argues that forcing the Lower Colorado River Basin states to shoulder the water cuts would devastate its economy. The move follows restrictions announced this summer by the Trump administration: Interior Department measures that could slash water supplies to the lower basin states, including Arizona and California. The Guardian's version frames it as Arizona joining Nevada's legal battle against the proposed cuts to their shares of the shrinking river.\nWhy it matters\nThe Colorado River sustains tens of millions of people across the Southwest; how its shrinking flow is divided decides the fate of farms, cities and whole regional economies. States suing the federal government outright signals that negotiations have failed — the next decade of water rules may end up being written by a court.\nSources agree / disagree\nBoth outlets agree on the core facts — Arizona's motion to join the suit, the challenge to the federal cut plan, the alliance with Nevada — with no factual conflicts. Trust label: 2源一致 — both outlets agree on the legal motion and the economic-harm claim.\nStill uncertain\nThe snippets carry no specifics on what the suit seeks, its timeline, or the federal response, and no exact cut figures; verify details in the full reporting before quoting specifics.",
+      "zh-TW": "美國西南部的水戰開打了：亞利桑那州正式加入訴訟，挑戰聯邦政府要下游各州吞下科羅拉多河減水的計畫。\n發生了什麼事\n亞利桑那州水資源部上週五提出動議，加入針對聯邦政府未來十年科羅拉多河營運計畫的訴訟（Inside Climate News 記者懷亞特·米斯考（Wyatt Myskow）報導）。亞利桑那州主張，要科羅拉多河流域下游各州承擔減水，將摧毀該州經濟。此舉接在川普政府今年夏天宣布限制措施之後——內政部的限制可能大砍下游各州（亞利桑那、加州等地）的供水。衛報的版本則強調，亞利桑那州是加入內華達州的行列，一起對抗聯邦削減兩州在日益縮水的科羅拉多河中配額的提案。\n為什麼重要\n科羅拉多河養活美國西南部數千萬人，配額怎麼切直接決定各州的農業、城市用水與經濟命脈。州政府直接槓上聯邦，代表協商桌上談不攏，未來十年的用水規則可能要由法院來寫。\n來源異同\n兩家媒體對核心事實一致：亞利桑那州加入訴訟、挑戰聯邦減水計畫、與內華達州站在同一陣線，沒有事實衝突。信任標籤：2源一致——兩家對訴訟動議與經濟衝擊主張的報導一致。\n仍不確定\n摘要沒有訴訟的具體求償內容、時程，也沒有聯邦政府的回應。減水幅度的確切數字同樣不在摘要中；引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -10470,6 +10584,68 @@
       "live-ingest",
       "inside-climate-news",
       "the-guardian-environment"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Arizona",
+          "zh-TW": "亞利桑那州"
+        },
+        "blurb": {
+          "en": "Southwestern US state and Lower Basin water user suing over the cuts.",
+          "zh-TW": "美國西南部州，科羅拉多河下游用水州，本次提告方。"
+        }
+      },
+      {
+        "term": {
+          "en": "Colorado River",
+          "zh-TW": "科羅拉多河"
+        },
+        "blurb": {
+          "en": "Major water source for the American Southwest at the center of the dispute.",
+          "zh-TW": "美國西南部主要水源，本次爭議的核心。"
+        }
+      },
+      {
+        "term": {
+          "en": "Nevada",
+          "zh-TW": "內華達州"
+        },
+        "blurb": {
+          "en": "State whose legal battle against the cuts Arizona is joining.",
+          "zh-TW": "與亞利桑那州並肩提告的州。"
+        }
+      },
+      {
+        "term": {
+          "en": "Wyatt Myskow",
+          "zh-TW": "懷亞特·米斯考"
+        },
+        "blurb": {
+          "en": "Climate journalist who reported Arizona's court motion.",
+          "zh-TW": "氣候新聞記者，本案報導作者。"
+        }
+      },
+      {
+        "term": {
+          "en": "Inside Climate News",
+          "zh-TW": "Inside Climate News"
+        },
+        "blurb": {
+          "en": "US nonprofit climate news outlet.",
+          "zh-TW": "美國氣候新聞非營利媒體。"
+        }
+      },
+      {
+        "term": {
+          "en": "The Guardian",
+          "zh-TW": "衛報"
+        },
+        "blurb": {
+          "en": "UK newspaper covering Arizona's alliance with Nevada.",
+          "zh-TW": "英國主流報紙，報導亞利桑那州與內華達州結盟。"
+        }
+      }
     ]
   },
   {
@@ -10485,16 +10661,16 @@
     },
     "publishedAt": "2026-10-18T00:00:00.000Z",
     "title": {
-      "en": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-      "zh-TW": "皮克敏 4 優惠 20 美元，任天堂 Switch 2 更新售價 10 美元"
+      "en": "Pikmin 4 Drops to $39.88 at Walmart Ahead of Its $10 Switch 2 Update",
+      "zh-TW": "任天堂（Nintendo）《皮克敏4》沃爾瑪數位版降至39.88美元：Switch 2 十美元更新在即"
     },
     "summary": {
-      "en": "Pikmin preparing to do battle with a Bulborb | Image: Nintendo If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital deliv…",
-      "zh-TW": "皮克敏準備與燈泡戰鬥 |圖片：任天堂 如果你想知道這個週末玩什麼視頻遊戲，我的同事希娜·瓦薩尼 (Sheena Vasani) 發現了一款帶有即時數字交付功能的打折任天堂 Switch 遊戲…"
+      "en": "Walmart has cut the digital version of Pikmin 4 for the Nintendo Switch to $39.88 — about $20 below its usual price — just ahead of a $10 Nintendo Switch 2 upgrade. The Verge's Sheena Vasani flags it as a weekend pick with instant digital delivery.",
+      "zh-TW": "沃爾瑪把 Switch 版《皮克敏4》數位版砍到 39.88 美元，比平常便宜約 20 美元，時機就在 10 美元的 Switch 2 升級版推出之前。The Verge 記者瓦薩尼（Sheena Vasani）點名這是本週末值得入手的選擇，數位版可即時下載。"
     },
     "body": {
-      "en": "Pikmin preparing to do battle with a Bulborb | Image: Nintendo If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch dis What happened\nPikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update. Pikmin preparing to do battle with a Bulborb | Image: Nintendo If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle formula as Your Nintendo Switch 2 is made to project its display to a TV. If it's not working, there are some things you should check. Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (The Verge, Engadget) in the tech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update\" (The Verge); \"What to check if your Nintendo Switch 2 isn't connecting to the TV\" (Engadget).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Verge, Engadget",
-      "zh-TW": "皮克敏準備與燈泡戰鬥 |圖片：任天堂 如果你想知道這個週末玩什麼視頻遊戲，我的同事希娜·瓦薩尼 (Sheena Vasani) 發現了一款帶有即時數字交付功能的打折任天堂 Switch 遊戲。沃爾瑪有 Switch 版《皮克敏 4》數位版 發生了什麼事\n《Pikmin 4》在 Nintendo Switch 2 更新之前可享 20 美元的折扣，售價為 10 美元。皮克敏準備與燈泡戰鬥 |圖片：任天堂 如果你想知道這個週末玩什麼視頻遊戲，我的同事希娜·瓦薩尼 (Sheena Vasani) 發現了一款帶有即時數字交付功能的打折任天堂 Switch 遊戲。沃爾瑪將 Switch 版《皮克敏 4》數位版折扣至 39.88 美元，比平常價格低了 20 多美元。該版本的遊戲遵循與您的 Nintendo Switch 2 相同的謎題公式，旨在將其顯示投射到電視上。如果它不起作用，您應該檢查一些事情。 為什麼這很重要\n此集群由科技類別中 2 個管道（The Verge、Engadget）的 2 個 Feed 項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「Pikmin 4 在其 10 美元的 Nintendo Switch 2 更新之前優惠了 20 美元」（The Verge）；「如果您的 Nintendo Switch 2 未連接到電視，應檢查什麼」（Engadget）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限頻道名稱）：The Verge、Engadget"
+      "en": "Wondering what to play this weekend? Walmart may have just decided for you: the digital edition of Pikmin 4 is $20 cheaper right now.\nWhat happened\nThe Verge's Sheena Vasani spotted the deal: Walmart has discounted the digital version of Pikmin 4 for the Nintendo Switch to $39.88, more than $20 below its usual price, with instant digital delivery. The timing is no accident — Nintendo is about to release a $10 Switch 2 update for the game. The other item in this cluster, from Engadget, is an unrelated how-to: what to check if your Nintendo Switch 2 won't connect to a TV.\nWhy it matters\nThis is the classic clear-the-old-stock playbook: discount the current version right before a paid upgrade arrives, moving inventory while priming the installed base for the new hardware. For players, it's the cheapest path — buy low now, upgrade for a small fee later.\nSources agree / disagree\nThe deal itself comes only from The Verge; Engadget's piece is an unrelated troubleshooting guide, so nothing is cross-confirmed. Trust label: 主題拼盤 — single-source deal news, the other item is an unrelated how-to.\nStill uncertain\nThe snippets give no end date for the sale and no exact launch date for the Switch 2 update; check Walmart and Nintendo's official pages before buying.",
+      "zh-TW": "想好這個週末玩什麼了嗎？沃爾瑪先幫你決定了：《皮克敏4》數位版直接便宜 20 美元。\n發生了什麼事\nThe Verge 記者席娜·瓦薩尼（Sheena Vasani）發現，沃爾瑪把 Switch 版《皮克敏4》數位版降到 39.88 美元，比平常價格低了 20 多美元，數位版可即時下載。降價的時機點很巧：任天堂即將為這款遊戲推出 10 美元的 Switch 2 更新版。同一集群裡 Engadget 的文章則是另一回事——教你 Switch 2 接電視沒畫面時該檢查什麼，跟促銷本身無關。\n為什麼重要\n這是典型的「舊版出清＋新版鋪路」：在付費升級到來之前先把舊版價格打下來，既清庫存也幫新主機衝裝機量。對玩家來說，現在是便宜入手、之後再花小錢升級的最划算時機。\n來源異同\n促銷消息只來自 The Verge；Engadget 的文章是 Switch 2 疑難排解教學，與折扣無關，兩者沒有互相印證。信任標籤：主題拼盤——折扣情報單一來源，另一篇是無關的教學文。\n仍不確定\n摘要沒有說促銷到什麼時候結束，也沒有 Switch 2 更新版的確切上線日期；下單前請以沃爾瑪與任天堂官方頁面為準。"
     },
     "sources": [
       {
@@ -10519,6 +10695,68 @@
       "live-ingest",
       "the-verge",
       "engadget"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Nintendo",
+          "zh-TW": "任天堂"
+        },
+        "blurb": {
+          "en": "Japanese game company behind the Pikmin series.",
+          "zh-TW": "日本遊戲公司，《皮克敏》系列開發商。"
+        }
+      },
+      {
+        "term": {
+          "en": "Pikmin 4",
+          "zh-TW": "《皮克敏4》"
+        },
+        "blurb": {
+          "en": "Nintendo's strategy-puzzle game, now discounted.",
+          "zh-TW": "任天堂的策略解謎遊戲，本次降價主角。"
+        }
+      },
+      {
+        "term": {
+          "en": "Walmart",
+          "zh-TW": "沃爾瑪"
+        },
+        "blurb": {
+          "en": "US retail chain offering the discounted digital edition.",
+          "zh-TW": "美國連鎖零售商，本次促銷通路。"
+        }
+      },
+      {
+        "term": {
+          "en": "Sheena Vasani",
+          "zh-TW": "席娜·瓦薩尼"
+        },
+        "blurb": {
+          "en": "The Verge reporter who spotted the deal.",
+          "zh-TW": "The Verge 記者，折扣情報發現者。"
+        }
+      },
+      {
+        "term": {
+          "en": "The Verge",
+          "zh-TW": "The Verge"
+        },
+        "blurb": {
+          "en": "US tech news outlet reporting the deal.",
+          "zh-TW": "美國科技新聞媒體，報導本次折扣。"
+        }
+      },
+      {
+        "term": {
+          "en": "Engadget",
+          "zh-TW": "Engadget"
+        },
+        "blurb": {
+          "en": "US tech news outlet; its item here is an unrelated how-to.",
+          "zh-TW": "美國科技新聞媒體；本集群中的文章是無關的教學文。"
+        }
+      }
     ]
   },
   {
@@ -10529,16 +10767,16 @@
     "isPopular": true,
     "publishedAt": "2026-10-18T04:59:58.000Z",
     "title": {
-      "en": "張秀卿、郭靜純爆婚變！呂文婉心疼「婚姻像投資股票」 1句話給祝福 | 緯來娛樂新聞 - LINE TODAY",
-      "zh-TW": "張秀卿、郭靜純爆婚變！呂文婉心疼「婚姻像投資股票」 1句話給祝福 | 緯來娛樂新聞 - LINE TODAY"
+      "en": "Kuo Ching-chun Confirms Divorce From Producer Husband of 20 Years; Chang Hsiu-ching Rumors Swirl",
+      "zh-TW": "郭靜純（Kuo Ching-chun）證實離婚：斷開20年製作人尪；張秀卿（Chang Hsiu-ching）婚變傳聞延燒"
     },
     "summary": {
-      "en": "觀點》為何明星情侶愛情長跑N年分手，「沒結婚好可惜」只有女方被說浪費青春？ 中時新聞網",
-      "zh-TW": "觀點》為何明星情侶愛情長跑N年分手，「沒結婚好可惜」只有女方被說浪費青春？ 中時新聞網"
+      "en": "Taiwanese host Kuo Ching-chun, 55, has confirmed her divorce from her producer husband of 20 years, insisting there was no third party, while reports say singer Chang Hsiu-ching divorced three years ago. Fellow host Lu Wen-wan offered her blessing with one line: marriage is like investing in stocks.",
+      "zh-TW": "55歲主持人郭靜純證實與製作人老公結束20年婚姻，強調沒有第三者；另傳歌手張秀卿3年前就已離婚。主持人呂文婉心疼送上祝福，一句話總結：「婚姻像投資股票」。"
     },
     "body": {
-      "en": "觀點》為何明星情侶愛情長跑N年分手，「沒結婚好可惜」只有女方被說浪費青春？ 中時新聞網 What happened\n張秀卿、郭靜純爆婚變！呂文婉心疼「婚姻像投資股票」 1句話給祝福 | 緯來娛樂新聞 - LINE TODAY. 觀點》為何明星情侶愛情長跑N年分手，「沒結婚好可惜」只有女方被說浪費青春？ 中時新聞網 扛3400萬離婚明星狂洗版！張秀卿不忍6字吐心聲 只有「他」被回應 TVBS新聞網 吳宗憲12年前離婚「財產全給前妻」！兩性專家開轟：這不是負責，是本末倒置 噓！星聞 獨／郭靜純爆離婚！老公王信貴欠千萬債務人間消失 連綜藝大哥也中招 噓！星聞 張秀卿、郭靜純前夫捲財務風波！ 過來人嘆：最難的不是離開 Yahoo新聞 新／郭靜純突證實離婚！斷開20年製作人尪：沒有第三者 東森電視 55歲郭靜純宣布離婚！昔與何篤霖談婚姻生活「當場淚崩」 中時新聞網 捲賣假包疑雲！郭靜純突爆「我也離婚了」悲吐：每人都會遇到破事 ETtoday星光雲| ETtoday新聞雲 Why it matters\nThis cluster was assembled from 10 feed item(s) across 7 outlet(s) (GNews TW 分手+藝人/明星, GNews TW 婚變/離婚+藝人, Google News TW Entertainment, GNews LINE TODAY TW 娛樂, GNews TW 復合+藝人/明星, Yahoo TW 娛樂, GNews site:setn 分手/婚) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"觀點》為何明星情侶愛情長跑N年分手，「沒結婚好可惜」只有女方被說浪費青春？ - 中時新聞網\" (GNews TW 分手+藝人/明星); \"扛3400萬離婚明星狂洗版！張秀卿不忍6字吐心聲 只有「他」被回應 - TVBS新聞網\" (GNews TW 婚變/離婚+藝人); \"張秀卿喝老鼠湯拚生子！爆3年前就離婚 去年南韓愛之旅被抓包 - TVBS新聞網\" (GNews TW 婚變/離婚+藝人); \"吳宗憲12年前離婚「財產全給前妻」！兩性專家開轟：這不是負責，是本末倒置 - 噓！星聞\" (GNews TW 婚變/離婚+藝人); \"獨／郭靜純爆離婚！老公王信貴欠千萬債務人間消失 連綜藝大哥也中招 - 噓！星聞\" (Google News TW Entertainment).\nFigures differ across outlets (e.g. 3400 vs 3 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews TW 分手+藝人/明星, GNews TW 婚變/離婚+藝人, Google News TW Entertainment, GNews LINE TODAY TW 娛樂, GNews TW 復合+藝人/明星, Yahoo TW 娛樂, GNews site:setn 分手/婚",
-      "zh-TW": "觀點》為何明星情侶愛情長跑N年分手，「沒結婚好可惜」只有女方被說浪費青春？ 中時新聞網 What happened\n張秀卿、郭靜純爆婚變！呂文婉心疼「婚姻像投資股票」 1句話給祝福 | 緯來娛樂新聞 - LINE TODAY. 觀點》為何明星情侶愛情長跑N年分手，「沒結婚好可惜」只有女方被說浪費青春？ 中時新聞網 扛3400萬離婚明星狂洗版！張秀卿不忍6字吐心聲 只有「他」被回應 TVBS新聞網 吳宗憲12年前離婚「財產全給前妻」！兩性專家開轟：這不是負責，是本末倒置 噓！星聞 獨／郭靜純爆離婚！老公王信貴欠千萬債務人間消失 連綜藝大哥也中招 噓！星聞 張秀卿、郭靜純前夫捲財務風波！ 過來人嘆：最難的不是離開 Yahoo新聞 新／郭靜純突證實離婚！斷開20年製作人尪：沒有第三者 東森電視 55歲郭靜純宣布離婚！昔與何篤霖談婚姻生活「當場淚崩」 中時新聞網 捲賣假包疑雲！郭靜純突爆「我也離婚了」悲吐：每人都會遇到破事 ETtoday星光雲| ETtoday新聞雲 Why it matters\nThis cluster was assembled from 10 feed item(s) across 7 outlet(s) (GNews TW 分手+藝人/明星, GNews TW 婚變/離婚+藝人, Google News TW Entertainment, GNews LINE TODAY TW 娛樂, GNews TW 復合+藝人/明星, Yahoo TW 娛樂, GNews site:setn 分手/婚) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"觀點》為何明星情侶愛情長跑N年分手，「沒結婚好可惜」只有女方被說浪費青春？ - 中時新聞網\" (GNews TW 分手+藝人/明星); \"扛3400萬離婚明星狂洗版！張秀卿不忍6字吐心聲 只有「他」被回應 - TVBS新聞網\" (GNews TW 婚變/離婚+藝人); \"張秀卿喝老鼠湯拚生子！爆3年前就離婚 去年南韓愛之旅被抓包 - TVBS新聞網\" (GNews TW 婚變/離婚+藝人); \"吳宗憲12年前離婚「財產全給前妻」！兩性專家開轟：這不是負責，是本末倒置 - 噓！星聞\" (GNews TW 婚變/離婚+藝人); \"獨／郭靜純爆離婚！老公王信貴欠千萬債務人間消失 連綜藝大哥也中招 - 噓！星聞\" (Google News TW Entertainment).\nFigures differ across outlets (e.g. 3400 vs 3 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews TW 分手+藝人/明星, GNews TW 婚變/離婚+藝人, Google News TW Entertainment, GNews LINE TODAY TW 娛樂, GNews TW 復合+藝人/明星, Yahoo TW 娛樂, GNews site:setn 分手/婚"
+      "en": "Two divorce bombshells hit Taiwan's entertainment circle at once: Kuo Ching-chun personally confirmed the end of her 20-year marriage, while singer Chang Hsiu-ching is reported to have divorced three years ago.\nWhat happened\nKuo Ching-chun, 55, confirmed her divorce from her producer husband of 20 years, stressing there was no third party. An exclusive report claimed her husband Wang Hsin-kuei vanished after racking up debts worth tens of millions of NT dollars, dragging even a veteran variety-show host into the mess; ETtoday separately noted she was caught up in a counterfeit-bag controversy, sighing that ‘everyone runs into rotten luck.’ Meanwhile, TVBS reported that singer Chang Hsiu-ching actually divorced three years ago and was spotted on a love trip to South Korea last year, alongside claims of a ‘NT$34 million divorce’; Yahoo framed both women's ex-husbands under a ‘financial turmoil’ umbrella. Their friend Lu Wen-wan offered comfort with one line — ‘marriage is like investing in stocks’ — while a China Times opinion piece asked why, when celebrity couples split after years together, only the woman gets told she ‘wasted her youth.’\nWhy it matters\nMoney is the common thread: debts, financial turmoil, the investment metaphor — beneath the gossip, these breakups reflect the real pressures on middle-aged marriages. For audiences, it's more than tabloid fodder; it mirrors how fragile long marriages look under the twin squeeze of finances and public scrutiny.\nSources agree / disagree\nThe outlets don't contradict each other on the core facts — Kuo's confirmed divorce, Chang's reported divorce three years ago, Lu's blessing are three independent threads. The ‘34 million’ and ‘3 years’ in headlines are different units (money vs. years), not a numeric conflict. Trust label: 八卦短稿 — entertainment outlets chasing the same rumors, mostly short rewrites, not deep verification.\nStill uncertain\nDebt amounts, the ex-husband's whereabouts and exact divorce timelines rest on one-sided claims with no second-party confirmation; verify details in the full reporting before quoting specifics.",
+      "zh-TW": "台灣演藝圈的離婚消息一次來兩個：郭靜純親口證實斷開20年婚姻，張秀卿則被爆3年前就已離婚。\n發生了什麼事\n55歲的郭靜純證實離婚，斷開與製作人老公20年的婚姻，並強調沒有第三者。噓！星聞的獨家則爆料，老公王信貴欠下千萬債務後人間消失，連綜藝大哥也被牽連；ETtoday 另提到她捲入賣假包疑雲，感嘆「每人都會遇到破事」。另一邊，歌手張秀卿被 TVBS 爆料3年前就已離婚，去年南韓愛之旅被抓包，另有「扛3400萬離婚」的說法；Yahoo 的報導則把兩人的前夫都放進「財務風波」的框架。曾是好友的呂文婉心疼表示「婚姻像投資股票」，一句話送上祝福。中時另有一篇觀點文章，討論為何明星情侶長跑多年分手，總是只有女方被說「浪費青春」。\n為什麼重要\n這波消息的共同點是「錢」：債務、財務風波、投資比喻，婚姻觸礁的檯面下多半是現實壓力。對觀眾來說，這不只是八卦——它映照出中年婚姻在財務與輿論雙重夾擊下的脆弱。\n來源異同\n各家報導的核心事實沒有互相矛盾：郭靜純證實離婚、張秀卿傳3年前離婚、呂文婉送祝福，三條線各自獨立。標題裡的 3400萬與3年是不同單位（金額 vs 年數），不是數字衝突。信任標籤：八卦短稿——多家娛樂媒體跟進同一批傳聞，多為短稿轉述，非深度查證。\n仍不確定\n債務金額、前夫現況、離婚確切時間點都只有片面說法，沒有當事人之外的第二方證實；引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -10585,7 +10823,69 @@
       "gnews-tw-婚變/離婚+藝人",
       "gnews-tw-婚變/離婚+藝人"
     ],
-    "region": "tw"
+    "region": "tw",
+    "glossary": [
+      {
+        "term": {
+          "en": "Kuo Ching-chun",
+          "zh-TW": "郭靜純"
+        },
+        "blurb": {
+          "en": "Taiwanese TV host who confirmed her divorce.",
+          "zh-TW": "台灣電視主持人，本次證實離婚。"
+        }
+      },
+      {
+        "term": {
+          "en": "Chang Hsiu-ching",
+          "zh-TW": "張秀卿"
+        },
+        "blurb": {
+          "en": "Taiwanese Hokkien-pop singer reported divorced three years ago.",
+          "zh-TW": "台灣台語歌手，傳3年前離婚。"
+        }
+      },
+      {
+        "term": {
+          "en": "Lu Wen-wan",
+          "zh-TW": "呂文婉"
+        },
+        "blurb": {
+          "en": "Taiwanese host and commentator who sent her blessing.",
+          "zh-TW": "台灣主持人、名嘴，送上祝福。"
+        }
+      },
+      {
+        "term": {
+          "en": "Wang Hsin-kuei",
+          "zh-TW": "王信貴"
+        },
+        "blurb": {
+          "en": "Kuo Ching-chun's ex-husband, a TV producer.",
+          "zh-TW": "郭靜純的前夫，電視製作人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Jacky Wu",
+          "zh-TW": "吳宗憲"
+        },
+        "blurb": {
+          "en": "Taiwanese host who divorced 12 years ago.",
+          "zh-TW": "台灣主持人，12年前離婚。"
+        }
+      },
+      {
+        "term": {
+          "en": "ETtoday",
+          "zh-TW": "ETtoday星光雲"
+        },
+        "blurb": {
+          "en": "ETtoday's entertainment news desk.",
+          "zh-TW": "ETtoday 新聞雲娛樂線。"
+        }
+      }
+    ]
   },
   {
     "id": "live-eastAsiaGossip-02-4-40-ettoday-ettoday",
@@ -10595,16 +10895,16 @@
     "isPopular": true,
     "publishedAt": "2026-10-18T03:57:14.000Z",
     "title": {
-      "en": "米可白分手孫綻4個月後首公開現身！　40歲恢單美成這樣太誇張 - ETtoday星光雲| ETtoday新聞雲",
-      "zh-TW": "米可白分手孫綻4個月後首公開現身！　40歲恢單美成這樣太誇張 - ETtoday星光雲| ETtoday新聞雲"
+      "en": "Miko Bai Steps Out 4 Months After Split With Sun Zhan: ‘40 and Still Called Jie-jie’",
+      "zh-TW": "米可白（Miko Bai）分手孫綻4個月首公開現身：40歲被叫姊姊狀態驚人"
     },
     "summary": {
-      "en": "米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲| ETtoday新聞雲",
-      "zh-TW": "米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲| ETtoday新聞雲"
+      "en": "Taiwanese entertainer Miko Bai made her first public appearance four months after confirming the end of her three-year relationship with Sun Zhan, saying the two are ‘back to being friends.’ Appearing at the Golden Bell Awards, the 40-year-old joked she is still being called ‘jie-jie.’",
+      "zh-TW": "米可白在認了與孫綻3年情斷的4個月後首度公開現身，表示兩人「退回朋友關係」。40歲的她現身金鐘獎，笑稱自己還被叫姊姊，狀態驚人。"
     },
     "body": {
-      "en": "米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲| ETtoday新聞雲 What happened\n米可白分手孫綻4個月後首公開現身！　40歲恢單美成這樣太誇張 - ETtoday星光雲| ETtoday新聞雲. 米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲| ETtoday新聞雲 澤尻英龍華爆閃電分手！秘戀小7歲男偶像才2個月 見光死徹底斷聯 ETtoday星光雲| ETtoday新聞雲 米可白、孫綻分手了！認了3年情斷：退回朋友關係 | Newtalk LINE TODAY 金鐘61／米可白分手孫綻4個月首度露面！驚人狀態曝光「根本姐姐」 | 緯來娛樂新聞 LINE TODAY Why it matters\nThis cluster was assembled from 9 feed item(s) across 4 outlet(s) (GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚, GNews TW 分手+藝人/明星, GNews LINE TODAY TW 娛樂) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"米可白分手孫綻4個月後首公開現身！　40歲恢單美成這樣太誇張 - ETtoday星光雲| ETtoday新聞雲\" (GNews site:ettoday 分手/復合/婚); \"澤尻英龍華爆閃電分手！秘戀小7歲男偶像才2個月　見光死徹底斷聯 - ETtoday星光雲| ETtoday新聞雲\" (GNews site:ettoday 分手/復合/婚); \"IU分手3個月！「突穿婚紗同框男星」深情對望畫面曝光　粉絲全暴動了 - 娛樂星聞\" (GNews site:setn 分手/婚); \"IU分手3個月！「突穿婚紗同框男星」深情對望畫面曝光　粉絲全暴動了 - 三立新聞\" (GNews site:setn 分手/婚); \"金鐘61／米可白分手孫綻首現身！笑喊「40歲還被叫姐姐」驚人狀態曝光 - 娛樂星聞\" (GNews site:setn 分手/婚).\nFigures differ across outlets (e.g. 4 vs 7 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚, GNews TW 分手+藝人/明星, GNews LINE TODAY TW 娛樂 Additional feed context\n(1) 米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲| ETtoday新聞雲\n(2) 澤尻英龍華爆閃電分手！秘戀小7歲男偶像才2個月 見光死徹底斷聯 ETtoday星光雲| ETtoday新聞雲\n(3) 米可白、孫綻分手了！認了3年情斷：退回朋友關係 | Newtalk LINE TODAY\n(4) 金鐘61／米可白分手孫綻4個月首度露面！驚人狀態曝光「根本姐姐」 | 緯來娛樂新聞 LINE TODAY",
-      "zh-TW": "米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲| ETtoday新聞雲 What happened\n米可白分手孫綻4個月後首公開現身！　40歲恢單美成這樣太誇張 - ETtoday星光雲| ETtoday新聞雲. 米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲| ETtoday新聞雲 澤尻英龍華爆閃電分手！秘戀小7歲男偶像才2個月 見光死徹底斷聯 ETtoday星光雲| ETtoday新聞雲 米可白、孫綻分手了！認了3年情斷：退回朋友關係 | Newtalk LINE TODAY 金鐘61／米可白分手孫綻4個月首度露面！驚人狀態曝光「根本姐姐」 | 緯來娛樂新聞 LINE TODAY Why it matters\nThis cluster was assembled from 9 feed item(s) across 4 outlet(s) (GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚, GNews TW 分手+藝人/明星, GNews LINE TODAY TW 娛樂) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"米可白分手孫綻4個月後首公開現身！　40歲恢單美成這樣太誇張 - ETtoday星光雲| ETtoday新聞雲\" (GNews site:ettoday 分手/復合/婚); \"澤尻英龍華爆閃電分手！秘戀小7歲男偶像才2個月　見光死徹底斷聯 - ETtoday星光雲| ETtoday新聞雲\" (GNews site:ettoday 分手/復合/婚); \"IU分手3個月！「突穿婚紗同框男星」深情對望畫面曝光　粉絲全暴動了 - 娛樂星聞\" (GNews site:setn 分手/婚); \"IU分手3個月！「突穿婚紗同框男星」深情對望畫面曝光　粉絲全暴動了 - 三立新聞\" (GNews site:setn 分手/婚); \"金鐘61／米可白分手孫綻首現身！笑喊「40歲還被叫姐姐」驚人狀態曝光 - 娛樂星聞\" (GNews site:setn 分手/婚).\nFigures differ across outlets (e.g. 4 vs 7 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚, GNews TW 分手+藝人/明星, GNews LINE TODAY TW 娛樂 Additional feed context\n(1) 米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲| ETtoday新聞雲\n(2) 澤尻英龍華爆閃電分手！秘戀小7歲男偶像才2個月 見光死徹底斷聯 ETtoday星光雲| ETtoday新聞雲\n(3) 米可白、孫綻分手了！認了3年情斷：退回朋友關係 | Newtalk LINE TODAY\n(4) 金鐘61／米可白分手孫綻4個月首度露面！驚人狀態曝光「根本姐姐」 | 緯來娛樂新聞 LINE TODAY"
+      "en": "Four months after the split, Miko Bai is back — and looking good enough that the press marvels she could pass for a ‘jie-jie’ (big sister).\nWhat happened\nMiko Bai made her first public appearance four months after confirming the end of her three-year relationship with Sun Zhan, saying the two are ‘back to being friends.’ Appearing at the 61st Golden Bell Awards, the 40-year-old joked she is ‘still being called jie-jie at 40,’ with her stunning condition stealing the spotlight. Two other breakup storylines round out the gossip batch: Erika Sawajiri reportedly split in a flash breakup with an idol seven years her junior after just two months of secret dating, going completely no-contact once exposed; and IU, three months after her own split, set fans abuzz with released footage of her gazing into a male co-star's eyes in wedding attire.\nWhy it matters\nCelebrity breakup PR is a precise art: Bai chose the Golden Bell Awards — the biggest stage — for her comeback, using the ‘jie-jie’ self-deprecation to shift focus from heartbreak to her condition, a textbook crisis-management move. The pile-on effect is real too — three breakup stories landing at once turns ‘breakup season’ into a self-fueling topic.\nSources agree / disagree\nETtoday, SETN and LINE TODAY agree on the timeline (four months post-split) and her account (back to friends), with no contradictions; the Sawajiri and IU threads are independent storylines. The ‘4 months’ and ‘7 years younger’ in headlines belong to different stories — not a numeric conflict. Trust label: 八卦短稿 — entertainment short rewrites, not deep verification.\nStill uncertain\nNeither side has elaborated on why they split, and only fragments of her appearance remarks were quoted; verify details in the full reporting before quoting specifics.",
+      "zh-TW": "分手4個月，米可白回來了——而且狀態好到讓媒體驚呼「根本姊姊」。\n發生了什麼事\n米可白與孫綻3年情斷4個月後，首度公開現身。她認了兩人已退回朋友關係，現身金鐘61時笑喊「40歲還被叫姊姊」，狀態成為媒體焦點。同一批八卦還有兩條分手線：澤尻英龍華被爆與小7歲男偶像秘戀2個月就閃電分手、見光死斷聯；IU 則是分手3個月後，穿婚紗同框男星的深情對望畫面曝光，粉絲全暴動。\n為什麼重要\n明星分手的公關學是一門精準的藝術：米可白選在金鐘獎這個大場面復出，用「姊姊」自嘲把焦點從情傷轉移到狀態，堪稱危機處理的範本。八卦的集體效應也很真實——同時間三組分手新聞疊加，「分手季」的話題熱度自然水漲船高。\n來源異同\nETtoday、三立、LINE TODAY 對米可白現身的時間點（分手4個月後）、說法（退回朋友關係）一致，沒有矛盾；澤尻英龍華與 IU 是各自獨立的事件線。標題裡的 4個月與小7歲是不同事件的不同單位，不是數字衝突。信任標籤：八卦短稿——多家娛樂媒體短稿跟進，非深度查證。\n仍不確定\n分手原因雙方都沒有多談，現身活動的完整發言也只有片段引述；引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -10639,7 +10939,69 @@
       "gnews-site:ettoday-分手/復合/婚",
       "gnews-site:setn-分手/婚"
     ],
-    "region": "tw"
+    "region": "tw",
+    "glossary": [
+      {
+        "term": {
+          "en": "Miko Bai",
+          "zh-TW": "米可白"
+        },
+        "blurb": {
+          "en": "Taiwanese entertainer and host, newly single.",
+          "zh-TW": "台灣藝人、主持人，剛恢復單身。"
+        }
+      },
+      {
+        "term": {
+          "en": "Sun Zhan",
+          "zh-TW": "孫綻"
+        },
+        "blurb": {
+          "en": "Actor; Miko Bai's ex-boyfriend of three years.",
+          "zh-TW": "演員；米可白交往3年的前男友。"
+        }
+      },
+      {
+        "term": {
+          "en": "Erika Sawajiri",
+          "zh-TW": "澤尻英龍華"
+        },
+        "blurb": {
+          "en": "Japanese actress reported in a flash breakup.",
+          "zh-TW": "日本女演員，傳閃電分手。"
+        }
+      },
+      {
+        "term": {
+          "en": "IU",
+          "zh-TW": "IU"
+        },
+        "blurb": {
+          "en": "South Korean singer and actress, three months past her own split.",
+          "zh-TW": "韓國歌手、演員，分手3個月。"
+        }
+      },
+      {
+        "term": {
+          "en": "Golden Bell Awards",
+          "zh-TW": "金鐘獎"
+        },
+        "blurb": {
+          "en": "Taiwan's top television honors.",
+          "zh-TW": "台灣電視圈最高榮譽。"
+        }
+      },
+      {
+        "term": {
+          "en": "ETtoday",
+          "zh-TW": "ETtoday星光雲"
+        },
+        "blurb": {
+          "en": "ETtoday's entertainment news desk.",
+          "zh-TW": "ETtoday 新聞雲娛樂線。"
+        }
+      }
+    ]
   },
   {
     "id": "live-semiconductor-02-semicon-west-2026-nvidia",
@@ -10654,16 +11016,16 @@
     },
     "publishedAt": "2026-10-16T20:59:50.000Z",
     "title": {
-      "en": "SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing",
-      "zh-TW": "SEMICON West 2026：NVIDIA 為 AI 驅動的半導體製造擴展 GPU 庫"
+      "en": "NVIDIA Expands CUDA-X GPU Libraries for AI-Driven Chipmaking at SEMICON West 2026",
+      "zh-TW": "輝達（NVIDIA）在 SEMICON West 2026 擴大 CUDA-X 函式庫：搶攻 AI 驅動晶片製造"
     },
     "summary": {
-      "en": "SEMICON West 2026 opened at Moscone Center in San Francisco on a jubilant note: Semiconductors are now a trillion-dollar industry. In his opening keynote, SEMI CEO Ajit Manocha proclaimed the start of happy",
-      "zh-TW": "SEMICON West 2026 在舊金山莫斯康中心盛大開幕：半導體現在是一個價值數萬億美元的產業。 SEMI 執行長 Ajit Manocha 在開幕主題演講中宣布快樂的開始"
+      "en": "NVIDIA has expanded its CUDA-X software portfolio to support AI-driven semiconductor design and manufacturing, with chipmakers and equipment suppliers adopting GPU-accelerated libraries for simulation, inspection and process optimization. The announcement came as SEMICON West 2026 opened in San Francisco, where SEMI's CEO proclaimed semiconductors a trillion-dollar industry.",
+      "zh-TW": "輝達擴大 CUDA-X 軟體產品組合，支援 AI 驅動的半導體設計與製造，晶片廠與設備商將採用 GPU 加速函式庫做模擬、檢測與製程最佳化。消息發表於 SEMICON West 2026 舊金山開幕之際，SEMI 執行長在開幕演說中宣告半導體已是兆美元產業。"
     },
     "body": {
-      "en": "SEMICON West 2026 opened at Moscone Center in San Francisco on a jubilant note: Semiconductors are now a trillion-dollar industry. In his opening keynote, SEMI CEO Ajit Manocha proclaimed the start of happy What happened\nSEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing. SEMICON West 2026 opened at Moscone Center in San Francisco on a jubilant note: Semiconductors are now a trillion-dollar industry. In his opening keynote, SEMI CEO Ajit Manocha proclaimed the start of happy NVIDIA has expanded its CUDA-X software portfolio to support AI-driven semiconductor design and manufacturing, with chipmakers and equipment suppliers adopting GPU-accelerated libraries for simulation, inspection and process optimization. The portfolio includes the new cuPotential library, which accelerates simulations of atomic and molecular interactions. NVIDIA said the tools will help engineers Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (EE Times, EE Times Asia) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development\" (EE Times); \"SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing\" (EE Times Asia).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): EE Times, EE Times Asia",
-      "zh-TW": "SEMICON West 2026 在舊金山莫斯康中心盛大開幕：半導體現在是一個價值數萬億美元的產業。 SEMI 執行長 Ajit Manocha 在開幕主題演講中宣布快樂的開始 發生了什麼事\nSEMICON West 2026：NVIDIA 擴展 GPU 庫以實現 AI 驅動的半導體製造。 SEMICON West 2026 在舊金山莫斯康中心盛大開幕：半導體現在是一個價值數萬億美元的產業。 SEMI 執行長 Ajit Manocha 在開幕主題演講中宣布，NVIDIA 已擴展其 CUDA-X 軟體產品組合，以支援 AI 驅動的半導體設計和製造，晶片製造商和設備供應商將採用 GPU 加速庫進行模擬、檢查和流程最佳化。該產品組合包括新的 cuPotential 庫，可加速原子和分子相互作用的模擬。 NVIDIA 表示這些工具將有助於工程師 為什麼這很重要\n此集群由半導體類別中 2 個管道（EE Times、EE Times Asia）的 2 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「SEMICON West 2026 展示 AI 時代晶片製造、勞動力發展」（EE Times）；「SEMICON West 2026：NVIDIA 擴展 GPU 庫以實現 AI 驅動的半導體製造」（EE Times Asia）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（限媒體名稱）：EE Times、EE Times Asia"
+      "en": "SEMICON West 2026 opened on a jubilant note at San Francisco's Moscone Center, with SEMI CEO Ajit Manocha proclaiming in his opening keynote that semiconductors are now a trillion-dollar industry. NVIDIA chose the moment to double down: an expanded CUDA-X software portfolio aimed squarely at AI-driven chip design and manufacturing.\nWhat happened\nNVIDIA announced the expanded CUDA-X portfolio, with chipmakers and equipment suppliers adopting GPU-accelerated libraries for simulation, inspection and process optimization. The lineup includes the new cuPotential library, which accelerates simulations of atomic and molecular interactions; NVIDIA said the tools will help engineers work faster. EE Times covered the show's big picture — AI-era chipmaking and workforce development — while EE Times Asia zoomed in on NVIDIA's library expansion.\nWhy it matters\nNow that semiconductors are officially a trillion-dollar industry, the ‘AI builds chips, chips build AI’ flywheel is the next battleground. Pushing GPU-accelerated libraries down to atomic-level simulation inserts AI compute directly into the top of the chipmaking stack — whoever owns that toolchain owns the R&D velocity of the next process generation.\nSources agree / disagree\nBoth items come from the EE Times family (English and Asia editions) with complementary angles — one on the show, one on NVIDIA — and no factual conflicts. Trust label: 同集團2源 — two editions of the same media group, consistent but not independently verified.\nStill uncertain\nThe snippets carry no performance figures, availability timelines or licensing terms for the libraries, and NVIDIA's claims await real-world adoption; verify details in the full reporting before quoting specifics.",
+      "zh-TW": "半導體展 SEMICON West 2026 在舊金山莫斯康中心歡慶開幕，SEMI 執行長阿吉特·馬諾查（Ajit Manocha）開場就宣告：半導體現在是兆美元產業。而輝達選在這個場合加碼：擴大 CUDA-X 軟體產品組合，全面支援 AI 驅動的晶片設計與製造。\n發生了什麼事\n輝達宣布擴大 CUDA-X 軟體產品組合，晶片製造商與設備供應商將採用 GPU 加速函式庫，應用在模擬、檢測與製程最佳化上。產品組合包含新的 cuPotential 函式庫，可加速原子與分子交互作用的模擬；輝達表示這些工具將協助工程師提升效率。EE Times 的報導聚焦大會整體：AI 時代的晶片製造與人才培育；EE Times Asia 的版本則聚焦輝達的函式庫擴張。\n為什麼重要\n當半導體正式成為兆美元產業，「用 AI 做晶片、用晶片做 AI」的正循環就是下一個戰場。輝達把 GPU 加速函式庫推進到原子級模擬，等於把 AI 算力直接插進晶片製造的最上游——誰掌握這套工具鏈，誰就掌握下一代製程的研發速度。\n來源異同\n兩家都是 EE Times 體系（英文版與亞洲版），報導角度互補：一個看大會全貌，一個聚焦輝達，沒有事實衝突。信任標籤：同集團2源——同一媒體集團的兩個版本，內容呼應但非獨立查證。\n仍不確定\n摘要沒有函式庫的具體效能數據、支援時程與授權模式；輝達的說法仍待實際導入驗證。引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -10688,6 +11050,68 @@
       "live-ingest",
       "ee-times",
       "ee-times-asia"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "NVIDIA",
+          "zh-TW": "輝達"
+        },
+        "blurb": {
+          "en": "US GPU and AI computing giant expanding its chipmaking software.",
+          "zh-TW": "美國 GPU 與 AI 運算大廠，本次擴大晶片製造軟體。"
+        }
+      },
+      {
+        "term": {
+          "en": "SEMICON West",
+          "zh-TW": "SEMICON West"
+        },
+        "blurb": {
+          "en": "International semiconductor expo held in San Francisco.",
+          "zh-TW": "在舊金山舉行的國際半導體展。"
+        }
+      },
+      {
+        "term": {
+          "en": "SEMI",
+          "zh-TW": "SEMI"
+        },
+        "blurb": {
+          "en": "Global semiconductor industry association and show organizer.",
+          "zh-TW": "國際半導體產業協會，大會主辦單位。"
+        }
+      },
+      {
+        "term": {
+          "en": "Ajit Manocha",
+          "zh-TW": "阿吉特·馬諾查"
+        },
+        "blurb": {
+          "en": "SEMI CEO who gave the opening keynote.",
+          "zh-TW": "SEMI 執行長，開幕演說者。"
+        }
+      },
+      {
+        "term": {
+          "en": "CUDA-X",
+          "zh-TW": "CUDA-X"
+        },
+        "blurb": {
+          "en": "NVIDIA's GPU-accelerated software platform.",
+          "zh-TW": "輝達的 GPU 加速軟體平台。"
+        }
+      },
+      {
+        "term": {
+          "en": "EE Times",
+          "zh-TW": "EE Times"
+        },
+        "blurb": {
+          "en": "Semiconductor industry media covering the show.",
+          "zh-TW": "《電子工程專輯》，半導體產業媒體。"
+        }
+      }
     ]
   },
   {
@@ -10703,16 +11127,16 @@
     },
     "publishedAt": "2026-10-15T18:12:20.000Z",
     "title": {
-      "en": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
-      "zh-TW": "隨著抵押貸款利率上升，擁有房屋變得更加遙不可及"
+      "en": "US Mortgage Rates Hit 7.4%, Highest Since 2023, Pushing Homeownership Further Out of Reach",
+      "zh-TW": "美國房貸利率衝上7.4%：2023年來最高，買房越來越遙遠"
     },
     "summary": {
-      "en": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
-      "zh-TW": "最近幾週，平均 30 年期固定利率抵押貸款穩步上升，加劇了許多美國人的負擔能力挑戰。"
+      "en": "The average 30-year fixed mortgage rate has risen for weeks, pushing above 7% to 7.4% — the highest since 2023 — while home prices stay elevated. The combination is compounding affordability pain for would-be American homebuyers, with no relief in sight as borrowing costs keep climbing.",
+      "zh-TW": "美國平均 30 年期固定房貸利率連漲數週，衝破 7% 來到 7.4%，創 2023 年以來最高，房價又居高不下。借貸成本疊加高房價，讓想買房的美國人越來越買不起，短期看不到緩解跡象。"
     },
     "body": {
-      "en": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans. What happened\nHomeownership Drifts Further Out of Reach as Mortgage Rates Rise. The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans. Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers. Why it matters\nThis cluster was assembled from 2 feed item(s) across 1 outlet(s) (NYT Economy) in the us category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Mortgage Rates Hover at 7.4%, Highest Since 2023\" (NYT Economy); \"Homeownership Drifts Further Out of Reach as Mortgage Rates Rise\" (NYT Economy).\nFigures differ across outlets (e.g. 7.4 vs 7 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): NYT Economy Additional feed context\n(1) The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.\n(2) Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
-      "zh-TW": "最近幾週，平均 30 年期固定利率抵押貸款穩步上升，加劇了許多美國人的負擔能力挑戰。 發生了什麼事\n隨著抵押貸款利率上升，擁有房屋變得更加遙不可及。最近幾週，平均 30 年期固定利率抵押貸款穩步上升，加劇了許多美國人的負擔能力挑戰。抵押貸款利率已升至 7% 以上，房價仍居高不下，損害了潛在買家的前景。 為什麼這很重要\n此集群由美國類別 1 個銷售點（《紐約時報經濟》）的 2 個飼料項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「抵押貸款利率徘徊在 7.4%，為 2023 年以來最高」（紐約時報經濟）；「隨著抵押貸款利率上升，房屋所有權進一步變得遙不可及」（紐約時報經濟）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 7.4 比​​ 7）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限通路名稱）：《紐約時報經濟》 附加提要上下文\n(1) 最近幾週，平均 30 年期固定利率抵押貸款穩步上升，加劇了許多美國人的負擔能力挑戰。\n(2) 抵押貸款利率已升至 7% 以上，房價仍居高不下，損害了潛在買家的前景。"
+      "en": "The American dream of homeownership keeps drifting further away: the 30-year fixed mortgage rate has climbed to 7.4%, its highest since 2023.\nWhat happened\nThe New York Times' economy desk reports that the average 30-year fixed-rate mortgage has risen steadily in recent weeks, pushing above 7% to 7.4% — the highest since 2023 — while home prices remain elevated. Higher borrowing costs on top of sticky prices are hurting the prospects of would-be buyers.\nWhy it matters\nFor most American households, a home is the single largest asset and the main vehicle for building wealth. Every notch higher in rates prices another cohort of first-time buyers out of the market — this is not just a personal affordability story but a generational shift in how wealth gets built.\nSources agree / disagree\nBoth items come from the NYT economy desk — one on the rate trend, one on the homeownership outlook — and the 7.4% vs. ‘above 7%’ figures describe the same move, with no conflict. Trust label: 僅1源 — NYT economy desk only, no independent cross-check.\nStill uncertain\nThe snippets offer no rate forecasts, regional price breakdowns or Fed-policy discussion; verify details in the full reporting before quoting specifics.",
+      "zh-TW": "美國人的買房夢越來越遠了：30 年期固定房貸利率一路爬升，已經衝上 7.4%，是 2023 年以來最高。\n發生了什麼事\n紐約時報經濟線報導，平均 30 年期固定利率房貸近幾週穩步上升，已經突破 7%、來到 7.4%，創下 2023 年以來新高；與此同時房價依然居高不下。利率走高加上房價僵固，直接打擊潛在買家的購屋前景。\n為什麼重要\n對多數美國家庭來說，房子是最大的一筆資產，也是財富累積的主要管道。利率每往上跳一碼，就有一批首購族被擠出市場——這不只是個人買不起房的問題，而是整個世代財富結構的位移。\n來源異同\n兩則消息都來自紐約時報經濟線：一則談利率走勢，一則談購屋前景，數字上 7.4% 與「突破 7%」是同一件事的不同表述，沒有衝突。信任標籤：僅1源——只有紐約時報經濟線的報導，沒有其他媒體的獨立對照。\n仍不確定\n摘要沒有利率預測、各地區房價差異，也沒有聯準會政策走向的討論；引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -10736,6 +11160,48 @@
       "live-ingest",
       "nyt-economy",
       "nyt-economy"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "The New York Times",
+          "zh-TW": "紐約時報"
+        },
+        "blurb": {
+          "en": "US newspaper; its economy desk reported the rate trend.",
+          "zh-TW": "美國主流報紙；其經濟線報導本次利率走勢。"
+        }
+      },
+      {
+        "term": {
+          "en": "30-year fixed mortgage",
+          "zh-TW": "30年期固定房貸"
+        },
+        "blurb": {
+          "en": "The most common US mortgage type, with the rate locked for 30 years.",
+          "zh-TW": "美國最常見的房貸型態，利率鎖定30年。"
+        }
+      },
+      {
+        "term": {
+          "en": "First-time buyer",
+          "zh-TW": "首購族"
+        },
+        "blurb": {
+          "en": "Consumers buying their first home, most sensitive to rates.",
+          "zh-TW": "第一次買房的消費者，對利率最敏感的族群。"
+        }
+      },
+      {
+        "term": {
+          "en": "Home price",
+          "zh-TW": "房價"
+        },
+        "blurb": {
+          "en": "US home sale prices, currently staying elevated.",
+          "zh-TW": "房屋售價，近期居高不下。"
+        }
+      }
     ]
   },
   {
@@ -10751,16 +11217,16 @@
     },
     "publishedAt": "2026-10-17T19:18:15.000Z",
     "title": {
-      "en": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-      "zh-TW": "川普與俄羅斯的柴油交易可能為普丁帶來的不僅是金錢，而且會給烏克蘭帶來麻煩"
+      "en": "Trump's Russia Diesel Deal Sparks Bipartisan Fury: ‘Irresponsible,’ ‘a Deal With the Devil’",
+      "zh-TW": "川普（Donald Trump）俄羅斯柴油協議引爆兩黨怒火：「不負責任」、「與魔鬼交易」"
     },
     "summary": {
-      "en": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves.",
-      "zh-TW": "川普的柴油協議可能對俄羅斯的財政沒什麼幫助，但它引發了有關烏克蘭影響力、美國支持和普丁下一步行動的更大問題。"
+      "en": "Top Republicans and Democrats lined up Saturday to condemn President Trump's decision to waive recent sanctions on Russia over a diesel deal, calling it ‘irresponsible’ and ‘a deal with the devil.’ The deal may do little for Russia's finances, but it raises sharp questions about Ukraine's leverage and U.S. support.",
+      "zh-TW": "共和黨與民主黨高層上週六齊聲譴責川普總統為柴油交易豁免近期對俄制裁的決定，批評這是「不負責任」、「與魔鬼交易」。這筆交易對俄羅斯財政幫助可能有限，卻讓烏克蘭的談判籌碼與美國的支持力度蒙上問號。"
     },
     "body": {
-      "en": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves. What happened\nTrump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine. Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves. Top Republicans and Democrats alike lined up Saturday to condemn President Trump 's decision to waive recent sanctions on Russia , calling it \"irresponsible\" and \"a deal with the devil.\" Why it matters : Trump already faces a bipartisan effort to overturn his Russian diesel deal when Congress returns after the election. Now he may have to deal with even broader outrage over sanctions Congress appr Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (CNBC, Axios) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine\" (CNBC); \"Trump's Russia waiver draws instant bipartisan backlash\" (Axios).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): CNBC, Axios",
-      "zh-TW": "川普的柴油協議可能對俄羅斯的財政沒什麼幫助，但它引發了有關烏克蘭影響力、美國支持和普丁下一步行動的更大問題。 發生了什麼事\n川普與俄羅斯達成的柴油協議可能為普丁帶來的不僅是金錢，而且會給烏克蘭帶來麻煩。川普的柴油協議可能對俄羅斯的財政沒什麼幫助，但它引發了有關烏克蘭影響力、美國支持和普丁下一步行動的更大問題。週六，共和黨和民主黨高層一致譴責川普總統放棄最近對俄羅斯制裁的決定，稱其為「不負責任」和「與魔鬼的協議」。為什麼重要：當國會在選舉後返回時，川普已經面臨兩黨共同努力推翻他的俄羅斯柴油協議。現在，他可能不得不應對國會批准的製裁帶來的更廣泛的憤怒。 為什麼這很重要\n此集群由金融類別中 2 個管道（CNBC、Axios）的 2 個 Feed 項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「川普與俄羅斯的柴油交易可能為普丁帶來的不僅是金錢，而且會給烏克蘭帶來麻煩」（CNBC）； 「川普的俄羅斯豁免立即引起了兩黨的強烈反對」（Axios）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：CNBC、Axios"
+      "en": "Trump's Russia diesel deal has ignited a rare thing in Washington: bipartisan fury.\nWhat happened\nTop Republicans and Democrats lined up Saturday to condemn President Trump's decision to waive recent sanctions on Russia tied to a diesel deal, calling the move ‘irresponsible’ and ‘a deal with the devil.’ CNBC's analysis argues the diesel deal may do little for Russia's finances, but it raises bigger questions: how much leverage Ukraine has left, whether U.S. support will hold, and what Vladimir Putin does next. Axios captured the immediacy of the backlash — condemnation from both parties followed the waiver news almost instantly.\nWhy it matters\nSanctions are the West's heaviest economic weapon against Russia; a president unilaterally punching holes in them loosens the entire pressure mechanism. The signal matters even more: with both parties crying foul, Congress is likely to move after the election to legislatively reverse the waiver — the executive-legislative tug-of-war is just beginning.\nSources agree / disagree\nCNBC focuses on the deal's strategic implications, Axios on the immediacy of the backlash; both agree on the waiver itself and the condemnation, with no factual conflicts. Trust label: 2源一致 — both outlets agree on the waiver and the bipartisan condemnation.\nStill uncertain\nThe deal's specific terms and the waiver's scope and duration are absent from the snippets, as is whether Congress will actually move to reverse it after the election; verify details in the full reporting before quoting specifics.",
+      "zh-TW": "川普的俄羅斯柴油交易，在華府引爆了罕見的兩黨共同怒火。\n發生了什麼事\n上週六，共和黨與民主黨高層一致譴責川普總統豁免近期對俄羅斯制裁的決定，抨擊這是「不負責任」、「與魔鬼交易」。CNBC 的分析指出，這筆柴油交易對俄羅斯財政的實質幫助可能有限，但它引發了更大的問題：烏克蘭還剩多少談判籌碼、美國的支持會不會動搖、普丁的下一步是什麼。Axios 的報導則聚焦反彈的即時性：豁免消息一出，兩黨譴責立刻跟上。\n為什麼重要\n制裁是西方對俄羅斯最有份量的經濟武器，總統單方面開口子，等於親手鬆動了這套壓力機制。更關鍵的是訊號：當兩黨都跳出來反對，國會很可能在選後推動立法把豁免翻回來，行政與立法的拉鋸才剛開始。\n來源異同\nCNBC 談交易背後的戰略意涵，Axios 談兩黨反彈的即時性，兩家對豁免決定本身與譴責聲浪的描述一致，沒有事實衝突。信任標籤：2源一致——兩家對豁免與兩黨譴責的核心事實報導一致。\n仍不確定\n柴油交易的具體條款、豁免範圍與期限都不在摘要中；國會選後是否真的立法推翻，同樣未知。引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -10785,6 +11251,58 @@
       "live-ingest",
       "cnbc",
       "axios"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Donald Trump",
+          "zh-TW": "川普"
+        },
+        "blurb": {
+          "en": "US president who waived the Russia sanctions.",
+          "zh-TW": "美國總統，豁免對俄制裁的決策者。"
+        }
+      },
+      {
+        "term": {
+          "en": "Vladimir Putin",
+          "zh-TW": "普丁"
+        },
+        "blurb": {
+          "en": "Russian president on the other side of the diesel deal.",
+          "zh-TW": "俄羅斯總統，柴油交易的另一方。"
+        }
+      },
+      {
+        "term": {
+          "en": "Ukraine",
+          "zh-TW": "烏克蘭"
+        },
+        "blurb": {
+          "en": "Country at the heart of the sanctions and the deal.",
+          "zh-TW": "制裁與交易議題的核心當事國。"
+        }
+      },
+      {
+        "term": {
+          "en": "CNBC",
+          "zh-TW": "CNBC"
+        },
+        "blurb": {
+          "en": "US financial news outlet analyzing the deal's implications.",
+          "zh-TW": "美國財經新聞媒體，分析交易背後的戰略意涵。"
+        }
+      },
+      {
+        "term": {
+          "en": "Axios",
+          "zh-TW": "Axios"
+        },
+        "blurb": {
+          "en": "US political news outlet covering the instant backlash.",
+          "zh-TW": "美國政治新聞媒體，報導兩黨即時反彈。"
+        }
+      }
     ]
   },
   {
@@ -10800,16 +11318,16 @@
     },
     "publishedAt": "2026-10-17T23:53:58.000Z",
     "title": {
-      "en": "Oregon Mom Freaks Out After Getting Call About School Shooting, on Video",
-      "zh-TW": "俄勒岡州媽媽在接到有關學校槍擊事件的電話後嚇壞了（影片）"
+      "en": "Silver Rail Elementary Shooting in Bend, Oregon: Mom's Ring-Camera Reaction Goes Viral",
+      "zh-TW": "奧勒岡州本德銀軌小學槍擊案：媽媽的門鈴攝影機反應影片瘋傳"
     },
     "summary": {
-      "en": "The heroic \"good guy with a gun\" who can stop an attack even before law enforcement can arrive has long been a rallying cry by gun rights advocates, arguing that armed citizens can act as a first line of self-defense …",
-      "zh-TW": "英雄的「持槍好人」甚至可以在執法人員到達之前阻止襲擊，這一直是槍支權利倡導者的戰斗口號，他們認為武裝公民可以充當自衛的第一道防線…"
+      "en": "A Ring camera captured an Oregon mother's anguished reaction upon learning of a shooting at Silver Rail Elementary School in Bend, in video obtained by CNN via TMZ. PBS NewsHour reports an armed civilian father confronted the gunman, while NPR's Joel Rose spoke with Governor Tina Kotek about the attack.",
+      "zh-TW": "CNN 取得的影片顯示，一位奧勒岡州媽媽從門鈴攝影機得知本德市銀軌小學發生槍擊案，當場情緒崩潰。PBS 報導一名持槍平民父親與槍手對峙，NPR 記者羅斯（Joel Rose）則專訪州長寇特克（Tina Kotek）談這起攻擊。"
     },
     "body": {
-      "en": "The heroic \"good guy with a gun\" who can stop an attack even before law enforcement can arrive has long been a rallying cry by gun rights advocates, arguing that armed citizens can act as a first line of self-defense and public protection. What happened\nOregon Mom Freaks Out After Getting Call About School Shooting, on Video. The heroic \"good guy with a gun\" who can stop an attack even before law enforcement can arrive has long been a rallying cry by gun rights advocates, arguing that armed citizens can act as a first line of self-defense and public protection. A mother in Oregon's reaction to learning the news about the Silver Rail Elementary School shooting was caught by a Ring camera ... and it captured the genuine fear she clearly felt. The new video -- obtained by CNN -- shows Gretchen Miller running&hellip; NPR's Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon. Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (PBS NewsHour, TMZ, NPR News) in the entertainment category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Oregon father is the latest armed civilian to confront a gunman in a U.S. mass shooting\" (PBS NewsHour); \"Oregon Mom Freaks Out After Getting Call About School Shooting, on Video\" (TMZ); \"Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting\" (NPR News).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): PBS NewsHour, TMZ, NPR News",
-      "zh-TW": "英雄般的「持槍好人」甚至可以在執法人員到達之前阻止襲擊，這一直是槍支權利倡導者的戰鬥口號，他們認為武裝公民可以充當自衛和公共保護的第一道防線。 發生了什麼事\n影片中，俄勒岡州媽媽接到有關學校槍擊事件的電話後驚慌失措。英雄般的「持槍好人」甚至可以在執法人員到達之前阻止襲擊，這一直是槍支權利倡導者的戰鬥口號，他們認為武裝公民可以充當自衛和公共保護的第一道防線。俄勒岡州的一位母親在得知銀軌小學槍擊事件的消息後的反應被環形攝影機捕捉到…它捕捉到了她明顯感受到的真正恐懼。 CNN (CNN) 獲得的新影片顯示，格雷琴·米勒 (Gretchen Miller) 正在跑步…美國國家公共廣播電台 (NPR) 的喬爾·羅斯 (Joel Rose) 與俄勒岡州州長蒂娜·科特克 (Tina Kotek) 就俄勒岡州本德銀軌小學的槍擊事件進行了交談。 為什麼這很重要\n此集群由娛樂類別中 3 個頻道（PBS NewsHour、TMZ、NPR News）的 3 個提要項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「俄勒岡州的父親是最新一位在美國大規模槍擊事件中與槍手對峙的武裝平民」（PBS NewsHour）；「影片中俄勒岡州媽媽接到有關學校槍擊事件的電話後嚇壞了」（TMZ）；「俄勒岡州州長蒂娜·科特克對銀軌小學槍擊事件做出反應」（NPR 新聞）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：PBS NewsHour、TMZ、NPR 新聞"
+      "en": "A shooting at Silver Rail Elementary School in Bend, Oregon. And a doorbell camera that showed America what a mother looks like in the moment she learns the news.\nWhat happened\nVideo obtained by CNN and published via TMZ shows Gretchen Miller's reaction upon learning of the Silver Rail Elementary shooting, captured in full by her home's Ring camera — genuine fear, unfiltered. PBS NewsHour approached the story from another angle: an Oregon father has become the latest armed civilian to confront a gunman during a U.S. mass shooting, echoing the gun-rights movement's long-running ‘good guy with a gun’ argument. NPR's Joel Rose sat down with Oregon Governor Tina Kotek to discuss her response to the school shooting.\nWhy it matters\nThe incident compresses both extremes of America's gun debate into a single day: a mother's terror on a doorbell video, and the ‘armed civilian stops the gunman’ narrative. The first reminds the country of the everyday cost of shootings; the second is the gun lobby's most potent talking point — the same event, two entirely different American stories.\nSources agree / disagree\nThe three outlets take different angles — PBS on the armed civilian, TMZ on the mother's video, NPR on the governor — but agree on the core fact of the Bend school shooting, with no contradictions. Trust label: 多角拼盤 — different angles on the same event, core facts consistent, details independently reported.\nStill uncertain\nThe snippets include no casualty figures, no gunman identity or motive, and no full timeline; verify details in the full reporting before quoting specifics.",
+      "zh-TW": "奧勒岡州本德市的銀軌小學發生槍擊案。一支門鈴攝影機拍下的畫面，讓全美看見一位媽媽得知消息那一刻的崩潰。\n發生了什麼事\nTMZ 取得、CNN 公開的影片顯示，格雷琴·米勒（Gretchen Miller）在得知銀軌小學槍擊案消息時的反應，被家門口的 Ring 攝影機完整拍下，捕捉到她真實的恐懼。PBS NewsHour 則從另一個角度報導：一名奧勒岡州的父親成為最新一位在美國大規模槍擊事件中挺身與槍手對峙的持槍平民，呼應了擁槍派長期主張的「持槍好人」論述。NPR 記者喬爾·羅斯（Joel Rose）專訪奧勒岡州州長蒂娜·寇特克（Tina Kotek），談她對這起校園槍擊案的回應。\n為什麼重要\n這起事件把美國槍枝辯論的兩個極端濃縮在同一天：門鈴影片裡母親的恐懼，與「持槍平民制止槍手」的敘事。前者提醒人們槍擊案的日常代價，後者則是擁槍派最有力的宣傳素材——同一事件，兩種完全不同的美國故事。\n來源異同\n三家媒體切入角度各異：PBS 談持槍平民，TMZ 談母親的影片，NPR 談州長回應；對「本德市銀軌小學發生槍擊案」的核心事實一致，沒有互相矛盾。信任標籤：多角拼盤——三家從不同角度切入同一事件，核心事實一致但細節各自獨立。\n仍不確定\n摘要中沒有傷亡數字、槍手身份與動機，也沒有事件的完整時間序；引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -10839,6 +11357,68 @@
       "pbs-newshour",
       "tmz",
       "npr-news"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Tina Kotek",
+          "zh-TW": "蒂娜·寇特克"
+        },
+        "blurb": {
+          "en": "Governor of Oregon responding to the shooting.",
+          "zh-TW": "奧勒岡州州長，回應本次槍擊案。"
+        }
+      },
+      {
+        "term": {
+          "en": "Gretchen Miller",
+          "zh-TW": "格雷琴·米勒"
+        },
+        "blurb": {
+          "en": "Oregon mother whose reaction was caught on camera.",
+          "zh-TW": "從門鈴攝影機得知槍擊消息的母親。"
+        }
+      },
+      {
+        "term": {
+          "en": "Joel Rose",
+          "zh-TW": "喬爾·羅斯"
+        },
+        "blurb": {
+          "en": "NPR reporter who interviewed the governor.",
+          "zh-TW": "NPR 記者，專訪州長者。"
+        }
+      },
+      {
+        "term": {
+          "en": "CNN",
+          "zh-TW": "CNN"
+        },
+        "blurb": {
+          "en": "US cable news network that obtained the video.",
+          "zh-TW": "美國有線電視新聞網，取得影片者。"
+        }
+      },
+      {
+        "term": {
+          "en": "TMZ",
+          "zh-TW": "TMZ"
+        },
+        "blurb": {
+          "en": "US entertainment news outlet that published the video.",
+          "zh-TW": "美國娛樂新聞媒體，發布影片者。"
+        }
+      },
+      {
+        "term": {
+          "en": "Ring",
+          "zh-TW": "Ring"
+        },
+        "blurb": {
+          "en": "Amazon-owned smart doorbell brand.",
+          "zh-TW": "亞馬遜旗下智慧門鈴品牌。"
+        }
+      }
     ]
   },
   {
@@ -10854,16 +11434,16 @@
     },
     "publishedAt": "2026-10-18T01:10:25.000Z",
     "title": {
-      "en": "Sen. Graham on Trump waiving Russia sanctions: ‘I look forward to talking to him’",
-      "zh-TW": "參議員格雷厄姆談川普放棄對俄羅斯的製裁：“我期待與他交談”"
+      "en": "Lindsey Graham on Trump's Russia Sanctions Waiver: ‘I Look Forward to Talking to Him’",
+      "zh-TW": "葛拉漢（Lindsey Graham）談川普豁免俄羅斯制裁：「我期待跟他談談」"
     },
     "summary": {
-      "en": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "zh-TW": "美國總統暫時終止了國會最近因「國家安全」擔憂而通過的多項對莫斯科的限制。"
+      "en": "Senator Lindsey Graham responded coolly to President Trump's decision to temporarily waive Russia sanctions recently passed by Congress, saying he looks forward to talking to him. Ukraine's Zelenskyy condemned the move as ‘wrong,’ warning it would encourage Russia to keep up its assault.",
+      "zh-TW": "參議員葛拉漢對川普總統暫時豁免國會近期通過的對俄制裁一事回應冷淡，只說「期待跟他談談」。烏克蘭總統澤倫斯基譴責此舉「錯誤」，警告這會鼓勵俄羅斯繼續進攻。"
     },
     "body": {
-      "en": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns. What happened\nSen. Graham on Trump waiving Russia sanctions: ‘I look forward to talking to him’. The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns. Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details. (Image credit: Kateryna Klochko) Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September. US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel Why it matters\nThis cluster was assembled from 7 feed item(s) across 7 outlet(s) (BBC World, NPR World, CNBC, Financial Times Markets, PBS NewsHour, The Hill, Axios) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump waives several Russia sanctions as row with Zelensky intensifies\" (BBC World); \"Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold\" (NPR World); \"Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'\" (CNBC); \"Trump exempts Russia from further sanctions mandated by new law\" (Financial Times Markets); \"Zelenskyy urges support for new U.S. sanctions on Russia put on hold by Trump\" (PBS NewsHour).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC World, NPR World, CNBC, Financial Times Markets, PBS NewsHour, The Hill, Axios",
-      "zh-TW": "美國總統暫時終止了國會最近因「國家安全」擔憂而通過的多項對莫斯科的限制。 發生了什麼事\n格雷厄姆參議員談川普放棄對俄羅斯的製裁：「我期待與他交談」。美國總統暫時終止了國會最近因「國家安全」擔憂而通過的多項對莫斯科的限制。澤倫斯基稱此舉是不幸的，並補充說這將鼓勵俄羅斯繼續進攻。川普告訴國會，暫停符合國家利益，但沒有提供更多細節。 （圖片來源：Kateryna Klochko）川普於 9 月簽署了針對俄羅斯入侵烏克蘭的格雷厄姆法案，使其成為法律。在與莫斯科達成釋放柴油的協議後，美國總統讓普丁暫緩實施威脅能源措施 為什麼這很重要\n該集群由國際類別中 7 個頻道（BBC World、NPR World、CNBC、Financial Times Markets、PBS NewsHour、The Hill、Axios）的 7 個提要項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「隨著與澤連斯基的爭吵加劇，川普放棄了對俄羅斯的多項制裁」（BBC World）；「在川普擱置對俄羅斯的新制裁後，澤倫斯基敦促支持美國對俄羅斯的新制裁」（NPR World）；「川普放棄了廣泛的新經濟制裁，澤連斯基譴責這是「俄羅斯制裁錯誤的」； 「澤倫斯基敦促支持川普暫停的美國對俄羅斯的新制裁」（PBS NewsHour）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC World、NPR World、CNBC、Financial Times Markets、PBS NewsHour、The Hill、Axios"
+      "en": "Trump has temporarily waived Russia sanctions that Congress only just passed — and even Republican heavyweight Lindsey Graham can't quite defend it. His response was measured: ‘I look forward to talking to him.’\nWhat happened\nCiting ‘national security’ concerns, Trump temporarily ended many of the restrictions on Moscow that Congress recently passed, offering no further details to lawmakers. Senator Lindsey Graham, asked about the move, would only say he looks forward to talking to the president — a notably reserved response. Ukrainian President Volodymyr Zelenskyy condemned the decision as ‘wrong,’ warning it would encourage Russia to continue its assault, and urged support for new U.S. sanctions on Russia. The context cuts deep: Trump signed the Graham Bill — targeting Russia over its invasion of Ukraine — into law just last month; now, after cutting a deal with Moscow to release diesel, he has handed Vladimir Putin a reprieve from threatened energy measures.\nWhy it matters\nThis is the executive branch overriding the legislature in real time: a law Congress passed in September, suspended by the president in October on national-security grounds. Graham watching his own bill get shelved by his own party's president captures an awkward Republican split. For Ukraine, it's a double blow — sanctions relief plus a diesel deal — giving Putin breathing room on both the economic and diplomatic fronts.\nSources agree / disagree\nBBC, NPR, CNBC, the Financial Times, PBS, The Hill and Axios all report the same core facts — the waiver, Graham's response, Zelenskyy's condemnation — with no factual conflicts. Trust label: N源一致 — seven outlets agree on the waiver and the reactions.\nStill uncertain\nThe waiver's exact scope and duration, and what Trump means by the ‘national interest,’ were not explained; nor is it known what Graham and Trump discussed or whether Congress will push back. Verify details in the full reporting before quoting specifics.",
+      "zh-TW": "川普暫時豁免了國會才通過的對俄羅斯制裁，連自家共和黨大將葛拉漢都看不下去——只是他的說法很克制：「我期待跟他談談」。\n發生了什麼事\n川普以「國家安全」為由，暫時終止國會近期通過的多項對莫斯科限制措施，但沒有提供更多細節。參議員林賽·葛拉漢（Lindsey Graham）被問到此事時只說「我期待跟他談談」，態度保留。烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）譴責這是「錯誤」的決定，警告此舉會鼓勵俄羅斯繼續進攻，並呼籲支持美國對俄羅斯的新制裁。背景是：川普9月才把針對俄羅斯入侵烏克蘭的《葛拉漢法案》簽署成法律；如今又在與莫斯科達成釋放柴油的協議後，讓普丁暫時躲過原本威脅中的能源制裁。\n為什麼重要\n這是行政權直接架空立法權的示範：國會9月才立的法，總統10月就以國家安全為由暫停執行。葛拉漢本人的法案被自己的總統擱置，他的「期待談談」背後是共和黨內的尷尬分裂。對烏克蘭來說，這是雙重打擊：制裁鬆綁＋柴油交易，普丁等於同時拿到經濟與外交的喘息空間。\n來源異同\nBBC、NPR、CNBC、金融時報、PBS、國會山報、Axios 七家報導的核心事實一致：豁免制裁、葛拉漢回應、澤倫斯基譴責，沒有事實衝突。信任標籤：N源一致——七家媒體對豁免決定與各方反應的報導一致。\n仍不確定\n豁免的確切範圍、期限，以及川普所謂「國家利益」的具體內容都沒有說明；葛拉漢與川普談了什麼、國會是否反制，同樣未知。引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -10909,6 +11489,68 @@
       "bbc-world",
       "npr-world",
       "cnbc"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Lindsey Graham",
+          "zh-TW": "林賽·葛拉漢"
+        },
+        "blurb": {
+          "en": "US Republican senator and sponsor of the Graham Bill.",
+          "zh-TW": "美國共和黨參議員，《葛拉漢法案》提案人。"
+        }
+      },
+      {
+        "term": {
+          "en": "Donald Trump",
+          "zh-TW": "川普"
+        },
+        "blurb": {
+          "en": "US president who waived the sanctions.",
+          "zh-TW": "美國總統，豁免制裁的決策者。"
+        }
+      },
+      {
+        "term": {
+          "en": "Volodymyr Zelenskyy",
+          "zh-TW": "澤倫斯基"
+        },
+        "blurb": {
+          "en": "President of Ukraine who condemned the waiver.",
+          "zh-TW": "烏克蘭總統，譴責豁免決定。"
+        }
+      },
+      {
+        "term": {
+          "en": "Vladimir Putin",
+          "zh-TW": "普丁"
+        },
+        "blurb": {
+          "en": "Russian president given a reprieve on energy measures.",
+          "zh-TW": "俄羅斯總統，暫時躲過能源制裁。"
+        }
+      },
+      {
+        "term": {
+          "en": "BBC",
+          "zh-TW": "BBC"
+        },
+        "blurb": {
+          "en": "British broadcaster covering the waiver.",
+          "zh-TW": "英國廣播公司，報導豁免決定。"
+        }
+      },
+      {
+        "term": {
+          "en": "CNBC",
+          "zh-TW": "CNBC"
+        },
+        "blurb": {
+          "en": "US financial news outlet covering the waiver.",
+          "zh-TW": "美國財經新聞媒體，報導豁免決定。"
+        }
+      }
     ]
   },
   {
@@ -10919,16 +11561,16 @@
     "isPopular": true,
     "publishedAt": "2026-10-16T07:15:25.000Z",
     "title": {
-      "en": "美時 (1795) 代子公司Lotus Pharma Bulgaria EOOD 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告",
-      "zh-TW": "美時 (1795) 代子公司Lotus Pharma Bulgaria EOOD 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告"
+      "en": "Lotus Pharmaceutical (1795) Files Regulatory Notice for Bulgaria Subsidiary Lotus Pharma Bulgaria EOOD",
+      "zh-TW": "美時（Lotus，1795）代子公司 Lotus Pharma Bulgaria EOOD 公告：資金貸與背書保證準則事項"
     },
     "summary": {
-      "en": "序號：1 發言日期：115/10/16 發言時間：15:05:21 發言人：沈燁 發言人職稱：副總經理 發言人 Read More",
-      "zh-TW": "序號：1 發言日期：115/10/16 發言時間：15:05:21 發言人：沈燁 發言人職稱：副總經理 發言人 Read More"
+      "en": "Taiwan-listed Lotus Pharmaceutical (1795) has filed a regulatory notice on behalf of its subsidiary Lotus Pharma Bulgaria EOOD under the rules governing fund loans and endorsement guarantees by public companies. Spokesman Shen Ye, a vice president, made the filing on October 16; four similar notices for Alvogen subsidiaries were filed the same day.",
+      "zh-TW": "上市公司美時（1795）代子公司 Lotus Pharma Bulgaria EOOD，依公開發行公司資金貸與及背書保證處理準則辦理公告。發言人沈燁（副總經理）於10月16日發布；同日另有四則針對 Alvogen 旗下子公司的類似公告。"
     },
     "body": {
-      "en": "序號：1 發言日期：115/10/16 發言時間：15:05:21 發言人：沈燁 發言人職稱：副總經理 發言人 Read More What happened\n美時 (1795) 代子公司Lotus Pharma Bulgaria EOOD 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告. 序號：1 發言日期：115/10/16 發言時間：15:05:21 發言人：沈燁 發言人職稱：副總經理 發言人 Read More Why it matters\nThis cluster was assembled from 5 feed item(s) across 1 outlet(s) (基因線上 GeneOnline) in the biotech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"美時 (1795) 代子公司Alvogen Pharma US Inc. 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告\" (基因線上 GeneOnline); \"美時 (1795) 代子公司Alvogen Inc. 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告\" (基因線上 GeneOnline); \"美時 (1795) 代子公司Alvogen Group Inc. 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告\" (基因線上 GeneOnline); \"美時 (1795) 代子公司Alvogen Pharma US Inc. 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告\" (基因線上 GeneOnline); \"美時 (1795) 代子公司Lotus Pharma Bulgaria EOOD 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告\" (基因線上 GeneOnline).\nFigures differ across outlets (e.g. 1 vs 2 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 基因線上 GeneOnline Additional feed context\n(1) 序號：1 發言日期：115/10/16 發言時間：15:05:21 發言人：沈燁 發言人職稱：副總經理 發言人 Read More",
-      "zh-TW": "序號：1 發言日期：115/10/16 發言時間：15:05:21 發言人：沈燁 發言人職稱：副總經理 發言人 Read More What happened\n美時 (1795) 代子公司Lotus Pharma Bulgaria EOOD 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告. 序號：1 發言日期：115/10/16 發言時間：15:05:21 發言人：沈燁 發言人職稱：副總經理 發言人 Read More Why it matters\nThis cluster was assembled from 5 feed item(s) across 1 outlet(s) (基因線上 GeneOnline) in the biotech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"美時 (1795) 代子公司Alvogen Pharma US Inc. 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告\" (基因線上 GeneOnline); \"美時 (1795) 代子公司Alvogen Inc. 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告\" (基因線上 GeneOnline); \"美時 (1795) 代子公司Alvogen Group Inc. 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告\" (基因線上 GeneOnline); \"美時 (1795) 代子公司Alvogen Pharma US Inc. 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告\" (基因線上 GeneOnline); \"美時 (1795) 代子公司Lotus Pharma Bulgaria EOOD 依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第二款規定公告\" (基因線上 GeneOnline).\nFigures differ across outlets (e.g. 1 vs 2 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 基因線上 GeneOnline Additional feed context\n(1) 序號：1 發言日期：115/10/16 發言時間：15:05:21 發言人：沈燁 發言人職稱：副總經理 發言人 Read More"
+      "en": "Taiwan-listed Lotus Pharmaceutical (ticker 1795) has filed a routine regulatory notice — this time on behalf of its Bulgarian subsidiary, Lotus Pharma Bulgaria EOOD.\nWhat happened\nLotus Pharmaceutical filed the notice under Article 22, Paragraph 1, Item 2 of Taiwan's Regulations Governing Loaning of Funds and Making of Endorsements/Guarantees by Public Companies, on behalf of Lotus Pharma Bulgaria EOOD. The filing is numbered 1, dated October 16 at 15:05, with spokesman Shen Ye, a vice president, as the declarant. The same day brought four more identically formatted Lotus notices covering Alvogen Pharma US Inc., Alvogen Inc. and Alvogen Group Inc. (with Alvogen Pharma US Inc. appearing twice) — a batch of simultaneous compliance filings across the group's subsidiaries.\nWhy it matters\nFor investors, the point of such notices is not the amounts but the compliance itself: every fund loan and endorsement guarantee by a public company must be disclosed by law, and a missing filing is a violation. Five identical notices in a single day suggests the group is systematically tidying up its subsidiaries' fund-flow disclosures — an unusually active compliance push.\nSources agree / disagree\nAll five notices were carried only by GeneOnline, with identical formatting and wording and no contradictions. Trust label: 僅1源 — GeneOnline only, no cross-check; the Market Observation Post System filing is the authoritative text.\nStill uncertain\nThe notice discloses only the spokesman, timestamp and legal basis — the actual amounts, counterparties and terms of the loans or guarantees are absent from the summary; consult the Market Observation Post System filing before quoting specifics.",
+      "zh-TW": "美時（股票代號1795）代子公司發布例行法令公告：這次的主角是保加利亞的 Lotus Pharma Bulgaria EOOD。\n發生了什麼事\n美時依「公開發行公司資金貸與及背書保證處理準則」第二十二條第一項第二款規定，代子公司 Lotus Pharma Bulgaria EOOD 辦理公告。公告序號為1，發言日期為10月16日15時05分，發言人是副總經理沈燁。同日，基因線上還轉載了四則格式相同的美時公告，代子公司分別為 Alvogen Pharma US Inc.、Alvogen Inc.、Alvogen Group Inc.（其中 Alvogen Pharma US Inc. 出現兩次），顯示這是一批子公司同步辦理的法令遵循事項。\n為什麼重要\n對投資人來說，這類公告的重點不在金額本身，而在「有沒有照規矩來」：公開發行公司的資金貸與與背書保證，每一筆都要依法公告，缺了就是違規。一天之內連發五則同類公告，代表集團正在系統性地整理子公司的資金往來揭露，法遵動作相當積極。\n來源異同\n五則公告都只有基因線上轉載，格式、用語完全一致，沒有互相矛盾之處。信任標籤：僅1源——只有基因線上轉載的公告訊息，無其他媒體對照；實質內容以公開資訊觀測站原文為準。\n仍不確定\n公告只揭露了發言人、時戳與法條依據，資金貸與或背書保證的實際金額、對象與條件都不在摘要中；引用細節前請查閱公開資訊觀測站原文。"
     },
     "sources": [
       {
@@ -10953,6 +11595,58 @@
       "基因線上-geneonline",
       "基因線上-geneonline",
       "基因線上-geneonline"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Lotus Pharmaceutical",
+          "zh-TW": "美時"
+        },
+        "blurb": {
+          "en": "Taiwan-listed drugmaker, ticker 1795.",
+          "zh-TW": "台灣上市製藥公司，股票代號1795。"
+        }
+      },
+      {
+        "term": {
+          "en": "Lotus Pharma Bulgaria EOOD",
+          "zh-TW": "Lotus Pharma Bulgaria EOOD"
+        },
+        "blurb": {
+          "en": "Lotus Pharmaceutical's Bulgarian subsidiary named in the notice.",
+          "zh-TW": "美時的保加利亞子公司，本次公告主體。"
+        }
+      },
+      {
+        "term": {
+          "en": "Shen Ye",
+          "zh-TW": "沈燁"
+        },
+        "blurb": {
+          "en": "Lotus Pharmaceutical vice president and filing spokesman.",
+          "zh-TW": "美時副總經理，本次公告發言人。"
+        }
+      },
+      {
+        "term": {
+          "en": "GeneOnline",
+          "zh-TW": "基因線上"
+        },
+        "blurb": {
+          "en": "Taiwan biotech and pharma news outlet carrying the notice.",
+          "zh-TW": "台灣生技醫藥新聞媒體，轉載本次公告。"
+        }
+      },
+      {
+        "term": {
+          "en": "Alvogen",
+          "zh-TW": "Alvogen"
+        },
+        "blurb": {
+          "en": "Subsidiary group named in the day's other four notices.",
+          "zh-TW": "美時旗下的子公司集團，同日另四則公告的主體。"
+        }
+      }
     ]
   },
   {
@@ -10968,16 +11662,16 @@
     },
     "publishedAt": "2026-10-18T04:59:29.000Z",
     "title": {
-      "en": "Deaths, Injuries Reported After Fire at Canada Military Base",
-      "zh-TW": "加拿大軍事基地火災造成傷亡"
+      "en": "Fire at Alberta Military Base Leaves Dead and Injured; Wainwright ‘Completely Overwhelmed’",
+      "zh-TW": "加拿大亞伯達省軍事基地大火傳死傷：溫賴特醫院「完全不堪負荷」"
     },
     "summary": {
-      "en": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
-      "zh-TW": "國防部長表示，阿爾伯塔省的局勢“非常非常活躍和微妙”，傷亡人數未知。"
+      "en": "People have been killed and injured after a ‘serious incident’ caused a large fire at one of Canada's busiest military training bases in Alberta, officials said Saturday. Defence Minister David McGuinty confirmed fatalities but gave no figures or cause, while a local doctor said Wainwright was ‘completely overwhelmed’ and patients were being sent to Edmonton hospitals.",
+      "zh-TW": "官員上週六表示，加拿大最繁忙的軍事訓練基地之一在亞伯達省發生「嚴重事件」引發大火，造成死傷。國防部長麥堅蒂（David McGuinty）證實有死傷，但未公布數字與起火原因；當地醫師表示溫賴特已「完全不堪負荷」，傷患正送往愛德蒙頓的醫院。"
     },
     "body": {
-      "en": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister. What happened\nDeaths, Injuries Reported After Fire at Canada Military Base. Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister. Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday. “I’m saddened to share that there have been both fatalities and injuries as a result of an incid Multiple people were killed and injured after a “serious incident” caused a fire that tore through a Canadian military base in Alberta, officials said Saturday. Defence Minister David McGuinty says people were killed and injured, but provides no figures or cause of fire. Why it matters\nThis cluster was assembled from 4 feed item(s) across 4 outlet(s) (BBC World, The Guardian World, Bloomberg News, Al Jazeera) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Deaths confirmed in major fire at Canada military base\" (BBC World); \"‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say\" (The Guardian World); \"Deaths, Injuries Reported After Fire at Canada Military Base\" (Bloomberg News); \"Deaths, injuries after fire at Alberta military base: Canada minister\" (Al Jazeera).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC World, The Guardian World, Bloomberg News, Al Jazeera",
-      "zh-TW": "國防部長表示，阿爾伯塔省的局勢“非常非常活躍和微妙”，傷亡人數未知。 發生了什麼事\n加拿大軍事基地發生火災，造成人員傷亡。國防部長表示，阿爾伯塔省的局勢“非常非常活躍和微妙”，傷亡人數未知。加拿大國防部長週六表示，阿爾伯塔省最繁忙的軍事訓練基地之一發生火災，造成人員傷亡，溫賴特因受傷人數“完全不知所措”，病人被送往埃德蒙頓的醫院。官員週六表示，加拿大阿爾伯塔省一處軍事基地發生火災，造成多人死傷。國防部長戴維麥堅蒂表示，有人死傷，但沒有提供具體數據或起火原因。 為什麼這很重要\n該集群由國際類別中 4 個媒體（BBC World、The Guardian World、Bloomberg News、Al Jazeera）的 4 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報道了密切相關的頭條新聞：“加拿大軍事基地重大火災確認死亡”（BBC World）； “加拿大官員稱，阿爾伯塔省軍事基地發生‘嚴重事件’，造成人員傷亡”（《衛報世界》）； “加拿大軍事基地火災後報告死亡、受傷情況”（彭博新聞）； “阿爾伯塔省軍事基地後死亡、電視台。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅媒體名稱）：BBC World、The Guardian World、Bloomberg News、Al Jazeera"
+      "en": "A large fire tore through a military base in Alberta, Canada, on Saturday, leaving dead and injured. A local doctor's verdict: Wainwright is ‘completely overwhelmed.’\nWhat happened\nOfficials said Saturday that a ‘serious incident’ at one of Canada's busiest military training bases in Alberta caused a large fire, killing and injuring people. Defence Minister David McGuinty confirmed there were fatalities and injuries but provided no figures and no cause of the fire, describing the situation on the ground as ‘very, very active and delicate.’ A local doctor said Wainwright was ‘completely overwhelmed’ by the number of injuries, with patients being taken to hospitals in Edmonton. The BBC, The Guardian, Bloomberg and Al Jazeera all reported the same event with matching headlines: major fire, deaths and injuries, officially confirmed.\nWhy it matters\nSafety incidents at military training bases are sensitive because they implicate both defense readiness and public trust: this is one of the country's busiest bases, and any major accident can ripple through training schedules and deployment capacity. With information scarce, the defence minister confirming casualties in person signals a situation too serious to downplay.\nSources agree / disagree\nAll four international outlets agree on the core facts — the Alberta base fire, deaths and injuries, the minister's confirmation without figures or cause — with no factual conflicts. Trust label: N源一致 — four outlets agree on the fire and the official account.\nStill uncertain\nCasualty numbers, the fire's cause and what the ‘serious incident’ actually was are all unknown; the minister's ‘delicate’ wording suggests the investigation is in a sensitive phase. Verify details in the full reporting before quoting specifics.",
+      "zh-TW": "加拿大亞伯達省一處軍事基地上週六發生大火，傳出死傷。當地醫師形容，溫賴特已經「完全不堪負荷」。\n發生了什麼事\n官員上週六表示，加拿大最繁忙的軍事訓練基地之一發生「嚴重事件」，引發的大火造成人員死傷。國防部長大衛·麥堅蒂（David McGuinty）證實有死亡與受傷，但沒有公布數字，也沒有說明起火原因，僅形容當地情況「非常、非常緊急且微妙」。當地醫師表示，溫賴特因傷患人數「完全不知所措」，病患正被送往愛德蒙頓的醫院。BBC、衛報、彭博與半島電視台四家都報導了同一事件，標題一致指向：大火、死傷、官方證實。\n為什麼重要\n軍事訓練基地的工安事件之所以敏感，在於它同時牽涉國防戰力與公共信任：基地是「最繁忙」等級，任何重大意外都可能影響訓練排程與部署能量。而在資訊有限的情況下，部長親自出面證實死傷，代表事態已嚴重到無法低調處理。\n來源異同\n四家國際媒體對核心事實一致：亞伯達省軍事基地大火、有死傷、部長證實但無數字與原因，沒有事實衝突。信任標籤：N源一致——四家對火災與官方說法的報導一致。\n仍不確定\n死傷人數、起火原因、「嚴重事件」的具體內容全部未知；部長用「微妙」形容，暗示調查仍在敏感階段。引用細節前請查閱完整報導。"
     },
     "sources": [
       {
@@ -11011,6 +11705,68 @@
       "bbc-world",
       "the-guardian-world",
       "bloomberg-news"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "David McGuinty",
+          "zh-TW": "大衛·麥堅蒂"
+        },
+        "blurb": {
+          "en": "Canada's defence minister who confirmed the casualties.",
+          "zh-TW": "加拿大國防部長，證實死傷者。"
+        }
+      },
+      {
+        "term": {
+          "en": "Wainwright",
+          "zh-TW": "溫賴特"
+        },
+        "blurb": {
+          "en": "Alberta town hosting the military base.",
+          "zh-TW": "亞伯達省軍事基地所在地。"
+        }
+      },
+      {
+        "term": {
+          "en": "Alberta",
+          "zh-TW": "亞伯達省"
+        },
+        "blurb": {
+          "en": "Western Canadian province where the fire happened.",
+          "zh-TW": "加拿大西部省份，事發地。"
+        }
+      },
+      {
+        "term": {
+          "en": "Edmonton",
+          "zh-TW": "愛德蒙頓"
+        },
+        "blurb": {
+          "en": "Alberta's capital, receiving the injured.",
+          "zh-TW": "亞伯達省首府，傷患後送地。"
+        }
+      },
+      {
+        "term": {
+          "en": "BBC",
+          "zh-TW": "BBC"
+        },
+        "blurb": {
+          "en": "British broadcaster covering the base fire.",
+          "zh-TW": "英國廣播公司，報導本次基地大火。"
+        }
+      },
+      {
+        "term": {
+          "en": "Al Jazeera",
+          "zh-TW": "半島電視台"
+        },
+        "blurb": {
+          "en": "Qatar-based international news outlet covering the fire.",
+          "zh-TW": "卡達國際新聞媒體，報導本次火災。"
+        }
+      }
     ]
   },
   {
@@ -11026,16 +11782,16 @@
     },
     "publishedAt": "2026-10-18T06:11:42.000Z",
     "title": {
-      "en": "Woot Just Launched a Huge Sale on Vacs From Dyson, Roborock and More With Prices From $20",
-      "zh-TW": "Woot 剛推出 Dyson、Roborock 等吸塵器大促銷，售價 20 美元起"
+      "en": "Woot's Big Vacuum Sale: Dyson, Roborock and More From $20, Plus $155 Samsung Buds 4 Pro",
+      "zh-TW": "Woot 吸塵器大促銷：戴森、石頭科技等20美元起，三星 Buds 4 Pro 只要155美元"
     },
     "summary": {
-      "en": "Thumb Score: +18 Woot [ woot.com ] is offering Health & Personal Care: Buy 5+ Get 40% Off, 50% Off for New Customers . Shipping is free for Amazon Prime Members (must log in with your Amazon account and select a shipp…",
-      "zh-TW": "拇指得分：+18 Woot [ woot.com ] 正在提供健康和個人護理：購買 5 個以上可享受 40% 的折扣，新客戶可享受 50% 的折扣。亞馬遜 Prime 會員免費送貨（必須使用您的亞馬遜帳戶登入並選擇送貨..."
+      "en": "Woot has launched a huge sale on vacuums from Dyson, Roborock, Roomba, Ecovacs, Shark and Samsung, with prices starting at $20. CNET also flags a $155 Samsung Buds 4 Pro deal, while Slickdeals notes a buy-5-get-40%-off health and personal care promo with free shipping for Prime members.",
+      "zh-TW": "Woot 推出吸塵器大促銷，戴森、石頭科技、Roomba、Ecovacs、Shark、三星等品牌 20 美元起。CNET 另點名三星 Buds 4 Pro 只要 155 美元；Slickdeals 則提到健康護理用品買5件打6折，Prime 會員免運。"
     },
     "body": {
-      "en": "Thumb Score: +18 Woot [ woot.com ] is offering Health & Personal Care: Buy 5+ Get 40% Off, 50% Off for New Customers . Shipping is free for Amazon Prime Members (must log in with your Amazon account and select a shipping address in order for Woot to apply free shipping) or is oth What happened\nWoot Just Launched a Huge Sale on Vacs From Dyson, Roborock and More With Prices From $20. Thumb Score: +18 Woot [ woot.com ] is offering Health & Personal Care: Buy 5+ Get 40% Off, 50% Off for New Customers . Shipping is free for Amazon Prime Members (must log in with your Amazon account and select a shipping address in order for Woot to apply free shipping) or is otherwise $6 per order. Example Deals: [LIST][*] Degree Antiperspirant Deodorant 24 Hour Dry Protection Shower Clean Deodor Shop stick, upright and robot vacs from big-name brands, including Roomba, Ecovacs, Shark, Samsung and many others. Pick up the highly rated Samsung Buds 4 Pro earbuds with ANC 2.0 and Bluetooth 6.1, for just $155 while you can. Why it matters\nThis cluster was assembled from 3 feed item(s) across 2 outlet(s) (Slickdeals Frontpage, CNET Deals) in the shopping category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Woot!: Health and Personal Care Sale Buy 5, Get 40% Off + Free S&H w/ Prime\" (Slickdeals Frontpage); \"Woot Just Launched a Huge Sale on Vacs From Dyson, Roborock and More With Prices From $20\" (CNET Deals); \"Block Out the Noise and Save a Huge $95 Off Samsung’s Galaxy Buds 4 Pro at Woot\" (CNET Deals).\nFigures differ across outlets (e.g. 5 vs 20 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Slickdeals Frontpage, CNET Deals",
-      "zh-TW": "拇指得分：+18 Woot [ woot.com ] 正在提供健康和個人護理：購買 5 個以上可享受 40% 的折扣，新客戶可享受 50% 的折扣。 Amazon Prime 會員可免費送貨（必須使用您的亞馬遜帳戶登入並選擇送貨地址，Woot 才能申請免費送貨）或其他 發生了什麼事\nWoot 剛推出 Dyson、Roborock 等吸塵器大促銷，售價 20 美元起。拇指得分：+18 Woot [ woot.com ] 正在提供健康和個人護理：購買 5 個以上可享受 40% 的折扣，新客戶可享受 50% 的折扣。 Amazon Prime 會員可免費送貨（必須使用您的亞馬遜帳戶登入並選擇送貨地址，Woot 才能申請免費送貨），否則每個訂單 6 美元。優惠範例： [清單][*] 度 止汗除臭劑 24 小時乾燥保護 淋浴清潔除臭 商店棒式吸塵器、直立式吸塵器和機器人吸塵器，來自知名品牌，包括 Roomba、Ecovacs、Shark、三星等。只需 155 美元即可購買備受好評的配備 ANC 2.0 和藍牙 6.1 的 Samsung Buds 4 Pro 耳機。 為什麼這很重要\n此集群由購物類別中 2 個管道（Slickdeals Frontpage、CNET Deals）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：“Woot！：健康和個人護理促銷買 5 件，享受 40% 折扣 + 免費 S&H w/ Prime”（Slickdeals Frontpage）；“Woot 剛剛推出戴森、Roborock 等吸塵器大促銷，價格從 20 美元起”（CNET Deals 54 2074 美元）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 5 比 20）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限商店名稱）：Slickdeals Frontpage、CNET Deals"
+      "en": "Time for a new vacuum? Woot says the time is now: big-name vacuums from Dyson, Roborock and more, starting at $20.\nWhat happened\nWoot has launched a huge vacuum sale spanning Dyson, Roborock, Roomba, Ecovacs, Shark, Samsung and more — stick, upright and robot vacs — with prices starting at $20. CNET's deals desk separately flags the Samsung Buds 4 Pro with ANC 2.0 and Bluetooth 6.1 for just $155, a $95 saving. Slickdeals' frontpage highlights a different Woot promo running in parallel: buy 5+ health and personal care items for 40% off (50% off for new customers), with free shipping for Prime members who log in with their Amazon account and select a shipping address — otherwise $6 per order.\nWhy it matters\nThis pre-holiday-season push is the classic double play: clearance pricing to move inventory, Prime free shipping to lock shoppers into the Amazon ecosystem. For consumers, $20 brand-name vacuums and a $155 flagship earbud sit squarely in the ‘regret-not-buying, don't-regret-buying’ price zone.\nSources agree / disagree\nSlickdeals covers the health-and-personal-care promo, CNET the vacuum and earbud deals — different Woot sales running in parallel, with no numeric conflicts (buy-5-get-40%-off vs. from-$20 are separate offers). Trust label: 2源促銷 — both are deal-intel sources; actual prices per Woot's checkout page.\nStill uncertain\nEnd dates and per-item discount depths are absent from the snippets; check Woot's official pages before buying.",
+      "zh-TW": "該換吸塵器了嗎？Woot 說現在就是時候：戴森、石頭科技等大牌吸塵器 20 美元起跳。\n發生了什麼事\nWoot 推出了吸塵器大促銷，涵蓋戴森（Dyson）、石頭科技（Roborock）、Roomba、Ecovacs、Shark、三星等知名品牌，棒式、直立式、掃地機器人全包，價格從 20 美元起。CNET 的折扣線另點名：具備 ANC 2.0 與藍牙 6.1 的三星 Buds 4 Pro 耳機只要 155 美元，直接便宜 95 美元。Slickdeals 的前台情報則是另一檔：健康與個人護理用品買5件打6折、新客打5折，Prime 會員免運（需用亞馬遜帳號登入並選好地址），非會員每單運費 6 美元。\n為什麼重要\n年底購物季前的這波促銷，是典型的清庫存＋衝會員雙重操作：用低價吸塵器帶流量，用 Prime 免運把人綁進亞馬遜生態系。對消費者來說，20 美元起的品牌吸塵器和 155 美元的旗艦耳機，都是「不買會後悔、買了不心痛」的價格帶。\n來源異同\nSlickdeals 聚焦站內健康護理促銷，CNET 聚焦吸塵器與耳機折扣，兩家談的是 Woot 同期的不同檔期，數字上沒有衝突（買5件打6折 vs 20美元起是不同優惠）。信任標籤：2源促銷——兩家都是折扣情報來源，實際價格以 Woot 結帳頁為準。\n仍不確定\n促銷的結束時間、各品項的實際折扣幅度都不在摘要中；下單前請以 Woot 官方頁面為準。"
     },
     "sources": [
       {
@@ -11064,6 +11820,68 @@
       "slickdeals-frontpage",
       "cnet-deals",
       "cnet-deals"
+    ],
+    "glossary": [
+      {
+        "term": {
+          "en": "Woot",
+          "zh-TW": "Woot"
+        },
+        "blurb": {
+          "en": "Amazon-owned deals site running the sale.",
+          "zh-TW": "亞馬遜旗下的特賣網站，本次促銷主辦方。"
+        }
+      },
+      {
+        "term": {
+          "en": "Dyson",
+          "zh-TW": "戴森"
+        },
+        "blurb": {
+          "en": "British appliance brand known for vacuums.",
+          "zh-TW": "英國家電品牌，以吸塵器聞名。"
+        }
+      },
+      {
+        "term": {
+          "en": "Roborock",
+          "zh-TW": "石頭科技"
+        },
+        "blurb": {
+          "en": "Chinese robot-vacuum brand in the sale.",
+          "zh-TW": "中國掃地機器人品牌，本次參戰。"
+        }
+      },
+      {
+        "term": {
+          "en": "Samsung",
+          "zh-TW": "三星"
+        },
+        "blurb": {
+          "en": "South Korean tech giant behind the Buds 4 Pro.",
+          "zh-TW": "韓國科技大廠，Buds 4 Pro 製造商。"
+        }
+      },
+      {
+        "term": {
+          "en": "Slickdeals",
+          "zh-TW": "Slickdeals"
+        },
+        "blurb": {
+          "en": "US deal-intel site covering the promo.",
+          "zh-TW": "美國折扣情報網站，報導本次促銷。"
+        }
+      },
+      {
+        "term": {
+          "en": "CNET",
+          "zh-TW": "CNET"
+        },
+        "blurb": {
+          "en": "US tech media outlet with a deals desk.",
+          "zh-TW": "美國科技媒體，設有折扣線。"
+        }
+      }
     ]
   }
 ]
