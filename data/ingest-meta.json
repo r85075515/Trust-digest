@@ -1,22 +1,22 @@
 {
-  "ingestedAt": "2026-10-18T06:20:13.577Z",
+  "ingestedAt": "2026-10-19T06:31:53.858Z",
   "feedOk": 120,
   "feedTotal": 128,
-  "rawItems": 1043,
-  "mainStories": 112,
+  "rawItems": 1036,
+  "mainStories": 124,
   "byCategory": {
-    "finance": 16,
-    "semiconductor": 14,
-    "taiwan": 7,
+    "finance": 18,
+    "semiconductor": 15,
+    "taiwan": 8,
     "eastAsiaGossip": 15,
-    "international": 17,
-    "entertainment": 9,
+    "international": 19,
+    "entertainment": 10,
     "shopping": 2,
-    "biotech": 7,
+    "biotech": 8,
     "energy": 5,
-    "us": 6,
-    "tech": 8,
-    "ai": 6
+    "us": 7,
+    "tech": 10,
+    "ai": 7
   },
   "eastAsiaByRegion": {
     "tw": 15
@@ -27,16 +27,16 @@
     "line-today"
   ],
   "heatVerifiedKeywords": [
-    "長輩迷過的歌",
-    "仔戲明星是",
-    "阿嬤追的",
-    "歐巴歐膩接連"
+    "lemonway",
+    "行銷網頁提升",
+    "高品質粉絲追",
+    "長輩迷過的歌"
   ],
-  "heatNewsInjected": 42,
+  "heatNewsInjected": 34,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
   "mode": "extractive+translate+rss+heat",
-  "rewrittenAt": "2026-10-18T15:08:36.000Z",
-  "rewrittenBy": "bebo-backup"
+  "rewrittenBy": "bebo-backup",
+  "rewrittenAt": "2026-10-19T14:59:55.233575+00:00"
 }
