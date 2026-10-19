@@ -6470,8 +6470,8 @@
    "zh-TW": "Google 將向開發者、企業、科學家與一般用戶開放最新旗艦模型 Gemini 4 Argon，標榜「為解決最棘手的問題而打造」。另據 Science 科學新聞，AI 在黎曼猜想上取得進展，一份大型 OpenAI 發布包含質數謎題的「令人振奮」進展。"
   },
   "body": {
-   "en": "Google's latest frontier model is going public: the company says it is giving developers, enterprises, scientists and consumers access to Gemini 4 Argon, pitched as a model \"built to solve your hardest problems.\" In a separate feed item, Science 科學新聞 reports that AI is edging closer to solving the Riemann hypothesis, one of mathematics' hardest problems, citing \"exciting\" progress on a puzzle about prime numbers inside a large OpenAI release.\nWhat happened\nGoogle's AI Blog announced that Gemini 4 Argon, its latest frontier model, is being made available to developers, enterprises, scientists and consumers. The announcement frames the model around tackling difficult problems, but the feed snippet includes no technical specifications, benchmarks or availability timeline. Separately, a Science 科學新聞 item reports progress toward the Riemann hypothesis and describes a large OpenAI release as containing \"exciting\" progress on a prime-numbers puzzle. The two items appear in the same feed cluster but describe distinct developments.\nWhy it matters\nA new frontier model from Google is significant by default: it sets the cadence for the lab race, and broad access for scientists and enterprises means research and product pipelines move quickly. The Riemann-hypothesis angle matters differently — even partial progress on the prime-numbers puzzle would be a landmark for AI-assisted mathematics — but the snippet gives no evidence linking that progress to Gemini 4 Argon itself.\nSources agree / disagree\nThe Google AI Blog is the sole source for the Gemini 4 Argon access announcement, and Science 科學新聞 is the sole source for the Riemann-hypothesis item; neither corroborates the other. No numeric or name conflicts appear in the snippets, but there is no corroboration either. Trust label: 單一來源 — each outlet covers a separate headline with no independent corroboration in the feed.\nStill uncertain\nEverything here comes from short feed descriptions. Gemini 4 Argon's capabilities, pricing, rollout regions and exact release date are unknown; the Riemann claim's connection to any specific model is unverified. Verify both on the publishers' pages before quoting specifics.",
-   "zh-TW": "Google 最新旗艦模型要公開了：公司表示將向開發者、企業、科學家與一般用戶開放 Gemini 4 Argon，標榜「為解決最棘手的問題而打造」。另有一則 Science 科學新聞的消息，稱 AI 在解決數學界最難問題之一的黎曼猜想上更進一步，一份大型 OpenAI 發布中包含質數謎題的「令人振奮」進展。\n發生了什麼事\nGoogle AI Blog 宣布，最新旗艦模型 Gemini 4 Argon 將開放給開發者、企業、科學家與一般用戶使用。公告主打「解決難題」，但來源摘要未附技術規格、基準數據或上線時程。另一邊，Science 科學新聞報導 AI 在黎曼猜想上的進展，並形容一份大型 OpenAI 發布中有質數謎題的「令人振奮」進展。兩則消息落在同一來源群組，實為不同的發展。\n為什麼重要\nGoogle 推出新旗艦模型本身就是大事：它決定了實驗室競賽的節奏，科學家與企業能廣泛取用，代表研究與產品管線會快速跟進。黎曼猜想的角度則不同——質數謎題就算只是部分進展，對 AI 輔助數學也是里程碑——但摘要中沒有證據顯示該進展與 Gemini 4 Argon 有關。\n來源異同\nGemini 4 Argon 開放消息的唯一來源是 Google AI Blog；黎曼猜想消息的唯一來源是 Science 科學新聞；兩者互不印證。摘要中沒有數字或名稱衝突，但也沒有交叉佐證。信任標籤：單一來源——每家媒體各報一則不同消息，來源摘要內無獨立佐證。\n仍不確定\n一切都來自簡短來源摘要。Gemini 4 Argon 的能力、定價、開放地區與確切上線日期皆未知；黎曼猜想進展與任何特定模型的關聯也未證實。引用細節前請查閱原始報導。"
+   "en": "Google's latest frontier model is going public: the company says it is giving developers, enterprises, scientists and consumers access to Gemini 4 Argon, pitched as a model \"built to solve your hardest problems.\" In a separate feed item, Science 科學新聞 reports that AI is edging closer to solving the Riemann hypothesis, one of mathematics' hardest problems, citing \"exciting\" progress on a puzzle about prime numbers inside a large OpenAI release.\nWhat happened\nGoogle's AI Blog announced that Gemini 4 Argon, its latest frontier model, is being made available to developers, enterprises, scientists and consumers. The announcement frames the model around tackling difficult problems, but the feed snippet includes no technical specifications, benchmarks or availability timeline. Separately, a Science 科學新聞 item reports progress toward the Riemann hypothesis and describes a large OpenAI release as containing \"exciting\" progress on a prime-numbers puzzle. The two items appear in the same feed cluster but describe distinct developments.\nWhy it matters\nA new frontier model from Google is significant by default: it sets the cadence for the lab race, and broad access for scientists and enterprises means research and product pipelines move quickly. The Riemann-hypothesis angle matters differently — even partial progress on the prime-numbers puzzle would be a landmark for AI-assisted mathematics — but the snippet gives no evidence linking that progress to Gemini 4 Argon itself.\nSources agree / disagree\nThe Google AI Blog is the sole source for the Gemini 4 Argon access announcement, and Science 科學新聞 is the sole source for the Riemann-hypothesis item; neither corroborates the other. No numeric or name conflicts appear in the snippets, but there is no independent corroboration for either item.\nStill uncertain\nThe feed gives only short descriptions: Gemini 4 Argon's capabilities, pricing, rollout regions and exact release date are unknown, and the Riemann claim's connection to any specific model is unverified.",
+   "zh-TW": "Google 最新旗艦模型要公開了：公司表示將向開發者、企業、科學家與一般用戶開放 Gemini 4 Argon，標榜「為解決最棘手的問題而打造」。另有一則 Science 科學新聞的消息，稱 AI 在解決數學界最難問題之一的黎曼猜想上更進一步，一份大型 OpenAI 發布中包含質數謎題的「令人振奮」進展。\n發生了什麼事\nGoogle AI Blog 宣布，最新旗艦模型 Gemini 4 Argon 將開放給開發者、企業、科學家與一般用戶使用。公告主打「解決難題」，但來源摘要未附技術規格、基準數據或上線時程。另一邊，Science 科學新聞報導 AI 在黎曼猜想上的進展，並形容一份大型 OpenAI 發布中有質數謎題的「令人振奮」進展。兩則消息落在同一來源群組，實為不同的發展。\n為什麼重要\nGoogle 推出新旗艦模型本身就是大事：它決定了實驗室競賽的節奏，科學家與企業能廣泛取用，代表研究與產品管線會快速跟進。黎曼猜想的角度則不同——質數謎題就算只是部分進展，對 AI 輔助數學也是里程碑——但摘要中沒有證據顯示該進展與 Gemini 4 Argon 有關。\n來源異同\nGemini 4 Argon 開放消息的唯一來源是 Google AI Blog；黎曼猜想消息的唯一來源是 Science 科學新聞；兩者互不印證。摘要中沒有數字或名稱衝突，但兩則消息都沒有獨立佐證。\n仍不確定\n來源只給了簡短描述：Gemini 4 Argon 的能力、定價、開放地區與確切上線日期皆未知；黎曼猜想進展與任何特定模型的關聯也未證實。"
   },
   "sources": [
    {
@@ -11897,16 +11897,16 @@
   },
   "publishedAt": "2026-10-18T21:45:04.000Z",
   "title": {
-   "en": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-   "zh-TW": "每個人都在觀看伊麗莎白霍姆斯的紀錄片《你可以看到一切》"
+   "en": "Elizabeth Holmes documentary 'You Can See Everything' posts second-biggest documentary opening weekend ever",
+   "zh-TW": "伊麗莎白·霍姆斯（Elizabeth Holmes）紀錄片《You Can See Everything》創下紀錄片影史第二大首映週末"
   },
   "summary": {
-   "en": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
-   "zh-TW": "《你可以看到一切》迎來了有史以來第二大的紀錄片首映週末。"
+   "en": "'You Can See Everything,' a nearly three-hour documentary about Elizabeth Holmes, drew 2,000 sold-out shows across the United States on 855 screens in its limited release — the second-biggest opening weekend ever for a documentary, per TechCrunch and The Hill.",
+   "zh-TW": "近三小時的伊麗莎白·霍姆斯（Elizabeth Holmes）紀錄片《You Can See Everything》以 855 塊銀幕有限上映，全美 2,000 場次售罄，創下紀錄片影史第二大的首映週末。"
   },
   "body": {
-   "en": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film. What happened\nEveryone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’. \"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film. Comedian and satirist Nathan Fielder’s documentary about Elizabeth Holmes drew 2,000 sold-out shows in its limited release across the United States. The documentary – called “You Can See Everything” – was released on 855 screens over the weekend, with sold-out shows showing the nearly three-hour film that was expected to focus on Holmes’s life before... Get your daily dose of health and medicine every weekday with STAT&#x2019;s free newsletter Morning Rounds.&#xA0; Sign up here . Happy Friday from sunny San Diego. This is Jonathan Wosen, West Coast biotech & life sciences reporter. We&#x2019;ve got a strong lineup to help you kick off the weekend, featuring the lively final day of our STAT Summit, a pharmacist&#x2019;s insights into why patients Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (TechCrunch, The Hill, STAT News 生技版) in the tech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’\" (TechCrunch); \"Elizabeth Holmes documentary draws 2,000 sold-out shows in limited release\" (The Hill); \"What to read before you go see that new documentary on Elizabeth Holmes\" (STAT News 生技版).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechCrunch, The Hill, STAT News 生技版",
-   "zh-TW": "《你可以看到一切》迎來了有史以來第二大的紀錄片首映週末。 發生了什麼事\n每個人都在觀看伊麗莎白霍姆斯的紀錄片《你可以看到一切》。 《你可以看到一切》迎來了有史以來第二大的紀錄片首映週末。喜劇演員兼諷刺作家內森菲爾德 (Nathan Fielder) 製作的關於伊麗莎白霍姆斯 (Elizabeth Holmes) 的紀錄片在全美限量發行，吸引了 2,000 場場次全部售空。這部名為《你可以看到一切》的紀錄片於週末在 855 個銀幕上上映，放映場次全部售罄。這部近三個小時的影片原本預計將聚焦在福爾摩斯之前的生活。每個工作日透過 STAT 的免費時事通訊 Morning Rounds 獲取每日的健康和藥物。 在這裡註冊。來自陽光明媚的聖地亞哥的快樂星期五。我是喬納森·沃森，西海岸生物技術與生命科學記者。我們有強大的陣容來幫助您開啟週末，其中包括我們 STAT 高峰會熱鬧的最後一天，藥劑師對患者原因的見解 為什麼這很重要\n此集群由科技類別中 3 個管道（TechCrunch、The Hill、STAT News 生物技術版）的 3 個 Feed 項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「每個人都在觀看伊麗莎白霍爾姆斯的紀錄片《你可以看到一切》」（TechCrunch）；「伊莉莎白霍姆斯的紀錄片在限量發行中吸引了 2,000 場門票，全部售罄」（The Hill）；「在觀看伊莉莎白霍姆斯的新紀錄片之前要讀什麼」（STAT News 生物技術版）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（限媒體名稱）：TechCrunch、The Hill、STAT News 生技版"
+   "en": "'You Can See Everything,' a nearly three-hour documentary about Elizabeth Holmes, is having the second biggest opening weekend ever for a documentary film. The film drew 2,000 sold-out shows in its limited release across the United States, opening on 855 screens over the weekend, according to TechCrunch and The Hill.\nWhat happened\nThe snippets identify the film with comedian and satirist Nathan Fielder and describe it as a nearly three-hour film expected to focus on Holmes's life. The Hill reports the 2,000 sold-out shows figure for the limited US release. Separately, STAT News published a reading guide — “what to read before you go see that new documentary on Elizabeth Holmes” — aimed at viewers heading to screenings.\nWhy it matters\nDocumentary openings of this scale are rare; a second-biggest-ever weekend puts the film in exceptional company and signals that public fascination with the Holmes story has not faded. Sold-out shows across a limited 855-screen release suggest demand well beyond the arthouse crowd, and the STAT reading guide points to a broader cultural conversation building around the film.\nSources agree / disagree\nTechCrunch and The Hill agree on the core box-office beats — the second-biggest documentary opening weekend, 2,000 sold-out shows, 855 screens. STAT's item covers the film from a different angle (a viewer's reading list) rather than the numbers. No numeric or name conflicts appear in the snippets.\nStill uncertain\nThe feed snippets are truncated — the description of what the film focuses on cuts off mid-sentence, and exact gross figures are not included. The precise nature of Nathan Fielder's involvement is described only in passing in the snippets.",
+   "zh-TW": "近三小時的伊麗莎白·霍姆斯（Elizabeth Holmes）紀錄片《You Can See Everything》迎來紀錄片影史第二大的首映週末：855 塊銀幕有限上映，全美 2,000 場次售罄。\n發生了什麼事\n摘要將這部片與喜劇演員兼諷刺作家納森·菲爾德（Nathan Fielder）連結在一起，形容為近三小時的影片，預期聚焦霍姆斯的人生歷程。《國會山報》（The Hill）報導了有限上映 2,000 場售罄的數字。另有一條來自 STAT 新聞的觀影指南，整理「去看這部霍姆斯紀錄片之前可以讀什麼」。\n為什麼重要\n紀錄片能開出這種規模的首映週末極為罕見；影史第二大的成績代表大眾對霍姆斯故事的興趣絲毫未減。855 塊銀幕有限上映還能場場售罄，顯示需求遠超藝術電影的核心觀眾；STAT 的觀影指南也說明，這部片正在帶動更廣泛的文化討論。\n來源異同\nTechCrunch 與《國會山報》在核心票房數字上一致：影史第二大紀錄片首映週末、2,000 場售罄、855 塊銀幕。STAT 的角度不同，是給觀眾的閱讀清單而非票房報導。摘要中沒有數字或名稱衝突。\n仍不確定\n來源摘要多處截斷——影片聚焦內容的描述斷在半句，確切票房金額也未附。納森·菲爾德參與的具體形式，摘要只輕輕帶過。"
   },
   "sources": [
    {
@@ -11944,28 +11944,48 @@
      "zh-TW": "伊麗莎白·霍姆斯"
     },
     "blurb": {
-     "en": "Founder of Theranos, convicted of fraud; subject of the documentary.",
-     "zh-TW": "Theranos 創辦人，因詐欺被定罪；本紀錄片主角。"
+     "en": "Central figure of the documentary 'You Can See Everything.'",
+     "zh-TW": "紀錄片《You Can See Everything》的主角。"
+    }
+   },
+   {
+    "term": {
+     "en": "Nathan Fielder",
+     "zh-TW": "納森·菲爾德"
+    },
+    "blurb": {
+     "en": "Comedian and satirist linked to the documentary in the feed snippets.",
+     "zh-TW": "喜劇演員兼諷刺作家，來源摘要將他與本片連結在一起。"
     }
    },
    {
     "term": {
      "en": "You Can See Everything",
-     "zh-TW": "《你可以看到一切》"
+     "zh-TW": "《You Can See Everything》"
     },
     "blurb": {
-     "en": "Documentary about the Theranos scandal with a record opening weekend.",
-     "zh-TW": "講述 Theranos 醜聞的紀錄片，首映週末票房創紀錄。"
+     "en": "Nearly three-hour documentary about Elizabeth Holmes.",
+     "zh-TW": "關於伊麗莎白·霍姆斯的近三小時紀錄片。"
     }
    },
    {
     "term": {
-     "en": "Theranos",
-     "zh-TW": "Theranos"
+     "en": "TechCrunch",
+     "zh-TW": "TechCrunch"
     },
     "blurb": {
-     "en": "Blood-testing startup whose technology was revealed to be fraudulent.",
-     "zh-TW": "血液檢測新創公司，其技術後被揭發為造假。"
+     "en": "Technology news outlet reporting the film's record opening weekend.",
+     "zh-TW": "科技新聞媒體，報導本片的破紀錄首映週末。"
+    }
+   },
+   {
+    "term": {
+     "en": "The Hill",
+     "zh-TW": "國會山報"
+    },
+    "blurb": {
+     "en": "US news outlet reporting the 2,000 sold-out shows.",
+     "zh-TW": "美國新聞媒體，報導 2,000 場售罄。"
     }
    }
   ]
@@ -11983,16 +12003,16 @@
   },
   "publishedAt": "2026-10-18T15:00:00.000Z",
   "title": {
-   "en": "9to5Toys Battlestation Weekly: Save $580 on Legion Go S SteamOS handheld, RTX 50-series PCs/laptops up to $900 off, more",
-   "zh-TW": "9to5Toys Battlestation Weekly：購買 Legion Go S SteamOS 手持設備、RTX 50 系列 PC/筆記型電腦可節省 580 美元，最高可優惠 900 美元，更多"
+   "en": "9to5Toys Battlestation Weekly: $580 off Legion Go S SteamOS handheld, up to $900 off RTX 50-series PCs and laptops",
+   "zh-TW": "9to5Toys 本週電競優惠：Legion Go S SteamOS 掌機折 580 美元，RTX 50 系列 PC 與筆電最高折 900 美元"
   },
   "summary": {
-   "en": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz …",
-   "zh-TW": "搭載 SteamOS 的 Legion Go S 是 789 美元 Steam Deck OLED 的相當可靠的替代品。它運行相同的軟體，但採用兩級觸發器的設計，更大的 8 英寸 IPS 螢幕（1080p 和高達 120Hz..."
+   "en": "This week's Battlestation Weekly rounds up PC gaming deals: Lenovo's 32GB/1TB Legion Go S SteamOS handheld is $580 off — one of its best discounts in months — with RTX 50-series gaming PCs and laptops up to $900 off, plus markdowns on gaming laptops, desktops and handhelds.",
+   "zh-TW": "本週 Battlestation Weekly 整理 PC 遊戲優惠：聯想 32GB/1TB 版 Legion Go S SteamOS 掌機折價 580 美元，創數月來最佳折扣；RTX 50 系列遊戲 PC 與筆電最高折 900 美元，另有遊戲筆電、桌機與掌機的多檔降價。"
   },
   "body": {
-   "en": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the What happened\n9to5Toys Battlestation Weekly: Save $580 on Legion Go S SteamOS handheld, RTX 50-series PCs/laptops up to $900 off, more. The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage (32GB and 1TB, respectively), not to mention a slightly faster processor in the Ryzen Z1 Extreme. At $9 Welcome to 9to5Toys Battlestation Weekly – your go-to spot for the notable deals and latest releases in PC gaming at a glance every Saturday morning. There are some seriously good hardware deals to check out this week, with notable markdowns on gaming laptops, desktops, and handhelds. Lenovo’s 32GB/1TB Legion Go S is seeing one of its best discounts in months, and there are also some great deals o Welcome to 9to5Toys News Weekly – your go-to spot to catch up on the latest new product releases, features, and hands-on reviews. This week we got the Apple TV 4K, the next-gen Apple TV Siri Remote at $59 , and HomePod mini 2 . All of that joins a host of new iPhone Duo cases, Amazon’s latest AI wearables, and the new Xbox Nano controller. Check it all out below. more… Good morning and welcome to Best of 9to5Toys Weekly – a one-stop shop for all of the week’s best deals on Apple gear, Samsung and Android tech, accessories for smartphones and Macs, intelligent household upgrades, and even deals to update your wardrobe. Alongside the ongoing deal on AirPods Pro 3 at $50 off, this weekend is highlighted by the first discount on the next-gen Apple TV 4K and HomeView Why it matters\nThis cluster was assembled from 5 feed item(s) across 2 outlet(s) (The Verge, 9to5Toys) in the tech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Lenovo’s fast, comfy SteamOS handheld is hundreds off\" (The Verge); \"9to5Toys Battlestation Weekly: Save $580 on Legion Go S SteamOS handheld, RTX 50-series PCs/laptops up to $900 off, more\" (9to5Toys); \"9to5Toys News Weekly recap – HomeView, Apple TV, Xbox Nano, ‘world’s first VR doorbell’ and more\" (9to5Toys); \"Best of 9to5Toys – This week’s top deals: Next-gen Apple TV 4K, iPhone Duo cases, chargers, more\" (9to5Toys); \"This weekend’s Apple deals: HomeView, Apple TV 4K, AirPods, MacBook Pro, mini, more\" (9to5Toys).\nFigures differ across outlets (e.g. 789 vs 580 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Verge, 9to5Toys",
-   "zh-TW": "搭載 SteamOS 的 Legion Go S 是 789 美元 Steam Deck OLED 的相當可靠的替代品。它運行相同的軟體，但採用兩級觸發器的設計，更大的 8 英寸 IPS 螢幕（1080p 和高達 120Hz，而 Deck OLED 為 800p 和 90Hz），並且它的螢幕亮度是原來的兩倍。 發生了什麼事\n9to5Toys Battlestation Weekly：購買 Legion Go S SteamOS 手持裝置、RTX 50 系列 PC/筆記型電腦可節省 580 美元，最高可節省 900 美元。搭載 SteamOS 的 Legion Go S 是 789 美元 Steam Deck OLED 的相當可靠的替代品。它運行相同的軟體，但採用兩級觸發器的設計，更大的 8 英寸 IPS 屏幕（1080p 和高達 120Hz，而 Deck OLED 中為 800p 和 90Hz），並且 RAM 和存儲空間增加了一倍（分別為 32GB 和 1TB），更不用說 Ryzen Z1 Extreme 中稍快的處理器了。售價 9 美元 歡迎來到 9to5Toys Battlestation Weekly - 您可以在每週六早上瀏覽 PC 遊戲的著名優惠和最新版本。本周有一些非常好的硬體交易值得一看，其中遊戲筆記型電腦、桌上型電腦和手持設備都有顯著的降價。聯想的 32GB/1TB Legion Go S 迎來了數月來的最大折扣之一，而且還有一些超值優惠。 歡迎來到 9to5Toys 新聞周刊 - 您了解最新產品發布、功能和實際評測的最佳地點。本週我們收到了 Apple TV 4K、售價 59 美元的下一代 Apple TV Siri Remote 和 HomePod mini 2。所有這些都與一系列新的 iPhone Duo 保護殼、亞馬遜最新的人工智慧穿戴裝置以及新的 Xbox Nano 控制器相結合。請在下面查看全部內容。更多... 早安，歡迎來到 Best of 9to5Toys Weekly – 一站式商店，提供本週所有最優惠的 Apple 設備、三星和 Android 技術、智慧型手機和 Mac 配件、智慧家居升級，甚至還有更新衣櫃的優惠。除了 AirPods Pro 3 正在進行的 50 美元折扣之外，本週末的亮點還包括下一代 Apple TV 4K 和 HomeView 的首次折扣 為什麼這很重要\n此集群由科技類別中 2 個管道（The Verge、9to5Toys）的 5 個 Feed 項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「聯想快速、舒適的 SteamOS 手持設備已降價數百美元」（The Verge）；「9to5Toys Battlestation Weekly：購買 Legion Go S SteamOS 手持設備可節省 580 美元，RTX 50 系列 PC/筆記型電腦最高可節省 900 美元， Nano、『世界上第一個 VR 門鈴』等」(9to5Toys); “9to5Toys 精選 – 本週最優惠：下一代 Apple TV 4K、iPhone Duo 保護殼、充電器等”(9to5Toys); “本週末的 Apple 優惠：HomeView、Apple TV 4K、AirPods、MacBook Proto、BBook）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 789 與 580）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限頻道名稱）：The Verge、9to5Toys"
+   "en": "The Legion Go S with SteamOS is $580 off in this week's 9to5Toys Battlestation Weekly, headlining a roundup that also cuts up to $900 off RTX 50-series gaming PCs and laptops.\nWhat happened\nThe weekly roundup flags Lenovo's 32GB/1TB Legion Go S at one of its best discounts in months. The Verge's snippet frames the device as a strong alternative to the $789 Steam Deck OLED: it runs identical software but adds two-stage triggers, a bigger eight-inch 1080p IPS screen running up to 120Hz (versus 800p and 90Hz on the Deck OLED), double the RAM and storage (32GB and 1TB), and a slightly faster Ryzen Z1 Extreme processor. Beyond the handheld, the roundup lists notable markdowns on gaming laptops, desktops and handhelds. Elsewhere in the week's 9to5Toys coverage there are Apple-adjacent deals: the first discount on the next-gen Apple TV 4K, the next-gen Apple TV Siri Remote at $59, HomePod mini 2, and AirPods Pro 3 at $50 off.\nWhy it matters\nHandheld PC gaming is in a price war, and a $580 cut on a 32GB/1TB SteamOS device rewrites the value math against Valve's Deck OLED. The RTX 50-series discounts matter too — current-gen gaming laptops rarely see $900 cuts outside major sales events, which makes this week's list unusually aggressive for mid-October.\nSources agree / disagree\n9to5Toys is the deals source; The Verge snippet supplies the product context and spec comparison for the Legion Go S. The two complement rather than duplicate each other, and no price or spec conflicts appear in the snippets.\nStill uncertain\nDeal prices are time-limited and the snippets are truncated mid-roundup; final checkout prices, regional availability and whether the RTX discounts stack with other offers are not in the feed.",
+   "zh-TW": "本週 9to5Toys Battlestation Weekly 的主打優惠是 SteamOS 版 Legion Go S 折價 580 美元，同場還有 RTX 50 系列遊戲 PC 與筆電最高折 900 美元。\n發生了什麼事\n本週優惠清單點名聯想 32GB/1TB 版 Legion Go S，創下數月來最佳折扣。The Verge 的摘要把它定位為 789 美元 Steam Deck OLED 的有力替代品：軟體完全相同，但多了兩段式扳機、更大的 8 吋 1080p IPS 螢幕（最高 120Hz，對比 Deck OLED 的 800p／90Hz）、兩倍的記憶體與儲存空間（32GB／1TB），以及稍快的 Ryzen Z1 Extreme 處理器。掌機之外，清單還有多款遊戲筆電、桌機與掌機的降價。本週 9to5Toys 其他報導另有蘋果周邊優惠：新一代 Apple TV 4K 首度折扣、新一代 Siri Remote 59 美元、HomePod mini 2，以及 AirPods Pro 3 折 50 美元。\n為什麼重要\nPC 掌機正在打價格戰，32GB／1TB 的 SteamOS 機種一口氣折 580 美元，直接改寫對 Valve Deck OLED 的性價比算式。RTX 50 系列最高折 900 美元也不尋常——現役世代的遊戲筆電很少在大型檔期之外出現這種砍價，讓本週清單在 10 月中顯得格外兇。\n來源異同\n優惠資訊來自 9to5Toys，The Verge 的摘要補上 Legion Go S 的產品背景與規格對比，兩者互補而非重複。摘要中沒有價格或規格衝突。\n仍不確定\n優惠價格都有時效，摘要也在清單中段截斷；結帳實際金額、地區供貨、RTX 折扣能否疊加其他優惠，來源都沒寫。"
   },
   "sources": [
    {
@@ -12029,18 +12049,8 @@
      "zh-TW": "Legion Go S"
     },
     "blurb": {
-     "en": "Lenovo's handheld gaming PC running SteamOS, a Steam Deck alternative.",
-     "zh-TW": "聯想推出的 SteamOS 掌上遊戲機，Steam Deck 的替代選擇。"
-    }
-   },
-   {
-    "term": {
-     "en": "SteamOS",
-     "zh-TW": "SteamOS"
-    },
-    "blurb": {
-     "en": "Valve's Linux-based operating system for handheld gaming.",
-     "zh-TW": "Valve 為掌上遊戲打造的 Linux 作業系統。"
+     "en": "Lenovo's SteamOS handheld gaming PC, $580 off this week.",
+     "zh-TW": "聯想 SteamOS 掌上型遊戲 PC，本週折價 580 美元。"
     }
    },
    {
@@ -12049,18 +12059,38 @@
      "zh-TW": "Steam Deck OLED"
     },
     "blurb": {
-     "en": "Valve's $789 handheld with OLED display; the benchmark rival here.",
-     "zh-TW": "Valve 789 美元的 OLED 掌機；本文比較的基準對手。"
+     "en": "Valve's OLED handheld gaming PC, priced at $789 in the comparison.",
+     "zh-TW": "Valve 的 OLED 掌上型遊戲 PC，對比中售價 789 美元。"
     }
    },
    {
     "term": {
-     "en": "RTX 50-series",
-     "zh-TW": "RTX 50 系列"
+     "en": "Ryzen Z1 Extreme",
+     "zh-TW": "Ryzen Z1 Extreme"
     },
     "blurb": {
-     "en": "NVIDIA's latest GeForce GPU lineup for PCs and laptops.",
-     "zh-TW": "NVIDIA 最新 GeForce 顯示卡系列，涵蓋桌機與筆電。"
+     "en": "AMD processor powering the Legion Go S.",
+     "zh-TW": "驅動 Legion Go S 的 AMD 處理器。"
+    }
+   },
+   {
+    "term": {
+     "en": "SteamOS",
+     "zh-TW": "SteamOS"
+    },
+    "blurb": {
+     "en": "Valve's Linux-based gaming operating system running on the Legion Go S.",
+     "zh-TW": "Valve 的 Linux 遊戲作業系統，Legion Go S 搭載此系統。"
+    }
+   },
+   {
+    "term": {
+     "en": "9to5Toys",
+     "zh-TW": "9to5Toys"
+    },
+    "blurb": {
+     "en": "Deals-focused tech publication behind the Battlestation Weekly roundup.",
+     "zh-TW": "專注優惠情報的科技媒體，本週優惠清單的出處。"
     }
    }
   ]
@@ -12082,12 +12112,12 @@
    "zh-TW": "第三季中國經濟成長4.5% 超預期"
   },
   "summary": {
-   "en": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
-   "zh-TW": "第三季中國經濟成長加速，外國對中國科技產品的需求在很大程度上抵消了消費需求的疲軟。"
+   "en": "China's economy grew 4.5% in the third quarter, beating forecasts, as foreign demand for the country's technological goods largely offset sluggish consumer demand. Export strength amid an AI-driven boom helped, though trade tensions and AI doubts cloud the outlook; analysts say the pace puts China on track for its full-year target.",
+   "zh-TW": "中國第三季經濟成長 4.5%，優於預期：外國對中國科技產品的需求大致抵消了內需疲軟。AI 帶動的出口熱潮是助力，但貿易緊張與 AI 疑慮仍讓前景蒙上陰影；分析師認為此增速讓中國有望達成全年目標。"
   },
   "body": {
-   "en": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand. What happened\nChina’s economy grows 4.5 percent in Q3, beating forecasts. China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand. Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook. GDP growth picks up from Q2 amid AI-driven boom in exports. Third-quarter GDP rate puts world’s second-biggest economy on track for full-year target, analysts say Why it matters\nThis cluster was assembled from 4 feed item(s) across 4 outlet(s) (CNBC, BBC Business, Al Jazeera, Financial Times) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates\" (CNBC); \"China's growth accelerates as AI boom helps boost exports\" (BBC Business); \"China’s economy grows 4.5 percent in Q3, beating forecasts\" (Al Jazeera); \"China’s economy picks up pace at 4.5% growth\" (Financial Times).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): CNBC, BBC Business, Al Jazeera, Financial Times",
-   "zh-TW": "第三季中國經濟成長加速，外國對中國科技產品的需求在很大程度上抵消了消費需求的疲軟。 發生了什麼事\n第三季中國經濟成長4.5%，超出預期。第三季中國經濟成長加速，外國對中國科技產品的需求在很大程度上抵消了消費需求的疲軟。出口幫助抵消了國內支出疲軟的影響，但貿易緊張局勢和人工智慧疑慮給其前景蒙上陰影。在人工智慧驅動的出口熱潮中，GDP 成長速度較第二季回升。分析師表示，第三季GDP成長率使世界第二大經濟體有望實現全年目標 為什麼這很重要\n此集群由金融類別中 4 個管道（CNBC、BBC Business、Al Jazeera、Financial Times）的 4 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「出口激增，中國第三季度經濟增速加快至 4.5%，超出預期」（CNBC）； “人工智能繁榮有助於促進出口，中國經濟增長加速”（BBC Business）； “第三季度中國經濟增長 4.5%，超出預期”（半島電視台）；“中國經濟以 4.5% 的速度增長”（金融時報）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：CNBC、BBC Business、半島電視台、金融時報"
+   "en": "China's economy grew 4.5 percent in the third quarter, beating forecasts, as foreign demand for the country's technological goods largely offset sluggish consumer demand.\nWhat happened\nThird-quarter GDP growth picked up from the second quarter, powered by an AI-driven boom in exports. Exports have helped offset weak spending at home, and analysts say the 4.5% pace puts the world's second-biggest economy on track for its full-year target. But the same reports flag clouds over the outlook: trade tensions and doubts around AI.\nWhy it matters\nA beat on Chinese GDP moves global expectations — it feeds into commodity demand, supply-chain planning and the broader debate over whether China's growth model can keep delivering its official targets. The composition matters as much as the number: growth is being carried by foreign demand for tech goods while domestic consumers stay cautious, which leaves the recovery lopsided.\nSources agree / disagree\nCNBC, BBC Business, Al Jazeera and the Financial Times all report the same 4.5% third-quarter figure and the same beat-vs-forecast framing, with closely matching headlines. No numeric or name conflicts appear in the snippets.\nStill uncertain\nThe snippets are brief — the exact forecast that was beaten, the breakdown between export and domestic contributions, and any revisions to earlier quarters are not included.",
+   "zh-TW": "中國第三季經濟成長 4.5%，優於預期：外國對中國科技產品的需求大致抵消了內需消費的疲軟。\n發生了什麼事\n第三季 GDP 增速較第二季回升，由 AI 帶動的出口熱潮推動。出口抵消了國內支出疲軟，分析師表示，4.5% 的增速讓這個世界第二大經濟體有望達成全年目標。但同一批報導也點出隱憂：貿易緊張局勢與圍繞 AI 的疑慮給前景蒙上陰影。\n為什麼重要\n中國 GDP 優於預期會牽動全球預期——影響大宗商品需求、供應鏈規劃，以及中國成長模式能否持續達標的辯論。結構跟數字同樣重要：成長靠的是外國對科技產品的需求，國內消費者依然謹慎，復甦並不均衡。\n來源異同\nCNBC、BBC 商業版（BBC Business）、半島電視台（Al Jazeera）與《金融時報》（Financial Times）報導的第三季數字都是 4.5%，「優於預期」的框架也一致，標題高度雷同。摘要中沒有數字或名稱衝突。\n仍不確定\n來源只是簡短摘要而非全文：被超越的預測值確切是多少、出口與內需各自貢獻多少、前幾季數字有無修正，摘要都沒寫。"
   },
   "sources": [
    {
@@ -12125,22 +12155,52 @@
   "glossary": [
    {
     "term": {
-     "en": "Q3",
-     "zh-TW": "第三季"
+     "en": "China",
+     "zh-TW": "中國"
     },
     "blurb": {
-     "en": "The third quarter (July–September) of the fiscal year.",
-     "zh-TW": "會計年度第三季（7–9 月）。"
+     "en": "World's second-biggest economy; Q3 GDP grew 4.5%, beating forecasts.",
+     "zh-TW": "世界第二大經濟體，第三季 GDP 成長 4.5%，優於預期。"
     }
    },
    {
     "term": {
-     "en": "GDP growth",
-     "zh-TW": "GDP 成長"
+     "en": "CNBC",
+     "zh-TW": "CNBC"
     },
     "blurb": {
-     "en": "Year-on-year change in gross domestic product, a key economic indicator.",
-     "zh-TW": "國內生產毛額年增率，關鍵經濟指標。"
+     "en": "US financial news outlet covering the Q3 growth beat.",
+     "zh-TW": "美國財經新聞媒體，報導第三季成長優於預期。"
+    }
+   },
+   {
+    "term": {
+     "en": "BBC Business",
+     "zh-TW": "BBC 商業版"
+    },
+    "blurb": {
+     "en": "BBC's business desk, reporting AI-boom-driven export strength.",
+     "zh-TW": "BBC 商業新聞部門，報導 AI 熱潮帶動的出口動能。"
+    }
+   },
+   {
+    "term": {
+     "en": "Al Jazeera",
+     "zh-TW": "半島電視台"
+    },
+    "blurb": {
+     "en": "Qatar-based news outlet covering China's 4.5% Q3 growth.",
+     "zh-TW": "卡達新聞媒體，報導中國第三季 4.5% 成長。"
+    }
+   },
+   {
+    "term": {
+     "en": "Financial Times",
+     "zh-TW": "金融時報"
+    },
+    "blurb": {
+     "en": "UK financial newspaper reporting the growth pickup.",
+     "zh-TW": "英國財經報紙，報導成長加速。"
     }
    }
   ]
@@ -12162,12 +12222,12 @@
    "zh-TW": "新墨西哥州和埃爾帕索在氣候計畫上花費了數百萬美元。三個新的資料中心可以消除它們。"
   },
   "summary": {
-   "en": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
-   "zh-TW": "在一波抵制浪潮中，一些對產業友善的團體正在採用富有創意且經過時間考驗的策略來吸引年輕人。"
+   "en": "New Mexico and El Paso spent millions on climate plans, but three new data centers could undo them: Meta is building a massive facility on El Paso's northeast edge, on the New Mexico border. Separately, Wired reports industry-friendly groups are courting youth — ‘your kid's field trip’ — to sell data centers.",
+   "zh-TW": "新墨西哥州與埃爾帕索（El Paso）砸下數百萬美元做氣候計畫，但三座新資料中心可能讓一切白費：Meta 正在埃爾帕索東北邊緣、緊鄰新墨西哥州界興建大型設施。另據《連線》（Wired）報導，親產業團體正以「你孩子的校外教學」向年輕世代推銷資料中心。"
   },
   "body": {
-   "en": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth. What happened\nNew Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.. Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth. Meta is building a massive data center on the northeast edge of El Paso, Texas, on the New Mexico border. Paul Ratje for ProPublica and The Texas Tribune Last December, New Mexico officials celebrated publication of a plan to address climate change, designed to dramatically reduce the state’s greenhouse gas emissions by 2050. A few months later, just across the state line in Texas, El Paso city of Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (Wired AI, ProPublica) in the ai category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Data Centers Have a New PR Plan: Your Kid’s Field Trip\" (Wired AI); \"New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.\" (ProPublica).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Wired AI, ProPublica",
-   "zh-TW": "在一波抵制浪潮中，一些對產業友善的團體正在採用富有創意且經過時間考驗的策略來吸引年輕人。 發生了什麼事\n新墨西哥州和埃爾帕索在氣候計畫上花費了數百萬美元。三個新的資料中心可能會扭轉局面。在強烈反對浪潮中，一些對行業友好的團體正在採用富有創意且經過時間考驗的策略來吸引年輕人。 Meta 正在德州埃爾帕索東北邊緣、新墨西哥州邊境建造一座大型資料中心。 Paul Ratje for ProPublica 和《德州論壇報》 去年 12 月，新墨西哥州官員慶祝了一項應對氣候變遷計畫的發布，該計畫旨在到 2050 年大幅減少該州的溫室氣體排放量。幾個月後，在德州的州界另一邊，埃爾帕索市 為什麼這很重要\n此集群由人工智慧類別中 2 個管道（Wired AI、ProPublica）的 2 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多個媒體報導了密切相關的頭條新聞：“數據中心有一個新的公關計劃：你孩子的實地考察”（Wired AI）； “新墨西哥州和埃爾帕索在氣候計劃上花費了數百萬美元。三個新數據中心可能會毀掉這些計劃。” （ProPublica）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：Wired AI、ProPublica"
+   "en": "New Mexico and El Paso spent millions on climate plans. Three new data centers could undo them.\nWhat happened\nLast December, New Mexico officials celebrated the publication of a plan designed to dramatically reduce the state's greenhouse gas emissions by 2050. A few months later, just across the state line in Texas, Meta began building a massive data center on the northeast edge of El Paso, on the New Mexico border. ProPublica's reporting frames the collision directly: the region's climate spending could be wiped out by the new facilities' footprint. In a separate item, Wired AI reports that amid a wave of backlash, industry-friendly groups are employing creative, time-tested strategies to woo the youth — the headline's pitch is “your kid's field trip,” a PR plan to make data centers lovable.\nWhy it matters\nData centers are the physical cost of the AI boom, and their power demand lands hardest on local grids and local climate math. This story is that tension in miniature: a state writes an ambitious 2050 emissions plan while a hyperscaler builds next door. The youth-outreach angle matters too — it shows the industry knows it has a legitimacy problem and is playing a long game for public acceptance.\nSources agree / disagree\nProPublica and Wired AI cover two different angles of the same data-center backlash — the climate arithmetic and the PR playbook — and neither contradicts the other. No numeric or name conflicts appear in the snippets.\nStill uncertain\nThe snippets are truncated; the exact emissions impact of the three data centers, the status of the El Paso build, and what the field-trip programs actually involve are not detailed.",
+   "zh-TW": "新墨西哥州與埃爾帕索（El Paso）砸下數百萬美元做氣候計畫，但三座新的資料中心可能讓一切付諸東流。\n發生了什麼事\n去年 12 月，新墨西哥州官員高調公布氣候計畫，要在 2050 年前大幅削減全州溫室氣體排放。幾個月後，州界另一頭的德州傳來消息：Meta 正在埃爾帕索東北邊緣、緊鄰新墨西哥州界興建大型資料中心。ProPublica 的報導直接點出衝突：這些新設施的碳足跡，可能抵銷掉地方政府的氣候投資。另一條《連線》（Wired）的消息則說，面對一波抵制聲浪，親產業團體正用富有創意且行之有年的手法拉攏年輕人——標題寫得很直白：「你孩子的校外教學」，一套讓資料中心變可愛的公關計畫。\n為什麼重要\n資料中心是 AI 熱潮的實體代價，用電需求直接壓在地方電網與地方氣候帳本上。這則新聞就是這種張力的縮影：一邊是州政府寫下雄心勃勃的 2050 減排計畫，另一邊是科技巨頭在隔壁大興土木。拉攏年輕人的手法也值得注意——代表產業自知有正當性問題，正在為公眾接受度打長期戰。\n來源異同\nProPublica 談氣候帳本，《連線》談公關劇本，兩家從不同角度切入同一波資料中心反彈，彼此不衝突。摘要中沒有數字或名稱矛盾。\n仍不確定\n來源摘要多處截斷：三座資料中心的確切排碳衝擊、埃爾帕索廠的進度、校外教學計畫的實際內容，摘要都沒細寫。"
   },
   "sources": [
    {
@@ -12196,12 +12256,12 @@
   "glossary": [
    {
     "term": {
-     "en": "New Mexico",
-     "zh-TW": "新墨西哥州"
+     "en": "Meta",
+     "zh-TW": "Meta"
     },
     "blurb": {
-     "en": "US state that spent millions on climate plans now threatened by data centers.",
-     "zh-TW": "投入數百萬美元做氣候計畫的美國州，現受資料中心威脅。"
+     "en": "US technology company building a massive data center on El Paso's northeast edge.",
+     "zh-TW": "美國科技公司，正在埃爾帕索東北邊緣興建大型資料中心。"
     }
    },
    {
@@ -12210,18 +12270,38 @@
      "zh-TW": "埃爾帕索"
     },
     "blurb": {
-     "en": "Texas city facing the same climate-vs-datacenter tension.",
-     "zh-TW": "德州城市，同樣面臨氣候與資料中心的拉扯。"
+     "en": "Texas city on the New Mexico border, site of the new Meta data center.",
+     "zh-TW": "德州城市，緊鄰新墨西哥州界，Meta 新資料中心所在地。"
     }
    },
    {
     "term": {
-     "en": "Data center",
-     "zh-TW": "資料中心"
+     "en": "New Mexico",
+     "zh-TW": "新墨西哥州"
     },
     "blurb": {
-     "en": "Large computing facility; three new ones could undo local climate gains.",
-     "zh-TW": "大型運算設施；三座新建的可能抵銷當地氣候成果。"
+     "en": "US state whose 2050 emissions-reduction plan could be undermined by new data centers.",
+     "zh-TW": "美國州，2050 減排計畫可能被新資料中心抵銷。"
+    }
+   },
+   {
+    "term": {
+     "en": "ProPublica",
+     "zh-TW": "ProPublica"
+    },
+    "blurb": {
+     "en": "US nonprofit investigative newsroom reporting the climate-plans-vs-data-centers collision.",
+     "zh-TW": "美國非營利調查新聞機構，報導氣候計畫與資料中心的衝突。"
+    }
+   },
+   {
+    "term": {
+     "en": "Wired",
+     "zh-TW": "連線"
+    },
+    "blurb": {
+     "en": "Technology media outlet reporting the industry's youth-focused data center PR push.",
+     "zh-TW": "科技媒體，報導產業向年輕世代推銷資料中心的公關操作。"
     }
    }
   ]
@@ -12243,12 +12323,12 @@
    "zh-TW": "抗議演變成騷亂，建築物和商店遭到破壞，法國感到震驚"
   },
   "summary": {
-   "en": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
-   "zh-TW": "法國各地城市發生了數百起抗議活動。他們中的大多數是和平的，但也有一些變得混亂和暴力。"
+   "en": "Hundreds of protests took place in cities across France — most peaceful, but some turned chaotic and violent, with clashes, looting and fires marking some of the worst street violence in years. More than 2,300 people were arrested as President Emmanuel Macron called for calm.",
+   "zh-TW": "法國各地城市爆發數百起抗議，多數和平，但部分演變為混亂暴力，出現近年最嚴重的街頭衝突、搶掠與縱火。超過 2,300 人被捕，總統埃馬紐埃爾·馬克宏（Emmanuel Macron）呼籲冷靜。"
   },
   "body": {
-   "en": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent. What happened\nFrance in Shock After Protests Turn Into Riots, Damaging Buildings and Shops. Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent. After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday. France saw some of its worst street violence in years as protests over education, public services and the cost of living descended into clashes, looting and fires. More than 2,300 people were arrested as President Emmanuel Macron called for calm. (Source: Bloomberg) \"Those who looted will have to pay back for the damage, and those who sought to bring down the Republic will be held accountable,\" Macron said in a televised address to the nation. Why it matters\nThis cluster was assembled from 5 feed item(s) across 5 outlet(s) (NPR World, NYT World, Bloomberg, PBS NewsHour, Inside Climate News) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Student protests widen into greater social unrest in France\" (NPR World); \"France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops\" (NYT World); \"Macron Calls for Order After Violent Protests in France\" (Bloomberg); \"Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests\" (PBS NewsHour); \"How the Climate Crisis Fueled the Youth Protests Roiling France\" (Inside Climate News).\nFigures differ across outlets (e.g. 2 vs 16 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): NPR World, NYT World, Bloomberg, PBS NewsHour, Inside Climate News",
-   "zh-TW": "法國各地城市發生了數百起抗議活動。他們中的大多數是和平的，但也有一些變得混亂和暴力。 發生了什麼事\n抗議演變成騷亂，建築物和商店遭到破壞，法國陷入震驚。法國各地城市發生了數百起抗議活動。他們中的大多數是和平的，但也有一些變得混亂和暴力。反政府抗議活動陷入混亂後，各政治派別的領導人都互相指責對方造成了騷亂，儘管週日騷亂已基本平息。法國出現了多年來最嚴重的街頭暴力事件，針對教育、公共服務和生活成本的抗議活動演變成衝突、搶劫和火災。總統馬克宏呼籲保持冷靜，超過 2,300 人被捕。 （資料來源：彭博）馬克宏在向全國發表電視講話時表示，“那些搶劫的人必須賠償損失，那些試圖推翻共和國的人將被追究責任。” 為什麼這很重要\n該集群由國際類別中 5 個管道（NPR World、NYT World、Bloomberg、PBS NewsHour、Inside Climate News）的 5 個提要項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「學生抗議活動擴大為法國更大的社會動盪」（NPR World）；「抗議演變成騷亂、破壞建築物和商店後，法國感到震驚」（《紐約時報世界》）；「法國暴力抗議後馬克宏呼籲維持秩序」（彭博社）；「馬克族新聞危機（PBS）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 2 比 16）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅媒體名稱）：NPR World、NYT World、Bloomberg、PBS NewsHour、Inside Climate News"
+   "en": "Hundreds of protests took place in cities across France. Most of them were peaceful, but some turned chaotic and violent — and France is in shock.\nWhat happened\nWhat began as anti-government protests over education, public services and the cost of living descended into clashes, looting and fires — some of the country's worst street violence in years, according to Bloomberg. More than 2,300 people were arrested. President Emmanuel Macron called for calm and, in a televised address to the nation, warned: “Those who looted will have to pay back for the damage, and those who sought to bring down the Republic will be held accountable.” Leaders from across the political spectrum blamed one another for the unrest even as it largely subsided on Sunday. NPR notes the unrest began as student protests that widened into greater social unrest.\nWhy it matters\nThe scale — hundreds of demonstrations nationwide — and the turn to violence make this more than a routine protest cycle; it is a stress test for Macron's government and for France's capacity to absorb youth-driven anger over living standards. The cross-party blame game signals the political fallout will outlast the street calm.\nSources agree / disagree\nNPR, the NYT, Bloomberg, PBS NewsHour and Inside Climate News all describe the same arc — protests, some turning violent, Macron responding. The emphases differ: NPR stresses the student-protest origins, the NYT the national shock, Bloomberg Macron's call for order, PBS his condemnation of those who “sought to bring down the Republic,” and Inside Climate News a climate-crisis fuel for the youth protests. No numeric or name conflicts appear in the snippets.\nStill uncertain\nThe snippets are short and partly truncated; the full extent of damage, the final arrest tally, and what concrete steps follow Macron's address are not included.",
+   "zh-TW": "法國各地城市爆發數百起抗議，多數和平，但部分失控演變為暴力騷亂，舉國震驚。\n發生了什麼事\n起初是針對教育、公共服務與生活成本的反政府抗議，後來演變為街頭衝突、搶掠與縱火——彭博（Bloomberg）形容為法國近年最嚴重的街頭暴力之一。超過 2,300 人被捕。總統埃馬紐埃爾·馬克宏（Emmanuel Macron）呼籲冷靜，並在對全國的電視演說中警告：「搶掠者必須賠償損失，企圖顛覆共和國的人將被追究責任。」即使騷亂在週日大致平息，各黨派領袖仍互相指責。NPR 指出，這波動盪始於學生抗議，後來擴大為更廣泛的社會不安。\n為什麼重要\n規模（全國數百場示威）加上暴力轉折，讓這不只是一次例行抗議週期，而是對馬克宏政府、以及法國消化年輕世代對生活水準怒火的能力的一次壓力測試。各黨互踢皮球，代表政治後座力會比街頭平靜維持更久。\n來源異同\nNPR、《紐約時報》、彭博、PBS NewsHour 與 Inside Climate News 描述的脈絡一致：抗議、部分轉為暴力、馬克宏回應。側重不同：NPR 強調學生抗議的起點，《紐約時報》強調舉國震驚，彭博聚焦馬克宏恢復秩序的呼籲，PBS 記錄他譴責「企圖顛覆共和國者」，Inside Climate News 則談氣候危機如何助燃青年抗議。摘要中沒有數字或名稱衝突。\n仍不確定\n來源只是簡短摘要且部分截斷：損失全貌、最終逮捕人數、馬克宏演說後有無具體措施，摘要都沒寫。"
   },
   "sources": [
    {
@@ -12293,12 +12373,52 @@
   "glossary": [
    {
     "term": {
-     "en": "Protest turned riot",
-     "zh-TW": "抗議演變成騷亂"
+     "en": "Emmanuel Macron",
+     "zh-TW": "埃馬紐埃爾·馬克宏"
     },
     "blurb": {
-     "en": "Hundreds of demonstrations across France, some turning violent.",
-     "zh-TW": "法國各地數百起示威，部分演變為暴力騷亂。"
+     "en": "President of France; called for calm and addressed the nation on television.",
+     "zh-TW": "法國總統，呼籲冷靜並發表對全國電視演說。"
+    }
+   },
+   {
+    "term": {
+     "en": "France",
+     "zh-TW": "法國"
+    },
+    "blurb": {
+     "en": "Country where hundreds of protests turned partly violent.",
+     "zh-TW": "爆發數百起抗議、部分轉為暴力的國家。"
+    }
+   },
+   {
+    "term": {
+     "en": "NPR",
+     "zh-TW": "NPR"
+    },
+    "blurb": {
+     "en": "US public radio outlet reporting student protests widening into broader unrest.",
+     "zh-TW": "美國公共廣播電台，報導學生抗議擴大為社會動盪。"
+    }
+   },
+   {
+    "term": {
+     "en": "The New York Times",
+     "zh-TW": "紐約時報"
+    },
+    "blurb": {
+     "en": "US newspaper reporting France's shock after protests turned into riots.",
+     "zh-TW": "美國報紙，報導抗議演變為騷亂後的舉國震驚。"
+    }
+   },
+   {
+    "term": {
+     "en": "Bloomberg",
+     "zh-TW": "彭博"
+    },
+    "blurb": {
+     "en": "Financial news outlet reporting Macron's call for order and 2,300+ arrests.",
+     "zh-TW": "財經新聞媒體，報導馬克宏恢復秩序的呼籲與逾 2,300 人被捕。"
     }
    }
   ]
@@ -12317,15 +12437,15 @@
   "publishedAt": "2026-10-19T04:30:59.000Z",
   "title": {
    "en": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-   "zh-TW": "Anthropic 表示將把 5% 的股份捐給“公益基金”"
+   "zh-TW": "Anthropic 表示將把 5% 的股份投入「公益基金」"
   },
   "summary": {
-   "en": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
-   "zh-TW": "這項消息發布之際，Anthropic 正為轟動一時的股市上市奠定基礎。"
+   "en": "Anthropic says it will commit 5% of its shares to a ‘public benefit fund’ — an unusual pre-IPO pledge that sets aside a slice of the company's equity for public benefit. The announcement comes as the AI startup lays the groundwork for a blockbuster stock market listing, per BBC Business and TechCrunch.",
+   "zh-TW": "Anthropic 表示將把 5% 股份投入「公益基金」——在 IPO 前夕做出這種承諾並不尋常，等於把公司一部分股權留給公益。消息發布之際，這家 AI 新創正為轟動一時的上市鋪路。"
   },
   "body": {
-   "en": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing. What happened\nAnthropic says it’s committing 5% of its shares to a ‘public benefit fund’. The announcement comes as Anthropic lays the ground for a blockbuster stock market listing. Anthropic said that it will commit 5% of its shares to the fund. Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (BBC Business, TechCrunch) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Anthropic says it will commit 5% of its shares to 'public benefit fund'\" (BBC Business); \"Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’\" (TechCrunch).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC Business, TechCrunch Additional feed context\n(1) The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.\n(2) Anthropic said that it will commit 5% of its shares to the fund.",
-   "zh-TW": "這項消息發布之際，Anthropic 正為轟動一時的股市上市奠定基礎。 發生了什麼事\nAnthropic 表示將把 5% 的股份投入「公益基金」。這項消息發布之際，Anthropic 正為轟動一時的股市上市奠定基礎。 Anthropic表示將向該基金投入其5%的股份。 為什麼這很重要\n此集群由金融類別中 2 個管道（BBC Business、TechCrunch）的 2 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「Anthropic 表示將把 5% 的股份捐給『公益基金』」（BBC Business）；「Anthropic 表示將把 5% 的股份投入『公益基金』」（TechCrunch）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC Business、TechCrunch 附加提要上下文\n(1) 這項公告發布之際，Anthropic 正為轟動一時的股市上市奠定基礎。\n(2) Anthropic表示將向該基金投入其5%的股份。"
+   "en": "Anthropic says it is committing 5% of its shares to a ‘public benefit fund’ — just as the AI startup lays the groundwork for a blockbuster stock market listing.\nWhat happened\nAnthropic announced it will commit 5% of its shares to the fund, according to BBC Business and TechCrunch. The announcement comes as the company prepares the ground for a stock market listing described as a blockbuster. The snippets do not detail how the fund will be governed or when the share commitment takes effect.\nWhy it matters\nPre-IPO equity pledges of this size are rare, and the timing is the story: a 5% carve-out signals to future public investors — and to regulators and critics watching frontier AI labs — that the company wants its mission baked into its capital structure. It also sets a bar other AI startups may be measured against as they march toward their own listings.\nSources agree / disagree\nBBC Business and TechCrunch report the same 5% figure and the same fund name, with the same listing context. No numeric or name conflicts appear in the snippets.\nStill uncertain\nThe snippets are brief — the fund's mandate, governance, payout mechanics, and the listing's timing and valuation are all undisclosed in the feed.",
+   "zh-TW": "Anthropic 表示將把 5% 股份投入「公益基金」——而這家 AI 新創正同時為轟動一時的股票上市鋪路。\n發生了什麼事\n據 BBC 商業版（BBC Business）與 TechCrunch 報導，Anthropic 宣布將把 5% 股份投入該基金。消息發布之際，公司正為一場被形容為「轟動」的上市做準備。摘要未說明基金如何治理、股份承諾何時生效。\n為什麼重要\n上市前做出這種規模的股權承諾並不常見，時機本身就是重點：切出 5% 等於向未來的公開市場投資人——以及盯著前沿 AI 實驗室的監管機關與批評者——宣示，公司要把使命寫進資本結構。這也為其他邁向上市的 AI 新創立下標竿。\n來源異同\nBBC 商業版與 TechCrunch 報導的 5% 數字、基金名稱與上市背景完全一致。摘要中沒有數字或名稱衝突。\n仍不確定\n來源摘要很短：基金的宗旨、治理、撥款機制，以及上市的時程與估值，摘要都沒揭露。"
   },
   "sources": [
    {
@@ -12358,28 +12478,38 @@
      "zh-TW": "Anthropic"
     },
     "blurb": {
-     "en": "AI startup (Claude) preparing for a blockbuster stock listing.",
-     "zh-TW": "AI 新創公司（Claude 開發商），正籌備大型上市。"
+     "en": "AI startup committing 5% of its shares to a public benefit fund.",
+     "zh-TW": "AI 新創公司，將把 5% 股份投入公益基金。"
     }
    },
    {
     "term": {
-     "en": "Public benefit fund",
+     "en": "public benefit fund",
      "zh-TW": "公益基金"
     },
     "blurb": {
-     "en": "Fund receiving 5% of Anthropic shares per this announcement.",
-     "zh-TW": "依本公告將獲得 Anthropic 5% 股份的基金。"
+     "en": "Fund set to receive 5% of Anthropic's shares.",
+     "zh-TW": "將接收 Anthropic 5% 股份的基金。"
     }
    },
    {
     "term": {
-     "en": "IPO",
-     "zh-TW": "IPO"
+     "en": "BBC Business",
+     "zh-TW": "BBC 商業版"
     },
     "blurb": {
-     "en": "Initial public offering; the stock market listing Anthropic is preparing.",
-     "zh-TW": "首次公開發行；Anthropic 正在籌備的上市計畫。"
+     "en": "BBC's business desk reporting the share pledge.",
+     "zh-TW": "BBC 商業新聞部門，報導這項股份承諾。"
+    }
+   },
+   {
+    "term": {
+     "en": "TechCrunch",
+     "zh-TW": "TechCrunch"
+    },
+    "blurb": {
+     "en": "Technology news outlet reporting the fund announcement.",
+     "zh-TW": "科技新聞媒體，報導基金成立消息。"
     }
    }
   ]
@@ -12401,12 +12531,12 @@
    "zh-TW": "科學家發現一種天然化合物可以保護大腦免受過多鹽的影響"
   },
   "summary": {
-   "en": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice f…",
-   "zh-TW": "吃太多鹽不僅會導致血壓升高。它還可能損害記憶和社交行為。在一項新研究中，日本研究人員發現，一種名為 LPC70 的大豆衍生化合物有助於保護小鼠…"
+   "en": "Japanese researchers found that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet — lower blood pressure, better memory and improved social behavior. The same ScienceDaily cluster also covers sex differences in skin healing and a sleep–growth-hormone link.",
+   "zh-TW": "日本研究人員發現，大豆衍生化合物 LPC70 有助保護小鼠免受高鹽飲食的多種傷害：血壓較低、記憶較好、社交行為改善。同一批 ScienceDaily 消息還談了皮膚修復的性別差異，以及睡眠與生長激素的關聯。"
   },
   "body": {
-   "en": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given th What happened\nScientists discover a natural compound that could protect the brain from too much salt. Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, better memory, and improved social interactions compared with mice consuming exce Scientists have uncovered a surprising difference in how male and female skin repairs and renews itself. By tracking individual skin stem cells in living mice for five months, researchers discovered that female cells work together in a highly coordinated way, while male cells operate more independently. This synchronization, driven by sex hormones, helps explain why wounds heal faster in female mi Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatments for sleep and neurological disorders. Why it matters\nThis cluster was assembled from 3 feed item(s) across 1 outlet(s) (ScienceDaily 健康醫學) in the biotech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Scientists discover a natural compound that could protect the brain from too much salt\" (ScienceDaily 健康醫學); \"Scientists discover that male and female skin play by different rules\" (ScienceDaily 健康醫學); \"Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain\" (ScienceDaily 健康醫學).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): ScienceDaily 健康醫學",
-   "zh-TW": "吃太多鹽不僅會導致血壓升高。它還可能損害記憶和社交行為。在一項新研究中，日本研究人員發現，一種名為 LPC70 的大豆衍生化合物有助於保護小鼠免受高鹽飲食的多種破壞性影響。小鼠給予 發生了什麼事\n科學家發現了一種天然化合物，可以保護大腦免受過多鹽的影響。吃太多鹽不僅會導致血壓升高。它還可能損害記憶和社交行為。在一項新研究中，日本研究人員發現，一種名為 LPC70 的大豆衍生化合物有助於保護小鼠免受高鹽飲食的多種破壞性影響。與食用補充劑的小鼠相比，服用補充劑的小鼠血壓更低，記憶力更好，社交互動也得到改善。科學家發現，男性和女性皮膚自我修復和更新的方式有驚人的差異。透過對活體小鼠的單一皮膚幹細胞進行五個月的追踪，研究人員發現雌性細胞以高度協調的方式協同工作，而雄性細胞則更加獨立地運作。這種由性荷爾蒙驅動的同步有助於解釋為什麼女性傷口癒合得更快。科學家發現了睡眠和生長激素之間令人驚訝的雙向關係，揭示了大腦如何小心地平衡身體恢復與清醒之間的關係。這些發現可能有助於解釋為什麼睡眠不佳會損害新陳代謝和大腦健康，從而可能為睡眠和神經系統疾病的新療法打開大門。 為什麼這很重要\n此集群由生物技術類別中 1 個管道（科學日報健康醫學）的 3 個飼料項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「科學家發現了一種天然化合物，可以保護大腦免受過多鹽的影響」（每日科學健康醫學）；「科學家發現男性和女性皮膚遵循不同的規則」（ScienceDaily 健康醫學）；「科學家發現深度睡眠如何增強肌肉、燃燒脂肪和增強大腦功能」（每日科學健康醫學）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限通路名稱）：ScienceDaily 健康醫學"
+   "en": "Eating too much salt may do more than raise blood pressure — it could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet.\nWhat happened\nMice given the LPC70 supplement had lower blood pressure, better memory, and improved social interactions compared with mice consuming excess salt, according to the ScienceDaily item. The same feed cluster carries two unrelated ScienceDaily items: one on a surprising difference in how male and female skin repairs itself — researchers tracked individual skin stem cells in living mice for five months and found female cells work together in a highly coordinated way, driven by sex hormones, which helps explain why wounds heal faster in female mice — and one on a newly discovered two-way relationship between sleep and growth hormone, showing how the brain balances physical recovery with wakefulness, with possible implications for metabolism, brain health and future treatments for sleep and neurological disorders.\nWhy it matters\nThe salt finding widens the stakes of a high-sodium diet from cardiovascular risk to cognition and behavior — and points to a dietary compound as a potential protective lever. The skin and sleep items matter in their own right: sex-aware healing biology and the sleep–hormone loop are both active frontiers with direct treatment implications.\nSources agree / disagree\nAll three items come from a single outlet, ScienceDaily's health and medicine desk; they are separate studies, not corroborating reports, and there are no conflicts between them.\nStill uncertain\nThese are mouse studies reported in truncated feed snippets — whether LPC70's protection translates to humans, and the clinical path for the skin and sleep findings, are all unaddressed in the feed.",
+   "zh-TW": "吃太多鹽不只升高血壓，還可能損害記憶與社交行為。在一項新研究中，日本研究人員發現大豆衍生化合物 LPC70 有助保護小鼠免受高鹽飲食的多種傷害。\n發生了什麼事\n據 ScienceDaily 報導，與攝取過量鹽分的小鼠相比，補充 LPC70 的小鼠血壓較低、記憶較好，社交互動也有改善。同一批來源還有兩則不相關的 ScienceDaily 消息：一是男女皮膚修復方式的驚人差異——研究人員在活體小鼠身上追蹤個別皮膚幹細胞五個月，發現雌性細胞以高度協調的方式協同工作，受性激素驅動，這有助解釋為何雌性小鼠傷口癒合較快；二是睡眠與生長激素之間新發現的雙向關係，顯示大腦如何精細平衡身體修復與清醒，可能有助解釋熬夜為何傷害代謝與腦健康，並為睡眠與神經疾病的新療法開門。\n為什麼重要\n鹽的發現把高鈉飲食的風險從心血管擴大到認知與行為，也指向一種飲食化合物可能成為保護手段。皮膚與睡眠兩則各有分量：具性別意識的癒合生物學、睡眠—激素迴路，都是有直接治療意涵的活躍前沿。\n來源異同\n三則都來自同一家：ScienceDaily 健康醫學版；是三項各自獨立的研究，互不佐證，也無衝突。\n仍不確定\n這些都是小鼠研究，且來源摘要多處截斷：LPC70 的保護作用能否轉譯到人類，皮膚與睡眠發現的臨床路徑為何，摘要都沒談。"
   },
   "sources": [
    {
@@ -12436,18 +12566,38 @@
      "zh-TW": "LPC70"
     },
     "blurb": {
-     "en": "Soy-derived compound found to protect mouse brains from excess salt.",
-     "zh-TW": "大豆衍生化合物，研究發現可保護小鼠大腦免受過量鹽害。"
+     "en": "Soy-derived compound that protected mice from high-salt diet effects in the study.",
+     "zh-TW": "大豆衍生化合物，在研究中保護小鼠免受高鹽飲食傷害。"
     }
    },
    {
     "term": {
-     "en": "Excess salt",
-     "zh-TW": "過量鹽分"
+     "en": "ScienceDaily",
+     "zh-TW": "ScienceDaily"
     },
     "blurb": {
-     "en": "Linked in the study to memory and social behavior harm beyond blood pressure.",
-     "zh-TW": "研究指出除血壓外，還可能損害記憶與社交行為。"
+     "en": "Science news site; its health and medicine desk is the cluster's sole outlet.",
+     "zh-TW": "科學新聞網站；其健康醫學版是這批消息的唯一出處。"
+    }
+   },
+   {
+    "term": {
+     "en": "Japanese researchers",
+     "zh-TW": "日本研究團隊"
+    },
+    "blurb": {
+     "en": "Research team behind the LPC70 high-salt-diet mouse study.",
+     "zh-TW": "LPC70 高鹽飲食小鼠研究背後的研究團隊。"
+    }
+   },
+   {
+    "term": {
+     "en": "growth hormone",
+     "zh-TW": "生長激素"
+    },
+    "blurb": {
+     "en": "Hormone newly linked to sleep in a two-way relationship.",
+     "zh-TW": "與睡眠新發現雙向關聯的激素。"
     }
    }
   ]
@@ -12469,12 +12619,12 @@
    "zh-TW": "澤倫斯基表示，如果川普支持俄羅斯，他將面臨「歷史性錯誤」的風險"
   },
   "summary": {
-   "en": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-   "zh-TW": "美國總統在製裁生效前兩天阻止了對俄羅斯的多項制裁。"
+   "en": "President Volodymyr Zelensky warned Donald Trump risks a ‘historic mistake’ if he backs Russia, after the US president blocked numerous sanctions on Russia two days before they took effect. Trump defended the waiver as keeping Moscow at the negotiating table; Zelensky also pressed for clarity on possible Starshield restrictions.",
+   "zh-TW": "美國總統在制裁生效前兩天擋下對俄羅斯的多項制裁，烏克蘭總統澤倫斯基（Volodymyr Zelensky）警告，川普（Donald Trump）若倒向俄羅斯將犯下「歷史性錯誤」。川普辯稱此舉是讓莫斯科留在談判桌；澤倫斯基同時要求釐清 Starshield 可能的使用限制。"
   },
   "body": {
-   "en": "The US president blocked numerous sanctions on Russia two days before they were due to take effect. What happened\nZelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia. The US president blocked numerous sanctions on Russia two days before they were due to take effect. President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military. President Trump defended his decision to waive Russian sanctions on Sunday, writing in a Truth Social post that it keeps Moscow at the negotiating table amid backlash from both sides of the aisle over the decision. “My decision on Russia is a very simple one. I am in the process of negotiating Peace in the... Why it matters\nThis cluster was assembled from 4 feed item(s) across 4 outlet(s) (BBC World, NYT World, The Hill, Bloomberg News) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump says suspension of Russia sanctions is to keep peace negotiations going\" (BBC World); \"Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia\" (NYT World); \"Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table\" (The Hill); \"Zelenskyy Says Trump Is Pushing Ukraine to Yield to Russia\" (Bloomberg News).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC World, NYT World, The Hill, Bloomberg News",
-   "zh-TW": "美國總統在製裁生效前兩天阻止了對俄羅斯的多項制裁。 發生了什麼事\n澤倫斯基表示，如果川普支持俄羅斯，他將面臨「歷史性錯誤」的風險。美國總統在製裁生效前兩天阻止了對俄羅斯的多項制裁。烏克蘭總統弗拉基米爾·澤倫斯基週日敦促提供有關可能對「星盾」（Starshield）進行限制的更多資訊。 「星盾」是美國提供、烏克蘭軍方使用的衛星網路服務。川普總統週日為自己放棄對俄羅斯制裁的決定進行了辯護，他在《真相社會》的一篇文章中寫道，在兩黨對該決定的強烈反對下，這讓莫斯科留在了談判桌上。 「我對俄羅斯的決定非常簡單。我正在就和平進行談判...... 為什麼這很重要\n該集群由國際類別中 4 個媒體（BBC World、NYT World、The Hill、Bloomberg News）的 4 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「川普表示暫停對俄羅斯的製裁是為了讓和平談判繼續進行」（BBC World）；「澤連斯基表示，如果川普支持俄羅斯，他將面臨『歷史性錯誤』的風險」（紐約時報世界）；「川普為放棄對俄羅斯的製裁進行辯護，稱這可以讓莫斯科在談判中（The Hill）正在推動俄羅斯向川普新聞」（The Hill）正在推動川普。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC World、NYT World、The Hill、Bloomberg News"
+   "en": "The US president blocked numerous sanctions on Russia two days before they were due to take effect — and Ukraine's president says backing Moscow would be a ‘historic mistake.’\nWhat happened\nPresident Volodymyr Zelensky warned that Donald Trump risks a “historic mistake” if he backs Russia. Trump defended his decision to waive the Russian sanctions on Sunday, writing in a Truth Social post that it keeps Moscow at the negotiating table, amid backlash from both sides of the aisle. Separately, Zelensky pressed Sunday for more information on possible restrictions to Starshield, a US-provided satellite internet service used by the Ukrainian military.\nWhy it matters\nSanctions are Washington's main economic leverage over Moscow, so waiving them days before they bite — over the objections of both parties — reframes the US posture from pressure to courtship. Zelensky's “historic mistake” language is aimed at locking in the cost of that shift, while the Starshield question shows Kyiv is also worried about the tools it fights with, not just the diplomacy around it.\nSources agree / disagree\nThe BBC, the NYT, The Hill and Bloomberg agree on the core sequence — sanctions blocked/waived, Trump's negotiating-table rationale, Zelensky's warning. The framing splits: the NYT and Bloomberg foreground Zelensky's alarm (“historic mistake,” “pushing Ukraine to yield”), while the BBC and The Hill foreground Trump's defense. No numeric or name conflicts appear in the snippets.\nStill uncertain\nTrump's Truth Social post is truncated mid-sentence in the feed, and the status of any Starshield restrictions is unknown — Zelensky was asking, not announcing.",
+   "zh-TW": "美國總統在制裁生效前兩天擋下對俄羅斯的多項制裁，烏克蘭總統警告：倒向莫斯科將是「歷史性錯誤」。\n發生了什麼事\n烏克蘭總統弗拉基米爾·澤倫斯基（Volodymyr Zelensky）警告，唐納·川普（Donald Trump）若支持俄羅斯，將犯下「歷史性錯誤」。川普週日為豁免對俄制裁辯護，在 Truth Social 發文稱此舉是讓莫斯科留在談判桌，此決定引來兩黨反彈。另據報導，澤倫斯基週日要求美方說清楚：烏軍使用的美國衛星網路服務 Starshield 是否會被加諸限制。\n為什麼重要\n制裁是華府對莫斯科主要的經濟槓桿，在生效前幾天喊停——還頂著兩黨反對——等於把美國姿態從施壓轉為示好。澤倫斯基的「歷史性錯誤」說法，是要把這種轉向的代價釘死；而 Starshield 的提問顯示，基輔擔心的不只是外交賽局，還有自己打仗用的工具。\n來源異同\nBBC、《紐約時報》、《國會山報》（The Hill）與彭博（Bloomberg）對核心經過一致：制裁被擋／豁免、川普的談判桌說法、澤倫斯基的警告。框架不同：《紐約時報》與彭博凸顯澤倫斯基的警訊（「歷史性錯誤」、「逼烏克蘭讓步」），BBC 與《國會山報》凸顯川普的辯護。摘要中沒有數字或名稱衝突。\n仍不確定\n來源摘要中川普的 Truth Social 貼文斷在半句；Starshield 是否真會被限制也未知——澤倫斯基是在提問，不是宣布。"
   },
   "sources": [
    {
@@ -12512,22 +12662,52 @@
   "glossary": [
    {
     "term": {
-     "en": "Zelensky",
-     "zh-TW": "澤倫斯基"
+     "en": "Volodymyr Zelensky",
+     "zh-TW": "弗拉基米爾·澤倫斯基"
     },
     "blurb": {
-     "en": "President of Ukraine warning against US backing of Russia.",
-     "zh-TW": "烏克蘭總統，警告美國勿支持俄羅斯。"
+     "en": "President of Ukraine; warned Trump against backing Russia.",
+     "zh-TW": "烏克蘭總統，警告川普不要倒向俄羅斯。"
     }
    },
    {
     "term": {
-     "en": "Trump",
-     "zh-TW": "川普"
+     "en": "Donald Trump",
+     "zh-TW": "唐納·川普"
     },
     "blurb": {
-     "en": "US president who blocked Russia sanctions days before they took effect.",
-     "zh-TW": "美國總統，在制裁生效前兩天擋下對俄多項制裁。"
+     "en": "US president; waived Russia sanctions to keep Moscow negotiating.",
+     "zh-TW": "美國總統，為讓莫斯科留在談判桌而豁免對俄制裁。"
+    }
+   },
+   {
+    "term": {
+     "en": "Russia",
+     "zh-TW": "俄羅斯"
+    },
+    "blurb": {
+     "en": "Country whose sanctions were blocked days before taking effect.",
+     "zh-TW": "制裁在生效前幾天被擋下的國家。"
+    }
+   },
+   {
+    "term": {
+     "en": "Starshield",
+     "zh-TW": "Starshield"
+    },
+    "blurb": {
+     "en": "US-provided satellite internet service used by the Ukrainian military.",
+     "zh-TW": "美國提供的衛星網路服務，烏克蘭軍方使用中。"
+    }
+   },
+   {
+    "term": {
+     "en": "Truth Social",
+     "zh-TW": "Truth Social"
+    },
+    "blurb": {
+     "en": "Social platform where Trump defended the sanctions waiver.",
+     "zh-TW": "川普為制裁豁免辯護的社群平台。"
     }
    }
   ]
@@ -12545,16 +12725,16 @@
   },
   "publishedAt": "2026-10-19T03:22:32.000Z",
   "title": {
-   "en": "Jackson doesn't regret telling Collins to 'shut up' after protester interrupted Maine Senate debate",
-   "zh-TW": "抗議者打斷緬因州參議院辯論後，傑克遜並不後悔告訴柯林斯“閉嘴”"
+   "en": "Troy Jackson doesn't regret telling Susan Collins to ‘shut up’ after protester interrupted Maine Senate debate",
+   "zh-TW": "抗議者打斷緬因州參議院辯論，特洛伊·傑克森（Troy Jackson）不後悔叫蘇珊·柯林斯（Susan Collins）「閉嘴」"
   },
   "summary": {
-   "en": "\"She said that it was a Troy supporter. She accused me of setting that up. I had no idea who it was,\" Jackson said.",
-   "zh-TW": "「她說這是特洛伊的支持者。她指責我設計了這件事。我不知道是誰，」傑克森說。"
+   "en": "Democrat Troy Jackson said Sunday he does not regret telling his opponent, Sen. Susan Collins (R-Maine), to ‘shut up’ during a Maine Senate debate interrupted by an anti-data center protester. Asked by CNN's Dana Bash on ‘State of the Union’ whether he regretted it, he answered: ‘No.’",
+   "zh-TW": "民主黨籍的特洛伊·傑克森（Troy Jackson）週日表示，不後悔在緬因州參議院辯論被反資料中心抗議者打斷時，叫對手、共和黨參議員蘇珊·柯林斯（Susan Collins）「閉嘴」。CNN《State of the Union》主持人達娜·巴許（Dana Bash）問他是否後悔，他回答：「沒有。」"
   },
   "body": {
-   "en": "\"She said that it was a Troy supporter. She accused me of setting that up. I had no idea who it was,\" Jackson said. What happened\nJackson doesn't regret telling Collins to 'shut up' after protester interrupted Maine Senate debate. \"She said that it was a Troy supporter. She accused me of setting that up. I had no idea who it was,\" Jackson said. Democrat Troy Jackson said on Sunday he does not regret telling his opponent Sen. Susan Collins (R-Maine) to “shut up” during a candidate debate that was interrupted by an anti-data center protester. During an interview on CNN’s “State of the Union,\" host Dana Bash asked Jackson whether he regretted the comment. “No, you know she... Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (PBS NewsHour, The Hill) in the us category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Jackson doesn't regret telling Collins to 'shut up' after protester interrupted Maine Senate debate\" (PBS NewsHour); \"Troy Jackson doesn't regret telling opponent Susan Collins to 'shut up'\" (The Hill).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): PBS NewsHour, The Hill",
-   "zh-TW": "「她說這是特洛伊的支持者。她指責我設計了這件事。我不知道是誰，」傑克森說。 發生了什麼事\n在抗議者打斷緬因州參議院辯論後，傑克遜並不後悔告訴柯林斯「閉嘴」。 「她說這是特洛伊的支持者。她指責我設計了這件事。我不知道是誰，」傑克森說。民主黨人特洛伊·傑克遜週日表示，他並不後悔在一場被反數據中心抗議者打斷的候選人辯論中告訴對手參議員蘇珊·柯林斯（緬因州共和黨人）“閉嘴”。在接受美國有線電視新聞網「國情咨文」採訪時，主持人達納·巴什問傑克森是否對這一言論感到後悔。 「不，你知道她... 為什麼這很重要\n該集群由美國類別中 2 個渠道（PBS NewsHour、The Hill）的 2 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「傑克遜並不後悔在抗議者打斷緬因州參議院辯論後告訴柯林斯『閉嘴』」（PBS NewsHour）；「特洛伊·傑克遜並不後悔告訴對手蘇珊·柯林斯『閉嘴』」（The Hill）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：PBS NewsHour、The Hill"
+   "en": "“She said that it was a Troy supporter. She accused me of setting that up. I had no idea who it was,” Jackson said — and he doesn't regret telling Collins to “shut up.”\nWhat happened\nDemocrat Troy Jackson said on Sunday he does not regret telling his opponent, Sen. Susan Collins (R-Maine), to “shut up” during a candidate debate that was interrupted by an anti-data center protester. During an interview on CNN's “State of the Union,” host Dana Bash asked Jackson whether he regretted the comment. “No, you know she...” the snippet cuts off — but his answer was clear. Jackson also pushed back on Collins's claim about the protester: “She said that it was a Troy supporter. She accused me of setting that up. I had no idea who it was,” he said.\nWhy it matters\nSenate debates are usually exercises in restraint, so a “shut up” that the candidate refuses to walk back becomes the story — it signals how Jackson wants to be seen: unscripted and combative against an entrenched incumbent. The anti-data center protester is its own subplot: data-center politics are now disruptive enough to crash a Senate debate stage.\nSources agree / disagree\nPBS NewsHour and The Hill report the same exchange — the interruption, the “shut up,” the no-regrets answer on CNN. No conflicts appear in the snippets.\nStill uncertain\nThe snippets truncate Jackson's full CNN answer and give no further detail on the protester or what followed the interruption.",
+   "zh-TW": "「她說那是特洛伊的支持者，還指控是我安排的。我根本不知道那是誰，」傑克森說——而他不後悔叫柯林斯「閉嘴」。\n發生了什麼事\n民主黨籍的特洛伊·傑克森（Troy Jackson）週日表示，不後悔在一場被反資料中心抗議者打斷的候選人辯論中，叫對手、共和黨籍緬因州參議員蘇珊·柯林斯（Susan Collins）「閉嘴」。在 CNN《State of the Union》專訪中，主持人達娜·巴許（Dana Bash）問他是否後悔這句話，摘要在「沒有，你知道她……」處截斷，但他的答案很明確。傑克森也反駁了柯林斯對抗議者的說法：「她說那是特洛伊的支持者，還指控是我安排的。我根本不知道那是誰。」\n為什麼重要\n參議院辯論通常是克制的表演，一句不收回的「閉嘴」就成了新聞本身——這透露了傑克森想塑造的形象：不照本宣科、敢跟現任者硬碰硬。反資料中心抗議者則是另一條支線：資料中心政治如今已經有能力癱瘓一場參議院辯論。\n來源異同\nPBS NewsHour 與《國會山報》（The Hill）報導的經過一致：打斷、「閉嘴」、在 CNN 上不後悔。摘要中沒有衝突。\n仍不確定\n來源摘要截掉了傑克森在 CNN 的完整回答，對抗議者的後續也沒有更多細節。"
   },
   "sources": [
    {
@@ -12583,22 +12763,52 @@
   "glossary": [
    {
     "term": {
-     "en": "Maine Senate debate",
-     "zh-TW": "緬因州參議院辯論"
+     "en": "Troy Jackson",
+     "zh-TW": "特洛伊·傑克森"
     },
     "blurb": {
-     "en": "Debate interrupted by a protester, leading to the 'shut up' exchange.",
-     "zh-TW": "被抗議者打斷的辯論，引發「閉嘴」交鋒。"
+     "en": "Democratic candidate for US Senate in Maine.",
+     "zh-TW": "緬因州聯邦參議員民主黨候選人。"
     }
    },
    {
     "term": {
-     "en": "Collins",
-     "zh-TW": "柯林斯"
+     "en": "Susan Collins",
+     "zh-TW": "蘇珊·柯林斯"
     },
     "blurb": {
-     "en": "Senator told to 'shut up' by Jackson during the debate.",
-     "zh-TW": "在辯論中被傑克森嗆「閉嘴」的參議員。"
+     "en": "Republican US senator from Maine; Jackson's debate opponent.",
+     "zh-TW": "緬因州共和黨聯邦參議員，傑克森的辯論對手。"
+    }
+   },
+   {
+    "term": {
+     "en": "Dana Bash",
+     "zh-TW": "達娜·巴許"
+    },
+    "blurb": {
+     "en": "CNN host who interviewed Jackson on ‘State of the Union.’",
+     "zh-TW": "CNN 主持人，在《State of the Union》專訪傑克森。"
+    }
+   },
+   {
+    "term": {
+     "en": "CNN",
+     "zh-TW": "CNN"
+    },
+    "blurb": {
+     "en": "US broadcaster whose ‘State of the Union’ carried the interview.",
+     "zh-TW": "美國電視媒體，專訪節目《State of the Union》的所屬頻道。"
+    }
+   },
+   {
+    "term": {
+     "en": "Maine",
+     "zh-TW": "緬因州"
+    },
+    "blurb": {
+     "en": "US state holding the Senate debate.",
+     "zh-TW": "舉行這場參議院辯論的美國州。"
     }
    }
   ]
@@ -12616,16 +12826,16 @@
   },
   "publishedAt": "2026-10-19T05:58:07.000Z",
   "title": {
-   "en": "台股收盤／大跌1,655點收46,969點 台積電收2,440元跌2% | AI 人機協作 | 證券 - 經濟日報",
-   "zh-TW": "台股收盤／大跌1,655點收46,969點 台積電收2,440元跌2% | AI 人機協作 | 證券 - 經濟日報"
+   "en": "Taiwan stocks fall 289 points to 46,822 as US tech weakness drags; TSMC pares losses to close flat",
+   "zh-TW": "台股開低走低跌289點收46822點，台積電拉尾盤收平盤"
   },
   "summary": {
-   "en": "（中央社台北19日電）台北股市今天開低震盪，收盤跌289.18點，為46822.08點，跌幅0.61%，成交金額新台幣8251億元。",
-   "zh-TW": "（中央社台北19日電）台北股市今天開低震盪，收盤跌289.18點，為46822.08點，跌幅0.61%，成交金額新台幣8251億元。"
+   "en": "Taiwan stocks opened lower and stayed weak, closing down 289.18 points at 46,822.08 (off 0.61%) on NT$825.1 billion turnover, per CNA. The index plunged more than 940 points intraday to 46,170 before bargain hunting narrowed the loss; TSMC closed flat at NT$2,420. An Economic Daily headline's conflicting figures are flagged below.",
+   "zh-TW": "台股開低走低，終場跌 289.18 點收 46,822.08 點，跌幅 0.61%，成交值新台幣 8,251 億元。盤中一度重挫逾 940 點下探 46,170 點，隨低接買盤進場跌勢收斂；台積電拉尾盤收平盤 2,420 元。《經濟日報》標題的數字與此明顯衝突，詳見「來源異同」。"
   },
   "body": {
-   "en": "（中央社台北19日電）台北股市今天開低震盪，收盤跌289.18點，為46822.08點，跌幅0.61%，成交金額新台幣8251億元。 What happened\n台股收盤／大跌1,655點收46,969點 台積電收2,440元跌2% | AI 人機協作 | 證券 - 經濟日報. （中央社台北19日電）台北股市今天開低震盪，收盤跌289.18點，為46822.08點，跌幅0.61%，成交金額新台幣8251億元。 （中央社記者吳家豪台北19日電）上週五美國科技股走弱，拖累台指期夜盤表現，台股今天開低走低，盤中一度大跌逾940點下探46170點，電子權值股及櫃買指數走勢疲軟，隨低接買盤進場，加權指數跌勢收斂，終場收在46822.08點，下跌289.18點，跌幅0.61%，成交值新台幣8251億元。 台股收盤／大跌1,655點收46,969點 台積電收2,440元跌2% | AI 人機協作 | 證券 經濟日報 Why it matters\nThis cluster was assembled from 3 feed item(s) across 2 outlet(s) (中央社-產經證券, 經濟日報國際（Google News 代理）) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"台股跌289.18點\" (中央社-產經證券); \"台股跌289點收46822點　台積電拉尾盤收平盤2420元\" (中央社-產經證券); \"台股收盤／大跌1,655點收46,969點 台積電收2,440元跌2% | AI 人機協作 | 證券 - 經濟日報\" (經濟日報國際（Google News 代理）).\nFigures differ across outlets (e.g. 289.18 vs 1 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 中央社-產經證券, 經濟日報國際（Google News 代理） Additional feed context\n(1) （中央社台北19日電）台北股市今天開低震盪，收盤跌289.18點，為46822.08點，跌幅0.61%，成交金額新台幣8251億元。\n(2) （中央社記者吳家豪台北19日電）上週五美國科技股走弱，拖累台指期夜盤表現，台股今天開低走低，盤中一度大跌逾940點下探46170點，電子權值股及櫃買指數走勢疲軟，隨低接買盤進場，加權指數跌勢收斂，終場收在46822.08點，下跌289.18點，跌幅0.61%，成交值新台幣8251億元。\n(3) 台股收盤／大跌1,655點收46,969點 台積電收2,440元跌2% | AI 人機協作 | 證券 經濟日報",
-   "zh-TW": "（中央社台北19日電）台北股市今天開低震盪，收盤跌289.18點，為46822.08點，跌幅0.61%，成交金額新台幣8251億元。 What happened\n台股收盤／大跌1,655點收46,969點 台積電收2,440元跌2% | AI 人機協作 | 證券 - 經濟日報. （中央社台北19日電）台北股市今天開低震盪，收盤跌289.18點，為46822.08點，跌幅0.61%，成交金額新台幣8251億元。 （中央社記者吳家豪台北19日電）上週五美國科技股走弱，拖累台指期夜盤表現，台股今天開低走低，盤中一度大跌逾940點下探46170點，電子權值股及櫃買指數走勢疲軟，隨低接買盤進場，加權指數跌勢收斂，終場收在46822.08點，下跌289.18點，跌幅0.61%，成交值新台幣8251億元。 台股收盤／大跌1,655點收46,969點 台積電收2,440元跌2% | AI 人機協作 | 證券 經濟日報 Why it matters\nThis cluster was assembled from 3 feed item(s) across 2 outlet(s) (中央社-產經證券, 經濟日報國際（Google News 代理）) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"台股跌289.18點\" (中央社-產經證券); \"台股跌289點收46822點　台積電拉尾盤收平盤2420元\" (中央社-產經證券); \"台股收盤／大跌1,655點收46,969點 台積電收2,440元跌2% | AI 人機協作 | 證券 - 經濟日報\" (經濟日報國際（Google News 代理）).\nFigures differ across outlets (e.g. 289.18 vs 1 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 中央社-產經證券, 經濟日報國際（Google News 代理） Additional feed context\n(1) （中央社台北19日電）台北股市今天開低震盪，收盤跌289.18點，為46822.08點，跌幅0.61%，成交金額新台幣8251億元。\n(2) （中央社記者吳家豪台北19日電）上週五美國科技股走弱，拖累台指期夜盤表現，台股今天開低走低，盤中一度大跌逾940點下探46170點，電子權值股及櫃買指數走勢疲軟，隨低接買盤進場，加權指數跌勢收斂，終場收在46822.08點，下跌289.18點，跌幅0.61%，成交值新台幣8251億元。\n(3) 台股收盤／大跌1,655點收46,969點 台積電收2,440元跌2% | AI 人機協作 | 證券 經濟日報"
+   "en": "Taiwan stocks opened lower and stayed weak on Monday: the index closed down 289.18 points at 46,822.08, off 0.61%, on turnover of NT$825.1 billion, CNA reports.\nWhat happened\nWeak US tech stocks on Friday dragged overnight index futures, and Taiwan stocks opened lower and slid — plunging more than 940 points intraday to as low as 46,170, with electronics heavyweights and the OTC index both soft. Bargain hunting then emerged, narrowing the decline into the close: the weighted index finished at 46,822.08, down 289.18 points or 0.61%, on NT$825.1 billion in turnover. TSMC pared its losses into the close to finish flat at NT$2,420, per CNA's later item.\nWhy it matters\nThe session shows both Taiwan's linkage to US tech sentiment — Friday's weakness set the tone before the local open — and the market's dip-buying reflex: a 940-point intraday washout still found buyers. TSMC closing flat after a weak day underscores its anchor role.\nSources agree / disagree\nCNA's items agree with each other on the 289.18-point drop, the 46,822.08 close and TSMC at 2,420 flat. But an Economic Daily headline in the same cluster reports something very different — a 1,655-point plunge to 46,969 with TSMC down 2% at 2,440 — which conflicts sharply with CNA's numbers and looks like a stale or mismatched feed item.\nStill uncertain\nWith two conflicting closes in the feed, verify the final numbers on the publishers' pages; the Economic Daily item's figures should not be quoted without checking.",
+   "zh-TW": "台股週一開低走低：加權指數終場跌 289.18 點，收 46,822.08 點，跌幅 0.61%，成交值新台幣 8,251 億元。\n發生了什麼事\n上週五美國科技股走弱，拖累台指期夜盤，台股開低後一路走低，盤中一度大跌逾 940 點、下探 46,170 點，電子權值股與櫃買指數同步疲軟。隨後低接買盤進場，跌勢收斂：加權指數終場收 46,822.08 點，下跌 289.18 點，跌幅 0.61%，成交值 8,251 億元。台積電拉尾盤，收平盤 2,420 元。\n為什麼重要\n這一天同時說明兩件事：台股跟美國科技股情緒的連動（上週五美股走弱先定了調），以及市場逢低承接的反射動作——盤中洗掉 940 點還是有人接。台積電在疲弱的一天拉回平盤，凸顯其定錨角色。\n來源異同\n中央社的幾條消息彼此一致：跌 289.18 點、收 46,822.08 點、台積電平盤 2,420 元。但同一批來源裡《經濟日報》的標題寫的完全是另一組數字：大跌 1,655 點收 46,969 點、台積電跌 2% 收 2,440 元，與中央社嚴重衝突，看起來像是過期或錯置的來源項目。\n仍不確定\n來源裡有兩組互相打架的收盤數字，引用前請到原始報導查證；《經濟日報》那組數字未經查證不宜引用。"
   },
   "sources": [
    {
@@ -12638,8 +12848,8 @@
    }
   ],
   "disagreements": {
-   "en": "Figures differ across outlets (e.g. 289.18 vs 1 in headlines/snippets).",
-   "zh-TW": "各個媒體的數字有所不同（例如，標題/摘要中的數字為 289.18 與 1）。"
+   "en": "Economic Daily's headline reports a 1,655-point plunge to 46,969 with TSMC down 2% at 2,440, conflicting sharply with CNA's 289.18-point drop to 46,822.08 and TSMC flat at 2,420.",
+   "zh-TW": "《經濟日報》標題寫大跌 1,655 點收 46,969 點、台積電跌 2% 收 2,440 元，與中央社的跌 289.18 點收 46,822.08 點、台積電收平盤 2,420 元明顯衝突。"
   },
   "trustScore": 66,
   "trustBreakdown": {
@@ -12658,22 +12868,42 @@
   "glossary": [
    {
     "term": {
-     "en": "TSMC",
-     "zh-TW": "台積電"
+     "en": "Taiwan Weighted Index",
+     "zh-TW": "加權指數"
     },
     "blurb": {
-     "en": "Taiwan Semiconductor; closed at NT$2,440, down 2%.",
-     "zh-TW": "台灣積體電路；收 2,440 元，跌 2%。"
+     "en": "Taiwan's benchmark stock index; closed at 46,822.08, down 289.18.",
+     "zh-TW": "台灣基準股價指數，收 46,822.08 點，下跌 289.18 點。"
     }
    },
    {
     "term": {
-     "en": "TAIEX",
-     "zh-TW": "台股"
+     "en": "TSMC",
+     "zh-TW": "台積電"
     },
     "blurb": {
-     "en": "Taiwan stock index; closed down 289.18 points at 46,822.08.",
-     "zh-TW": "台灣加權指數；收盤跌 289.18 點至 46,822.08 點。"
+     "en": "Taiwan chipmaker; pared losses to close flat at NT$2,420.",
+     "zh-TW": "台灣晶片製造商，拉尾盤收平盤 2,420 元。"
+    }
+   },
+   {
+    "term": {
+     "en": "Central News Agency",
+     "zh-TW": "中央社"
+    },
+    "blurb": {
+     "en": "Taiwan's national news agency; source of the 289-point-drop figures.",
+     "zh-TW": "台灣中央通訊社，289 點跌幅數字的來源。"
+    }
+   },
+   {
+    "term": {
+     "en": "Economic Daily News",
+     "zh-TW": "經濟日報"
+    },
+    "blurb": {
+     "en": "Taiwan financial daily whose headline figures conflict with CNA's.",
+     "zh-TW": "台灣財經日報，其標題數字與中央社衝突。"
     }
    }
   ]
@@ -12691,16 +12921,16 @@
   },
   "publishedAt": "2026-10-19T06:10:36.000Z",
   "title": {
-   "en": "Anthropic 遊說推動 AI 安全法案，擬設政府干預門檻",
-   "zh-TW": "Anthropic 遊說推動 AI 安全法案，擬設政府干預門檻"
+   "en": "Anthropic lobbies Congress on AI safety bill that would set government intervention thresholds",
+   "zh-TW": "Anthropic 遊說國會推 AI 安全法案，擬設政府干預門檻"
   },
   "summary": {
-   "en": "政治新聞網站 Politico 今天引述三名消息人士報導，人工智慧（AI）新創公司 Anthropic 代表近 [&#8230;]",
-   "zh-TW": "政治新聞網站 Politico 今天引述三名消息人士報導，人工智慧（AI）新創公司 Anthropic 代表近 […]"
+   "en": "Citing three sources, Politico reports that Anthropic representatives have privately pitched US lawmakers a draft bill aimed at regulating safety measures for frontier AI models, including thresholds that would trigger government intervention, according to TechNews and Taiwan's Central News Agency.",
+   "zh-TW": "Politico 引述三名消息人士報導，Anthropic 代表近日私下向美國國會議員推介法案草案，規範前沿 AI 模型的安全防護措施，並設定觸發政府介入的門檻。消息經科技新報與中央社轉述。"
   },
   "body": {
-   "en": "政治新聞網站 Politico 今天引述三名消息人士報導，人工智慧（AI）新創公司 Anthropic 代表近 [&#8230;] What happened\nAnthropic 遊說推動 AI 安全法案，擬設政府干預門檻. 政治新聞網站 Politico 今天引述三名消息人士報導，人工智慧（AI）新創公司 Anthropic 代表近 [&#8230;] （中央社華盛頓16日綜合外電報導）政治新聞網站Politico今天引述3名消息人士報導，人工智慧（AI）新創公司Anthropic代表近日私下向美國國會議員推介1項法案草案，旨在規範前沿AI模型的安全防護措施。 Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (TechNews 科技新報, 中央社-科技) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Anthropic 遊說推動 AI 安全法案，擬設政府干預門檻\" (TechNews 科技新報); \"Anthropic遊說推動AI安全法案　擬設政府干預門檻\" (中央社-科技).\nFigures differ across outlets (e.g. 8230 vs 16 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechNews 科技新報, 中央社-科技 Additional feed context\n(1) 政治新聞網站 Politico 今天引述三名消息人士報導，人工智慧（AI）新創公司 Anthropic 代表近 [&#8230;]\n(2) （中央社華盛頓16日綜合外電報導）政治新聞網站Politico今天引述3名消息人士報導，人工智慧（AI）新創公司Anthropic代表近日私下向美國國會議員推介1項法案草案，旨在規範前沿AI模型的安全防護措施。",
-   "zh-TW": "政治新聞網站 Politico 今天引述三名消息人士報導，人工智慧（AI）新創公司 Anthropic 代表近 […] What happened\nAnthropic 遊說推動 AI 安全法案，擬設政府干預門檻. 政治新聞網站 Politico 今天引述三名消息人士報導，人工智慧（AI）新創公司 Anthropic 代表近 […] （中央社華盛頓16日綜合外電報導）政治新聞網站Politico今天引述3名消息人士報導，人工智慧（AI）新創公司Anthropic代表近日私下向美國國會議員推介1項法案草案，旨在規範前沿AI模型的安全防護措施。 Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (TechNews 科技新報, 中央社-科技) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Anthropic 遊說推動 AI 安全法案，擬設政府干預門檻\" (TechNews 科技新報); \"Anthropic遊說推動AI安全法案　擬設政府干預門檻\" (中央社-科技).\nFigures differ across outlets (e.g. 8230 vs 16 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechNews 科技新報, 中央社-科技 Additional feed context\n(1) 政治新聞網站 Politico 今天引述三名消息人士報導，人工智慧（AI）新創公司 Anthropic 代表近 […]\n(2) （中央社華盛頓16日綜合外電報導）政治新聞網站Politico今天引述3名消息人士報導，人工智慧（AI）新創公司Anthropic代表近日私下向美國國會議員推介1項法案草案，旨在規範前沿AI模型的安全防護措施。"
+   "en": "Anthropic is lobbying for an AI safety bill — and it wants the legislation to define when the government can step in.\nWhat happened\nCiting three sources, Politico reports that representatives of the AI startup Anthropic have privately pitched US lawmakers a draft bill aimed at regulating safety measures for frontier AI models. The draft would set thresholds for government intervention, according to the reporting relayed by TechNews and Taiwan's Central News Agency. The feed snippets are truncated, so the bill's specific provisions beyond the intervention thresholds are not detailed.\nWhy it matters\nA frontier lab writing its own proposed rules is a notable posture: it suggests Anthropic would rather shape the regulatory framework than have one imposed on it, and a “government intervention threshold” is the key design choice — it determines when voluntary safety practices become mandatory oversight. For lawmakers, a lab-drafted bill is both a useful starting point and a document to read skeptically.\nSources agree / disagree\nTechNews and CNA relay the same Politico reporting — three sources, private pitch to lawmakers, draft bill on frontier-model safety with intervention thresholds. No conflicts appear between the two relays.\nStill uncertain\nThe underlying Politico piece is only available here via truncated relay snippets; the draft's actual text, which lawmakers were pitched, and where the bill stands are all unknown from the feed.",
+   "zh-TW": "Anthropic 正在為 AI 安全法案遊說——而且它希望由法案來定義政府何時可以介入。\n發生了什麼事\nPolitico 引述三名消息人士報導，AI 新創公司 Anthropic 的代表近日私下向美國國會議員推介一份法案草案，旨在規範前沿 AI 模型的安全防護措施，草案將設定觸發政府介入的門檻。以上內容經科技新報與中央社轉述；來源摘要多處截斷，門檻之外的具體條文沒有細節。\n為什麼重要\n前沿實驗室自己動手寫監管草案，姿態值得玩味：代表 Anthropic 寧可自己形塑監管框架，也不願被動接受。而「政府介入門檻」正是關鍵的設計選擇——它決定了自願性的安全措施何時變成強制監督。對議員來說，實驗室起草的法案既是好用的起點，也是要帶著戒心讀的文件。\n來源異同\n科技新報與中央社轉述的是同一篇 Politico 報導：三名消息人士、私下向議員推介、規範前沿模型安全並設介入門檻的草案。兩家轉述之間沒有衝突。\n仍不確定\n來源只有經轉述且截斷的摘要：草案原文、被遊說的是哪些議員、法案目前進度，摘要都沒寫。"
   },
   "sources": [
    {
@@ -12736,8 +12966,8 @@
      "zh-TW": "Anthropic"
     },
     "blurb": {
-     "en": "AI startup lobbying for AI safety legislation with government intervention thresholds.",
-     "zh-TW": "遊說推動 AI 安全法案、擬設政府干預門檻的 AI 新創。"
+     "en": "AI startup whose representatives privately pitched the safety-bill draft to US lawmakers.",
+     "zh-TW": "AI 新創公司，其代表私下向美國國會議員推介安全法案草案。"
     }
    },
    {
@@ -12746,8 +12976,28 @@
      "zh-TW": "Politico"
     },
     "blurb": {
-     "en": "Political news site that broke the story via three sources.",
-     "zh-TW": "引述三名消息人士報導此事的政治新聞網站。"
+     "en": "US political news site whose three-source reporting is relayed here.",
+     "zh-TW": "美國政治新聞網站，本消息的三消息來源報導出處。"
+    }
+   },
+   {
+    "term": {
+     "en": "TechNews",
+     "zh-TW": "科技新報"
+    },
+    "blurb": {
+     "en": "Taiwan tech media outlet relaying the Politico report.",
+     "zh-TW": "台灣科技媒體，轉述 Politico 報導。"
+    }
+   },
+   {
+    "term": {
+     "en": "Central News Agency",
+     "zh-TW": "中央社"
+    },
+    "blurb": {
+     "en": "Taiwan's national news agency relaying the Politico report.",
+     "zh-TW": "台灣中央通訊社，轉述 Politico 報導。"
     }
    }
   ]
@@ -12765,16 +13015,16 @@
   },
   "publishedAt": "2026-10-19T06:01:57.000Z",
   "title": {
-   "en": "Longtime Angels Adriana Lima, Alessandra Ambrosio, Candice Swanepoel & More Walk in Victoria’s Secret Fashion Show 2026",
-   "zh-TW": "資深天使阿德瑞娜·利瑪 (Adriana Lima)、亞歷山大·安布羅休 (Alessandra Ambrosio)、坎蒂絲·斯瓦內​​普爾 (Candice Swanepoel) 等人亮相 2026 年維多利亞的秘密 (Victoria's Secret) 時裝秀"
+   "en": "Victoria's Secret Fashion Show 2026 brings back longtime Angels Adriana Lima, Alessandra Ambrosio and Candice Swanepoel",
+   "zh-TW": "維多利亞的秘密（Victoria's Secret）2026 大秀移師西岸，資深天使阿德瑞娜·利瑪（Adriana Lima）、亞歷山大·安布羅休（Alessandra Ambrosio）、坎蒂絲·斯瓦內普爾（Candice Swanepoel）回歸走秀"
   },
   "summary": {
-   "en": "Renewable energy developer Swift Current Energy is suing First Solar in New York state court, alleging the manufacturer knowingly supplied defective solar modules and used deceptive testing to hide significant perform…",
-   "zh-TW": "再生能源開發商 Swift Current Energy 正在紐約州法院起訴 First Solar，指控製造商故意提供有缺陷的太陽能組件，並使用欺騙性測試來隱藏重要性能…"
+   "en": "Victoria's Secret is bringing its biggest night of the year — the 2026 Fashion Show — to the West Coast, with longtime Angels Adriana Lima, Alessandra Ambrosio and Candice Swanepoel set to walk; Hollywood Life lists when to tune in and how to stream it.",
+   "zh-TW": "維多利亞的秘密（Victoria's Secret）把年度最大盛事——2026 時裝大秀——搬到西岸，資深天使阿德瑞娜·利瑪（Adriana Lima）、亞歷山大·安布羅休（Alessandra Ambrosio）與坎蒂絲·斯瓦內普爾（Candice Swanepoel）將回歸走秀；Hollywood Life 整理了播出時間與收看方式。"
   },
   "body": {
-   "en": "Renewable energy developer Swift Current Energy is suing First Solar in New York state court, alleging the manufacturer knowingly supplied defective solar modules and used deceptive testing to hide significant performance issues. The complaint, filed in Sept. 2026, alleges that F What happened\nLongtime Angels Adriana Lima, Alessandra Ambrosio, Candice Swanepoel & More Walk in Victoria’s Secret Fashion Show 2026. Renewable energy developer Swift Current Energy is suing First Solar in New York state court, alleging the manufacturer knowingly supplied defective solar modules and used deceptive testing to hide significant performance issues. The complaint, filed in Sept. 2026, alleges that First Solar supplied over 2.4 million defective Series 6 Plus and Series 7 thin-film cadmium telluride modules across thr Singer's four-song set at star-studded event also featured \"Blank Space,\" \"Love Story,\" and \"I Knew It, I Knew You\" Taylor Swift is putting in some serious overtime ... going from the stage in Los Angeles to the stands in Kansas City in less than 24 hours. The pop superstar showed up at Arrowhead Stadium Sunday to cheer on hubby Travis Kelce as the Chiefs take&hellip; Victoria’s Secret is bringing its biggest night of the year to the West Coast! Here’s when to tune in and how to stream it. Why it matters\nThis cluster was assembled from 14 feed item(s) across 8 outlet(s) (PV Magazine Global, Rolling Stone Music, TMZ, Hollywood Life, Just Jared, Allure, Fashionista, Billboard) in the entertainment category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Swift Current alleges widespread module defects in lawsuit against First Solar\" (PV Magazine Global); \"Taylor Swift Performs ‘The Fate of Ophelia’ Live for First Time at Academy Museum Gala\" (Rolling Stone Music); \"Taylor Swift Doesn't Miss a Beat or a Chiefs Game After L.A. Performance\" (TMZ); \"What Time Is the Victoria’s Secret Fashion Show 2026? How to Watch Live\" (Hollywood Life); \"Longtime Angels Adriana Lima, Alessandra Ambrosio, Candice Swanepoel & More Walk in Victoria’s Secret Fashion Show 2026\" (Just Jared).\nFigures differ across outlets (e.g. 2.4 vs 24 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): PV Magazine Global, Rolling Stone Music, TMZ, Hollywood Life, Just Jared, Allure, Fashionista, Billboard",
-   "zh-TW": "再生能源開發商 Swift Current Energy 正在紐約州法院起訴 First Solar，指控製造商故意提供有缺陷的太陽能組件，並使用欺騙性測試來隱藏重大性能問題。該投訴於 2026 年 9 月提交，聲稱 F 發生了什麼事\n資深天使阿德里亞娜·利馬 (Adriana Lima)、亞歷山大·安布羅休 (Alessandra Ambrosio)、坎蒂絲·斯瓦內普爾 (Candice Swanepoel) 等人亮相 2026 年維多利亞的秘密時裝秀。再生能源開發商 Swift Current Energy 正在紐約州法院起訴 First Solar，指控製造商故意提供有缺陷的太陽能組件，並使用欺騙性測試來隱藏重大性能問題。該訴狀於 2026 年 9 月提交，指控 First Solar 在眾星雲集的歌手演唱會的四首歌曲中提供了超過 240 萬個有缺陷的 Series 6 Plus 和 Series 7 薄膜碲化鎘模組，其中還包括《Blank Space》、《Love Story》和《I KHare, I KTaylor》，其中還包括泰勒洛杉磯的看台，new It Story”和《I Knew 舞台，都在洛杉磯的看台》，new It Story Swift 到洛杉磯的看台到洛杉磯的看台。堪薩斯城不到 24 小時。這位流行巨星週日出現在箭頭體育場，為酋長隊的丈夫特拉維斯·凱爾斯 (Travis Kelce) 加油……維多利亞的秘密 (Victoria's Secret) 即將在西海岸舉辦一年中最盛大的夜晚！以下是何時收聽以及如何直播。 為什麼這很重要\n該集群由娛樂類別中 8 個頻道（PV Magazine Global、Rolling Stone Music、TMZ、Hollywood Life、Just Jared、Allure、Fashionista、Billboard）的 14 個提要項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：“Swift Current 在針對 First Solar 的訴訟中指控組件存在廣泛缺陷”（PV Magazine Global）；“泰勒·斯威夫特在學院博物館晚會上首次現場表演《奧菲莉亞的命運》”（滾石音樂）； “泰勒·斯威夫特在洛杉磯演出後不會錯過任何一個節拍或酋長隊的命運”（TMZ6）；“泰勒·斯威夫特在洛杉磯演出後不會錯過任何一個節拍或酋長隊的比賽”（TMZ6）； 「老牌天使阿德里亞娜·利瑪 (Adriana Lima)、亞歷山大·安布羅休 (Alessandra Ambrosio)、坎蒂絲·斯瓦內普爾 (Candice Swanepoel) 等人亮相 2026 年維多利亞的秘密時裝秀」（Just Jared）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 2.4 與 24）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：PV Magazine Global、Rolling Stone Music、TMZ、Hollywood Life、Just Jared、Allure、Fashionista、Billboard"
+   "en": "Victoria's Secret is bringing its biggest night of the year to the West Coast — and the longtime Angels are walking again.\nWhat happened\nThe 2026 Victoria's Secret Fashion Show heads to the West Coast, with longtime Angels Adriana Lima, Alessandra Ambrosio and Candice Swanepoel among the walkers, and Hollywood Life has the details on when to tune in and how to stream it. The same feed cluster carries two separate Taylor Swift items: Rolling Stone reports she performed “The Fate of Ophelia” live for the first time at the Academy Museum Gala, in a four-song set that also featured “Blank Space” and “Love Story”; TMZ notes she went from the Los Angeles stage to the stands at Arrowhead Stadium in under 24 hours to cheer on Travis Kelce as the Chiefs played. A PV Magazine item about a solar-module lawsuit (Swift Current Energy vs. First Solar) is also in the cluster but unrelated to either story.\nWhy it matters\nThe VS show's West Coast return with its veteran Angels is the brand's ongoing comeback pitch — nostalgia as strategy. The Swift items show the other end of the celebrity economy: a single weekend spanning a gala debut and a stadium appearance, each generating its own news cycle.\nSources agree / disagree\nEach thread is single-sourced within the cluster (Hollywood Life for the VS show, Rolling Stone and TMZ for Swift, PV Magazine for the lawsuit). The items do not overlap or conflict; they are simply bundled.\nStill uncertain\nThe snippets are truncated and promotional in places (“Here's when to tune in and how to stream it”); full lineups, setlists and air times are not in the feed.",
+   "zh-TW": "維多利亞的秘密（Victoria's Secret）把年度最大盛事搬到西岸——資深天使們再度登台走秀。\n發生了什麼事\n2026 年維多利亞的秘密時裝大秀移師西岸，資深天使阿德瑞娜·利瑪（Adriana Lima）、亞歷山大·安布羅休（Alessandra Ambrosio）與坎蒂絲·斯瓦內普爾（Candice Swanepoel）都將走秀，Hollywood Life 整理了播出時間與收看方式。同一批來源還有兩則泰勒絲（Taylor Swift）消息：《滾石》（Rolling Stone）報導她在學院博物館晚宴首度現場演唱〈The Fate of Ophelia〉，四首歌的演出還包括〈Blank Space〉與〈Love Story〉；TMZ 則記錄她在洛杉磯演出後不到 24 小時就現身箭頭體育場（Arrowhead Stadium），為酋長隊的崔維斯·凱爾西（Travis Kelce）加油。另有一則 PV Magazine 的太陽能模組訴訟消息（Swift Current Energy 控告 First Solar），與上述兩條線都無關。\n為什麼重要\n大秀移師西岸、找回資深天使，是品牌延續回歸策略——用懷舊當戰術。泰勒絲的兩則消息則是名人經濟的另一端：一個週末橫跨晚宴首唱與球場現身，各自都是一個新聞週期。\n來源異同\n同一批來源裡每條線都是單一出處（Hollywood Life 報大秀、《滾石》與 TMZ 報泰勒絲、PV Magazine 報訴訟），彼此不重疊也不衝突，只是被包在同一批來源裡。\n仍不確定\n來源摘要多處截斷且帶宣傳口吻（「教你何時收看、如何串流」）；完整走秀名單、演出曲目與播出時間，摘要都沒寫。"
   },
   "sources": [
    {
@@ -12835,18 +13085,48 @@
      "zh-TW": "阿德瑞娜·利瑪"
     },
     "blurb": {
-     "en": "Longtime Victoria's Secret Angel walking the 2026 fashion show.",
-     "zh-TW": "資深維密天使，登上 2026 時裝秀。"
+     "en": "Longtime Victoria's Secret Angel walking in the 2026 show.",
+     "zh-TW": "維密資深天使，將走 2026 年大秀。"
     }
    },
    {
     "term": {
-     "en": "Victoria's Secret Fashion Show",
-     "zh-TW": "維多利亞的秘密時裝秀"
+     "en": "Alessandra Ambrosio",
+     "zh-TW": "亞歷山大·安布羅休"
     },
     "blurb": {
-     "en": "2026 edition featuring returning Angels.",
-     "zh-TW": "2026 年 edition，資深天使回歸走秀。"
+     "en": "Longtime Victoria's Secret Angel walking in the 2026 show.",
+     "zh-TW": "維密資深天使，將走 2026 年大秀。"
+    }
+   },
+   {
+    "term": {
+     "en": "Candice Swanepoel",
+     "zh-TW": "坎蒂絲·斯瓦內普爾"
+    },
+    "blurb": {
+     "en": "Longtime Victoria's Secret Angel walking in the 2026 show.",
+     "zh-TW": "維密資深天使，將走 2026 年大秀。"
+    }
+   },
+   {
+    "term": {
+     "en": "Victoria's Secret",
+     "zh-TW": "維多利亞的秘密"
+    },
+    "blurb": {
+     "en": "Lingerie brand staging its 2026 Fashion Show on the West Coast.",
+     "zh-TW": "內衣品牌，2026 時裝大秀將在西岸舉行。"
+    }
+   },
+   {
+    "term": {
+     "en": "Taylor Swift",
+     "zh-TW": "泰勒絲"
+    },
+    "blurb": {
+     "en": "Pop superstar; performed at the Academy Museum Gala and attended a Chiefs game.",
+     "zh-TW": "流行巨星，在學院博物館晚宴演出並現身酋長隊比賽。"
     }
    }
   ]
