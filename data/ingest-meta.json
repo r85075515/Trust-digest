@@ -36,5 +36,7 @@
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat"
+  "mode": "extractive+translate+rss+heat",
+  "rewrittenAt": "2026-10-20T15:10:06.000Z",
+  "rewrittenBy": "bebo-backup"
 }
