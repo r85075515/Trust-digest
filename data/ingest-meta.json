@@ -1,40 +1,42 @@
 {
-  "ingestedAt": "2026-10-21T06:20:10.641Z",
-  "feedOk": 119,
-  "feedTotal": 128,
-  "rawItems": 1028,
-  "mainStories": 150,
-  "byCategory": {
-    "finance": 22,
-    "semiconductor": 18,
-    "taiwan": 10,
-    "eastAsiaGossip": 18,
-    "international": 23,
-    "entertainment": 12,
-    "shopping": 2,
-    "biotech": 8,
-    "energy": 5,
-    "us": 8,
-    "tech": 13,
-    "ai": 11
-  },
-  "eastAsiaByRegion": {
-    "tw": 18
-  },
-  "heatSourcesShipped": [
-    "ptt",
-    "gnews-dcard",
-    "line-today"
-  ],
-  "heatVerifiedKeywords": [
-    "金鐘",
-    "howhow",
-    "網紅頻翻車",
-    "十大最信任"
-  ],
-  "heatNewsInjected": 34,
-  "llmUsed": false,
-  "llmProvider": null,
-  "llmModel": null,
-  "mode": "extractive+translate+rss+heat"
+ "ingestedAt": "2026-10-21T06:20:10.641Z",
+ "feedOk": 119,
+ "feedTotal": 128,
+ "rawItems": 1028,
+ "mainStories": 150,
+ "byCategory": {
+  "finance": 22,
+  "semiconductor": 18,
+  "taiwan": 10,
+  "eastAsiaGossip": 18,
+  "international": 23,
+  "entertainment": 12,
+  "shopping": 2,
+  "biotech": 8,
+  "energy": 5,
+  "us": 8,
+  "tech": 13,
+  "ai": 11
+ },
+ "eastAsiaByRegion": {
+  "tw": 18
+ },
+ "heatSourcesShipped": [
+  "ptt",
+  "gnews-dcard",
+  "line-today"
+ ],
+ "heatVerifiedKeywords": [
+  "金鐘",
+  "howhow",
+  "網紅頻翻車",
+  "十大最信任"
+ ],
+ "heatNewsInjected": 34,
+ "llmUsed": false,
+ "llmProvider": null,
+ "llmModel": null,
+ "mode": "extractive+translate+rss+heat",
+ "rewrittenAt": "2026-10-21T15:06:46.000Z",
+ "rewrittenBy": "bebo-backup"
 }
