@@ -1,42 +1,39 @@
 {
- "ingestedAt": "2026-10-21T06:20:10.641Z",
- "feedOk": 119,
- "feedTotal": 128,
- "rawItems": 1028,
- "mainStories": 150,
- "byCategory": {
-  "finance": 22,
-  "semiconductor": 18,
-  "taiwan": 10,
-  "eastAsiaGossip": 18,
-  "international": 23,
-  "entertainment": 12,
-  "shopping": 2,
-  "biotech": 8,
-  "energy": 5,
-  "us": 8,
-  "tech": 13,
-  "ai": 11
- },
- "eastAsiaByRegion": {
-  "tw": 18
- },
- "heatSourcesShipped": [
-  "ptt",
-  "gnews-dcard",
-  "line-today"
- ],
- "heatVerifiedKeywords": [
-  "金鐘",
-  "howhow",
-  "網紅頻翻車",
-  "十大最信任"
- ],
- "heatNewsInjected": 34,
- "llmUsed": false,
- "llmProvider": null,
- "llmModel": null,
- "mode": "extractive+translate+rss+heat",
- "rewrittenAt": "2026-10-21T15:06:46.000Z",
- "rewrittenBy": "bebo-backup"
+  "ingestedAt": "2026-10-22T06:23:39.929Z",
+  "feedOk": 119,
+  "feedTotal": 128,
+  "rawItems": 1032,
+  "mainStories": 164,
+  "byCategory": {
+    "finance": 24,
+    "semiconductor": 20,
+    "taiwan": 10,
+    "eastAsiaGossip": 20,
+    "international": 25,
+    "entertainment": 13,
+    "shopping": 3,
+    "biotech": 9,
+    "energy": 5,
+    "us": 9,
+    "tech": 14,
+    "ai": 12
+  },
+  "eastAsiaByRegion": {
+    "tw": 20
+  },
+  "heatSourcesShipped": [
+    "ptt",
+    "gnews-dcard",
+    "line-today"
+  ],
+  "heatVerifiedKeywords": [
+    "行銷網頁提升",
+    "高品質粉絲追",
+    "田馥甄直播遭"
+  ],
+  "heatNewsInjected": 38,
+  "llmUsed": false,
+  "llmProvider": null,
+  "llmModel": null,
+  "mode": "extractive+translate+rss+heat"
 }
