@@ -1522,7 +1522,11 @@ export function titlesNearDuplicate(
   if (jaccard(ta, tb) >= jaccardThreshold) return true;
   // CJK gossip: same people + controversy → one event even if Jaccard low
   if (sameGossipEvent(a, b)) return true;
-  // Shared distinctive proper-noun tokens (at least 2, or 1 very long)
+  // Shared distinctive proper-noun tokens: at least 2 AND covering ≥50% of the
+  // smaller title's distinctive set. The coverage requirement (2026-10-23) stops
+  // roundup/listicle titles that name many people from vacuuming up every other
+  // item that merely mentions two of those names (e.g. a "New Music Friday"
+  // roundup merging a separate story about one listed artist).
   const da = distinctiveTokens(a);
   const db = distinctiveTokens(b);
   let shared = 0;
@@ -1533,7 +1537,15 @@ export function titlesNearDuplicate(
       if (t.length >= 8) longShared = true;
     }
   }
-  if (shared >= 2 || (shared >= 1 && longShared && jaccard(ta, tb) >= 0.45)) {
+  const smallerDistinctive = Math.min(da.size, db.size);
+  if (
+    shared >= 2 &&
+    smallerDistinctive > 0 &&
+    shared / smallerDistinctive >= 0.5
+  ) {
+    return true;
+  }
+  if (shared >= 1 && longShared && jaccard(ta, tb) >= 0.45) {
     return true;
   }
   return false;
@@ -1705,12 +1717,13 @@ function buildClusterFromMembers(members: RawFeedItem[]): StoryCluster {
 
 /**
  * Cluster across categories: same canonical URL or near-dup titles → one story.
- * Soft threshold (~0.38) still merges within-pass; near-dup (≥0.7 / proper nouns)
- * merges even across categories.
+ * Soft threshold (0.55; raised from 0.38 on 2026-10-23 after reader reports of
+ * unrelated entertainment items merged into one card) still merges within-pass;
+ * near-dup (≥0.7 / proper nouns) merges even across categories.
  */
 export function clusterItems(
   items: RawFeedItem[],
-  softThreshold = 0.38
+  softThreshold = 0.55
 ): StoryCluster[] {
   const list = items;
   const used = new Set<number>();
