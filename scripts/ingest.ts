@@ -31,6 +31,7 @@ import {
   domainFromUrl,
   resolvePublisherDomain,
   slugify,
+  titlesNearDuplicate,
   type RawFeedItem,
   type StoryCluster,
   type FeedSource,
@@ -612,13 +613,31 @@ async function main() {
 
   // 保留舊新聞：先讀現有的 stories.json，新卡片 append 而非覆蓋（2026-10-12 修復）
   const existingIds = new Set<string>();
+  // Cross-day same-event dedupe (2026-10-23): titles of stories published in the
+  // last 7 days. A new cluster whose primary title is a near-duplicate of one of
+  // these is the same event resurfacing (e.g. an outlet re-running the same
+  // celebrity breakup story days later) and is skipped instead of shipped as a
+  // second card. ID-only dedupe could not catch this — slugs differ per run.
+  const recentExistingTitles: { id: string; titles: string[] }[] = [];
   try {
     const existingRaw = fs.readFileSync(OUT_STORIES, "utf8");
     const existing = JSON.parse(existingRaw) as Story[];
+    const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
     for (const s of existing) {
       if (s && typeof s.id === "string") {
         existingIds.add(s.id);
         stories.push(s);
+        const pub = Date.parse(s.publishedAt ?? "");
+        if (!Number.isNaN(pub) && pub >= sevenDaysAgo && s.title) {
+          const titles: string[] = [];
+          if (typeof s.title === "string") titles.push(s.title);
+          else {
+            if (typeof s.title.en === "string") titles.push(s.title.en);
+            if (typeof s.title["zh-TW"] === "string")
+              titles.push(s.title["zh-TW"]);
+          }
+          if (titles.length) recentExistingTitles.push({ id: s.id, titles });
+        }
       }
     }
     console.info(`[ingest] loaded ${existingIds.size} existing stor(ies) from stories.json`);
@@ -628,6 +647,17 @@ async function main() {
 
   for (let i = 0; i < scored.length; i++) {
     const { c, tb, trustScore } = scored[i];
+    // Cross-day same-event dedupe: skip if this event already shipped in the
+    // last 7 days under a different headline (see recentExistingTitles above).
+    const dupOf = recentExistingTitles.find((e) =>
+      e.titles.some((t) => titlesNearDuplicate(c.primaryTitle, t, 0.7))
+    );
+    if (dupOf) {
+      console.info(
+        `[ingest] skip cross-day duplicate of ${dupOf.id}: ${c.primaryTitle.slice(0, 70)}`
+      );
+      continue;
+    }
     // Belt-and-suspenders: never ship eastAsiaGossip without EA feed members / region
     let category = c.category;
     if (
