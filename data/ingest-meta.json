@@ -1,25 +1,26 @@
 {
-  "ingestedAt": "2026-10-22T06:23:39.929Z",
+  "ingestedAt": "2026-10-23T06:17:14.721Z",
   "feedOk": 119,
   "feedTotal": 128,
-  "rawItems": 1032,
-  "mainStories": 164,
+  "rawItems": 1028,
+  "mainStories": 175,
   "byCategory": {
     "finance": 24,
-    "semiconductor": 20,
-    "taiwan": 10,
-    "eastAsiaGossip": 20,
-    "international": 25,
+    "semiconductor": 22,
+    "taiwan": 11,
+    "eastAsiaGossip": 21,
+    "international": 27,
     "entertainment": 13,
-    "shopping": 3,
+    "shopping": 4,
     "biotech": 9,
-    "energy": 5,
-    "us": 9,
+    "energy": 6,
+    "us": 10,
     "tech": 14,
-    "ai": 12
+    "ai": 13,
+    "beauty": 1
   },
   "eastAsiaByRegion": {
-    "tw": 20
+    "tw": 21
   },
   "heatSourcesShipped": [
     "ptt",
@@ -29,13 +30,11 @@
   "heatVerifiedKeywords": [
     "行銷網頁提升",
     "高品質粉絲追",
-    "田馥甄直播遭"
+    "長輩迷過的歌"
   ],
-  "heatNewsInjected": 38,
+  "heatNewsInjected": 34,
   "llmUsed": false,
   "llmProvider": null,
   "llmModel": null,
-  "mode": "extractive+translate+rss+heat",
-  "rewrittenAt": "2026-10-22T15:01:19.367Z",
-  "rewrittenBy": "fleet-worker"
+  "mode": "extractive+translate+rss+heat"
 }

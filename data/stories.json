@@ -17478,5 +17478,561 @@
         }
       }
     ]
+  },
+  {
+    "id": "live-international-01-us-judge-orders-trump-to",
+    "category": "international",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-01-us-judge-orders-trump-to.jpg",
+    "imageAlt": {
+      "en": "Cover related to: US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+      "zh-TW": "相關封面圖：美國法官命令川普在針對 BBC 的 100 億美元訴訟中出庭作證"
+    },
+    "publishedAt": "2026-10-23T01:38:44.000Z",
+    "title": {
+      "en": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+      "zh-TW": "美國法官命令川普在針對 BBC 的 100 億美元訴訟中出庭作證"
+    },
+    "summary": {
+      "en": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "zh-TW": "川普正在起訴 BBC，原因是《全景》中的一集將他 2021 年演講的兩個不同部分剪輯在一起。"
+    },
+    "body": {
+      "en": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021. What happened\nUS judge orders Trump to sit for deposition in $10bn lawsuit against BBC. Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021. Judge threatens to dismiss Trump’s BBC lawsuit unless he cooperates with discovery process and sits for deposition Donald Trump has been ordered by a US judge to cooperate with the discovery process mandated for his lawsuit against the BBC and to sit for a deposition by 11 December – or else he could be subject to sanctions, including the possible dismissal of the $10bn lawsuit. The lawsuit stems A federal judge on Thursday ordered President Trump to sit for a deposition by Dec. 11 in his $10 billion defamation lawsuit against the BBC over an edit of one of his speeches that the president's lawyers say was misleading. Why it matters: The order will likely force Trump to answer questions under oath in a legal battle he started. Driving the news: Judge Enjoliqué Lett ordered Trump to appear Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (BBC World, The Guardian Business, Axios) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump ordered to answer questions under oath in BBC lawsuit\" (BBC World); \"US judge orders Trump to sit for deposition in $10bn lawsuit against BBC\" (The Guardian Business); \"Trump ordered to sit for deposition in $10 billion BBC lawsuit\" (Axios).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC World, The Guardian Business, Axios",
+      "zh-TW": "川普正在起訴 BBC，原因是《全景》中的一集將他 2021 年演講的兩個不同部分剪輯在一起。 發生了什麼事\n美國法官命令川普在針對 BBC 的 100 億美元訴訟中出庭作證。川普正在起訴 BBC，原因是《全景》中的一集將他 2021 年演講的兩個不同部分編輯在一起。法官威脅稱，除非川普配合證據開示程序並出庭作證，否則他將駁回川普的 BBC 訴訟美國法官已命令唐納德·川普配合針對 BBC 訴訟的證據開示程序，並在 12 月 11 日之前出庭作證，否則他可能會受到製裁，包括可能駁回價值 100 億美元的訴訟。週四，一名聯邦法官下令川普總統在 12 月 11 日之前出庭作證，他對 BBC 提起了價值 100 億美元的誹謗訴訟，原因是他的一次演講被編輯，總統的律師稱其具有誤導性。為什麼重要：該命令可能會迫使川普在他發起的一場法律戰中宣誓回答問題。推動新聞：恩喬利奎·萊特法官命令川普出庭 為什麼這很重要\n此集群由國際類別中 3 個管道（BBC World、The Guardian Business、Axios）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「川普被命令在 BBC 訴訟中宣誓回答問題」（BBC World）；「美國法官命令川普在針對 BBC 的 100 億美元訴訟中出庭作證」（《衛報商業》）； 「川普下令在價值 100 億美元的 BBC 訴訟中出庭作證」（Axios）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC World、The Guardian Business、Axios"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 85,
+    "trustBreakdown": {
+      "sourceDiversity": 20,
+      "outletReputation": 18,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "the-guardian-business",
+      "axios"
+    ]
+  },
+  {
+    "id": "live-semiconductor-01-disgraced-emudhra-drops-",
+    "category": "semiconductor",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-semiconductor-01-disgraced-emudhra-drops-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "zh-TW": "相關封面圖：名譽掃地的 eMudhra 在使用 4 的憑證私鑰後退出 TLS 業務"
+    },
+    "publishedAt": "2026-10-22T20:17:52.000Z",
+    "title": {
+      "en": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "zh-TW": "名譽掃地的 eMudhra 在使用 4 的憑證私鑰後退出 TLS 業務"
+    },
+    "summary": {
+      "en": "eMudhra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting…",
+      "zh-TW": "eMudhra 是一家頒發八個中間 TLS 憑證的憑證授權機構，該憑證的強度如此之低，以至於任何人都可以為任何網站或郵件伺服器建立憑證（其中一個的私有加密金鑰僅為 4），該機構表示，它正在變得…"
+    },
+    "body": {
+      "en": "eMudhra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business. V. Srinivasan, chairman of India-based eM What happened\nDisgraced eMudhra drops out of TLS business after using cert private key of 4. eMudhra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business. V. Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating ju After embarrassing reports revealed weak private keys, one of which was just a single digit, Indian certification authority eMudhra has decided to take the L and get out of the global SSL/TLS cert game entirely. eMudhra announced Thursday that it was abandoning that arm of its business. Sure, the intense scrutiny heaped on the company was a factor, but the firm also argued that growing compliance Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (Ars Technica, The Register) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Disgraced eMudhra drops out of TLS business after using cert private key of 4\" (Ars Technica); \"Disgraced Indian cert issuer leaves the cert issuing business\" (The Register).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Ars Technica, The Register",
+      "zh-TW": "eMudhra 是一家憑證授權機構，該機構頒發了 8 個中間 TLS 憑證，其強度如此之低，以至於任何人都可以為任何網站或郵件伺服器建立憑證（其中一個的私有加密金鑰僅為 4），該機構表示將退出該業務。 V. Srinivasan，印度 eM 董事长 發生了什麼事\n名譽掃地的 eMudhra 在使用 4 的憑證私鑰後退出了 TLS 業務。 eMudhra 是一家頒發了 8 個中間 TLS 憑證的憑證授權單位，其脆弱程度如此之低，以至於任何人都可以為任何網站或郵件伺服器建立憑證（其中一個的私鑰只有 4），該公司表示將退出該業務。印度 eMudhra Limited 董事長 V. Srinivasan 指出，合規要求的成本和複雜性不斷增加，再加上業務生成 Ju 在令人尷尬的報告顯示私鑰很弱（其中一個只有個位數）之後，印度認證機構 eMudhra 決定採取 L 並完全退出全球 SSL/TLS 證書遊戲。 eMudhra 周四宣布将放弃该业务部门。當然，對該公司進行的嚴格審查是一個因素，但該公司也認為，不斷增長的合規性 為什麼這很重要\n此集群由半導體類別中 2 個渠道（Ars Technica、The Register）的 2 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「恥辱的 eMudhra 在使用 4 的證書私鑰後退出 TLS 業務」（Ars Technica）； 「名譽掃地的印度證書頒發機構離開了證書頒發業務」（The Register）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限通路名稱）：Ars Technica、The Register"
+    },
+    "sources": [
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
+      },
+      {
+        "name": "The Register",
+        "url": "https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 70,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 17,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "semiconductor",
+      "live-ingest",
+      "ars-technica",
+      "the-register"
+    ]
+  },
+  {
+    "id": "live-eastAsiaGossip-02-4-ebc-line-today",
+    "category": "eastAsiaGossip",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-eastAsiaGossip-02-4-ebc-line-today.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 斷開孫綻4個月！米可白曬美照遭酸「嫁不掉」親上火線反擊 | EBC 東森娛樂 - LINE TODAY",
+      "zh-TW": "相關封面圖：斷開孫綻4個月！米可白曬美照遭酸「嫁不掉」親上火線反擊 | EBC 東森娛樂 - LINE TODAY"
+    },
+    "publishedAt": "2026-10-23T03:00:00.000Z",
+    "title": {
+      "en": "斷開孫綻4個月！米可白曬美照遭酸「嫁不掉」親上火線反擊 | EBC 東森娛樂 - LINE TODAY",
+      "zh-TW": "斷開孫綻4個月！米可白曬美照遭酸「嫁不掉」親上火線反擊 | EBC 東森娛樂 - LINE TODAY"
+    },
+    "summary": {
+      "en": "當年活躍於兒童台的「姐姐」們，不僅以甜美外型深植人心，更憑藉著親和力，成為無數孩童心中無法取代的偶像。《ETtoday娛樂星光雲》整理了4位經典「姐姐」的最新近況，帶您一起找回當年的感動！ 《詳全文...》",
+      "zh-TW": "當年活躍於兒童台的「姐姐」們，不僅以甜美外型深植人心，更憑藉著親和力，成為無數孩童心中無法取代的偶像。《ETtoday娛樂星光雲》整理了4位經典「姐姐」的最新近況，帶您一起找回當年的感動！ 《詳全文...》"
+    },
+    "body": {
+      "en": "當年活躍於兒童台的「姐姐」們，不僅以甜美外型深植人心，更憑藉著親和力，成為無數孩童心中無法取代的偶像。《ETtoday娛樂星光雲》整理了4位經典「姐姐」的最新近況，帶您一起找回當年的感動！ 《詳全文...》 What happened\n斷開孫綻4個月！米可白曬美照遭酸「嫁不掉」親上火線反擊 | EBC 東森娛樂 - LINE TODAY. 當年活躍於兒童台的「姐姐」們，不僅以甜美外型深植人心，更憑藉著親和力，成為無數孩童心中無法取代的偶像。《ETtoday娛樂星光雲》整理了4位經典「姐姐」的最新近況，帶您一起找回當年的感動！ 《詳全文...》 米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲 斷開孫綻4個月！米可白曬美照遭酸「嫁不掉」親上火線反擊 | EBC 東森娛樂 LINE TODAY Why it matters\nThis cluster was assembled from 8 feed item(s) across 4 outlet(s) (ETtoday 影劇, GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚, GNews LINE TODAY TW 娛樂) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"盤點兒童台4姐姐近況！愷樂升格三寶媽、米可白分手孫綻\" (ETtoday 影劇); \"盤點兒童台4姐姐近況！　愷樂升格三寶媽、米可白分手孫綻 - ETtoday星光雲\" (GNews site:ettoday 分手/復合/婚); \"米可白分手孫綻4個月後首公開現身！　40歲恢單美成這樣太誇張 - ETtoday星光雲\" (GNews site:ettoday 分手/復合/婚); \"分手孫綻露面！米可白曬金鐘禮服「遭酸嫁不掉」霸氣怒嗆：你有事嗎 - 娛樂星聞\" (GNews site:setn 分手/婚); \"分手孫綻露面！米可白曬金鐘禮服「遭酸嫁不掉」霸氣怒嗆：你有事嗎 - 三立新聞\" (GNews site:setn 分手/婚).\nFigures differ across outlets (e.g. 4 vs 3 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): ETtoday 影劇, GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚, GNews LINE TODAY TW 娛樂 Additional feed context\n(1) 當年活躍於兒童台的「姐姐」們，不僅以甜美外型深植人心，更憑藉著親和力，成為無數孩童心中無法取代的偶像。《ETtoday娛樂星光雲》整理了4位經典「姐姐」的最新近況，帶您一起找回當年的感動！ 《詳全文...》\n(2) 米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲\n(3) 斷開孫綻4個月！米可白曬美照遭酸「嫁不掉」親上火線反擊 | EBC 東森娛樂 LINE TODAY",
+      "zh-TW": "當年活躍於兒童台的「姐姐」們，不僅以甜美外型深植人心，更憑藉著親和力，成為無數孩童心中無法取代的偶像。《ETtoday娛樂星光雲》整理了4位經典「姐姐」的最新近況，帶您一起找回當年的感動！ 《詳全文...》 What happened\n斷開孫綻4個月！米可白曬美照遭酸「嫁不掉」親上火線反擊 | EBC 東森娛樂 - LINE TODAY. 當年活躍於兒童台的「姐姐」們，不僅以甜美外型深植人心，更憑藉著親和力，成為無數孩童心中無法取代的偶像。《ETtoday娛樂星光雲》整理了4位經典「姐姐」的最新近況，帶您一起找回當年的感動！ 《詳全文...》 米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲 斷開孫綻4個月！米可白曬美照遭酸「嫁不掉」親上火線反擊 | EBC 東森娛樂 LINE TODAY Why it matters\nThis cluster was assembled from 8 feed item(s) across 4 outlet(s) (ETtoday 影劇, GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚, GNews LINE TODAY TW 娛樂) in the eastAsiaGossip category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"盤點兒童台4姐姐近況！愷樂升格三寶媽、米可白分手孫綻\" (ETtoday 影劇); \"盤點兒童台4姐姐近況！　愷樂升格三寶媽、米可白分手孫綻 - ETtoday星光雲\" (GNews site:ettoday 分手/復合/婚); \"米可白分手孫綻4個月後首公開現身！　40歲恢單美成這樣太誇張 - ETtoday星光雲\" (GNews site:ettoday 分手/復合/婚); \"分手孫綻露面！米可白曬金鐘禮服「遭酸嫁不掉」霸氣怒嗆：你有事嗎 - 娛樂星聞\" (GNews site:setn 分手/婚); \"分手孫綻露面！米可白曬金鐘禮服「遭酸嫁不掉」霸氣怒嗆：你有事嗎 - 三立新聞\" (GNews site:setn 分手/婚).\nFigures differ across outlets (e.g. 4 vs 3 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): ETtoday 影劇, GNews site:ettoday 分手/復合/婚, GNews site:setn 分手/婚, GNews LINE TODAY TW 娛樂 Additional feed context\n(1) 當年活躍於兒童台的「姐姐」們，不僅以甜美外型深植人心，更憑藉著親和力，成為無數孩童心中無法取代的偶像。《ETtoday娛樂星光雲》整理了4位經典「姐姐」的最新近況，帶您一起找回當年的感動！ 《詳全文...》\n(2) 米可白分手孫綻4個月後首公開現身！ 40歲恢單美成這樣太誇張 ETtoday星光雲\n(3) 斷開孫綻4個月！米可白曬美照遭酸「嫁不掉」親上火線反擊 | EBC 東森娛樂 LINE TODAY"
+    },
+    "sources": [
+      {
+        "name": "ETtoday 影劇",
+        "url": "https://star.ettoday.net/news/3259470"
+      },
+      {
+        "name": "setn.com",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1waEdHNlUwbkNCZTVQNFpOMTBFRWZEbW1aWnd2SDFVUlJJMWxTdFVYd0oteld2OXZCOWxZZTFSSnNPVF9OamhmZjFn0gFfQVVfeXFMUDVBbXRBNTB6V1dBSXZUa2xEaTFleUV4Q2Zvb0ZpX2o1S1ZkU0dCQTNkVzNHc3FKRnBnVmxnSGtQSmV1eDEwRmdZOXdmeUpjaGpUUEJsbS1udFdaaVYzbHc?oc=5"
+      },
+      {
+        "name": "today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaM051ZkN6cU9WQnRqUWI2MmZtZWlNekZOdUlqNldaTEJFckFxemNvdklWS01RNFU1eG5XbVhKN0U4elhGM0h5MWtYQXRTSmoyd1NXN0tB?oc=5"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 4 vs 3 in headlines/snippets).",
+      "zh-TW": "（譯文待補）Figures differ across outlets (e.g. 4 vs 3 in headlines/snippets)."
+    },
+    "trustScore": 76,
+    "trustBreakdown": {
+      "sourceDiversity": 21,
+      "outletReputation": 16,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "eastAsiaGossip",
+      "live-ingest",
+      "region:tw",
+      "ettoday-影劇",
+      "gnews-site:ettoday-分手/復合/婚",
+      "gnews-site:ettoday-分手/復合/婚"
+    ],
+    "region": "tw"
+  },
+  {
+    "id": "live-energy-01-inside-workday-s-second-",
+    "category": "energy",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "publishedAt": "2026-10-22T21:59:31.000Z",
+    "title": {
+      "en": "Inside Workday’s second round of science-based targets",
+      "zh-TW": "（譯文待補）Inside Workday’s second round of science-based targets"
+    },
+    "summary": {
+      "en": "Enterprise software firm Workday has adopted fresh greenhouse gas (GHG) emissions reduction commitments across most of its carbon footprint after meeting two of three pledges it made in 2020. The new near-term targets…",
+      "zh-TW": "企業軟體公司 Workday 在實現 2020 年三項承諾中的兩項後，在其大部分碳足跡中做出了新的溫室氣體 (GHG) 減排承諾。新的近期目標…"
+    },
+    "body": {
+      "en": "Enterprise software firm Workday has adopted fresh greenhouse gas (GHG) emissions reduction commitments across most of its carbon footprint after meeting two of three pledges it made in 2020. The new near-term targets call for the company to cut absolute GHG emissions for its ope What happened\nInside Workday’s second round of science-based targets. Enterprise software firm Workday has adopted fresh greenhouse gas (GHG) emissions reduction commitments across most of its carbon footprint after meeting two of three pledges it made in 2020. The new near-term targets call for the company to cut absolute GHG emissions for its operations and electricity use — Scope 1 and Scope 2 — by 42 percent by fiscal year 2031, compared with a 2025 baseline. Wo With high-speed cameras and a “pitch cannon,” researchers are refining the automated ball-strike system about to call its first World Series Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (Trellis, Science 科學新聞) in the energy category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Inside Workday’s second round of science-based targets\" (Trellis); \"Inside the science of the ‘robo ump’ revolutionizing baseball\" (Science 科學新聞).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Trellis, Science 科學新聞",
+      "zh-TW": "企业软件公司 Workday 在实现 2020 年三项承诺中的两项后，在其大部分碳足迹中采取了新的温室气体 (GHG) 减排承诺。新的近期目标要求该公司削减其运营的绝对温室气体排放量。 發生了什麼事\nWorkday 第二轮基于科学的目标。企业软件公司 Workday 在实现了 2020 年做出的三项承诺中的两项后，在其大部分碳足迹上做出了新的温室气体 (GHG) 减排承诺。新的近期目标要求该公司到 2031 财年将其运营和电力使用（范围 1 和范围 2）的绝对温室气体排放量（与 2025 年基准相比）减少 42%。研究人员正在利用高速摄像机和“投球炮”改进自动击球系统，该系统即将成为其首个世界大赛 為什麼這很重要\n该集群由能源类别中 2 个渠道（Trellis、Science 科学新闻）的 2 个 feed 项目组装而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒体报道了密切相关的头条新闻：“Workday 第二轮基于科学的目标内部”（Trellis）； “‘robo ump’革命性棒球的科学内部”（Science 科学新闻）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 链接来源（仅限媒体名称）：Trellis、Science 科学新闻"
+    },
+    "sources": [
+      {
+        "name": "Trellis",
+        "url": "https://trellis.net/article/workday-new-science-based-targets/"
+      },
+      {
+        "name": "Science 科學新聞",
+        "url": "https://www.science.org/content/article/inside-science-robo-ump-revolutionizing-baseball"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 62,
+    "trustBreakdown": {
+      "sourceDiversity": 13,
+      "outletReputation": 10,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "energy",
+      "live-ingest",
+      "trellis",
+      "science-科學新聞"
+    ]
+  },
+  {
+    "id": "live-us-01-rfk-jr-adviser-calley-me",
+    "category": "us",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-us-01-rfk-jr-adviser-calley-me.jpg",
+    "imageAlt": {
+      "en": "Cover related to: RFK Jr. adviser Calley Means resigns amid growing MAHA discontent over lack of progress",
+      "zh-TW": "相關封面圖：RFK Jr. 顧問 Calley Means 辭職，因為 MAHA 對缺乏進展的不滿情緒日益高漲"
+    },
+    "publishedAt": "2026-10-23T00:51:44.000Z",
+    "title": {
+      "en": "RFK Jr. adviser Calley Means resigns amid growing MAHA discontent over lack of progress",
+      "zh-TW": "RFK Jr. 顧問 Calley Means 辭職，因為 MAHA 對缺乏進展的不滿情緒日益高漲"
+    },
+    "summary": {
+      "en": "Calley Means, a top adviser to Health Secretary Robert F. Kennedy Jr. and a chief advocate for the Make America Healthy Again movement, resigned from his position with the Trump administration Thursday.",
+      "zh-TW": "卡利·米恩斯是衛生部長小羅伯特·F·甘迺迪的高級顧問，也是「讓美國再次健康」運動的主要倡導者，他於週四辭去了在川普政府的職務。"
+    },
+    "body": {
+      "en": "Calley Means, a top adviser to Health Secretary Robert F. Kennedy Jr. and a chief advocate for the Make America Healthy Again movement, resigned from his position with the Trump administration Thursday. What happened\nRFK Jr. adviser Calley Means resigns amid growing MAHA discontent over lack of progress. Calley Means, a top adviser to Health Secretary Robert F. Kennedy Jr. and a chief advocate for the Make America Healthy Again movement, resigned from his position with the Trump administration Thursday. Calley Means , the health entrepreneur who became the Trump administration's most vocal advocate of the MAHA agenda, resigned from his senior adviser post on Thursday. Why it matters: Means' departure two weeks before the midterm elections underscores the MAHA base's discontent with the pace of change on food policy and the administration's stances on issues like pesticide use . Driving the news: Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (PBS NewsHour, Axios) in the us category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"RFK Jr. adviser Calley Means resigns amid growing MAHA discontent over lack of progress\" (PBS NewsHour); \"Top health adviser and MAHA ally quits Trump admin\" (Axios).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): PBS NewsHour, Axios",
+      "zh-TW": "卡利·米恩斯是衛生部長小羅伯特·F·甘迺迪的高級顧問，也是「讓美國再次健康」運動的主要倡導者，他於週四辭去了在川普政府的職務。 發生了什麼事\n由于 MAHA 对缺乏进展的不满情绪日益高涨，RFK Jr. 顾问卡利·米恩斯 (Calley Means) 辞职。卡利·米恩斯是衛生部長小羅伯特·F·甘迺迪的高級顧問，也是「讓美國再次健康」運動的主要倡導者，他於週四辭去了在川普政府的職務。成為川普政府 MAHA 議程最直言不諱的倡導者的健康企業家 Calley Means 於週四辭去高級顧問職務。為什麼重要：米恩斯在中期選舉前兩週離職，凸顯了 MAHA 基地對食品政策變化速度以及政府在殺蟲劑使用等議題上立場的不滿。推动新闻： 為什麼這很重要\n该集群由美国类别中 2 个渠道（PBS NewsHour、Axios）的 2 个提要项目组装而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多個媒體報導了密切相關的頭條新聞：“RFK Jr. 顧問 Calley Means 在 MAHA 對缺乏進展的不滿情緒日益高漲時辭職”（PBS NewsHour）；“高級健康顧問和 MAHA 盟友退出特朗普政府”（Axios）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 链接来源（仅限渠道名称）：PBS NewsHour、Axios"
+    },
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/rfk-jr-adviser-calley-means-resigns-amid-growing-maha-discontent-over-lack-of-progress"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/10/22/trump-maha-adviser-resigns"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 62,
+    "trustBreakdown": {
+      "sourceDiversity": 13,
+      "outletReputation": 10,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "us",
+      "live-ingest",
+      "pbs-newshour",
+      "axios"
+    ]
+  },
+  {
+    "id": "live-shopping-01-this-is-the-best-and-mos",
+    "category": "shopping",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-shopping-01-this-is-the-best-and-mos.jpg",
+    "imageAlt": {
+      "en": "Cover related to: This Is The Best (And Most Romantic) Way To Get To Know Your Partner While Traveling",
+      "zh-TW": "相關封面圖：這是在旅行時了解伴侶的最佳（也是最浪漫）方式"
+    },
+    "publishedAt": "2026-10-22T17:48:57.000Z",
+    "title": {
+      "en": "This Is The Best (And Most Romantic) Way To Get To Know Your Partner While Traveling",
+      "zh-TW": "這是在旅行時了解伴侶的最佳（也是最浪漫）方式"
+    },
+    "summary": {
+      "en": "I’m headed into the second year of my relationship, and I’m still getting to know my boyfriend . After more than five vacations together, I know we’re both up early, always down to explore, and very serious about tryi…",
+      "zh-TW": "我的戀愛關係即將進入第二年，但我仍在了解我的男朋友。一起度過了五個多假期後，我知道我們都起得很早，總是埋頭探索，而且非常認真地嘗試…"
+    },
+    "body": {
+      "en": "I’m headed into the second year of my relationship, and I’m still getting to know my boyfriend . After more than five vacations together, I know we’re both up early, always down to explore, and very serious about trying new restaurants wherever we’re staying. But there are still What happened\nThis Is The Best (And Most Romantic) Way To Get To Know Your Partner While Traveling. I’m headed into the second year of my relationship, and I’m still getting to know my boyfriend . After more than five vacations together, I know we’re both up early, always down to explore, and very serious about trying new restaurants wherever we’re staying. But there are still stories from his past I haven’t heard and questions I haven’t thought to ask. That curiosity has been part of our relati Save $20 per month on 500Mbps fiber internet from Optimum. Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (Refinery29, CNET Deals) in the shopping category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"This Is The Best (And Most Romantic) Way To Get To Know Your Partner While Traveling\" (Refinery29); \"Get Optimum Fiber Internet for $25 a Month, Its Best Price This Year\" (CNET Deals).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Refinery29, CNET Deals",
+      "zh-TW": "我的戀愛關係即將進入第二年，但我仍在了解我的男朋友。一起度過了五個多假期後，我知道我們都起得很早，總是下去探索，並且無論我們住在哪裡，都非常認真地嘗試新餐廳。但仍有 發生了什麼事\n这是在旅行时了解伴侣的最佳（也是最浪漫）方式。我的戀愛關係即將進入第二年，但我仍在了解我的男朋友。一起度過了五個多假期後，我知道我們都起得很早，總是下去探索，並且無論我們住在哪裡，都非常認真地嘗試新餐廳。但仍有一些关于他过去的故事我没有听过，也有一些我没有想到要问的问题。这种好奇心一直是我们关系的一部分，使用 Optimum 的 500Mbps 光纤互联网每月可节省 20 美元。 為什麼這很重要\n该集群由购物类别中 2 个销售点（Refinery29、CNET Deals）的 2 个 Feed 项目组装而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「這是在旅行時了解伴侶的最佳（也是最浪漫）方式」（Refinery29）；「每月 25 美元即可獲得最佳光纖互聯網，這是今年的最優惠價格」（CNET Deals）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 链接来源（仅限商店名称）：Refinery29、CNET Deals"
+    },
+    "sources": [
+      {
+        "name": "Refinery29",
+        "url": "https://www.refinery29.com/en-us/this-is-the-best-way-to-get-to-know-your-partner-while-traveling?utm_source=feed&utm_medium=rss"
+      },
+      {
+        "name": "CNET Deals",
+        "url": "https://www.cnet.com/deals/optimum-fiber-internet-deal/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 13,
+      "outletReputation": 10,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "shopping",
+      "live-ingest",
+      "refinery29",
+      "cnet-deals"
+    ]
+  },
+  {
+    "id": "live-beauty-01-my-new-fav-charlotte-til",
+    "category": "beauty",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-beauty-01-my-new-fav-charlotte-til.jpg",
+    "imageAlt": {
+      "en": "Cover related to: My New Fav Charlotte Tilbury Products Are On Sale For Amazon’s Holiday Beauty Haul",
+      "zh-TW": "相關封面圖：我最喜歡的夏洛特蒂爾伯里 (Charlotte Tilbury) 新產品正在亞馬遜假日美容系列促銷中"
+    },
+    "publishedAt": "2026-10-22T15:00:00.000Z",
+    "title": {
+      "en": "My New Fav Charlotte Tilbury Products Are On Sale For Amazon’s Holiday Beauty Haul",
+      "zh-TW": "我最喜歡的夏洛特蒂爾伯里 (Charlotte Tilbury) 新產品正在亞馬遜假日美容系列促銷中"
+    },
+    "summary": {
+      "en": "Physical exfoliants and cleansers are just a few of the things that can lead to issues.",
+      "zh-TW": "（中文譯文待補／translation pending） Physical exfoliants and cleansers are just a few of the things that can lead to issues."
+    },
+    "body": {
+      "en": "Physical exfoliants and cleansers are just a few of the things that can lead to issues. What happened\nMy New Fav Charlotte Tilbury Products Are On Sale For Amazon’s Holiday Beauty Haul. Physical exfoliants and cleansers are just a few of the things that can lead to issues. As a shopping writer, there are few times when I’m actually repurchasing makeup , typically trying a revolving door of new products instead. But, there’s one beauty item that I use until the very last drop and immediately re-order: Charlotte Tilbury’s Big Lip Plumpgasm . It’s the perfect plumping lip gloss that gets me endless compliments. And now lucky for me (and you), it’s currently on sale dur Two weeks full of deals on your go-to products. Why it matters\nThis cluster was assembled from 3 feed item(s) across 2 outlet(s) (Allure, Refinery29) in the beauty category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"10 Beauty Products and Treatments That Can Trigger a Psoriasis Flare\" (Allure); \"My New Fav Charlotte Tilbury Products Are On Sale For Amazon’s Holiday Beauty Haul\" (Refinery29); \"Amazon Holiday Beauty Event 2026: Shop Allure Editors' Favorite Deals\" (Allure).\nFigures differ across outlets (e.g. 10 vs 25 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Allure, Refinery29",
+      "zh-TW": "物理性去角質劑和清潔劑只是可能導致問題的一小部分。 發生了什麼事\n我最喜歡的夏洛特·蒂爾伯里 (Charlotte Tilbury) 新產品正在亞馬遜假日美容系列促銷中。物理性去角質劑和清潔劑只是可能導致問題的一小部分。作為一名購物作家，我很少會真正重新購買化妝品，通常是嘗試新產品的旋轉門。但是，有一個美容產品我會用完最後一滴，然後立即重新訂購：Charlotte Tilbury 的 Big Lip Plumpgasm。這是一款完美的豐盈唇彩，讓我得到了無盡的讚美。現在對我（和你）來說很幸運，它目前正在為期兩週的促銷活動中，提供你的首選產品。 為什麼這很重要\n此集群由美容類別 2 個銷售點（Allure、Refinery29）的 3 個 Feed 項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「10種可能引發牛皮癬的美容產品和治療方法」（Allure）；「我最喜歡的 Charlotte Tilbury 產品正在為亞馬遜假日美容系列打折」(Refinery29)；「2026 年亞馬遜假日美容活動：購買 Allure 編輯最喜歡的優惠」（Allure）。\n不同媒體的數字有所不同（例如，標題/摘要中的數字為 10 比 25）。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限出口名稱）：Allure、Refinery29"
+    },
+    "sources": [
+      {
+        "name": "Allure",
+        "url": "https://www.allure.com/story/beauty-products-treatments-psoriasis-flare"
+      },
+      {
+        "name": "Refinery29",
+        "url": "https://www.refinery29.com/en-us/charlotte-tilbury-amazon-holiday-beauty-haul-sale?utm_source=feed&utm_medium=rss"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 10 vs 25 in headlines/snippets).",
+      "zh-TW": "不同媒體的數字有所不同（例如，標題/摘要中的數字為 10 比 25）。"
+    },
+    "trustScore": 54,
+    "trustBreakdown": {
+      "sourceDiversity": 13,
+      "outletReputation": 10,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "beauty",
+      "live-ingest",
+      "allure",
+      "refinery29",
+      "allure"
+    ]
+  },
+  {
+    "id": "live-international-02-elon-musk-reportedly-inv",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-elon-musk-reportedly-inv.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
+      "zh-TW": "相關封面圖：據報道，埃隆馬斯克向大衛埃里森的 Skydance 投資 10 億美元"
+    },
+    "publishedAt": "2026-10-22T21:23:39.000Z",
+    "title": {
+      "en": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
+      "zh-TW": "據報道，埃隆馬斯克向大衛埃里森的 Skydance 投資 10 億美元"
+    },
+    "summary": {
+      "en": "As Elon Musk considers merging Tesla and SpaceX, tech journalist Kara Swisher examines his business strategy, growing political influence and power over the war in Ukraine. (Image credit: Manuel Balce Ceneta)",
+      "zh-TW": "當 Elon Musk 考慮合併特斯拉 (Tesla) 和 SpaceX 時，科技記者 Kara Swisher 審視了他的商業策略、日益增長的政治影響力以及對烏克蘭戰爭的影響力。 （圖片來源：Manuel Balce Ceneta）"
+    },
+    "body": {
+      "en": "As Elon Musk considers merging Tesla and SpaceX, tech journalist Kara Swisher examines his business strategy, growing political influence and power over the war in Ukraine. (Image credit: Manuel Balce Ceneta) What happened\nElon Musk reportedly invests $1bn in David Ellison’s Skydance. As Elon Musk considers merging Tesla and SpaceX, tech journalist Kara Swisher examines his business strategy, growing political influence and power over the war in Ukraine. (Image credit: Manuel Balce Ceneta) David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk. Musk’s investment into the new media empire comes after Paramount’s $111bn merger with Warner Bros Discovery Elon Musk has reportedly invested approximately $1bn in Skydance, the new media empire led by David Ellison. The deal comes alongside fresh equity infusions from existing investors, including board member Laurene Powell Jobs, Steve Jobs’s widow. Semafor first reported the news. Continue rea Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (NPR World, CNBC, The Guardian Business) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy'\" (NPR World); \"Elon Musk invests about $1 billion in Skydance\" (CNBC); \"Elon Musk reportedly invests $1bn in David Ellison’s Skydance\" (The Guardian Business).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): NPR World, CNBC, The Guardian Business",
+      "zh-TW": "當 Elon Musk 考慮合併特斯拉 (Tesla) 和 SpaceX 時，科技記者 Kara Swisher 審視了他的商業策略、日益增長的政治影響力以及對烏克蘭戰爭的影響力。 （圖片來源：Manuel Balce Ceneta） 發生了什麼事\n据报道，埃隆·马斯克向大卫·埃里森的 Skydance 投资了 10 亿美元。當 Elon Musk 考慮合併特斯拉 (Tesla) 和 SpaceX 時，科技記者 Kara Swisher 審視了他的商業策略、日益增長的政治影響力以及對烏克蘭戰爭的影響力。 （圖片來源：Manuel Balce Ceneta）大衛·埃里森的父親、億萬富翁、甲骨文聯合創始人拉里·埃里森與馬斯克有過淵源。马斯克对新媒体帝国的投资是在派拉蒙以 1110 亿美元与华纳兄弟探索公司合并之后进行的。据报道，埃隆·马斯克向大卫·埃里森领导的新媒体帝国 Skydance 投资了约 10 亿美元。這項交易同時也包括現有投資者的新股權注入，其中包括董事會成員、史蒂夫·賈伯斯的遺孀勞倫·鮑威爾·賈伯斯。 Semafor 最先报道了这一消息。繼續閱讀 為什麼這很重要\n该集群由国际类别中 3 个媒体（NPR World、CNBC、The Guardian Business）的 3 个 Feed 项目组成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「卡拉·斯威舍談埃隆·馬斯克：『他未經選舉、不負責任、非常富有』」（NPR World）；「伊隆·馬斯克向 Skydance 投資約 10 億美元」（CNBC）； 「據報道，伊隆馬斯克向大衛·埃里森的 Skydance 投資了 10 億美元」（《衛報》）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 链接来源（仅限媒体名称）：NPR World、CNBC、The Guardian Business"
+    },
+    "sources": [
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6010616/kara-swisher-elon-musk-tesla-spacex-political-influence"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html"
+      },
+      {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 20,
+      "outletReputation": 21,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "npr-world",
+      "cnbc",
+      "the-guardian-business"
+    ]
+  },
+  {
+    "id": "live-ai-01-q-a-how-ai-came-to-model",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-ai-01-q-a-how-ai-came-to-model.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Q&A: How AI came to model the “messy” human mind",
+      "zh-TW": "相關封面圖：Q：人工智慧如何模擬「混亂」的人類思維"
+    },
+    "publishedAt": "2026-10-23T04:00:00.000Z",
+    "title": {
+      "en": "Q&A: How AI came to model the “messy” human mind",
+      "zh-TW": "Q：人工智慧如何模擬「混亂」的人類思維"
+    },
+    "summary": {
+      "en": "Generative artificial intelligence models are rooted in ideas of mid-20th century engineers who thought some amount of irrationality was essential for a machine that could think like a human, contends Benjamin Lindqui…",
+      "zh-TW": "本傑明·林德奎 (Benjamin Lindqui) 認為，生成式人工智慧模型植根於 20 世紀中葉工程師的想法，他們認為一定程度的非理性對於能夠像人類一樣思考的機器至關重要…"
+    },
+    "body": {
+      "en": "Generative artificial intelligence models are rooted in ideas of mid-20th century engineers who thought some amount of irrationality was essential for a machine that could think like a human, contends Benjamin Lindquist, an assistant professor in the MIT History Section, who hold What happened\nQ&A: How AI came to model the “messy” human mind. Generative artificial intelligence models are rooted in ideas of mid-20th century engineers who thought some amount of irrationality was essential for a machine that could think like a human, contends Benjamin Lindquist, an assistant professor in the MIT History Section, who holds an MIT Schwarzman College of Computing shared position with the Department of Electrical Engineering and Computer Scie Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (MIT News AI) in the ai category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): MIT News AI",
+      "zh-TW": "麻省理工學院歷史系助理教授 Benjamin Lindquist 認為，生成式人工智慧模型植根於 20 世紀中葉工程師的想法，他們認為一定程度的非理性對於能夠像人類一樣思考的機器至關重要。 發生了什麼事\n問與答：人工智慧如何模擬「混亂」的人類思維。麻省理工學院歷史系助理教授 Benjamin Lindquist 認為，生成式人工智慧模型植根於 20 世紀中期工程師的想法，他們認為一定程度的非理性對於能夠像人類一樣思考的機器至關重要。 為什麼這很重要\n此集群由人工智慧類別中 1 個管道（麻省理工學院新聞人工智慧）的 1 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：MIT News AI"
+    },
+    "sources": [
+      {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 60,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 23,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "mit-news-ai"
+    ]
+  },
+  {
+    "id": "live-taiwan-01-7-10-16-32-300",
+    "category": "taiwan",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-taiwan-01-7-10-16-32-300.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 西藏那曲地震規模7深度僅10公里　已知16死32傷、逾300屋倒",
+      "zh-TW": "相關封面圖：西藏那曲地震規模7深度僅10公里　已知16死32傷、逾300屋倒"
+    },
+    "publishedAt": "2026-10-23T02:24:59.000Z",
+    "title": {
+      "en": "西藏那曲地震規模7深度僅10公里　已知16死32傷、逾300屋倒",
+      "zh-TW": "西藏那曲地震規模7深度僅10公里　已知16死32傷、逾300屋倒"
+    },
+    "summary": {
+      "en": "（中央社記者李雅雯台北23日電）中國西藏那曲市巴青縣昨晚發生規模7地震，已釀16死、54傷，中國領導人習近平要求全力展開人員搜救、妥善安置受災群眾。現場救災工作持續進行中。",
+      "zh-TW": "（中央社記者李雅雯台北23日電）中國西藏那曲市巴青縣昨晚發生規模7地震，已釀16死、54傷，中國領導人習近平要求全力展開人員搜救、妥善安置受災群眾。現場救災工作持續進行中。"
+    },
+    "body": {
+      "en": "（中央社記者李雅雯台北23日電）中國西藏那曲市巴青縣昨晚發生規模7地震，已釀16死、54傷，中國領導人習近平要求全力展開人員搜救、妥善安置受災群眾。現場救災工作持續進行中。 What happened\n西藏那曲地震規模7深度僅10公里　已知16死32傷、逾300屋倒. （中央社記者李雅雯台北23日電）中國西藏那曲市巴青縣昨晚發生規模7地震，已釀16死、54傷，中國領導人習近平要求全力展開人員搜救、妥善安置受災群眾。現場救災工作持續進行中。 （中央社記者李雅雯台北23日電）中國大陸西藏那曲市巴青縣規模7地震釀傷亡，陸委會今天上午表示，代表政府向中國大陸有關方面表達慰問之意，另也提醒在當地的台灣民眾留意自身安全。 （中央社台北23日電）西藏那曲市巴青縣昨晚發生規模7地震，震源深度僅10公里。根據中國官媒新華社，截至今晨2時25分，這次地震已造成16人遇難，32人受傷，其中重傷11人、輕傷21人，房屋倒塌339戶。 Why it matters\nThis cluster was assembled from 3 feed item(s) across 1 outlet(s) (中央社-兩岸) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"西藏那曲地震已釀16死　習近平指示全力搜救\" (中央社-兩岸); \"西藏那曲地震釀傷亡　陸委會表達慰問關心\" (中央社-兩岸); \"西藏那曲地震規模7深度僅10公里　已知16死32傷、逾300屋倒\" (中央社-兩岸).\nFigures differ across outlets (e.g. 54 vs 10 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 中央社-兩岸 Additional feed context\n(1) （中央社記者李雅雯台北23日電）中國西藏那曲市巴青縣昨晚發生規模7地震，已釀16死、54傷，中國領導人習近平要求全力展開人員搜救、妥善安置受災群眾。現場救災工作持續進行中。\n(2) （中央社記者李雅雯台北23日電）中國大陸西藏那曲市巴青縣規模7地震釀傷亡，陸委會今天上午表示，代表政府向中國大陸有關方面表達慰問之意，另也提醒在當地的台灣民眾留意自身安全。\n(3) （中央社台北23日電）西藏那曲市巴青縣昨晚發生規模7地震，震源深度僅10公里。根據中國官媒新華社，截至今晨2時25分，這次地震已造成16人遇難，32人受傷，其中重傷11人、輕傷21人，房屋倒塌339戶。",
+      "zh-TW": "（中央社記者李雅雯台北23日電）中國西藏那曲市巴青縣昨晚發生規模7地震，已釀16死、54傷，中國領導人習近平要求全力展開人員搜救、妥善安置受災群眾。現場救災工作持續進行中。 What happened\n西藏那曲地震規模7深度僅10公里　已知16死32傷、逾300屋倒. （中央社記者李雅雯台北23日電）中國西藏那曲市巴青縣昨晚發生規模7地震，已釀16死、54傷，中國領導人習近平要求全力展開人員搜救、妥善安置受災群眾。現場救災工作持續進行中。 （中央社記者李雅雯台北23日電）中國大陸西藏那曲市巴青縣規模7地震釀傷亡，陸委會今天上午表示，代表政府向中國大陸有關方面表達慰問之意，另也提醒在當地的台灣民眾留意自身安全。 （中央社台北23日電）西藏那曲市巴青縣昨晚發生規模7地震，震源深度僅10公里。根據中國官媒新華社，截至今晨2時25分，這次地震已造成16人遇難，32人受傷，其中重傷11人、輕傷21人，房屋倒塌339戶。 Why it matters\nThis cluster was assembled from 3 feed item(s) across 1 outlet(s) (中央社-兩岸) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"西藏那曲地震已釀16死　習近平指示全力搜救\" (中央社-兩岸); \"西藏那曲地震釀傷亡　陸委會表達慰問關心\" (中央社-兩岸); \"西藏那曲地震規模7深度僅10公里　已知16死32傷、逾300屋倒\" (中央社-兩岸).\nFigures differ across outlets (e.g. 54 vs 10 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 中央社-兩岸 Additional feed context\n(1) （中央社記者李雅雯台北23日電）中國西藏那曲市巴青縣昨晚發生規模7地震，已釀16死、54傷，中國領導人習近平要求全力展開人員搜救、妥善安置受災群眾。現場救災工作持續進行中。\n(2) （中央社記者李雅雯台北23日電）中國大陸西藏那曲市巴青縣規模7地震釀傷亡，陸委會今天上午表示，代表政府向中國大陸有關方面表達慰問之意，另也提醒在當地的台灣民眾留意自身安全。\n(3) （中央社台北23日電）西藏那曲市巴青縣昨晚發生規模7地震，震源深度僅10公里。根據中國官媒新華社，截至今晨2時25分，這次地震已造成16人遇難，32人受傷，其中重傷11人、輕傷21人，房屋倒塌339戶。"
+    },
+    "sources": [
+      {
+        "name": "中央社-兩岸",
+        "url": "https://www.cna.com.tw/news/acn/202610230044.aspx"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 54 vs 10 in headlines/snippets).",
+      "zh-TW": "（譯文待補）Figures differ across outlets (e.g. 54 vs 10 in headlines/snippets)."
+    },
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 22,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "taiwan",
+      "live-ingest",
+      "中央社-兩岸",
+      "中央社-兩岸",
+      "中央社-兩岸"
+    ]
+  },
+  {
+    "id": "live-semiconductor-02-10",
+    "category": "semiconductor",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-semiconductor-02-10.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 傳馬斯克出手挺天舞，投資 10 億美元助攻媒體版圖整合",
+      "zh-TW": "相關封面圖：傳馬斯克出手挺天舞，投資 10 億美元助攻媒體版圖整合"
+    },
+    "publishedAt": "2026-10-23T06:00:09.000Z",
+    "title": {
+      "en": "傳馬斯克出手挺天舞，投資 10 億美元助攻媒體版圖整合",
+      "zh-TW": "傳馬斯克出手挺天舞，投資 10 億美元助攻媒體版圖整合"
+    },
+    "summary": {
+      "en": "美國財經電視網 CNBC 引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydanc [&#8230;]",
+      "zh-TW": "美國財經電視網 CNBC 引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydanc […]"
+    },
+    "body": {
+      "en": "美國財經電視網 CNBC 引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydanc [&#8230;] What happened\n傳馬斯克出手挺天舞，投資 10 億美元助攻媒體版圖整合. 美國財經電視網 CNBC 引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydanc [&#8230;] （中央社紐約22日綜合外電報導）美國財經電視網CNBC引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydance）約10億美元（新台幣325.7億元）。由於這名人士未獲授權公開談論此事，因此要求匿名。 Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (TechNews 科技新報, 中央社-產經證券) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"傳馬斯克出手挺天舞，投資 10 億美元助攻媒體版圖整合\" (TechNews 科技新報); \"傳馬斯克出手挺天舞　投資10億美元助攻媒體版圖整合\" (中央社-產經證券).\nFigures differ across outlets (e.g. 8230 vs 22 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechNews 科技新報, 中央社-產經證券 Additional feed context\n(1) 美國財經電視網 CNBC 引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydanc [&#8230;]\n(2) （中央社紐約22日綜合外電報導）美國財經電視網CNBC引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydance）約10億美元（新台幣325.7億元）。由於這名人士未獲授權公開談論此事，因此要求匿名。",
+      "zh-TW": "美國財經電視網 CNBC 引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydanc […] What happened\n傳馬斯克出手挺天舞，投資 10 億美元助攻媒體版圖整合. 美國財經電視網 CNBC 引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydanc […] （中央社紐約22日綜合外電報導）美國財經電視網CNBC引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydance）約10億美元（新台幣325.7億元）。由於這名人士未獲授權公開談論此事，因此要求匿名。 Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (TechNews 科技新報, 中央社-產經證券) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"傳馬斯克出手挺天舞，投資 10 億美元助攻媒體版圖整合\" (TechNews 科技新報); \"傳馬斯克出手挺天舞　投資10億美元助攻媒體版圖整合\" (中央社-產經證券).\nFigures differ across outlets (e.g. 8230 vs 22 in headlines/snippets). Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechNews 科技新報, 中央社-產經證券 Additional feed context\n(1) 美國財經電視網 CNBC 引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydanc […]\n(2) （中央社紐約22日綜合外電報導）美國財經電視網CNBC引述一名知情人士報導，億萬富豪馬斯克（Elon Musk）已投資天舞（Skydance）約10億美元（新台幣325.7億元）。由於這名人士未獲授權公開談論此事，因此要求匿名。"
+    },
+    "sources": [
+      {
+        "name": "TechNews 科技新報",
+        "url": "https://finance.technews.tw/2026/10/23/musk-backs-tianwu-1-billion-media-integration/"
+      },
+      {
+        "name": "中央社-產經證券",
+        "url": "https://www.cna.com.tw/news/aopl/202610230073.aspx"
+      }
+    ],
+    "disagreements": {
+      "en": "Figures differ across outlets (e.g. 8230 vs 22 in headlines/snippets).",
+      "zh-TW": "（譯文待補）Figures differ across outlets (e.g. 8230 vs 22 in headlines/snippets)."
+    },
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 19,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "semiconductor",
+      "live-ingest",
+      "technews-科技新報",
+      "中央社-產經證券"
+    ]
   }
 ]
