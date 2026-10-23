@@ -31,7 +31,7 @@ export default function HomePage() {
   const { lang, setLang, ready: langReady } = useLanguage();
   const { state, ready, interact, reset, rank } = usePersonalization();
   const [category, setCategory] = useState<Category | "all">("all");
-  const [dayRange, setDayRange] = useState<DayRange>("30d");
+  const [dayRange, setDayRange] = useState<DayRange>("today");
 
   const { headlines, feed } = useMemo(() => {
     const base = filterStoriesByDayRange(
