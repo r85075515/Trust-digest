@@ -18096,5 +18096,630 @@
         }
       }
     ]
+  },
+  {
+    "id": "live-semiconductor-01-openai-disables-internet",
+    "category": "semiconductor",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-semiconductor-01-openai-disables-internet.jpg",
+    "imageAlt": {
+      "en": "Cover related to: OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+      "zh-TW": "相關封面圖：OpenAI 在模型訓練期間禁用互聯網訪問，而 Anthropic 又提出了一個道歉"
+    },
+    "publishedAt": "2026-10-23T23:05:49.000Z",
+    "title": {
+      "en": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+      "zh-TW": "OpenAI 在模型訓練期間禁用互聯網訪問，而 Anthropic 又提出了一個道歉"
+    },
+    "summary": {
+      "en": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "zh-TW": "在一名工程師表示解決方案行不通幾週後，OpenAI 將切斷前沿模型與互聯網的連接。"
+    },
+    "body": {
+      "en": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. What happened\nOpenAI disables internet access during model training while Anthropic issues another mea culpa. OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday , OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier AI models in September , after disclosing several in OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents. OpenAI says it will deny internet access to the frontier models it is training, a move that underscores the inadequacy of safety measures undertaken to date. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access,\" the company said in a blog Why it matters\nThis cluster was assembled from 4 feed item(s) across 4 outlet(s) (TechCrunch, The Verge, Engadget, The Register) in the semiconductor category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”\" (TechCrunch); \"OpenAI now trains its frontier AI models with no internet access\" (The Verge); \"OpenAI says it's cutting off internet access for frontier model training\" (Engadget); \"OpenAI disables internet access during model training while Anthropic issues another mea culpa\" (The Register).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechCrunch, The Verge, Engadget, The Register",
+      "zh-TW": "在一名工程師表示解決方案行不通幾週後，OpenAI 將切斷前沿模型與互聯網的連接。 發生了什麼事\nOpenAI 在模型訓練期間禁用互聯網訪問，而 Anthropic 則再次道歉。在一名工程師表示解決方案行不通幾週後，OpenAI 將切斷前沿模型與互聯網的連接。在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型。 OpenAI 在周五的一篇部落格文章中表示，它建立了一個離線測試環境，其中人工智慧模型可以與索引和快取的網路內容進行交互，「而不會影響外部系統的風險」。 OpenAI 在 9 月暫停了其前沿人工智慧模型的訓練，此前 OpenAI 曾披露稱，在一系列事件發生後，將不再允許前沿模型在訓練期間訪問互聯網，以期採取新的安全措施。 OpenAI 表示將拒絕對其正在訓練的前沿模型進行互聯網訪問，此舉凸顯了迄今為止採取的安全措施的不足。該公司在部落格中表示：“根據當前的一致性研究、監控系統和互聯網基礎設施的安全狀況，我們認為負責任的方法是在沒有互聯網接入的情況下進行前沿模型訓練。” 為什麼這很重要\n此集群由半導體類別中 4 個頻道（TechCrunch、The Verge、Engadget、The Register）的 4 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「OpenAI 表示將不再在實時互聯網上訓練其人工智能模型，理由是存在「重大風險」」（TechCrunch）； “OpenAI 現在可以在沒有互聯網接入的情況下訓練其前沿人工智能模型”（The Verge）；“OpenAI 表示將切斷前沿模型訓練的互聯網訪問”（The Anadmpic “ Register）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限頻道名稱）：TechCrunch、The Verge、Engadget、The Register"
+    },
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/"
+      },
+      {
+        "name": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 92,
+    "trustBreakdown": {
+      "sourceDiversity": 25,
+      "outletReputation": 17,
+      "crossCorroboration": 25,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "semiconductor",
+      "live-ingest",
+      "techcrunch",
+      "the-verge",
+      "engadget"
+    ]
+  },
+  {
+    "id": "live-finance-01-seeking-to-help-collins-",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": true,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-01-seeking-to-help-collins-.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Seeking to help Collins in Maine, Trump exempts some Canadian imports from his 50% tariffs",
+      "zh-TW": "相關封面圖：為了幫助緬因州的柯林斯，川普對一些加拿大進口產品免除了 50% 的關稅"
+    },
+    "publishedAt": "2026-10-23T22:48:08.000Z",
+    "title": {
+      "en": "Seeking to help Collins in Maine, Trump exempts some Canadian imports from his 50% tariffs",
+      "zh-TW": "為了幫助緬因州的柯林斯，川普對一些加拿大進口產品免除了 50% 的關稅"
+    },
+    "summary": {
+      "en": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
+      "zh-TW": "參議員蘇珊柯林斯 (Susan Collins) 宣布加拿大將取消加拿大關稅，但白宮後來表示正在「替換」從清單中刪除的關稅。"
+    },
+    "body": {
+      "en": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list. What happened\nSeeking to help Collins in Maine, Trump exempts some Canadian imports from his 50% tariffs. Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list. Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the embattled Republican senator for Maine, as she faces a tight re-election campaign that will help determine whether Democrats can Collins, locked in a tight race with Democratic challenger Troy Jackson, issued a statement saying she'd spoken with Trump's top trade negotiator, Jamieson Greer, and Commerce Secretary Howard Lutnick \"about the toll tariffs are taking on Maine families, businesses, farmers, and growers.'' Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (CNBC, The Guardian Business, PBS NewsHour) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Trump dropping some Canada tariffs but 'replacing' them with other products\" (CNBC); \"Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine\" (The Guardian Business); \"Seeking to help Collins in Maine, Trump exempts some Canadian imports from his 50% tariffs\" (PBS NewsHour).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): CNBC, The Guardian Business, PBS NewsHour",
+      "zh-TW": "參議員蘇珊柯林斯 (Susan Collins) 宣布加拿大將取消加拿大關稅，但白宮後來表示正在「替換」從清單中刪除的關稅。 發生了什麼事\n為了幫助緬因州的柯林斯，川普對一些加拿大進口產品免除了 50% 的關稅。參議員蘇珊柯林斯 (Susan Collins) 宣布加拿大將取消加拿大關稅，但白宮後來表示正在「替換」從清單中刪除的關稅。共和黨參議員在該州面臨關鍵的連任之戰，總統的貿易戰激怒了選民。白宮表示，唐納德·川普週五取消了美國對加拿大的部分關稅，以“更好地服務公共利益”，將勝利拱手讓陷入困境的緬因州共和黨參議員蘇珊·柯林斯，她面臨一場激烈的連任競選，這將有助於確定民主黨是否能夠與民主黨挑戰者特洛伊·傑克遜展開激烈的競爭。川普的最高貿易談判代表傑米森·格里爾和商務部長霍華德·盧特尼克“談到關稅正在對緬因州的家庭、企業、農民和種植者造成影響。” 為什麼這很重要\n此集群由金融類別中 3 個媒體（CNBC、The Guardian Business、PBS NewsHour）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「川普取消了部分加拿大關稅，但用其他產品『取代』」(CNBC)；「川普取消了一些加拿大關稅，以提振緬因州陷入困境的蘇珊·柯林斯」（《衛報商業》）； “為了幫助緬因州的柯林斯，川普對一些加拿大進口產品免除了 50% 的關稅”（PBS NewsHour）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅媒體名稱）：CNBC、The Guardian Business、PBS NewsHour"
+    },
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html"
+      },
+      {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/seeking-to-help-collins-in-maine-trump-exempts-some-canadian-imports-from-his-50-tariffs"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 85,
+    "trustBreakdown": {
+      "sourceDiversity": 20,
+      "outletReputation": 18,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "cnbc",
+      "the-guardian-business",
+      "pbs-newshour"
+    ]
+  },
+  {
+    "id": "live-international-01-marco-rubio-urges-cubans",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-01-marco-rubio-urges-cubans.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
+      "zh-TW": "相關封面圖：馬可·盧比歐敦促古巴人與中央情報局合作推翻政府"
+    },
+    "publishedAt": "2026-10-24T03:50:32.000Z",
+    "title": {
+      "en": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
+      "zh-TW": "馬可·盧比歐敦促古巴人與中央情報局合作推翻政府"
+    },
+    "summary": {
+      "en": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments …",
+      "zh-TW": "在川普告訴美國集會軍艦可能會在從伊朗返回後進行幹預後，美國國務卿發表評論馬可·魯比奧敦促尋求國家政治變革的古巴人採取行動，稱“現在是時候了”…"
+    },
+    "body": {
+      "en": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south What happened\nMarco Rubio urges Cubans to collaborate with CIA to topple gov’t. US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war. The US secretary of state, in his Secretary of State Marco Rubio offered Cubans a discreet CIA partnership opportunity in a Friday social media post, saying \"now is the time\" for those looking to \"create positive change” in the Caribbean country. “The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change... Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government. Why it matters\nThis cluster was assembled from 3 feed item(s) across 3 outlet(s) (The Guardian World, The Hill, Al Jazeera) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Rubio tells Cubans ‘now is the time’ to act to see political change\" (The Guardian World); \"Rubio floats CIA 'partnership' to Cubans tired of 'failed promises, corruption'\" (The Hill); \"Marco Rubio urges Cubans to collaborate with CIA to topple gov’t\" (Al Jazeera).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Guardian World, The Hill, Al Jazeera",
+      "zh-TW": "美國國務卿在川普告訴美國集會軍艦可能從伊朗返回後進行幹預後發表評論 馬可·魯比奧敦促尋求本國政治變革的古巴人採取行動，在唐納德·特朗普週五在南部候選人集會上發表講話後不久他表示“現在是時候了” 發生了什麼事\n馬可·盧比奧敦促古巴人與中央情報局合作推翻政府。美國國務卿在川普告訴美國集會軍艦可能在從伊朗返回途中進行幹預後發表評論 馬爾科·魯比奧敦促尋求本國政治變革的古巴人採取行動，在唐納德·特朗普週五在南佛羅裡達舉行的候選人集會上表示美國軍艦可能會在從伊朗戰爭返回的途中對古巴進行幹預後不久，他表示“現在是時候了”。美國國務卿馬可·盧比奧在周五的社交媒體帖子中向古巴人提供了一個謹慎的中央情報局合作機會，並表示對於那些希望在這個加勒比國家“創造積極變革”的人來說“現在是時候了”。 「對未能兌現的承諾、腐敗和少數人的特權生活感到失望；抓住這個機會創造變革……國務卿馬可·盧比奧敦促古巴人與中央情報局秘密合作，推翻他們的政府。 為什麼這很重要\n此集群由國際類別中 3 個頻道（The Guardian World、The Hill、Al Jazeera）的 3 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「盧比歐告訴古巴人『現在是採取行動實現政治變革的時候了』」（《衛報世界》）；「盧比歐告訴古巴人『現在是採取行動實現政治變革的時候了』」（《衛報世界》）；「盧比歐向厭倦了『失敗的承諾和腐敗』的古巴人提出中央情報局的『夥伴關係』」（國會山報）；「馬可·盧比奧古巴人與中央情報局合作推翻政府」（半島情報局）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：衛報世界、The Hill、半島電視台"
+    },
+    "sources": [
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 85,
+    "trustBreakdown": {
+      "sourceDiversity": 20,
+      "outletReputation": 18,
+      "crossCorroboration": 22,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "the-guardian-world",
+      "the-hill",
+      "al-jazeera"
+    ]
+  },
+  {
+    "id": "live-finance-02-some-canadian-tariffs-ex",
+    "category": "finance",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-finance-02-some-canadian-tariffs-ex.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Some Canadian Tariffs Exempted, Oil at Six-Month High, More",
+      "zh-TW": "相關封面圖：加拿大免部分關稅，石油價格創六個月新高，更多"
+    },
+    "publishedAt": "2026-10-24T03:45:52.000Z",
+    "title": {
+      "en": "Some Canadian Tariffs Exempted, Oil at Six-Month High, More",
+      "zh-TW": "加拿大免部分關稅，石油價格創六個月新高，更多"
+    },
+    "summary": {
+      "en": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
+      "zh-TW": "在面臨艱難的中期競選之際，這位五屆共和黨參議員正在宣傳她成功的遊說努力，反對對加拿大徵收某些關稅"
+    },
+    "body": {
+      "en": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada What happened\nSome Canadian Tariffs Exempted, Oil at Six-Month High, More. As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (MarketWatch, Bloomberg News) in the finance category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.\" (MarketWatch); \"Some Canadian Tariffs Exempted, Oil at Six-Month High, More\" (Bloomberg News).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): MarketWatch, Bloomberg News Additional feed context\n(1) As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
+      "zh-TW": "在面臨艱難的中期競選之際，這位五屆共和黨參議員正在宣傳她成功的遊說努力，反對對加拿大徵收某些關稅 發生了什麼事\n加拿大免除了部分關稅，石油價格創六個月新高，等等。在面臨艱難的中期競選之際，這位五屆共和黨參議員正在宣傳她成功的遊說努力，反對對加拿大徵收某些關稅 為什麼這很重要\n此集群由金融類別中 2 個管道（MarketWatch、彭博新聞）的 2 個 Feed 項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：“一些共和黨人在關稅問題上反對特朗普。緬因州的蘇珊·柯林斯剛剛讓他在加拿大徵稅問題上做出讓步。” （市場觀察）；“加拿大部分關稅被豁免，石油價格創六個月新高，還有更多”（彭博新聞）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（限媒體名稱）：MarketWatch、彭博新聞 附加提要上下文\n(1) 在面臨艱難的中期競選之際，這位五屆共和黨參議員正在宣傳她反對對加拿大徵收某些關稅的成功遊說努力"
+    },
+    "sources": [
+      {
+        "name": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories"
+      },
+      {
+        "name": "Bloomberg News",
+        "url": "https://www.bloomberg.com/news/audio/2026-10-24/some-canadian-tariffs-exempted-oil-at-six-month-high-more"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 72,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 19,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "finance",
+      "live-ingest",
+      "marketwatch",
+      "bloomberg-news"
+    ]
+  },
+  {
+    "id": "live-energy-01-andy-burnham-vows-uk-wil",
+    "category": "energy",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-energy-01-andy-burnham-vows-uk-wil.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+      "zh-TW": "相關封面圖：安迪·伯納姆誓言儘管寒鴉氣田獲得批准，英國仍將實現淨零排放目標"
+    },
+    "publishedAt": "2026-10-23T15:36:29.000Z",
+    "title": {
+      "en": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+      "zh-TW": "安迪·伯納姆誓言儘管寒鴉氣田獲得批准，英國仍將實現淨零排放目標"
+    },
+    "summary": {
+      "en": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ Andy Burnham: We will make the net-zero transition work for Britain Andy Burnham has said he will not …",
+      "zh-TW": "首相承諾致力於解決氣候危機，並在《衛報》文章中表示，他的「決心堅定不移」 安迪·伯納姆：我們將為英國實現淨零轉型 安迪·伯納姆表示他不會…"
+    },
+    "body": {
+      "en": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ Andy Burnham: We will make the net-zero transition work for Britain Andy Burnham has said he will not “abandon the responsibility” of fighting the climate crisis aft What happened\nAndy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval. PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ Andy Burnham: We will make the net-zero transition work for Britain Andy Burnham has said he will not “abandon the responsibility” of fighting the climate crisis after the government approved the Jackdaw gasfield, pledging to block new North Sea licences and keep Britain on track for Why it matters\nThis cluster was assembled from 2 feed item(s) across 1 outlet(s) (The Guardian Climate Crisis) in the energy category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval\" (The Guardian Climate Crisis); \"Martin Rowson on the approval of the Jackdaw gasfield – cartoon\" (The Guardian Climate Crisis).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Guardian Climate Crisis",
+      "zh-TW": "英國首相承諾解決氣候危機，並在《衛報》文章中表示，他的「決心堅定不移」 安迪·伯納姆：我們將為英國實現淨零轉型 安迪·伯納姆表示，他不會「放棄」應對氣候危機的責任 發生了什麼事\n安迪·伯納姆 (Andy Burnham) 誓言，儘管寒鴉氣田獲得批准，英國仍將實現淨零排放目標。英國首相承諾解決氣候危機，並在《衛報》文章中表示，他的“決心堅定不移” 安迪·伯納姆：我們將為英國實現淨零排放轉型 安迪·伯納姆表示，在政府批准寒鴉氣田後，他不會“放棄應對氣候危機的責任”，並承諾阻止新的北海正軌發放，讓英國走上許可證。 為什麼這很重要\n此集群由能源類別中 1 個管道（《衛報氣候危機》）的 2 個飼料項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「安迪·伯納姆誓言儘管寒鴉氣田獲得批准，英國仍將實現淨零排放目標」（衛報氣候危機）；「馬丁·羅森關於寒鴉氣田批准的漫畫」（衛報氣候危機）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：衛報氣候危機"
+    },
+    "sources": [
+      {
+        "name": "The Guardian Climate Crisis",
+        "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 59,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 22,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "energy",
+      "live-ingest",
+      "the-guardian-climate-crisis",
+      "the-guardian-climate-crisis"
+    ]
+  },
+  {
+    "id": "live-ai-01-reinforcing-the-value-of",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-ai-01-reinforcing-the-value-of.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Reinforcing the value of human understanding at MIT",
+      "zh-TW": "相關封面圖：麻省理工學院加強人類理解的價值"
+    },
+    "publishedAt": "2026-10-23T19:35:00.000Z",
+    "title": {
+      "en": "Reinforcing the value of human understanding at MIT",
+      "zh-TW": "麻省理工學院加強人類理解的價值"
+    },
+    "summary": {
+      "en": "At the MIT School of Humanities, Arts, and Social Sciences (SHASS) 75th Anniversary Symposium, speakers celebrated the school’s value and contributions, while exploring how artificial intelligence is transforming many…",
+      "zh-TW": "在麻省理工學院人文、藝術和社會科學學院 (SHASS) 75 週年紀念研討會上，演講者讚揚了該學院的價值和貢獻，同時探討了人工智慧如何改變許多…"
+    },
+    "body": {
+      "en": "At the MIT School of Humanities, Arts, and Social Sciences (SHASS) 75th Anniversary Symposium, speakers celebrated the school’s value and contributions, while exploring how artificial intelligence is transforming many aspects of teaching, research, and society. The symposium was What happened\nReinforcing the value of human understanding at MIT. At the MIT School of Humanities, Arts, and Social Sciences (SHASS) 75th Anniversary Symposium, speakers celebrated the school’s value and contributions, while exploring how artificial intelligence is transforming many aspects of teaching, research, and society. The symposium was held Sept. 24-25 in the Linde Music Building’s Thomas Tull Concert Hall. Scholars, students, staff, and alumni from acro Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (MIT News AI) in the ai category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): MIT News AI",
+      "zh-TW": "在麻省理工學院人文、藝術和社會科學學院 (SHASS) 75 週年紀念研討會上，演講者讚揚了該學院的價值和貢獻，同時探討了人工智慧如何改變教學、研究和社會的許多方面。此次研討會是 發生了什麼事\n在麻省理工學院加強人類理解的價值。在麻省理工學院人文、藝術和社會科學學院 (SHASS) 75 週年紀念研討會上，演講者讚揚了該學院的價值和貢獻，同時探討了人工智慧如何改變教學、研究和社會的許多方面。研討會於9月24日至25日在林德音樂大樓托馬斯圖爾音樂廳舉行。 acro 的學者、學生、工作人員和校友 為什麼這很重要\n此集群由人工智慧類別中 1 個管道（麻省理工學院新聞人工智慧）的 1 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：MIT News AI"
+    },
+    "sources": [
+      {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 60,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 23,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "mit-news-ai"
+    ]
+  },
+  {
+    "id": "live-biotech-01-scientists-discover-a-su",
+    "category": "biotech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-biotech-01-scientists-discover-a-su.webp",
+    "imageAlt": {
+      "en": "Cover related to: Scientists discover a surprising double benefit of exercise for Parkinson’s",
+      "zh-TW": "相關封面圖：科學家發現運動對帕金森氏症有驚人的雙重好處"
+    },
+    "publishedAt": "2026-10-23T11:12:28.000Z",
+    "title": {
+      "en": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+      "zh-TW": "科學家發現運動對帕金森氏症有驚人的雙重好處"
+    },
+    "summary": {
+      "en": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic parti…",
+      "zh-TW": "研究人員發現了植牙感染通常對抗生素產生抗藥性的一個令人驚訝的原因：植體本身可能會導致這個問題。細菌腐蝕鈦植入物，釋放微小顆粒…"
+    },
+    "body": {
+      "en": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation What happened\nScientists discover a surprising double benefit of exercise for Parkinson’s. Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate jawbone loss. A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities. Those exercising more than eight hours per week showed almost no average cognitive decline, suggesting that staying active may offer important benefits as the disease progresses. Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to new ways to disrupt viruses and develop vaccines. Researchers have uncovered a hidden immune defense capable of attacking small cell lung cancer, an extremely aggressive disease that often escapes conventional treatments. The specialized immune cells can recognize and destroy cancer cells even when tumors have disguised themselves from the immune system. Why it matters\nThis cluster was assembled from 4 feed item(s) across 1 outlet(s) (ScienceDaily 健康醫學) in the biotech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Dental implants can hijack your immune system, scientists discover\" (ScienceDaily 健康醫學); \"Scientists discover a surprising double benefit of exercise for Parkinson’s\" (ScienceDaily 健康醫學); \"Oxford scientists discover how viruses build themselves without a blueprint\" (ScienceDaily 健康醫學); \"Scientists discover a hidden immune weapon against deadly lung cancer\" (ScienceDaily 健康醫學).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): ScienceDaily 健康醫學",
+      "zh-TW": "研究人員發現了植牙感染通常對抗生素產生抗藥性的一個令人驚訝的原因：植體本身可能會導致這個問題。細菌腐蝕鈦植入物，釋放出劫持免疫細胞的微小顆粒，引發破壞性炎症 發生了什麼事\n科學家發現運動對帕金森氏症有令人驚訝的雙重好處。研究人員發現了植牙感染通常對抗生素產生抗藥性的一個令人驚訝的原因：植體本身可能會導致這個問題。細菌腐蝕鈦植入物，釋放出劫持免疫細胞的微小顆粒，引發破壞性炎症，並加速下顎骨損失。一項為期七年的研究發現，患有帕金森氏症的人如果身體活動較多，記憶力、思考和運動能力的下降速度會較慢。那些每週運動超過八小時的人幾乎沒有表現出平均認知能力下降，這表明隨著疾病的進展，保持活躍可能會帶來重要的好處。科學家們捕捉了病毒樣顆粒逐步組裝的過程，揭示如何透過極其簡單的試誤過程產生具有非凡精度的複雜結構。這項發現揭示了一個關鍵的分子轉折點，可以加速組裝，並可能帶來破壞病毒和開發疫苗的新方法。研究人員發現了一種能夠攻擊小細胞肺癌的隱藏免疫防禦，小細胞肺癌是一種極具侵襲性的疾病，通常無法透過常規治療。即使腫瘤已經偽裝成免疫系統，特殊的免疫細胞也可以辨識並摧毀癌細胞。 為什麼這很重要\n此集群由生物技術類別 1 個管道（科學日報健康醫學）的 4 個飼料項目組成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「科學家發現，植牙可以劫持你的免疫系統」（《每日科學健康醫學》）； 「科學家發現運動對帕金森氏症有令人驚訝的雙重好處」（ScienceDaily 健康醫學）；「牛津大學的科學家發現病毒如何在沒有藍圖的情況下自行建立了一種健康日報「健康日報」健康報告「健康日報」。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限通路名稱）：ScienceDaily 健康醫學"
+    },
+    "sources": [
+      {
+        "name": "ScienceDaily 健康醫學",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 54,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 17,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "biotech",
+      "live-ingest",
+      "sciencedaily-健康醫學",
+      "sciencedaily-健康醫學",
+      "sciencedaily-健康醫學"
+    ]
+  },
+  {
+    "id": "live-tech-01-from-toast-to-bessemer-w",
+    "category": "tech",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-tech-01-from-toast-to-bessemer-w.jpg",
+    "imageAlt": {
+      "en": "Cover related to: From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "zh-TW": "相關封面圖：從 Toast 到 Bessemer：創辦人將在 2026 年 TechCrunch 創辦人高峰會上聽到誰的發言"
+    },
+    "publishedAt": "2026-10-23T20:03:14.000Z",
+    "title": {
+      "en": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "zh-TW": "從 Toast 到 Bessemer：創辦人將在 2026 年 TechCrunch 創辦人高峰會上聽到誰的發言"
+    },
+    "summary": {
+      "en": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, n…",
+      "zh-TW": "TechCrunch 創辦人高峰會 2026 將於 11 月 4 日在波士頓 SoWa Power Station 舉行，創辦人、投資者和營運商齊聚一堂，進行一整天的坦誠對話、實踐會議、現場推廣等…"
+    },
+    "body": {
+      "en": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion. What happened\nFrom Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026. TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion. Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs. Why it matters\nThis cluster was assembled from 2 feed item(s) across 1 outlet(s) (TechCrunch) in the tech category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now\" (TechCrunch); \"From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026\" (TechCrunch).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): TechCrunch",
+      "zh-TW": "TechCrunch 創辦人高峰會 2026 將於 11 月 4 日在波士頓 SoWa Power Station 舉行，創辦人、投資者和營運商齊聚一堂，進行一整天的坦誠對話、實踐會議、現場推廣、交流以及為更深入討論而舉辦的小型圓桌會議。 發生了什麼事\n從 Toast 到 Bessemer：創辦人將在 2026 年 TechCrunch 創辦人高峰會上聽到誰的演講。 TechCrunch 創辦人高峰會 2026 將於 11 月 4 日在波士頓 SoWa Power Station 舉行，創辦人、投資者和營運商齊聚一堂，進行一整天的坦誠對話、實踐會議、現場推廣、交流以及為更深入討論而舉辦的小型圓桌會議。這項全天活動由 TechCrunch 與 Fidelity Private Shares 合作主辦，不僅限於籌款和人工智慧，還探討了在傳統創業中心內外尋找客戶、建立團隊、加強宣傳、培養創始人領導力以及擴大公司規模的現實。 為什麼這很重要\n此集群由科技類別中 1 個管道 (TechCrunch) 的 2 個 Feed 項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「TechCrunch 創辦人高峰會 2026 圓桌會議：深入探討創辦人目前正在解決的挑戰」(TechCrunch)；「從 Toast 到 Bessemer：創辦人將在 2026 年 TechCrunch 創辦人高峰會上聽到誰的發言」(TechCrunch)。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限頻道名稱）：TechCrunch"
+    },
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 18,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "tech",
+      "live-ingest",
+      "techcrunch",
+      "techcrunch"
+    ]
+  },
+  {
+    "id": "live-ai-02-at-mit-martha-minow-spea",
+    "category": "ai",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT%20Compton-01-press.JPG?itok=WqxUfa0W",
+    "imageAlt": {
+      "en": "Cover related to: At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "zh-TW": "相關封面圖：在麻省理工學院，瑪莎·米諾 (Martha Minow) 談論透過使用和克服人工智慧來維持民主"
+    },
+    "publishedAt": "2026-10-23T21:00:00.000Z",
+    "title": {
+      "en": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "zh-TW": "在麻省理工學院，瑪莎·米諾 (Martha Minow) 談論透過使用和克服人工智慧來維持民主"
+    },
+    "summary": {
+      "en": "Legal scholar Martha Minow delivered this fall’s Compton Lecture at MIT on Thursday, examining the civic foundations of democracy — and describing how artificial intelligence is undermining it, but could be used to he…",
+      "zh-TW": "法律學者瑪莎·米諾週四在麻省理工學院發表了今年秋天的康普頓講座，探討了民主的公民基礎，並描述了人工智慧如何破壞民主，但可以用來…"
+    },
+    "body": {
+      "en": "Legal scholar Martha Minow delivered this fall’s Compton Lecture at MIT on Thursday, examining the civic foundations of democracy — and describing how artificial intelligence is undermining it, but could be used to help reinforce traditional U.S. governance. “It’s not a good time What happened\nAt MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI. Legal scholar Martha Minow delivered this fall’s Compton Lecture at MIT on Thursday, examining the civic foundations of democracy — and describing how artificial intelligence is undermining it, but could be used to help reinforce traditional U.S. governance. “It’s not a good time for democracy or constitutionalism,” said Minow, who is the 300th Anniversary University Professor at Harvard Universit Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (MIT News AI) in the ai category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): MIT News AI",
+      "zh-TW": "法律學者瑪莎·米諾週四在麻省理工學院發表了今年秋天的康普頓講座，探討了民主的公民基礎，並描述了人工智慧如何破壞民主，但可以用來幫助加強美國的傳統治理。 「現在不是一個好時機 發生了什麼事\n在麻省理工學院，瑪莎·米諾 (Martha Minow) 發表了關於透過使用和克服人工智慧來維持民主的演講。法律學者瑪莎·米諾週四在麻省理工學院發表了今年秋天的康普頓講座，探討了民主的公民基礎，並描述了人工智慧如何破壞民主，但可以用來幫助加強美國的傳統治理。 「現在不是民主或憲政的好時機，」哈佛大學 300 週年紀念大學教授米諾說。 為什麼這很重要\n此集群由人工智慧類別中 1 個管道（麻省理工學院新聞人工智慧）的 1 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：MIT News AI"
+    },
+    "sources": [
+      {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 23,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "ai",
+      "live-ingest",
+      "mit-news-ai"
+    ]
+  },
+  {
+    "id": "live-international-02-gunmen-open-fire-at-chur",
+    "category": "international",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-international-02-gunmen-open-fire-at-chur.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+      "zh-TW": "相關封面圖：槍手在約旦教堂開槍，造成至少七人死亡"
+    },
+    "publishedAt": "2026-10-23T23:07:34.000Z",
+    "title": {
+      "en": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+      "zh-TW": "槍手在約旦教堂開槍，造成至少七人死亡"
+    },
+    "summary": {
+      "en": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "zh-TW": "卡拉克省南部的襲擊事件還造成 34 人受傷，目前正在進行搜捕行動。"
+    },
+    "body": {
+      "en": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way. What happened\nGunmen Open Fire at Church in Jordan, Killing at Least Seven. Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way. Officials said the shooting, during a funeral at an Orthodox church in the southern province of Karak, was a terrorist act motivated by extremist ideology. Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (BBC World, NYT World) in the international category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"Seven shot dead by gunmen at church funeral in Jordan, officials say\" (BBC World); \"Gunmen Open Fire at Church in Jordan, Killing at Least Seven\" (NYT World).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): BBC World, NYT World",
+      "zh-TW": "卡拉克省南部的襲擊事件還造成 34 人受傷，目前正在進行搜捕行動。 發生了什麼事\n槍手在約旦教堂開槍，造成至少七人死亡。卡拉克省南部的襲擊事件還造成 34 人受傷，目前正在進行搜捕行動。官員表示，這起槍擊事件發生在南部卡拉克省一座東正教教堂舉行的葬禮上，這是一起由極端主義意識形態引發的恐怖攻擊。 為什麼這很重要\n此集群由國際類別中 2 個管道（BBC World、NYT World）的 2 個 Feed 項目組合而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「官員稱，約旦教堂葬禮上有七人被槍手槍殺」（BBC World）；「槍手在約旦教堂開槍，造成至少七人死亡」（《紐約時報世界》）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限媒體名稱）：BBC World、NYT World"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "NYT World",
+        "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 14,
+      "outletReputation": 20,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "international",
+      "live-ingest",
+      "bbc-world",
+      "nyt-world"
+    ]
+  },
+  {
+    "id": "live-entertainment-01-hailee-steinfeld-will-ha",
+    "category": "entertainment",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-entertainment-01-hailee-steinfeld-will-ha.jpg",
+    "imageAlt": {
+      "en": "Cover related to: Hailee Steinfeld Will Have a Hold on You in ‘Magic’ Cover of The Cars for ‘Hexed’ Movie: Listen",
+      "zh-TW": "相關封面圖：海莉·斯坦菲爾德 (Hailee Steinfeld) 將在《Hexed》電影《汽車總動員》的“Magic”封面中抓住你：聽著"
+    },
+    "publishedAt": "2026-10-23T21:59:36.000Z",
+    "title": {
+      "en": "Hailee Steinfeld Will Have a Hold on You in ‘Magic’ Cover of The Cars for ‘Hexed’ Movie: Listen",
+      "zh-TW": "海莉·斯坦菲爾德 (Hailee Steinfeld) 將在《Hexed》電影《汽車總動員》的“Magic”封面中抓住你：聽著"
+    },
+    "summary": {
+      "en": "Hailee Steinfeld is bringing a little extra magic to her role in Disney&#8217;s new animated feature Hexed , contributing an enchanting cover of a hit by The Cars in addition to leading the voice cast. Released Friday…",
+      "zh-TW": "海莉史坦菲爾德 (Hailee Steinfeld) 為迪士尼新動畫長片《魔咒》(Hexed) 中的角色增添了一點額外的魔力，除了擔任配音演員外，她還為汽車總動員 (The Cars) 的熱門歌曲翻唱了迷人的封面。週五發布..."
+    },
+    "body": {
+      "en": "Hailee Steinfeld is bringing a little extra magic to her role in Disney&#8217;s new animated feature Hexed , contributing an enchanting cover of a hit by The Cars in addition to leading the voice cast. Released Friday (Oct. 23) ahead of the movie&#8217;s theatrical premiere Nov. What happened\nHailee Steinfeld Will Have a Hold on You in ‘Magic’ Cover of The Cars for ‘Hexed’ Movie: Listen. Hailee Steinfeld is bringing a little extra magic to her role in Disney&#8217;s new animated feature Hexed , contributing an enchanting cover of a hit by The Cars in addition to leading the voice cast. Released Friday (Oct. 23) ahead of the movie&#8217;s theatrical premiere Nov. 25, the singer/actress&#8217; version of &#8220;Magic&#8221; keeps all of the 1980s flair of The Cars&#8217; original re Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (Billboard) in the entertainment category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): Billboard",
+      "zh-TW": "海莉史坦菲爾德 (Hailee Steinfeld) 為迪士尼新動畫長片《魔咒》(Hexed) 中的角色增添了一點額外的魔力，除了擔任配音演員外，她還為汽車總動員 (The Cars) 的熱門歌曲翻唱了迷人的封面。週五（10 月 23 日）在電影 11 月 11 日院線首映之前上映。 發生了什麼事\n海莉·斯坦菲爾德 (Hailee Steinfeld) 將在電影《Hexed》《汽車總動員》的《Magic》封面中抓住你：聽。海莉史坦菲爾德 (Hailee Steinfeld) 為迪士尼新動畫長片《魔咒》(Hexed) 中的角色增添了一點額外的魔力，除了擔任配音演員外，她還為汽車總動員 (The Cars) 的熱門歌曲翻唱了迷人的封面。這位歌手兼女演員的版本“Magic”於週五（10 月 23 日）在電影 11 月 25 日院線首映之前上映，保留了《汽車總動員》原版的所有 20 世紀 80 年代風格。 為什麼這很重要\n此集群由娛樂類別中 1 個管道（廣告看板）的 1 個提要項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n目前是單出口飼料項目；隨著其他列入允許名單的消息來源報導這個故事，佐證可能會增加。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限商店名稱）：Billboard"
+    },
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://www.billboard.com/music/music-news/hailee-steinfeld-magic-the-cars-cover-hexed-movie-listen-1236367434/"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 53,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 16,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "entertainment",
+      "live-ingest",
+      "billboard"
+    ]
+  },
+  {
+    "id": "live-us-01-dni-warned-rubio-of-adva",
+    "category": "us",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": true,
+    "imageUrl": "/covers/live/live-us-01-dni-warned-rubio-of-adva.jpg",
+    "imageAlt": {
+      "en": "Cover related to: DNI warned Rubio of 'advanced' Iranian efforts to target US personnel, memo shows",
+      "zh-TW": "相關封面圖：備忘錄顯示，國家情報總監警告盧比奧，伊朗針對美國人員的「高級」行動"
+    },
+    "publishedAt": "2026-10-24T03:24:37.000Z",
+    "title": {
+      "en": "DNI warned Rubio of 'advanced' Iranian efforts to target US personnel, memo shows",
+      "zh-TW": "備忘錄顯示，國家情報總監警告盧比奧，伊朗針對美國人員的「高級」行動"
+    },
+    "summary": {
+      "en": "Iranian plots to target and kill U.S. officials in the Middle East have \"substantially increased,\" according to a declassified intelligence memo dated Friday, with these efforts reportedly reaching \"advanced stages.\" …",
+      "zh-TW": "根據週五的一份解密情報備忘錄，伊朗在中東針對和殺害美國官員的陰謀“大幅增加”，據報道這些行動已達到“高級階段”。 ……"
+    },
+    "body": {
+      "en": "Iranian plots to target and kill U.S. officials in the Middle East have \"substantially increased,\" according to a declassified intelligence memo dated Friday, with these efforts reportedly reaching \"advanced stages.\" The warning, addressed to Secretary of State Marco Rubio from D What happened\nDNI warned Rubio of 'advanced' Iranian efforts to target US personnel, memo shows. Iranian plots to target and kill U.S. officials in the Middle East have \"substantially increased,\" according to a declassified intelligence memo dated Friday, with these efforts reportedly reaching \"advanced stages.\" The warning, addressed to Secretary of State Marco Rubio from Director of National Intelligence Jay Clayton, came days after the State Department ordered the departure... U.S. intelligence finds Iran has \"substantially increased\" its efforts to target American diplomats and officials in the Middle East and beyond, with lethal plots reaching \"advanced stages,\" according to an Oct. 23 memo to Secretary of State Marco Rubio obtained by Axios. Why it matters: U.S. officials say the intelligence is one reason the State Department is drawing down personnel at several Ame Why it matters\nThis cluster was assembled from 2 feed item(s) across 2 outlet(s) (The Hill, Axios) in the us category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nMultiple outlets are covering closely related headlines: \"DNI warned Rubio of 'advanced' Iranian efforts to target US personnel, memo shows\" (The Hill); \"Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad\" (Axios).\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): The Hill, Axios",
+      "zh-TW": "根據週五的一份解密情報備忘錄，伊朗在中東針對和殺害美國官員的陰謀“大幅增加”，據報道這些行動已達到“高級階段”。該警告是從 D 發給國務卿馬可·盧比奧的 發生了什麼事\n備忘錄顯示，國家情報總監警告盧比奧，伊朗針對美國人員的「先進」行動。根據週五的一份解密情報備忘錄，伊朗在中東針對和殺害美國官員的陰謀“大幅增加”，據報道這些行動已達到“高級階段”。國家情報總監傑伊·克萊頓(Jay Clayton)向國務卿馬可·盧比奧(Marco Rubio)發出的警告是在國務院下令撤離幾天后發出的。根據Axios獲得的10月23日給國務卿馬可·盧比奧的一份備忘錄，美國情報機構發現伊朗「大幅增加」了針對美國在中東及其他地區的外交官和官員的力度，致命陰謀已達到「高級階段」。為何重要：美國官員表示，該情報是國務院在幾個美國機構裁減人員的原因之一 為什麼這很重要\n此集群由美國類別中 2 個銷售點（The Hill、Axios）的 2 個飼料項目組裝而成。 Axiom 連結到每個出版商；該摘要僅重述標題和簡短的提要描述，而不是完整的文章。 消息來源同意/不同意\n多家媒體報導了密切相關的頭條新聞：「備忘錄顯示，國家情報總監警告盧比奧，伊朗針對美國人員的『先進』行動」（The Hill）；「獨家新聞：美國情報備忘錄警告伊朗「高級」陰謀殺害海外官員」（Axios）。\n在簡短的 Feed 片段中未偵測到明顯的數字/名稱衝突；始終驗證發布者頁面上的詳細資訊。 仍不確定\n摘要描述可以省略上下文、更新或更正。點擊連結的管道以獲取最新的完整報告。信任分數是啟發式的，而不是事實檢定的保證。 連結來源（僅限商店名稱）：The Hill、Axios"
+    },
+    "sources": [
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/policy/international/6169784-clayton-warns-rubio-iran-threats/"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 55,
+    "trustBreakdown": {
+      "sourceDiversity": 13,
+      "outletReputation": 10,
+      "crossCorroboration": 14,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "us",
+      "live-ingest",
+      "the-hill",
+      "axios"
+    ]
+  },
+  {
+    "id": "live-taiwan-02-6-9",
+    "category": "taiwan",
+    "adult": false,
+    "isHeadline": false,
+    "isPopular": false,
+    "imageUrl": "/covers/live/live-taiwan-02-6-9.jpg",
+    "imageAlt": {
+      "en": "Cover related to: 萬那杜地震規模下修至6.9　海嘯警報解除",
+      "zh-TW": "相關封面圖：萬那杜地震規模下修至6.9　海嘯警報解除"
+    },
+    "publishedAt": "2026-10-24T04:58:54.000Z",
+    "title": {
+      "en": "萬那杜地震規模下修至6.9　海嘯警報解除",
+      "zh-TW": "萬那杜地震規模下修至6.9　海嘯警報解除"
+    },
+    "summary": {
+      "en": "（中央社雪梨24日綜合外電報導）太平洋海嘯警報中心（Pacific Tsunami Warning Center）表示，萬那杜外海今天發生規模6.9地震，稍早發布的海嘯警報已經解除。",
+      "zh-TW": "（中央社雪梨24日綜合外電報導）太平洋海嘯警報中心（Pacific Tsunami Warning Center）表示，萬那杜外海今天發生規模6.9地震，稍早發布的海嘯警報已經解除。"
+    },
+    "body": {
+      "en": "（中央社雪梨24日綜合外電報導）太平洋海嘯警報中心（Pacific Tsunami Warning Center）表示，萬那杜外海今天發生規模6.9地震，稍早發布的海嘯警報已經解除。 What happened\n萬那杜地震規模下修至6.9　海嘯警報解除. （中央社雪梨24日綜合外電報導）太平洋海嘯警報中心（Pacific Tsunami Warning Center）表示，萬那杜外海今天發生規模6.9地震，稍早發布的海嘯警報已經解除。 Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (中央社-國際) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 中央社-國際 Additional feed context\n(1) （中央社雪梨24日綜合外電報導）太平洋海嘯警報中心（Pacific Tsunami Warning Center）表示，萬那杜外海今天發生規模6.9地震，稍早發布的海嘯警報已經解除。",
+      "zh-TW": "（中央社雪梨24日綜合外電報導）太平洋海嘯警報中心（Pacific Tsunami Warning Center）表示，萬那杜外海今天發生規模6.9地震，稍早發布的海嘯警報已經解除。 What happened\n萬那杜地震規模下修至6.9　海嘯警報解除. （中央社雪梨24日綜合外電報導）太平洋海嘯警報中心（Pacific Tsunami Warning Center）表示，萬那杜外海今天發生規模6.9地震，稍早發布的海嘯警報已經解除。 Why it matters\nThis cluster was assembled from 1 feed item(s) across 1 outlet(s) (中央社-國際) in the taiwan category. Axiom links out to each publisher; this digest only restates titles and short feed descriptions — not full articles. Sources agree / disagree\nCurrently a single-outlet feed item; corroboration may rise as other allow-listed sources pick up the story.\nNo clear numeric/name conflicts detected in the short feed snippets; always verify details on the publisher pages. Still uncertain\nFeed descriptions can omit context, updates, or corrections. Click through to the linked outlets for the latest full reporting. Trust scores are heuristics, not fact-check guarantees. Linked sources (outlet names only): 中央社-國際 Additional feed context\n(1) （中央社雪梨24日綜合外電報導）太平洋海嘯警報中心（Pacific Tsunami Warning Center）表示，萬那杜外海今天發生規模6.9地震，稍早發布的海嘯警報已經解除。"
+    },
+    "sources": [
+      {
+        "name": "中央社-國際",
+        "url": "https://www.cna.com.tw/news/aopl/202610240078.aspx"
+      }
+    ],
+    "disagreements": null,
+    "trustScore": 59,
+    "trustBreakdown": {
+      "sourceDiversity": 6,
+      "outletReputation": 22,
+      "crossCorroboration": 6,
+      "recencyClarity": 25
+    },
+    "tags": [
+      "taiwan",
+      "live-ingest",
+      "中央社-國際"
+    ]
   }
 ]
